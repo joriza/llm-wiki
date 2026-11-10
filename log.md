@@ -28,3 +28,15 @@ Registro cronológico de solo adición.
 ## [2026-11-10] nota | origen de las ingestas 2 y 3
 
 - Las dos fuentes anteriores se ingirieron a partir del archivo raw/para-ingesta.txt (lista de dos URLs aportada por el usuario). El archivo se conserva en raw/ sin modificar.
+
+## [2026-11-10] ingesta | Entrevista a Gary Marcus (Gustavo Entrala)
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=0a7tFu6Gq0M — Gustavo Entrala, publicado 2026-11-07 (62:52).
+- Raw: raw/general/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md (transcripción de subtítulos automáticos es con marcas de tiempo + descripción original; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-entrevista-gary-marcus-gustavo-entrala (resumen de fuente), limites-de-los-llm (concepto), burbuja-de-la-ia (concepto), ia-y-sociedad (concepto), gary-marcus (entidad persona), gustavo-entrala (entidad persona/canal).
+- Nota: la transcripción automática contiene errores de reconocimiento de nombres propios; las citas de la wiki se tomaron de las secciones legibles del raw y los nombres dudosos se omitieron o se marcaron como transcripción literal.
+
+## [2026-11-10] pendiente | reordenación de dominios propuesta
+
+- Con 3 fuentes de clima/océano (Coordenada Crítica) y 3 de inteligencia artificial, la creación de dominios propios (p. ej. ciencias-tierra/ e inteligencia-artificial/) requiere confirmación del usuario conforme al procedimiento; queda pendiente de propuesta aceptada.
