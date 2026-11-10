@@ -28,3 +28,4 @@ Memoria Crítica, dedicado a «las catástrofes que no olvidamos» (descripción
 ## Fuentes procesadas en la wiki de esta entidad
 
 - [[resumen-colapso-amoc-coordenada-critica]] (2026-10-19, sobre la [[amoc]]).
+- [[resumen-super-el-nino-1877-coordenada-critica]] (2026-10-21, sobre el súper El Niño de 2026 y la [[hambruna-global-de-1877]]).

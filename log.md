@@ -8,3 +8,11 @@ Registro cronológico de solo adición.
 - Fuente: https://www.youtube.com/watch?v=dF-9NaUot70 — Coordenada Crítica, publicado 2026-10-19 (23:10).
 - Raw: raw/general/2026-10-19-colapso-amoc-coordenada-critica.md (transcripción de subtítulos manuales es-ES con marcas de tiempo + descripción original del vídeo).
 - Páginas creadas: resumen-colapso-amoc-coordenada-critica (resumen de fuente), amoc (página de concepto), coordenada-critica (página de entidad).
+
+## [2026-11-10] ingesta | El Súper El Niño Ya Iguala al de 1877 — Esto Es lo que Pasó Entonces
+
+- Disposición: Nueva; Actualización de coordenada-critica (nueva fuente procesada).
+- Fuente: https://www.youtube.com/watch?v=uDBXpyhokfI — Coordenada Crítica, publicado 2026-10-21 (21:52).
+- Raw: raw/general/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md (transcripción de subtítulos manuales es-ES con marcas de tiempo + descripción original del vídeo).
+- Páginas creadas: resumen-super-el-nino-1877-coordenada-critica (resumen de fuente), el-nino (página de concepto), hambruna-global-de-1877 (página de concepto).
+- Updated: coordenada-critica (nueva fuente procesada).
