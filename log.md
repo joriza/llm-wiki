@@ -16,3 +16,15 @@ Registro cronológico de solo adición.
 - Raw: raw/general/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md (transcripción de subtítulos manuales es-ES con marcas de tiempo + descripción original del vídeo).
 - Páginas creadas: resumen-super-el-nino-1877-coordenada-critica (resumen de fuente), el-nino (página de concepto), hambruna-global-de-1877 (página de concepto).
 - Updated: coordenada-critica (nueva fuente procesada).
+
+## [2026-11-10] ingesta | Lo que Viene Después del Súper El Niño Es Peor
+
+- Disposición: Nueva; Actualización de el-nino (mecánica del apagado, La Niña, calor diferido, huracanes, dengue, precios, corales) y de coordenada-critica.
+- Fuente: https://www.youtube.com/watch?v=bH7JU4ctpu8 — Coordenada Crítica, publicado 2026-10-23 (18:15).
+- Raw: raw/general/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md (transcripción de subtítulos manuales es-ES con marcas de tiempo + descripción original del vídeo).
+- Páginas creadas: resumen-lo-que-viene-despues-del-super-el-nino-coordenada-critica (resumen de fuente).
+- Updated: el-nino (nueva sección «Qué pasa después de un El Niño» y fuentes ampliadas), coordenada-critica (nueva fuente procesada).
+
+## [2026-11-10] nota | origen de las ingestas 2 y 3
+
+- Las dos fuentes anteriores se ingirieron a partir del archivo raw/para-ingesta.txt (lista de dos URLs aportada por el usuario). El archivo se conserva en raw/ sin modificar.
