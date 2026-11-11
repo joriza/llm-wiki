@@ -300,3 +300,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-12-11-ia-china-reventar-todo-alejavi-rivera.md (transcripción de subtítulos manuales es-ES con marcas de tiempo).
 - Páginas creadas: resumen-ia-china-reventar-todo-alejavi-rivera (resumen de fuente).
 - Nota: fuente 14/57 de la playlist; tour de plataformas chinas con 11 casos (Z.ai/GLM 4.6V, Manus, Kimi OK Computer, DeepSeek OCR, Qwen, MiniMax, Kling O1). Patrocinio Hostinger registrado como tal. Mismo canal que la fuente 11/57; solapa GLM 4.6 con la 12/57: consolidación conjunta pendiente.
+
+## [2026-11-10] ingesta | La IA le borró TODO el disco duro
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=2CMbqUSPzjs — Hdeleon Clips, publicado 2025-12-16 (05:32).
+- Raw: raw/inteligencia-artificial/2025-12-16-ia-le-borro-todo-el-disco-duro-hdeleon-clips.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-ia-le-borro-todo-el-disco-duro-hdeleon-clips (resumen de fuente).
+- Nota: fuente 15/57 de la playlist; comentario del caso Google Antigravity (noticia sin fuente primaria en el raw) con protocolo de seguridad del canal. Duodécimo canal nuevo del lote (Hdeleon Clips), entidad aplazada.
