@@ -1,11 +1,11 @@
 # UNKNOWN
 
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=yucBRF3lSaQ)
-- **Canal**: UNKNOWN
-- **Publicado**: UNKNOWN
+- **Canal**: CodeSimple
+- **Publicado**: 2026-09-23
 - **Recopilado**: 2026-11-11
 - **Idioma**: español (subtítulos automáticos es (yt-dlp) (yt-dlp, auto), transcripción literal)
-- **Duración**: 00:00
+- **Duración**: 06:00
 
 > Transcripción a partir de los subtítulos automáticos del vídeo, sin normalizar; puede contener errores de reconocimiento. Las marcas de tiempo indican el inicio aproximado de cada bloque.
 
