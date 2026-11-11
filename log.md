@@ -268,3 +268,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2024-09-08-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente (resumen de fuente).
 - Nota: fuente 10/57 de la playlist; guía de acceso gratuito a FLUX (Pro/Dev/Schnell) con Glif + optimización de prompts. La primera plataforma usada queda transcrito como «cart» sin identificación segura: pendiente en consolidación. Octavo canal nuevo del lote (Creador Inteligente), entidad aplazada.
+
+## [2026-11-10] ingesta | Como Midjourney pero… GRATIS, MEJOR y SIN Censura — FLUX.1
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=223beR6eoAw — Alejavi Rivera, publicado 2024-08-18 (16:18).
+- Raw: raw/inteligencia-artificial/2024-08-18-como-midjourney-gratis-mejor-sin-censura-flux1-alejavi-rivera.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-como-midjourney-gratis-mejor-sin-censura-flux1-alejavi-rivera (resumen de fuente).
+- Nota: fuente 11/57 de la playlist; superpone temas con 10/57 (Glif/HF) y 9/57 (inpainting): consolidación conjunta pendiente. Contenido sensible (demo sin censura difuminada) registrado como contenido de la fuente. Noveno canal nuevo del lote (Alejavi Rivera), entidad aplazada.
