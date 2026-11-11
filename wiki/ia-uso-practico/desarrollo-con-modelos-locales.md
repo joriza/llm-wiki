@@ -3,7 +3,7 @@
 - **Tipo**: página de concepto.
 - **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11 (fuente 3/58 del lote ia-local).
-- **Fuentes**: [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]].
+- **Fuentes**: [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] · [[resumen-desarrollo-con-modelos-ia-muy-pequenos-como-programar-con-gema-4-e2b-y-qwen-3-5-]] (fuente 17 — la prueba agéntica).
 
 ## El criterio rector: encaje 100 % en GPU
 
@@ -31,3 +31,14 @@ El modelo a elegir no es «el más inteligente» sino **el más grande que quepa
 ## Cruces en la wiki
 
 Motor y comando: [[llama-cpp]] · el stack de producto con clientes de pago: [[micro-saas-con-python]] · la filosofía de API gratuita/local: [[agregacion-apis]] · la tesis compartida del dominio: «la IA es copiloto y genera bien solo cuando vos sabés qué pedirle y cómo verificarlo».
+
+## Hallazgos agénticos con modelos 2B (fuente 17)
+
+La prueba agéntica real en OpenCode (landing con Bootstrap, ambos modelos 2B en Q4/131k) confirmó el patrón con matices nuevos:
+
+- **Lo que sí**: generación completa de proyectos multi-archivo a 150-170 tok/s dentro del contexto grande del agente; uso correcto de herramientas; diagnóstico colaborativo multi-modelo (Gemma analiza el bug, Qwen confirma y corrige — ambos acertaron a la primera).
+- **El gap de conocimiento** (no de habilidad): los 2B no recuerdan bien Bootstrap actual (iconos inexistentes, imágenes fantasma) → **MCP Context 7** como remedio directo: «ayuda a cualquier modelo, ningún modelo sabe lo actual».
+- **Los contextos largos degradan la edición**: varias correcciones fallaron editando archivos/clases equivocadas o «diciendo que lo hicieron» sin cambiar nada; la que funcionó se logró en **conversación nueva** (contexto limpio).
+- **Soluciones globales vs parches**: los modelos chicos tienden a corregir elemento por elemento; el humano pide la solución global (todos los elementos con ese fondo → texto claro) porque parchear uno a uno «no tiene sentido».
+- **Truco de visión vía herramienta**: un modelo que «no puede ver imágenes» logró hacerlo leyendo la ruta con la herramienta `read` — la capacidad puede estar detrás de una herramienta.
+- **Verificar tras cada cambio**: «dijo que lo hizo correctamente y no cambió nada» es normal — o el humano verifica, o se le da Playwright para auto-verificarse.
