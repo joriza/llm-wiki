@@ -531,3 +531,7 @@ Registro cronológico de solo adición.
 ## [2026-11-11] ingesta | Deja de perder tiempo configurando agentes de IA en cada ordenador
 
 - Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=Jctradr7k-Q — Fazt, 2026-08-22 (15:05). Raw: raw/inteligencia-artificial/2026-08-22-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador.md (subtítulos automáticos, literal). Página creada: resumen-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador-fazt. Nota: fuente 47/57; dotfiles + symlink para skills/config de agentes entre máquinas; carpeta .agents como formato compartido entre herramientas; chezmoi/GNU Stow/YADM/dotbot/Nix. Patrocinio Brevo excluido. Fuente introductoria. Estado del lote: 47/57 con resumen, 10 pendientes.
+
+## [2026-11-11] ingesta | Marcas de agua invisibles en la IA 2026: qué son y cómo evitarlas
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=HGWozEps8L8 — Alan Daitch, 2026-08-20 (06:41). Raw: raw/inteligencia-artificial/2026-08-20-marcas-de-agua-invisibles-en-la-ia-2026-que-son-y-como-evitarlas.md (ASR faster-whisper small; subtítulos bloqueados por IP). Página creada: resumen-marcas-de-agua-invisibles-en-la-ia-2026-alan-daitch. Nota: fuente 48/57; SynthID/antrópico watermarking estadístico, artículo 50 UE, cinco agujeros críticos (paráfrasis la elimina; API de detección explotable en bucle). Estado del lote: 48/57 con resumen, 9 pendientes.
