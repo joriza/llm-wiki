@@ -919,3 +919,10 @@ Registro cronológico de solo adición.
 - Procesada bajo instrucción del usuario («procese solo 1 fuente mas») — descargas siguen detenidas, runner no relanzado. Estado del lote: 25/58.
 - Entidad nichonauta re-sincronizada de paso: conteo real corregido a 20 fuentes del canal (verificado por grep sobre resúmenes; la página quedó congelada en 8 desde la fuente 14 del lote) y enlaces faltantes agregados.
 - En scratch sin procesar (2 raws): tanYJCxZJr0 («Inteligencia Ilimitada con Atomic AI» — el deep-dive que cierra el teaser de esta fuente; amplía [[proxy-atomico]]) y 2EAtjJbnEVk («827 — No necesitas una GPU de 3000€ para IA Local», atareao; amplía [[hardware-para-ia-local]]). Pendientes de descargar: entradas 31-58 (~28) + la 54 UNKNOWN.
+
+## [2026-11-11] ingesta | lote ia-local — fuente 26/58 (pizza: «procese solo 1 fuente mas»)
+
+- Fuente 26/58: Inteligencia Ilimitada con Atomic AI — cómo POTENCIAR Modelos de IA Pequeños (deep-dive de instalación y uso del proxy; repositorio `github.com/nichonauta/atomicai`, flujo con entorno virtual + `.env` + `run.bat`; escucha en puerto 8000 estilo OpenAI; caso real: diapositivas HTML → «mejora al máximo… paso a paso» con profundidad 1 ya da notable mejora; gotcha: cambiar la profundidad requiere reiniciar el servidor; teaser: tokens ×6+ vía Speculative Decoding y N-Gram) — raw raw/ia-uso-practico/2026-08-18-inteligencia-ilimitada-con-atomic-ai-como-potenciar-modelos-de-ia-pequenos.md — resumen wiki/ia-uso-practico/resumen-inteligencia-ilimitada-con-atomic-ai-como-potenciar-modelos-de-ia-pequenos.md
+- Procesada bajo instrucción del usuario («procese solo 1 fuente mas») — descargas siguen detenidas, runner no relanzado. Estado del lote: 26/58.
+- Entidad [[proxy-atomico]] ampliada con la instalación real y la conexión desde [[deepseek-harness]] como proveedor personalizado (cierra el teaser de la fuente 25). Entidad nichonauta re-sincronizada a 21 fuentes.
+- En scratch sin procesar (1 raw): 2EAtjJbnEVk («827 — No necesitas una GPU de 3000€ para IA Local», atareao; amplía [[hardware-para-ia-local]]). Pendientes de descargar: entradas 31-58 (~28) + la 54 UNKNOWN.
