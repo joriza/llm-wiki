@@ -31,6 +31,14 @@ Los modelos van en **GGUF** (Hugging Face), que aporta: **cuantización** (16→
 - **MoE que no cabe**: `--n-cpu-moe N` mueve los expertos de N capas a CPU (Qwen 3.6 35B-A3B: 35B totales / 3B activos por token → usable en CPU, ~26 tok/s vs 70-100 tok/s del 4B).
 - **Sampling**: parámetros recomendados por el equipo de Qwen para uso agéntico en 3.5/3.6.
 
+## Aritmética de encaje modelo↔hardware (fuente 11)
+
+- **Parámetros × 2 = GB a 16 bits** (precisión de entrenamiento); ÷2 a 8 bits; ÷4 a 4 bits. Ejemplos: Qwen 9B → 18 → 9 → 4,5 GB; Gemma 12B → 24 → 12 → 6 GB.
+- **Regla de elección**: el más grande de la colección que quepa, mínimo a 4 bits (<4 bits ya pierde calidad seria). A igual memoria, prefiera el modelo más grande a menos bits (9B@4b rinde más que 4B@8b).
+- **Colecciones**: Qwen 3.6 solo tiene 27B y 35B-A3B — los tamaños chicos (0.8B-9B) solo existen en la 3.5, que sigue vigente.
+- **Cadena de optimización del caso Gemma 4 12B** (RTX 3060 12 GB): base QAT + cuantización dinámica Unsloth (UD: mayormente 4 bits con partes a 8/16; 6,3 GB reales; «99,9 % de calidad pesando una cuarta parte») + mmproj de visión de solo 175 MB + **borrador MTP aparte en Q4** (contraintuición medida: el borrador en Q4 da más velocidad real que en precisión mayor — pesar ¼ importa más que adivinar un poco mejor; aceleración hasta ×3) + **KV cache q8_0 (TurboQuant)** para llevar el contexto al máximo (262.144) a mitad de memoria. Resultado: 10,9 GB de 12 — **regla: dejar ~1 GB libre** por los picos de un segundo. Hasta 110 tok/s generando código.
+- Gemma 4 12B vs Qwen 3.5 9B en ese hardware: misma VRAM en ejecución (la KV del Qwen pide más) e inteligencia «a la par» — ambas válidas; el Gemma con MTP «tiene la velocidad de un modelo de un tercio de su tamaño con inteligencia de 12B».
+
 Depuración de `.bat` que se cierra solo: ejecutarlo desde una consola `cmd` abierta para ver el error.
 
 ## Anti-bucles: parámetros DRY (fuente 9)

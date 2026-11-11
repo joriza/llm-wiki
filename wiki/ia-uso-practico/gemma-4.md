@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (modelo).
 - **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11 (fuente 5/58 del lote ia-local — REVISA el veredicto de la fuente 3, ver «Actualización»).
-- **Fuentes**: [[resumen-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad]] · [[resumen-gemma-4-e2b-el-modelo-de-ia-mas-eficiente-para-redaccion-en-espanol]] (fuente 10 — el E2B en detalle) · mencionada en [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] (fuente 3) y en [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]].
+- **Fuentes**: [[resumen-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad]] · [[resumen-gemma-4-e2b-el-modelo-de-ia-mas-eficiente-para-redaccion-en-espanol]] (fuente 10 — el E2B en detalle) · [[resumen-configurar-modelos-de-ia-con-maximo-rendimiento-tutorial-en-llama-cpp]] (fuente 11 — el 12B QAT como caso de encaje) · mencionada en [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] (fuente 3) y en [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]].
 
 **Gemma 4** es la familia de modelos abiertos de **Google**, en variantes 12B, 26B, 31B, E2B y E4B (además de la 12B base, con versión **QAT** — *quantization-aware training* — que mantiene ~99 % de calidad a 4 bits).
 

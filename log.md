@@ -871,3 +871,6 @@ Registro cronológico de solo adición.
 - **sintesis.md**: hilo 9 agregado; pendientes actualizados (ia-local en curso 10/58).
 - **protocolo-ingesta-youtube.md**: estado al pausar del lote ia-local con reanudación (48 por descargar + 2 META FAIL re-pass + 1 UNKNOWN; páginas existentes a cablear).
 - **Push a origin/master** y cierre de sesión a pedido del usuario.
+- SKIP definitivos por contenido exclusivo de miembros (Nivel 2 del canal — verificado con yt-dlp el 2026-11-11): 4nsHGYJgm94 («Crear tu propio ChatGPT con P-Agent») y v_XTwngbUc8 («Proxy Atómico»). Eran los 2 META FAIL del lote — NO son re-pass, son inaccesibles sin membresía. Marcadores .metafail creados.
+- Fuente 11/58: Configurar Modelos de IA con Máximo RENDIMIENTO — Tutorial en llama.cpp (guía madre de encaje modelo↔hardware; consolidada en llama-cpp y gemma-4) — raw raw/ia-uso-practico/2026-08-12-configurar-modelos-de-ia-con-maximo-rendimiento-tutorial-en-llama-cpp.md — resumen wiki/ia-uso-practico/resumen-configurar-modelos-de-ia-con-maximo-rendimiento-tutorial-en-llama-cpp.md
+- Procesada bajo instrucción del usuario («procesa solo una fuente más») — descargas siguen detenidas. Estado del lote: 11/58.
