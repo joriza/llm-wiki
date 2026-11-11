@@ -51,4 +51,4 @@ El cansancio contemporáneo no es un exceso puntual sino un cansancio «atmosfé
 - Transcripción automática en español con errores que el raw conserva literales («Bunung Shulhan» por Byung-Chul Han, «Foucoult», «sístoma», «cooersión»). Este resumen los normaliza.
 - El vídeo tiene un bloque de publicidad (Cyberghost VPN) entre [02:17] y [04:11], transcribido en el raw y excluido de la síntesis.
 - Incluye asides políticos locales (Argentina: ajuste, jubilados, elecciones) que el canal usa como ejemplos de la «economía de lo sensible»; se conservan en el recorrido por ser parte del argumento.
-- Tercera fuente del mismo canal en este lote; futura consolidación conjunta de la página de entidad y de los conceptos transversales (dispositivo, sociedad del cansancio) con las fuentes 1/11 y 2/11.
+- Tercera fuente del mismo canal en este lote; futura consolidación conjunta de la página de entidad y de los conceptos transversales (dispositivo, sociedad del cansancio) con las fuentes 1/11 ([[resumen-del-panoptico-al-scroll-infinito-cafe-kyoto]]) y 2/11 ([[resumen-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto]]).

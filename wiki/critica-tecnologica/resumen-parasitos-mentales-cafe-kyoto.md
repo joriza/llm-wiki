@@ -50,4 +50,4 @@
 
 - Transcripción automática en español con errores que el raw conserva literales («Carl Schmidh», «Yoshuan» por Byung-Chul Han, «Mley/Kage/AGE» por Milei/Laje, «malmenorismo», «dimisión» por dimensión, «defica»). Este resumen normaliza los nombres seguros.
 - Ensayo de crítica política argentina y latinoamericana contemporánea; las caracterizaciones de Milei, Kaiser y Laje son del autor del vídeo y se registran aquí como contenido de la fuente.
-- Quinta fuente del mismo canal en este lote; comparte el marco teórico (Han) con las fuentes 3/11 y 4/11.
+- Quinta fuente del mismo canal en este lote; comparte el marco teórico (Han) con las fuentes 3/11 ([[resumen-estafa-moral-meritocracia-cafe-kyoto]]) y 4/11 ([[resumen-que-le-pasa-a-nuestra-generacion-cafe-kyoto]]).

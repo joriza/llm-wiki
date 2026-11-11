@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-08-04-25-algorithms-simply-explained-in-40-minutes.md` (inglés, subtítulos automáticos, literal) — https://www.youtube.com/watch?v=AU9tsGVnmvM — Codist, 2026-08-03 (40:06).
-- **Nota**: fuente 3/10 del lote informatica-teoria (worker 1); secuela del vídeo de estructuras de datos del mismo canal. Consolidación (2026-11-11): sin páginas asociadas todavía (canal con 3 fuentes; entidad aplazada hasta más fuentes).
+- **Nota**: fuente 3/10 del lote informatica-teoria (worker 1); secuela del vídeo de [[resumen-every-data-structure-simply-explained-in-25-minutes-codist|estructuras de datos]] del mismo canal. Consolidación (2026-11-11): sin páginas asociadas todavía (canal con 3 fuentes; entidad aplazada hasta más fuentes).
 
 ## Búsqueda: binaria vs. lineal
 
@@ -74,4 +74,4 @@ Un SQL inocente («usuario por email + sus órdenes + últimas compras») escond
 - Fecha: los metadatos del raw dicen «Publicado: 2026-08-03» pero el nombre del archivo usa 2026-08-04; se tomó la fecha de los metadatos.
 - Garbiñeos corregidos: «naive base» = Naive Bayes; «protobu» = protobuf; «birectional» = bidirectional.
 - Patrocinio: boot.dev (curso de backend, código CODEDEST 25% off) — excluido de la síntesis; insertado entre sliding window y recursión.
-- Autopromoción: referencia al vídeo propio de estructuras de datos — no listada como patrocinio; considerada parte del contenido.
+- Autopromoción: referencia al vídeo propio de [[resumen-every-data-structure-simply-explained-in-25-minutes-codist|estructuras de datos]] — no listada como patrocinio; considerada parte del contenido.

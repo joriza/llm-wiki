@@ -42,7 +42,7 @@ Como todo lo anterior actúa dentro de la llamada (la petición ya está formada
 
 ## Cruces y observaciones
 
-- [[SpecJudge]] ya documentada en la fuente 44/57; aquí el propio autor la presenta como desarrollo propio del canal y la integra como paso práctico de ahorro de tokens.
+- [[resumen-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge-joaquin-ruiz|SpecJudge]] ya documentada en la fuente 44/57; aquí el propio autor la presenta como desarrollo propio del canal y la integra como paso práctico de ahorro de tokens.
 - El principio «los modelos no tienen memoria / input reutilizado» es la base técnica del consejo de handoff por fichero, que coincide con la práctica de ficheros de traspaso que aparece en otras fuentes del lote ([[agentes-de-codigo]]).
 - Autopromoción recurrente del canal: libro «El motor de la inteligencia artificial» [03:10-03:45], libro «Del vibe coding al Spec driven development» [05:32-06:08], SpecJudge [12:14-15:18]; cierre con like/suscribirse.
 

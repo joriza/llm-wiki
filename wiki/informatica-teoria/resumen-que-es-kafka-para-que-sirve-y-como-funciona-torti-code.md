@@ -51,5 +51,5 @@ Recapitulación final: pagás, la tienda (producer) envía «pedido creado» al 
 
 - Video original en español; transcripción del raw en inglés (subtítulos automáticos traducidos, literal). Resumen en español profesional.
 - Transcripción con frases triplicadas (artefacto del ASR); normalizado en el resumen. El ASR garbiña de forma recurrente: «Cafka/KFCA» = Kafka, «Rabit MQ» = RabbitMQ, «Payton» = Python, «Amazon MAK» = Amazon MSK, «GitJab»-style errores similares.
-- Cruces temáticos con el mismo lote: tipos de API y comunicación entre servicios (fuente 2/10, Codist — webhooks como «API invertida»), colas/tareas vs. concurrencia (fuente 5/10, Torti Code — colas BullMQ/Celery como uso de Command). Décima fuente del canal Torti Code en el dominio.
+- Cruces temáticos con el mismo lote: tipos de API y comunicación entre servicios ([[resumen-every-type-of-api-simply-explained-in-9-minutes-codist]], Codist — webhooks como «API invertida»), colas/tareas vs. concurrencia ([[resumen-concurrencia-vs-paralelismo-explicado-como-debieron-ensenartelo-torti-code]], Torti Code — colas BullMQ/Celery como uso de Command). Décima fuente del canal Torti Code en el dominio.
 - Autopromoción (tarjeta al video de system design del canal) excluida de la síntesis. Sin patrocinios externos.

@@ -46,5 +46,5 @@ Un agente (Codex, Claude, Copilot) lee el repositorio, escribe código, corre te
 
 - Video original en español; transcripción del raw en inglés (subtítulos automáticos traducidos, literal). Resumen en español profesional.
 - Transcripción con frases triplicadas (artefacto del ASR); normalizado en el resumen («claud.md» = claude.md, transcrito así).
-- Cruces temáticos con el mismo lote: menciona el video de Git desde cero del propio canal (fuente 19/20) y un video del canal sobre cómo funciona un modelo de lenguaje (no en la lote); el test como barrera contra la IA conecta con la fuente de testing (6/10, mismo canal).
+- Cruces temáticos con el mismo lote: menciona el video de [[resumen-git-desde-cero-commits-ramas-merge-y-rebase-torti-code|Git desde cero]] del propio canal y un video del canal sobre cómo funciona un modelo de lenguaje (no en la lote); el test como barrera contra la IA conecta con la fuente de [[resumen-todo-lo-que-sabes-de-testing-esta-al-reves-torti-code|testing]] (mismo canal).
 - Autopromoción (tarjetas a otros videos del canal) excluida de la síntesis. Sin patrocinios externos.

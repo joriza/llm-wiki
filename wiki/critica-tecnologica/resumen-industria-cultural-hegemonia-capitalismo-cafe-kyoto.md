@@ -43,4 +43,4 @@ A partir de «Dialéctica de la ilustración» (Adorno y Horkheimer) y con Walte
 
 - Transcripción automática en español con errores que el raw conserva literales («hor heimer» por Horkheimer, «IB ilidad» por reproductibilidad, «jimer», «escroleable» no aparece pero sí «acto bilioso»). Este resumen los normaliza.
 - Fuente breve y didáctica (14:13), «uno de los libros de cabecera del canal» según el propio autor; útil como puerta de entrada teórica.
-- Novena fuente del mismo canal en este lote; su contenido (industria cultural) ya aparece aplicado en la fuente 6/11 (low-tech). Consolidación conjunta pendiente.
+- Novena fuente del mismo canal en este lote; su contenido (industria cultural) ya aparece aplicado en la fuente 6/11 ([[resumen-abandona-las-redes-low-tech-high-life-cafe-kyoto]], low-tech). Consolidación conjunta pendiente.

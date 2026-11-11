@@ -48,5 +48,5 @@ El abandono silencioso de las redes sociales —gente que se va «sin promesa de
 
 - Transcripción de subtítulos manuales en español (mayor fidelidad que las fuentes anteriores del lote); conserva igualmente algunas garbiñaduras del reconocedor («Juan Roco» por Ruocco, «Gert Lovnick» por Geert Lovink, «Biul Shurhan» por Byung-Chul Han, «Jimbo Drilar» por Jean Baudrillard, «Gosing the Shell», «por 100 Prismo», «cassetts», «fancines»). Este resumen las normaliza.
 - El propio autor del canal declara haberse ido de las redes: el ensayo es testimonial además de teórico.
-- Sin bloque publicitario (a diferencia de las fuentes 3/11 y 4/11).
-- Sexta fuente del mismo canal en este lote; dialoga directamente con las fuentes 1/11 (panóptico/scroll) y 4/11 (brujería contra el algoritmo): consolidación conjunta pendiente.
+- Sin bloque publicitario (a diferencia de las fuentes 3/11 ([[resumen-estafa-moral-meritocracia-cafe-kyoto]]) y 4/11 ([[resumen-que-le-pasa-a-nuestra-generacion-cafe-kyoto]])).
+- Sexta fuente del mismo canal en este lote; dialoga directamente con las fuentes 1/11 ([[resumen-del-panoptico-al-scroll-infinito-cafe-kyoto]], panóptico/scroll) y 4/11 ([[resumen-que-le-pasa-a-nuestra-generacion-cafe-kyoto]], brujería contra el algoritmo): consolidación conjunta pendiente.

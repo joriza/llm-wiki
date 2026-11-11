@@ -42,4 +42,4 @@
 
 - Transcripción automática en español con errores que el raw conserva literales («noan chomski» por Chomsky, «Michelle foucault» y «foua» por Foucault, «Luis saluser» por Louis Althusser, «haa» por hace). Este resumen los normaliza.
 - Fuente más temprana del lote (2021); formato «café cortado», más breve y didáctico.
-- Undécima y última fuente de Café Kyoto en este lote; conecta con la fuente 5/11 (fabricación de «masas») y con el eje educación/adoctrinamiento de la fuente 3/11 (pedagogías escolares en la izquierda). Consolidación conjunta pendiente.
+- Undécima y última fuente de Café Kyoto en este lote; conecta con la fuente 5/11 ([[resumen-parasitos-mentales-cafe-kyoto]], fabricación de «masas») y con el eje educación/adoctrinamiento de la fuente 3/11 ([[resumen-estafa-moral-meritocracia-cafe-kyoto]], pedagogías escolares en la izquierda). Consolidación conjunta pendiente.

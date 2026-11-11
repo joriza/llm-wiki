@@ -42,11 +42,11 @@ Hasta acá Git trabajó en la computadora de Ana; el archivo compartido de la ed
 
 ## Síntesis final
 
-Git mueve contenido entre tu archivo, el staging y una **historia de commits a la que apuntan las ramas y que se puede compartir**. Preserva versiones, pero **no garantiza que el resultado funcione** (puente al video de testing del canal). Receta: trabajo a medio hacer → stash; arreglar un commit local → reset; ya compartido → revert; luego push y review en la plataforma.
+Git mueve contenido entre tu archivo, el staging y una **historia de commits a la que apuntan las ramas y que se puede compartir**. Preserva versiones, pero **no garantiza que el resultado funcione** (puente al [[resumen-todo-lo-que-sabes-de-testing-esta-al-reves-torti-code|video de testing]] del canal). Receta: trabajo a medio hacer → stash; arreglar un commit local → reset; ya compartido → revert; luego push y review en la plataforma.
 
 ## Notas sobre la fuente
 
 - Video original en español; transcripción del raw en inglés (subtítulos automáticos traducidos, literal). Resumen en español profesional.
 - Transcripción con frases triplicadas (artefacto del ASR); normalizado en el resumen. El ASR garbiña comandos y nombres de forma recurrente («get init», «Jet», «Gitlab/GitJab» = GitLab, «Gitul» = git pull, «stashpop» = stash pop); reconstruidos por contexto.
-- Cruces temáticos con el mismo lote: documentación y pull requests (fuente 16/20, mismo canal), testing como verificación post-merge (fuente 6/10, mismo canal).
-- Autopromoción (tarjeta al video de testing del canal) excluida de la síntesis. Sin patrocinios externos.
+- Cruces temáticos con el mismo lote: documentación y pull requests ([[resumen-como-escribir-documentacion-util-y-cuando-no-hacerlo-torti-code]], mismo canal), testing como verificación post-merge ([[resumen-todo-lo-que-sabes-de-testing-esta-al-reves-torti-code]], mismo canal).
+- Autopromoción (tarjeta al [[resumen-todo-lo-que-sabes-de-testing-esta-al-reves-torti-code|video de testing]] del canal) excluida de la síntesis. Sin patrocinios externos.

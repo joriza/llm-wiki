@@ -48,5 +48,5 @@ Tres casos finales: (1) descargar una factura ya existente → verificar permiso
 
 - Video original en español; transcripción del raw en inglés (subtítulos automáticos traducidos, literal). Resumen en español profesional.
 - Transcripción con frases triplicadas (artefacto del ASR); normalizado en el resumen.
-- Cruce temático con el mismo lote: tipos de API (fuente 2/10, Codist — REST como contrato request/response) y documentación de API (fuente 16/20, Torti Code — la referencia describe qué recibe y devuelve cada operación).
+- Cruce temático con el mismo lote: tipos de API ([[resumen-every-type-of-api-simply-explained-in-9-minutes-codist]], Codist — REST como contrato request/response) y documentación de API ([[resumen-como-escribir-documentacion-util-y-cuando-no-hacerlo-torti-code]], Torti Code — la referencia describe qué recibe y devuelve cada operación).
 - Autopromoción ligera de cierre (suscribirse/compartir) excluida. Sin patrocinios externos.

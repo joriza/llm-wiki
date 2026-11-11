@@ -51,4 +51,4 @@ El malestar de la generación no es una falla emocional colectiva ni el efecto d
 - Transcripción automática en español con errores que el raw conserva literales («hipertisión», «expesticiones», «Bifo Berdardi», «promologación», «Levistros», «Roby Chid Roganovic» ilegible). Este resumen normaliza los nombres seguros y omite o marca los dudosos.
 - Incluye un bloque publicitario (Cyberghost VPN) entre [02:56] y [04:47], transcribido en el raw y excluido de la síntesis.
 - El vídeo dialoga críticamente con «el video de Ofelia» (sin URL en la descripción ni referencia completa); queda pendiente de identificación para la consolidación.
-- Cuarta fuente del mismo canal en este lote; refuerza el eje Fisher/Berardi ya citado en las fuentes 1/11 y 2/11.
+- Cuarta fuente del mismo canal en este lote; refuerza el eje Fisher/Berardi ya citado en las fuentes 1/11 ([[resumen-del-panoptico-al-scroll-infinito-cafe-kyoto]]) y 2/11 ([[resumen-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto]]).

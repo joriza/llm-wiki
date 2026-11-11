@@ -40,5 +40,5 @@ En el desarrollo web moderno se usa «URL» para casi cualquier dirección web, 
 
 - Video original en español; transcripción del raw en inglés (subtítulos automáticos traducidos, literal). Resumen en español profesional.
 - Transcripción con frases triplicadas (artefacto del ASR); normalizado en el resumen. La transcripción garbiña un pasaje («also a UR») y el esquema URN («URN {colon} ISBN»); reconstruidos por contexto.
-- Cruces temáticos con el mismo lote: tipos de API y endpoints (fuente 2/10, Codist) y las partes de la URL en el contexto de las signed URLs (fuente 17/20, TheDebugDuck). Segunda fuente del canal Cognix (la serie de lenguajes está en historia-informatica).
+- Cruces temáticos con el mismo lote: tipos de API y endpoints ([[resumen-every-type-of-api-simply-explained-in-9-minutes-codist]], Codist) y las partes de la URL en el contexto de las signed URLs ([[resumen-tu-api-no-debe-enviar-archivos-thedebugduck]], TheDebugDuck). Segunda fuente del canal Cognix (la serie de lenguajes está en [[historia-lenguajes-programacion]]).
 - Sin patrocinios ni autopromoción identificables.

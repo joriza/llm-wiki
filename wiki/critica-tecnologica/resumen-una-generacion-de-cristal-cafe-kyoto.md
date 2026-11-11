@@ -48,4 +48,4 @@
 
 - Transcripción automática en español con errores que el raw conserva literales («Marfisher», «Fiser», «Mark Fer» por Fisher; «Buung Shul Khan» por Byung-Chul Han; «Rebeca Lewis» por Rebecca Lewis; «rose» por roce; «tamiz» escrito «tamí/tamí» como «tamí» del reconocedor). Este resumen normaliza nombres y palabras seguras.
 - Sin bloque publicitario detectado en la transcripción.
-- Séptima fuente del mismo canal en este lote; comparte marco (Han, Fisher) con las fuentes 3/11, 4/11 y 5/11; consolidación conjunta pendiente.
+- Séptima fuente del mismo canal en este lote; comparte marco (Han, Fisher) con las fuentes 3/11 ([[resumen-estafa-moral-meritocracia-cafe-kyoto]]), 4/11 ([[resumen-que-le-pasa-a-nuestra-generacion-cafe-kyoto]]) y 5/11 ([[resumen-parasitos-mentales-cafe-kyoto]]); consolidación conjunta pendiente.
