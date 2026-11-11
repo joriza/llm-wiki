@@ -904,3 +904,11 @@ Registro cronológico de solo adición.
 - **En scratch sin procesar (2 raws)**: nYsJn7Fbj_c («DeepSeek Harness — conectar modelos locales de llama.cpp», amplía la entidad deepseek-harness) y tanYJCxZJr0 («Inteligencia Ilimitada con Atomic AI» — el deep-dive del Proxy Atómico; amplía [[proxy-atomico]]) y 2EAtjJbnEVk («827 — No necesitas una GPU de 3000€ para IA Local», atareao — fuente de hardware para [[hardware-para-ia-local]]), los tres descargados en vuelo al detener el runner.
 - **Pendientes de descargar**: entradas 31-58 (~28) + la 54 UNKNOWN. SKIP definitivos acumulados: 9 sin subtítulos + 2 members-only.
 - **Reanudación**: procesar el raw de scratch (fuente 25, amplía deepseek-harness); relanzar runner (fix de cookies ya aplicado); ciclo por fuente; al cierre del lote: consolidación final + overview/sintesis + push.
+
+## [2026-11-11] cierre | documentación actualizada y push (ia-local 24/58, pausado)
+
+- **overview.md**: 142 fuentes; ia-uso-practico 47 (lote ia-local en curso 24/58); páginas 152 resúmenes + 99 consolidación + 3 meta (verificado por filesystem); hilo temático 9 agregado.
+- **sintesis.md**: hilo 9 agregado; pendientes actualizados (ia-local en curso 24/58).
+- **protocolo-ingesta-youtube.md**: estado al pausar actualizado (24/58, 3 raws en scratch, reanudación completa).
+- **Pendiente heredado resuelto esta sesión**: entidad [[cognix]] (3 fuentes en 3 dominios).
+- **Push a origin/master** y cierre de sesión a pedido del usuario.
