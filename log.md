@@ -212,3 +212,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-09-25-mejor-ia-gratis-trading-2025-codigo-trading.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-mejor-ia-gratis-trading-2025-codigo-trading (resumen de fuente).
 - Nota: fuente 3/57 de la playlist; tercer canal nuevo del lote (Código Trading), entidad aplazada. Contenido con interés comercial del canal (formación de pago) registrado como tal; la fuente incluye advertencia de riesgo explícita.
+
+## [2026-11-10] ingesta | La MEJOR IA Gratis e Ilimitada Para Crear Imágenes SIN CENSURA
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=O1IKmUk2Dzs — CreaTuIA, publicado 2025-10-16 (17:35).
+- Raw: raw/inteligencia-artificial/2025-10-16-mejor-ia-gratis-ilimitada-imagenes-sin-censura-creatuiia.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-mejor-ia-gratis-ilimitada-imagenes-sin-censura-creatuiia (resumen de fuente).
+- Nota: fuente 4/57 de la playlist; la herramienta reseñada es Fooocus (transcrito «Focus»), identificación segura por la interfaz descrita. Contenido sensible («sin censura») registrado como contenido de la fuente.
