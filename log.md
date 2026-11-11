@@ -79,7 +79,16 @@ Registro cronológico de solo adición.
 - Fuente: https://www.youtube.com/watch?v=Pf8RyANE1I4 — Café Kyoto, publicado 2023-03-04 (14:13).
 - Raw: raw/general/2023-03-04-industria-cultural-hegemonia-capitalismo-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-industria-cultural-hegemonia-capitalismo-cafe-kyoto (resumen de fuente).
-- Nota: novena fuente de Café Kyoto en el lote; didáctica y breve. El concepto de industria cultural ya aparece aplicado en la fuente 6/11 (low-tech): consolidación conjunta pendiente.
+- Nota: novena fuente de Café Kyoto en el lote; didáctica y breve. El concepto de industria cultural ya aparece aplicado en la fuente 6/11 (low-tech): consolidación conjunta pendiente. Comiteado en 9e9742c.
+
+## [2026-11-10] ingesta | ¿Te RADICALIZASTE durante 2020? | Los algoritmos y la IDEOLOGÍA
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=uRBL7io48kU — Café Kyoto, publicado 2022-07-11 (13:05).
+- Raw: raw/general/2022-07-11-te-radicalizaste-durante-2020-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-te-radicalizaste-durante-2020-cafe-kyoto (resumen de fuente).
+- Nota: décima fuente de Café Kyoto en el lote y una de las más tempranas del canal; con bibliografía académica (FoMO, estilo-metría de noticias hiperpartidistas). El dato del «45% de artículos de derecha» se registra como afirmación de la fuente y su estudio citado, pendiente de verificación propia en consolidación.
+
 
 
 

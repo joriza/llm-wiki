@@ -24,8 +24,8 @@ Ingesta por lotes de las entradas sin procesar (11 URLs de YouTube pendientes). 
 - T6 [S1-S9] Ingesta fuente 6/11: https://www.youtube.com/watch?v=f_dzGFdH0UM — HECHA (commit 5f8a394)
 - T7 [S1-S9] Ingesta fuente 7/11: https://www.youtube.com/watch?v=SGoWw1XMRR4 — HECHA (commit 776532e)
 - T8 [S1-S9] Ingesta fuente 8/11: https://www.youtube.com/watch?v=YP-hPDsz-XA — HECHA (commit 7942552)
-- T9 [S1-S9] Ingesta fuente 9/11: https://www.youtube.com/watch?v=Pf8RyANE1I4 — HECHA (commit en el próximo commit del lote)
-- T10 [S1-S9] Ingesta fuente 10/11: https://www.youtube.com/watch?v=uRBL7io48kU
+- T9 [S1-S9] Ingesta fuente 9/11: https://www.youtube.com/watch?v=Pf8RyANE1I4 — HECHA (commit 9e9742c)
+- T10 [S1-S9] Ingesta fuente 10/11: https://www.youtube.com/watch?v=uRBL7io48kU — HECHA (commit en el próximo commit del lote)
 - T11 [S1-S9] Ingesta fuente 11/11: https://www.youtube.com/watch?v=KB7IV_GhjTY
 - T12 [S4-S5] Cierre del lote: listar en log.md las fuentes pendientes de consolidación (conceptos, entidades, referencias cruzadas, contradicciones) y proponer reevaluación de dominios.
 
