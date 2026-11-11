@@ -796,3 +796,10 @@ Registro cronológico de solo adición.
 - **Contradicción señalada** (documentada en la página, no requiere acción): fuente 16 afirma «la arena retiene mejor que el agua» sin números; fuentes 15/17 argumentan correctamente por ΔT utilizable (el agua se frena a 100 °C).
 - **Fuente 19 off-topic** (paredes autonivelantes): un solo video de construcción — NO se propone dominio nuevo; queda registrada como fuera de alcance en casa-calefaccion.
 - **Actualizados** `wiki/overview.md` (estado 121 fuentes; hilo temático 7) y `wiki/sintesis.md` (sección 7 + pendientes).
+
+## [2026-11-11] dominio | crear python-practico (playlist Python práctico, 7 videos)
+
+- **Pedido del usuario**: ingestar la playlist pública https://www.youtube.com/playlist?list=PLqe2XRWDm9RHO9Ht0tCgL1gcYR1shVz60.
+- **Pre-flight**: 7 entradas, 7 únicas (sin duplicados); pertinencia OK — Python práctico: Loguru (logging), script de automatización con ingresos, librerías «innecesarias»/«poderosas», panorama de bibliotecas, DuckDB, librerías de micro-SaaS.
+- **Dominio nuevo confirmado por el usuario**: `python-practico/` — «Librerías, herramientas y proyectos prácticos de Python (logging, automatización, DuckDB, micro-SaaS)». No encaja en `informatica-teoria/` (alcance de fundamentos/teoría).
+- Ingesta: bucle secuencial descarga→ingesta (runner `--one`, pacing ≥50 s) por ruta VPN Proton (salida EE. UU.), agente único sin subagentes.
