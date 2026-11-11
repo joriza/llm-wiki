@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (modelos).
 - **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11 (fuente 8/58 del lote ia-local; la fuente 28 comparará el 8B-A1B).
-- **Fuentes**: [[resumen-liquid-lfm-2-5-una-alternativa-potente-para-uso-agentico-y-de-texto]].
+- **Fuentes**: [[resumen-liquid-lfm-2-5-una-alternativa-potente-para-uso-agentico-y-de-texto]] · [[resumen-cree-un-modelo-moe-0-1b-ultra-rapido-incluso-en-cpu]] (fuente 22 — conversiones MoE del canal).
 
 **Liquid LFM 2.5** es la familia de modelos de texto de Liquid, en variantes de tamaño 0.23B, 1.2B, 1.5B, **2.6B** (la probada) y **8B-A1B MoE**. GGUF oficial del propio proveedor.
 
@@ -22,3 +22,7 @@
 Los benchmarks del proveedor están elegidos donde mejor salen parados, y las comparaciones «2.6B vs Gemma 5.1B» son trampa de contabilidad: **los parámetros totales ≠ VRAM real** (la entrada de texto de Gemma E2B son 2B) ni calidad tras QAT. Criterio: contrastar siempre con el banco de pruebas propio.
 
 En la wiki:_peer de [[qwen]] y [[gemma-4]] en el bloque de modelos chicos; re-evaluación pendiente con el 8B-A1B (fuente 28 del playlist).
+
+## Conversiones MoE propias del canal (fuente 22)
+
+Nichonauta convirtió las variantes **densas** del LFM 2.5 (230M, 350M — y planea 1.2B y 2.6B) a **arquitectura MoE** manteniendo F16/safetensors completos (no LoRA), publicándolas también en GGUF (Q4_K_M, Q8, F16) en su perfil de Hugging Face. La tesis: un modelo ya eficiente + MoE (solo una parte activa) = tres capas de reducción. Números del 350M MoE en Q4_K_M: >400 tok/s en RTX 3060 (0,8 GB) y **121 tok/s en CPU puro** (Q4) / ~80 tok/s (Q8). Posicionamiento del canal: «no son ChatGPT» — bases para desarrollos y automatizaciones.
