@@ -761,3 +761,4 @@ Registro cronológico de solo adición.
 - Fuente 1/28: ¿Es posible calentar una casa con una vela? — raw raw/casa-calefaccion/2022-12-28-es-posible-calentar-una-casa-con-una-vela.md — resumen wiki/casa-calefaccion/resumen-es-posible-calentar-una-casa-con-una-vela.md.
 - Fuente 5/28: ¡Haz tu propio AIRE ACONDICIONADO en casa Fácil y Rápido! — raw raw/casa-calefaccion/2025-05-30-haz-tu-propio-aire-acondicionado-en-casa-facil-y-rapido.md — resumen wiki/casa-calefaccion/resumen-haz-tu-propio-aire-acondicionado-en-casa-facil-y-rapido.md
 - Fuente 4/28: Tutorial de estufas rocket (parte 2) — raw raw/casa-calefaccion/2020-09-21-tutorial-de-estufas-rocket-parte-2.md — resumen wiki/casa-calefaccion/resumen-tutorial-de-estufas-rocket-parte-2.md
+- Fuente 3/28: Tutorial de estufas rocket (Parte 1) — raw raw/casa-calefaccion/2020-09-19-tutorial-de-estufas-rocket-parte-1.md — resumen wiki/casa-calefaccion/resumen-tutorial-de-estufas-rocket-parte-1.md
