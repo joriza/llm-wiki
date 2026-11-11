@@ -76,3 +76,7 @@ Los caños se unen por extremo macho y hembra, y en las juntas se produce goteo 
 - La fecha de publicación del header del raw (2020-09-20) manda sobre la del nombre del archivo (2020-09-21).
 - Segunda parte del tutorial: asume el motor rocket y los sistemas J/L desarrollados en la parte 1 (`raw/casa-calefaccion/2020-09-19-tutorial-de-estufas-rocket-parte-1.md`, pendiente de ingesta) y anuncia ampliar el tema del encendido «en la última parte» [01:40].
 - Intro con exaltación de la transmisión libre del conocimiento («un acto altruista… perpetuar la libertad y la autonomía») [00:02-00:19] y cierre con agradecimiento y ofrecimiento de responder preguntas [14:41-14:45]: excluidos de la síntesis. Sin patrocinios externos detectados.
+
+---
+
+**Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

@@ -58,3 +58,7 @@ Los partesoles son elementos arquitectónicos que, gracias a las sombras que gen
 - Silencio de transcripción entre [05:07] y [05:43]: probable demostración gráfica sin narración.
 - Canal de arquitectura/construcción (yaaxconstructor); sin patrocinios externos detectados.
 - Cierre con autopromoción (próximos vídeos sobre cómo diseñar partesoles, suscripción y «me gusta» [09:00-09:22]) excluida de la síntesis.
+
+---
+
+**Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

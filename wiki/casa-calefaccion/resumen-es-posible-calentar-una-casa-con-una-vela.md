@@ -45,3 +45,7 @@ Un solo calentador de estos no calienta una habitación entera: «probablemente 
 - Contexto de guerra en Ucrania (apagones, bombardeos) como motivación explícita [00:07, 03:19, 06:14]: condiciona el enfoque (supervivencia doméstica, no eficiencia energética).
 - Puesta en escena humorística del canal (panda, gatitos y pez como sujetos de la prueba térmica [05:15]) descrita literalmente; no es contenido técnico.
 - Cierre con llamada a compartir el vídeo [08:54] excluida de la síntesis. Sin patrocinios externos detectados.
+
+---
+
+**Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

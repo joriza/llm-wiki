@@ -67,3 +67,7 @@ Existen diseños sin tambor que usan ladrillos [11:32-11:57]: no aportan calor i
 - ASR con frases triplicadas por desincronización (artefacto sistemático de todo el archivo); normalizado en el resumen. Garbiñeos normalizados: «gr» = grados °C (1100, 300, 600, 400-600 «gr»), «ornalla» = hornalla, «soda of air» = succión de aire, «thermal armchair» = banco térmico, «clean the Oin» = limpiar el codo, «Rocket Jema» = sistema J, «Rocket inverter» = inventor del Rocket. «Jimse stoves» (estufas danesas antiguas, origen presunto del Rocket [02:24]) no se pudo identificar con seguridad: se cita literalmente como posible garbiño del ASR.
 - Las cifras de rendimiento (90 % del poder calorífico en el L; 95 % de combustión de los gases en el J con cámara a 1100 °C) son afirmaciones de la fuente, no mediciones independientes.
 - Sin patrocinios externos detectados. Prólogo ideológico del canal (transmitir conocimiento como «acto heroico» y «altruista» para «perpetuar la libertad y la autonomía» [00:02-00:19]) y la autorreferencia a las «experiencias del Faro» quedan excluidos de la síntesis técnica.
+
+---
+
+**Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

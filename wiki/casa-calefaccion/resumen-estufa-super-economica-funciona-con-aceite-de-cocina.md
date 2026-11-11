@@ -20,3 +20,7 @@ La lata de arvejas (fondo afuera, agujeros arriba y abajo, la fila inferior pega
 ## Medición, pros y contras
 
 Prueba del autor: más de una hora encendida, **cero hollín** bajo la tapa y **más de 150 °C en las aletas** (cámara térmica); es un sistema **pirolítico** que quema la mayoría de los gases y optimiza la combustión [07:47-09:57]. Pros: coste mínimo (el aceite usado puede salir gratis de alguna cafetería), gran autonomía con poco combustible, y más segura que una estufa a alcohol porque el combustible **no se inflama ante un accidente** [08:48-09:14]. Contras: mal calibrada suelta humo y olor a fritura; toda llama consume oxígeno — **ventilar si se usa en interiores** — y en exteriores funciona sin preocupaciones [09:57-10:14].
+
+---
+
+**Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

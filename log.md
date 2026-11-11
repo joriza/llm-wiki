@@ -817,3 +817,19 @@ Registro cronológico de solo adición.
 - Páginas derivadas fuente 6/7: entidad [[duckdb]] + concepto [[bases-de-datos-especializadas]] (tesis de nichos, con matriz de decisión que cruza polars y automatizacion-con-python).
 - Fuente 7/7: 7 Librerías de Python Que Usan los Micro-SaaS Rentables (stack micro-SaaS en 4 movimientos; anécdota marco del canal no verificable, promos excluidas) — raw raw/python-practico/2026-10-19-7-librerias-de-python-que-usan-los-micro-saas-rentables.md — resumen wiki/python-practico/resumen-7-librerias-de-python-que-usan-los-micro-saas-rentables.md
 - Páginas derivadas fuente 7/7: concepto [[micro-saas-con-python]] + entidades [[alembic]], [[celery]]. LOTE COMPLETO: 7/7 fuentes, 0 SKIP; consolidación al momento (sin aplazamiento), decisión del usuario 2026-11-11.
+
+## [2026-11-11] consolidación | python-practico — lote completo con consolidación al momento
+
+- **Lote completo**: 7/7 fuentes (0 SKIP), ingestadas en bucle secuencial descarga→ingesta por ruta VPN Proton (agente único, pacing ≥50 s).
+- **Consolidación sin aplazamiento** (decisión del usuario): 6 páginas de concepto (logging-en-python, automatizacion-con-python, codigo-de-plomeria, mapa-del-ecosistema-python, bases-de-datos-especializadas, micro-saas-con-python) + 17 páginas de entidad (loguru, polars, playwright, fastapi, pydantic, sqlmodel, dramatiq, dynaconf, manim, faker, gradio, diagrams, marimo, duckdb, alembic, celery, cognix), todas cableadas con enlaces de doble corchete desde sus resúmenes y entre sí.
+- **Pendiente heredado resuelto**: entidad [[cognix]] (3 fuentes en 3 dominios) — líneas de pendiente actualizadas en overview.md y sintesis.md.
+- **Actualizados**: overview.md (128 fuentes, dominio python-practico, hilo temático 8) y sintesis.md (sección 8, pendientes a cinco lotes completos).
+- **Lint final** y push: ver entrada de cierre.
+
+## [2026-11-11] consolidación | casa-calefaccion — consolidación diferida completada (grafo de Obsidian limpio)
+
+- **Motivo**: al filtrar el grafo de Obsidian (app.json userIgnoreFilters: index.md, log.md, protocolo, AGENTS, odd; search residual «log» limpiado; showOrphans=false) quedaron a la vista 25 nodos huérfanos: 13 resúmenes de casa-calefaccion sin enlaces entrantes (la consolidación diferida del lote solo había hecho bateria-de-arena), 8 pendientes documentados de otros dominios, 2 huecas + 1 off-topic y 3 meta-páginas.
+- **Consolidación completada** — creadas 4 páginas de concepto que absorben los 13 resúmenes huérfanos (cableadas en ambas direcciones): [[estufas-rocket]] (3 fuentes rocket) · [[solar-pasivo-y-ventilacion]] (muro-trombe + partesol + ventilación natural) · [[calefaccion-de-emergencia]] (vela, estufa de aceite, sal+aluminio, 20 trucos — «calentar personas, no casas»; seguridad CO transversal) · [[biogas-casero]] (biodigestor de sifón).
+- **Estado del grafo**: los 13 resúmenes ya tienen enlaces entrantes; quedan como huérfanos visibles solo si showOrphans se activa: 2 huecas + 1 off-topic (por diseño: sin contenido consolidable) y meta-páginas.
+- **Configuración Obsidian** (local, no commiteada): graph.json search «log» → «» y showOrphans → false; app.json userIgnoreFilters ampliado (index.md, log.md, protocolo-ingesta-youtube.md, AGENTS.md, odd/).
+- **Consolidación diferida del lote: COMPLETA.** Quedan como pendientes documentados (aplazados por decisión previa, no diferidos de este lote): entidad Codist (3 fuentes), canales con 1 fuente (TheDebugDuck, Pecas Explica, Cápsula Mental, Just Explained, TecnoCroquis + los del dominio IA) y Jensen Huang (historia-informatica).

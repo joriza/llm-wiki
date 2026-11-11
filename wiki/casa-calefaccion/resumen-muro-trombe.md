@@ -70,3 +70,7 @@ Para ventilar la vivienda en verano, la fuente recomienda usar la ventana como e
 - Pasaje muy corrompido por el ASR [06:17-06:29]: se conserva parcialmente el sentido (ahorro en el consumo mensual de energía, «reflexiones en estos tiempos de crisis»); la cifra de reducción del 70-85 % sí es nítida.
 - La fecha de publicación del header del raw (2022-06-12) manda sobre la del nombre del archivo (2022-06-13).
 - Sin patrocinios externos ni autopromoción detectados; cierre de agradecimiento y despedida [09:52-10:03] excluido de la síntesis.
+
+---
+
+**Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

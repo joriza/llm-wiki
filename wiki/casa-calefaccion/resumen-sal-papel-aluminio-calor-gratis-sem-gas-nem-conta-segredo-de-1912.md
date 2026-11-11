@@ -20,3 +20,7 @@ No calienta una casa: «mantiene caliente a la persona» — para cortes de luz,
 ## Advertencia editorial
 
 El marco narrativo «secreto de 1912 suprimido por la industria de $128 mil millones» es puro gancho de contenido: el propio video contradice la supresión (conocimiento público desde antes de 1915, patentes en los años 20, producción industrial japonesa masiva, producto en cualquier tienda). La química y la receta, en cambio, son válidas y verificables; la parte descartable del resumen es solo la retórica conspirativa.
+
+---
+
+**Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

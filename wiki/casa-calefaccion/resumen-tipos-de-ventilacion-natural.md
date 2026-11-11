@@ -50,3 +50,7 @@ La fuente añade el respaldo histórico: este enfriamiento se usó en regiones c
 - Es la segunda parte de un vídeo anterior del mismo canal sobre ventilación natural (general), citado como prerrequisito en la descripción [00:15]; esa fuente no forma parte de este lote.
 - Cruce temático con el mismo dominio: el enfriamiento por evaporación de las torres de viento comparte principio físico con el aire acondicionado casero ([[resumen-haz-tu-propio-aire-acondicionado-en-casa-facil-y-rapido]]) — allí un gas (isobutano) absorbe calor al evaporarse en un ciclo de compresión; aquí es el agua la que evapora y enfría el aire.
 - Sin patrocinios externos; solo autopromoción menor (recordatorio de suscribirse y próximos vídeos [09:01]), excluida de la síntesis.
+
+---
+
+**Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

@@ -58,3 +58,7 @@ El mensaje final: cualquiera con necesidad de calefaccionar puede hacerla — no
 - ASR con frases triplicadas por desincronización (artefacto sistemático del archivo); normalizado en el resumen. Traducciones del ASR normalizadas a la terminología en español: «slip» → barbotina, «wattle and daub» → quincha, «turret» → torreta, «chicken wire» → malla metálica/gallinero; el orador vacila entre llamar «H» y «T» a la unión en T [30:10] — se normaliza a T.
 - Letras de canciones de fondo capturadas por el ASR ([10:15-11:06], [12:26-13:03], [25:36-26:00], [33:03-33:20]) y llamadas a suscribirse y dar like [02:13] excluidas de la síntesis. Sin patrocinios externos detectados.
 - La construcción filmada es material de archivo de la cuarentena COVID, reeditado en 2024 con comentarios nuevos [00:16, 01:51]: los precios citados y la falta de perlita responden a aquella época, no a la fecha de publicación.
+
+---
+
+**Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

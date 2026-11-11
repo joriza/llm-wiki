@@ -24,3 +24,7 @@
 ## Las tres lecciones del video
 
 (1) Resiliencia por modo de vida, no por kits comprados; (2) el mayor peligro de un apagón invernal no es el frío sino la aislación — material y comunitaria; (3) **calentar personas, no casas**: cerrar habitaciones, colgar frazadas, vivir y dormir en la habitación de la estufa.
+
+---
+
+**Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

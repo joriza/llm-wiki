@@ -22,3 +22,7 @@ Cronología medida por el autor: a la hora ya hay gas débil [10:10-10:20]; a la
 La limitación honesta del prototipo: con un tambor chico solo almacena «unos segundos de gas», porque la presión que empuja el gas a la hornalla proviene de la columna de líquido del sifón — el gas acumulado empuja el líquido, y a mayor desplazamiento, mayor presión [13:07-14:17]. Recomendaciones del propio canal para replicar: recipiente de **al menos 1000 L**, ubicado **fuera de la casa** por seguridad y para recibir el calor del sol, que acelera la producción [12:38-12:44]; y un **depósito de almacenamiento mayor después del filtro** (tambor, cilindro de gas o tubo de boca ancha) para tener presión y volumen reales [14:29-14:38].
 
 En el proceso quedaron dos fugas reales resueltas: una junta azul y una goma que dejaban escapar gas, selladas con silicona resistente [10:20-10:39]. El canal muestra la prueba final con la hornalla encendida a los 6 días y sostiene que el biogás doméstico «es usado por muchas familias en el mundo», con el matiz de que su sistema no almacena todo el gas producido [11:42-11:47, 12:27-12:38].
+
+---
+
+**Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.
