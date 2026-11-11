@@ -47,3 +47,10 @@ Vigente desde 2026-11-11 (sesión «Casa/Calefacción»). Ajustes decididos dura
 - Plan B ante flaggeo masivo de Proton free: WARP de Cloudflare (infraestructura distinta) o Windscribe free (rotación manual de ubicaciones).
 - Los transcripts pesan ~30-80 KB: los límites de datos de las capas gratuitas sobran.
 - **Operación durante un lote**: con túnel completo no hay enrutado por pedido (a diferencia de `FYT_SOURCE`): dejar el VPN conectado durante TODA la ingesta (metadatos y git también salen por él, sin efecto adverso) y desconectar al terminar. Refinamiento opcional: split tunneling por app de Proton (Ajustes → Split tunneling → «Solo apps seleccionadas» → `python.exe`) replica el comportamiento de la ruta celular.
+
+## Estado al pausar (ia-local, 10/58 — 2026-11-11)
+
+- Playlist «IA Local» (58 únicas, dominio `ia-uso-practico/`): **10 fuentes con ciclo completo** (raw → resumen → páginas de concepto/entidad → cruces → commit por fuente, sin consolidación aplazada — decisión del usuario). Descarga detenida a pedido del usuario (ventana de uso).
+- **En scratch sin procesar (ya descargados, marcados .done):** ninguno pendiente sin mover — los 2 raws descargados al pausar fueron procesados en ciclos posteriores (pkXUnTO7Y9c = fuente 9; yeyKPVQuiNA = fuente 10). **Pendientes de descargar: 48 entradas** + 2 META FAIL para re-pass (4nsHGYJgm94 «P-Agent», v_XTwngbUc8 «Proxy Atómico») + 1 entrada UNKNOWN (y-SXFKXvv9Q).
+- **Páginas del lote ya creadas**: concepto panorama-herramientas-open-source-ia, desarrollo-con-modelos-locales, hardware-para-ia-local, por-que-ia-local + entidades llama-cpp, opencode, qwen, gemma-4, lfm, nichonauta — **las fuentes venideras deben cablearse a estas páginas** (llama.cpp/Qwen/Gemma/LFM recursan constantemente; hardware también).
+- **Reanudación**: (1) procesar cualquier raw pendiente en scratch; (2) con VPN conectado, relanzar el runner completo (salta lo descargado por marcadores); (3) continuar el ciclo por fuente; (4) al cierre del lote: consolidación final + overview/sintesis + push. Detalle de procesadas 1-10 en log.md.

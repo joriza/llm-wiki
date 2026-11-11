@@ -864,3 +864,10 @@ Registro cronológico de solo adición.
 - Procesada bajo instrucción del usuario («procesa solo una fuente más») — descargas siguen detenidas; queda 1 raw en scratch (yeyKPVQuiNA) + resto del lote pendiente.
 - Fuente 10/58: Gemma 4 E2B — el modelo de IA más eficiente para redacción en español (el E2B en detalle; metadatos UNKNOWN, atribución Nichonauta inferida; ASR duplicado/garblado normalizado) — raw raw/ia-uso-practico/2026-08-07-gemma-4-e2b-el-modelo-de-ia-mas-eficiente-para-redaccion-en-espanol.md — resumen wiki/ia-uso-practico/resumen-gemma-4-e2b-el-modelo-de-ia-mas-eficiente-para-redaccion-en-espanol.md
 - Procesada bajo instrucción del usuario («procesa solo una fuente más») — descargas detenidas; entidad [[gemma-4]] actualizada con la fuente 10. Quedan en scratch 0 raws sin procesar; resto del lote pendiente de descarga.
+
+## [2026-11-11] cierre | actualización de documentación + push (sesión ia-local, 10/58)
+
+- **overview.md**: 131 fuentes procesadas (lote «IA Local» en curso 10/58, pausado); dominio ia-uso-practico a 43 fuentes; páginas verificadas por filesystem: 138 resúmenes + 93 de consolidación + 3 meta = 234; hilo temático 9 (IA local, en curso).
+- **sintesis.md**: hilo 9 agregado; pendientes actualizados (ia-local en curso 10/58).
+- **protocolo-ingesta-youtube.md**: estado al pausar del lote ia-local con reanudación (48 por descargar + 2 META FAIL re-pass + 1 UNKNOWN; páginas existentes a cablear).
+- **Push a origin/master** y cierre de sesión a pedido del usuario.
