@@ -563,3 +563,7 @@ Registro cronológico de solo adición.
 ## [2026-11-11] ingesta | Gratis y sin límites: accesos API (CodeSimple)
 
 - Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=yucBRF3lSaQ — CodeSimple, 2026-09-23 (06:00). Raw: raw/inteligencia-artificial/2026-09-23-gratis-y-sin-limites-accesos-api-de-gpt-claude-gemini-y-mas-2026-codesimple.md (subtítulos automáticos, literal; título del raw corregido, venía como UNKNOWN). Página creada: resumen-gratis-y-sin-limites-accesos-api-gpt-claude-gemini-codesimple. Nota: fuente 56/57; catálogo corto de proveedores gratuitos (NVIDIA, Pinecone, Token Harbor, OpenRouter, Talkify, agentrouter.org); nombres dudosos marcados con (?). Estado del lote: 56/57 con resumen, 1 pendiente.
+
+## [2026-11-11] ingesta | La IA ya maneja todos tus programas (Pablo Tapias)
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=KkKjpyjn1vI — Pablo Tapias, 2026-11-04 (10:47). Raw: raw/inteligencia-artificial/2026-11-04-la-ia-ya-maneja-todos-tus-programas-agent-desktop-pablo-tapias.md (subtítulos automáticos, literal; título del raw corregido, venía como UNKNOWN). Página creada: resumen-la-ia-ya-maneja-todos-tus-programas-agent-desktop-pablo-tapias. Nota: fuente 57/57 (última del lote); Agent Desktop como puente de control preciso (interfaz a texto, no visión), 3 demos (Facturas Paco, NIE, Gestión Rufino 2003), skill para Claude Code. Autopromoción (mentorías, WhatsApp) excluida. Estado del lote: 57/57 con resumen, 0 pendientes.
