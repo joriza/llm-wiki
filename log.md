@@ -2,6 +2,21 @@
 
 Registro cronológico de solo adición.
 
+## [2026-11-10] nota | inicio de ingesta por lotes
+
+- Pedido del usuario: «relice una ingesta por lotes de las entradas sin procesar» (raw/para-ingesta.txt).
+- El archivo contiene 13 URLs; las 2 primeras ya fueron ingeridas el mismo día (súper El Niño de 1877 y lo que viene después), y el usuario retiró la de la entrevista a Gary Marcus tras su ingesta (cambio pendiente en git, del propio usuario; el archivo se conserva sin tocar por el agente).
+- El lote procesa las 11 restantes EN SECUENCIA. Modo lote: por fuente se escriben resumen, index.md y log.md; se APLAZAN páginas de concepto y entidad, referencias cruzadas y detección de contradicciones hasta la consolidación.
+- Especificación completa: odd/tasks/ingesta-por-lotes.md.
+
+## [2026-11-10] ingesta | Del PANÓPTICO al SCROLL INFINITO
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=_2lQ-xepUbU — Café Kyoto, publicado 2025-05-15 (31:45).
+- Raw: raw/general/2025-05-15-del-panoptico-al-scroll-infinito-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-del-panoptico-al-scroll-infinito-cafe-kyoto (resumen de fuente).
+- Nota: primer canal nuevo del lote (Café Kyoto); su página de entidad queda aplazada a la consolidación, igual que los conceptos (sociedades de control, panóptico). En el resumen se normalizaron nombres que la transcripción automática tergiversa («Michelle Foucault», «DZ», «Dona Haw», «Bifo Verardi», «Destack»).
+
 ## [2026-11-10] ingesta | Todo lo que Sabemos del Colapso de la AMOC — Y lo que le Haría a Tu País
 
 - Disposición: Nueva (primera ingesta; se crean wiki/, wiki/dominios.md, index.md y log.md; dominio inicial general/ por decisión del usuario).

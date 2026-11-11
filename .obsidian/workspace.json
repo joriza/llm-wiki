@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "wiki/general/gustavo-entrala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "wiki/general/gustavo-entrala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "wiki/general/gustavo-entrala.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,14 +190,18 @@
   },
   "active": "ceecff63c52532b8",
   "lastOpenFiles": [
-    "wiki/general/resumen-super-el-nino-1877-coordenada-critica.md",
+    "wiki/general/resumen-del-panoptico-al-scroll-infinito-cafe-kyoto.md",
+    "wiki/general/gary-marcus.md",
+    "wiki/general/gustavo-entrala.md",
+    "raw/general/2025-05-15-del-panoptico-al-scroll-infinito-cafe-kyoto.md",
     "index.md",
+    "raw/general/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md",
+    "log.md",
+    "wiki/general/resumen-super-el-nino-1877-coordenada-critica.md",
     "log.md.tmp.16692.ab3061e50e3d",
     "index.md.tmp.16692.21a2b824b9a2",
     "index.md.tmp.16692.e34df6a38f69",
-    "wiki/general/gustavo-entrala.md",
     "wiki/general/gustavo-entrala.md.tmp.16692.d1da74746a72",
-    "wiki/general/gary-marcus.md",
     "wiki/general/gary-marcus.md.tmp.16692.dbc44a32b609",
     "wiki/general/ia-y-sociedad.md",
     "wiki/general/ia-y-sociedad.md.tmp.16692.6cbe86bb97fb",
@@ -208,7 +212,7 @@
     "wiki/general/limites-de-los-llm.md.tmp.16692.6078f4606ad3",
     "wiki/general/resumen-entrevista-gary-marcus-gustavo-entrala.md",
     "wiki/general/resumen-entrevista-gary-marcus-gustavo-entrala.md.tmp.16692.3cd6a097543f",
-    "raw/general/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md",
+    "raw/general/2026-10-24-puede-la-ia-cambiar-como-pensamos-conquerai.md",
     "log.md.tmp.16692.c0d050dd190a",
     "wiki/general/resumen-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md",
     "wiki/general/el-nino.md",
