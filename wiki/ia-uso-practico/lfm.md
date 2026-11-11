@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (modelos).
 - **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11 (fuente 8/58 del lote ia-local; la fuente 28 comparará el 8B-A1B).
-- **Fuentes**: [[resumen-liquid-lfm-2-5-una-alternativa-potente-para-uso-agentico-y-de-texto]] · [[resumen-cree-un-modelo-moe-0-1b-ultra-rapido-incluso-en-cpu]] (fuente 22 — conversiones MoE del canal).
+- **Fuentes**: [[resumen-liquid-lfm-2-5-una-alternativa-potente-para-uso-agentico-y-de-texto]] · [[resumen-cree-un-modelo-moe-0-1b-ultra-rapido-incluso-en-cpu]] (fuente 22 — conversiones MoE del canal) · [[resumen-ling3-0-tiny-vs-lfm-2-5-8b-a1b-cual-es-el-mejor-modelo-de-ia-pequeno]] (fuente 23 — comparativa contra Ling 3.0 Tiny).
 
 **Liquid LFM 2.5** es la familia de modelos de texto de Liquid, en variantes de tamaño 0.23B, 1.2B, 1.5B, **2.6B** (la probada) y **8B-A1B MoE**. GGUF oficial del propio proveedor.
 
@@ -26,3 +26,7 @@ En la wiki:_peer de [[qwen]] y [[gemma-4]] en el bloque de modelos chicos; re-ev
 ## Conversiones MoE propias del canal (fuente 22)
 
 Nichonauta convirtió las variantes **densas** del LFM 2.5 (230M, 350M — y planea 1.2B y 2.6B) a **arquitectura MoE** manteniendo F16/safetensors completos (no LoRA), publicándolas también en GGUF (Q4_K_M, Q8, F16) en su perfil de Hugging Face. La tesis: un modelo ya eficiente + MoE (solo una parte activa) = tres capas de reducción. Números del 350M MoE en Q4_K_M: >400 tok/s en RTX 3060 (0,8 GB) y **121 tok/s en CPU puro** (Q4) / ~80 tok/s (Q8). Posicionamiento del canal: «no son ChatGPT» — bases para desarrollos y automatizaciones.
+
+## Comparativa directa vs Ling 3.0 Tiny (fuente 23)
+
+En el duelo de MoE chicos (~1B activo, solo texto): el LFM 2.5 8B-A1B es **más rápido** (167 vs 122 tok/s) pero **pierde en todo lo demás** contra Ling 3.0 Tiny: más VRAM (6,8 vs 5,3 GB), menos contexto (128k literal vs 131k), peor calidad (código corto sin cercado, respuesta en inglés sin sentido en una pasada), y ambos fallaron la trampa de teoría de la mente (José/pelota). En el juego completo imposible: LFM entregó errores de sintaxis; Ling generó 52k+ tokens con autocorrección sin fin — cerca del logro. Veredicto: «para prácticamente todo, Ling 3.0 Tiny es mejor».
