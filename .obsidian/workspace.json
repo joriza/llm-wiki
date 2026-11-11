@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "wiki/sintesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "sintesis"
             }
           }
         ]
@@ -190,10 +190,13 @@
   },
   "active": "ceecff63c52532b8",
   "lastOpenFiles": [
+    "wiki/overview.md",
+    "wiki/dominios.md",
+    "index.md",
+    "raw/inteligencia-artificial/2025-10-15-openspec-apps-full-stack-sin-codigo-vera-badias.md",
+    "wiki/inteligencia-artificial/resumen-agente-de-codigo-que-viene-vacio-fazt.md",
     "raw/inteligencia-artificial/2026-04-18-agente-de-codigo-que-viene-vacio-fazt.md",
     "wiki/inteligencia-artificial/resumen-notebooklm-reventar-ia-gratis-alejavi-rivera.md",
-    "wiki/dominios.md",
-    "wiki/overview.md",
     "raw/inteligencia-artificial/2026-02-15-notebooklm-reventar-ia-gratis-alejavi-rivera.md",
     "wiki/inteligencia-artificial/resumen-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md",
     "raw/inteligencia-artificial/2026-02-02-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md",
@@ -213,9 +216,6 @@
     "raw/inteligencia-artificial/2025-12-21-google-dispara-tu-productividad-novedad-xavier-mitjana.md",
     "wiki/inteligencia-artificial/resumen-generador-bases-de-datos-gratis-midulive.md",
     "raw/inteligencia-artificial/2024-08-13-generador-bases-de-datos-gratis-midulive.md",
-    "wiki/inteligencia-artificial/resumen-ia-le-borro-todo-el-disco-duro-hdeleon-clips.md",
-    "raw/inteligencia-artificial/2025-12-16-ia-le-borro-todo-el-disco-duro-hdeleon-clips.md",
-    "wiki/inteligencia-artificial/resumen-ia-china-reventar-todo-alejavi-rivera.md",
     "raw/critica-tecnologica",
     "raw/inteligencia-artificial",
     "raw/ciencias-tierra",

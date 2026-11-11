@@ -1,0 +1,76 @@
+# ¡Gratis! OPENSPEC te CONSTRUYE apps full stack sin código como lo hacen los EXPERTOS de la IA
+
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=oHDbRdfDUc8)
+- **Canal**: Vera Badías
+- **Publicado**: 2025-10-15
+- **Recopilado**: 2026-11-10
+- **Idioma**: español (subtítulos automáticos es, transcripción literal)
+- **Duración**: 13:22
+
+> Transcripción a partir de los subtítulos automáticos del vídeo, sin normalizar; puede contener errores de reconocimiento. Las marcas de tiempo indican el inicio aproximado de cada bloque.
+
+---
+
+[00:00] Herramientas de inteligencia artificial como Géminis Li de Google, Codex de Open AI o Cloud Code de Antropic te permiten construir cosas con inteligencia artificial muy rápido, pero hay muchas cosas que no sabes y que es muy complicado que aprendas en un corto tiempo. Precisamente por eso existen herramientas como BMAT, como Speckit y la que te voy a mostrar el día de hoy es 100% gratuita y te va a permitir planear todas las especificaciones técnicas de tu agente de inteligencia artificial,
+
+[00:25] ejecutar todo el plan sin que tengas que escribir una sola línea de código. Esto es Open Spec. En este video te voy a mostrar cómo instalar esta herramienta que es código abierto completamente gratis. Te voy a mostrar cómo puedes hacer el paso a paso para crear tu siguiente proyecto a y te voy a regalar mis proms y mis secretos. Así que ve este video hasta el final. Open spec es algo muy parecido a lo que ya habíamos visto en este canal. Voy a dejar aquí arriba la tarjeta sobre specit y algo
+
+[00:52] similar a otra cosa que te habíamos revisado que es BMAT, un método semántico de ingeniería de contexto. Realmente Open Spec es más parecido a Speit porque finalmente lo que estamos planeando son las especificaciones, los features de nuestras aplicaciones y estamos invirtiendo el proceso. Open Spec también como Specit es una herramienta de desarrollo dirigido por especificaciones y no de contexto. El proceso de planeación está invertido y lo que tiene OpenC, ahora que lo he probado sobre Spy es que es muchísimo
+
+[01:22] más intuitivo, muchísimo más fácil de utilizar. ¿Por qué? Aquí mismo en el repositorio está una guía simplificada del flujo exitoso de trabajo que necesitamos implementar al momento de utilizar SPECIT y es prácticamente completamente lineal. Primero se hace un draft de una propuesta, se revisa la viabilidad de esa propuesta. En caso de que esta no funcione, hace un feedback loop, es decir, regresa. Pero si es exitosa, la implementación procede a realizarse y posteriormente se archiva
+
+[01:52] para liberar contexto. Eso es todo lo que hace Openc y ahora mismo lo vamos a poner en acción. En un caso de la vida real voy a utilizar una idea de un miembro de la cofra Dia Peter Estela que en este momento es el líder de nuestra comunidad. Así que bueno, en caso de que quieran unirse también y que sus ideas aparezcan en estos videos, pues el enlace está apareciendo en la pantalla, está en la descripción. La idea de Peter es algo sencilla, está aquí el repositorio que ya he clonado. Él estaba
+
+[02:18] utilizando BMAT, aprendió a utilizar BMAT en la cofradía. Lo que he hecho es simplemente extraer los aspectos más fundamentales de su plan para implementar un MBP. ¿Qué es lo que quiere hacer? Lo que quiere crear Peter es una herramienta que le permita a través de una cámara de fotografías calcular las calorías de alimentos que vamos a ingerir. Y esta idea, pues bueno, al día de hoy es realmente o relativamente fácil de implementar. Y lo que voy a proceder es a quitar todo esto
+
+[02:44] para simplemente implementar a fondo solamente con Open Spec y no con BMAT. Podría hacer las dos cosas, sí, a diferencia de SPC Kit, que es la otra herramienta que ya hemos analizado de esta en particular te va a permitir utilizarla incluso si tu proyecto ya está iniciado, es decir, no es nada más para nuevos proyectos que quieras comenzar. Opencala globalmente y puedes utilizarlo en cualquier proyecto sin importar si ya empezaste a hacer la implementación. Es una diferencia muy
+
+[03:12] importante y la vamos a ver con un caso real este video. Y perfecto. Ya con esto perfectamente claro, lo que voy a hacer es eliminar la documentación para empezar desde cero. Todo esto, adiós. Y lo único que me voy a quedar es con el Ritmi, el MBP Pitch que yo creé, y el git ignore, porque finalmente esto todavía es todavía muy genérico.
+
+[03:30] ¿Correcto? ¿Cómo podemos entonces hacer la instalación? Aquí está el repositorio. Voy a poner el enlace en la descripción. En caso dado de que quieras hacerlo de manera lo más simple posible, puedes seguir esta guía que voy a dejar el enlace en mi Telegram que está apareciendo en la pantalla, también está en la descripción, te unes y listo, completamente gratis puedes tener esta guía, primeros pasos e instalación de Opencate, incluidos cuáles tenemos que correr. El comando de instalación es el
+
+[03:53] siguiente. Voy entonces a correr mi terminal, lo voy a pegar y lo voy a correr. Ya lo tengo abierto aquí. Y de nuevo lo que yo he hecho nada más es con un poco de ingeniería en reversa extraer las los elementos más esenciales del plan de Peter. Es una aplicación que llevaría un poco más de tiempo implementar, pero vamos a ver qué tan lejos nos puede llevar Openp. Eh, he extraído esas características esenciales, dos o tres features que debería tener el MBP y planear con base en esto. Voy a abrir
+
+[04:22] entonces la terminal y voy a correr Open Spec init. Listo, estamos adentro. Lo que tenemos que hacer ahora es empezar a hacer la configuración de el propio Openspack. No hemos empezado a planear todavía. Le voy a dar configurar Openc.
+
+[04:37] Y aquí lo que voy a tener que seleccionar, cuáles son nuestros proveedores. En este caso, lo que voy a utilizar yo va a ser Cloud Code y también Winsoft. ¿Qué otras herramientas, ids y otros LIs puedes elegir? Pues puedes utilizar cursor, Factory Droid, Open Code, Kilo Code, Codex y GitHub Copilot. Entonces, ahí está. Le voy a dar enter. Muy bien.
+
+[04:57] Entonces, ya después de haber elegido nuestros proveedores, ha hecho la instalación de dos directorios del sistema Winsorf y punto Cloud, además de que ha añadido un directorio en la raíz que se llama Openp, que tiene básicamente las plantillas y la funcionalidad de cómo eh ingenieriza el contexto de esta aplicación. Este es el primer documento que vamos a utilizar en el proceso. Regresamos aquí a la terminal donde estamos corriendo Opensc y el primer paso es muy claro. Lo que
+
+[05:21] nos está pidiendo aquí es vamos a poblar el contexto. Entonces, como todavía Openspack no tiene nuestro contexto, nos está pidiendo que por favor utilicemos esta plantilla de Project MD. Si se dan cuenta, es una plantilla muy muy genérica, pero que lo que va a hacer es organizar cuáles son los requerimientos técnicos y entonces ahora sí podemos comenzar a trabajar. Entonces, lo que voy a hacer es correr cloud code. Ya habiendo corrido cloud, lo que voy a hacer es copiar este primer pronto, open
+
+[05:46] spec y lo voy a pegar y simplemente lo voy a correr. ¿De acuerdo? ¿Qué es lo que está haciendo? Literalmente le está diciendo a nuestro agente, "Ve a recolectar el contexto necesario." Entonces, en este momento ya existen los documentos. Si tu director está completamente vacío, lo que tienes que hacer es, obviamente a lo mejor crear los primeros documentos ideando con otro agente o de plano utilizando Open Spec directamente con en coordinación con este primer prompt que hemos visto, ¿de
+
+[06:12] acuerdo? Y listo. Esa plantilla que comenzamos estando completamente vacía, se ha convertido en una especie de estructura de escaffle, de andamiaje técnico con el Ahora ya tenemos el primer paso de la implementación. El segundo prompt que nos está pidiendo que corramos, lo que dice literalmente es que creemos el primer cambio que queremos hacer. No estamos trabajando con cambios, sino estamos trabajando desde cero. Es exactamente lo mismo para este programa. Entonces, lo que tenemos
+
+[06:38] que hacer es literalmente rellenar esta plantilla donde dice your feature here. Le vamos a dar el contexto que nosotros ya hemos planeado o el que estemos ideando en este momento. Entonces, literalmente lo que podemos hacer es copiar y pegar este prom, correrlo y comenzar a dialogar, por ejemplo, con Cloud Code en modo plan mode. Entonces, esta es una forma de hacerlo. Yo no lo voy a hacer así. Lo que voy a hacer es rellenar esto y lo que le estoy diciendo literalmente, bueno, okay, nuestra
+
+[07:04] primera propuesta es literalmente añadir todo el plan de el documento, el documento que creé previamente eh extrayendo las funcionalidades básicas del plan de Peter. Pues bueno, están aquí en en el el el MVP Pitch y lo que voy a hacer es literalmente nada más correrlo. Le estoy refiriendo el documento. Lo que espero que haga Openc es que lo lea y que trabaje con Cloud Code para entonces sí crear el plan. ¿De acuerdo? Lo corremos y esperamos un segundo y y listo. En cuestión de
+
+[07:32] segundos, literalmente ha creado todo el plan. ¿Dónde está todo esto? Pues bueno, van aquí directo a la al directorio de Opensc en donde dice changes cambios. Ha creado un nuevo subdirectorio con el contexto que nosotros le hemos dado. El la aplicación se llama Foodlens MBP.
+
+[07:47] Perfecto. Y aquí está una serie de específicos. El primero que tiene que ver con, bueno, cómo esta herramienta tiene que funcionar desde la perspectiva del usuario. Es como una especie de eh user story, esto está perfecto. Y luego el segundo, lo que tiene que ver con cómo funciona, el propósito de esta misma aplicación y las tareas, lo más importante, estas las tareas que ya ha planeado OpenSpec en coordinación con Cloud Code. Pues bueno, ya tenemos entonces un plan de cinco tareas
+
+[08:16] divididas en subtareas. Por ejemplo, inicializar next, configurar tawind, etcétera, crear main page, etcétera. Okay, perfecto. Esto me parece perfecto. Aquí nos está diciendo, bueno, la propuesta ya está lista para la revisión. ¿Cómo podemos hacer la revisión? Cuando instalamos Openc, también instalamos ciertos comandos de línea dentro de los recursos que hemos indicado. Entonces, como utilicé Cloud Code y Winsorf, lo que puedo hacer es poner diagonal open spec. Y aquí hay tres específicos que se que fueron
+
+[08:45] instalados para Cloud Code. El primero es aplicar el plan. Todavía no lo vamos a hacer, archivar el plan, es decir, si ya algo está implementado, podemos archivarlo para que no ocupe contexto y no nos vayamos a a confundir. Y el tercero es el andamiaje de la nueva especificación. Como esto ya está validado, no lo vamos a correr. Pero si no está validado esto, lo que te recomendaría es primero correr esto. El tercero que se llama proposal, que lo que hace literalmente es revisarlo en
+
+[09:11] términos técnicos, hace la validación con documentación en el background y listo, ya está validado de mi parte. Entonces, ¿qué es lo que voy a hacer? Y antes de pasar a la implementación, lo que podemos entonces es enfocarnos a limpiar el procedimiento como nosotros querramos. En este caso, como es una aplicación que a lo mejor llevaría un poco más de tiempo implementar, lo único que le voy a decir antes de implementar con Open Spec y Cloud Code es le voy a decir, ¿de acuerdo? Eh, bueno, todo está
+
+[09:36] perfectamente planeado. Entonces, la estrategia que yo estoy siguiendo es muy simple, no contemplar ningún test porque esta es de nuevo solamente un demo, pero obviamente en tu caso. Y bueno, la estrategia que yo voy a seguir es bueno, el MOC, no enfocarnos nada de backend en este caso porque obviamente solamente es un demo. Yo lo que te recomiendo es que vayas directo y hagas la implementación de todo porque todo va a estar perfectamente organizado. Lo hago simplemente por cuestión de tiempo y
+
+[10:00] bueno, que haga el andamiaje visual primero o que se enfoque en ello para obtener Mog data que luego pueda ayudar a desarrollar la aplicación en el backend de una manera muchísimo más sencilla. Lo que va a hacer ahora es corregir el plan, darle prioridad a lo que le estoy diciendo que necesito que le dé prioridad. Estaba tentado de levantarme de mi silla para ir por café o algo mientras trabajaba, pero terminó antes los aspectos visuales. Vamos a ver qué es lo que creó.
+
+[10:28] Wow. Analiza tu comida. Ve esto para capturar. Esto es m data, ¿de acuerdo? Esto no está pasando la realidad, pero ah, bueno, el frontend de la aplicación es perfectamente funcional. Obviamente podemos jugar completamente con los resultados, pero esto es todo lo que necesitamos con Mog data para luego construir el backend, por cierto.
+
+[10:55] Excelente. Vamos a ver entonces qué es lo que hizo. Todo esto sigue y listo. Estas son las tareas que ya implementó, la 1.1 hasta la 1.3 y de la 2 a la 2.7 con obviamente la única excepción de conectar la API, que eso ya sería construir ahora sí la aplicación.
+
+[11:14] Entonces, pues listo, ahí está. Que efectivamente podemos utilizar OpenSpck en proyectos inicializados. Lo que he hecho es, bueno, utilizar este proyecto de la vía real, es un producto que pronto van a ver en este canal. Pues bueno, le he dicho específicamente a OpenSPC, que está aquí también la instalación, todas las carpetas, etcétera. Eh, originalmente utilicé BMAT para crear este proyecto. Pues bueno, no he creado ninguna especie de conflicto porque operan en dos subdirectorios
+
+[11:40] distintos y le he dado una tarea específica que es crear una landing page para hacer el prelanzamiento de un producto. ¿De acuerdo? Y realmente me ha sorprendido que de nuevo utilizando el mismo proceso en cuestión de minutos utilizando Cloud Code fue rapidísima la implementación de todo el plan. Y aquí podemos ver directamente ad landing page tasks y todo o prácticamente todo ya está implementado. Vamos a ver entonces qué es lo que creó. Vamos entonces a nuestro entorno de desarrollo. Deja de
+
+[12:12] construir manualmente. La IA lo hace por ti. Y esto es AI Flowwork. Este es un diseño muy preliminar realmente, pero bueno, obviamente ya luego haré que se haga muchísimo mejor. Todo lo que ven aquí, pues bueno, lo hizo Openpot code y pues sí, el diseño no es lo mejor posible, pero ahora toca iterar. Así que bueno, esto es Open Spec. De las tres herramientas de ingeniería de contexto que hemos revisado últimamente. Esta creo que es la mejor, honestamente, sobre todo para aquellas personas que no
+
+[12:40] han creado ni un solo agente de inteligencia artificial en su vida. Entonces, si eres completamente primerizo y me pides la recomendación sobre BMAT y Speck It, creo que Open Spec es un poco mejor porque es muchísimo más fácil de implementar. Y antes de terminar, por cierto, si llegamos antes del final de este mes de octubre a los 10,000 suscriptores, voy a abrir el repositorio completamente gratis de alguno de estos agentes que vendo en GR y que también está en la cofradía, que solamente la semana pasada
+
+[13:07] han vendido esto que están viendo en la pantalla. Así que bueno, si los quieres, suscríbete, activa la campana de notificaciones y si quieres decidir cuál, únete a la cofradía en school.com/cofradía. Yo te veo en el siguiente video. Gracias por ver hasta aquí y recuerda como siempre leer tus outputs.
