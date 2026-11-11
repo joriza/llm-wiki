@@ -308,3 +308,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-12-16-ia-le-borro-todo-el-disco-duro-hdeleon-clips.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-ia-le-borro-todo-el-disco-duro-hdeleon-clips (resumen de fuente).
 - Nota: fuente 15/57 de la playlist; comentario del caso Google Antigravity (noticia sin fuente primaria en el raw) con protocolo de seguridad del canal. Duodécimo canal nuevo del lote (Hdeleon Clips), entidad aplazada.
+
+## [2026-11-10] ingesta | Este Generador de Bases de Datos GRATIS es una LOCURA
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=QVpxZyI1Iqk — midulive, publicado 2024-08-13 (07:00).
+- Raw: raw/inteligencia-artificial/2024-08-13-generador-bases-de-datos-gratis-midulive.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-generador-bases-de-datos-gratis-midulive (resumen de fuente).
+- Nota: fuente 16/57 de la playlist; Postgres.new (Supabase) — PostgreSQL con lenguaje natural en el navegador. Tramo final off-topic (giras del canal) excluido de la síntesis. Decimotercer canal nuevo del lote (midulive), entidad aplazada.
