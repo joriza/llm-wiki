@@ -220,3 +220,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-10-16-mejor-ia-gratis-ilimitada-imagenes-sin-censura-creatuiia.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-mejor-ia-gratis-ilimitada-imagenes-sin-censura-creatuiia (resumen de fuente).
 - Nota: fuente 4/57 de la playlist; la herramienta reseñada es Fooocus (transcrito «Focus»), identificación segura por la interfaz descrita. Contenido sensible («sin censura») registrado como contenido de la fuente.
+
+## [2026-11-10] ingesta | NUEVA Herramienta de Imagen IA SIN CENSURA 100% Gratis
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=Fshy6Ele2UQ — MUSYN, publicado 2025-07-22 (18:01).
+- Raw: raw/inteligencia-artificial/2025-07-22-nueva-herramienta-imagen-ia-sin-censura-gratis-musyn.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-nueva-herramienta-imagen-ia-sin-censura-gratis-musyn (resumen de fuente).
+- Nota: fuente 5/57 de la playlist; mismo software (Fooocus) que la fuente 4/57 pero de otro canal y con otro enfoque (requisitos bajos, Colab/móvil, tiempos cronometrados). Divergencia de requisitos entre ambas fuentes anotada para verificar en consolidación (4/6 GB vs 8 GB RAM; compatibilidad AMD).
