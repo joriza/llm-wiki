@@ -901,6 +901,6 @@ Registro cronológico de solo adición.
 
 - **Pedido cumplido**: «procesa solo 5 fuentes más» — fuentes 20-24 con ciclo completo (veredicto 30 días Odysseus, truco iGPU 40 GB, conversiones MoE de LFM, Ling vs LFM, DeepSeek Harness + Gemma 4 local).
 - **Hallazgo técnico importante**: los META FAIL «list index out of range» tenían DOS causas — videos members-only (permanentes, marcados .metafail) y bot-check de YouTube por metadatos sin cookies (RESUELTO: el runner ahora pasa --cookies-from-browser firefox en el paso de metadatos).
-- **En scratch sin procesar**: nYsJn7Fbj_c («DeepSeek Harness — conectar modelos locales de llama.cpp», Nichonauta 2026-08-14) — descargado en vuelo al detener; será fuente 25, amplía la entidad deepseek-harness.
+- **En scratch sin procesar (2 raws)**: nYsJn7Fbj_c («DeepSeek Harness — conectar modelos locales de llama.cpp», amplía la entidad deepseek-harness) y tanYJCxZJr0 («Inteligencia Ilimitada con Atomic AI» — el deep-dive del Proxy Atómico; amplía [[proxy-atomico]]), ambos descargados en vuelo al detener el runner.
 - **Pendientes de descargar**: entradas 31-58 (~28) + la 54 UNKNOWN. SKIP definitivos acumulados: 9 sin subtítulos + 2 members-only.
 - **Reanudación**: procesar el raw de scratch (fuente 25, amplía deepseek-harness); relanzar runner (fix de cookies ya aplicado); ciclo por fuente; al cierre del lote: consolidación final + overview/sintesis + push.
