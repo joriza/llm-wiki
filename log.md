@@ -380,3 +380,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2026-02-02-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab (resumen de fuente).
 - Nota: fuente 24/57 de la playlist; análisis de Genie 3 (world models) con el marco DLSS↔Genie y la tesis del «GPT-3 de la generación de mundos». Mismo canal que 22/57: consolidación conjunta pendiente.
+
+## [2026-11-10] ingesta | ¡NotebookLM acaba de reventar la IA GRATIS! Y esto puedes hacer ahora
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=SkuFcjfHWi4 — Alejavi Rivera, publicado 2026-02-15 (31:11).
+- Raw: raw/inteligencia-artificial/2026-02-15-notebooklm-reventar-ia-gratis-alejavi-rivera.md (transcripción de subtítulos manuales es-ES con marcas de tiempo).
+- Páginas creadas: resumen-notebooklm-reventar-ia-gratis-alejavi-rivera (resumen de fuente).
+- Nota: fuente 25/57 de la playlist; 11 casos para potenciar NotebookLM (extensiones, Canva Bulk, cómics, Antigravity). Patrocinio Top View registrado como tal. Mismo canal que 11/57 y 14/57: consolidación conjunta pendiente.
