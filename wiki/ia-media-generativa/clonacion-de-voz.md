@@ -1,7 +1,7 @@
 # Clonación de voz
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-media-generativa/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 2+ resúmenes de la playlist «IA-Recursos».
 - **Ver también**: [[generacion-local-de-imagenes]] (misma escalera de acceso gratuito) · [[ia-china]] (MiniMax) · [[alejavi-rivera]].

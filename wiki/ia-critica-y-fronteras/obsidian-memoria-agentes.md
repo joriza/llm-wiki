@@ -1,7 +1,7 @@
 # Obsidian como memoria de agentes
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-critica-y-fronteras/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 4 resúmenes de la playlist «IA-Recursos».
 - **Ver también**: [[agentes-de-codigo]] (memoria para agentes) · [[ia-local-texto]] (IA 100 % local) · [[alejavi-rivera]] · [[gentleman-programming]].

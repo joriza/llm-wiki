@@ -1,7 +1,7 @@
 # IA local de texto
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 5+ resúmenes de la playlist «IA-Recursos» con desarrollo del tema.
 - **Ver también**: [[agentes-de-codigo]] · [[evaluacion-de-llms]] · [[generacion-local-de-imagenes]] (su contraparte de imagen) · [[xavier-mitjana]] · [[la-hora-maker]].

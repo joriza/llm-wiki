@@ -1,7 +1,7 @@
 # IA china
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-critica-y-fronteras/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 3+ resúmenes de la playlist «IA-Recursos».
 - **Ver también**: [[agentes-de-codigo]] · [[generacion-local-de-imagenes]] · [[clonacion-de-voz]] · [[agregacion-apis]] · [[alejavi-rivera]].

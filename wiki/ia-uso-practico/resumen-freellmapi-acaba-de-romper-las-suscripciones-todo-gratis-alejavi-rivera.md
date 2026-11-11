@@ -1,7 +1,7 @@
 # Resumen: ¡FreeLLMAPI acaba de romper las suscripciones de IA! TODO GRATIS y SIN límites
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Fuente original**: `raw/inteligencia-artificial/2026-09-17-freellmapi-acaba-de-romper-las-suscripciones-de-ia-todo-gratis-y-sin-l.md` (subtítulos automáticos, literal) — https://www.youtube.com/watch?v=7Oez8kmknOA — Alejavi Rivera, 2026-09-17 (30:51).
 - **Enlaces**: [[resumen-crea-apps-ia-api-gratis-dev-knives]] (cobertura anterior de la misma herramienta) · [[agentes-de-codigo]] · [[resumen-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos-fazt]] · [[agregacion-apis]] · [[ia-local-texto]] (Ollama como proveedor)
 

@@ -1,7 +1,7 @@
 # Gentleman Programming
 
 - **Tipo**: página de entidad (persona/creador de contenido).
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 3 resúmenes de la playlist «IA-Recursos» — canal principal (2024-05-27, 2026-09-19) y canal de streams «Gentleman Programming Vods» (2026-09-16).
 

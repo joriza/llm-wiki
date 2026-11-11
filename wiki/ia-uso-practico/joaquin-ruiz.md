@@ -1,7 +1,7 @@
 # Joaquín Ruiz
 
 - **Tipo**: página de entidad (persona/creador de contenido).
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 2 resúmenes de la playlist «IA-Recursos» (2026-07-28 y 2026-09-08).
 

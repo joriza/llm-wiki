@@ -1,7 +1,7 @@
 # Computer use
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-critica-y-fronteras/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 3+ resúmenes de la playlist «IA-Recursos».
 - **Ver también**: [[agentes-de-codigo]] (arquetipo 9 y seguridad) · [[ia-y-sociedad]] (el SO como capa secundaria) · [[dot-csv-lab]] · [[gustavo-entrala]].

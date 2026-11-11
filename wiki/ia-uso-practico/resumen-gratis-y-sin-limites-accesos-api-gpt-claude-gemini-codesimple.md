@@ -1,7 +1,7 @@
 # Resumen: Gratis y sin límites — accesos API de GPT, Claude, Gemini y más 2026
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Fuente original**: `raw/inteligencia-artificial/2026-09-23-gratis-y-sin-limites-accesos-api-de-gpt-claude-gemini-y-mas-2026-codesimple.md` (subtítulos automáticos, literal) — https://www.youtube.com/watch?v=yucBRF3lSaQ — CodeSimple, 2026-09-23 (06:00).
 - **Enlaces**: [[resumen-freellmapi-acaba-de-romper-las-suscripciones-todo-gratis-alejavi-rivera]] · [[resumen-crea-apps-ia-api-gratis-dev-knives]] · [[resumen-laboratorio-ia-gratis-ubuntu-y-opencode-con-killercoda-comarca-ia]] · [[agregacion-apis]]
 

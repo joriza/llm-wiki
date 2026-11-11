@@ -1,7 +1,7 @@
 # Generación local de imágenes (IA generativa de imágenes abierta)
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-media-generativa/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 11 resúmenes de la playlist «IA-Recursos» (2024-08-18 a 2026-06-28) + 1 del corpus previo.
 - **Ver también**: [[xavier-mitjana]] · [[alejavi-rivera]] · [[agentes-de-codigo]].

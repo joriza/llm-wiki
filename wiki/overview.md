@@ -5,7 +5,7 @@ Wiki de conocimiento personal en español, mantenida por el agente a partir de f
 ## Estado (2026-11-11)
 
 - **Fuentes procesadas**: 100 (15 previas + 57 de la playlist «IA-Recursos» — lote completo 57/57 con raw y resumen + 20 de la playlist «informatica-teoria» — lote completo 20/20, consolidado + 8 de la playlist de historia de la computación — lote completo 8/8, consolidado).
-- **Dominios**: `ciencias-tierra/` (3 fuentes), `inteligencia-artificial/` (58 fuentes: 1 previa + 57 de la playlist), `critica-tecnologica/` (11 fuentes), `informatica-teoria/` (20 fuentes, lote completo y consolidado), `historia-informatica/` (8 fuentes, lote completo y consolidado), `general/` (vacío, reservado).
+- **Dominios**: `ciencias-tierra/` (3 fuentes), `ia-uso-practico/` (33 fuentes), `ia-media-generativa/` (12), `ia-critica-y-fronteras/` (13), `critica-tecnologica/` (11 fuentes), `informatica-teoria/` (20 fuentes, lote completo y consolidado), `historia-informatica/` (8 fuentes, lote completo y consolidado). La ex-`inteligencia-artificial/` (58 fuentes) se dividió en los tres dominios de IA el 2026-11-11 (estudio estructural y confirmación del usuario); `general/` eliminada.
 - **Páginas**: 100 resúmenes de fuente, 34 páginas de concepto, 22 de entidad (más `overview`, `sintesis` y `dominios`).
 
 ## Hilos temáticos actuales

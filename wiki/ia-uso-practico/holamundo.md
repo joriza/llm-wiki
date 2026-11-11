@@ -1,7 +1,7 @@
 # HolaMundo
 
 - **Tipo**: página de entidad (persona/creador de contenido).
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 1 resumen de la playlist «IA-Recursos» (2026-09-15) — tutorial monográfico de 47:47, criterio de fuente única con desarrollo sustancial.
 

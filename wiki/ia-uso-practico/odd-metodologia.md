@@ -1,7 +1,7 @@
 # ODD (Organic Driven Development)
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 2 resúmenes de la playlist «IA-Recursos» (52/57 fuente primaria, 51/57) + uso propio de la wiki.
 - **Ver también**: [[agentes-de-codigo]] · [[evaluacion-de-llms]] (evidencia real vs. cognitiva) · [[gentleman-programming]].

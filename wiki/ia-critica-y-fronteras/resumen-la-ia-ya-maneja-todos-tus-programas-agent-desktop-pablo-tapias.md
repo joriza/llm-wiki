@@ -1,7 +1,7 @@
 # Resumen: La IA ya maneja todos tus programas — Agent Desktop
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-critica-y-fronteras/`.
 - **Fuente original**: `raw/inteligencia-artificial/2026-11-04-la-ia-ya-maneja-todos-tus-programas-agent-desktop-pablo-tapias.md` (subtítulos automáticos, literal) — https://www.youtube.com/watch?v=KkKjpyjn1vI — Pablo Tapias, 2026-11-04 (10:47).
 - **Enlaces**: [[agentes-de-codigo]] · [[resumen-el-nuevo-chatgpt-tiene-superpoderes-gustavo-entrala]] (computer use por visión) · [[resumen-asi-se-usa-la-ia-en-2026-olvida-los-prompts-xavier-mitjana]] · [[computer-use]]
 

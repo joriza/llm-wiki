@@ -1,7 +1,7 @@
 # NotebookLM y su ecosistema
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-critica-y-fronteras/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 4 resúmenes de la playlist «IA-Recursos».
 - **Ver también**: [[agentes-de-codigo]] (control agéntico) · [[evaluacion-de-llms]] (el tutor como evaluación diagnóstica) · [[alejavi-rivera]] · [[xavier-mitjana]].

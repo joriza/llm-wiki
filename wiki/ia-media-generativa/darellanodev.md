@@ -1,7 +1,7 @@
 # Darellanodev
 
 - **Tipo**: página de entidad (persona/creador de contenido).
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-media-generativa/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 2 resúmenes de la playlist «IA-Recursos» (2026-03-22 y 2026-07-05).
 

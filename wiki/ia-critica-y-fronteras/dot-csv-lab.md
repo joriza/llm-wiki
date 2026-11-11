@@ -1,7 +1,7 @@
 # Dot CSV Lab
 
 - **Tipo**: página de entidad (persona/creador de contenido).
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-critica-y-fronteras/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 2 resúmenes de la playlist «IA-Recursos» (2026-01-26 y 2026-02-02).
 

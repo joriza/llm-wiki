@@ -1,7 +1,7 @@
 # World models
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-critica-y-fronteras/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 1 resumen de la playlist «IA-Recursos» (24/57) — análisis monográfico de 25 minutos con desarrollo sustancial, criterio de fuente única.
 - **Ver también**: [[dot-csv-lab]] (fuente) · [[burbuja-de-la-ia]] (el pánico bursátil) · [[limites-de-los-llm]] (el contraste: los LLM no modelan el mundo).

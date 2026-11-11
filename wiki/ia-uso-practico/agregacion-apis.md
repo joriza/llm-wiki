@@ -1,7 +1,7 @@
 # Agregación de APIs y modelos
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 6 resúmenes de la playlist «IA-Recursos».
 - **Ver también**: [[agentes-de-codigo]] (la economía del agente) · [[ia-local-texto]] (Ollama como proveedor más) · [[ia-china]] (modelos gratuitos chinos).

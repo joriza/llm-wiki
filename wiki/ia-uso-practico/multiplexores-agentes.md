@@ -1,7 +1,7 @@
 # Multiplexores de agentes
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 2 resúmenes de la playlist «IA-Recursos» (54/57 y 50/57).
 - **Ver también**: [[agentes-de-codigo]] (infraestructura 24/7) · [[holamundo]] · [[fazt]].

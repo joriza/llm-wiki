@@ -1,7 +1,7 @@
 # Agentes de código (IA agéntica para programar)
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 32 resúmenes de la playlist «IA-Recursos» + 1 del corpus previo (Gary Marcus).
 - **Ver también**: [[evaluacion-de-llms]] · [[generacion-local-de-imagenes]] · [[multiplexores-agentes]] · [[agregacion-apis]] · [[odd-metodologia]] · [[computer-use]] · [[obsidian-memoria-agentes]] · [[xavier-mitjana]] · [[alejavi-rivera]] · [[fazt]] · [[holamundo]] · [[gentleman-programming]].

@@ -1,7 +1,7 @@
 # Xavier Mitjana
 
 - **Tipo**: página de entidad (persona/creador de contenido).
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 5 resúmenes de la playlist «IA-Recursos» (2025-06-27 a 2026-09-27).
 

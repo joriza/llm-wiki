@@ -1,7 +1,7 @@
 # Evaluación de LLMs
 
 - **Tipo**: página de concepto.
-- **Dominio**: `inteligencia-artificial/`.
+- **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 5 resúmenes de la playlist «IA-Recursos» + 1 referencia crítica (marcas de agua) + 2 del corpus previo.
 - **Ver también**: [[limites-de-los-llm]] · [[agentes-de-codigo]].
