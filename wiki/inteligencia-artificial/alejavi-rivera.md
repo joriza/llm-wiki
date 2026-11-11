@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (persona/creador de contenido).
 - **Dominio**: `inteligencia-artificial/`.
 - **Actualizado**: 2026-11-11.
-- **Fuentes**: 4 resúmenes de la playlist «IA-Recursos» (2024-08-18 a 2026-06-28).
+- **Fuentes**: 5 resúmenes de la playlist «IA-Recursos» (2024-08-18 a 2026-06-28).
 
 ## Identidad
 
@@ -15,6 +15,7 @@ Creador de contenido español de IA aplicada, con estilo de **guía-práctica**:
 2. **La IA china como bloque**: 11 casos con Z.ai/GLM 4.6 (full-stack), GLM 4.6V (visión), Manus (agente en tu navegador y por email), Kimi OK Computer (de prompt genérico a SaaS+dashboard+dossier en ~40 minutos), DeepSeek OCR, Qwen deep research, MiniMax (audio) y Kling O1 (edición de vídeo por instrucciones) (resumen-ia-china).
 3. **NotebookLM como motor + ecosistema de extensiones**: ingesta masiva (YouTube-to-NotebookLM, NotebookLM Tools), export editable (Ultraexporter → Google Slides + Nano Banana), organización (FolderLL) y cierre agéntico con Antigravity vía MCP (resumen-notebooklm-reventar).
 4. **Open source como «la mejor opción»**: recopilatorio de +20 herramientas (Open Notebook, VoiceBox, Headroom, Skill Spector, Paper Click, AnythingLLM, OpenHands, Browser Use, DeerFlow, HyperFrame, Open Montage, Gstack, MarkItDown…) con los cuatro métodos típicos de instalación (resumen-reventar-la-ia).
+5. **Obsidian como memoria de agentes**: el método raw → wiki (conceptos, entidades, enlaces) ejecutado por Codex/Claude Code sobre bóvedas locales, con WebClipper para capturar, skills de Kepano (Bases, Canvas en JSON, CLI) y opción de IA 100 % local con Ollama/LM Studio (resumen-obsidian-revento).
 
 ## Tesis transversal
 
@@ -26,6 +27,7 @@ Su argumento de fondo combina dos reclamos: **lo gratuito/ilimitado** (libre acc
 - [[resumen-ia-china-reventar-todo-alejavi-rivera]] (2025-12-11).
 - [[resumen-notebooklm-reventar-ia-gratis-alejavi-rivera]] (2026-02-15).
 - [[resumen-reventar-la-ia-gratis-sin-limites-alejavi-rivera]] (2026-06-28).
+- [[resumen-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-alejavi-rivera]] (2026-05-17).
 
 ## Véase también
 
