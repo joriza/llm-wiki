@@ -1,11 +1,11 @@
 # Resumen: ¿Qué le PASA a nuestra GENERACIÓN? | CÓMO (NO) SER FELIZ
 
 - **Tipo**: resumen de fuente (vídeo-ensayo de divulgación en filosofía y crítica social).
-- **Canal**: Café Kyoto (página de entidad pendiente de consolidación).
+- **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2026-01-14. **Duración**: 36:53.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=TGHJl3Jq91k).
 - **Raw**: [raw/general/2026-01-14-que-le-pasa-a-nuestra-generacion-cafe-kyoto.md](../../raw/general/2026-01-14-que-le-pasa-a-nuestra-generacion-cafe-kyoto.md) (transcripción con marcas de tiempo).
-- **Páginas de concepto asociadas**: pendientes de consolidación (hiperstición, semiocapitalismo, realismo capitalista, moral de la adicción).
+- **Páginas de concepto asociadas**: [[estetica-de-la-regresion]] · [[efecto-enjambre]] · [[low-tech-y-fuga]].
 - **Disposición de la ingesta**: Nueva.
 
 ## Tesis central

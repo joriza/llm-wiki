@@ -157,3 +157,16 @@ Registro cronológico de solo adición.
 - **Referencias cruzadas a construir**: Berardi (fuentes 1, 2, 4); Han (3, 5, 6, 10); Fisher (4, 7); Foucault (1, 3, 11); Benjamin (3, 9); Milei (5, 7, 8); algoritmos/YouTube (1, 6, 8, 10); educación/adoctrinamiento (3, 11).
 - **Detección de contradicciones y verificaciones pendientes**: afirmación del «45% de artículos de derecha» (fuente 10) y el mito «Argentina potencia 1895» (fuente 8) citados como contenido de la fuente, a verificar antes de elevarlos a páginas de concepto; tensión interna del canal entre crítica a la plataforma y su uso monetizado (fuentes 1 y 8 lo declaran explícitamente).
 - **Dominios**: el lote agregó 11 fuentes de filosofía social/crítica tecnológica y política al dominio general/. La propuesta de reordenación de dominios del mismo día (ciencias-tierra/ vs inteligencia-artificial/) sigue pendiente de confirmación del usuario, y ahora debe reevaluarse incluyendo un posible dominio para este corpus (p. ej. critica-tecnologica/ o filosofia-social/).
+
+## [2026-11-10] consolidación | lote Café Kyoto (11 fuentes)
+
+- Ejecutadas las operaciones de consolidación sobre las 11 fuentes del lote, conforme a la regla de concepto único (sin duplicar contenido entre páginas).
+- Página de entidad creada: cafe-kyoto (canal; autor Juan Felipe; origen como «control de daños» y tensión declarada de monetizar la crítica a la plataforma).
+- Páginas de concepto creadas (9): sociedades-de-control, industria-cultural, efecto-enjambre, estetica-de-la-regresion, doctrina-del-odio, construccion-del-acontecimiento, radicalizacion-digital, meritocracia-y-moral-del-esfuerzo, low-tech-y-fuga.
+- Referencias cruzadas: los 11 resúmenes del lote actualizaron «Canal» y «Páginas de concepto asociadas»; los conceptos se enlazan entre sí (See Also) y con [[cafe-kyoto]].
+- Creados por primera vez: wiki/overview.md y wiki/sintesis.md. Actualizado index.md (10 filas nuevas).
+- Lint aplicado: eliminado el enlace huérfano preexistente «ia-y-lenguaje» en limites-de-los-llm (página nunca creada; regla de See Also sin destino). Verificación de enlaces wiki: 37 archivos, todos los enlaces de doble corchete resuelven.
+- Contradicciones entre fuentes: ninguna detectada; la tensión del canal con su propia plataforma se registra como contenido de las fuentes (fuentes 1 y 8 lo declaran explícitamente), no como contradicción.
+- Verificaciones factuales pendientes antes de elevar afirmaciones a concepto: «45% de artículos de derecha como mezcla de verdad y falsedad» (fuente ¿Te radicalizaste durante 2020?) y «Argentina potencia 1895» (fuente ultraderecha-amigo); identificación del «video de Ofelia».
+- Propuesta de dominios formulada al usuario (ver siguiente entrada).
+

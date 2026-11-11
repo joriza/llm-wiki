@@ -1,11 +1,11 @@
 # Resumen: El efecto ENJAMBRE y el FIN de la HUMANIDAD | Franco "Bifo" Berardi
 
 - **Tipo**: resumen de fuente (vídeo-ensayo de divulgación en filosofía y crítica tecnológica).
-- **Canal**: Café Kyoto (página de entidad pendiente de consolidación).
+- **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2022-11-25. **Duración**: 14:22.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=MDRCJ5vgSJk).
 - **Raw**: [raw/general/2022-11-25-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto.md](../../raw/general/2022-11-25-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto.md) (transcripción con marcas de tiempo).
-- **Páginas de concepto asociadas**: pendientes de consolidación (efecto enjambre, conjunción/conexión, capitalismo absoluto); el autor (Berardi) ya aparece citado en [Resumen: Del panóptico al scroll infinito](resumen-del-panoptico-al-scroll-infinito-cafe-kyoto.md).
+- **Páginas de concepto asociadas**: [[efecto-enjambre]] · [[sociedades-de-control]].
 - **Disposición de la ingesta**: Nueva.
 
 ## Tesis central

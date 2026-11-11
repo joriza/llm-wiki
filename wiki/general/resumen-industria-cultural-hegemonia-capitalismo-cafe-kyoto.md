@@ -1,11 +1,11 @@
 # Resumen: La INDUSTRIA CULTURAL y la hegemonía del CAPITALISMO | Th. Adorno y M. Horkheimer
 
 - **Tipo**: resumen de fuente (vídeo-ensayo de divulgación en filosofía y teoría de la cultura).
-- **Canal**: Café Kyoto (página de entidad pendiente de consolidación).
+- **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2023-03-04. **Duración**: 14:13.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=Pf8RyANE1I4).
 - **Raw**: [raw/general/2023-03-04-industria-cultural-hegemonia-capitalismo-cafe-kyoto.md](../../raw/general/2023-03-04-industria-cultural-hegemonia-capitalismo-cafe-kyoto.md) (transcripción con marcas de tiempo).
-- **Páginas de concepto asociadas**: pendientes de consolidación (industria cultural, estandarización, cultura de masas; ya citada en [Resumen: Abandoná las redes](resumen-abandona-las-redes-low-tech-high-life-cafe-kyoto.md)).
+- **Páginas de concepto asociadas**: [[industria-cultural]] · [[sociedades-de-control]] · [[low-tech-y-fuga]].
 - **Disposición de la ingesta**: Nueva.
 
 ## Tesis central

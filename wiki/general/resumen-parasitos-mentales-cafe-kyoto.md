@@ -1,11 +1,11 @@
 # Resumen: PARÁSITOS MENTALES
 
 - **Tipo**: resumen de fuente (vídeo-ensayo de divulgación en filosofía y crítica política).
-- **Canal**: Café Kyoto (página de entidad pendiente de consolidación).
+- **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2025-07-17. **Duración**: 23:16.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=gthW3hGebB0).
 - **Raw**: [raw/general/2025-07-17-parasitos-mentales-cafe-kyoto.md](../../raw/general/2025-07-17-parasitos-mentales-cafe-kyoto.md) (transcripción con marcas de tiempo).
-- **Páginas de concepto asociadas**: pendientes de consolidación (doctrina del odio, enemigo en lo político, pedagogía de la crueldad).
+- **Páginas de concepto asociadas**: [[doctrina-del-odio]] · [[construccion-del-acontecimiento]] · [[estetica-de-la-regresion]].
 - **Disposición de la ingesta**: Nueva.
 
 ## Tesis central

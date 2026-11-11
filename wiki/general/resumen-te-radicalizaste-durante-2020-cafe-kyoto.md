@@ -1,11 +1,11 @@
 # Resumen: ¿Te RADICALIZASTE durante 2020? | Los algoritmos y la IDEOLOGÍA
 
 - **Tipo**: resumen de fuente (vídeo-ensayo de divulgación en filosofía y crítica tecnológica).
-- **Canal**: Café Kyoto (página de entidad pendiente de consolidación).
+- **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2022-07-11. **Duración**: 13:05.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=uRBL7io48kU).
 - **Raw**: [raw/general/2022-07-11-te-radicalizaste-durante-2020-cafe-kyoto.md](../../raw/general/2022-07-11-te-radicalizaste-durante-2020-cafe-kyoto.md) (transcripción con marcas de tiempo).
-- **Páginas de concepto asociadas**: pendientes de consolidación (dominación algorítmica, posverdad, FoMO, cámaras de eco).
+- **Páginas de concepto asociadas**: [[sociedades-de-control]] · [[construccion-del-acontecimiento]] · [[radicalizacion-digital]].
 - **Disposición de la ingesta**: Nueva.
 
 ## Tesis central

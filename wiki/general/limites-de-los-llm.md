@@ -40,5 +40,4 @@ Los críticos de esta posición le atribuyen haber dicho «que no se podían usa
 
 ## Véase también
 
-- [[ia-y-lenguaje]] — cómo se mide la huella de los LLM en el lenguaje de las personas (página creada con la fuente siguiente de esta wiki).
 - [[ia-y-sociedad]] — las consecuencias sociales, democráticas y económicas que Marcus deriva de estos límites.

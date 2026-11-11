@@ -1,11 +1,11 @@
 # Resumen: Cómo la ULTRADERECHA te ROBÓ a un AMIGO | La CONSTRUCCIÓN del ACONTECIMIENTO y la RADICALIZACIÓN
 
 - **Tipo**: resumen de fuente (vídeo-ensayo de divulgación en comunicación/semiótica y crítica política).
-- **Canal**: Café Kyoto (página de entidad pendiente de consolidación).
+- **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2024-09-30. **Duración**: 52:16.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=YP-hPDsz-XA).
 - **Raw**: [raw/general/2024-09-30-ultraderecha-te-robo-a-un-amigo-cafe-kyoto.md](../../raw/general/2024-09-30-ultraderecha-te-robo-a-un-amigo-cafe-kyoto.md) (transcripción con marcas de tiempo).
-- **Páginas de concepto asociadas**: pendientes de consolidación (construcción del acontecimiento, semiosis social, alt-right pipeline, humor hipermediático).
+- **Páginas de concepto asociadas**: [[construccion-del-acontecimiento]] · [[radicalizacion-digital]] · [[doctrina-del-odio]].
 - **Disposición de la ingesta**: Nueva.
 
 ## Tesis central

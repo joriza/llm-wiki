@@ -1,11 +1,11 @@
 # Resumen: Lo que NO QUIEREN que SEPAS del SISTEMA EDUCATIVO | Noam Chomsky
 
 - **Tipo**: resumen de fuente (vídeo-ensayo de divulgación en filosofía política y educación).
-- **Canal**: Café Kyoto (página de entidad pendiente de consolidación).
+- **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2021-08-13. **Duración**: 12:49.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=KB7IV_GhjTY).
 - **Raw**: [raw/general/2021-08-13-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto.md](../../raw/general/2021-08-13-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto.md) (transcripción con marcas de tiempo).
-- **Páginas de concepto asociadas**: pendientes de consolidación (normalización, aparatos ideológicos de Estado, adoctrinamiento).
+- **Páginas de concepto asociadas**: [[sociedades-de-control]] · [[meritocracia-y-moral-del-esfuerzo]].
 - **Disposición de la ingesta**: Nueva.
 
 ## Tesis central

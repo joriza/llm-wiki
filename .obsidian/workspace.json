@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/general/resumen-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resumen-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto"
+              "title": "index"
             }
           }
         ]
@@ -190,8 +190,19 @@
   },
   "active": "ceecff63c52532b8",
   "lastOpenFiles": [
+    "wiki/general/amoc.md",
     "index.md",
     "wiki/general/burbuja-de-la-ia.md",
+    "wiki/sintesis.md",
+    "wiki/overview.md",
+    "wiki/general/low-tech-y-fuga.md",
+    "wiki/general/meritocracia-y-moral-del-esfuerzo.md",
+    "wiki/general/radicalizacion-digital.md",
+    "log.md",
+    "wiki/general/construccion-del-acontecimiento.md",
+    "wiki/general/doctrina-del-odio.md",
+    "wiki/general/estetica-de-la-regresion.md",
+    "wiki/general/efecto-enjambre.md",
     "wiki/general/resumen-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto.md",
     "raw/general/2021-08-13-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto.md",
     "wiki/general/resumen-te-radicalizaste-durante-2020-cafe-kyoto.md",
@@ -205,17 +216,6 @@
     "wiki/general/resumen-abandona-las-redes-low-tech-high-life-cafe-kyoto.md",
     "raw/general/2025-07-30-abandona-las-redes-low-tech-high-life-cafe-kyoto.md",
     "wiki/general/resumen-parasitos-mentales-cafe-kyoto.md",
-    "raw/general/2025-07-17-parasitos-mentales-cafe-kyoto.md",
-    "wiki/general/resumen-que-le-pasa-a-nuestra-generacion-cafe-kyoto.md",
-    "raw/general/2026-01-14-que-le-pasa-a-nuestra-generacion-cafe-kyoto.md",
-    "wiki/general/resumen-estafa-moral-meritocracia-cafe-kyoto.md",
-    "raw/general/2025-12-29-estafa-moral-meritocracia-cafe-kyoto.md",
-    "wiki/general/resumen-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto.md",
-    "raw/general/2022-11-25-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto.md",
-    "wiki/general/resumen-del-panoptico-al-scroll-infinito-cafe-kyoto.md",
-    "wiki/general/gary-marcus.md",
-    "wiki/general/gustavo-entrala.md",
-    "raw/general/2025-05-15-del-panoptico-al-scroll-infinito-cafe-kyoto.md",
     "log.md.tmp.16692.ab3061e50e3d",
     "index.md.tmp.16692.21a2b824b9a2",
     "index.md.tmp.16692.e34df6a38f69",
