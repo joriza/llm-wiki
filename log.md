@@ -511,3 +511,7 @@ Registro cronológico de solo adición.
 ## [2026-11-11] ingesta | Claude + Google Flow Plan Gratuito = $13.000/mes
 
 - Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=ZD9VE4l0WnI — Valeria Londoño, 2026-07-13 (22:06). Raw: raw/inteligencia-artificial/2026-07-13-claude-google-flow-plan-gratuito-13-000-mes.md (subtítulos automáticos, literal). Página creada: resumen-claude-google-flow-plan-gratuito-valeria-londono. Nota: fuente 43/57; fábrica de vídeos estilo «Sen» en 4 pasos con herramientas gratuitas (Claude investigador/guion/prompts por tiempo, ElevenLabs, TurboScribe, Google Flow + extensión de cola con Nano Banana 2, CapCut). Cruza con 37/57 (fábrica de vídeo con Claude Code). Estado del lote: 42/57 con resumen, 15 pendientes.
+
+## [2026-11-11] ingesta | Deja de usar el modelo más CARO para todo | SpecJudge
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=T53zvm08zUg — Joaquín Ruiz (IA para Desarrolladores), 2026-07-28 (08:23). Raw: raw/inteligencia-artificial/2026-07-28-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge.md (subtítulos manuales es-ES, literal). Página creada: resumen-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge-joaquin-ruiz. Nota: fuente 44/57; SpecJudge (open source MIT): juez Ollama + reglas YAML recomiendan modelo por encaje (no por precio) leyendo specs spec-driven; volatilidad en YAML fuera del código. Cruces a [[evaluacion-de-llms]] y [[agentes-de-codigo]]; autopromoción del libro del canal [04:34-05:45]. Estado del lote: 43/57 con resumen, 14 pendientes.
