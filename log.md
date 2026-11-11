@@ -774,6 +774,7 @@ Registro cronológico de solo adición.
 - Fuente 13/28: Estufa súper económica, funciona con aceite de cocina (estufa pirolítica de latas a aceite usado; ASR traducido, normalizado en resumen) — raw raw/casa-calefaccion/2024-05-24-estufa-super-economica-funciona-con-aceite-de-cocina.md — resumen wiki/casa-calefaccion/resumen-estufa-super-economica-funciona-con-aceite-de-cocina.md
 - Fuente 14/28: Why Didn't We Think Of This Sooner? DIY SAND HEATER (calentador de arena de emergencia con vela y cobre) — raw raw/casa-calefaccion/2024-11-16-why-didnt-we-think-of-this-sooner-diy-sand-heater.md — resumen wiki/casa-calefaccion/resumen-why-didnt-we-think-of-this-sooner-diy-sand-heater.md
 - Fuente 15/28: How To Create A Solar Sand Battery Heater | Free Heat This Winter! (batería de arena solar con elementos de calefón, datos medidos; ASR literal, normalizado en resumen) — raw raw/casa-calefaccion/2024-10-10-how-to-create-a-solar-sand-battery-heater-free-heat-this-winter.md — resumen wiki/casa-calefaccion/resumen-how-to-create-a-solar-sand-battery-heater-free-heat-this-winter.md
+- Fuente 16/28: Construyo la BATERÍA DE ARENA de Finlandia (réplica casera con PTC + cobre + ventilador Peltier; ASR traducido, normalizado en resumen) — raw raw/casa-calefaccion/2026-03-19-construyo-la-bateria-de-arena-de-finlandia-calefaccion-y-energia-gratis.md — resumen wiki/casa-calefaccion/resumen-construyo-la-bateria-de-arena-de-finlandia-calefaccion-y-energia-gratis.md
 
 ## [2026-11-11] documentación | protocolo de ingesta de playlists + primer push a GitHub
 
