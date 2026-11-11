@@ -292,3 +292,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-12-01-new-gemini-cli-update-is-insane-julian-goldie-seo.md (transcripción de subtítulos automáticos en con marcas de tiempo).
 - Páginas creadas: resumen-new-gemini-cli-update-is-insane-julian-goldie-seo (resumen de fuente, en español).
 - Nota: fuente 13/57 de la playlist; segunda fuente en inglés del lote (encabezado del raw dice «español» por artefacto del extractor; transcripción sin modificar). Dirección de galería transcrita («gemini.com/extensions») a verificar en consolidación. Undécimo canal nuevo del lote (Julian Goldie SEO), entidad aplazada.
+
+## [2026-11-10] ingesta | ¡La IA China acaba de Reventar TODO! Y esto es lo que puedes hacer
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=W_RYfI8xxlg — Alejavi Rivera, publicado 2025-12-11 (29:34).
+- Raw: raw/inteligencia-artificial/2025-12-11-ia-china-reventar-todo-alejavi-rivera.md (transcripción de subtítulos manuales es-ES con marcas de tiempo).
+- Páginas creadas: resumen-ia-china-reventar-todo-alejavi-rivera (resumen de fuente).
+- Nota: fuente 14/57 de la playlist; tour de plataformas chinas con 11 casos (Z.ai/GLM 4.6V, Manus, Kimi OK Computer, DeepSeek OCR, Qwen, MiniMax, Kling O1). Patrocinio Hostinger registrado como tal. Mismo canal que la fuente 11/57; solapa GLM 4.6 con la 12/57: consolidación conjunta pendiente.
