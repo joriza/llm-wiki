@@ -751,3 +751,10 @@ Registro cronológico de solo adición.
 - **Actualizados**: headers `- **Dominio**:` de los 26 archivos que lo llevaban; `index.md` (rutas + columna de dominio de las 85 filas; los 3 «restos» son nombres de archivo/títulos con la frase, no rutas); `wiki/dominios.md` (3 nuevas filas; retiradas inteligencia-artificial y general); `wiki/overview.md` (Estado) y `wiki/sintesis.md` (título de la sección 4).
 - **Auditoría post-movimiento**: cero enlaces huérfanos; conteos verificados por dominio (33/12/13 + páginas 13/3/11 = 85).
 - Commit: task(dominios): dividir inteligencia-artificial en 3 dominios de IA + eliminar general.
+
+## [2026-11-11] ingesta | playlist «Casa/Calefacción» (28 videos, dominio nuevo)
+
+- **Pedido del usuario**: ingesta por lotes de la playlist https://www.youtube.com/playlist?list=PLqe2XRWDm9RERlx1WjdfcR1MfTedCZRco («Casa/Calefacción», canal Jorge J. Izaguirre, 28 videos sobre calefacción y confort térmico del hogar: estufas rocket, baterías de arena, solar pasivo, ventilación natural, muro Trombe, energía casera), «con precaución».
+- **Dominio nuevo confirmado por el usuario**: `casa-calefaccion/` — «Calefacción, refrigeración y confort térmico del hogar: estufas y diseño térmico, solar pasivo, baterías térmicas, ventilación y energía casera».
+- **Preparación**: el entorno cambió desde la sesión previa (venv hermes eliminado): reinstalado yt-dlp 2026.10.26 + youtube-transcript-api + requests en Python 3.11; parcheados `.atl/descarga_playlist.py` (PY → sys.executable) y `.atl/fetch_yt.py` (yt-dlp → python -m yt_dlp). La playlist estaba privada y no resolvía sin sesión — confirmado con cookies de Firefox; el usuario la hizo pública durante la preparación.
+- **Bloqueo 429 de timedtext activo** (patrón conocido, `.atl/bloqueo-ip-youtube.md`): los metadatos responden (la playlist lista 28 videos con subtítulos disponibles es-orig/es/en) pero la descarga del subtítulo rechaza. Reintento con espera ≥7 min y cookies en curso; protocolo de descarga: secuencial con espaciado 25-40 s, ante 429 esperar 5-10 min, abortar tras 2 fallos de red consecutivos, videos sin subtítulos SKIP.
