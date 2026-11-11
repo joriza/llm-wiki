@@ -854,3 +854,9 @@ Registro cronológico de solo adición.
 - Páginas derivadas fuente 7/58: entidad [[nichonauta]] (6 fuentes del canal) + concepto [[por-que-ia-local]].
 - Fuente 8/58: Liquid LFM 2.5 — alternativa potente para uso agéntico y de texto (prueba de modelo; metadatos UNKNOWN, atribución Nichonauta inferida) — raw raw/ia-uso-practico/2026-08-05-liquid-lfm-2-5-una-alternativa-potente-para-uso-agentico-y-de-texto.md — resumen wiki/ia-uso-practico/resumen-liquid-lfm-2-5-una-alternativa-potente-para-uso-agentico-y-de-texto.md
 - Páginas derivadas fuente 8/58: entidad [[lfm]] (familia Liquid, re-evaluación con el 8B-A1B en fuente 28).
+
+## [2026-11-11] pausa | lote ia-local — 8/58 procesadas, descarga detenida a pedido del usuario
+
+- **Motivo**: ventana de uso limitada — el usuario pidió detener el proceso de descarga y pasar a procesar de a uno cuando se reanude.
+- **Estado**: fuentes 1-8/58 con ciclo completo (raw → resumen → páginas → cruces → commit). Descargados y preservados en scratch SIN procesar: pkXUnTO7Y9c (Adiós Loops, comando en LLMs) y yeyKPVQuiNA (Gemma 4 E2B redacción en español). Pendientes de descargar: el resto del lote (49 entradas) + 2 META FAIL para re-pass (4nsHGYJgm94, v_XTwngbUc8) + 1 entrada UNKNOWN (y-SXFKXvv9Q).
+- **Reanudación**: con el VPN conectado, relanzar `.atl/descarga_playlist.py "https://www.youtube.com/playlist?list=PLeaYlHPISoSQ" ia-local` (salta lo descargado por marcadores; los 2 raws en scratch se procesan primero a mano) y continuar el ciclo por fuente: raw → resumen → páginas de concepto/entidad → cruces → commit. Los conceptos existentes que absorberán fuentes: [[llama-cpp]], [[qwen]], [[gemma-4]], [[lfm]], [[desarrollo-con-modelos-locales]], [[hardware-para-ia-local]], [[por-que-ia-local]], [[panorama-herramientas-open-source-ia]].
