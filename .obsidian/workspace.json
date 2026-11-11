@@ -11,10 +11,14 @@
             "id": "ceecff63c52532b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -186,6 +190,8 @@
   },
   "active": "ceecff63c52532b8",
   "lastOpenFiles": [
+    "raw/inteligencia-artificial/2026-04-18-agente-de-codigo-que-viene-vacio-fazt.md",
+    "wiki/inteligencia-artificial/resumen-notebooklm-reventar-ia-gratis-alejavi-rivera.md",
     "wiki/dominios.md",
     "wiki/overview.md",
     "raw/inteligencia-artificial/2026-02-15-notebooklm-reventar-ia-gratis-alejavi-rivera.md",
@@ -210,8 +216,6 @@
     "wiki/inteligencia-artificial/resumen-ia-le-borro-todo-el-disco-duro-hdeleon-clips.md",
     "raw/inteligencia-artificial/2025-12-16-ia-le-borro-todo-el-disco-duro-hdeleon-clips.md",
     "wiki/inteligencia-artificial/resumen-ia-china-reventar-todo-alejavi-rivera.md",
-    "raw/inteligencia-artificial/2025-12-11-ia-china-reventar-todo-alejavi-rivera.md",
-    "wiki/inteligencia-artificial/resumen-new-gemini-cli-update-is-insane-julian-goldie-seo.md",
     "raw/critica-tecnologica",
     "raw/inteligencia-artificial",
     "raw/ciencias-tierra",

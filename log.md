@@ -388,3 +388,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2026-02-15-notebooklm-reventar-ia-gratis-alejavi-rivera.md (transcripción de subtítulos manuales es-ES con marcas de tiempo).
 - Páginas creadas: resumen-notebooklm-reventar-ia-gratis-alejavi-rivera (resumen de fuente).
 - Nota: fuente 25/57 de la playlist; 11 casos para potenciar NotebookLM (extensiones, Canva Bulk, cómics, Antigravity). Patrocinio Top View registrado como tal. Mismo canal que 11/57 y 14/57: consolidación conjunta pendiente.
+
+## [2026-11-10] ingesta | El Agente de Código que Viene Vacío… y Eso Es Su Mayor Fortaleza
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=RRAYtqnGJPs — Fazt, publicado 2026-04-18 (25:22).
+- Raw: raw/inteligencia-artificial/2026-04-18-agente-de-codigo-que-viene-vacio-fazt.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-agente-de-codigo-que-viene-vacio-fazt (resumen de fuente).
+- Nota: fuente 26/57 de la playlist; reseña de Pi (el agente minimalista extensible — el mismo harness en el que corre esta ingesta). Algunos nombres garbiñados por subtítulos automáticos (OpenClaw, Claude Code, modelos) anotados para verificación en consolidación. Patrocinios Don Dominio y fast.dev registrados como tales. Decimonoveno canal nuevo del lote (Fazt), entidad aplazada.
