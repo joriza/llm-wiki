@@ -559,3 +559,7 @@ Registro cronológico de solo adición.
 ## [2026-11-11] ingesta | FreeLLMAPI rompe las suscripciones (Alejavi Rivera)
 
 - Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=7Oez8kmknOA — Alejavi Rivera, 2026-09-17 (30:51). Raw: raw/inteligencia-artificial/2026-09-17-freellmapi-acaba-de-romper-las-suscripciones-de-ia-todo-gratis-y-sin-l.md (subtítulos automáticos, literal). Página creada: resumen-freellmapi-acaba-de-romper-las-suscripciones-todo-gratis-alejavi-rivera. Nota: fuente 55/57; segunda cobertura de FreeLLMAPI (cruce con resumen-crea-apps-ia-api-gratis-dev-knives): solo modelos gratuitos auto-filtrados, modos fusion/auto/enrutamiento, mapeo Opus/Sonnet/Haiku, analiticas y trazabilidad, Ollama local como proveedor, compresión de contexto, apps móviles y VPS Docker. Afiliación Manus y autopromoción excluidas. Estado del lote: 55/57 con resumen, 2 pendientes.
+
+## [2026-11-11] ingesta | Gratis y sin límites: accesos API (CodeSimple)
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=yucBRF3lSaQ — CodeSimple, 2026-09-23 (06:00). Raw: raw/inteligencia-artificial/2026-09-23-gratis-y-sin-limites-accesos-api-de-gpt-claude-gemini-y-mas-2026-codesimple.md (subtítulos automáticos, literal; título del raw corregido, venía como UNKNOWN). Página creada: resumen-gratis-y-sin-limites-accesos-api-gpt-claude-gemini-codesimple. Nota: fuente 56/57; catálogo corto de proveedores gratuitos (NVIDIA, Pinecone, Token Harbor, OpenRouter, Talkify, agentrouter.org); nombres dudosos marcados con (?). Estado del lote: 56/57 con resumen, 1 pendiente.
