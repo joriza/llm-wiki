@@ -896,3 +896,11 @@ Registro cronológico de solo adición.
 - Fuente 22/58: Creé un modelo MoE 0.1B — ultra rápido incluso en CPU (conversiones MoE del canal; entidad lfm actualizada) — raw raw/ia-uso-practico/2026-08-26-cree-un-modelo-moe-0-1b-ultra-rapido-incluso-en-cpu.md — resumen wiki/ia-uso-practico/resumen-cree-un-modelo-moe-0-1b-ultra-rapido-incluso-en-cpu.md
 - Fuente 23/58: Ling3.0 Tiny vs LFM 2.5 8B A1B — ¿cuál es el MEJOR modelo de IA pequeño? (comparativa; entidad lfm actualizada con el veredicto) — raw raw/ia-uso-practico/2026-08-27-ling3-0-tiny-vs-lfm-2-5-8b-a1b-cual-es-el-mejor-modelo-de-ia-pequeno.md — resumen wiki/ia-uso-practico/resumen-ling3-0-tiny-vs-lfm-2-5-8b-a1b-cual-es-el-mejor-modelo-de-ia-pequeno.md
 - Fuente 24/58: Nuevo DeepSeek Harness completamente gratis usando Gemma 4 (entidad deepseek-harness creada; preset optimizado del canal referenciado; benchmarks citados no verificados) — raw raw/ia-uso-practico/2026-08-26-nuevo-deepseek-harness-completamente-gratis-usando-gemma-4.md — resumen wiki/ia-uso-practico/resumen-nuevo-deepseek-harness-completamente-gratis-usando-gemma-4.md
+
+## [2026-11-11] pausa | lote ia-local — 24/58 procesadas (cumplidas las 5 fuentes del segundo pedido)
+
+- **Pedido cumplido**: «procesa solo 5 fuentes más» — fuentes 20-24 con ciclo completo (veredicto 30 días Odysseus, truco iGPU 40 GB, conversiones MoE de LFM, Ling vs LFM, DeepSeek Harness + Gemma 4 local).
+- **Hallazgo técnico importante**: los META FAIL «list index out of range» tenían DOS causas — videos members-only (permanentes, marcados .metafail) y bot-check de YouTube por metadatos sin cookies (RESUELTO: el runner ahora pasa --cookies-from-browser firefox en el paso de metadatos).
+- **En scratch sin procesar**: nYsJn7Fbj_c («DeepSeek Harness — conectar modelos locales de llama.cpp», Nichonauta 2026-08-14) — descargado en vuelo al detener; será fuente 25, amplía la entidad deepseek-harness.
+- **Pendientes de descargar**: entradas 31-58 (~28) + la 54 UNKNOWN. SKIP definitivos acumulados: 9 sin subtítulos + 2 members-only.
+- **Reanudación**: procesar el raw de scratch (fuente 25, amplía deepseek-harness); relanzar runner (fix de cookies ya aplicado); ciclo por fuente; al cierre del lote: consolidación final + overview/sintesis + push.
