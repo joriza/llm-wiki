@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (modelos).
 - **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11 (fuentes 2, 3, 5 y 6/58 del lote ia-local).
-- **Fuentes**: [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]] · [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] · [[resumen-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad]] · [[resumen-qwen-3-5-4b-el-modelo-gratis-que-supera-al-o3-mini-en-local]].
+- **Fuentes**: [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]] · [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] · [[resumen-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad]] · [[resumen-qwen-3-5-4b-el-modelo-gratis-que-supera-al-o3-mini-en-local]] · [[resumen-reto-modelos-2b-como-sacar-el-maximo-provecho-con-ia-local]] (fuente 12 — el 2B medido: 4,4 GB / 136 tok/s, KV más exigente que Gemma).
 
 **Qwen** (Alibaba) es la familia de modelos abiertos que el lote ia-local documenta como **los mejores para desarrollo y uso agéntico** en tamaños de hardware de hogar.
 
