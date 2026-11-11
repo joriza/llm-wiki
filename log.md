@@ -23,7 +23,16 @@ Registro cronológico de solo adición.
 - Fuente: https://www.youtube.com/watch?v=MDRCJ5vgSJk — Café Kyoto, publicado 2022-11-25 (14:22).
 - Raw: raw/general/2022-11-25-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto (resumen de fuente).
-- Nota: mismo canal que la fuente anterior; los conceptos (efecto enjambre, conjunción/conexión, capitalismo absoluto) y la página de entidad de Berardi quedan aplazados a la consolidación. Nombres garbiñados por la transcripción automática se normalizaron u omitieron según criterio ya establecido en la ingesta de Gary Marcus.
+- Nota: mismo canal que la fuente anterior; los conceptos (efecto enjambre, conjunción/conexión, capitalismo absoluto) y la página de entidad de Berardi quedan aplazados a la consolidación. Nombres garbiñados por la transcripción automática se normalizaron u omitieron según criterio ya establecido en la ingesta de Gary Marcus. Comiteado en 06b94e7.
+
+## [2026-11-10] ingesta | La ESTAFA moral de la MERITOCRACIA | Trabajo, esfuerzo y cansancio
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=SFW9V-GZ7gs — Café Kyoto, publicado 2025-12-29 (30:10).
+- Raw: raw/general/2025-12-29-estafa-moral-meritocracia-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-estafa-moral-meritocracia-cafe-kyoto (resumen de fuente).
+- Nota: tercer ensayo de Café Kyoto en el lote; conceptos (moral del esfuerzo, meritocracia, sociedad del cansancio) aplazados a la consolidación. El vídeo incluye un bloque publicitario transcribido en el raw y excluido del resumen.
+
 
 
 ## [2026-11-10] ingesta | Todo lo que Sabemos del Colapso de la AMOC — Y lo que le Haría a Tu País
