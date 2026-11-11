@@ -32,7 +32,10 @@ Vigente desde 2026-11-11 (sesión «Casa/Calefacción»). Ajustes decididos dura
 14. **Sidecars para paralelizar (solo modo workers)**: si hay workers paralelos, cada uno escribe SOLO su resumen (nombre único) + un sidecar por fuente (`.atl/scratch/ingesta/fila-N.md` con la fila de index.md y la línea de log.md); el orquestador aplica sidecars y comitea — index.md y log.md nunca los tocan dos workers a la vez.
 15. **Consolidación aplazada**: conceptos, entidades y cruces se hacen al cierre del lote, no durante la ingesta.
 
-## Estado al pausar (2026-11-11, pedido del usuario)
+## Estado al pausar (2026-11-11, 2ª pausa — pedido del usuario)
 
-- Playlist «Casa/Calefacción» (Jorge J. Izaguirre, 28 entradas → 27 únicas): **9 fuentes committeadas** (commits `3aebc2b`…`1554812` + aplicación por sidecar); 4+ entradas SKIP-NO-SUBS; pendientes: reintentos `mY-_RkYDRuM` y `tksaBVuHcBc` (429 por celular tras ~12 descargas rápidas) + entradas 17-28.
-- **Reanudación**: relanzar `.atl/descarga_playlist.py` con `FYT_SOURCE` (salta los existentes por marcadores) → monitor del log (`tail -f | grep "OK \|SKIP\|ABORT\|429"`) → ingesta inline en agente único a medida que lleguen raws.
+- Playlist «Casa/Calefacción» (28 entradas → 27 únicas): **21 fuentes committeadas** (`3aebc2b`…`ee16808`, una por fuente con git add por archivo); 4 entradas SKIP-NO-SUBS definitivas (marcadores `.no-subs`); **quedan por descargar 2 entradas (26-27/27)** y sus ingestas.
+- Mejoras de herramienta esta sesión: runner con modo `--one` (bucle descarga→ingesta en agente único, pacing externo ≥50 s), `log()` robusto ante emojis (cp1252), marcadores `.no-subs` contra re-sondeos.
+- Fuentes especiales ya registradas: 2 huecas (10, 11), 1 off-topic (19), 2 con marco narrativo clickbait señalado en resumen (20, 21); 6 fuentes de batería de arena (9, 14-18) candidatas a página de concepto única.
+- **Pendiente al cierre del lote (consolidación aplazada)**: páginas de concepto (batería de arena ×6; espejo/sauna; estufas pirolíticas), entidades de canales, cruces con `[[...]]`, contradicciones (arena vs agua como almacenador: fuentes 15/17 vs 16), actualizar `overview.md` y `sintesis.md`, evaluar dominio para construcción (fuente 19), listar pendientes en `log.md`.
+- **Reanudación**: (1) relanzar `.atl/descarga_playlist.py` con `FYT_SOURCE` y `--one` 2 veces (espaciado ≥50 s) → ingestar cada raw; (2) consolidación completa del dominio; (3) commit y push.
