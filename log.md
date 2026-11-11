@@ -284,3 +284,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-10-01-kilo-code-glm-46-modelo-ultra-economico-cursosdesarrolloweb.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-kilo-code-glm-46-modelo-ultra-economico-cursosdesarrolloweb (resumen de fuente).
 - Nota: fuente 12/57 de la playlist; Kilo Code + GLM 4.6 (Z.ai) con demo de API Laravel 12. Inconsistencia menor de la fuente (100 vs 120 prompts/5h para el plan Light) anotada para verificación. Décimo canal nuevo del lote (CursosDesarrolloWeb), entidad aplazada.
+
+## [2026-11-10] ingesta | NEW Gemini CLI Update is INSANE!
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=x14zcZHjz5M — Julian Goldie SEO, publicado 2025-12-01 (08:34).
+- Raw: raw/inteligencia-artificial/2025-12-01-new-gemini-cli-update-is-insane-julian-goldie-seo.md (transcripción de subtítulos automáticos en con marcas de tiempo).
+- Páginas creadas: resumen-new-gemini-cli-update-is-insane-julian-goldie-seo (resumen de fuente, en español).
+- Nota: fuente 13/57 de la playlist; segunda fuente en inglés del lote (encabezado del raw dice «español» por artefacto del extractor; transcripción sin modificar). Dirección de galería transcrita («gemini.com/extensions») a verificar en consolidación. Undécimo canal nuevo del lote (Julian Goldie SEO), entidad aplazada.
