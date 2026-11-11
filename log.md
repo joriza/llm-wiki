@@ -252,3 +252,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2024-11-11-comfyui-tutorial-completo-flux-dev-sd35-ia-paso-a-paso.md (transcripción de subtítulos manuales es con marcas de tiempo).
 - Páginas creadas: resumen-comfyui-tutorial-completo-flux-dev-sd35-ia-paso-a-paso (resumen de fuente).
 - Nota: fuente 8/57 de la playlist; tutorial de RunPod (nube de pago, barata) + ComfyUI; séptimo canal nuevo del lote (IA Paso a Paso), entidad aplazada.
+
+## [2026-11-10] ingesta | Automatiza CUALQUIER TAREA de EDICIÓN de IMÁGENES — Flux Kontext [DEV]
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=Le-ZOJ9ydtQ — Xavier Mitjana - Lab, publicado 2025-06-27 (15:42).
+- Raw: raw/inteligencia-artificial/2025-06-27-automatiza-tareas-edicion-imagenes-flux-kontext-dev-xavier-mitjana-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-automatiza-tareas-edicion-imagenes-flux-kontext-dev-xavier-mitjana-lab (resumen de fuente).
+- Nota: fuente 9/57 de la playlist; anuncio de open weights de FLUX.1 Kontext Dev + fine-tuning por tareas vía FAL. Mismo autor que la fuente 7/57 (canal principal) y mismo modelo que la 6/57; consolidación conjunta pendiente. Patrocinio Freepik registrado como tal.
