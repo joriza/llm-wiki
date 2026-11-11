@@ -2,6 +2,57 @@
 
 Registro cronológico de solo adición.
 
+## [2026-11-10] ingesta | Todo lo que Sabemos del Colapso de la AMOC — Y lo que le Haría a Tu País
+
+- Disposición: Nueva (primera ingesta; se crean wiki/, wiki/dominios.md, index.md y log.md; dominio inicial general/ por decisión del usuario).
+- Fuente: https://www.youtube.com/watch?v=dF-9NaUot70 — Coordenada Crítica, publicado 2026-10-19 (23:10).
+- Raw: raw/general/2026-10-19-colapso-amoc-coordenada-critica.md (transcripción de subtítulos manuales es-ES con marcas de tiempo + descripción original del vídeo).
+- Páginas creadas: resumen-colapso-amoc-coordenada-critica (resumen de fuente), amoc (página de concepto), coordenada-critica (página de entidad).
+
+## [2026-11-10] ingesta | El Súper El Niño Ya Iguala al de 1877 — Esto Es lo que Pasó Entonces
+
+- Disposición: Nueva; Actualización de coordenada-critica (nueva fuente procesada).
+- Fuente: https://www.youtube.com/watch?v=uDBXpyhokfI — Coordenada Crítica, publicado 2026-10-21 (21:52).
+- Raw: raw/general/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md (transcripción de subtítulos manuales es-ES con marcas de tiempo + descripción original del vídeo).
+- Páginas creadas: resumen-super-el-nino-1877-coordenada-critica (resumen de fuente), el-nino (página de concepto), hambruna-global-de-1877 (página de concepto).
+- Updated: coordenada-critica (nueva fuente procesada).
+
+## [2026-11-10] ingesta | Lo que Viene Después del Súper El Niño Es Peor
+
+- Disposición: Nueva; Actualización de el-nino (mecánica del apagado, La Niña, calor diferido, huracanes, dengue, precios, corales) y de coordenada-critica.
+- Fuente: https://www.youtube.com/watch?v=bH7JU4ctpu8 — Coordenada Crítica, publicado 2026-10-23 (18:15).
+- Raw: raw/general/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md (transcripción de subtítulos manuales es-ES con marcas de tiempo + descripción original del vídeo).
+- Páginas creadas: resumen-lo-que-viene-despues-del-super-el-nino-coordenada-critica (resumen de fuente).
+- Updated: el-nino (nueva sección «Qué pasa después de un El Niño» y fuentes ampliadas), coordenada-critica (nueva fuente procesada).
+
+## [2026-11-10] nota | origen de las ingestas 2 y 3
+
+- Las dos fuentes anteriores se ingirieron a partir del archivo raw/para-ingesta.txt (lista de dos URLs aportada por el usuario). El archivo se conserva en raw/ sin modificar.
+
+## [2026-11-10] ingesta | Entrevista a Gary Marcus (Gustavo Entrala)
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=0a7tFu6Gq0M — Gustavo Entrala, publicado 2026-11-07 (62:52).
+- Raw: raw/general/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md (transcripción de subtítulos automáticos es con marcas de tiempo + descripción original; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-entrevista-gary-marcus-gustavo-entrala (resumen de fuente), limites-de-los-llm (concepto), burbuja-de-la-ia (concepto), ia-y-sociedad (concepto), gary-marcus (entidad persona), gustavo-entrala (entidad persona/canal).
+- Nota: la transcripción automática contiene errores de reconocimiento de nombres propios; las citas de la wiki se tomaron de las secciones legibles del raw y los nombres dudosos se omitieron o se marcaron como transcripción literal.
+
+## [2026-11-10] mantenimiento | registro de fuente original en los resúmenes
+
+- A pedido del usuario: guardar en la wiki la fuente de cada archivo procesado.
+- Se añadió la línea **Fuente** (URL del vídeo original en YouTube) a los cuatro resúmenes de fuente; ya citaban el archivo `raw/` pero no la URL de origen. Las URLs se tomaron de la metadata de cada raw, sin modificarlos.
+- Actualizados: resumen-colapso-amoc-coordenada-critica, resumen-super-el-nino-1877-coordenada-critica, resumen-lo-que-viene-despues-del-super-el-nino-coordenada-critica, resumen-entrevista-gary-marcus-gustavo-entrala.
+
+## [2026-11-10] pendiente | reordenación de dominios propuesta
+
+- Con 3 fuentes de clima/océano (Coordenada Crítica) y 3 de inteligencia artificial, la creación de dominios propios (p. ej. ciencias-tierra/ e inteligencia-artificial/) requiere confirmación del usuario conforme al procedimiento; queda pendiente de propuesta aceptada.
+
+## [2026-11-10] descarte | fuente ConquerAI retirada del proyecto
+
+- Decisión del usuario: descartar la fuente del canal ConquerAI («¿Puede la IA cambiar cómo pensamos?», 2026-10-24) antes de su ingesta.
+- Se retiró su URL de raw/para-ingesta.txt y se eliminó la transcripción sin procesar raw/general/2026-10-24-puede-la-ia-cambiar-como-pensamos-conquerai.md (recuperable desde el historial de git).
+- No existían páginas en wiki/, index.md ni resúmenes asociados; no quedan referencias en el contenido del proyecto.
+
 ## [2026-11-10] nota | inicio de ingesta por lotes
 
 - Pedido del usuario: «relice una ingesta por lotes de las entradas sin procesar» (raw/para-ingesta.txt).
@@ -89,62 +140,20 @@ Registro cronológico de solo adición.
 - Páginas creadas: resumen-te-radicalizaste-durante-2020-cafe-kyoto (resumen de fuente).
 - Nota: décima fuente de Café Kyoto en el lote y una de las más tempranas del canal; con bibliografía académica (FoMO, estilo-metría de noticias hiperpartidistas). El dato del «45% de artículos de derecha» se registra como afirmación de la fuente y su estudio citado, pendiente de verificación propia en consolidación.
 
-
-
-
-
-
-
-
-
-
-## [2026-11-10] ingesta | Todo lo que Sabemos del Colapso de la AMOC — Y lo que le Haría a Tu País
-
-- Disposición: Nueva (primera ingesta; se crean wiki/, wiki/dominios.md, index.md y log.md; dominio inicial general/ por decisión del usuario).
-- Fuente: https://www.youtube.com/watch?v=dF-9NaUot70 — Coordenada Crítica, publicado 2026-10-19 (23:10).
-- Raw: raw/general/2026-10-19-colapso-amoc-coordenada-critica.md (transcripción de subtítulos manuales es-ES con marcas de tiempo + descripción original del vídeo).
-- Páginas creadas: resumen-colapso-amoc-coordenada-critica (resumen de fuente), amoc (página de concepto), coordenada-critica (página de entidad).
-
-## [2026-11-10] ingesta | El Súper El Niño Ya Iguala al de 1877 — Esto Es lo que Pasó Entonces
-
-- Disposición: Nueva; Actualización de coordenada-critica (nueva fuente procesada).
-- Fuente: https://www.youtube.com/watch?v=uDBXpyhokfI — Coordenada Crítica, publicado 2026-10-21 (21:52).
-- Raw: raw/general/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md (transcripción de subtítulos manuales es-ES con marcas de tiempo + descripción original del vídeo).
-- Páginas creadas: resumen-super-el-nino-1877-coordenada-critica (resumen de fuente), el-nino (página de concepto), hambruna-global-de-1877 (página de concepto).
-- Updated: coordenada-critica (nueva fuente procesada).
-
-## [2026-11-10] ingesta | Lo que Viene Después del Súper El Niño Es Peor
-
-- Disposición: Nueva; Actualización de el-nino (mecánica del apagado, La Niña, calor diferido, huracanes, dengue, precios, corales) y de coordenada-critica.
-- Fuente: https://www.youtube.com/watch?v=bH7JU4ctpu8 — Coordenada Crítica, publicado 2026-10-23 (18:15).
-- Raw: raw/general/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md (transcripción de subtítulos manuales es-ES con marcas de tiempo + descripción original del vídeo).
-- Páginas creadas: resumen-lo-que-viene-despues-del-super-el-nino-coordenada-critica (resumen de fuente).
-- Updated: el-nino (nueva sección «Qué pasa después de un El Niño» y fuentes ampliadas), coordenada-critica (nueva fuente procesada).
-
-## [2026-11-10] nota | origen de las ingestas 2 y 3
-
-- Las dos fuentes anteriores se ingirieron a partir del archivo raw/para-ingesta.txt (lista de dos URLs aportada por el usuario). El archivo se conserva en raw/ sin modificar.
-
-## [2026-11-10] ingesta | Entrevista a Gary Marcus (Gustavo Entrala)
+## [2026-11-10] ingesta | Lo que NO QUIEREN que SEPAS del SISTEMA EDUCATIVO | Noam Chomsky
 
 - Disposición: Nueva.
-- Fuente: https://www.youtube.com/watch?v=0a7tFu6Gq0M — Gustavo Entrala, publicado 2026-11-07 (62:52).
-- Raw: raw/general/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md (transcripción de subtítulos automáticos es con marcas de tiempo + descripción original; puede contener errores de reconocimiento).
-- Páginas creadas: resumen-entrevista-gary-marcus-gustavo-entrala (resumen de fuente), limites-de-los-llm (concepto), burbuja-de-la-ia (concepto), ia-y-sociedad (concepto), gary-marcus (entidad persona), gustavo-entrala (entidad persona/canal).
-- Nota: la transcripción automática contiene errores de reconocimiento de nombres propios; las citas de la wiki se tomaron de las secciones legibles del raw y los nombres dudosos se omitieron o se marcaron como transcripción literal.
+- Fuente: https://www.youtube.com/watch?v=KB7IV_GhjTY — Café Kyoto, publicado 2021-08-13 (12:49).
+- Raw: raw/general/2021-08-13-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto (resumen de fuente).
+- Nota: undécima y última fuente del lote, y la más temprana del canal (2021). Conceptos (normalización, aparatos ideológicos de Estado) aplazados a la consolidación.
 
-## [2026-11-10] mantenimiento | registro de fuente original en los resúmenes
+## [2026-11-10] cierre | fin de la ingesta por lotes y pendientes de consolidación
 
-- A pedido del usuario: guardar en la wiki la fuente de cada archivo procesado.
-- Se añadió la línea **Fuente** (URL del vídeo original en YouTube) a los cuatro resúmenes de fuente; ya citaban el archivo `raw/` pero no la URL de origen. Las URLs se tomaron de la metadata de cada raw, sin modificarlos.
-- Actualizados: resumen-colapso-amoc-coordenada-critica, resumen-super-el-nino-1877-coordenada-critica, resumen-lo-que-viene-despues-del-super-el-nino-coordenada-critica, resumen-entrevista-gary-marcus-gustavo-entrala.
-
-## [2026-11-10] pendiente | reordenación de dominios propuesta
-
-- Con 3 fuentes de clima/océano (Coordenada Crítica) y 3 de inteligencia artificial, la creación de dominios propios (p. ej. ciencias-tierra/ e inteligencia-artificial/) requiere confirmación del usuario conforme al procedimiento; queda pendiente de propuesta aceptada.
-
-## [2026-11-10] descarte | fuente ConquerAI retirada del proyecto
-
-- Decisión del usuario: descartar la fuente del canal ConquerAI («¿Puede la IA cambiar cómo pensamos?», 2026-10-24) antes de su ingesta.
-- Se retiró su URL de raw/para-ingesta.txt y se eliminó la transcripción sin procesar raw/general/2026-10-24-puede-la-ia-cambiar-como-pensamos-conquerai.md (recuperable desde el historial de git).
-- No existían páginas en wiki/, index.md ni resúmenes asociados; no quedan referencias en el contenido del proyecto.
+- Lote completado: las 11 fuentes pendientes de raw/para-ingesta.txt fueron procesadas EN SECUENCIA, una por commit (1/11 al 11/11), todas del canal Café Kyoto. Las 2 primeras URLs del archivo ya estaban ingeridas antes del lote.
+- **Fuentes pendientes de consolidación (11)**: 1) Del panóptico al scroll infinito (2025-05-15); 2) El efecto enjambre (2022-11-25); 3) La estafa moral de la meritocracia (2025-12-29); 4) ¿Qué le pasa a nuestra generación? (2026-01-14); 5) Parásitos mentales (2025-07-17); 6) Abandoná las redes, Low-Tech High Life (2025-07-30); 7) Una generación de cristal (2025-06-04); 8) Cómo la ultraderecha te robó a un amigo (2024-09-30); 9) La industria cultural (2023-03-04); 10) ¿Te radicalizaste durante 2020? (2022-07-11); 11) Lo que no quieren que sepas del sistema educativo (2021-08-13).
+- **Página de entidad pendiente**: café-kyoto (canal, 11 fuentes; autor del canal: Juan Felipe). Menciones menores a evaluar en consolidación: Doctrina Conceptual (canal hermano), Pablo Borda (Café Milenial), «el video de Ofelia» (pendiente identificación), Alba Lafarga, Innuendo Studios, @GNOTEE.
+- **Páginas de concepto candidatas** (consolidar de múltiples fuentes, sin duplicar): dispositivo disciplinario algorítmico/sociedades de control (Foucault, Deleuze — fuentes 1, 4, 6); efecto enjambre y conjunción/conexión (Berardi — fuentes 2, 4); capitalismo absoluto (fuente 2); moral del esfuerzo y meritocracia (fuente 3); hiperstición (fuente 4); doctrina del odio y el enemigo en lo político (Schmitt, Segato, Han — fuente 5); nihilismo de plataforma y low-tech/porsiemprismo (fuente 6); estética de la regresión (fuente 7); construcción del acontecimiento y semiosis social (Verón — fuente 8); alt-right pipeline y radicalización digital (fuentes 8, 10); industria cultural (Adorno/Horkheimer — fuentes 9, 6); dominación algorítmica, FoMO, posverdad (fuente 10); normalización y aparatos ideológicos de Estado (Foucault, Althusser — fuente 11).
+- **Referencias cruzadas a construir**: Berardi (fuentes 1, 2, 4); Han (3, 5, 6, 10); Fisher (4, 7); Foucault (1, 3, 11); Benjamin (3, 9); Milei (5, 7, 8); algoritmos/YouTube (1, 6, 8, 10); educación/adoctrinamiento (3, 11).
+- **Detección de contradicciones y verificaciones pendientes**: afirmación del «45% de artículos de derecha» (fuente 10) y el mito «Argentina potencia 1895» (fuente 8) citados como contenido de la fuente, a verificar antes de elevarlos a páginas de concepto; tensión interna del canal entre crítica a la plataforma y su uso monetizado (fuentes 1 y 8 lo declaran explícitamente).
+- **Dominios**: el lote agregó 11 fuentes de filosofía social/crítica tecnológica y política al dominio general/. La propuesta de reordenación de dominios del mismo día (ciencias-tierra/ vs inteligencia-artificial/) sigue pendiente de confirmación del usuario, y ahora debe reevaluarse incluyendo un posible dominio para este corpus (p. ej. critica-tecnologica/ o filosofia-social/).
