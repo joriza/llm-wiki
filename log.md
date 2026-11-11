@@ -495,3 +495,11 @@ Registro cronológico de solo adición.
 ## [2026-11-11] ingesta | Google crea tu PROFESOR PARTICULAR con IA (y es GRATIS)
 
 - Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=IH__GK4XBbU — Migue Baena IA, 2026-07-19 (19:47). Raw: raw/inteligencia-artificial/2026-07-19-google-crea-tu-profesor-particular-con-ia-y-es-gratis.md (subtítulos automáticos, literal). Página creada: resumen-google-crea-tu-profesor-particular-migue-baena-ia. Nota: fuente 37/57 (numeración canónica; el log del 2026-11-10 la llamaba «fuente 36» — la numeración se corrige desde el playlist JSON). NotebookLM «estudia y aprende» como tutor adaptativo: diagnóstico (15 preguntas) → plan por errores → lecciones adaptadas (umbral 80 %) → app interactiva con Canvas. Patrocinio Higgsfield [06:17-08:49] excluido de la síntesis. La fuente que falló en W2 ya queda ingerida. Estado del lote: 39/57 con resumen, 18 pendientes.
+
+## [2026-11-11] limpieza y recuperación | raw mal nombrado
+
+- En el commit de la fuente 37 entró accidentalmente raw/inteligencia-artificial/_test2.md (output de una prueba de descarga de la fuente cE6AF_kNCRA sin nombre definitivo). Retirado en fc4513b y **restaurado con nombre definitivo** en 85138e2: raw/inteligencia-artificial/2026-07-29-llevo-13-anos-analizando-acciones-juan-david-v.md (fuente 46/57, Juan David V - Aprende a invertir; pendiente de ingesta).
+
+## [2026-11-11] ingesta | Herramientas IA #12: Creando vídeo con HyperFrames y OpenCode
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=jYawp25fCzc — Darellanodev, 2026-07-05 (15:06). Raw: raw/inteligencia-artificial/2026-07-05-herramientas-ia-12-creando-video-con-hyperframes-y-opencode.md (subtítulos automáticos, literal). Página creada: resumen-herramientas-ia-12-hyperframes-y-opencode-darellanodev. Nota: fuente 40/57 (numeración canónica; el log del 2026-11-10 la llamaba «fuente 39»); la segunda fuente que falló en W2 ya queda ingerida. HyperFrames como alternativa sin React a Remotion (39/57, mismo canal): actores HTML data-start/duration + coreografía JS, skills nativas (Score, Animation), OpenCode + Big Pickle y export MP4. Estado del lote: 40/57 con resumen, 17 pendientes.
