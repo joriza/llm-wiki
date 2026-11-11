@@ -42,8 +42,13 @@ Registro cronológico de solo adición.
 - A pedido del usuario: guardar en la wiki la fuente de cada archivo procesado.
 - Se añadió la línea **Fuente** (URL del vídeo original en YouTube) a los cuatro resúmenes de fuente; ya citaban el archivo `raw/` pero no la URL de origen. Las URLs se tomaron de la metadata de cada raw, sin modificarlos.
 - Actualizados: resumen-colapso-amoc-coordenada-critica, resumen-super-el-nino-1877-coordenada-critica, resumen-lo-que-viene-despues-del-super-el-nino-coordenada-critica, resumen-entrevista-gary-marcus-gustavo-entrala.
-- Recordatorio pendiente: la transcripción raw/general/2026-10-24-puede-la-ia-cambiar-como-pensamos-conquerai.md (ConquerAI, https://www.youtube.com/watch?v=9Iet4dp6NiE) sigue sin ingestar: no tiene resumen ni entradas en index.md o este log.
 
 ## [2026-11-10] pendiente | reordenación de dominios propuesta
 
 - Con 3 fuentes de clima/océano (Coordenada Crítica) y 3 de inteligencia artificial, la creación de dominios propios (p. ej. ciencias-tierra/ e inteligencia-artificial/) requiere confirmación del usuario conforme al procedimiento; queda pendiente de propuesta aceptada.
+
+## [2026-11-10] descarte | fuente ConquerAI retirada del proyecto
+
+- Decisión del usuario: descartar la fuente del canal ConquerAI («¿Puede la IA cambiar cómo pensamos?», 2026-10-24) antes de su ingesta.
+- Se retiró su URL de raw/para-ingesta.txt y se eliminó la transcripción sin procesar raw/general/2026-10-24-puede-la-ia-cambiar-como-pensamos-conquerai.md (recuperable desde el historial de git).
+- No existían páginas en wiki/, index.md ni resúmenes asociados; no quedan referencias en el contenido del proyecto.
