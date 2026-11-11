@@ -36,3 +36,4 @@
 - El presentador se llama David (no se da apellido). Menciona modo local de SurfSense (auto-alojable) como video futuro.
 - Relacionada con la fuente 17/57 (novedades de NotebookLM en el mismo lote): consolidación conjunta pendiente.
 - Fuente 23/57 de la playlist «IA-Recursos»; decimoctavo canal nuevo del lote (NextGen IA Hub), entidad aplazada.
+- **Enlaces de consolidación (2026-11-11)**: [[notebooklm-ecosistema]].

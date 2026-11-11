@@ -37,3 +37,4 @@ Google conecta **NotebookLM con Gemini**: los cuadernos pueden usarse como conte
 - Incluye patrocinio (HubSpot, calendario editorial con IA) entre [05:58] y [06:49], transcrito en el raw y excluido de la síntesis.
 - Solapa temas con las fuentes 7/57, 9/57 y 14/57 del lote (Mitjana, Antigravity, Qwen): consolidación conjunta pendiente.
 - Fuente 17/57 de la playlist «IA-Recursos».
+- **Enlaces de consolidación (2026-11-11)**: [[notebooklm-ecosistema]] · [[xavier-mitjana]].

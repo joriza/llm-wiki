@@ -1,7 +1,7 @@
 # Resumen: Construye tu Segundo Cerebro Digital | Obsidian + NVIM | Organiza Tu Vida
 
 - **Tipo**: resumen de fuente (tutorial: segundo cerebro con Obsidian y Neovim, flujo manual).
-- **Canal**: Gentleman Programming (Alan; entidad pendiente de consolidación).
+- **Canal**: [[gentleman-programming]] (Alan).
 - **Publicado**: 2024-05-27. **Duración**: 31:26.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=6HSc2l0oyws).
 - **Raw**: [raw/inteligencia-artificial/2024-05-27-construye-tu-segundo-cerebro-digital-obsidian-nvim-organiza-tu-vida.md](../../raw/inteligencia-artificial/2024-05-27-construye-tu-segundo-cerebro-digital-obsidian-nvim-organiza-tu-vida.md) (subtítulos automáticos, transcripción literal).
@@ -37,3 +37,4 @@
 - **Fuente sin IA (2024)**: se ingesta en el dominio de IA por pertenecer a la playlist «IA-Recursos», pero su contenido es metodología de conocimiento sin agentes. Su valor para la wiki es de contraste: el método que 32/57 ([[resumen-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-alejavi-rivera]]) automatiza con agentes ya existía como flujo manual — mismo patrón raw/captura → notas → enlaces → grafo.
 - Cruce por tema: libro gratuito de Clean Architecture del autor; «charla con leifer Méndez» citada como origen del libro.
 - Fuente 33/57 de la playlist «IA-Recursos» (video ID canónico `6HSc2l0oyws`); raw por el fallback de subtítulos (literal).
+- **Enlaces de consolidación (2026-11-11)**: [[gentleman-programming]] · [[obsidian-memoria-agentes]] (antecedente manual del método).

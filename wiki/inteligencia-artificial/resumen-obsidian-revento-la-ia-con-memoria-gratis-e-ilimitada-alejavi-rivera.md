@@ -37,3 +37,4 @@
 - Patrocinio Chatfuel entre [11:16] y [12:53], transcrito en el raw y excluido de la síntesis.
 - 5.ª fuente de Alejavi Rivera en la lote; actualizar [[alejavi-rivera]] en la próxima consolidación (la página dice «4 fuentes procesadas»).
 - Fuente 32/57 de la playlist «IA-Recursos» (video ID canónico `J_cMk5zEThI`); raw por el fallback de subtítulos (subtítulos manuales).
+- **Enlaces de consolidación (2026-11-11)**: [[obsidian-memoria-agentes]] · [[ia-local-texto]] (IA 100 % local sobre la bóveda) · [[alejavi-rivera]].

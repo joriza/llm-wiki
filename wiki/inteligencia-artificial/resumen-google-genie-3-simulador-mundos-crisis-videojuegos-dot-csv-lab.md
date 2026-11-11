@@ -1,11 +1,11 @@
 # Resumen: Google GENIE 3 — SIMULADOR de MUNDOS y CRISIS en los VIDEOJUEGOS
 
 - **Tipo**: resumen de fuente (análisis técnico: world models, Genie 3 e industria del videojuego).
-- **Canal**: Dot CSV Lab (página de entidad pendiente de consolidación; misma fuente que [[resumen-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab]]).
+- **Canal**: [[dot-csv-lab]] (misma fuente que [[resumen-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab]]).
 - **Publicado**: 2026-02-02. **Duración**: 25:14.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=bYVkgvs9GbM).
 - **Raw**: [raw/inteligencia-artificial/2026-02-02-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md](../../raw/inteligencia-artificial/2026-02-02-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md) (transcripción con marcas de tiempo).
-- **Páginas de concepto asociadas**: pendientes de consolidación (modelos del mundo, Genie 3, DLSS/renderizado neuronal, impacto en videojuegos).
+- **Páginas de concepto asociadas**: [[world-models]].
 - **Disposición de la ingesta**: Nueva.
 
 ## Tesis central
@@ -39,3 +39,4 @@
 - Transcripción automática en español con errores literales conservados en el raw («Unity 3/Jenny 3/Gemini 3» por **Genie 3** en distintos puntos, «cajetín de Malboro», «Pliny Deliberator» por Pliny the Liberator, «Tile Simulator»). Este resumen los normaliza (las diapositivas y el título del video confirman Genie 3).
 - Mismo canal que la fuente 22/57 (Clawdbot): consolidación conjunta del canal pendiente. La fuente repite el tema Antigravity segundario no — no, no lo toca; relaciona con Genie 3 anunciado en agosto.
 - Fuente 24/57 de la playlist «IA-Recursos».
+- **Enlaces de consolidación (2026-11-11)**: [[dot-csv-lab]] · [[world-models]] · [[ia-china]] (el pánico DeepSeek como precedente del bursátil).

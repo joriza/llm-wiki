@@ -1,7 +1,7 @@
 # Resumen: Deja de usar el modelo más CARO para todo | SpecJudge
 
 - **Tipo**: resumen de fuente (presentación de herramienta open source).
-- **Canal**: Joaquín Ruiz — IA para Desarrolladores (entidad pendiente de consolidación).
+- **Canal**: [[joaquin-ruiz]] — IA para Desarrolladores.
 - **Publicado**: 2026-07-28. **Duración**: 08:23.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=T53zvm08zUg).
 - **Raw**: [raw/inteligencia-artificial/2026-07-28-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge.md](../../raw/inteligencia-artificial/2026-07-28-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge.md) (subtítulos manuales es-ES, transcripción literal).
@@ -35,3 +35,4 @@ El instinto de arrancar todo proyecto con el modelo «rey» (Opus 5, GPT sol…)
 - Cruces: [[evaluacion-de-llms]] (Promptfoo/RAGAs evalúan outputs; SpecJudge evalúa el **encaje del modelo al proyecto antes de ejecutar** — complemento, no solape); [[agentes-de-codigo]] (Spec Kit/OpenSpec como input de las specs); «el modelo más pequeño que funcione» ya propuesto en 29/57.
 - **Patrocinio del propio libro** del canal entre [04:34] y [05:45] (Amazon), transcrito y registrado como autopromoción.
 - Fuente 44/57 de la playlist «IA-Recursos» (video ID canónico `T53zvm08zUg`); raw por el fallback de subtítulos (manuales).
+- **Enlaces de consolidación (2026-11-11)**: [[joaquin-ruiz]] · [[ia-local-texto]] (juez local de Ollama).

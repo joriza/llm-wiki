@@ -49,3 +49,4 @@ Como todo lo anterior actúa dentro de la llamada (la petición ya está formada
 ## Notas sobre la fuente
 
 Transcripción de subtítulos automáticos (yt-dlp), literal y con errores de reconocimiento; los nombres propios (CRIFO, SpecJudge, Spec Kit) se normalizan en este resumen. Los llamados a la acción (like/suscribirse) están transcritos en el raw y se excluyen de la síntesis.
+- **Enlaces de consolidación (2026-11-11)**: [[joaquin-ruiz]] · [[ia-local-texto]] (capa local/proxy y juez de SpecJudge).

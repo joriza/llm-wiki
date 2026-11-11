@@ -1,7 +1,7 @@
 # Resumen: El Agente de Código que Viene Vacío… y Eso Es Su Mayor Fortaleza
 
 - **Tipo**: resumen de fuente (reseña/tutorial: agente de código minimalista extensible).
-- **Canal**: Fazt (página de entidad pendiente de consolidación).
+- **Canal**: [[fazt]].
 - **Publicado**: 2026-04-18. **Duración**: 25:22.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=RRAYtqnGJPs).
 - **Raw**: [raw/inteligencia-artificial/2026-04-18-agente-de-codigo-que-viene-vacio-fazt.md](../../raw/inteligencia-artificial/2026-04-18-agente-de-codigo-que-viene-vacio-fazt.md) (transcripción con marcas de tiempo).
@@ -37,4 +37,5 @@ Entre los agentes de terminal que «te dan todas las características en un solo
 - Transcripción automática en español con errores literales conservados en el raw («Pie/Pi», «Open Claw» por OpenClaw, «Cloud Code» por Claude Code, «Open Code Zen», «Minimax 7.2.7», «GPT 5.4», «examcp», «pi.dev es slash packages»). Este resumen los normaliza con cautela — algunos nombres/modelos pueden quedar garbiñados por los subtítulos automáticos (verificar en consolidación si se elevan a página).
 - La herramienta reseñada es **Pi**, el mismo agente con el que se está ejecutando esta ingesta (relevante para la página de concepto futura de agentes de código).
 - Incluye patrocinios (Don Dominio, fast.dev) registrados como tales.
-- Fuente 26/57 de la playlist «IA-Recursos»; decimonoveno canal nuevo del lote (Fazt), entidad aplazada.
+- Fuente 26/57 de la playlist «IA-Recursos»; decimonoveno canal nuevo del lote (Fazt).
+- **Enlaces de consolidación (2026-11-11)**: [[fazt]] · [[ia-china]] (Minimax como proveedor barato).

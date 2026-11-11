@@ -1,7 +1,7 @@
 # Resumen: Herramientas IA #12 — Creando vídeo con HyperFrames y OpenCode
 
 - **Tipo**: resumen de fuente (tutorial: vídeo programático con HyperFrames + agente).
-- **Canal**: Darellanodev (entidad pendiente de consolidación; también 39/57).
+- **Canal**: [[darellanodev]].
 - **Publicado**: 2026-07-05. **Duración**: 15:06.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=jYawp25fCzc).
 - **Raw**: [raw/inteligencia-artificial/2026-07-05-herramientas-ia-12-creando-video-con-hyperframes-y-opencode.md](../../raw/inteligencia-artificial/2026-07-05-herramientas-ia-12-creando-video-con-hyperframes-y-opencode.md) (subtítulos automáticos, transcripción literal).

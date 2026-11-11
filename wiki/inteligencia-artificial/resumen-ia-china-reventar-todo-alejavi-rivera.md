@@ -39,3 +39,4 @@ Mientras Silicon Valley (OpenAI, Nvidia, Google) capta toda la atención, «gran
 - Transcripción de subtítulos **manuales es-ES** (texto limpio). Nombres garbiñados y normalizados: «Chatz/Chat Z» → Z.ai, «Tenzen» → Tencent, «Manusi/Manu Seya» → Manus, «el Weldrive» → Google Drive, «Declot» → Claude, «Quen» → Qwen, «Yemini/Yemina» → Gemini, «Minimx/Minimas» → MiniMax, «In Level Labs» → ElevenLabs, «clink/clean» → Kling, «nano bananana/ANO banana Pro» → Nano Banana Pro, «Heen» → HeyGen, «illón de dólar» → millón de dólares.
 - Incluye patrocinio (Hostinger, cupón «Alejabi» 10%) registrado como tal.
 - Fuente 14/57 de la playlist «IA-Recursos»; misma fuente del canal que la 11/57 (Alejavi Rivera). La fuente repite GLM 4.6 (visto en 12/57 con Kilo Code): consolidación conjunta pendiente.
+- **Enlaces de consolidación (2026-11-11)**: [[ia-china]] · [[clonacion-de-voz]] (MiniMax Voice Design y clonación gratuita) · [[ia-local-texto]].

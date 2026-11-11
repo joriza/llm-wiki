@@ -34,4 +34,5 @@ Cómo «abaratar costes al máximo sin perder calidad» al programar con IA: **K
 - Transcripción automática en español con errores literales conservados en el raw («Zi/ZII» por Z.ai, «Cloud Code/Cloud Coke» por Claude Code, «birre» por API, «Arabel» por Laravel, «My Sequel» por MySQL, «jon» por JSON, «orquestitor» por Orchestrator). Este resumen los normaliza.
 - Inconsistencia menor de la fuente: dice «100 prompts cada 5 horas» a mitad del video y «120 prompts cada 5 horas» al final para el mismo plan Light — pendiente de verificación con la página oficial en consolidación.
 - El autor declara su preferencia de supervisión humana: «no me gusta dejarle que lo haga todo, sino que prefiero hacerlo yo».
-- Fuente 12/57 de la playlist «IA-Recursos»; décimo canal nuevo del lote (CursosDesarrolloWeb), entidad aplazada.
+- Fuente 12/57 de la playlist «IA-Recursos»; décimo canal nuevo del lote (CursosDesarrolloWeb).
+- **Enlaces de consolidación (2026-11-11)**: [[ia-china]] (GLM 4.6 de Z.ai).

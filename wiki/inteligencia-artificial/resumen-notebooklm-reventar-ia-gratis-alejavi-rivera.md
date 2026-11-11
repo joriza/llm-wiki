@@ -40,3 +40,4 @@
 - Incluye patrocinio (Top View) registrado como tal.
 - Solapa con las fuentes 17/57 (NotebookLM+Gemini), 19-20/57 (Antigravity/MCP) y 23/57 (alternativas a NotebookLM): consolidación conjunta pendiente.
 - Fuente 25/57 de la playlist «IA-Recursos».
+- **Enlaces de consolidación (2026-11-11)**: [[notebooklm-ecosistema]] · [[alejavi-rivera]].

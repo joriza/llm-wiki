@@ -36,3 +36,4 @@ Los dos grandes problemas de usar IA en la nube tienen la misma solución: **eje
 - Incluye patrocinio (HP Omen Max 16) entre [03:00] y [04:45], transcrito en el raw y excluido de la síntesis.
 - Cuarta fuente del lote alineada con IA local (con 4/57, 5/57 y 6/57); consolidación conjunta pendiente (LM Studio/Ollama/ComfyUI, Qwen, Gemma, FLUX/Wan).
 - Fuente 7/57 de la playlist «IA-Recursos».
+- **Enlaces de consolidación (2026-11-11)**: [[ia-local-texto]] · [[xavier-mitjana]].

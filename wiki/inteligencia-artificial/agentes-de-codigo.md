@@ -4,7 +4,7 @@
 - **Dominio**: `inteligencia-artificial/`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 32 resúmenes de la playlist «IA-Recursos» + 1 del corpus previo (Gary Marcus).
-- **Ver también**: [[evaluacion-de-llms]] · [[generacion-local-de-imagenes]] · [[xavier-mitjana]] · [[alejavi-rivera]].
+- **Ver también**: [[evaluacion-de-llms]] · [[generacion-local-de-imagenes]] · [[multiplexores-agentes]] · [[agregacion-apis]] · [[odd-metodologia]] · [[computer-use]] · [[obsidian-memoria-agentes]] · [[xavier-mitjana]] · [[alejavi-rivera]] · [[fazt]] · [[holamundo]] · [[gentleman-programming]].
 - **Nota**: un «agente de código» ejecuta comandos, edita archivos y actúa sobre el sistema — el mismo rasgo que el caso Antigravity convirtió en riesgo; la autonomía y su control son el eje de la página.
 
 ## El concepto

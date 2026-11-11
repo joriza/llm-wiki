@@ -32,3 +32,4 @@ Recorrido por 10 repositorios recientes del ecosistema de agentes de IA (con én
 ## Notas sobre la fuente
 
 Transcripción de subtítulos automáticos (yt-dlp), literal, con duplicación VTT. Nombres garbiñados normalizados: «Omniirrout/Omniir Routro» por OmniRouter, «Herder» por Herdr, «RAS» por Rust, «Enocg/Inid Doc/Any Doc» por AnyDoc, «Deepsit/Deepsic/Deepsek» por DeepSeek, «Open Mountage» por OpenMontage(?), «Mander Diffling» por Manders Office(?), «Omarship» por la distro de DHH(?), «highprand» por Hyprland, «Neobin» por Neovim, «word trees» por worktrees, «Tmax» por tmux, «Grillmi» por GrillMe, «BS Code» por el editor tipo VS Code. Nombres de repos dudosos marcados con (?) conviene verificar contra GitHub antes de usarlos como referencia.
+- **Enlaces de consolidación (2026-11-11)**: [[fazt]] · [[multiplexores-agentes]] (Herdr/Orca) · [[agregacion-apis]] (OmniRouter) · [[ia-china]] (DeepSeek).

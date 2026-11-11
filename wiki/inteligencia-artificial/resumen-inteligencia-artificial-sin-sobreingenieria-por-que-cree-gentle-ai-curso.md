@@ -1,7 +1,7 @@
 # Resumen: Inteligencia artificial sin sobreingeniería: por qué creé Gentle AI (curso)
 
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=mjG1w1RjDKg) (fuente 51/57 del lote IA-Recursos)
-- **Canal**: Gentleman Programming
+- **Canal**: [[gentleman-programming]].
 - **Publicado**: 2026-09-19 · Duración 38:19
 - **Raw**: `raw/inteligencia-artificial/2026-09-19-inteligencia-artificial-sin-sobreingenieria-por-que-cree-gentle-ai-cur.md` (subtítulos automáticos, transcripción literal)
 
@@ -41,3 +41,4 @@ Presentación completa de **Gentle AI**: un ecosistema open source y gratuito, �
 ## Notas sobre la fuente
 
 Transcripción de subtítulos automáticos (yt-dlp), literal. Normalizaciones: «Gentlei/Gentli/gent.com» por Gentle AI y gentle-ai, «Cloud» por Claude, «Pi/p.d.» por el agente Pi, «ODD» como Organic Driven Development, «SDD» por Spec/Spec-driven Development, «Receip Dream/Receip Driving Development» por Receipt Driven Development, «Cograph/CodeGraph» por CodeGraph, «NAN» por (proveedor de modelos open source, dudoso), «wordes/wordresses/W» por worktrees, «Ponitel» (plugin de «arquitecto vago», dudoso), «sol» por Sonnet, «HikQ» por Haiku. Nombres de productos propios del canal verificados contra el repo antes de citar.
+- **Enlaces de consolidación (2026-11-11)**: [[gentleman-programming]] · [[odd-metodologia]].

@@ -37,3 +37,4 @@
 - **Sin patrocinios detectados**; sí crítica abierta al modo premium del propio proyecto analizado [14:54].
 - El autor muestra su token de API en pantalla y promete regenerarlo; el endpoint de su despliegue aparece censurado.
 - Fuente 40/57 de la playlist «IA-Recursos»; entidad de canal aplazada a consolidación.
+- **Enlaces de consolidación (2026-11-11)**: [[agregacion-apis]].

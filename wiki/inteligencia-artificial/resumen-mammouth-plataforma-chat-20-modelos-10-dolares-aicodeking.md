@@ -34,3 +34,4 @@ El dolor que ataca Mammouth: «necesito como 20 suscripciones para usar toda la 
 - Nombres normalizados desde la transcripción automática: «04» → o4, «Gro» → Grok, «open perplex» → OpenPerplex, «Gibli» → Ghibli, «clawed» → Claude, «GPT40» → GPT-4o, «deepse R1» → DeepSeek R1.
 - Video anterior al pico del lote en complejidad: reseña de servicio de pago (10 USD/mes); se registra como contenido de la fuente.
 - Fuente 2/57 de la playlist «IA-Recursos».
+- **Enlaces de consolidación (2026-11-11)**: [[agregacion-apis]].

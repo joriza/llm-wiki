@@ -1,7 +1,7 @@
 # Resumen: ¿Qué es CLAWDBOT? ¡El Futuro de los ASISTENTES VIRTUALES!
 
 - **Tipo**: resumen de fuente (reseña en profundidad tras 48 horas de uso: asistente virtual open source).
-- **Canal**: Dot CSV Lab (página de entidad pendiente de consolidación).
+- **Canal**: [[dot-csv-lab]].
 - **Publicado**: 2026-01-26. **Duración**: 30:29.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=59GrCryltng).
 - **Raw**: [raw/inteligencia-artificial/2026-01-26-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab.md](../../raw/inteligencia-artificial/2026-01-26-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab.md) (transcripción con marcas de tiempo).
@@ -39,4 +39,5 @@
 - Transcripción automática en español con errores literales conservados en el raw («Cloud/Clotbot/Cloudbot/Clotropic» por **Clawdbot**; «Cloud Cowork» por Claude Cowork — el propio video aclara «Claw, no Claude de Anthropic»; «Whsper» por Whisper; «promption» por prompt injection). Este resumen los normaliza.
 - El autor es Carlos Santa (Dot CSV/DCSV); usa Opus 4.5 como cerebro del asistente y lo bautiza «Coma».
 - Solapa con las fuentes 1/57 del lote (CreaTuIA usa Nano Banana Pro vía skills) y con el corpus de crítica (prompt injection vs. la doctrina del odio de Café Kyoto no — pero sí con el caso Antigravity de la fuente 15/57 en seguridad de agentes): consolidación conjunta pendiente.
-- Fuente 22/57 de la playlist «IA-Recursos»; decimoséptimo canal nuevo del lote (Dot CSV Lab), entidad aplazada.
+- Fuente 22/57 de la playlist «IA-Recursos»; decimoséptimo canal nuevo del lote (Dot CSV Lab).
+- **Enlaces de consolidación (2026-11-11)**: [[dot-csv-lab]] · [[computer-use]] (agente con acceso al ordenador) · [[obsidian-memoria-agentes]] (sesiones archivadas en Obsidian).

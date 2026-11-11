@@ -34,3 +34,4 @@ NotebookLM dentro de Gemini, con el modo **«estudia y aprende»**, funciona com
 - **Patrocinio Higgsfield** entre [06:17] y [08:49] (Nano Banana 2 Lite para imagen iterativa + Gemini Omni Flash para animar/editar por lenguaje natural), transcrito en el raw y excluido de la síntesis.
 - Cruce con el corpus NotebookLM del lote (25/57 [[resumen-notebooklm-reventar-ia-gratis-alejavi-rivera]] y 35?/57 SurfSense): aquí el foco es el modo tutor con evaluación, no la ingesta de fuentes; y con [[evaluacion-de-llms]] por el patrón diagnosticar → adaptar (análogo a evaluar modelos antes de decidir).
 - La fuente 37/57 de la playlist (numeración canónica del playlist JSON; el log del 2026-11-10 la llamaba «fuente 36») — raw por el fallback de subtítulos tras el fallo de la sesión previa.
+- **Enlaces de consolidación (2026-11-11)**: [[notebooklm-ecosistema]] · [[evaluacion-de-llms]].

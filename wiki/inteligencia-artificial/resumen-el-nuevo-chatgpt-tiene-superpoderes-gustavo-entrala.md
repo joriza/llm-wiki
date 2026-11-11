@@ -5,7 +5,7 @@
 - **Publicado**: 2026-08-14. **Duración**: 38:33.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=T-X4svhiVpk).
 - **Raw**: [raw/inteligencia-artificial/2026-08-14-el-nuevo-chatgpt-tiene-superpoderes-y-no-los-estas-usando.md](../../raw/inteligencia-artificial/2026-08-14-el-nuevo-chatgpt-tiene-superpoderes-y-no-los-estas-usando.md) (subtítulos automáticos, transcripción literal).
-- **Páginas de concepto asociadas**: [[agentes-de-codigo]] (computer use, tareas programadas, plugins); [[ia-y-sociedad]] (consecuencia: el SO vuelve secundario).
+- **Páginas de concepto asociadas**: [[agentes-de-codigo]] (computer use, tareas programadas, plugins); [[computer-use]]; [[ia-y-sociedad]] (consecuencia: el SO vuelve secundario).
 - **Disposición de la ingesta**: Nueva.
 
 ## Tesis central

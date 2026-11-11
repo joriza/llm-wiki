@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `inteligencia-artificial/`.
 - **Fuente original**: `raw/inteligencia-artificial/2026-09-15-herdr-es-increible-aprendelo-gratis-ahora-con-certificado-incluido.md` (subtítulos automáticos, literal) — https://www.youtube.com/watch?v=FxgzAcQfro0 — HolaMundo (Nicolás), 2026-09-15 (47:47).
-- **Enlaces**: [[agentes-de-codigo]] · [[resumen-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos-fazt]] · [[resumen-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador-fazt]]
+- **Enlaces**: [[agentes-de-codigo]] · [[resumen-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos-fazt]] · [[resumen-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador-fazt]] · [[holamundo]] · [[multiplexores-agentes]] · [[ia-local-texto]] (mini PC con modelo local)
 
 ## Qué es Herdr
 

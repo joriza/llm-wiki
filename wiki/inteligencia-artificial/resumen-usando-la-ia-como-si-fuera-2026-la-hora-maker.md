@@ -1,7 +1,7 @@
 # Resumen: Usando la Inteligencia Artificial como si fuera 2026
 
 - **Tipo**: resumen de fuente (reseña-guía: panorama de IA aplicada para fabricación digital).
-- **Canal**: La Hora Maker (página de entidad pendiente de consolidación; también 39/57).
+- **Canal**: [[la-hora-maker]].
 - **Publicado**: 2026-03-13. **Duración**: 42:48.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=d6moRNMK5ik).
 - **Raw**: [raw/inteligencia-artificial/2026-03-13-usando-la-inteligencia-artificial-como-si-fuera-2026.md](../../raw/inteligencia-artificial/2026-03-13-usando-la-inteligencia-artificial-como-si-fuera-2026.md) (subtítulos automáticos de YouTube, transcripción literal con marcas de tiempo). Existe también una transcripción ASR alternativa del mismo vídeo: [raw/inteligencia-artificial/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md](../../raw/inteligencia-artificial/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md) (faster-whisper small; la ruta ASR se usó por el bloqueo de timedtext antes de confirmar que el fallback de subtítulos funcionaba para este vídeo).
@@ -42,3 +42,4 @@ Clase de Fab Academy traducida a vídeo: panorama condensado (< 43 min) de cómo
 - Repos de código citados en el GitHub del canal: **fabrag** (RAG de Fab Academy) y el experimento del **MCP de Mods** — herramientas candidatas a página de entidad si vuelven a aparecer.
 - La sección sobre OpenSpec (30:41-34:19) es la contraparte conceptual en clase de Fab Academy del tutorial de [[resumen-openspec-apps-full-stack-sin-codigo-vera-badias]] (27/57): mismo flujo (propuesta → diseño → tareas → apply → sync), confirmación independiente del valor del enfoque spec-driven.
 - Fuente 29/57 de la playlist «IA-Recursos» (video ID canónico `d6moRNMK5ik`); la ruta de subtítulos automáticos (fallback de `.atl/fetch_yt.py`) funcionó para este vídeo, así que la fuente usa la transcripción literal; la variante ASR del mismo raw se conserva como respaldo.
+- **Enlaces de consolidación (2026-11-11)**: [[la-hora-maker]] · [[ia-local-texto]] (Ollama/LM Studio) · [[evaluacion-de-llms]].

@@ -34,3 +34,4 @@
 - 7.ª fuente de Alejavi Rivera; [[alejavi-rivera]] a actualizar en la próxima consolidación. Patrocinio Hostinger [10:49-11:23] registrado como tal.
 - Cruce: VoiceBox ya citado en el recopilatorio open source (35/57 [[resumen-reventar-la-ia-gratis-sin-limites-alejavi-rivera]]); aquí se profundiza su uso. El patrón VPS+Docker repite el de la fuente 34 (Odysseus).
 - Fuente 42/57 de la playlist «IA-Recursos» (video ID canónico `1PUzFg1CdbU`); raw por el fallback de subtítulos (manuales).
+- **Enlaces de consolidación (2026-11-11)**: [[clonacion-de-voz]] · [[ia-local-texto]] (VoiceBox en local).

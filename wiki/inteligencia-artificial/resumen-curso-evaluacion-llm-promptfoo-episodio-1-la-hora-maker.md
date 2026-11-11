@@ -1,7 +1,7 @@
 # Resumen: Curso evaluación LLM con Promptfoo — episodio 1
 
 - **Tipo**: resumen de fuente (curso/tutorial técnico: evaluación de LLMs con Promptfoo).
-- **Canal**: La Hora Maker (página de entidad pendiente de consolidación).
+- **Canal**: [[la-hora-maker]].
 - **Publicado**: 2024-09-16. **Duración**: 45:42.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=nGaHoH9HHu0).
 - **Raw**: [raw/inteligencia-artificial/2024-09-16-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker.md](../../raw/inteligencia-artificial/2024-09-16-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker.md) (transcripción con marcas de tiempo).
@@ -38,4 +38,5 @@ Publicado justo el día después del lanzamiento de o1 de OpenAI («el salseo de
 
 - Transcripción automática en español con errores literales conservados en el raw («prom Fu/pron Fu/pront Fu» por Promptfoo, «jam el» por YAML, «olama/oyama» por Ollama, «Gema» por Gemma, «haing Face» por Hugging Face, «gitc» por GitHub, «sonet» por Sonnet, «billones de parámetros» — anglicismo por *billions*). Este resumen los normaliza.
 - Primer episodio de un curso; los ficheros de prueba están en el GitHub del canal (URL en el video, no en el raw).
-- Fuente 18/57 de la playlist «IA-Recursos»; decimocuarto canal nuevo del lote (La Hora Maker), entidad aplazada.
+- Fuente 18/57 de la playlist «IA-Recursos»; decimocuarto canal nuevo del lote (La Hora Maker).
+- **Enlaces de consolidación (2026-11-11)**: [[la-hora-maker]] · [[ia-local-texto]] (providers de Ollama).
