@@ -8,4 +8,5 @@ Registro vivo de dominios de la wiki. Consultar antes de cada ingesta.
 | `inteligencia-artificial/` | LLMs, herramientas, agentes, evaluación e industria de la IA (Gary Marcus, playlist IA-Recursos). |
 | `critica-tecnologica/` | Poder algorítmico, medios, política digital y su crítica filosófica y social (Café Kyoto y afines). |
 | `historia-informatica/` | Historia de la computación: software, empresas, lenguajes y hitos (playlist del usuario: Novell, MS-DOS, FORTRAN, FrontPage, Norton, etc.). |
+| `informatica-teoria/` | Fundamentos de programación, redes y teoría de la computación (estructuras de datos, algoritmos, POO, testing, SSH/DNS/ARP/DHCP, Git, Kafka; playlist Informatica-Teoria). |
 | `general/` | Fuentes que aún no justifican un dominio propio. |
