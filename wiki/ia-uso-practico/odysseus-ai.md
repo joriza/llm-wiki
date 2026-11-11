@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (herramienta).
 - **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11 (fuente 18/58 del lote ia-local).
-- **Fuentes**: [[resumen-odysseus-ai-tiene-algo-increible]] (revisión crítica, 2026-08) · [[resumen-pewdiepie-acaba-de-reventar-la-ia-lanzo-odysseus-ia-gratis-y-sin-limites]] (cobertura del lanzamiento, 2026-06 — Alejavi Rivera).
+- **Fuentes**: [[resumen-odysseus-ai-tiene-algo-increible]] (revisión crítica, 2026-08) · [[resumen-pewdiepie-acaba-de-reventar-la-ia-lanzo-odysseus-ia-gratis-y-sin-limites]] (cobertura del lanzamiento, 2026-06 — Alejavi Rivera) · [[resumen-i-used-odysseus-ai-for-30-days-heres-the-truth]] (veredicto a 30 días — Ash Automates).
 
 **Odysseus AI** es el workspace de IA **open source creado por PewDiePie** — «se cansó de que lo espiaran». A diferencia de un chat, es un **workspace de herramientas múltiples** self-hosted (Docker o nativo) pensado para el uso diario de IA con privacidad.
 
@@ -38,3 +38,7 @@ Los 7 casos de uso del lanzamiento, con funciones que la revisión crítica no c
 7. **Tasks/Prompter**: tareas preconstruidas pausables + prompts programados (diarios, salida a sesión o email); notas/to-dos/calendario; chats auto-organizados en carpetas por IA.
 
 Más: galería con editor «tipo Adobe» (crop, expandir, inpainting, removedor de fondo instalable), Library unificada, **modo incógnito**, temas personalizables (constelaciones/lluvia/flow), integraciones (MCPs incluidos, email server propio), **sistema de usuarios para equipos**, apps Android/iPhone.
+
+## Veredicto a 30 días (fuente de Ash Automates)
+
+El modelo mental correcto: «Odysseus no es un agente de IA — es una **sala de control de IA autohospedada**. La promesa es el control, no la magia». La mejor versión tras 30 días es **HÍBRIDA**: modelos locales para lo simple/barato/privado y APIs (OpenRouter) para investigación compleja, código y agentes. Las 5 funciones que sobrevivieron a la luna de miel: modo comparación (elegir modelo por tarea y ahorrar), cookbook (con la trampa: «local» ≠ ChatGPT gratis en tu laptop), pre-search/deep research («por sí solo justifica el workspace»), mail+calendario+flujo de contenido (regla: **nunca dejar que envíe mails en tu nombre**) y tareas programadas (solo las simples y repetitivas). El efecto compuesto: memoria/brain/skills mejoran con el uso — «te dan una curva, no una foto». Frustraciones honestas: instalación con fricción, código 5/10 (Claude Code/Cursor 10× mejor), agente a veces inconsistente, **llamadas MCP que reportan éxito sin hacer nada** (lo peor), galería insutil. Posicionamiento: no compite con Hermes/OpenClaw/Claude Code — «es la habitación donde todas convivirían». Sí, si necesitás exactamente ese workspace con control.

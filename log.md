@@ -891,3 +891,4 @@ Registro cronológico de solo adición.
 - **En scratch sin procesar**: 1PfwLK1TuZc (Ash Automates — «I Used Odysseus AI for 30 Days», tercer video de Odysseus, descargado en vuelo al detener) — procesar en la reanudación.
 - **Pendientes de descargar**: entradas 26-58 del playlist (~33) + la 54 UNKNOWN. SKIP definitivos acumulados: 6 sin subtítulos + 2 members-only.
 - **Reanudación**: procesar el raw de scratch primero; luego relanzar el runner (con el fix de cookies en metadatos ya aplicado) hasta completar las 5 siguientes; al cierre del lote: consolidación final + overview/sintesis + push.
+- Fuente 20/58: I Used Odysseus AI for 30 Days — Here's the Truth (veredicto a 30 días, el mejor de los 3 sobre Odysseus; entidad odysseus-ai + nuance híbrida en por-que-ia-local) — raw raw/ia-uso-practico/2026-07-11-i-used-odysseus-ai-for-30-days-heres-the-truth.md — resumen wiki/ia-uso-practico/resumen-i-used-odysseus-ai-for-30-days-heres-the-truth.md

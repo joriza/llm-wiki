@@ -26,3 +26,7 @@
 ## Cruces en la wiki
 
 La disponibilidad/consistencia justifica el stack de [[micro-saas-con-python]] (cobrar mientras duermes exige modelos que no cambien debajo); la optimización de costes conecta con [[agregacion-apis]]; el motor con [[llama-cpp]] y [[ia-local-texto]]; el criterio de hardware con [[hardware-para-ia-local]]; el workflow con [[desarrollo-con-modelos-locales]].
+
+## Matiz posterior (fuente 20/58): la mejor versión es híbrida
+
+El veredicto a 30 días de otro operador ([[resumen-i-used-odysseus-ai-for-30-days-heres-the-truth]]) afina el argumento: **local para lo simple, barato y privado; APIs para lo complejo** — lo puramente local «puede ser lento o débil según tu hardware». El valor del workspace self-hosted no fue nunca correr todo local: es la **capa de control que unifica** modelos, investigación y datos. Y la regla de privacidad practica: los prompts sensibles se quedan en modelos locales; al usar APIs, el prompt sale hacia el proveedor.
