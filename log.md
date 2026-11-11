@@ -47,7 +47,16 @@ Registro cronológico de solo adición.
 - Fuente: https://www.youtube.com/watch?v=gthW3hGebB0 — Café Kyoto, publicado 2025-07-17 (23:16).
 - Raw: raw/general/2025-07-17-parasitos-mentales-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-parasitos-mentales-cafe-kyoto (resumen de fuente).
-- Nota: quinto ensayo de Café Kyoto en el lote; contenido de crítica política contemporánea (Milei, Kaiser, Laje); las caracterizaciones son del canal y se registran como contenido de la fuente. Conceptos (doctrina del odio, enemigo en lo político) aplazados a la consolidación.
+- Nota: quinto ensayo de Café Kyoto en el lote; contenido de crítica política contemporánea (Milei, Kaiser, Laje); las caracterizaciones son del canal y se registran como contenido de la fuente. Conceptos (doctrina del odio, enemigo en lo político) aplazados a la consolidación. Comiteado en d35c6bb.
+
+## [2026-11-10] ingesta | ABANDONÁ las REDES | LOW-TECH, HIGH LIFE
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=f_dzGFdH0UM — Café Kyoto, publicado 2025-07-30 (25:43).
+- Raw: raw/general/2025-07-30-abandona-las-redes-low-tech-high-life-cafe-kyoto.md (transcripción de subtítulos manuales es con marcas de tiempo).
+- Páginas creadas: resumen-abandona-las-redes-low-tech-high-life-cafe-kyoto (resumen de fuente).
+- Nota: sexto ensayo de Café Kyoto en el lote y primera fuente con subtítulos manuales del lote (mayor fidelidad). Conceptos (nihilismo de plataforma, low-tech, porsiemprismo) aplazados a la consolidación; dialoga con las fuentes 1/11 y 4/11 del mismo canal.
+
 
 
 
