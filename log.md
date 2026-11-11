@@ -228,3 +228,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-07-22-nueva-herramienta-imagen-ia-sin-censura-gratis-musyn.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-nueva-herramienta-imagen-ia-sin-censura-gratis-musyn (resumen de fuente).
 - Nota: fuente 5/57 de la playlist; mismo software (Fooocus) que la fuente 4/57 pero de otro canal y con otro enfoque (requisitos bajos, Colab/móvil, tiempos cronometrados). Divergencia de requisitos entre ambas fuentes anotada para verificar en consolidación (4/6 GB vs 8 GB RAM; compatibilidad AMD).
+
+## [2026-11-10] ingesta | FLUX KONTEXT EN LOCAL Y GRATIS!!!
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=qPtUhkAmZOc — Academia SD, publicado 2025-06-27 (09:01).
+- Raw: raw/inteligencia-artificial/2025-06-27-flux-kontext-en-local-y-gratis-academia-sd.md (transcripción de subtítulos manuales es con marcas de tiempo).
+- Páginas creadas: resumen-flux-kontext-en-local-y-gratis-academia-sd (resumen de fuente).
+- Nota: fuente 6/57 de la playlist; primera fuente del lote con subtítulos manuales desde la 6 (texto limpio). Tutorial técnico de ComfyUI + GGUF; quinto canal nuevo del lote (Academia SD), entidad aplazada.
