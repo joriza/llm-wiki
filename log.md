@@ -539,3 +539,7 @@ Registro cronológico de solo adición.
 ## [2026-11-11] ingesta | Dejé de pagar 4 suscripciones de IA por ESTOS repos
 
 - Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=5JJgfcJxyyg — Fazt, 2026-09-09 (17:42). Raw: raw/inteligencia-artificial/2026-09-09-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos.md (subtítulos automáticos, literal). Página creada: resumen-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos-fazt. Nota: fuente 50/57; tour de repos (OmniRouter, Herdr, Orca, editor de agentes, distro DHH, AnyDoc, GrillMe, DeepSeek Harness, OpenMontage). Nombres garbiñados: verificar contra GitHub antes de citar. Patrocinio Hostinger excluido. Estado del lote: 50/57 con resumen, 7 pendientes.
+
+## [2026-11-11] ingesta | Inteligencia artificial sin sobreingeniería: por qué creé Gentle AI (curso)
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=mjG1w1RjDKg — Gentleman Programming, 2026-09-19 (38:19). Raw: raw/inteligencia-artificial/2026-09-19-inteligencia-artificial-sin-sobreingenieria-por-que-cree-gentle-ai-cur.md (subtítulos automáticos, literal). Página creada: resumen-inteligencia-artificial-sin-sobreingenieria-por-que-cree-gentle-ai-curso. Nota: fuente 51/57; curso actualizado de Gentle AI: ODD reemplaza SDD, presupuesto de ~400 líneas por slice, RDD con binario determinista y lentes aisladas, PRs encadenados, Gentle Shell (Pi) con worktrees centrados y comunicación padre-hijo. Útil para documentar la wiki que se usa con ODD. Estado del lote: 51/57 con resumen, 6 pendientes.
