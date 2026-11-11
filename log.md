@@ -846,3 +846,5 @@ Registro cronológico de solo adición.
 - Páginas derivadas fuente 3/58: concepto [[desarrollo-con-modelos-locales]] + entidad [[opencode]] (primera sustancial); [[llama-cpp]] ya cubría el motor.
 - Fuente 4/58: IA Local con llama.cpp — ¿funciona en una PC de 4 GB RAM? (experimento contrapunto de hardware) — raw raw/ia-uso-practico/2026-07-18-ia-local-con-llama-cpp-funciona-en-una-pc-de-4-gb-ram.md — resumen wiki/ia-uso-practico/resumen-ia-local-con-llama-cpp-funciona-en-una-pc-de-4-gb-ram.md
 - Páginas derivadas fuente 4/58: concepto [[hardware-para-ia-local]] (absorberá las fuentes de hardware del lote: 26, 32, 35, 39, 43, 44, 47, 48, 57).
+- Fuente 5/58: Gemma 4 es MEJOR que Qwen en código y velocidad (comparativa; benchmarks del canal no verificados; REVISA parcialmente a la fuente 3 — evolución registrada) — raw raw/ia-uso-practico/2026-07-19-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad.md — resumen wiki/ia-uso-practico/resumen-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad.md
+- Páginas derivadas fuente 5/58: entidad [[gemma-4]] (con historial de veredictos fuente 3 vs fuente 5).
