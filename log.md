@@ -244,3 +244,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-09-07-todas-las-herramientas-ia-gratis-ilimitadas-xavier-mitjana.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-todas-las-herramientas-ia-gratis-ilimitadas-xavier-mitjana (resumen de fuente).
 - Nota: fuente 7/57 de la playlist; guía general de IA local (LM Studio, Ollama, ComfyUI; Gemma, Qwen, Wan, FLUX Kontext Dev). Patrocinio HP transcrito en el raw y excluido de la síntesis. Sexto canal nuevo del lote (Xavier Mitjana), entidad aplazada.
+
+## [2026-11-10] ingesta | ComfyUI Tutorial Completo: Flux Dev, Stable Diffusion 3.5 y más
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=HXo47zMFQyk — IA Paso a Paso, publicado 2024-11-11 (31:38).
+- Raw: raw/inteligencia-artificial/2024-11-11-comfyui-tutorial-completo-flux-dev-sd35-ia-paso-a-paso.md (transcripción de subtítulos manuales es con marcas de tiempo).
+- Páginas creadas: resumen-comfyui-tutorial-completo-flux-dev-sd35-ia-paso-a-paso (resumen de fuente).
+- Nota: fuente 8/57 de la playlist; tutorial de RunPod (nube de pago, barata) + ComfyUI; séptimo canal nuevo del lote (IA Paso a Paso), entidad aplazada.
