@@ -324,3 +324,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-12-21-google-dispara-tu-productividad-novedad-xavier-mitjana.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-google-dispara-tu-productividad-novedad-xavier-mitjana (resumen de fuente).
 - Nota: fuente 17/57 de la playlist; novedades Google (NotebookLM+Gemini, tablas, Gemini 3 Flash, Antigravity) + modelo Qwen de capas. Patrocinio HubSpot excluido de la síntesis. Mismo canal que 7/57 y 9/57: consolidación conjunta pendiente.
+
+## [2026-11-10] ingesta | Curso evaluación LLM con Promptfoo - episodio 1
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=nGaHoH9HHu0 — La Hora Maker, publicado 2024-09-16 (45:42).
+- Raw: raw/inteligencia-artificial/2024-09-16-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker (resumen de fuente).
+- Nota: fuente 18/57 de la playlist; episodio 1 de un curso de evaluación de LLMs con Promptfoo (Ollama, aserciones, repeat). Ficheros de prueba en GitHub del canal (no en el raw). Decimocuarto canal nuevo del lote (La Hora Maker), entidad aplazada.
