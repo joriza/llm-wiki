@@ -33,6 +33,10 @@ Los modelos van en **GGUF** (Hugging Face), que aporta: **cuantización** (16→
 
 Depuración de `.bat` que se cierra solo: ejecutarlo desde una consola `cmd` abierta para ver el error.
 
+## Anti-bucles: parámetros DRY (fuente 9)
+
+Los modelos chicos entran en **loops infinitos** (repiten la misma cadena sin salir — principal problema de modelos como Qwen 0.8B, sobre todo con la cadena de razonamiento activa). Solución: la familia **DRY** de llama.cpp — un filtro externo que revisa los tokens/cadenas ya generadas y penaliza repeticiones, encima del sampling clásico. Se agregan ~4 líneas DRY al `.bat` sin tocar el sampling oficial del modelo. Compensaciones: ajustable estricto/laxo (si la tarea requiere repetir, un filtro agresivo empeora la respuesta; demasiado estricto hace las respuestas sin sentido), costo de velocidad mínimo, y efecto lateral de mayor variedad. No es 100 % infalible — método de ajuste iterativo: pegarle a un modelo online el comando + el texto loopeado + «reescribe mi comando cambiando solo los DRY», aplicar, y si reincide, pegar el nuevo loop (en el experimento con Qwen 0.8B muy cuantizado hizo falta además ajustar `repeat_penalty` y `repeat_last_n`).
+
 ## Dónde queda en la wiki
 
 Es el motor descrito como alternativa a Ollama/LM Studio en [[ia-local-texto]]; su endpoint OpenAI-compatible conecta los clientes de [[agentes-de-codigo]] (OpenCode, Codex). El ecosistema de hardware/cuantización se desarrolla en las fuentes siguientes del lote ia-local.
