@@ -55,7 +55,16 @@ Registro cronológico de solo adición.
 - Fuente: https://www.youtube.com/watch?v=f_dzGFdH0UM — Café Kyoto, publicado 2025-07-30 (25:43).
 - Raw: raw/general/2025-07-30-abandona-las-redes-low-tech-high-life-cafe-kyoto.md (transcripción de subtítulos manuales es con marcas de tiempo).
 - Páginas creadas: resumen-abandona-las-redes-low-tech-high-life-cafe-kyoto (resumen de fuente).
-- Nota: sexto ensayo de Café Kyoto en el lote y primera fuente con subtítulos manuales del lote (mayor fidelidad). Conceptos (nihilismo de plataforma, low-tech, porsiemprismo) aplazados a la consolidación; dialoga con las fuentes 1/11 y 4/11 del mismo canal.
+- Nota: sexto ensayo de Café Kyoto en el lote y primera fuente con subtítulos manuales del lote (mayor fidelidad). Conceptos (nihilismo de plataforma, low-tech, porsiemprismo) aplazados a la consolidación; dialoga con las fuentes 1/11 y 4/11 del mismo canal. Comiteado en 5f8a394.
+
+## [2026-11-10] ingesta | Una GENERACIÓN de CRISTAL
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=SGoWw1XMRR4 — Café Kyoto, publicado 2025-06-04 (24:21).
+- Raw: raw/general/2025-06-04-una-generacion-de-cristal-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-una-generacion-de-cristal-cafe-kyoto (resumen de fuente).
+- Nota: séptimo ensayo de Café Kyoto en el lote; incluye análisis político de Javier Milei (caracterizaciones del canal, registradas como contenido de la fuente). Conceptos (estética de la regresión, positividad) aplazados a la consolidación.
+
 
 
 
