@@ -446,3 +446,12 @@ Registro cronológico de solo adición.
 - Divergencias anotadas en la página de concepto: requisitos de Fooocus (4 GB vs 8 GB RAM, 4/57 vs 5/57) y plataformas «cart» (10/57) y «GTube» (1/57) sin identificar — pendientes de verificación con fuentes primarias antes de crear páginas de herramienta.
 - **Dominios**: ningún dominio nuevo propuesto — todo el material encaja en `inteligencia-artificial/`. Nota para decisión del usuario: si el volumen de IA local/generativa sigue creciendo con las 25 fuentes pendientes, cabría evaluar un subdominio (p. ej. `ia-aplicada/`); queda registrado como pendiente de confirmación, NO creado.
 - Sin contradicciones entre fuentes detectadas; el caso «sin censura» se registra como posición de las fuentes en la página de concepto.
+
+## [2026-11-11] ruta ASR | reingreso de descargas: audio + faster-whisper
+
+- Probadas las alternativas del plan en orden: `--js-runtimes node` + clientes mweb/web_embedded/ios (ya no hay 429 en la player API, pero los PO Token descartan los subtítulos de mweb y el n-challenge fallaba), `pip install yt-dlp-ejs` (resuelve el n-challenge: formatos válidos), `--impersonate chrome` (curl_cffi instalado) y `--cookies-from-browser` (Chrome falla por la BD de cookies bloqueada; Firefox no levanta el 429 de timedtext). **El endpoint de subtítulos sigue bloqueado (429) para esta IP incluso con sesión e impersonación.**
+- **El CDN de media (googlevideo) NO está bloqueado**: la descarga de audio `yt-dlp -f ba/best` funciona (13,9 MB en 1 s). Ruta elegida: audio + **faster-whisper** (instalado 1.2.1 con ctranslate2) en CPU int8.
+- Medición: modelo `base` ≈ 10x realtime (1039 s de audio en 100 s); modelo `small` ≈ 2,7x realtime con calidad claramente mejor (puntuación correcta) — **se usa `small`**.
+- Nuevo script `.atl/fetch_yt_asr.py`: metadatos (`--dump-json` OK) + audio + transcripción local + raw con bloques [mm:ss] y nota de procedencia ASR; parámetros `--out`, `--model`, `--proxy`. Integrado también en `.atl/fetch_yt.py` el fallback yt-dlp (VTT→bloques) + `--proxy` (queda listo para cuando el bloqueo de timedtext se levante).
+- Política de reingreso respetada: descargas secuenciales (un video a la vez), sin workers; whisper es local (sin coste de red).
+- **Gotcha de entorno**: ejecutar los scripts de Python con `PYTHONIOENCODING=utf-8` (la consola Windows cp1252 rompe al imprimir metadatos con acentos/emojis).

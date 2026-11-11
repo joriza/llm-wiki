@@ -11,10 +11,14 @@
             "id": "ceecff63c52532b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/critica-tecnologica/efecto-enjambre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "efecto-enjambre"
             }
           }
         ]
@@ -186,6 +190,8 @@
   },
   "active": "ceecff63c52532b8",
   "lastOpenFiles": [
+    "wiki/inteligencia-artificial/resumen-clawdbot-p-ta-locura-asistente-ia-inteligencia-artificial.md",
+    "raw/inteligencia-artificial/2026-01-28-clawdbot-es-una-locura-asistente-ia-inteligencia-artificial.md",
     "index.md",
     "wiki/sintesis.md",
     "wiki/inteligencia-artificial/evaluacion-de-llms.md",
@@ -210,8 +216,6 @@
     "wiki/critica-tecnologica/construccion-del-acontecimiento.md",
     "wiki/overview.md",
     "wiki/dominios.md",
-    "raw/inteligencia-artificial/2025-10-15-openspec-apps-full-stack-sin-codigo-vera-badias.md",
-    "wiki/inteligencia-artificial/resumen-agente-de-codigo-que-viene-vacio-fazt.md",
     "raw/critica-tecnologica",
     "raw/inteligencia-artificial",
     "raw/ciencias-tierra",
