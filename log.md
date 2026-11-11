@@ -372,3 +372,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2026-01-31-adios-notebooklm-surfsense-brutal-nextgen-ia-hub.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-adios-notebooklm-surfsense-brutal-nextgen-ia-hub (resumen de fuente).
 - Nota: fuente 23/57 de la playlist; SurfSense vs NotebookLM (selector de modelos, MCPs, colaboración). El canal anuncia video posterior sobre el modo local. Decimoctavo canal nuevo del lote (NextGen IA Hub), entidad aplazada.
+
+## [2026-11-10] ingesta | Google GENIE 3: SIMULADOR de MUNDOS y CRISIS en los VIDEOJUEGOS
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=bYVkgvs9GbM — Dot CSV Lab, publicado 2026-02-02 (25:14).
+- Raw: raw/inteligencia-artificial/2026-02-02-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab (resumen de fuente).
+- Nota: fuente 24/57 de la playlist; análisis de Genie 3 (world models) con el marco DLSS↔Genie y la tesis del «GPT-3 de la generación de mundos». Mismo canal que 22/57: consolidación conjunta pendiente.
