@@ -41,6 +41,20 @@ Los modelos van en **GGUF** (Hugging Face), que aporta: **cuantización** (16→
 
 Depuración de `.bat` que se cierra solo: ejecutarlo desde una consola `cmd` abierta para ver el error.
 
+## Decodificación especulativa: N-gram (fuente 16)
+
+Además de MTP, llama.cpp trae la familia **N-gram**: usa el mismo contexto como borrador para predecir los siguientes tokens — **sin modelo extra y casi sin memoria extra**, y funciona en cualquier modelo, en chat y en agentes. La comparativa medida (iteración de código sobre contexto extenso, RTX 3060):
+
+| Método | Dónde acelera | Números observados |
+| --- | --- | --- |
+| N-gram solo | Solo cuando lo generado es **similar a lo ya en contexto** (reescrituras, ediciones menores) | >100 constantes, picos 200-277 tok/s; promedio 86,64 vs ~50 original |
+| MTP solo | Siempre (incluido razonamiento, aunque lento ~40 tok/s) | >200-306 tok/s en código; ~86 promedio |
+| MTP + N-gram | Decente en todo, incluso modificando código real | ~200 frecuente, picos ~300; 10 GB VRAM; procesamiento de contexto algo más lento |
+
+**El insight para agentes**: el patrón típico de edición es «reemplazar líneas con contenido casi idéntico» (un punto, una coma, un paréntesis) — exactamente el caso que N-gram acelera masivamente, por lo que beneficia a los agentes aunque ellos tengan su propia lista de tareas.
+
+**El cuello de botella de la iteración**: resultó ser el razonamiento (no coincide con lo ya en contexto y N-gram no ayuda ahí). La filosofía del caso: modelos chicos + iteración rápida + humano guiando correcciones + tareas divididas en pasos = trabajo bien hecho sin modelos de pago.
+
 ## Anti-bucles: parámetros DRY (fuente 9)
 
 Los modelos chicos entran en **loops infinitos** (repiten la misma cadena sin salir — principal problema de modelos como Qwen 0.8B, sobre todo con la cadena de razonamiento activa). Solución: la familia **DRY** de llama.cpp — un filtro externo que revisa los tokens/cadenas ya generadas y penaliza repeticiones, encima del sampling clásico. Se agregan ~4 líneas DRY al `.bat` sin tocar el sampling oficial del modelo. Compensaciones: ajustable estricto/laxo (si la tarea requiere repetir, un filtro agresivo empeora la respuesta; demasiado estricto hace las respuestas sin sentido), costo de velocidad mínimo, y efecto lateral de mayor variedad. No es 100 % infalible — método de ajuste iterativo: pegarle a un modelo online el comando + el texto loopeado + «reescribe mi comando cambiando solo los DRY», aplicar, y si reincide, pegar el nuevo loop (en el experimento con Qwen 0.8B muy cuantizado hizo falta además ajustar `repeat_penalty` y `repeat_last_n`).
