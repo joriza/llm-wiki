@@ -71,7 +71,16 @@ Registro cronológico de solo adición.
 - Fuente: https://www.youtube.com/watch?v=YP-hPDsz-XA — Café Kyoto, publicado 2024-09-30 (52:16).
 - Raw: raw/general/2024-09-30-ultraderecha-te-robo-a-un-amigo-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-ultraderecha-te-robo-a-un-amigo-cafe-kyoto (resumen de fuente).
-- Nota: octavo ensayo de Café Kyoto y la fuente más extensa del lote; marco teórico de Eliseo Verón (construcción del acontecimiento, semiosis social) con fuerte componente autobiográfico. Conceptos (acontecimiento, alt-right pipeline, humor hipermediático) aplazados a la consolidación.
+- Nota: octavo ensayo de Café Kyoto y la fuente más extensa del lote; marco teórico de Eliseo Verón (construcción del acontecimiento, semiosis social) con fuerte componente autobiográfico. Conceptos (acontecimiento, alt-right pipeline, humor hipermediático) aplazados a la consolidación. Comiteado en 7942552.
+
+## [2026-11-10] ingesta | La INDUSTRIA CULTURAL y la hegemonía del CAPITALISMO
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=Pf8RyANE1I4 — Café Kyoto, publicado 2023-03-04 (14:13).
+- Raw: raw/general/2023-03-04-industria-cultural-hegemonia-capitalismo-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-industria-cultural-hegemonia-capitalismo-cafe-kyoto (resumen de fuente).
+- Nota: novena fuente de Café Kyoto en el lote; didáctica y breve. El concepto de industria cultural ya aparece aplicado en la fuente 6/11 (low-tech): consolidación conjunta pendiente.
+
 
 
 
