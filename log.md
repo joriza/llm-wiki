@@ -39,7 +39,16 @@ Registro cronológico de solo adición.
 - Fuente: https://www.youtube.com/watch?v=TGHJl3Jq91k — Café Kyoto, publicado 2026-01-14 (36:53).
 - Raw: raw/general/2026-01-14-que-le-pasa-a-nuestra-generacion-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-que-le-pasa-a-nuestra-generacion-cafe-kyoto (resumen de fuente).
-- Nota: cuarto ensayo de Café Kyoto en el lote; conceptos (hiperstición, semiocapitalismo, realismo capitalista) aplazados a la consolidación. Menciona un «video de Ofelia» sin URL: pendiente de identificación. Bloque publicitario excluido del resumen.
+- Nota: cuarto ensayo de Café Kyoto en el lote; conceptos (hiperstición, semiocapitalismo, realismo capitalista) aplazados a la consolidación. Menciona un «video de Ofelia» sin URL: pendiente de identificación. Bloque publicitario excluido del resumen. Comiteado en f464532.
+
+## [2026-11-10] ingesta | PARÁSITOS MENTALES
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=gthW3hGebB0 — Café Kyoto, publicado 2025-07-17 (23:16).
+- Raw: raw/general/2025-07-17-parasitos-mentales-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-parasitos-mentales-cafe-kyoto (resumen de fuente).
+- Nota: quinto ensayo de Café Kyoto en el lote; contenido de crítica política contemporánea (Milei, Kaiser, Laje); las caracterizaciones son del canal y se registran como contenido de la fuente. Conceptos (doctrina del odio, enemigo en lo político) aplazados a la consolidación.
+
 
 
 
