@@ -31,7 +31,16 @@ Registro cronológico de solo adición.
 - Fuente: https://www.youtube.com/watch?v=SFW9V-GZ7gs — Café Kyoto, publicado 2025-12-29 (30:10).
 - Raw: raw/general/2025-12-29-estafa-moral-meritocracia-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-estafa-moral-meritocracia-cafe-kyoto (resumen de fuente).
-- Nota: tercer ensayo de Café Kyoto en el lote; conceptos (moral del esfuerzo, meritocracia, sociedad del cansancio) aplazados a la consolidación. El vídeo incluye un bloque publicitario transcribido en el raw y excluido del resumen.
+- Nota: tercer ensayo de Café Kyoto en el lote; conceptos (moral del esfuerzo, meritocracia, sociedad del cansancio) aplazados a la consolidación. El vídeo incluye un bloque publicitario transcribido en el raw y excluido del resumen. Comiteado en 500d16d.
+
+## [2026-11-10] ingesta | ¿Qué le PASA a nuestra GENERACIÓN? | CÓMO (NO) SER FELIZ
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=TGHJl3Jq91k — Café Kyoto, publicado 2026-01-14 (36:53).
+- Raw: raw/general/2026-01-14-que-le-pasa-a-nuestra-generacion-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-que-le-pasa-a-nuestra-generacion-cafe-kyoto (resumen de fuente).
+- Nota: cuarto ensayo de Café Kyoto en el lote; conceptos (hiperstición, semiocapitalismo, realismo capitalista) aplazados a la consolidación. Menciona un «video de Ofelia» sin URL: pendiente de identificación. Bloque publicitario excluido del resumen.
+
 
 
 
