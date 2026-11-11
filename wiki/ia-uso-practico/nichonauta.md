@@ -2,8 +2,8 @@
 
 - **Tipo**: página de entidad (canal).
 - **Dominio**: `ia-uso-practico/`.
-- **Actualizado**: 2026-11-11 (fuente 7/58 del lote ia-local — 12 fuentes del canal, supera ampliamente el umbral).
-- **Fuentes**: [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]] · [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] · [[resumen-ia-local-con-llama-cpp-funciona-en-una-pc-de-4-gb-ram]] · [[resumen-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad]] · [[resumen-qwen-3-5-4b-el-modelo-gratis-que-supera-al-o3-mini-en-local]] · [[resumen-ia-local-las-verdaderas-razones-para-no-usar-servicios-en-linea]] · [[resumen-configurar-modelos-de-ia-con-maximo-rendimiento-tutorial-en-llama-cpp]] · [[resumen-reto-modelos-2b-como-sacar-el-maximo-provecho-con-ia-local]].
+- **Actualizado**: 2026-11-11 (fuente 7/58 del lote ia-local — 8 fuentes del canal (de las 14 procesadas del lote ia-local), supera ampliamente el umbral).
+- **Fuentes**: [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]] · [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] · [[resumen-ia-local-con-llama-cpp-funciona-en-una-pc-de-4-gb-ram]] · [[resumen-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad]] · [[resumen-qwen-3-5-4b-el-modelo-gratis-que-supera-al-o3-mini-en-local]] · [[resumen-ia-local-las-verdaderas-razones-para-no-usar-servicios-en-linea]] · [[resumen-configurar-modelos-de-ia-con-maximo-rendimiento-tutorial-en-llama-cpp]] · [[resumen-reto-modelos-2b-como-sacar-el-maximo-provecho-con-ia-local]] · [[resumen-test-modelos-muy-pequenos-2b-hasta-donde-pueden-llegar-con-ia]].
 
 **Nichonauta** es el canal técnico en español del sub-hilo de **IA local en hardware de hogar** dentro de la wiki: tutoriales de ejecución ([[llama-cpp]] con GGUF), comparativas de modelos ([[qwen]] vs [[gemma-4]]), experimentos de límites (la PC de 4 GB en [[hardware-para-ia-local]]) y argumentación ([[desarrollo-con-modelos-locales]], las razones de lo local).
 
