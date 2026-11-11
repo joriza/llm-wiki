@@ -926,3 +926,10 @@ Registro cronológico de solo adición.
 - Procesada bajo instrucción del usuario («procese solo 1 fuente mas») — descargas siguen detenidas, runner no relanzado. Estado del lote: 26/58.
 - Entidad [[proxy-atomico]] ampliada con la instalación real y la conexión desde [[deepseek-harness]] como proveedor personalizado (cierra el teaser de la fuente 25). Entidad nichonauta re-sincronizada a 21 fuentes.
 - En scratch sin procesar (1 raw): 2EAtjJbnEVk («827 — No necesitas una GPU de 3000€ para IA Local», atareao; amplía [[hardware-para-ia-local]]). Pendientes de descargar: entradas 31-58 (~28) + la 54 UNKNOWN.
+
+## [2026-11-11] ingesta | lote ia-local — fuente 27/58 (pedido: «procese solo 1 fuente mas»)
+
+- Fuente 27/58: 827 — No Necesitas una GPU de 3000€ para IA Local (botiquín mínimo de IA local; atareao, 2026-08-31): 8 GB RAM + SSD (NVMe) ya corren Phi 3.5 / Qwen 1.5B; 16-32 GB modelos mayores; sin GPU dedicada, combinar local (lo simple) + nube (lo pesado); Ollama (curl install o pacman) + contenedores Podman/Docker para Open WebUI y OpenCode (aislamiento de librerías); roadmap: RAG SQLite-vec (Rust), Whisper local, TTS, skills/MCPs; script bash monta laboratorio completo y se guarda en git; demo con llama3.2 2B — raw raw/ia-uso-practico/2026-08-31-827-no-necesitas-una-gpu-de-3000-para-ia-local.md — resumen wiki/ia-uso-practico/resumen-827-no-necesitas-una-gpu-de-3000-para-ia-local.md
+- Procesada bajo instrucción del usuario («procese solo 1 fuente mas») — descargas siguen detenidas, runner no relanzado. Estado del lote: 27/58.
+- Entidad [[hardware-para-ia-local]] absorbida (piso 8 GB, SSD obligatorio, stack Ollama/contenedores, roadmap temporada 9).
+- Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 31-58 (~28) + la 54 UNKNOWN.

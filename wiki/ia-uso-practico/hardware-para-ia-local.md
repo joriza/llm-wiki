@@ -2,8 +2,8 @@
 
 - **Tipo**: página de concepto.
 - **Dominio**: `ia-uso-practico/`.
-- **Actualizado**: 2026-11-11 (fuente 4/58 del lote ia-local — irá creciendo con las fuentes de hardware del lote).
-- **Fuentes**: [[resumen-ia-local-con-llama-cpp-funciona-en-una-pc-de-4-gb-ram]] · [[resumen-gpu-40gb-como-usar-tu-gpu-integrada-para-ia-con-llama-cpp]] (fuente 21 — la iGPU como «VRAM barata»).
+- **Actualizado**: 2026-11-11 (fuente 27/58 del lote ia-local — irá creciendo con las fuentes de hardware del lote).
+- **Fuentes**: [[resumen-ia-local-con-llama-cpp-funciona-en-una-pc-de-4-gb-ram]] · [[resumen-gpu-40gb-como-usar-tu-gpu-integrada-para-ia-con-llama-cpp]] (fuente 21 — la iGPU como «VRAM barata») · [[resumen-827-no-necesitas-una-gpu-de-3000-para-ia-local]].
 
 ## La lección fundamental: velocidad de memoria > capacidad de memoria
 
@@ -18,7 +18,9 @@ El experimento de la mini laptop de 4 GB (fanless, Windows, CPU sencilla, sin GP
 
 ## Fuentes de hardware pendientes de absorber (del mismo lote)
 
-GPU integrada de 40 GB (26), «no necesitas GPU de 3000 €» (32), CPU sin GPU (35), guía de hardware antes de comprar (43), cientos de usuarios concurrentes (44), Mac Studio vs $200/mes (39) y vs AMD AI PC (47), Kaggle GPU gratis (48), servidor 32 GB VRAM gratis (57).
+GPU integrada de 40 GB (26), CPU sin GPU (35), guía de hardware antes de comprar (43), cientos de usuarios concurrentes (44), Mac Studio vs $200/mes (39) y vs AMD AI PC (47), Kaggle GPU gratis (48), servidor 32 GB VRAM gratis (57).
+
+> La fuente 27 (827 — no necesitas GPU de 3000 €) se absorbió en esta actualización.
 
 ## El truco de la iGPU como «VRAM barata» (fuente 21)
 
