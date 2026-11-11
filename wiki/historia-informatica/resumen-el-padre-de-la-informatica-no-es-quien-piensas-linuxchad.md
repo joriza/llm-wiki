@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `historia-informatica/`.
 - **Fuente original**: `raw/historia-informatica/2026-10-04-el-padre-de-la-informatica-no-es-quien-piensas.md` (subtítulos automáticos en inglés, literal) — https://www.youtube.com/watch?v=7_uXIerQoxc — LinuxChad, 2026-10-04 (25:57).
-- **Nota**: fuente del lote 8M (6/8). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente del lote 8M (6/8). Consolidación (2026-11-11): enlaces → [[john-von-neumann]], [[alan-turing]], [[arquitectura-von-neumann]], [[john-backus]], [[historia-lenguajes-programacion]].
 
 ## La tesis: Turing no diseñó tu ordenador
 

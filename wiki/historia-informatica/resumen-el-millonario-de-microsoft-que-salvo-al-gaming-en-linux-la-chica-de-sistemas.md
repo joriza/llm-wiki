@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `historia-informatica/`.
 - **Fuente original**: `raw/historia-informatica/2026-10-02-el-millonario-de-microsoft-que-salvo-al-gaming-en-linux.md` (subtítulos automáticos en inglés, literal) — https://www.youtube.com/watch?v=wmWrwL9-Nco — La Chica de Sistemas, 2026-10-02 (24:23).
-- **Nota**: fuente del lote 8M (4/8). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente del lote 8M (4/8). Consolidación (2026-11-11): enlaces → [[gabe-newell]], [[memoria-dos-xms-ems]] (la era DOS que Doom salta por completo).
 
 ## Gabe Newell: de Microsoft a la revelación (1983-1996)
 

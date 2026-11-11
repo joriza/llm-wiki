@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `historia-informatica/`.
 - **Fuente original**: `raw/historia-informatica/2026-10-12-todos-los-lenguajes-de-programacion-explicados-en-20-minutos-segunda-parte.md` (subtítulos automáticos en inglés, literal) — https://www.youtube.com/watch?v=3WBlSKYMHcQ — Cognix, 2026-10-12 (22:35).
-- **Nota**: fuente del lote 8M (8/8). Sin enlaces cruzados todavía (consolidación aplazada). Segunda parte de una serie; la parte 1 no está en el lote.
+- **Nota**: fuente del lote 8M (8/8). Segunda parte de una serie; la parte 1 no está en el lote. Consolidación (2026-11-11): enlaces → [[historia-lenguajes-programacion]], [[john-backus]].
 
 ## Formato
 

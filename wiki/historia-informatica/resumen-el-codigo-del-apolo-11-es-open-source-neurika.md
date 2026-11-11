@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `historia-informatica/`.
 - **Fuente original**: `raw/historia-informatica/2026-10-12-el-codigo-del-apolo-11-es-open-source-y-es-para-morirse-de-risa.md` (subtítulos automáticos en inglés, literal) — https://www.youtube.com/watch?v=FK7EyEWMQUs — Neurika, 2026-10-12 (23:15).
-- **Nota**: fuente del lote 8M (7/8). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente del lote 8M (7/8). Consolidación (2026-11-11): enlaces → [[margaret-hamilton]], [[arquitectura-von-neumann]], [[historia-lenguajes-programacion]].
 
 ## El código público con chistes
 

@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `historia-informatica/`.
 - **Fuente original**: `raw/historia-informatica/2026-09-24-frontpage-microsoft-lo-mato-pero-su-idea-gano.md` (subtítulos automáticos en inglés, literal) — https://www.youtube.com/watch?v=FhtNxzKO310 — ARCHIVO DEL FUTURO, 2026-09-24 (29:03).
-- **Nota**: fuente del lote 8M (3/8). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente del lote 8M (3/8). Consolidación (2026-11-11): enlaces → [[vermeer-frontpage]].
 
 ## Planteamiento
 

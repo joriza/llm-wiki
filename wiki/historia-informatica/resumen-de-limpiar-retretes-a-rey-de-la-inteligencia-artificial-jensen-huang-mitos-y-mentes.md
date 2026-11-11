@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `historia-informatica/`.
 - **Fuente original**: `raw/historia-informatica/2024-06-12-de-limpiar-retretes-a-rey-de-la-inteligencia-artificial-jensen-huang.md` (subtítulos automáticos en inglés, literal) — https://www.youtube.com/watch?v=xHd4RftVrBY — Mitos y Mentes, 2024-06-12 (15:06).
-- **Nota**: fuente del lote 8M (1/8). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente del lote 8M (1/8). Consolidación (2026-11-11): sin entidad propia (1 fuente; Jensen Huang/Nvidia aplazada hasta más fuentes del dominio).
 
 ## Biografía temprana
 

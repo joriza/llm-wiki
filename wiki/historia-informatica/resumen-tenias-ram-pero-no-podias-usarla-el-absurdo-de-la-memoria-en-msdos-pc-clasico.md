@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `historia-informatica/`.
 - **Fuente original**: `raw/historia-informatica/2026-10-03-tenias-ram-pero-no-podias-usarla-el-absurdo-de-la-memoria-en-msdos.md` (subtítulos automáticos en inglés, literal) — https://www.youtube.com/watch?v=Tq2BqalHhTo — PC Clásico, 2026-10-03 (12:23).
-- **Nota**: fuente del lote 8M (5/8). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente del lote 8M (5/8). Consolidación (2026-11-11): enlaces → [[memoria-dos-xms-ems]], [[historia-lenguajes-programacion]].
 
 ## El problema demostrado
 

@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `historia-informatica/`.
 - **Fuente original**: `raw/historia-informatica/2025-01-07-fortran-marco-a-una-generacion.md` (subtítulos automáticos en inglés, literal) — https://www.youtube.com/watch?v=KWn9gL2PCQc — LinuxChad, 2025-01-07 (10:27).
-- **Nota**: fuente del lote 8M (2/8). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente del lote 8M (2/8). Consolidación (2026-11-11): enlaces → [[john-backus]], [[historia-lenguajes-programacion]].
 
 ## El error que costó 50 millones: Mariner 1
 
