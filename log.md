@@ -260,3 +260,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-06-27-automatiza-tareas-edicion-imagenes-flux-kontext-dev-xavier-mitjana-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-automatiza-tareas-edicion-imagenes-flux-kontext-dev-xavier-mitjana-lab (resumen de fuente).
 - Nota: fuente 9/57 de la playlist; anuncio de open weights de FLUX.1 Kontext Dev + fine-tuning por tareas vía FAL. Mismo autor que la fuente 7/57 (canal principal) y mismo modelo que la 6/57; consolidación conjunta pendiente. Patrocinio Freepik registrado como tal.
+
+## [2026-11-10] ingesta | IMAGENES PROHIBIDAS Creadas con IA: La Guía GRATIS Que Nadie Te Dijo
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=bN94_jK12bo — Creador Inteligente, publicado 2024-09-08 (24:05).
+- Raw: raw/inteligencia-artificial/2024-09-08-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente (resumen de fuente).
+- Nota: fuente 10/57 de la playlist; guía de acceso gratuito a FLUX (Pro/Dev/Schnell) con Glif + optimización de prompts. La primera plataforma usada queda transcrito como «cart» sin identificación segura: pendiente en consolidación. Octavo canal nuevo del lote (Creador Inteligente), entidad aplazada.
