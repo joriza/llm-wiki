@@ -196,3 +196,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-10-19-4-mejores-ias-sin-censura-imagenes-gratis-creatuiia.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-4-mejores-ias-sin-censura-imagenes-gratis-creatuiia (resumen de fuente).
 - Nota: fuente 1/57 de la playlist; primer canal nuevo del lote (CreaTuIA), entidad aplazada. Reseña de herramientas con contenido sensible («sin censura») registrada como contenido de la fuente.
+
+## [2026-11-10] ingesta | Mammouth: This AI Chat Platform has 20+ AI Models for JUST $10!
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=dfBQ3Rui1Gw — AICodeKing, publicado 2025-05-25 (09:39).
+- Raw: raw/inteligencia-artificial/2025-05-25-mammouth-ai-chat-platform-20-models-10-dollars-aicodeking.md (transcripción de subtítulos automáticos en con marcas de tiempo).
+- Páginas creadas: resumen-mammouth-plataforma-chat-20-modelos-10-dolares-aicodeking (resumen de fuente, en español).
+- Nota: fuente 2/57 de la playlist; primera fuente en inglés del lote (resumen en español por convención). El encabezado del raw dice «español» por artefacto del extractor; la transcripción no fue modificada. Primer intento de raw tenía fecha/slug inventados: borrado y regenerado desde la metadata real.
