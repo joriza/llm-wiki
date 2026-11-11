@@ -27,6 +27,7 @@ No se aprenden «500.000 bibliotecas»: se entiende **para qué sirve cada una y
 | Concurrencia | Asyncio | «El mesero eficiente»: no esperar ocioso mientras otra petición procesa |
 | Persistencia liviana | SQLite | Una base de datos entera en un archivo, sin instalación |
 | UI y juegos | Kivy, Pygame, Pyglet | Interfaces móviles multiplataforma; juegos 2D; multimedia pesada/3D |
+| Demo y prototipado (fuente 5) | Manim, Faker, Gradio, Diagrams, Marimo | Animaciones matemáticas, datos de prueba realistas, demos ML con link, diagramas desde código, notebooks reactivos — multiplicadores unipersonales (ver [[manim]], [[faker]], [[gradio]], [[diagrams]], [[marimo]]) |
 
 ## Cruces con la wiki
 

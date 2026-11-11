@@ -1,4 +1,4 @@
-# Agentes de código (IA agéntica para programar)
+	# Agentes de código (IA agéntica para programar)
 
 - **Tipo**: página de concepto.
 - **Dominio**: `ia-uso-practico/`.
