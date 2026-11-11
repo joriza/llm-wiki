@@ -535,3 +535,7 @@ Registro cronológico de solo adición.
 ## [2026-11-11] ingesta | Marcas de agua invisibles en la IA 2026: qué son y cómo evitarlas
 
 - Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=HGWozEps8L8 — Alan Daitch, 2026-08-20 (06:41). Raw: raw/inteligencia-artificial/2026-08-20-marcas-de-agua-invisibles-en-la-ia-2026-que-son-y-como-evitarlas.md (subtítulos automáticos, literal; ya estaba en disco — la ruta ASR quedó de reserva en .atl/). Página creada: resumen-marcas-de-agua-invisibles-en-la-ia-2026-alan-daitch. Nota: fuente 48/57; SynthID/antrópico watermarking estadístico, artículo 50 UE, cinco agujeros críticos (paráfrasis la elimina; API de detección explotable en bucle). Estado del lote: 48/57 con resumen, 9 pendientes.
+
+## [2026-11-11] ingesta | Dejé de pagar 4 suscripciones de IA por ESTOS repos
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=5JJgfcJxyyg — Fazt, 2026-09-09 (17:42). Raw: raw/inteligencia-artificial/2026-09-09-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos.md (subtítulos automáticos, literal). Página creada: resumen-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos-fazt. Nota: fuente 50/57; tour de repos (OmniRouter, Herdr, Orca, editor de agentes, distro DHH, AnyDoc, GrillMe, DeepSeek Harness, OpenMontage). Nombres garbiñados: verificar contra GitHub antes de citar. Patrocinio Hostinger excluido. Estado del lote: 50/57 con resumen, 7 pendientes.
