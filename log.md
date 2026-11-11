@@ -763,3 +763,4 @@ Registro cronológico de solo adición.
 - Fuente 4/28: Tutorial de estufas rocket (parte 2) — raw raw/casa-calefaccion/2020-09-21-tutorial-de-estufas-rocket-parte-2.md — resumen wiki/casa-calefaccion/resumen-tutorial-de-estufas-rocket-parte-2.md
 - Fuente 3/28: Tutorial de estufas rocket (Parte 1) — raw raw/casa-calefaccion/2020-09-19-tutorial-de-estufas-rocket-parte-1.md — resumen wiki/casa-calefaccion/resumen-tutorial-de-estufas-rocket-parte-1.md
 - Fuente 2/28: Calefacción gratis: cómo hacer una estufa rocket (paso a paso) — raw raw/casa-calefaccion/2024-05-18-calefaccion-gratis-como-hacer-una-estufa-rocket-paso-a-paso.md — resumen wiki/casa-calefaccion/resumen-calefaccion-gratis-como-hacer-una-estufa-rocket-paso-a-paso.md
+- Fuente 6/28: Muro Trombe — raw raw/casa-calefaccion/2022-06-13-muro-trombe.md — resumen wiki/casa-calefaccion/resumen-muro-trombe.md
