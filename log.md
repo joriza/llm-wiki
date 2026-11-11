@@ -316,3 +316,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2024-08-13-generador-bases-de-datos-gratis-midulive.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-generador-bases-de-datos-gratis-midulive (resumen de fuente).
 - Nota: fuente 16/57 de la playlist; Postgres.new (Supabase) — PostgreSQL con lenguaje natural en el navegador. Tramo final off-topic (giras del canal) excluido de la síntesis. Decimotercer canal nuevo del lote (midulive), entidad aplazada.
+
+## [2026-11-10] ingesta | GOOGLE dispara TU PRODUCTIVIDAD con esta NOVEDAD y muchas más NOVEDADES
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=UWmXrqhfP4c — Xavier Mitjana, publicado 2025-12-21 (22:54).
+- Raw: raw/inteligencia-artificial/2025-12-21-google-dispara-tu-productividad-novedad-xavier-mitjana.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-google-dispara-tu-productividad-novedad-xavier-mitjana (resumen de fuente).
+- Nota: fuente 17/57 de la playlist; novedades Google (NotebookLM+Gemini, tablas, Gemini 3 Flash, Antigravity) + modelo Qwen de capas. Patrocinio HubSpot excluido de la síntesis. Mismo canal que 7/57 y 9/57: consolidación conjunta pendiente.
