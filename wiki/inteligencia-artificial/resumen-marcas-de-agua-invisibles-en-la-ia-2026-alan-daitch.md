@@ -3,7 +3,7 @@
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=HGWozEps8L8) (fuente 48/57 del lote IA-Recursos)
 - **Canal**: Alan Daitch
 - **Publicado**: 2026-08-20 · Duración 06:41
-- **Raw**: `raw/inteligencia-artificial/2026-08-20-marcas-de-agua-invisibles-en-la-ia-2026-que-son-y-como-evitarlas.md` (transcripción ASR con faster-whisper small a partir del audio, por bloqueo de IP en subtítulos; no literal)
+- **Raw**: `raw/inteligencia-artificial/2026-08-20-marcas-de-agua-invisibles-en-la-ia-2026-que-son-y-como-evitarlas.md` (subtítulos automáticos, transcripción literal)
 
 ## Idea central
 
@@ -47,4 +47,4 @@ Quinto problema adicional: la frontera se borra desde el otro lado — los human
 
 ## Notas sobre la fuente
 
-Transcripción generada localmente con faster-whisper (small) a partir del audio (endpoint de subtítulos bloqueado por IP, 429). No es literal; errores de reconocimiento corregidos aquí: «Cloud» por Claude, «Coer» por Cohere, «since ID/Synth ID» por SynthID, «DeepSync» por DeepSeek, «GROC» por Grok, «Daich» por Daitch, «la reunión va a…». Apertura tipo canal (suscribirse/like) excluida de la síntesis.
+Transcripción de subtítulos automáticos (yt-dlp), literal. Errores de reconocimiento corregidos aquí: «Cloud» por Claude, «Coer» por Cohere, «since ID/Synth ID» por SynthID, «DeepSync» por DeepSeek, «GROC» por Grok, «Daich» por Daitch, «la reunión va a…». Apertura tipo canal (suscribirse/like) excluida de la síntesis. Nota: se intentó antes la ruta ASR (faster-whisper small) por bloqueo de subtítulos, pero el raw literal ya estaba en disco; el ASR quedó en `.atl/raw_next_asr_hgw.md` (no ingestado).
