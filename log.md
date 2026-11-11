@@ -276,3 +276,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2024-08-18-como-midjourney-gratis-mejor-sin-censura-flux1-alejavi-rivera.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-como-midjourney-gratis-mejor-sin-censura-flux1-alejavi-rivera (resumen de fuente).
 - Nota: fuente 11/57 de la playlist; superpone temas con 10/57 (Glif/HF) y 9/57 (inpainting): consolidación conjunta pendiente. Contenido sensible (demo sin censura difuminada) registrado como contenido de la fuente. Noveno canal nuevo del lote (Alejavi Rivera), entidad aplazada.
+
+## [2026-11-10] ingesta | Kilo Code + GLM 4.6: Modelo ULTRA ECONÓMICO que FUNCIONA
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=V6EPzmp36iw — CursosDesarrolloWeb, publicado 2025-10-01 (13:21).
+- Raw: raw/inteligencia-artificial/2025-10-01-kilo-code-glm-46-modelo-ultra-economico-cursosdesarrolloweb.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-kilo-code-glm-46-modelo-ultra-economico-cursosdesarrolloweb (resumen de fuente).
+- Nota: fuente 12/57 de la playlist; Kilo Code + GLM 4.6 (Z.ai) con demo de API Laravel 12. Inconsistencia menor de la fuente (100 vs 120 prompts/5h para el plan Light) anotada para verificación. Décimo canal nuevo del lote (CursosDesarrolloWeb), entidad aplazada.
