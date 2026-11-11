@@ -204,3 +204,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-05-25-mammouth-ai-chat-platform-20-models-10-dollars-aicodeking.md (transcripción de subtítulos automáticos en con marcas de tiempo).
 - Páginas creadas: resumen-mammouth-plataforma-chat-20-modelos-10-dolares-aicodeking (resumen de fuente, en español).
 - Nota: fuente 2/57 de la playlist; primera fuente en inglés del lote (resumen en español por convención). El encabezado del raw dice «español» por artefacto del extractor; la transcripción no fue modificada. Primer intento de raw tenía fecha/slug inventados: borrado y regenerado desde la metadata real.
+
+## [2026-11-10] ingesta | La Mejor Inteligencia Artificial Gratis para Trading en 2025
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=aGaD7noI2xQ — Código Trading, publicado 2025-09-25 (19:03).
+- Raw: raw/inteligencia-artificial/2025-09-25-mejor-ia-gratis-trading-2025-codigo-trading.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-mejor-ia-gratis-trading-2025-codigo-trading (resumen de fuente).
+- Nota: fuente 3/57 de la playlist; tercer canal nuevo del lote (Código Trading), entidad aplazada. Contenido con interés comercial del canal (formación de pago) registrado como tal; la fuente incluye advertencia de riesgo explícita.
