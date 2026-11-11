@@ -803,3 +803,4 @@ Registro cronológico de solo adición.
 - **Pre-flight**: 7 entradas, 7 únicas (sin duplicados); pertinencia OK — Python práctico: Loguru (logging), script de automatización con ingresos, librerías «innecesarias»/«poderosas», panorama de bibliotecas, DuckDB, librerías de micro-SaaS.
 - **Dominio nuevo confirmado por el usuario**: `python-practico/` — «Librerías, herramientas y proyectos prácticos de Python (logging, automatización, DuckDB, micro-SaaS)». No encaja en `informatica-teoria/` (alcance de fundamentos/teoría).
 - Ingesta: bucle secuencial descarga→ingesta (runner `--one`, pacing ≥50 s) por ruta VPN Proton (salida EE. UU.), agente único sin subagentes.
+- Fuente 1/7: Python Logging Made EASY with Loguru (tutorial de Loguru; patrocinio del canal excluido de la síntesis) — raw raw/python-practico/2025-01-08-python-logging-made-easy-with-loguru.md — resumen wiki/python-practico/resumen-python-logging-made-easy-with-loguru.md
