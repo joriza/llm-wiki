@@ -16,8 +16,8 @@ Ingesta por lotes de las entradas sin procesar (11 URLs de YouTube pendientes). 
 
 ## Tasks
 
-- T1 [S1-S9] Ingesta fuente 1/11: https://www.youtube.com/watch?v=_2lQ-xepUbU — HECHA (raw + resumen + index + log; commit pendiente de registro)
-- T2 [S1-S9] Ingesta fuente 2/11: https://www.youtube.com/watch?v=MDRCJ5vgSJk
+- T1 [S1-S9] Ingesta fuente 1/11: https://www.youtube.com/watch?v=_2lQ-xepUbU — HECHA (commit d8c71c6)
+- T2 [S1-S9] Ingesta fuente 2/11: https://www.youtube.com/watch?v=MDRCJ5vgSJk — HECHA (commit en el próximo commit del lote)
 - T3 [S1-S9] Ingesta fuente 3/11: https://www.youtube.com/watch?v=SFW9V-GZ7gs
 - T4 [S1-S9] Ingesta fuente 4/11: https://www.youtube.com/watch?v=TGHJl3Jq91k
 - T5 [S1-S9] Ingesta fuente 5/11: https://www.youtube.com/watch?v=gthW3hGebB0
