@@ -236,3 +236,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-06-27-flux-kontext-en-local-y-gratis-academia-sd.md (transcripción de subtítulos manuales es con marcas de tiempo).
 - Páginas creadas: resumen-flux-kontext-en-local-y-gratis-academia-sd (resumen de fuente).
 - Nota: fuente 6/57 de la playlist; primera fuente del lote con subtítulos manuales desde la 6 (texto limpio). Tutorial técnico de ComfyUI + GGUF; quinto canal nuevo del lote (Academia SD), entidad aplazada.
+
+## [2026-11-10] ingesta | Todas las HERRAMIENTAS IA que necesitas 100% GRATIS e ILIMITADAS
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=UlvCl6rQK8U — Xavier Mitjana, publicado 2025-09-07 (36:16).
+- Raw: raw/inteligencia-artificial/2025-09-07-todas-las-herramientas-ia-gratis-ilimitadas-xavier-mitjana.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-todas-las-herramientas-ia-gratis-ilimitadas-xavier-mitjana (resumen de fuente).
+- Nota: fuente 7/57 de la playlist; guía general de IA local (LM Studio, Ollama, ComfyUI; Gemma, Qwen, Wan, FLUX Kontext Dev). Patrocinio HP transcrito en el raw y excluido de la síntesis. Sexto canal nuevo del lote (Xavier Mitjana), entidad aplazada.
