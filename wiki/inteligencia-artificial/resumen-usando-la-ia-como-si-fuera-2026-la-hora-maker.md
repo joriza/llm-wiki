@@ -4,7 +4,7 @@
 - **Canal**: La Hora Maker (página de entidad pendiente de consolidación; también 39/57).
 - **Publicado**: 2026-03-13. **Duración**: 42:48.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=d6moRNMK5ik).
-- **Raw**: [raw/inteligencia-artificial/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md](../../raw/inteligencia-artificial/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md) (transcripción local generada con faster-whisper por bloqueo de timedtext; puede contener errores de reconocimiento).
+- **Raw**: [raw/inteligencia-artificial/2026-03-13-usando-la-inteligencia-artificial-como-si-fuera-2026.md](../../raw/inteligencia-artificial/2026-03-13-usando-la-inteligencia-artificial-como-si-fuera-2026.md) (subtítulos automáticos de YouTube, transcripción literal con marcas de tiempo). Existe también una transcripción ASR alternativa del mismo vídeo: [raw/inteligencia-artificial/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md](../../raw/inteligencia-artificial/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md) (faster-whisper small; la ruta ASR se usó por el bloqueo de timedtext antes de confirmar que el fallback de subtítulos funcionaba para este vídeo).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (skills, MCP, spec-driven, agentes).
 - **Disposición de la ingesta**: Nueva.
 
@@ -37,8 +37,8 @@ Clase de Fab Academy traducida a vídeo: panorama condensado (< 43 min) de cómo
 
 ## Notas sobre la fuente
 
-- **Transcripción ASR local (faster-whisper small) por bloqueo de timedtext**: nombres garbiñados que este resumen normaliza: «oyama» → Ollama, «lm estudio/LM estudio» → LM Studio, «cloud/CloudCode» → Claude Code, «cursor» → Cursor, «SpecKit» → Spec Kit, «OpenSpec/Opencate» → OpenSpec, «mcps» → MCP, «A2A» → A2A (Agent-to-Agent), «hagan face» → Hugging Face, «nilgersen» → Neil Gershenfeld, «la korta láser» → cortadora láser, «olmo» → Olmo, «qwen/Q1 3» → Qwen 3, «Ralph modo» → Ralph mode.
+- **Transcripción de subtítulos automáticos (literal)**: nombres garbiñados que este resumen normaliza: «oyama» → Ollama, «lm estudio/LM estudio» → LM Studio, «cloud/CloudCode/Cloud» → Claude Code, «cursor» → Cursor, «SpecKit/Specit» → Spec Kit, «OpenSpec/Opencate/Openpot» → OpenSpec, «mcps/MCPs» → MCP, «A2A» → A2A (Agent-to-Agent), «Hagan Face» → Hugging Face, «nilgersen» → Neil Gershenfeld, «la korta láser» → cortadora láser, «Olmo» → Olmo, «Qwen/Q1 3» → Qwen 3, «Ralph modo» → Ralph mode, «Fabrag/fabrag» → FabRAG, «Mods/mods» → Mods, «Pinocchio» → Pinokio, «Unsloth» → Unsloth, «Antropiq» → Anthropic.
 - Mismo canal que [[resumen-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker]] (39/57); entidad **la-hora-maker** pendiente de consolidación (cruce previo anotado en la página de concepto [[evaluacion-de-llms]]).
 - Repos de código citados en el GitHub del canal: **fabrag** (RAG de Fab Academy) y el experimento del **MCP de Mods** — herramientas candidatas a página de entidad si vuelven a aparecer.
 - La sección sobre OpenSpec (30:41-34:19) es la contraparte conceptual en clase de Fab Academy del tutorial de [[resumen-openspec-apps-full-stack-sin-codigo-vera-badias]] (27/57): mismo flujo (propuesta → diseño → tareas → apply → sync), confirmación independiente del valor del enfoque spec-driven.
-- Fuente 29/57 de la playlist «IA-Recursos» (video ID canónico `d6moRNMK5ik`); primera ingesta con el audio del propio canal descargado por CDN googlevideo + transcripción whisper local.
+- Fuente 29/57 de la playlist «IA-Recursos» (video ID canónico `d6moRNMK5ik`); la ruta de subtítulos automáticos (fallback de `.atl/fetch_yt.py`) funcionó para este vídeo, así que la fuente usa la transcripción literal; la variante ASR del mismo raw se conserva como respaldo.
