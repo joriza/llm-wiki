@@ -768,6 +768,7 @@ Registro cronológico de solo adición.
 - Fuente 8/28: Tipos de ventilación natural — raw raw/casa-calefaccion/2021-12-08-tipos-de-ventilacion-natural.md — resumen wiki/casa-calefaccion/resumen-tipos-de-ventilacion-natural.md
 - Fuente 7/28: ¿Qué es un partesol o parasol? — raw raw/casa-calefaccion/2022-05-26-que-es-un-partesol-o-parasol.md — resumen wiki/casa-calefaccion/resumen-que-es-un-partesol-o-parasol.md
 - Fuente 9/28: Esta batería de arena de $15 calienta cualquier cabaña todo el invierno con solo 2 horas de sol — raw raw/casa-calefaccion/2026-04-26-esta-bateria-de-arena-de-15-calienta-cualquier-cabana-todo-el-invierno-con-solo-.md — resumen wiki/casa-calefaccion/resumen-esta-bateria-de-arena-de-15-calienta-cualquier-cabana-todo-el-invierno-con-solo-.md
+- Fuente 10/28: Wrap copper tubing around an old fan. Save a lot of dollars this winter (fuente hueca: subtítulos presentes pero sin contenido técnico, solo boilerplate del canal; reintento 429 OK) — raw raw/casa-calefaccion/2025-12-18-wrap-copper-tubing-around-an-old-fan-save-a-lot-of-dollars-this-winter.md — resumen wiki/casa-calefaccion/resumen-wrap-copper-tubing-around-an-old-fan-save-a-lot-of-dollars-this-winter.md
 
 ## [2026-11-11] documentación | protocolo de ingesta de playlists + primer push a GitHub
 
