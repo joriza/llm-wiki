@@ -63,7 +63,16 @@ Registro cronológico de solo adición.
 - Fuente: https://www.youtube.com/watch?v=SGoWw1XMRR4 — Café Kyoto, publicado 2025-06-04 (24:21).
 - Raw: raw/general/2025-06-04-una-generacion-de-cristal-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-una-generacion-de-cristal-cafe-kyoto (resumen de fuente).
-- Nota: séptimo ensayo de Café Kyoto en el lote; incluye análisis político de Javier Milei (caracterizaciones del canal, registradas como contenido de la fuente). Conceptos (estética de la regresión, positividad) aplazados a la consolidación.
+- Nota: séptimo ensayo de Café Kyoto en el lote; incluye análisis político de Javier Milei (caracterizaciones del canal, registradas como contenido de la fuente). Conceptos (estética de la regresión, positividad) aplazados a la consolidación. Comiteado en 776532e.
+
+## [2026-11-10] ingesta | Cómo la ULTRADERECHA te ROBÓ a un AMIGO
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=YP-hPDsz-XA — Café Kyoto, publicado 2024-09-30 (52:16).
+- Raw: raw/general/2024-09-30-ultraderecha-te-robo-a-un-amigo-cafe-kyoto.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-ultraderecha-te-robo-a-un-amigo-cafe-kyoto (resumen de fuente).
+- Nota: octavo ensayo de Café Kyoto y la fuente más extensa del lote; marco teórico de Eliseo Verón (construcción del acontecimiento, semiosis social) con fuerte componente autobiográfico. Conceptos (acontecimiento, alt-right pipeline, humor hipermediático) aplazados a la consolidación.
+
 
 
 
