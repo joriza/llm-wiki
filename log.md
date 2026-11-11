@@ -364,3 +364,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2026-01-26-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab (resumen de fuente).
 - Nota: fuente 22/57 de la playlist; reseña en profundidad de Clawdbot tras 48 horas de uso (Dot CSV Lab, Carlos Santa). Contenido clave para consolidación posterior (agentes personales, memoria persistente, prompt injection). Decimoséptimo canal nuevo del lote (Dot CSV Lab), entidad aplazada.
+
+## [2026-11-10] ingesta | ¿Adiós NotebookLM? Probé SurfSense y es BRUTAL (IA Gratis)
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=cfNAIQtNbKY — NextGen IA Hub, publicado 2026-01-31 (16:16).
+- Raw: raw/inteligencia-artificial/2026-01-31-adios-notebooklm-surfsense-brutal-nextgen-ia-hub.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-adios-notebooklm-surfsense-brutal-nextgen-ia-hub (resumen de fuente).
+- Nota: fuente 23/57 de la playlist; SurfSense vs NotebookLM (selector de modelos, MCPs, colaboración). El canal anuncia video posterior sobre el modo local. Decimoctavo canal nuevo del lote (NextGen IA Hub), entidad aplazada.
