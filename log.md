@@ -507,3 +507,7 @@ Registro cronológico de solo adición.
 ## [2026-11-11] ingesta | Cómo Clonar la VOZ en Segundos por IA GRATIS y SIN Límites
 
 - Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=1PUzFg1CdbU — Alejavi Rivera, 2026-07-12 (26:13). Raw: raw/inteligencia-artificial/2026-07-12-como-clonar-la-voz-en-segundos-por-ia-gratis-y-sin-limites.md (subtítulos manuales es-ES, literal). Página creada: resumen-como-clonar-la-voz-en-segundos-1puzfg1cdbu-alejavi-rivera. Nota: fuente 42/57; tres métodos de clonación de voz: VoiceBox (local open source + Docker/VPS), MiniMax Audio y MyVocal.AI (nube, grabar local y subir), Suno AI (covers gratis, clonación cantada de pago). Énfasis en calidad del input (Adobe Enhance Speech) y consentimiento. 7.ª fuente de Alejavi Rivera. Estado del lote: 41/57 con resumen, 16 pendientes.
+
+## [2026-11-11] ingesta | Claude + Google Flow Plan Gratuito = $13.000/mes
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=ZD9VE4l0WnI — Valeria Londoño, 2026-07-13 (22:06). Raw: raw/inteligencia-artificial/2026-07-13-claude-google-flow-plan-gratuito-13-000-mes.md (subtítulos automáticos, literal). Página creada: resumen-claude-google-flow-plan-gratuito-valeria-londono. Nota: fuente 43/57; fábrica de vídeos estilo «Sen» en 4 pasos con herramientas gratuitas (Claude investigador/guion/prompts por tiempo, ElevenLabs, TurboScribe, Google Flow + extensión de cola con Nano Banana 2, CapCut). Cruza con 37/57 (fábrica de vídeo con Claude Code). Estado del lote: 42/57 con resumen, 15 pendientes.
