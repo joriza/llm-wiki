@@ -50,6 +50,6 @@ Y la respuesta a la segunda pregunta: la línea «Temporary, I hope, I hope, I h
 ## Notas sobre la fuente
 
 - Raw en inglés (subtítulos automáticos); resumen en español profesional.
-- Garbiñeos corregidos: «Alan Klum/Klumphke» = Alan Klumpp; «Don Eyles/Eales/Eils» = Don Eyles; «Jean Krantz» = Gene Kranz; «Agent POWACH» = P00 (programa dormido, juego de palabras del código original); «BAILOUT» como rutina real del código; la noticia de la muerte de Margaret Hamilton (30-09-2026, según el vídeo) no fue verificada externamente.
+- Garbiñeos corregidos: «Alan Klum/Klumphke» = Alan Klumpp; «Don Eyles/Eales/Eils» = Don Eyles; «Jean Krantz» = Gene Kranz; «Agent POWACH» = P00 (programa dormido, juego de palabras del código original); «BAILOUT» como rutina real del código; la noticia de la muerte de Margaret Hamilton quedó VERIFICADA en la revisión del 2026-11-11: falleció el 30-09-2026, a los 90 años, en Cambridge, MA (Wikipedia; necrológicas de AP y The Washington Post del 08-10-2026, Nature del 15-10 y The Guardian del 18-10).
 - Autopromoción: suscripción al canal — excluida de la síntesis.
 - Sin patrocinios externos identificables.
