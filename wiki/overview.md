@@ -4,9 +4,9 @@ Wiki de conocimiento personal en español, mantenida por el agente a partir de f
 
 ## Estado (2026-11-10)
 
-- **Fuentes procesadas**: 15 (13 videos de YouTube + reservas en cola).
-- **Dominio actual**: `general/` (único; propuesta de división pendiente de confirmación del usuario — ver `log.md`).
-- **Páginas**: 15 resúmenes de fuente, 5 páginas de concepto preexistentes, 1 de entidad de persona (×2) y de canal, 9 páginas de concepto consolidadas del lote Café Kyoto.
+- **Fuentes procesadas**: 15 (+57 de la playlist «IA-Recursos» en cola de ingesta hacia `inteligencia-artificial/`).
+- **Dominios**: `ciencias-tierra/` (4 fuentes), `inteligencia-artificial/` (1 fuente + cola), `critica-tecnologica/` (11 fuentes), `general/` (vacío, reservado). División confirmada por el usuario el 2026-11-10.
+- **Páginas**: 15 resúmenes de fuente, 14 páginas de concepto, 5 de entidad.
 
 ## Hilos temáticos actuales
 
@@ -20,6 +20,5 @@ Comenzar por `index.md` (catálogo con resumen de una línea por página). En mo
 
 ## Pendientes estructurales
 
-- Consolidación y verificación de datos citados (ver entrada «cierre» en `log.md`).
-- Propuesta de dominios (`ciencias-tierra/`, `inteligencia-artificial/`, `critica-tecnologica/`) pendiente de confirmación.
-- Ingesta pendiente: playlist «IA-Recursos» (57 videos), a procesar tras la decisión de dominios.
+- Ingesta pendiente: playlist «IA-Recursos» (57 videos) → `inteligencia-artificial/` (lote aprobado por el usuario tras la división de dominios).
+- Verificación de datos citados (ver entrada «cierre» en `log.md`).

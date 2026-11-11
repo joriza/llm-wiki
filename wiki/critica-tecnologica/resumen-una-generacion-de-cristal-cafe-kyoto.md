@@ -4,7 +4,7 @@
 - **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2025-06-04. **Duración**: 24:21.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=SGoWw1XMRR4).
-- **Raw**: [raw/general/2025-06-04-una-generacion-de-cristal-cafe-kyoto.md](../../raw/general/2025-06-04-una-generacion-de-cristal-cafe-kyoto.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/critica-tecnologica/2025-06-04-una-generacion-de-cristal-cafe-kyoto.md](../../raw/critica-tecnologica/2025-06-04-una-generacion-de-cristal-cafe-kyoto.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[estetica-de-la-regresion]] · [[radicalizacion-digital]] · [[doctrina-del-odio]].
 - **Disposición de la ingesta**: Nueva.
 

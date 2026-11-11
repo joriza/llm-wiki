@@ -4,7 +4,7 @@
 - **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2022-07-11. **Duración**: 13:05.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=uRBL7io48kU).
-- **Raw**: [raw/general/2022-07-11-te-radicalizaste-durante-2020-cafe-kyoto.md](../../raw/general/2022-07-11-te-radicalizaste-durante-2020-cafe-kyoto.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/critica-tecnologica/2022-07-11-te-radicalizaste-durante-2020-cafe-kyoto.md](../../raw/critica-tecnologica/2022-07-11-te-radicalizaste-durante-2020-cafe-kyoto.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[sociedades-de-control]] · [[construccion-del-acontecimiento]] · [[radicalizacion-digital]].
 - **Disposición de la ingesta**: Nueva.
 

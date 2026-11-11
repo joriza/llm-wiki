@@ -4,7 +4,7 @@
 - **Dominio**: `general/`.
 - **Actualizado**: 2026-11-10.
 - **Fuentes**: Gustavo Entrala (entrevista a Gary Marcus), 2026-11-07.
-- **Raw**: [raw/general/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md](../../raw/general/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md).
+- **Raw**: [raw/inteligencia-artificial/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md](../../raw/inteligencia-artificial/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md).
 - **Ver también**: [[limites-de-los-llm]] · [[ia-y-sociedad]] · [[gary-marcus]].
 - **Nota**: análisis financiero según la posición de Gary Marcus (entrevistado el 7-11-2026, días después de las elecciones de medio término estadounidenses); son valoraciones y denuncias personales, no informes verificados.
 

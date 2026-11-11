@@ -4,7 +4,7 @@
 - **Canal**: [[coordenada-critica]].
 - **Publicado**: 2026-10-23. **Duración**: 18:15.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=bH7JU4ctpu8).
-- **Raw**: [raw/general/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md](../../raw/general/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ciencias-tierra/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md](../../raw/ciencias-tierra/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md) (transcripción con marcas de tiempo).
 - **Página de concepto asociada**: [[el-nino]].
 - **Disposición de la ingesta**: Nueva; Actualización de el-nino (mecánica del apagado, La Niña y efectos del «después»).
 

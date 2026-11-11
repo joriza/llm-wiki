@@ -4,7 +4,7 @@
 - **Dominio**: `general/`.
 - **Actualizado**: 2026-11-10.
 - **Fuentes**: Gustavo Entrala (entrevista a Gary Marcus), 2026-11-07.
-- **Raw**: [raw/general/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md](../../raw/general/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md).
+- **Raw**: [raw/inteligencia-artificial/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md](../../raw/inteligencia-artificial/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md).
 - **Ver también**: [[limites-de-los-llm]] · [[burbuja-de-la-ia]] · [[gary-marcus]].
 - **Nota**: posicionamiento de Gary Marcus sobre riesgos sociales de la IA, expuesto como opinión experta; se atribuye y no se presenta como consenso establecido.
 

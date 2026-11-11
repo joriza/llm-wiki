@@ -4,7 +4,7 @@
 - **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2026-01-14. **Duración**: 36:53.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=TGHJl3Jq91k).
-- **Raw**: [raw/general/2026-01-14-que-le-pasa-a-nuestra-generacion-cafe-kyoto.md](../../raw/general/2026-01-14-que-le-pasa-a-nuestra-generacion-cafe-kyoto.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/critica-tecnologica/2026-01-14-que-le-pasa-a-nuestra-generacion-cafe-kyoto.md](../../raw/critica-tecnologica/2026-01-14-que-le-pasa-a-nuestra-generacion-cafe-kyoto.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[estetica-de-la-regresion]] · [[efecto-enjambre]] · [[low-tech-y-fuga]].
 - **Disposición de la ingesta**: Nueva.
 

@@ -170,3 +170,14 @@ Registro cronológico de solo adición.
 - Verificaciones factuales pendientes antes de elevar afirmaciones a concepto: «45% de artículos de derecha como mezcla de verdad y falsedad» (fuente ¿Te radicalizaste durante 2020?) y «Argentina potencia 1895» (fuente ultraderecha-amigo); identificación del «video de Ofelia».
 - Propuesta de dominios formulada al usuario (ver siguiente entrada).
 
+
+## [2026-11-10] dominios | división en tres dominios (confirmada por el usuario)
+
+- Decisión del usuario: crear `ciencias-tierra/`, `inteligencia-artificial/` y `critica-tecnologica/`, conforme a la propuesta del agente tras la consolidación (umbrales de AGENTS.md: ~30 fuentes o subtemas claramente diferenciados).
+- Movidos con git mv:
+  - `ciencias-tierra/`: 3 resúmenes + 4 páginas de concepto/entidad + 3 raws (Coordenada Crítica).
+  - `inteligencia-artificial/`: 1 resumen + 5 páginas de concepto/entidad + 1 raw (Gary Marcus/Gustavo Entrala). Destino de la playlist «IA-Recursos» (57 videos).
+  - `critica-tecnologica/`: 11 resúmenes + 10 páginas de concepto/entidad + 11 raws (Café Kyoto).
+- Actualizados sin editar contenido: rutas raw en 24 páginas, rutas wiki/ en index.md, dominios.md reescrito, overview.md y sintesis.md actualizados. Los enlaces de doble corchete por nombre no requieren cambios.
+- `raw/general/` y `wiki/general/` quedan vacíos (reservados para fuentes sin dominio propio).
+- Ningún contenido fue alterado en la mudanza: solo ubicación y rutas de referencia.

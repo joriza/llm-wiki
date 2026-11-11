@@ -4,7 +4,7 @@
 - **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2025-07-30. **Duración**: 25:43.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=f_dzGFdH0UM).
-- **Raw**: [raw/general/2025-07-30-abandona-las-redes-low-tech-high-life-cafe-kyoto.md](../../raw/general/2025-07-30-abandona-las-redes-low-tech-high-life-cafe-kyoto.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/critica-tecnologica/2025-07-30-abandona-las-redes-low-tech-high-life-cafe-kyoto.md](../../raw/critica-tecnologica/2025-07-30-abandona-las-redes-low-tech-high-life-cafe-kyoto.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[low-tech-y-fuga]] · [[industria-cultural]] · [[sociedades-de-control]].
 - **Disposición de la ingesta**: Nueva.
 

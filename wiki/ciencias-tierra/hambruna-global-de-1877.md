@@ -4,7 +4,7 @@
 - **Dominio**: `general/`.
 - **Actualizado**: 2026-11-10.
 - **Fuentes**: Coordenada Crítica, 2026-10-21 (vídeo de divulgación con revisión de literatura científica).
-- **Raw**: [raw/general/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md](../../raw/general/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md).
+- **Raw**: [raw/ciencias-tierra/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md](../../raw/ciencias-tierra/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md).
 - **Ver también**: [[el-nino]] · [[resumen-super-el-nino-1877-coordenada-critica]] · [[coordenada-critica]].
 
 ## El evento

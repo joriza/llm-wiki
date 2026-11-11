@@ -4,7 +4,7 @@
 - **Dominio**: `general/`.
 - **Actualizado**: 2026-11-10.
 - **Fuentes**: Coordenada Crítica, 2026-10-21 (súper El Niño de 2026 frente a 1877); Coordenada Crítica, 2026-10-23 (qué pasa después de un súper El Niño).
-- **Raw**: [raw/general/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md](../../raw/general/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md) · [raw/general/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md](../../raw/general/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md).
+- **Raw**: [raw/ciencias-tierra/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md](../../raw/ciencias-tierra/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md) · [raw/ciencias-tierra/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md](../../raw/ciencias-tierra/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md).
 - **Ver también**: [[hambruna-global-de-1877]] · [[resumen-super-el-nino-1877-coordenada-critica]] · [[coordenada-critica]].
 
 ## Qué es

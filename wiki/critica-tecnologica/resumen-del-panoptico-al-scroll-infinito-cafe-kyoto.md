@@ -4,7 +4,7 @@
 - **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2025-05-15. **Duración**: 31:45.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=_2lQ-xepUbU).
-- **Raw**: [raw/general/2025-05-15-del-panoptico-al-scroll-infinito-cafe-kyoto.md](../../raw/general/2025-05-15-del-panoptico-al-scroll-infinito-cafe-kyoto.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/critica-tecnologica/2025-05-15-del-panoptico-al-scroll-infinito-cafe-kyoto.md](../../raw/critica-tecnologica/2025-05-15-del-panoptico-al-scroll-infinito-cafe-kyoto.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[sociedades-de-control]] · [[industria-cultural]] · [[low-tech-y-fuga]].
 - **Disposición de la ingesta**: Nueva.
 

@@ -4,7 +4,7 @@
 - **Dominio**: `general/`.
 - **Actualizado**: 2026-11-10.
 - **Web**: coordenadacritica.com.
-- **Raw de referencia**: [raw/general/2026-10-19-colapso-amoc-coordenada-critica.md](../../raw/general/2026-10-19-colapso-amoc-coordenada-critica.md).
+- **Raw de referencia**: [raw/ciencias-tierra/2026-10-19-colapso-amoc-coordenada-critica.md](../../raw/ciencias-tierra/2026-10-19-colapso-amoc-coordenada-critica.md).
 
 ## Identidad
 

@@ -4,7 +4,7 @@
 - **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2021-08-13. **Duración**: 12:49.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=KB7IV_GhjTY).
-- **Raw**: [raw/general/2021-08-13-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto.md](../../raw/general/2021-08-13-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/critica-tecnologica/2021-08-13-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto.md](../../raw/critica-tecnologica/2021-08-13-sistema-educativo-adoctrinamiento-chomsky-cafe-kyoto.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[sociedades-de-control]] · [[meritocracia-y-moral-del-esfuerzo]].
 - **Disposición de la ingesta**: Nueva.
 

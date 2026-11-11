@@ -4,7 +4,7 @@
 - **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2025-12-29. **Duración**: 30:10.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=SFW9V-GZ7gs).
-- **Raw**: [raw/general/2025-12-29-estafa-moral-meritocracia-cafe-kyoto.md](../../raw/general/2025-12-29-estafa-moral-meritocracia-cafe-kyoto.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/critica-tecnologica/2025-12-29-estafa-moral-meritocracia-cafe-kyoto.md](../../raw/critica-tecnologica/2025-12-29-estafa-moral-meritocracia-cafe-kyoto.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[meritocracia-y-moral-del-esfuerzo]] · [[estetica-de-la-regresion]] · [[sociedades-de-control]].
 - **Disposición de la ingesta**: Nueva.
 

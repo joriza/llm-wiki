@@ -4,7 +4,7 @@
 - **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2022-11-25. **Duración**: 14:22.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=MDRCJ5vgSJk).
-- **Raw**: [raw/general/2022-11-25-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto.md](../../raw/general/2022-11-25-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/critica-tecnologica/2022-11-25-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto.md](../../raw/critica-tecnologica/2022-11-25-efecto-enjambre-fin-de-la-humanidad-cafe-kyoto.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[efecto-enjambre]] · [[sociedades-de-control]].
 - **Disposición de la ingesta**: Nueva.
 

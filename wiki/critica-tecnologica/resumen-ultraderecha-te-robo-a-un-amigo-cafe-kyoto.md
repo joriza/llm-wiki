@@ -4,7 +4,7 @@
 - **Canal**: [[cafe-kyoto]].
 - **Publicado**: 2024-09-30. **Duración**: 52:16.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=YP-hPDsz-XA).
-- **Raw**: [raw/general/2024-09-30-ultraderecha-te-robo-a-un-amigo-cafe-kyoto.md](../../raw/general/2024-09-30-ultraderecha-te-robo-a-un-amigo-cafe-kyoto.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/critica-tecnologica/2024-09-30-ultraderecha-te-robo-a-un-amigo-cafe-kyoto.md](../../raw/critica-tecnologica/2024-09-30-ultraderecha-te-robo-a-un-amigo-cafe-kyoto.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[construccion-del-acontecimiento]] · [[radicalizacion-digital]] · [[doctrina-del-odio]].
 - **Disposición de la ingesta**: Nueva.
 

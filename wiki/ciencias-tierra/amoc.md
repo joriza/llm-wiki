@@ -4,7 +4,7 @@
 - **Dominio**: `general/`.
 - **Actualizado**: 2026-11-10.
 - **Fuentes**: Coordenada Crítica, 2026-10-19 (vídeo de divulgación con revisión de literatura científica).
-- **Raw**: [raw/general/2026-10-19-colapso-amoc-coordenada-critica.md](../../raw/general/2026-10-19-colapso-amoc-coordenada-critica.md).
+- **Raw**: [raw/ciencias-tierra/2026-10-19-colapso-amoc-coordenada-critica.md](../../raw/ciencias-tierra/2026-10-19-colapso-amoc-coordenada-critica.md).
 - **Ver también**: [[resumen-colapso-amoc-coordenada-critica]] · [[coordenada-critica]].
 
 ## Qué es

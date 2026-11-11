@@ -4,7 +4,7 @@
 - **Canal**: [[coordenada-critica]].
 - **Publicado**: 2026-10-21. **Duración**: 21:52.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=uDBXpyhokfI).
-- **Raw**: [raw/general/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md](../../raw/general/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ciencias-tierra/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md](../../raw/ciencias-tierra/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[el-nino]] · [[hambruna-global-de-1877]].
 - **Disposición de la ingesta**: Nueva.
 

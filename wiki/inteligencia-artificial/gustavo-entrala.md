@@ -4,7 +4,7 @@
 - **Dominio**: `general/`.
 - **Actualizado**: 2026-11-10.
 - **Web**: inspirinas.com.
-- **Raw de referencia**: [raw/general/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md](../../raw/general/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md).
+- **Raw de referencia**: [raw/inteligencia-artificial/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md](../../raw/inteligencia-artificial/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md).
 
 ## Identidad
 
