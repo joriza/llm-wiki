@@ -567,3 +567,8 @@ Registro cronológico de solo adición.
 ## [2026-11-11] ingesta | La IA ya maneja todos tus programas (Pablo Tapias)
 
 - Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=KkKjpyjn1vI — Pablo Tapias, 2026-11-04 (10:47). Raw: raw/inteligencia-artificial/2026-11-04-la-ia-ya-maneja-todos-tus-programas-agent-desktop-pablo-tapias.md (subtítulos automáticos, literal; título del raw corregido, venía como UNKNOWN). Página creada: resumen-la-ia-ya-maneja-todos-tus-programas-agent-desktop-pablo-tapias. Nota: fuente 57/57 (última del lote); Agent Desktop como puente de control preciso (interfaz a texto, no visión), 3 demos (Facturas Paco, NIE, Gestión Rufino 2003), skill para Claude Code. Autopromoción (mentorías, WhatsApp) excluida. Estado del lote: 57/57 con resumen, 0 pendientes.
+
+## [2026-11-11] consolidacion parcial | Nuevo dominio historia-informatica y preservacion de raws
+
+- Disposicion: Nueva. Dominio creado con confirmacion del usuario: raw/historia-informatica/ y wiki/historia-informatica/, registrado en wiki/dominios.md. Alcance: historia de la computacion (software, empresas, lenguajes, hitos).
+- Raws preservados (8): playlist PLqe2XRWDm9RF9H0q6sr6NqwLiWWe88j8M (16 videos; 8 SKIP-NO-SUBS sin subtitulos, salteados por disposicion del usuario). Descarga en background por red del celular (FYT_SOURCE), poltica: secuencial y espaciada. Listado canonico: .atl/scratch/playlist-8M.json. Ingesta de estos raws: PENDIENTE para proxima sesion.
