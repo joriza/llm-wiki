@@ -833,3 +833,9 @@ Registro cronológico de solo adición.
 - **Estado del grafo**: los 13 resúmenes ya tienen enlaces entrantes; quedan como huérfanos visibles solo si showOrphans se activa: 2 huecas + 1 off-topic (por diseño: sin contenido consolidable) y meta-páginas.
 - **Configuración Obsidian** (local, no commiteada): graph.json search «log» → «» y showOrphans → false; app.json userIgnoreFilters ampliado (index.md, log.md, protocolo-ingesta-youtube.md, AGENTS.md, odd/).
 - **Consolidación diferida del lote: COMPLETA.** Quedan como pendientes documentados (aplazados por decisión previa, no diferidos de este lote): entidad Codist (3 fuentes), canales con 1 fuente (TheDebugDuck, Pecas Explica, Cápsula Mental, Just Explained, TecnoCroquis + los del dominio IA) y Jensen Huang (historia-informatica).
+
+## [2026-11-11] ingesta | playlist «IA Local» (58 videos, dominio ia-uso-practico)
+
+- **Pedido del usuario**: ingestar la playlist pública https://www.youtube.com/playlist?list=PLeaYlHPISoSQ — «procesa de forma completa de a 3 archivos; por cada archivo el ciclo completo raw → resumen → páginas de concepto/entidad → cruces → commit».
+- **Pre-flight**: 58 entradas, 58 únicas (0 duplicados); 1 entrada con título UNKNOWN (y-SXFKXvv9Q, probablemente no listada — el runner la resolverá o marcará). Pertinencia OK: IA local — llama.cpp/GGUF, Qwen/Gemma/LFM/Ling (modelos chicos), agentes locales (P-Agent, OpenCode, MinAgent, DeepSeek Harness), cuantización/hardware, Ollama. **Dominio existente**: `ia-uso-practico/` (alcance «modelos en local»); sin dominio nuevo.
+- **Modo de ejecución**: runner completo en background (espaciado interno 60-90 s, ruta VPN Proton — la app debe quedar conectada) + ingesta inline en agente único por cada raw al llegar, ciclo completo por fuente con commit propio. Estado documentado al agotar la ventana de uso.
