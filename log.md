@@ -396,3 +396,27 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2026-04-18-agente-de-codigo-que-viene-vacio-fazt.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-agente-de-codigo-que-viene-vacio-fazt (resumen de fuente).
 - Nota: fuente 26/57 de la playlist; reseña de Pi (el agente minimalista extensible — el mismo harness en el que corre esta ingesta). Algunos nombres garbiñados por subtítulos automáticos (OpenClaw, Claude Code, modelos) anotados para verificación en consolidación. Patrocinios Don Dominio y fast.dev registrados como tales. Decimonoveno canal nuevo del lote (Fazt), entidad aplazada.
+
+## [2026-11-10] ingesta | ¡Esto acaba de Reventar la IA! Hacen TODO GRATIS y SIN LÍMITES
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=HreBx99BDsc — Alejavi Rivera, 2026-06-28 (27:11). Raw: raw/inteligencia-artificial/2026-06-28-reventar-la-ia-gratis-sin-limites-alejavi-rivera.md. Página creada: resumen-reventar-la-ia-gratis-sin-limites-alejavi-rivera. Nota: fuente 34/57; recopilatorio de +20 herramientas open source (procesada por W2 del lote delegado).
+
+## [2026-11-10] ingesta | Entrena tu propia IA... ¡GRATIS! Olvida CHATGPT
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=Fn36INn_EAo — Xavier Mitjana, 2026-06-28 (18:05). Raw: raw/inteligencia-artificial/2026-06-28-entrena-tu-propia-ia-gratis-xavier-mitjana.md. Página creada: resumen-entrena-tu-propia-ia-gratis-xavier-mitjana. Nota: fuente 35/57; LoRAs de comunidad, identidad con Ideogram y vídeo con LTX 2.3 (procesada por W2).
+
+## [2026-11-10] ingesta | Despedí a mi editor y contraté a Claude Code
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=QRhX4zU1jso — Santiago Munoz, 2026-07-14 (29:33). Raw: raw/inteligencia-artificial/2026-07-14-despedi-editor-contrate-claude-code-santiago-munoz.md. Página creada: resumen-despedi-editor-contrate-claude-code-santiago-munoz. Nota: fuente 37/57; fábrica de vídeos estilo Vox con Claude Code + Remotion + ElevenLabs + Kie AI + Apify (procesada por W2).
+
+## [2026-11-10] ingesta | Herramientas IA #2: Crear vídeo con Remotion y OpenCode
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=7KMcc12K0fA — Darellanodev, 2026-03-22 (09:55). Raw: raw/inteligencia-artificial/2026-03-22-herramientas-ia-2-video-remotion-opencode-darellanodev.md. Página creada: resumen-herramientas-ia-2-video-remotion-opencode-darellanodev. Nota: fuente 38/57; banda animada de suscripción con Remotion + OpenCode (procesada por W2).
+
+## [2026-11-10] ingesta | Crea apps con IA usando esta API GRATIS (FreeLLMAPI)
+
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=9o1TT3ie_9M — Dev Knives, 2026-07-15 (21:30). Raw: raw/inteligencia-artificial/2025-07-15-crea-apps-ia-api-gratis-dev-knives.md. Página creada: resumen-crea-apps-ia-api-gratis-dev-knives. Nota: fuente 40/57; FreeLLMAPI como agregador de proveedores gratuitos (procesada por W2).
+
+## [2026-11-10] pendiente | fuentes 36 y 39 sin procesar (bloqueo de IP de YouTube)
+
+- Fallo en W2 del lote delegado: fuentes 36 (IH__GK4XBbU — Google crea tu profesor particular, Migue Baena IA, 2026-07-19, 19:47) y 39 (jYawp25fCzc — Herramientas IA #12 HyperFrames, Darellanodev, 2026-07-05, 15:06) no pudieron descargarse por bloqueo de IP (HTTP 429 → IpBlocked) tras la ráfaga de peticiones paralelas; reintentos con esperas de 90 s y 5 min fallaron. Sin raw ni resumen. Reintentar en la próxima sesión con cuota desahogada.
