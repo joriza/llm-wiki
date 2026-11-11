@@ -24,12 +24,18 @@ El hilo más denso de la wiki, consolidado en nueve conceptos encadenados:
 
 **Tensión declarada del propio corpus**: el canal monetiza en la plataforma que critica y lo reconoce («estoy ganando dinero por decir todo esto»); nació como «control de daños» tras la absorción de su canal anterior por la derecha online [[cafe-kyoto]].
 
+## 4. IA aplicada y gratuita (playlist «IA-Recursos», consolidación parcial)
+
+El hilo más extenso de la wiki (32 fuentes procesadas y consolidadas parcialmente): la tesis compartida es el **acceso gratuito/abierto a la IA** frente a suscripciones y plataformas cerradas. En generación de imágenes, la familia FLUX y Stable Diffusion en local (Fooocus, ComfyUI con GGUF, RunPod en la nube) forman una escalera de acceso gratuito con prompt engineering y LoRAs por tareas como multiplicadores [[generacion-local-de-imagenes]]. En agentes de código conviven arquetipos desde extensiones económicas hasta el agente minimalista extensible, con la seguridad y los permisos como contrapeso (caso Antigravity) [[agentes-de-codigo]]. La evaluación sistemática (Promptfoo, RAGAs, LLM juez) es la respuesta operativa a los límites de los LLM del hilo 2 [[evaluacion-de-llms]]. Las entidades con más fuentes son [[xavier-mitjana]] (IA local y fine-tuning) y [[alejavi-rivera]] (IA china, NotebookLM, open source). Pendiente de consolidar en futuras pasadas: IA local de texto, NotebookLM y su ecosistema, IA china como bloque, world models (Genie 3), agentes personales (Clawdbot) y canales menores.
+
 ## Cómo se conectan los hilos
 
-Clima y LLMs comparten un patrón que el corpus de Café Kyoto teoriza: crisis estructurales narradas como dramas individuales (el hambre de 1877 como «falta de esfuerzo», la ansiedad como «adicción al teléfono») mientras las causas — vulnerabilidad, extracción de atención, concentración de poder — quedan fuera de foco. La wiki aún no tiene una página que teorice ese patrón transversal; candidato a crearse en futuras consolidaciones.
+Clima y LLMs comparten un patrón que el corpus de Café Kyoto teoriza: crisis estructurales narradas como dramas individuales (el hambre de 1877 como «falta de esfuerzo», la ansiedad como «adicción al teléfono») mientras las causas — vulnerabilidad, extracción de atención, concentración de poder — quedan fuera de foco. La wiki aún no tiene una página que teorice ese patrón transversal; candidato a crearse en futuras consolidaciones. El hilo 4 añade el contrapeso práctico: herramientas abiertas que desplazan el control del proveedor al usuario (privacidad legal, modelos locales, verificación con juez externo).
 
 ## Pendientes y verificaciones
 
 - Verificar datos citados antes de elevarlos a concepto: «45% de artículos de derecha como mezcla de verdad y falsedad» y «Argentina potencia 1895» (estudio de Maddison).
 - Identificar «el video de Ofelia» (citado sin URL).
+- Requisitos de Fooocus divergentes entre fuentes (4 GB vs 8 GB RAM); plataformas «cart» y «GTube» sin identificar.
+- Consolidación pendiente del lote IA-Recursos: IA local de texto, NotebookLM/ecosistema, IA china, Genie 3, Clawdbot, entidades de canales menores; 25 fuentes aún sin procesar por bloqueo de IP.
 - Dominios creados (2026-11-10, confirmados por el usuario): `ciencias-tierra/`, `inteligencia-artificial/`, `critica-tecnologica/`; la playlist «IA-Recursos» (57 videos) se ingesta por lote en `inteligencia-artificial/`.

@@ -434,3 +434,15 @@ Registro cronológico de solo adición.
 - Verificación en disco y en git: el resumen de OpenSpec (`resumen-openspec-apps-full-stack-sin-codigo-vera-badias.md`) NO existía — ni en `wiki/`, ni en `index.md`, ni en git. La corrección de la entrada «bloqueo» del 2026-11-10 que afirmaba «32/57 procesadas (el resumen de OpenSpec sí existe)» era errónea: había 32 raws de la playlist pero solo 31 resúmenes.
 - Estado real corregido: **31/57 fuentes de la playlist con resumen**, 1 raw sin resumen (`oHDbRdfDUc8`, OpenSpec) y 25 fuentes pendientes de descarga (lista canónica por video ID en `.atl/bloqueo-ip-youtube.md` §6, que no incluye a oHDbRdfDUc8 porque su raw sí existe). 31 + 1 + 25 = 57. La lista de 25 pendientes sigue siendo válida.
 - Acción tomada en esta sesión: completada la ingesta del raw pendiente (resumen creado, index.md actualizado).
+
+## [2026-11-11] consolidación | lote IA-Recursos — entidades y conceptos (parcial, con precaución)
+
+- Alcance acordado previamente (L8 del task): entidades Xavier Mitjana y Alejavi Rivera; conceptos generación-local-de-imagenes, agentes-de-codigo y evaluacion-de-llms.
+- Páginas de entidad creadas: xavier-mitjana (4 fuentes: 7/57, 9/57-Lab, 17/57, 35/57) y alejavi-rivera (4 fuentes: 11/57, 14/57, 25/57, 34/57).
+- Páginas de concepto creadas: generacion-local-de-imagenes (13 fuentes implicadas), agentes-de-codigo (8 + corpus previo), evaluacion-de-llms (2 + 2 del corpus previo).
+- Cruces [[...]]: 24 resúmenes de la playlist actualizados (líneas «Canal» de las 8 fuentes de Mitjana/Rivera y «Páginas de concepto asociadas» de 24 resúmenes) vía script; el resumen de OpenSpec ya nació enlazado.
+- Actualizados: index.md (5 filas), wiki/overview.md y wiki/sintesis.md (nuevo hilo 4 de IA aplicada y gratuita; estado y pendientes recalcados).
+- Lint de enlaces: pendiente de pasada completa; los destinos de los [[...]] añadidos existen (verificados al crear las páginas).
+- Divergencias anotadas en la página de concepto: requisitos de Fooocus (4 GB vs 8 GB RAM, 4/57 vs 5/57) y plataformas «cart» (10/57) y «GTube» (1/57) sin identificar — pendientes de verificación con fuentes primarias antes de crear páginas de herramienta.
+- **Dominios**: ningún dominio nuevo propuesto — todo el material encaja en `inteligencia-artificial/`. Nota para decisión del usuario: si el volumen de IA local/generativa sigue creciendo con las 25 fuentes pendientes, cabría evaluar un subdominio (p. ej. `ia-aplicada/`); queda registrado como pendiente de confirmación, NO creado.
+- Sin contradicciones entre fuentes detectadas; el caso «sin censura» se registra como posición de las fuentes en la página de concepto.
