@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (persona/creador de contenido).
 - **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
-- **Fuentes**: 8 resúmenes de la playlist «IA-Recursos» (2024-08-18 a 2026-09-17).
+- **Fuentes**: 8 resúmenes de la playlist «IA-Recursos» (2024-08-18 a 2026-09-17). · [[resumen-pewdiepie-acaba-de-reventar-la-ia-lanzo-odysseus-ia-gratis-y-sin-limites]] (cobertura del lanzamiento de Odysseus) · [[resumen-esto-acaba-de-reventar-la-ia-hacen-todo-gratis-y-sin-limites]] (recopilatorio open source).
 
 ## Identidad
 
