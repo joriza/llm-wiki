@@ -4,16 +4,16 @@ Wiki de conocimiento personal en español, mantenida por el agente a partir de f
 
 ## Estado (2026-11-11)
 
-- **Fuentes procesadas**: 43 (15 previas + 28 de la playlist «IA-Recursos» con raw y resumen; 31 raws de playlist en total, 1 pendiente de resumen ya resuelto el 2026-11-11 — ver `log.md`; 25 fuentes de la playlist siguen pendientes de descarga por bloqueo de IP de YouTube).
-- **Dominios**: `ciencias-tierra/` (4 fuentes), `inteligencia-artificial/` (29 fuentes: 1 previa + 28 de la playlist), `critica-tecnologica/` (11 fuentes), `general/` (vacío, reservado).
-- **Páginas**: 43 resúmenes de fuente, 19 páginas de concepto, 7 de entidad.
+- **Fuentes procesadas**: 72 (15 previas + 57 de la playlist «IA-Recursos» — lote completo 57/57 con raw y resumen). Además, 8 raws de otra playlist del usuario preservados sin ingestar en el dominio nuevo `historia-informatica/` (ingesta pendiente).
+- **Dominios**: `ciencias-tierra/` (3 fuentes), `inteligencia-artificial/` (58 fuentes: 1 previa + 57 de la playlist), `critica-tecnologica/` (11 fuentes), `historia-informatica/` (8 raws preservados, sin ingestar), `general/` (vacío, reservado).
+- **Páginas**: 72 resúmenes de fuente, 18 páginas de concepto, 6 de entidad (más `overview`, `sintesis` y `dominios`).
 
 ## Hilos temáticos actuales
 
 1. **Clima y océano** (Coordenada Crítica): la AMOC, el súper El Niño de 2026 frente al de 1877 y su legado — resúmenes + páginas de concepto ([[amoc]], [[el-nino]], [[hambruna-global-de-1877]]).
 2. **LLMs e industria de la IA** (Gary Marcus con Gustavo Entrala): límites de los LLM, burbuja económica, riesgos sociales — [[limites-de-los-llm]], [[burbuja-de-la-ia]], [[ia-y-sociedad]].
 3. **Poder algorítmico y crítica cultural** (Café Kyoto, 11 fuentes): sociedades de control, industria cultural, efecto enjambre, estética de la regresión, doctrina del odio, construcción del acontecimiento, radicalización digital, meritocracia y moral del esfuerzo, low-tech y fuga — ver [[cafe-kyoto]].
-4. **IA aplicada y gratuita** (playlist «IA-Recursos», consolidación parcial de 32 fuentes): herramientas y modelos abiertos ([[generacion-local-de-imagenes]] con FLUX/Fooocus/ComfyUI), [[agentes-de-codigo]] (Kilo Code, Claude Code, OpenCode, Pi, OpenSpec, seguridad de agentes), [[evaluacion-de-llms]] (Promptfoo, RAGAs), y las entidades [[xavier-mitjana]] y [[alejavi-rivera]]. Aún sin consolidar: IA local de texto (LM Studio/Ollama), NotebookLM y su ecosistema, IA china, Genie 3/Clawdbot, trading, y canales menores.
+4. **IA aplicada y gratuita** (playlist «IA-Recursos», lote completo 57/57 con consolidación de sus cinco páginas principales): herramientas y modelos abiertos ([[generacion-local-de-imagenes]] con FLUX/Fooocus/ComfyUI/Ideogram 4.0 y vídeo local), [[agentes-de-codigo]] (arquetipos, Herdr y dotfiles, Gentle AI/ODD, computer use textual con Agent Desktop, economía de tokens y APIs gratuitas, seguridad), [[evaluacion-de-llms]] (Promptfoo, RAGAs, SpecJudge, evidencia real), y las entidades [[xavier-mitjana]] (5 fuentes) y [[alejavi-rivera]] (8 fuentes). Aún sin consolidar: entidades de canales recurrentes (Fazt 3, Joaquín Ruiz 2, Gustavo Entrala 2, Gentleman Programming, La Hora Maker, Darellanodev, HolaMundo, Dot CSV Lab), y conceptos propuestos: IA local de texto (LM Studio/Ollama), NotebookLM y su ecosistema, IA china, clonación de voz, agregación de APIs gratuitas, multiplexores de agentes (Herdr), ODD, computer use como página propia, Obsidian como memoria de agentes, world models (Genie 3/Clawdbot).
 
 ## Cómo consultar
 
@@ -21,5 +21,5 @@ Comenzar por `index.md` (catálogo con resumen de una línea por página). En mo
 
 ## Pendientes estructurales
 
-- Playlist «IA-Recursos»: 25 fuentes pendientes de descarga (bloqueo de IP de YouTube; IDs en `.atl/bloqueo-ip-youtube.md` §6).
-- Verificación de datos citados (ver entrada «cierre» en `log.md`); requisitos de Fooocus (4/57 vs 5/57) y nombres «cart»/«GTube» sin identificar.
+- Verificación de datos citados (ver entrada «cierre» en `log.md`); requisitos de Fooocus (4/57 vs 5/57); nombres «cart»/«GTube» sin identificar; nombres de repos y modelos garbiñados marcados con (?) en las fuentes 50, 53, 55 y 56 (OmniRouter/Herdr, SpecJudge Gemma/Qwen, FreeLLMAPI, proveedores de APIs gratuitas).
+- Ingesta pendiente: 8 raws preservados de la playlist de historia de la computación (dominio `historia-informatica/`, creado por decisión del usuario; ver log).
