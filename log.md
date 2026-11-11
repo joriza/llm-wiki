@@ -356,3 +356,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2025-08-04-api-hugging-face-web-app-ia-ia-comunia.md (transcripción de subtítulos manuales es-419 con marcas de tiempo).
 - Páginas creadas: resumen-api-hugging-face-web-app-ia-ia-comunia (resumen de fuente).
 - Nota: fuente 21/57 de la playlist; Vue 3 + HF Inference API con FLUX.1 Krea-dev (transcrito «crea dev», identificación probable) y código generado por CLI vía OpenRouter. Decimosexto canal nuevo del lote (IAcomunIA), entidad aplazada.
+
+## [2026-11-10] ingesta | ¿Qué es CLAWDBOT? ¡El Futuro de los ASISTENTES VIRTUALES!
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=59GrCryltng — Dot CSV Lab, publicado 2026-01-26 (30:29).
+- Raw: raw/inteligencia-artificial/2026-01-26-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab (resumen de fuente).
+- Nota: fuente 22/57 de la playlist; reseña en profundidad de Clawdbot tras 48 horas de uso (Dot CSV Lab, Carlos Santa). Contenido clave para consolidación posterior (agentes personales, memoria persistente, prompt injection). Decimoséptimo canal nuevo del lote (Dot CSV Lab), entidad aplazada.
