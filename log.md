@@ -332,3 +332,11 @@ Registro cronológico de solo adición.
 - Raw: raw/inteligencia-artificial/2024-09-16-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker (resumen de fuente).
 - Nota: fuente 18/57 de la playlist; episodio 1 de un curso de evaluación de LLMs con Promptfoo (Ollama, aserciones, repeat). Ficheros de prueba en GitHub del canal (no en el raw). Decimocuarto canal nuevo del lote (La Hora Maker), entidad aplazada.
+
+## [2026-11-10] ingesta | LLMOps: Cómo Evaluar tu Agente RAG con RAGAs
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=oELZcpNCU9c — Del Código a la Arquitectura, publicado 2025-09-23 (10:46).
+- Raw: raw/inteligencia-artificial/2025-09-23-llmops-evaluar-agente-rag-ragas-del-codigo-a-la-arquitectura.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-llmops-evaluar-agente-rag-ragas-del-codigo-a-la-arquitectura (resumen de fuente).
+- Nota: fuente 19/57 de la playlist; parte de una serie (despliegue del agente en el video previo, enlazado en descripción). Decimoquinto canal nuevo del lote (Del Código a la Arquitectura), entidad aplazada.
