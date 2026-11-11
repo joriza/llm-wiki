@@ -3,6 +3,7 @@
 - **Tipo**: resumen de fuente (vídeo de divulgación científica).
 - **Canal**: [[coordenada-critica]].
 - **Publicado**: 2026-10-19. **Duración**: 23:10.
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=dF-9NaUot70).
 - **Raw**: [raw/general/2026-10-19-colapso-amoc-coordenada-critica.md](../../raw/general/2026-10-19-colapso-amoc-coordenada-critica.md) (transcripción con marcas de tiempo).
 - **Página de concepto asociada**: [[amoc]].
 - **Disposición de la ingesta**: Nueva (primera ingesta de la wiki).

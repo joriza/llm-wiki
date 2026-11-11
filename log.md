@@ -37,6 +37,13 @@ Registro cronológico de solo adición.
 - Páginas creadas: resumen-entrevista-gary-marcus-gustavo-entrala (resumen de fuente), limites-de-los-llm (concepto), burbuja-de-la-ia (concepto), ia-y-sociedad (concepto), gary-marcus (entidad persona), gustavo-entrala (entidad persona/canal).
 - Nota: la transcripción automática contiene errores de reconocimiento de nombres propios; las citas de la wiki se tomaron de las secciones legibles del raw y los nombres dudosos se omitieron o se marcaron como transcripción literal.
 
+## [2026-11-10] mantenimiento | registro de fuente original en los resúmenes
+
+- A pedido del usuario: guardar en la wiki la fuente de cada archivo procesado.
+- Se añadió la línea **Fuente** (URL del vídeo original en YouTube) a los cuatro resúmenes de fuente; ya citaban el archivo `raw/` pero no la URL de origen. Las URLs se tomaron de la metadata de cada raw, sin modificarlos.
+- Actualizados: resumen-colapso-amoc-coordenada-critica, resumen-super-el-nino-1877-coordenada-critica, resumen-lo-que-viene-despues-del-super-el-nino-coordenada-critica, resumen-entrevista-gary-marcus-gustavo-entrala.
+- Recordatorio pendiente: la transcripción raw/general/2026-10-24-puede-la-ia-cambiar-como-pensamos-conquerai.md (ConquerAI, https://www.youtube.com/watch?v=9Iet4dp6NiE) sigue sin ingestar: no tiene resumen ni entradas en index.md o este log.
+
 ## [2026-11-10] pendiente | reordenación de dominios propuesta
 
 - Con 3 fuentes de clima/océano (Coordenada Crítica) y 3 de inteligencia artificial, la creación de dominios propios (p. ej. ciencias-tierra/ e inteligencia-artificial/) requiere confirmación del usuario conforme al procedimiento; queda pendiente de propuesta aceptada.
