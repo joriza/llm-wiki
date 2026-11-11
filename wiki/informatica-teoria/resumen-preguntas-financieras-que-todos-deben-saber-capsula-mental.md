@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-08-18-explicando-de-forma-sencilla-las-preguntas-financieras-que-todos-deben-saber.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=zdS9EGVqAz4 — Cápsula Mental, 2026-08-17 (19:56).
-- **Nota**: fuente 15/20 del lote informatica-teoria; divulgación de economía y finanzas personales (no estrictamente de computación; se incluye aquí por pertenecer a la playlist). Nota de metadatos: fecha de publicación 2026-08-17, un día distinta al nombre del archivo — mandan los metadatos.
+- **Nota**: fuente 15/20 del lote informatica-teoria; divulgación de economía y finanzas personales (no estrictamente de computación; se incluye aquí por pertenecer a la playlist). Nota de metadatos: fecha de publicación 2026-08-17, un día distinta al nombre del archivo — mandan los metadatos. Consolidación (2026-11-11): sin páginas asociadas todavía (una sola fuente del canal en el dominio).
 
 ## Por qué el dólar no vale lo mismo que una libra o un yen
 

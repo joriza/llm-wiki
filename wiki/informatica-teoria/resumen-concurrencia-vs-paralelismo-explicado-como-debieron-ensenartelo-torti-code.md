@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-05-13-concurrencia-vs-paralelismo-explicado-como-debieron-ensenartelo.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=7WkswDqDMhI — Torti Code, 2026-05-13 (11:36).
-- **Nota**: fuente 5/10 del lote informatica-teoria (worker 1). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 5/10 del lote informatica-teoria (worker 1). Consolidación (2026-11-11): [[torti-code]].
 
 ## El restaurante: un mozo y cinco mesas no es lo mismo que cinco mozos
 

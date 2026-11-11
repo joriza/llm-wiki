@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-05-26-todo-lo-que-sabes-de-testing-esta-al-reves.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=bivlfa5XUvk — Torti Code, 2026-05-25 (17:02).
-- **Nota**: fuente 6/10 del lote informatica-teoria (worker 1). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 6/10 del lote informatica-teoria (worker 1). Consolidación (2026-11-11): [[torti-code]].
 
 ## Los ladrillos, las habitaciones y el edificio completo
 

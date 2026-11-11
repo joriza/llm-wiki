@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2025-09-27-every-type-of-api-simply-explained-in-9-minutes.md` (inglés, subtítulos automáticos, literal) — https://www.youtube.com/watch?v=pBASqUbZgkY — Codist, 2025-09-27 (09:53).
-- **Nota**: fuente 2/10 del lote informatica-teoria (worker 1). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 2/10 del lote informatica-teoria (worker 1). Consolidación (2026-11-11): sin páginas asociadas todavía (canal con 3 fuentes; entidad aplazada hasta más fuentes).
 
 ## REST: el mozo entre tu app y el servidor
 

@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-08-02-dhcp-explicado-por-que-tu-ip-no-es-tuya-dora-lease-y-wireshark.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=KmyzWUk_LdA — Pedro Lino Cáceres, 2026-08-02 (09:45).
-- **Nota**: fuente 13/20 del lote informatica-teoria; continúa la serie de protocolos del mismo canal (SSH vs Telnet 10/20, DNS 11/20, ARP 12/20). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 13/20 del lote informatica-teoria; continúa la serie de protocolos del mismo canal (SSH vs Telnet 10/20, DNS 11/20, ARP 12/20). Consolidación (2026-11-11): [[pedro-lino-caceres]] · [[dora-y-lease-dhcp]].
 
 ## El problema que resuelve DHCP
 

@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-04-17-every-data-structure-simply-explained-in-25-minutes.md` (inglés, subtítulos automáticos, literal) — https://www.youtube.com/watch?v=vVL6NFzr0Rg — Codist, 2026-04-17 (28:20).
-- **Nota**: fuente 1/10 del lote informatica-teoria (worker 1). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 1/10 del lote informatica-teoria (worker 1). Consolidación (2026-11-11): sin páginas asociadas todavía (canal con 3 fuentes; entidad aplazada hasta más fuentes).
 
 ## Arrays: acceso instantáneo, modificación costosa
 

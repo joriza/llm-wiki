@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-08-14-cada-paradoja-famosa-explicada-en-15-minutos.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=PanXWSE7EYg — Pecas Explica, 2026-08-14 (15:06).
-- **Nota**: fuente 14/20 del lote informatica-teoria; divulgación de lógica, probabilidad y matemática (no estrictamente de computación). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 14/20 del lote informatica-teoria; divulgación de lógica, probabilidad y matemática (no estrictamente de computación). Consolidación (2026-11-11): sin páginas asociadas todavía (una sola fuente del canal en el dominio).
 
 ## 14 paradojas y la tesis final
 

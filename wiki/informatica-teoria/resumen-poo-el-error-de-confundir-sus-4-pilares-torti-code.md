@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-07-22-poo-el-error-de-confundir-sus-4-pilares.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=ixDm_lVDcFQ — Torti Code, 2026-07-21 (16:02).
-- **Nota**: fuente 7/10 del lote informatica-teoria (worker 1). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 7/10 del lote informatica-teoria (worker 1). Consolidación (2026-11-11): [[torti-code]].
 
 ## El diagnóstico
 

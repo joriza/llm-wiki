@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-08-25-como-funciona-arp-asi-encuentra-la-direccion-mac.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=-_iOilVB3gg — Pedro Lino Cáceres, 2026-08-25 (09:09).
-- **Nota**: fuente 12/20 del lote informatica-teoria; continúa la serie de protocolos del mismo canal (SSH vs Telnet 10/20, DNS 11/20). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 12/20 del lote informatica-teoria; continúa la serie de protocolos del mismo canal (SSH vs Telnet 10/20, DNS 11/20). Consolidación (2026-11-11): [[pedro-lino-caceres]].
 
 ## El problema: se tiene la IP, falta la MAC
 

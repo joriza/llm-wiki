@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-10-03-que-es-kafka-para-que-sirve-y-como-funciona-mas-simple-de-lo-que-crees.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=ah3ZObUM7_4 — Torti Code, 2026-10-03 (12:45).
-- **Nota**: fuente 20/20 del lote informatica-teoria (última del lote); décima fuente del canal Torti Code en el dominio. Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 20/20 del lote informatica-teoria (última del lote); décima fuente del canal Torti Code en el dominio. Consolidación (2026-11-11): [[torti-code]].
 
 ## El problema: notificar a varios sin acoplarse
 

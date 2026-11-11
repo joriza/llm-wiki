@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-09-29-git-desde-cero-commits-ramas-merge-y-rebase.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=qLadfs6N8aU — Torti Code, 2026-09-28 (11:02).
-- **Nota**: fuente 19/20 del lote informatica-teoria; novena fuente del canal Torti Code en el dominio. Nota de metadatos: fecha de publicación 2026-09-28, un día distinta al nombre del archivo — mandan los metadatos. Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 19/20 del lote informatica-teoria; novena fuente del canal Torti Code en el dominio. Nota de metadatos: fecha de publicación 2026-09-28, un día distinta al nombre del archivo — mandan los metadatos. Consolidación (2026-11-11): [[torti-code]].
 
 ## El marco: Git como mesa de editorial
 

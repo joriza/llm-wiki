@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-06-25-6-patrones-de-diseno-que-ya-usas-sin-saberlo.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=YVZw-58IeaA — Torti Code, 2026-06-24 (23:33).
-- **Nota**: fuente 4/10 del lote informatica-teoria (worker 1); segunda parte de la serie (la parte 1 cubrió Singleton, Observer, Factory, Strategy, Decorator y Builder y no está en el lote). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 4/10 del lote informatica-teoria (worker 1); segunda parte de la serie (la parte 1 cubrió Singleton, Observer, Factory, Strategy, Decorator y Builder y no está en el lote). Consolidación (2026-11-11): [[torti-code]].
 
 ## Command: el pedido en papel
 

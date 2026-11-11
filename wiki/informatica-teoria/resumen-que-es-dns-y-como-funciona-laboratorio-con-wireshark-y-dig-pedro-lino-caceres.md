@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-08-20-que-es-dns-y-como-funciona-laboratorio-con-wireshark-y-dig.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=5KazKLtnf-I — Pedro Lino Cáceres, 2026-08-20 (09:59).
-- **Nota**: fuente 11/20 del lote informatica-teoria. Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 11/20 del lote informatica-teoria. Consolidación (2026-11-11): [[pedro-lino-caceres]].
 
 ## El problema: las computadoras hablan en IP, los humanos en nombres
 

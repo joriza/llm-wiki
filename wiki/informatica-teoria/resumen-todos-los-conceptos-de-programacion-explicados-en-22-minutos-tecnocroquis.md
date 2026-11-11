@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-08-09-todos-los-conceptos-de-programacion-explicados-en-22-minutos-esenciales.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=mY9XlcW5nSQ — TecnoCroquis, 2026-08-09 (22:04).
-- **Nota**: fuente 8/10 del lote informatica-teoria (worker 1). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 8/10 del lote informatica-teoria (worker 1). Consolidación (2026-11-11): mención del cierre del ciclo de desarrollo citada en [[documentacion-diataxis]]; sin página de canal aún (una sola fuente en el dominio).
 
 ## Fundamentos: datos, programas y sintaxis vs. lógica
 

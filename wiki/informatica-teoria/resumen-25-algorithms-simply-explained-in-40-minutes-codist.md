@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-08-04-25-algorithms-simply-explained-in-40-minutes.md` (inglés, subtítulos automáticos, literal) — https://www.youtube.com/watch?v=AU9tsGVnmvM — Codist, 2026-08-03 (40:06).
-- **Nota**: fuente 3/10 del lote informatica-teoria (worker 1); secuela del vídeo de estructuras de datos del mismo canal. Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 3/10 del lote informatica-teoria (worker 1); secuela del vídeo de estructuras de datos del mismo canal. Consolidación (2026-11-11): sin páginas asociadas todavía (canal con 3 fuentes; entidad aplazada hasta más fuentes).
 
 ## Búsqueda: binaria vs. lineal
 

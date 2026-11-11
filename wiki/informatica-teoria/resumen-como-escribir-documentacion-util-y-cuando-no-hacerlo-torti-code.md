@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-10-06-como-escribir-documentacion-util-y-cuando-no-hacerlo.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=hybyw-qnhgM — Torti Code, 2026-10-05 (18:52).
-- **Nota**: fuente 16/20 del lote informatica-teoria; octava fuente del canal Torti Code en el dominio. Nota de metadatos: fecha de publicación 2026-10-05, un día distinta al nombre del archivo — mandan los metadatos. Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 16/20 del lote informatica-teoria; octava fuente del canal Torti Code en el dominio. Nota de metadatos: fecha de publicación 2026-10-05, un día distinta al nombre del archivo — mandan los metadatos. Consolidación (2026-11-11): [[torti-code]] · [[documentacion-diataxis]].
 
 ## El caso de apertura: el doble cobro invisible
 

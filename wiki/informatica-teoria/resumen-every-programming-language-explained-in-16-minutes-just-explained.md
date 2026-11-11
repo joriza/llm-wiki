@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-08-08-every-programming-language-explained-in-16-minutes.md` (inglés, subtítulos automáticos, literal) — https://www.youtube.com/watch?v=uerEG_yigco — Just Explained, 2026-08-08 (16:32).
-- **Nota**: fuente 9/10 del lote informatica-teoria (worker 1). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 9/10 del lote informatica-teoria (worker 1). Consolidación (2026-11-11): sin páginas asociadas todavía (una sola fuente del canal en el dominio).
 
 ## Python: la puerta de entrada que escala hasta la IA
 

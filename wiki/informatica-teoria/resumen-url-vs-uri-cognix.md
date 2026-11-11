@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-10-01-url-vs-uri-la-diferencia-que-confunde-a-casi-todos-los-programadores.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=nmWRGw7qSd4 — Cognix, 2026-10-01 (06:10).
-- **Nota**: fuente 18/20 del lote informatica-teoria; segunda fuente del canal Cognix en la wiki (la primera fue la serie de lenguajes en historia-informatica). Video breve y didáctico. Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 18/20 del lote informatica-teoria; segunda fuente del canal Cognix en la wiki (la primera fue la serie de lenguajes en historia-informatica). Video breve y didáctico. Consolidación (2026-11-11): [[urls-firmadas]] (la anatomía scheme/authority/path/query/fragment como base del permiso firmado). Entidad del canal Cognix aplazada: 2 fuentes, la otra (serie de lenguajes) sin ingestar en historia-informatica.
 
 ## La confusión y la relación de contención
 

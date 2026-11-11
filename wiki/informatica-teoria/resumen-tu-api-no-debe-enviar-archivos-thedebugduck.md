@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-10-03-tu-api-no-debe-enviar-archivos-el-error-que-satura-tu-servidor.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=i-22HBTvnoA — TheDebugDuck, 2026-10-03 (17:28).
-- **Nota**: fuente 17/20 del lote informatica-teoria; primer video del canal TheDebugDuck en la wiki. Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 17/20 del lote informatica-teoria; primer video del canal TheDebugDuck en la wiki. Consolidación (2026-11-11): [[urls-firmadas]] (página de concepto a partir de esta fuente y de la anatomía de la URL de Cognix).
 
 ## El problema: la API como intermediaria de cada byte
 

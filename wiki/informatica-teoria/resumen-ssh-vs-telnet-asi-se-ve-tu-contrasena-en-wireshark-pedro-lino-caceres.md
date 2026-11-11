@@ -3,7 +3,7 @@
 - **Tipo**: resumen de fuente.
 - **Dominio**: `informatica-teoria/`.
 - **Fuente original**: `raw/informatica-teoria/2026-07-27-ssh-vs-telnet-asi-se-ve-tu-contrasena-en-wireshark-y-como-protegerla.md` (video en español; transcripción literal en inglés por subtítulos automáticos traducidos) — https://www.youtube.com/watch?v=NqMFuDbk-Lg — Pedro Lino Cáceres, 2026-07-27 (10:41).
-- **Nota**: fuente 10/10 del lote informatica-teoria (worker 1). Sin enlaces cruzados todavía (consolidación aplazada).
+- **Nota**: fuente 10/10 del lote informatica-teoria (worker 1). Consolidación (2026-11-11): [[pedro-lino-caceres]].
 
 ## El problema del acceso remoto en texto plano
 
