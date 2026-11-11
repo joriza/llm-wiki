@@ -20,3 +20,7 @@ Tambor de acero de 55 galones (que haya contenido jugo de fruta; **nunca químic
 ## Resultado inicial del tambor
 
 Mediodía del primer día: **8,5 A a 73 V ≈ 630 W** entrando, batería llena, arena a **192 °F (~89 °C)** a unas pulgadas del elemento (partiendo de 63 °F, con sol directo sobre los paneles desde las 9:30); quedan pendientes actualizaciones de desempeño a largo plazo [11:58-12:39].
+
+---
+
+**Ver también**: [[bateria-de-arena]] — página de concepto que consolida las seis fuentes del dominio sobre almacenamiento térmico en arena.

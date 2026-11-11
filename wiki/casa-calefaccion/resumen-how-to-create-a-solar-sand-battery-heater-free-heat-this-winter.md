@@ -24,3 +24,7 @@ Para distribuir el calor por la sala prueba un **ventilador accionado por difere
 ## Veredicto del autor
 
 Montaje «súper simple, componentes básicos, sin complejidad» para **calor de emergencia de una habitación**, no para reemplazar la factura completa de energía (eso exige instalación profesional) [14:07-11:32].
+
+---
+
+**Ver también**: [[bateria-de-arena]] — página de concepto que consolida las seis fuentes del dominio sobre almacenamiento térmico en arena.

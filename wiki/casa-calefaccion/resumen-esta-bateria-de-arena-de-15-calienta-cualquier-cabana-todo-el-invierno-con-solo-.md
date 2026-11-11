@@ -56,3 +56,7 @@ El video delimita lo que el sistema no promete: una batería de arena no aliment
 - Transcripción con frases duplicadas y triplicadas (artefacto del ASR); normalizado en el resumen. Garbiños recurrentes: «cosombre» = «que se llama», «gr Fahenheit / gr Celus» = grados Fahrenheit / Celsius, «entre 40 y 50 y 5 kWh» = 40–50 kWh, «Finish Journal» = Finnish Journal, «Darmstad» = Darmstadt, «Routeres» = Reuters, «Ojayo» = Ohio. Cifras en dólares parcialmente perdidas por el ASR («fue de $ y algo más», «inferior a $.»); los importes $15 (título del video) y $14 se recuperan del propio audio. Nombres propios posiblemente distorsionados: «Marcus Sarakowski», «Health Thermal Systems LC», «Prilla Natarajan».
 - Sin patrocinios externos ni autopromoción detectados en la transcripción; nada excluido de la síntesis.
 - Carácter editorial: el canal combina el caso real y cubierto por prensa de Polar Night Energy (2022, 8 MWh y 100 t de arena según el propio video) con un relato de supresión — patente 10,514,201 bloqueada por «tres grandes empresas», manual británico de 1947 retirado de catálogos, artículo finlandés desaparecido de los índices — presentado sin referencias comprobables. Se sintetiza como lo afirma la fuente, señalando su naturaleza narrativa no verificada, no como hecho establecido.
+
+---
+
+**Ver también**: [[bateria-de-arena]] — página de concepto que consolida las seis fuentes del dominio sobre almacenamiento térmico en arena.

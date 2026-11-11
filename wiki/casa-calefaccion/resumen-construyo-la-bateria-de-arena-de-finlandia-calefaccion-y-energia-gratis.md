@@ -20,3 +20,7 @@ Las sondas PTC (coeficiente positivo de temperatura) arrancan con resistencia mu
 ## Resultados medidos
 
 Aula a 21 °C de partida: a los 45 minutos la arena marca ~80 °C, el molde ya se siente caliente por los lados y 44,5 °C por debajo [07:30-09:13]. El ventilador Peltier — que según su manual arranca a ~80 °C — **giró sin problemas con la arena a 95 °C**, soplando aire apreciable con aspas a 35-40 °C, y la sala subió a 24,3 °C [10:12-11:52]. Conclusión del autor: la acumulación funciona y «cuanto más caliente, más energía acumula»; el rendimiento se optimizaría **añadiendo aislamiento térmico** alrededor del molde [11:52-13:01]. Afirma además que la arena guarda el calor mejor que el agua (el agua a 100 °C lo pierde rápido; la arena tarda en calentarse pero lo libera poco a poco) — afirmación del canal, no verificada aquí [01:44-02:08].
+
+---
+
+**Ver también**: [[bateria-de-arena]] — página de concepto que consolida las seis fuentes del dominio sobre almacenamiento térmico en arena.

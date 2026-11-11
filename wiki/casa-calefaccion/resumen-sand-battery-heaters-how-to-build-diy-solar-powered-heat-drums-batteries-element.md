@@ -20,3 +20,7 @@ Temperaturas en la arena: base 61 °F; tras 1 hora con elementos → ~200 °F **
 ## Veredicto del autor
 
 Diseño en experimento: le falta **potencia solar dedicada** (usa la mayor parte de sus paneles en otras cargas); planea recargarlos a diario y re-evaluar el próximo invierno, con más paneles, antes de saber si sirve para calefacción real [06:54-07:18].
+
+---
+
+**Ver también**: [[bateria-de-arena]] — página de concepto que consolida las seis fuentes del dominio sobre almacenamiento térmico en arena.

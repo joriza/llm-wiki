@@ -20,3 +20,7 @@ El cobre se pone al rojo (intocable) en minutos y transfiere el calor a la arena
 ## Seguridad
 
 Doble advertencia explícita: **detector de humo + detector de monóxido de carbono** en el espacio donde se use [06:42-06:58, 09:08-09:27]; apoyos de terracota para separarlo del piso (el propio autor duda que haga falta por la barrera de arena, pero lo recomienda por prudencia) [09:27-09:47]; y **no dejarlo sin supervisión** mientras arde [09:47-09:55]. El hollín inicial del encendido cae dentro del balde y no representa riesgo, sin humo sostenido [08:50-09:08].
+
+---
+
+**Ver también**: [[bateria-de-arena]] — página de concepto que consolida las seis fuentes del dominio sobre almacenamiento térmico en arena.
