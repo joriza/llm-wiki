@@ -765,3 +765,4 @@ Registro cronológico de solo adición.
 - Fuente 2/28: Calefacción gratis: cómo hacer una estufa rocket (paso a paso) — raw raw/casa-calefaccion/2024-05-18-calefaccion-gratis-como-hacer-una-estufa-rocket-paso-a-paso.md — resumen wiki/casa-calefaccion/resumen-calefaccion-gratis-como-hacer-una-estufa-rocket-paso-a-paso.md
 - Fuente 6/28: Muro Trombe — raw raw/casa-calefaccion/2022-06-13-muro-trombe.md — resumen wiki/casa-calefaccion/resumen-muro-trombe.md
 - Fuente 8/28: Tipos de ventilación natural — raw raw/casa-calefaccion/2021-12-08-tipos-de-ventilacion-natural.md — resumen wiki/casa-calefaccion/resumen-tipos-de-ventilacion-natural.md
+- Fuente 7/28: ¿Qué es un partesol o parasol? — raw raw/casa-calefaccion/2022-05-26-que-es-un-partesol-o-parasol.md — resumen wiki/casa-calefaccion/resumen-que-es-un-partesol-o-parasol.md
