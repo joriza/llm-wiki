@@ -2,8 +2,8 @@
 
 - **Tipo**: página de entidad (herramienta).
 - **Dominio**: `ia-uso-practico/`.
-- **Actualizado**: 2026-11-11 (fuente 24/58 del lote ia-local; la fuente 30/58 del playlist ampliará esta página).
-- **Fuentes**: [[resumen-nuevo-deepseek-harness-completamente-gratis-usando-gemma-4]].
+- **Actualizado**: 2026-11-11 (fuente 25/58 del lote ia-local — la entrada 30 del playlist anunciada como ampliación ya procesada).
+- **Fuentes**: [[resumen-nuevo-deepseek-harness-completamente-gratis-usando-gemma-4]] · [[resumen-deepseek-harness-conectar-modelos-locales-de-llama-cpp-para-programar-con-ia]].
 
 **DeepSeek Harness** es el agente-harness **open source de DeepSeek**: «el cuerpo» de un sistema de IA — se encarga de ejecutar tareas y proyectos — mientras el «cerebro» (el modelo) se elige aparte. Se abre con una línea de terminal y trae **integración nativa con Ollama** (pregunta el modelo al lanzar y ofrece instalarlo si falta) además de proveedores cloud (OpenRouter/OpenAI/Anthropic) y Ollama cloud de pago.
 
@@ -21,10 +21,19 @@ Reglas operativas del preset que funcionan:
 - Crear los presets con un modelo potente (con uno gratuito «da 1000 vueltas»).
 - Instalación: descomprimir en `users/<usuario>/.dsh/deepseek harness/agent presets/` + reiniciar.
 
+## Conexión a llama.cpp y modos agénticos (fuente 25, Nichonauta)
+
+Como cliente de un **proveedor personalizado llama.cpp** ([[qwen]] 3.5 9B local con visión y 131k de contexto): soporta **tres tipos de API** (completions/responses de OpenAI + messages de Anthropic), sin API key para modelos locales, lista automática de modelos (añadibles y renombrables a mano). Cambiar de modelo por el selector es fácil, aunque con muchos proveedores la lista «va a ser interminable».
+
+- **Limitación de la UI**: con la configuración simple no se puede activar la visión del modelo local — el Harness dice «no soporta imágenes» siendo falso (el mismo modelo sí lo hace en [[llama-cpp]]). Requeriría editar la configuración del proveedor (ventana de contexto, si es razonador, visión — parámetro tipo `input`, según la documentación oficial).
+- **Modos agénticos = programas distintos** (estilo OpenCode/Hermes/Pi Agent): un mismo modelo rinde distinto por modo aunque ambos sean de código. Modo código por defecto (cambiable por conversación); además modo plan (aprobación → implementación), solo lectura y acceso total.
+- **Pruebas con Qwen 3.5 9B**: modo código falla al inicio (inventa archivos) pero se recupera con un análisis excelente del proyecto; modo minimal intenta comandos Linux/Mac en Windows y se rinde (decirle «estamos en Windows» mejora a medias) — el factor es la **adaptación modelo↔agente**, no el arnés.
+- **Extras**: la UI muestra tokens entrada/salida, tok/s promedio y caché («poco común»); instalación con un comando npm; funciona desde el navegador. Veredicto del canal: «me está gustando mucho este arnés». Teaser: combinarlo con [[proxy-atomico]] (más tokens por solicitud a cambio de calidad — ideal para modelos chicos locales).
+
 ## Casos de uso probados (Gemma 4 26B local, gratis)
 
 Auditoría de facturación (informe + cartas de reclamación por cliente), análisis de negocio (ganancias/pérdidas por categoría con resumen ejecutivo) y limpieza de base de datos (inválidos listados, CSV limpio generado por el agente) — cada uno en 10-20 minutos, costo cero. Filosofía: «hace un año todo esto costaba dinero — ahora solo cuesta paciencia».
 
 ## Cruces en la wiki
 
-Capa agéntica sobre [[ia-local-texto]] (Ollama como runner del cerebro); el cerebro elegido, [[gemma-4]]; el espíritu anti-plomería de [[codigo-de-plomeria]] y el stack de [[desarrollo-con-modelos-locales]].
+Capa agéntica sobre [[ia-local-texto]] (Ollama como runner del cerebro) o sobre un proveedor personalizado [[llama-cpp]]; el cerebro elegido, [[gemma-4]] o [[qwen]]; el espíritu anti-plomería de [[codigo-de-plomeria]]; el stack de [[desarrollo-con-modelos-locales]]; el complemento anunciado por el canal, [[proxy-atomico]].

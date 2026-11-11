@@ -1,1 +1,13 @@
-{}
+{
+  "userIgnoreFilters": [
+    "raw/",
+    "index.md",
+    "log.md",
+    "protocolo-ingesta-youtube.md",
+    "AGENTS.md",
+    "odd/",
+    "wiki/overview.md",
+    "wiki/sintesis.md",
+    "wiki/dominios.md"
+  ]
+}

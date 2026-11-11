@@ -912,3 +912,10 @@ Registro cronológico de solo adición.
 - **protocolo-ingesta-youtube.md**: estado al pausar actualizado (24/58, 3 raws en scratch, reanudación completa).
 - **Pendiente heredado resuelto esta sesión**: entidad [[cognix]] (3 fuentes en 3 dominios).
 - **Push a origin/master** y cierre de sesión a pedido del usuario.
+
+## [2026-11-11] ingesta | lote ia-local — fuente 25/58 (pedido: «procese solo 1 fuente mas»)
+
+- Fuente 25/58: DeepSeek Harness — conectar modelos locales de llama.cpp para programar con IA (proveedor personalizado llama.cpp con Qwen 3.5 9B y 131k de contexto; 3 tipos de API — completions/responses de OpenAI + messages de Anthropic; limitación UI: la visión del modelo local no se puede activar desde la configuración simple; modos agénticos probados como «programas distintos»: código se recupera tras inventar archivos, minimal se rinde con comandos Linux/Mac en Windows, plan→implementación semi-funcional; stats de tokens en la UI; teaser Atomic AI; entidad deepseek-harness ampliada con la fuente 25 — la entrada 30 del playlist anunciada como ampliación) — raw raw/ia-uso-practico/2026-08-14-deepseek-harness-conectar-modelos-locales-de-llama-cpp-para-programar-con-ia.md — resumen wiki/ia-uso-practico/resumen-deepseek-harness-conectar-modelos-locales-de-llama-cpp-para-programar-con-ia.md
+- Procesada bajo instrucción del usuario («procese solo 1 fuente mas») — descargas siguen detenidas, runner no relanzado. Estado del lote: 25/58.
+- Entidad nichonauta re-sincronizada de paso: conteo real corregido a 20 fuentes del canal (verificado por grep sobre resúmenes; la página quedó congelada en 8 desde la fuente 14 del lote) y enlaces faltantes agregados.
+- En scratch sin procesar (2 raws): tanYJCxZJr0 («Inteligencia Ilimitada con Atomic AI» — el deep-dive que cierra el teaser de esta fuente; amplía [[proxy-atomico]]) y 2EAtjJbnEVk («827 — No necesitas una GPU de 3000€ para IA Local», atareao; amplía [[hardware-para-ia-local]]). Pendientes de descargar: entradas 31-58 (~28) + la 54 UNKNOWN.
