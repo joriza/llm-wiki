@@ -787,3 +787,12 @@ Registro cronológico de solo adición.
 - **Creado** `protocolo-ingesta-youtube.md`: protocolo completo — subtítulos primero con ingesta en streaming; espaciado ~60-90 s entre obtenciones; 429 → reintentos con tiempos crecientes (300-600 s) y re-pass final; sin subtítulos → SKIP definitivo sin rutas alternativas; pre-flight de unicidad de la lista (dedupe por id); marcadores `<id>` contra re-descargas; ruta celular `FYT_SOURCE` ante bloqueo de IP; workers de ingesta ≤3 concurrentes; modo lote con commit por fuente (adds por archivo); metadatos mandan; consolidación aplazada; estado de pausa y cómo reanudar.
 - **Actualizado** `AGENTS.md` (Operaciones 6: puntero al protocolo).
 - **Remoto**: origin = https://github.com/joriza/llm-wiki.git — primer push de `master` (9+18 commits acumulados del día).
+
+## [2026-11-11] consolidación | casa-calefaccion — lote completo y concepto batería de arena
+
+- **Cierre del lote**: playlist «Casa/Calefacción» completa — 27 entradas únicas = 21 fuentes con raw+resumen+index+log (fuentes 1-21/28) + 6 SKIP-NO-SUBS definitivos (7cy8sgz8d94, TstTSbITPyk, iNHZJgLCmiQ, rPgEBkDL2wM, iWwMmh7K_1I «El Secreto Solar de $8», oBz0b8U7jDs «El Error que todos cometen al hacer Chimeneas»; los dos últimos cerrados en esta consolidación).
+- **Creada** `wiki/casa-calefaccion/bateria-de-arena.md`: página de concepto que consolida las 6 fuentes de arena (9, 14, 15, 16, 17, 18) — principio físico (calor específico bajo + conductividad casi nula), el argumento arena vs agua con su matiz (ΔT utilizable, no «retiene más» a secas), dos familias de carga (combustión indirecta vs eléctrica solar DC/batería/PTC), extracción del calor (radiación, ventilador Peltier, convección forzada), errores documentados (sin recarga diaria vuelve a ambiente; canaletas que enfrían al soplar; plásticos derritiéndose; arena húmeda), tabla comparativa de los seis montajes y pendientes de verificación.
+- **Enlaces cableados**: los 6 resúmenes de arena enlazan ahora a [[bateria-de-arena]].
+- **Contradicción señalada** (documentada en la página, no requiere acción): fuente 16 afirma «la arena retiene mejor que el agua» sin números; fuentes 15/17 argumentan correctamente por ΔT utilizable (el agua se frena a 100 °C).
+- **Fuente 19 off-topic** (paredes autonivelantes): un solo video de construcción — NO se propone dominio nuevo; queda registrada como fuera de alcance en casa-calefaccion.
+- **Actualizados** `wiki/overview.md` (estado 121 fuentes; hilo temático 7) y `wiki/sintesis.md` (sección 7 + pendientes).
