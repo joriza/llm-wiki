@@ -32,4 +32,4 @@ Clima y LLMs comparten un patrón que el corpus de Café Kyoto teoriza: crisis e
 
 - Verificar datos citados antes de elevarlos a concepto: «45% de artículos de derecha como mezcla de verdad y falsedad» y «Argentina potencia 1895» (estudio de Maddison).
 - Identificar «el video de Ofelia» (citado sin URL).
-- Propuesta de dominios pendiente de decisión; playlist «IA-Recursos» (57 videos) en cola.
+- Dominios creados (2026-11-10, confirmados por el usuario): `ciencias-tierra/`, `inteligencia-artificial/`, `critica-tecnologica/`; la playlist «IA-Recursos» (57 videos) se ingesta por lote en `inteligencia-artificial/`.

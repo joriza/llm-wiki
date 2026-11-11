@@ -181,3 +181,18 @@ Registro cronológico de solo adición.
 - Actualizados sin editar contenido: rutas raw en 24 páginas, rutas wiki/ en index.md, dominios.md reescrito, overview.md y sintesis.md actualizados. Los enlaces de doble corchete por nombre no requieren cambios.
 - `raw/general/` y `wiki/general/` quedan vacíos (reservados para fuentes sin dominio propio).
 - Ningún contenido fue alterado en la mudanza: solo ubicación y rutas de referencia.
+
+## [2026-11-10] nota | inicio de ingesta por lotes de la playlist IA-Recursos
+
+- Pedido del usuario: «puedes procesar como ingesta esta lista personal de youtube?» (playlist «IA-Recursos», 57 videos; listado en .atl/playlist-ia-recursos.json).
+- Decisión previa del usuario: primero consolidación y dominios (hecho), luego la lista. Destino aprobado: inteligencia-artificial/.
+- Modo lote EN SECUENCIA: por fuente se escriben resumen, index.md y log.md; se APLAZAN páginas de concepto y entidad, referencias cruzadas y contradicciones hasta la consolidación.
+- Especificación completa: odd/tasks/ingesta-playlist-ia-recursos.md.
+
+## [2026-11-10] ingesta | Las 4 Mejores IAs SIN CENSURA Para Crear Imágenes GRATIS e ILIMITADO
+
+- Disposición: Nueva.
+- Fuente: https://www.youtube.com/watch?v=12sBcsVMPVE — CreaTuIA, publicado 2025-10-19 (14:14).
+- Raw: raw/inteligencia-artificial/2025-10-19-4-mejores-ias-sin-censura-imagenes-gratis-creatuiia.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Páginas creadas: resumen-4-mejores-ias-sin-censura-imagenes-gratis-creatuiia (resumen de fuente).
+- Nota: fuente 1/57 de la playlist; primer canal nuevo del lote (CreaTuIA), entidad aplazada. Reseña de herramientas con contenido sensible («sin censura») registrada como contenido de la fuente.
