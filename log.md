@@ -884,3 +884,10 @@ Registro cronológico de solo adición.
 - Fuente 17/58: Desarrollo con Modelos IA Muy Pequeños — Gemma E2B y Qwen 2B (prueba agéntica del Reto 2B; consolidada en desarrollo-con-modelos-locales) — raw raw/ia-uso-practico/2026-08-23-desarrollo-con-modelos-ia-muy-pequenos-como-programar-con-gema-4-e2b-y-qwen-3-5-.md — resumen wiki/ia-uso-practico/resumen-desarrollo-con-modelos-ia-muy-pequenos-como-programar-con-gema-4-e2b-y-qwen-3-5-.md
 - Fuente 18/58: Odysseus AI tiene algo INCREIBLE (revisión del workspace de PewDiePie; patrocinio HostGator excluido; bugs documentados tal cual) — raw raw/ia-uso-practico/2026-08-25-odysseus-ai-tiene-algo-increible.md — resumen wiki/ia-uso-practico/resumen-odysseus-ai-tiene-algo-increible.md
 - Fuente 19/58: PewDiePie acaba de reventar la IA — lanzó Odysseus (cobertura del lanzamiento, subtítulos manuales; patrocinio Kittel excluido; complementa la fuente 18) — raw raw/ia-uso-practico/2026-06-07-pewdiepie-acaba-de-reventar-la-ia-lanzo-odysseus-ia-gratis-y-sin-limites.md — resumen wiki/ia-uso-practico/resumen-pewdiepie-acaba-de-reventar-la-ia-lanzo-odysseus-ia-gratis-y-sin-limites.md
+
+## [2026-11-11] pausa | lote ia-local — 19/58 procesadas (cumplidas las 5 fuentes del pedido)
+
+- **Pedido cumplido**: «procesa solo 5 fuentes más» — fuentes 15-19 con ciclo completo (Proxy Atómico, Ngram/MTP, desarrollo agéntico 2B, Odysseus revisión, Odysseus lanzamiento). Runner completo detenido tras la quinta.
+- **En scratch sin procesar**: 1PfwLK1TuZc (Ash Automates — «I Used Odysseus AI for 30 Days», tercer video de Odysseus, descargado en vuelo al detener) — procesar en la reanudación.
+- **Pendientes de descargar**: entradas 26-58 del playlist (~33) + la 54 UNKNOWN. SKIP definitivos acumulados: 6 sin subtítulos + 2 members-only.
+- **Reanudación**: procesar el raw de scratch primero; luego relanzar el runner (con el fix de cookies en metadatos ya aplicado) hasta completar las 5 siguientes; al cierre del lote: consolidación final + overview/sintesis + push.
