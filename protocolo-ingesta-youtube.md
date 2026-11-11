@@ -39,3 +39,10 @@ Vigente desde 2026-11-11 (sesión «Casa/Calefacción»). Ajustes decididos dura
 - Fuentes especiales ya registradas: 2 huecas (10, 11), 1 off-topic (19), 2 con marco narrativo clickbait señalado en resumen (20, 21); 6 fuentes de batería de arena (9, 14-18) candidatas a página de concepto única.
 - **Pendiente al cierre del lote (consolidación aplazada)**: páginas de concepto (batería de arena ×6; espejo/sauna; estufas pirolíticas), entidades de canales, cruces con `[[...]]`, contradicciones (arena vs agua como almacenador: fuentes 15/17 vs 16), actualizar `overview.md` y `sintesis.md`, evaluar dominio para construcción (fuente 19), listar pendientes en `log.md`.
 - **Reanudación**: (1) relanzar `.atl/descarga_playlist.py` con `FYT_SOURCE` y `--one` 2 veces (espaciado ≥50 s) → ingestar cada raw; (2) consolidación completa del dominio; (3) commit y push.
+
+## Ruta VPN (tercera alternativa, validada 2026-11-11)
+
+- La IP principal (192.168.1.11) sigue bloqueada para timedtext (429 confirmado); la ruta celular es temporal. **Ruta VPN validada**: Proton VPN Free (túnel completo, cuenta gratis, salida EE. UU. `37.19.221.228`) — el fetch pasa sin configurar nada en `fetch_yt.py` (túnel de sistema).
+- **Rotación de salida**: la primera IP de Proton (45.239.32.215, salida europea vía web) estaba flaggeada; la de EE. UU. de la app funciona. Si una salida da 429, cambiar país/servidor en la app y retestear (cada prueba ~10 s). La IP de EE. UU. validada puede dejar de servir con el tiempo — retestear con `python .atl/fetch_yt.py mY-_RkYDRuM --out <archivo-de-prueba>` antes de cada lote y borrar el archivo de prueba.
+- Plan B ante flaggeo masivo de Proton free: WARP de Cloudflare (infraestructura distinta) o Windscribe free (rotación manual de ubicaciones).
+- Los transcripts pesan ~30-80 KB: los límites de datos de las capas gratuitas sobran.
