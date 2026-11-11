@@ -24,3 +24,7 @@ El formato necesita la directiva `extra` para mostrar información contextual �
 ## Cuándo usarlo
 
 El video lo posiciona para dos necesidades: depuración cotidiana sin fricción (un import, formato bueno por defecto) y preparación para producción (JSON estructurado, sinks a archivo con rotación, múltiples sinks simultáneos — se pueden sumar handlers con niveles y formatos distintos, p. ej. consola + archivo).
+
+---
+
+**Ver también**: [[loguru]] (entidad-herramienta) · [[logging-en-python]] (concepto).
