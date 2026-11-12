@@ -940,3 +940,10 @@ Registro cronológico de solo adición.
 - Procesada bajo instrucción del usuario («procese solo 2 fuentes mas», 1ª) — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 28/58.
 - Entidad [[llama-cpp]] ampliada con sección TurboQuant / KV cache Q8 + rotary attention.
 - Queda pendiente 2ª fuente del pedido.
+
+## [2026-11-11] ingesta | lote ia-local — fuente 29/58 (pedido: «procese solo 2 fuentes mas», 2ª)
+
+- Fuente 29/58: Gemma 4 E2B — el Modelo de IA Pequeño y ULTRA RÁPIDO con Llama.cpp (E2B MoE 5.1B/2B activos, any-to-any texto/imagen/vídeo/audio, QAT Q4, MTP archivo aparte, mmproj visión): 3.6 GB VRAM en RTX 3060 12 GB; 166-186 tok/s promedio en código con reasoning; pruebas funcionales one-shot: calculadora 100%, simulador fluidos funcional, visión+MTP acelera; vs Qwen 0.8B/2B: menos memoria, más modalidades, menos loops, mejor redacción; canal lo usa para redacción donde «no tiene contrincante») — raw raw/ia-uso-practico/2026-09-03-gemma-4-e2b-el-modelo-de-ia-pequeno-y-ultra-rapido-con-llama-cpp.md — resumen wiki/ia-uso-practico/resumen-gemma-4-e2b-el-modelo-de-ia-pequeno-y-ultra-rapido-con-llama-cpp.md
+- Procesada bajo instrucción del usuario («procese solo 2 fuentes mas», 2ª) — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 29/58.
+- Entidad [[gemma-4]] refuerza: benchmarks velocidad 166-186 tok/s, consumo 3.6 GB VRAM, pruebas funcionales, comparación Qwen.
+- Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 35-58 (~24) + la 54 UNKNOWN.
