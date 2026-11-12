@@ -1042,3 +1042,10 @@ Registro cronológico de solo adición.
 - Procesada bajo instrucción del usuario («procese solo 5 fuentes mas», 3ª) — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 51/58.
 - Entidad [[ia-uso-practico/jorge-marfil]] creada (canal, 1ª fuente en lote). Entidad [[strata]] (motor inferencia especializado Qwen 3.8 Flash Next; caché expertos, CPU+GPU pipeline, MTP, lectura chunked; MIT). Modelo [[qwen]] 3.8 Flash Next 125B MoE reforzado. Entidad [[llama-cpp]] PR #29887 replica expert cache. Concepto [[ia-uso-practico/hardware-para-ia-local]] (RAM manda > VRAM para MoE; DDR5 precio ×4-5; economía RAM vs API).
 - Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 52-58 (~7) + la 54 UNKNOWN.
+
+## [2026-11-11] ingesta | lote ia-local — fuente 52/58 (pedido: «procese solo 5 fuentes mas», 4ª)
+
+- Fuente 52/58: FrogNano 4B — ¿Es REALMENTE mejor que el Qwen 3.5 Original? (review Nichonauta: Microsoft fine-tune Qwen 3.5 4B v2609, Q4_K_M + MM Pro, MTP integrado; tests: visión (funciona, redacción más robótica), Tetris (igual original), iteración cyberpunk (no mejora, rompe juego), Asteroids (mejora puntual); veredicto: similar al original, pierde naturalidad en redacción (datos sintéticos), MTP bien, "no pinta mal ni bien", opción interesante para tareas puntuales, no reemplazo global) — raw raw/ia-uso-practico/2026-10-02-frognano-4b-es-realmente-mejor-que-qwen-3-5-original.md — resumen wiki/ia-uso-practico/resumen-frognano-4b-es-realmente-mejor-que-qwen-3-5-original.md
+- Procesada bajo instrucción del usuario («procese solo 5 fuentes mas», 4ª) — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 52/58.
+- Entidad [[ia-uso-practico/nichonauta]] actualizada (fuente 25 en lote). Modelo [[qwen]] 3.5 4B base para FrogNano. Modelo [[frognano]] (Microsoft fine-tune Qwen 3.5 4B; Q4_K_M + MM Pro; MTP; redacción robótica; similar código, mejora Asteroids; no reemplaza original). Entidad [[bartowski]] (cuantizador Q4_K_M + MM Pro). Entidad [[llama-cpp]] ajustes Qwen 3.5 4B estándar.
+- Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 53-58 (~6) + la 54 UNKNOWN.
