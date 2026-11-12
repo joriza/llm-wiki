@@ -2,8 +2,8 @@
 
 - **Tipo**: página de entidad (herramienta).
 - **Dominio**: `ia-uso-practico/`.
-- **Actualizado**: 2026-11-11 (fuente 2/58 del lote ia-local — tutorial técnico completo de 53 min).
-- **Fuentes**: [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]].
+- **Actualizado**: 2026-11-11 (fuente 28/58 del lote ia-local — TurboQuant / KV cache Q8 + rotary attention).
+- **Fuentes**: [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]] · [[resumen-turboquant-en-llama-cpp-como-reducir-la-vram-de-tus-modelos-de-ia-sin-perder-calidad]].
 
 **llama.cpp** es el conjunto de herramientas y librerías open source (GitHub `ggml-org/llama.cpp`) que ejecuta modelos de lenguaje estilo GPT **en tu propia PC**, con GPU NVIDIA (CUDA), AMD/Intel (Vulkan) o CPU puro — con fallback automático a CPU si la GPU no está disponible.
 
@@ -55,10 +55,19 @@ Además de MTP, llama.cpp trae la familia **N-gram**: usa el mismo contexto como
 
 **El cuello de botella de la iteración**: resultó ser el razonamiento (no coincide con lo ya en contexto y N-gram no ayuda ahí). La filosofía del caso: modelos chicos + iteración rápida + humano guiando correcciones + tareas divididas en pasos = trabajo bien hecho sin modelos de pago.
 
+## TurboQuant / KV cache Q8 + rotary attention (fuente 28)
+
+Paper de Google Research: cuantización vectorial online que minimiza distorsión geométrica de la KV cache; neutralidad de calidad absoluta a **3.5 bits/canal**. En llama.cpp actual: **mejora gratis, automática** — al cuantizar la KV cache a 8 bits (`-ctk/-ctv q8_0`), la **rotary attention (tensión rotativa) se enciende sola**. No hay que activar nada; se ve en los logs («KV cache quantized, rotary attention active»).
+
+- **Efecto medido**: KV cache a Q8 + rotary → ~90 %+ calidad, **mitad de VRAM**; Q8 sin rotary → calidad cae drásticamente (AIME2: 37.9 % → 31 % en GPT OSS 20B); Q4 sin rotary → colapso (2 %); Q4 + rotary → 21.7 %.
+- **Demo realista**: Gemma 4 12B QAT Q4 (6.25 GB modelo + MTP + mmproj = 6.65 GB) en RTX 3060 12 GB. Sin KV Q8: 9.8 GB VRAM, no cabe 262k tokens. Con KV Q8: 9.1 GB → **cabe 262k tokens consumiendo 10.9 GB** (doble contexto, ~misma VRAM). Rotary ya activa.
+- **Dónde más impacta**: modelos **NO optimizados** (Qwen, LFM, etc.) — su KV cache nativa es grande, cuantizar a 8 bits corta VRAM a la mitad (30 GB → 15 GB; 3 GB → 1.5 GB; 1 GB → 0.5 GB) y la rotary protege la calidad. Gemma ya optimizada → ganancia menor.
+- **Regla práctica**: si el modelo no es Gemma, TurboQuant en llama.cpp es «más perfecto aún».
+
 ## Anti-bucles: parámetros DRY (fuente 9)
 
 Los modelos chicos entran en **loops infinitos** (repiten la misma cadena sin salir — principal problema de modelos como Qwen 0.8B, sobre todo con la cadena de razonamiento activa). Solución: la familia **DRY** de llama.cpp — un filtro externo que revisa los tokens/cadenas ya generadas y penaliza repeticiones, encima del sampling clásico. Se agregan ~4 líneas DRY al `.bat` sin tocar el sampling oficial del modelo. Compensaciones: ajustable estricto/laxo (si la tarea requiere repetir, un filtro agresivo empeora la respuesta; demasiado estricto hace las respuestas sin sentido), costo de velocidad mínimo, y efecto lateral de mayor variedad. No es 100 % infalible — método de ajuste iterativo: pegarle a un modelo online el comando + el texto loopeado + «reescribe mi comando cambiando solo los DRY», aplicar, y si reincide, pegar el nuevo loop (en el experimento con Qwen 0.8B muy cuantizado hizo falta además ajustar `repeat_penalty` y `repeat_last_n`).
 
 ## Dónde queda en la wiki
 
-Es el motor descrito como alternativa a Ollama/LM Studio en [[ia-local-texto]]; su endpoint OpenAI-compatible conecta los clientes de [[agentes-de-codigo]] (OpenCode, Codex). El ecosistema de hardware/cuantización se desarrolla en las fuentes siguientes del lote ia-local.
+Es el motor descrito como alternativa a Ollama/LM Studio en [[ia-local-texto]]; su endpoint OpenAI-compatible conecta los clientes de [[agentes-de-codigo]] (OpenCode, Codex). El ecosistema de hardware/cuantización se desarrolla en las fuentes siguientes del lote ia-local. TurboQuant / KV cache Q8 + rotary attention es una mejora gratuita que se activa automáticamente en versiones actuales.

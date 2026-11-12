@@ -933,3 +933,10 @@ Registro cronológico de solo adición.
 - Procesada bajo instrucción del usuario («procese solo 1 fuente mas») — descargas siguen detenidas, runner no relanzado. Estado del lote: 27/58.
 - Entidad [[hardware-para-ia-local]] absorbida (piso 8 GB, SSD obligatorio, stack Ollama/contenedores, roadmap temporada 9).
 - Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 31-58 (~28) + la 54 UNKNOWN.
+
+## [2026-11-11] ingesta | lote ia-local — fuente 28/58 (pedido: «procese solo 2 fuentes mas», primera)
+
+- Fuente 28/58: TurboQuant en llama.cpp — Cómo Reducir la VRAM de tus Modelos de IA sin Perder Calidad (Google Research paper integrado en llama.cpp: KV cache Q8 + rotary attention automática = mejora gratis; demo Gemma 4 12B QAT Q4 en RTX 3060 12 GB → 262k tokens en 10.9 GB; impacto mayor en modelos NO optimizados) — raw raw/ia-uso-practico/2026-08-11-turboquant-en-llama-cpp-como-reducir-la-vram-de-tus-modelos-de-ia-sin-perder-cal.md — resumen wiki/ia-uso-practico/resumen-turboquant-en-llama-cpp-como-reducir-la-vram-de-tus-modelos-de-ia-sin-perder-calidad.md
+- Procesada bajo instrucción del usuario («procese solo 2 fuentes mas», 1ª) — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 28/58.
+- Entidad [[llama-cpp]] ampliada con sección TurboQuant / KV cache Q8 + rotary attention.
+- Queda pendiente 2ª fuente del pedido.
