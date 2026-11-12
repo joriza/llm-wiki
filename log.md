@@ -1102,3 +1102,12 @@ Registro cronológico de solo adición.
 - **Redistribución**: los 60 raws de `raw/inteligencia-artificial/` fueron cada uno al dominio de su resumen (ia-critica-y-fronteras 12, ia-media-generativa 11, ia-uso-practico 37); el directorio fantasma se eliminó.
 - **Mecánica**: 193 movimientos (wiki + raw), 332 actualizaciones de rutas en todo el repositorio (citas raw/ de los resúmenes, enlaces de index.md, overview.md y sintesis.md), 77 cabeceras `**Dominio**` actualizadas. Verificación final: **0 rutas rotas** en index/overview/síntesis y 0 citas raw huérfanas.
 - **`wiki/dominios.md`** reescrito con la nueva tabla de 10 dominios y la nota de reestructuración. `overview.md` y `sintesis.md` actualizados con la nueva estructura.
+
+
+## [2026-11-11] ingesta | nueva playlist «IA-Nuevas formas de trabajo» — fuente 1/18
+
+- Nueva lista del usuario: https://www.youtube.com/playlist?list=PLMqopA-OK1rM — «IA-Nuevas formas de trabajo» (Jorge J. Izaguirre), 18 únicas. Listado canónico: .atl/scratch/playlist-nuevas-formas.json. Dominio destino: `agentes-de-codigo/` (tema: nuevas formas de trabajar con IA).
+- Pre-flight dedupe contra la wiki: 2 entradas ya procesadas en lotes anteriores (1E1y9iQcu6I Xavier Mitjana «Así se usa la IA en 2026», 7Oez8kmknOA Alejavi Rivera «FreeLLMAPI») → 16 pendientes. Primer pendiente procesado:
+- Fuente 1/18: Así Programo con IA Tras +500 Horas (Alpaca Tech, 2026-09-22): flujo programático — bucles de corrección en código; 3 pilares (autonomía, corrección única de errores, modularidad); 8 pasos headless con `claude -p` + JSON; Forge en Rust; feature a producción en 1-2 días (×4); sombras: velocidad desborda al equipo, front/pixel-perfect; «un SDD con esteroides» — para uso solo, Gentle AI rinde igual o mejor) — raw raw/agentes-de-codigo/2026-09-22-asis-programo-con-ia-tras-500-horas-alpaca-tech.md — resumen wiki/agentes-de-codigo/resumen-asis-programo-con-ia-tras-500-horas-alpaca-tech.md
+- Entidad [[alpaca-tech]] creada (canal, 1ª fuente). Enlaces: [[odd-metodologia]], [[agentes-de-codigo]], [[desarrollo-con-modelos-locales]], [[multiplexores-agentes]].
+- Pendientes de la lista: 15 entradas (jXlCBAUvfos, Ey39AmkkKbc, acpGOnJ-iAk, aH8zW8jGak0, Hr693AAnCV0, evfpvmIUPUY, hKV5oAQlp2M, czO_0iGbg7c, 8e_GT2Jmv88, pO6x9GI07WA, YIl6icGGVEM, Qt99CqIJTMI, MBWwn15rmXU, 4hzSdtikHNs, wtahV7-N_b0).
