@@ -1014,3 +1014,10 @@ Registro cronológico de solo adición.
 - Procesada bajo instrucción del usuario («procese solo 3 fuentes mas», 2ª) — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 47/58.
 - Entidad [[ia-uso-practico/codesimple]] actualizada (fuente 2 en lote). Concepto [[ia-uso-practico/hardware-para-ia-local]] reforzado (preprocesamiento vs decodificación, densos vs MoE, curva software, trampas hardware, economía 24/7). Entidad [[llama-cpp]] compilación +33% Mac; kernels Ken 3.6 AMD.
 - Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 48-58 (~11) + la 54 UNKNOWN.
+
+## [2026-11-11] ingesta | lote ia-local — fuente 48/58 (pedido: «procese solo 3 fuentes mas», 3ª)
+
+- Fuente 48/58: Cómo Usar GPU Gratis en Kaggle: 30 Horas Semanales para Modelos de IA (tutorial CodeSimple: Kaggle GPU T4×2 gratis (30 h/semana, 32 GB VRAM) + Ollama + Cloudflare Tunnel → endpoint OpenAI-compatible accesible desde cliente local (Hermes/Open WebUI); verificación teléfono obligatoria; modelo recomendado Q4_K_M (Hermes); latencia +100-200 ms; privacidad: datos salen a Kaggle/Cloudflare; ideal: sin GPU / GPU débil, uso esporádico, aprendizaje; no: privacidad total, producción 24/7, GPU local potente) — raw raw/ia-uso-practico/2026-09-24-como-usar-gpu-gratis-en-kaggle-30-horas-semanales.md — resumen wiki/ia-uso-practico/resumen-como-usar-gpu-gratis-en-kaggle-30-horas-semanales.md
+- Procesada bajo instrucción del usuario («procese solo 3 fuentes mas», 3ª) — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 48/58.
+- Entidad [[ia-uso-practico/codesimple]] actualizada (fuente 3 en lote). Concepto [[ia-uso-practico/ia-local-texto]] (alternativa nube gratis cuando hardware local no alcanza). Entidad [[ollama]] (corre en Kaggle notebook; endpoint OpenAI-compatible vía Cloudflare). Concepto [[ia-uso-practico/agregacion-apis]] (Kaggle como proveedor gratuito más).
+- Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 49-58 (~10) + la 54 UNKNOWN.
