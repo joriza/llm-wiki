@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (persona/creador de contenido).
 - **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
-- **Fuentes**: 1 resumen de la playlist «IA-Recursos» (2026-09-15) — tutorial monográfico de 47:47, criterio de fuente única con desarrollo sustancial.
+- **Fuentes**: [[resumen-herdr-es-increible-aprendelo-gratis-certificado-holamundo]] (playlist «IA-Recursos», 2026-09-15 — monográfico 47:47) · [[resumen-ia-local-programacion-agentes-gratis-privado-cualquier-pc]] (lote ia-local, fuente 58, 2026-11-10 — guía end-to-end LM Studio + modelos + VS Code + Pi).
 
 ## Identidad
 

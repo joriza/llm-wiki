@@ -33,3 +33,5 @@ El patrón de 2025-2026 es claro: primero la suscripción única barata (Mammout
 ## Fuentes de este concepto
 
 - [[resumen-mammouth-plataforma-chat-20-modelos-10-dolares-aicodeking]] (2/57) · [[resumen-crea-apps-ia-api-gratis-dev-knives]] (primera cobertura de FreeLLMAPI) · [[resumen-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos-fazt]] (50/57, OmniRouter) · [[resumen-freellmapi-acaba-de-romper-las-suscripciones-todo-gratis-alejavi-rivera]] (55/57) · [[resumen-gratis-y-sin-limites-accesos-api-gpt-claude-gemini-codesimple]] (56/57).
+
+- Del lote ia-local (2026-11-11): [[resumen-como-usar-gpu-gratis-en-kaggle-30-horas-semanales]] y [[resumen-free-32gb-vram-server-running-ai-models-locally]] — **Kaggle como proveedor gratuito más** del catálogo (GPU T4×2 + Ollama + túnel; cuotas semanales → aprendizaje, no producción).

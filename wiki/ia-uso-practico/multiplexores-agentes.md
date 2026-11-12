@@ -28,3 +28,5 @@ El patrón recomendado es el **mini PC siempre encendido** en casa al que se con
 ## Fuentes de este concepto
 
 - [[resumen-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos-fazt]] (50/57, Herder/Orca) · [[resumen-herdr-es-increible-aprendelo-gratis-certificado-holamundo]] (54/57, curso completo de Herdr).
+
+- Del lote ia-local (2026-11-11): [[resumen-como-hacer-que-un-llm-local-atienda-a-cientos-de-usuarios]] (44/58 — continuous batching de Orca 2022: el mismo principio de «asientos compartidos» a nivel de inferencia; throughput ×13 a costa de latencia individual) · [[resumen-ia-local-programacion-agentes-gratis-privado-cualquier-pc]] (58/58 — Herdr con 2 pestañas: Pi conversando + Lazygit revisando el código que el agente escribe).

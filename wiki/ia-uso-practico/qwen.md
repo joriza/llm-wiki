@@ -46,3 +46,11 @@ Presión macro: modelo razonamiento híbrido 27B abierto en RTX 3090 usada ($500
 ## Reglas de uso (del lote)
 
 MTP prediciendo 2 tokens; KV cache a q8_0 (TurboQuant ~99 % calidad); sampling oficial de Qwen para agéntico; descargar siempre la variante **-MTP** del GGUF (algunas subidas viejas lo quitaban); «el más grande que quepa 100 % en GPU».
+
+
+## La generación Qwen 3.8 / vista previa Qwen 4 (lote ia-local, fuentes 40-56)
+
+- **Qwen 3.8 27B** (fuente 40): arquitectura **híbrida** — 16 capas de atención completa → KV cache de 16 GB a 262k tokens; «4 bits» no es una etiqueta única (precisión × algoritmo × contenedor × kernel); por GPU: RTX 30/40 → EXL3 (3090 24 GB: 43+ tok/s), Blackwell → NF4, Apple → MLX; dinámicas Unsloth UD v3 (14 cuantizaciones por archivo). En SWE-Bench Pro: 61.7 vs 62.5 del Flash Next — casi a la par; Reddit: «Flash Next a 3 bits bastante mejor que el 27B a 5».
+- **Qwen 3.8 Flash Next** (fuentes 41, 51, 55, 56): adelanto experimental de la **arquitectura Qwen 4** (internamente `Qwen4XP`, `Qwen4XForConditionalGeneration`). 180B totales = 125B cerebro MoE (48 capas × 512 expertos, top-10+1 → ~6B activos/token) + **51B de tabla n-grams («chuleta», 2ª capa, vive en SSD vía mmap)** + 4B MTP. Es la pieza que permite correr un modelo de primer nivel en una RTX 3060: 82 GB en 3-bit, 24 tok/s con 6 hilos y 61 GB RAM; **17/17 en el laboratorio de trampas de [[ia-uso-practico/jorge-marfil]], empatando con Claude Opus 5** (a 1/4-1/20 de la velocidad). Contexto 262k de serie, estirable a 1M.
+- **Ecosistema de fine-tunes (fuente 46, 52)**: **[[ornith]] 1.5 9B** (gana calidad agéntica al original, pierde ~10 tok/s) y **[[frognano]] 4B** de Microsoft (similar, más robótico en redacción) — el primero es el fine-tune que por fin mejora al original en su tarea objetivo.
+- **QAT ternario**: [[ternary-bonsai]] 2 (Prism ML) = Qwen 3.8 27B distilado a pesos ternarios desde los pesos reales → 5.9 GB, 98.2 % del score; corre en una 5060 Ti de 16 GB (ver [[bitnet]]).

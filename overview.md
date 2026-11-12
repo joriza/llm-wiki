@@ -11,20 +11,20 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 | `critica-tecnologica/` | 11 (Café Kyoto) | 9 | 1 | 11 | Estable |
 | `ia-critica-y-fronteras/` | 12+ | 8 | 5 | 12+ | Activo (Gary Marcus, IA China, world models) |
 | `ia-media-generativa/` | 10+ | 2 | 2 | 10+ | Activo (FLUX, ComfyUI, clonación voz) |
-| `ia-uso-practico/` | **37/58** (lote IA Local en curso) | **14** | **28** | **37** | **🔥 Activo (llama.cpp, Qwen, Gemma, agentes locales)** |
+| `ia-uso-practico/` | **57/58 + 1 privada** (lote IA Local COMPLETADO) | **14+** | **39** | **57** | ✅ **Consolidado 2026-11-11** (llama.cpp, Qwen 3.8/Qwen 4 XP, Strata, agentes locales) |
 | `informatica-teoria/` | 10+ | 8 | 2 | 10+ | Activo (algoritmos, POO, testing, redes) |
 | `historia-informatica/` | 12+ | 4 | 10 | 12+ | Estable |
 | `python-practico/` | 7 (lote completo) | 6 | 17 | 7 | ✅ Consolidado |
 
-**Total general**: 143+ fuentes, 49+ conceptos, 84+ entidades, 143+ resúmenes.
+**Total general**: ~200 fuentes, 55+ conceptos, 95+ entidades, ~200 resúmenes.
 
 ---
 
-## Hilo temático 9: IA Local (ia-uso-practico) — EN CURSO
+## Hilo temático 9: IA Local (ia-uso-practico) — ✅ COMPLETADO Y CONSOLIDADO (2026-11-11)
 
 **Playlist**: https://www.youtube.com/playlist?list=PLeaYlHPISoSQ (58 videos, dominio `ia-uso-practico/`)
 
-**Procesadas**: 37/58 (64 %). **Descargadas pendientes**: 16 + 1 UNKNOWN.
+**Procesadas**: **57/58 con resumen + 1 SKIP definitivo** (y-SXFKXvv9Q, video PRIVADO). Ingesta completa; entidades y conceptos absorbidos en las páginas correspondientes ([[hardware-para-ia-local]] absorbió 39/43/44/47/48/51/55-57; [[strata]], [[bitnet]], [[ternary-bonsai]], [[ornith]], [[frognano]], [[minagent]], [[lm-studio]], [[jorge-marfil]], [[abi]], [[bartowski]] creadas).
 
 ### Ejes principales consolidados
 
@@ -61,14 +61,24 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 | **Offload GPU+CPU para modelos densos** | 11/33 (cuello de botella severo, solo si 100 % no cabe) vs 30 (CPU-only usable para MoE) | Densos grandes: solo GPU; MoE: CPU+RAM viable. |
 | **Licencia TimesFM 3.0** | 36 (pesos abiertos, uso comercial prohibido → Google Cloud) | Patrón open-core/cloud-tethered repetido en big tech. |
 
-### Páginas de concepto pendientes de consolidar (fuentes 38-58)
+### Cierre del lote: entidades nuevas creadas en la consolidación final (2026-11-11)
 
-- Modelos MoE comparados (Ling vs LFM, Qwen 3.8-27B híbrido)
-- Hardware: CPU sin GPU, guía compra, cientos usuarios concurrentes, Mac Studio vs AMD, Kaggle GPU gratis, servidor 32 GB VRAM gratis
-- Agentes: MinAgent (2 fuentes), FreeLLMAPI v2, Kilo Code + GLM, OpenSpec, Herdr, Gentle AI/ODD
-- Herramientas: SpecJudge, Promptfoo curso, Postgres.new, DuckDB, Loguru, Polars, Playwright, FastAPI, SQLModel, Dramatiq, Dynaconf, Manim, Faker, Gradio, Diagrams, Marimo, Alembic, Celery
-- IA China: 11 casos (GLM, Manus, Kimi, DeepSeek, Qwen, MiniMax, Kling)
-- Clonación voz, FLUX Kontext, Fooocus, ComfyUI, Remotion, HyperFrames, FreeLLMAPI, OmniRouter, Herdr/Orca
+[[strata]] (motor a medida, 3 trucos + lectura 14-26×) · [[bitnet]] / [[ternary-bonsai]] (LLMs ternarios 1.58-bit; Bonsai 2 = Qwen 3.8 27B a 5.9 GB) · [[ornith]] 1.5 9B y [[frognano]] 4B (fine-tunes: uno gana agéntico, el otro no reemplaza) · [[minagent]] (agente minimalista sobre Pi) · [[lm-studio]] (gestor: JIT loading, KV Q8 trick, MCP Exa, Copilot local) · [[jorge-marfil]] (laboratorio con trampas: Qwen 3.8 17/17 = Opus 5) · [[abi]] (Kaggle vía agente) · [[bartowski]] (cuantizador).
+
+### Decisiones de arquitectura añadidas en el cierre (fuentes 38-58)
+
+11. **RAM manda sobre VRAM para MoE** (64 GB DDR5 = condición de arranque; «si no cabe en la despensa, no corre»); ajuste gratis: 1 hilo por núcleo (+48 %).
+12. **Benchmarks miden decodificación; la espera real es preprocesamiento** (94 % del tiempo a 8.5k ctx) — comprobar siempre «¿qué versión contra cuál? ¿escritura o lectura?».
+13. **Caché de expertos** (Strata → PR llama.cpp #29887): los MoE solo tocan el 2 % de los pesos expertos por token; los expertos calientes caben en VRAM sobrante (72 % de aciertos).
+14. **Tabla n-grams «chuleta» en SSD vía mmap** (Qwen 4 XP): 51B params de lookup sin cómputo — la clave para correr un 180B en 12 GB de VRAM.
+15. **ARNES > MODELO en tareas repetitivas** (prompts estructurados + código + dedup superan a GPT-6 con un E2B de 3.6 GB).
+16. **Concurrencia**: continuous batching (llama.cpp server por defecto desde 2024-03); el cuello real es la KV cache (~40 GB/cliente a 128k) — RAM compra asientos, no velocidad.
+17. **Economía revisada**: GPU ≥16 GB se revaloriza como commodity (DRAM +172 %); memoria soldada = prima irrevendible; Kaggle GPU gratis = laboratorio, no producción; si hay que comprar RAM solo para esto, mejor la API.
+
+### Pendientes tras la consolidación
+
+- **Migración de dominios aprobada por el usuario** (2026-11-11): dividir `ia-uso-practico/` en 3 (`ia-local/`, `agentes-de-codigo/`, `ia-uso-practico/` reducido), redistribuir los 60 raws del bucket fantasma `raw/inteligencia-artificial/` a los dominios de sus resúmenes, eliminar `general/` vacío.
+- Canales con 1 fuente quedan como páginas mínimas ([[ia-uso-practico/abi]], [[bartowski]]).
 
 ---
 

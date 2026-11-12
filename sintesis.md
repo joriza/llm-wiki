@@ -38,11 +38,13 @@ Registro de hilos temáticos por dominio. Se actualiza en cada consolidación.
 - **Entidades**: [[darellanodev]] (Herramientas IA: Remotion+OpenCode, HyperFrames+OpenCode), [[alejavi-rivera]] (8 fuentes: FLUX, IA china, NotebookLM, open source, VPS/Docker, clonación voz, FreeLLMAPI), [[creatuia]], [[academia-sd]], [[xavier-mitjana]], [[codesimple]], [[alan-daitch]]
 - **Pendientes**: Fooocus/ComfyUI tutoriales, FLUX Kontext, marcas agua invisibles (SynthID 5 agujeros)
 
-## Hilo 6: IA Uso Práctico (ia-uso-practico/) — **🔥 EN CURSO (37/58)**
+## Hilo 6: IA Uso Práctico (ia-uso-practico/) — **✅ CONSOLIDADO (lote IA Local completo, 2026-11-11)**
 
-- **Playlist**: IA Local (58 videos, PLeaYlHPISoSQ)
-- **Procesadas**: 37/58 (64 %). **Descargadas pendientes**: 16 + 1 UNKNOWN.
-- **Ver overview.md** para detalle completo de ejes, decisiones, contradicciones y pendientes.
+- **Playlist**: IA Local (58 videos, PLeaYlHPISoSQ) — **57 procesadas + 1 SKIP (video privado)**.
+- **Entidades nuevas del cierre**: [[strata]] (motor a medida para Qwen 3.8 Flash Next: caché de expertos adaptativa 72 %, CPU+GPU pipeline, lectura chunked 14-26×; la idea ya saltó a llama.cpp vía PR #29887), [[bitnet]] / [[ternary-bonsai]] (LLMs ternarios 1.58-bit — QAT con straight-through estimator; el muro era el reentrenamiento, Bonsai 2 lo rompe con distilación desde pesos reales: Qwen 3.8 27B a 5.9 GB, 98.2 %), [[ornith]] 1.5 9B y [[frognano]] 4B (fine-tunes de Qwen: el primero gana en desarrollo agéntico, el segundo no reemplaza al original), [[minagent]] (agente terminal minimalista sobre Pi, «no sobreingeniería»), [[lm-studio]] (gestor: JIT loading, truco KV F16→Q8, MCP Exa, Copilot local Ask/Plan), [[jorge-marfil]] (laboratorio con trampas: **Qwen 3.8 Flash Next 3-bit en una 3060 = 17/17, empata con Claude Opus 5**), [[abi]] (Kaggle GPU gratis vía agente), [[bartowski]] (cuantizador de referencia GGUF).
+- **Tesis macro del cierre**: la IA local de 2026 ya corre modelos de primer nivel en hardware de hogar — pero **la RAM manda sobre la VRAM** para los MoE (180B = 125B cerebro + 51B tabla n-grams en SSD + 4B MTP; «si no cabe en la despensa, no corre»), los benchmarks engañan (miden decodificación; la espera real es preprocesamiento; «¿qué versión contra cuál? ¿escritura o lectura?»), y el valor se desplazó al **arnés**: prompts estructurados + código + cachés (expertos, KV Q8) rinden más que comprar un modelo más inteligente.
+- **Economía actualizada**: GPU ≥16 GB = commodity que se revaloriza (DRAM +172 %); memoria soldada = prima irrevendible; Kaggle = laboratorio gratis, no producción; comprar RAM solo para esto → mejor la API.
+- **Ver overview.md** para las 17 decisiones de arquitectura y contradicciones.
 
 ## Hilo 7: Informática Teoría (informatica-teoria/) — **ACTIVO**
 
@@ -71,5 +73,5 @@ Registro de hilos temáticos por dominio. Se actualiza en cada consolidación.
 
 1. **Cierre lote ia-local (58/58)**: consolidación final + overview/sintesis completos + push
 2. **Revisión cruzada**: contradicciones Gemma/Qwen, KV Q8 vs Q4, MTP aparte/integrado, licencia TimesFM
-3. **Entidades pendientes**: atareao, Apasoft Training, Cognix (ia-uso-practico), MinAgent, Kilo Code, Herdr, Gentle AI
+3. **Entidades pendientes**: ninguna del lote ia-local (atareao, Apasoft, Cognix, MinAgent, Herdr consolidadas). **Pendiente estructural**: migración de dominios aprobada (dividir ia-uso-practico en 3; redistribuir raw/inteligencia-artificial; eliminar general/).
 4. **Conceptos pendientes hardware**: CPU sin GPU, guía compra, Mac Studio vs AMD, Kaggle, servidor 32 GB VRAM gratis

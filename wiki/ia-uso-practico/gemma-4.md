@@ -27,3 +27,10 @@ El MTP de Gemma 4 es **archivo aparte** que se añade con el flag `-md` de [[lla
 - **Fuente 3 (2026-07-16)**: «bueno para redacción/escritura, no para herramientas ni desarrollo» — veredicto previo a la actualización.
 - **Fuente 5 (2026-07-19)**: con la actualización, «mejor en lenguaje, mejor en código, ahora usa bien las herramientas y es mucho más rápido» — recomendado en todas sus variantes «mientras te quepa alguno».
 - **Fuente 10 (2026-07-07, el E2B en detalle)**: variante *any-to-any* (texto + imágenes + vídeo + audio — único con audio en su tamaño) con **5,1B totales / ~2B activos para texto**; QAT → Q4 mantiene ~100 % de calidad; **en disco pesa más que el Qwen 3.5 2B pero en runtime consume casi la mitad** (3,6 vs 6,4 GB); su MTP (archivo aparte, en Q4) acelera más que el de Qwen (draft 4 en su hardware); escribe mejor en cualquier idioma, menos faltas y palabras inventadas en español, menos loops infinitos; Qwen lo supera en código (según tipo), uso de herramientas y a veces visión — Gemma para redacción/traducción/RAG, Qwen para razonamiento complejo. Anécdota del canal: vivía generando textos con Gemma 2 4B hace un año; este E2B es similar y en muchos casos superior al Gemma 2 27B de aquella generación.
+
+
+## El E4B en el lote ia-local (fuentes 45, 49, 50, 58)
+
+- **Automatización Python** (45): 3.6 GB VRAM con ctx completo + MTP + mmproj; el arnés (prompts estructurados + código + deduplicación) hace que supere a GPT-6 en tareas repetitivas.
+- **Motor de [[minagent]]** (49-50) y de la guía de [[ia-uso-practico/holamundo]] (58): el modelo de **razonar/chatear** del flujo — pros/contras con conclusiones «las mismas que Claude Opus o ChatGPT», backlogs y planes con skill backlog/story; **no** para programar directo. 18 tok/s con offload parcial → **104 tok/s con el modelo completo en VRAM**.
+- En [[llama-cpp]]: ajustes típicos de Qwen no aplican; MTP y mmproj aparte.

@@ -30,3 +30,8 @@ Nichonauta convirtió las variantes **densas** del LFM 2.5 (230M, 350M — y pla
 ## Comparativa directa vs Ling 3.0 Tiny (fuente 23)
 
 En el duelo de MoE chicos (~1B activo, solo texto): el LFM 2.5 8B-A1B es **más rápido** (167 vs 122 tok/s) pero **pierde en todo lo demás** contra Ling 3.0 Tiny: más VRAM (6,8 vs 5,3 GB), menos contexto (128k literal vs 131k), peor calidad (código corto sin cercado, respuesta en inglés sin sentido en una pasada), y ambos fallaron la trampa de teoría de la mente (José/pelota). En el juego completo imposible: LFM entregó errores de sintaxis; Ling generó 52k+ tokens con autocorrección sin fin — cerca del logro. Veredicto: «para prácticamente todo, Ling 3.0 Tiny es mejor».
+
+
+## LFM 2.5 24B A2B (fuente 58)
+
+La guía de [[ia-uso-practico/holamundo]] lo recomienda como **modelo de implementación de código** cuando el Qwen 3.6 35B no corre: sigue instrucciones y patrones sin desviarse. Medido en la 3060 del tutorial: 32 tok/s con offload parcial + ctx 60k + KV Q8, **183.78 tok/s con el modelo completo en VRAM (sin MTP — velocidad nativa)**, 22-26 tok/s en CPU casi puro.

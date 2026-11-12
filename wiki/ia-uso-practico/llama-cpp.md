@@ -71,3 +71,12 @@ Los modelos chicos entran en **loops infinitos** (repiten la misma cadena sin sa
 ## Dónde queda en la wiki
 
 Es el motor descrito como alternativa a Ollama/LM Studio en [[ia-local-texto]]; su endpoint OpenAI-compatible conecta los clientes de [[agentes-de-codigo]] (OpenCode, Codex). El ecosistema de hardware/cuantización se desarrolla en las fuentes siguientes del lote ia-local. TurboQuant / KV cache Q8 + rotary attention es una mejora gratuita que se activa automáticamente en versiones actuales. **Build CPU-only** (fuente 30): misma capacidad y modelos GGUF, velocidad usable (11+ tok/s en Qwen 35B-A3B MoE, 35 GB RAM), a fracción del costo de GPU equivalente (250 USD RAM vs 5000+ USD GPU).
+
+
+## Del cierre del lote (fuentes 43-58)
+
+- **Caché de expertos** (fuentes 51, 55): tras el éxito de [[strata]], la **PR #29887** la añade a llama.cpp (pendiente de aceptar; RTX 4090: 25→39.4 tok/s, 1.57×; 5090: 2.2×). La idea salta de proyecto a motor general en días.
+- **Soporte de la arquitectura Qwen 4 XP** (fuente 56): en la rama main; **MTP integrado** desde el 1-oct (`qwen4xp_ad_mtp`; en una 3060 suma poco, +0.8 tok/s — compensa solo en memoria unificada tipo DGX Park: 1.55×). La tabla n-grams de 51B se lee del SSD vía **memory mapping** — el diseño «aburrido» que funciona donde [[strata]]-competidores como Free Token clavan todo en RAM y cuelgan la máquina.
+- **Compilación**: ~33 % más rápida en Mac que en PC equivalente (fuente 47).
+- **Server**: continuous batching + ranuras paralelas **activados por defecto desde marzo 2024** (fuente 44) — la concurrencia ya está ahí; el cuello real es la KV cache (40 GB/cliente a 128k contexto).
+- **Endpoint OpenAI-compatible** conecta MinAgent, Pi (plugin LM Studio aparte), agentes Python (fuente 45) y clientes de chat.

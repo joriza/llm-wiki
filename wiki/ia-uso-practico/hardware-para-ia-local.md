@@ -16,11 +16,22 @@ El experimento de la mini laptop de 4 GB (fanless, Windows, CPU sencilla, sin GP
 - **Workaround válido**: `llama-server --host` para servir por red y usar el navegador de otra PC — la máquina débil solo ejecuta.
 - Los modelos ultra-chicos (SmallLM 0.135B) sacrifican justo lo que hace útil a un LLM: idiomas, visión, razonamiento, herramientas, contexto.
 
-## Fuentes de hardware pendientes de absorber (del mismo lote)
+## Absorción del cierre del lote (fuentes 39, 43-48, 51, 55-57 — consolidación 2026-11-11)
 
-GPU integrada de 40 GB (26), CPU sin GPU (35), guía de hardware antes de comprar (43), cientos de usuarios concurrentes (44), Mac Studio vs $200/mes (39) y vs AMD AI PC (47), Kaggle GPU gratis (48), servidor 32 GB VRAM gratis (57).
+**Las reglas de compra (CodeSimple, fuentes 43 y 47):**
 
-> La fuente 27 (827 — no necesitas GPU de 3000 €) se absorbió en esta actualización.
+- **La GPU como materia prima**: ≥16 GB de VRAM se revaloriza, ≤12 GB se deprecia (eBay, 50k anuncios ene-jun 2026); la DRAM subió +172 % en 2025 porque los data centers se llevan hasta el 70 % de la producción. Memoria soldada (DGX Spark, Mac Studio) = prima de escasez irrevendible (Mac Studio M3 Ultra: -89 % en trade-in). Regla: *«compra la tarjeta que un desconocido te quitaría de las manos en una tarde, o no compres nada»*. Equilibrio comprar vs alquilar: ~14 años de uso al 100 %.
+- **Benchmarks miden decodificación; la espera real es preprocesamiento** (94 % del tiempo con 8.5k tokens de contexto). En MoE (la corriente principal en 128 GB) la ventaja de ancho de banda del Mac Studio cae de 2.26× a 1.25×; en prefill AMD gana o empata. AMD mejora **gratis por software** (Hip Blast: 5→36 TFLOPs; kernels Ken 3.6: decodificación ×2, prefill ×3, 147 s→58 s) mientras Apple cobra chip nuevo. Trampas: mini PC baratos con bus a mitad de velocidad por firmware y ROCm roto — las cajas que funcionan (Minisforum MSS1 Max, Framework Desktop) cuestan $600-1000 más, y esa diferencia ES el producto.
+
+**La concurrencia (Cognix, fuente 44):** un usuario = GPU ociosa; continuous batching multiplica throughput ×13 a costa de latencia individual; el cuello real es la **KV cache** (~40 GB/cliente a 128k contexto; 2×RTX Pro 6000 chocan en 3 requests de 64k); RAM compra asientos. Economía: 16×H200 = $0.30/M tokens vs DeepSeek Flash $0.28 — el precio lo fija quien tiene utilización perfecta; excepciones: residencia de datos, fine-tuning propio.
+
+**Mac Studio vs suscripción (Cognix, fuente 39):** Max 128 GB $5.1k punto dulce; Ultra 256 GB para MoE; $20-60/mes → olvida lo local; el costo oculto del local es tiempo.
+
+**MoE gigantes en GPU chica (fuentes 51, 55-56):** [[strata]] (caché de expertos adaptativa + CPU/GPU pipeline + lectura por chunks → 125B a 24 tok/s en una 5070) y el enfoque de [[llama-cpp]] (expertos en RAM vía mmap + tabla n-grams en SSD — ver [[qwen]] 3.8 Flash Next). La regla transversal: **«si no cabe en la despensa (RAM), no corre — cuenta GB de RAM antes de mirar la gráfica»**; ajuste gratis: 1 hilo por núcleo (+48 %).
+
+**La salida sin hardware (fuentes 48, 57):** Kaggle GPU T4×2 gratis (30 h/semana) + Ollama + túnel Cloudflare — para aprender/experimentar, no para producción (ver [[agregacion-apis]]).
+
+Reglas previas (PC de 4 GB, iGPU 40 GB, botiquín 827) se mantienen abajo.
 
 ## El truco de la iGPU como «VRAM barata» (fuente 21)
 

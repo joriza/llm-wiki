@@ -12,3 +12,6 @@ Estilo y valor distintivo: **mide todo en el mismo banco de pruebas** (RTX 3060 
 También es operador real: corre micro-SaaS con APIs online (tube/writer.nichonauta.com) y un parque de GPUs (2× RTX 3060, RTX 5050, 2× RX 6600, RX 590, RX 580, 1050 Ti, 1650) trabajando en generación/clasificación de contenido — lo que le da la perspectiva comparativa local vs servicios en línea.
 
 **Nota de proceso**: la fuente 7 llegó con metadatos UNKNOWN en el raw; la atribución a Nichonauta es inferida del contenido (autorreferencias) y está anotada en su resumen.
+
+
+**Actualización 2026-11-11 (cierre del lote ia-local — fuentes 46, 49, 50, 52; total del canal en resúmenes: 25)**: comparativa Ornith 1.5 9B vs Qwen 3.5 9B (primer fine-tune que mejora al original en su tarea, ver [[ornith]]), lanzamiento y arquitectura de **[[minagent]]** (2 fuentes — su propio agente minimalista basado en Pi) y review de **[[frognano]] 4B** de Microsoft. El canal sigue siendo el banco de pruebas del lote: mide en la misma 3060, documenta errores y saca veredictos por caso de uso (Ornith para código, Qwen para velocidad, Gemma para redacción).
