@@ -2,10 +2,25 @@
 
 - **Tipo**: página de entidad (modelos).
 - **Dominio**: `ia-uso-practico/`.
-- **Actualizado**: 2026-11-11 (fuentes 2, 3, 5 y 6/58 del lote ia-local).
-- **Fuentes**: [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]] · [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] · [[resumen-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad]] · [[resumen-qwen-3-5-4b-el-modelo-gratis-que-supera-al-o3-mini-en-local]] · [[resumen-reto-modelos-2b-como-sacar-el-maximo-provecho-con-ia-local]] (fuente 12 — el 2B medido: 4,4 GB / 136 tok/s, KV más exigente que Gemma).
+- **Actualizado**: 2026-11-11 (fuente 37/58 del lote ia-local — Qwen 3.5 2B fix loops DRY runtime; Qwen 3.8-27B arquitectura híbrida).
+- **Fuentes**: [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]] · [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] · [[resumen-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad]] · [[resumen-qwen-3-5-4b-el-modelo-gratis-que-supera-al-o3-mini-en-local]] · [[resumen-reto-modelos-2b-como-sacar-el-maximo-provecho-con-ia-local]] · [[resumen-probe-todos-los-4-bits-de-qwen3-8-27b-este-es-el-mejor-para-tu-gpu]] · [[resumen-asi-corregi-qwen-3-5-2b-la-solucion-a-las-repeticiones-sin-fine-tuning]].
 
 **Qwen** (Alibaba) es la familia de modelos abiertos que el lote ia-local documenta como **los mejores para desarrollo y uso agéntico** en tamaños de hardware de hogar.
+
+## Qwen 3.5 2B: fix loops DRY runtime (fuente 37)
+
+Problema: con **reasoning activado** → loops infinitos (MTP acelera el loop), benchmark incompleto.
+Solución: **parámetros DRY de llama.cpp** (runtime, sin fine-tuning, inspirado en Liquid AI LoRA anti-loops). Añadir flags DRY al `.bat` → cuando el modelo va a repetir token ya repetido, elige otro probable → **corta loop, no razonamiento**.
+Resultado: benchmark 50 preguntas **completado con reasoning**, velocidades variables, razonamiento + respuesta final, sin loops. Funciona en «cualquier modelo que te esté sucediendo esto».
+
+## Qwen 3.8-27B: arquitectura híbrida y la trampa de «4 bits» (fuente 35)
+
+- 64 capas: **16 atención completa** + **48 atención lineal con compuertas** → solo 16 capas generan KV cache clásica.
+- KV cache: 32,768 valores/token (4 heads × 256 dim) = 64 KB/token a 16 bits → **16 GB solo KV cache a 262k tokens** (sin pesos).
+- **4 bits ≠ una etiqueta**: precisión (FP8/INT4/NF4) × algoritmo (AWQ/GPTQ/calibración) × contenedor (GGUF/EXL3) × kernel (llama.cpp/EXLlama/VLLM/SGLang).
+- **Unsloth UD recetas dinámicas v3**: calibración 45→200+ fragmentos, hasta 14 cuantizaciones/archivo (UD_Q4_XS 14.3 GB, UD_Q4_K_XL 17.6 GB, UD_Q3_K_XL 13.1 GB protegiendo atención).
+- **Por GPU**: RTX 30/40 → **EXL3** (vectorial; 3090 24 GB: 22 GB con ctx 196k → 43+ tok/s corto, 30+ >100k); Blackwell (serie 50) → **NF4** (tensor cores 4-bit nativos; 77.26 vs 77.50 Blue Pro); Apple Silicon → **MLX 4-bit groups of 64** (Mac 32 GB → ~15 GB); producción multi-GPU → **AWQ/GPTQ + VLLM/SGLang**.
+- Modelo 1.71 bits (<6 GB) = versión anterior + reentrenamiento baja precisión (no cuantización post-entrenamiento).
 
 ## Geografía de tamaños (3.5 y 3.6)
 
@@ -25,6 +40,8 @@
 - **4B UD-Q4_K_XL** (2,99 GB): >100 tok/s con MTP; según el leaderboard citado (Artificial Analysis, no verificado) **supera al O3 Mini High** en índice general (~20 vs 16) y lo aplaza en visión, herramientas, formato de código y costo (fuente 6).
 - **35B-A3B MoE** (22 GB MXFP4): no cabe en 12 GB pero con `--n-cpu-moe` corre a ~26 tok/s (3B activos por token).
 - Frente a Gemma 4 12B (post-actualización): Gemma gana en velocidad y equla memoria; Qwen mantiene ventaja en ecosistema/uso agéntico según la fuente 3 (evolución en [[gemma-4]]).
+
+Presión macro: modelo razonamiento híbrido 27B abierto en RTX 3090 usada ($500) o workstation media → **costo/token ≈ electricidad local** → presiona precios cloud (fuente 35).
 
 ## Reglas de uso (del lote)
 
