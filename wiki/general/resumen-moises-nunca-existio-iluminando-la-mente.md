@@ -1,6 +1,6 @@
 # Resumen: Moisés nunca existió — la mayor mentira de la historia
 
-- **Fuente original**: [raw/S6LrC_Ntj54.md](../../raw/general/S6LrC_Ntj54.md) ([vídeo](https://www.youtube.com/watch?v=S6LrC_Ntj54))
+- **Fuente original**: [raw/2026-01-29-moises-nunca-existio-iluminando-la-mente.md](../../raw/general/2026-01-29-moises-nunca-existio-iluminando-la-mente.md) ([vídeo](https://www.youtube.com/watch?v=S6LrC_Ntj54))
 - **Canal**: Iluminando la Mente
 - **Fecha**: 2026-01-29 (51:25, subtítulos automáticos es)
 - **Tipo**: divulgación histórico-arqueológica con tono sensacionalista

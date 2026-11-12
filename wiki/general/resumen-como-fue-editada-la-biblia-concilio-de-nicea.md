@@ -1,6 +1,6 @@
 # Resumen: ¿Cómo fue editada la Biblia? La verdad oscura del Concilio de Nicea
 
-- **Fuente original**: [raw/-nTiFo0EMQk.md](../../raw/general/-nTiFo0EMQk.md) ([vídeo](https://www.youtube.com/watch?v=-nTiFo0EMQk))
+- **Fuente original**: [raw/2026-01-16-como-fue-editada-la-biblia-concilio-de-nicea-iluminando-la-mente.md](../../raw/general/2026-01-16-como-fue-editada-la-biblia-concilio-de-nicea-iluminando-la-mente.md) ([vídeo](https://www.youtube.com/watch?v=-nTiFo0EMQk))
 - **Canal**: Iluminando la Mente
 - **Fecha**: 2026-01-16 (35:30, subtítulos automáticos es)
 - **Tipo**: divulgación histórica-religiosa con tono sensacionalista

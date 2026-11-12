@@ -1,6 +1,6 @@
 # Resumen: El fin del trabajo: la gran desvinculación
 
-- **Fuente original**: [raw/general/TK-u4W0D62k.md](../../raw/general/TK-u4W0D62k.md) ([vídeo](https://www.youtube.com/watch?v=TK-u4W0D62k))
+- **Fuente original**: [raw/general/UNKNOWN-fecha-el-fin-del-trabajo-la-gran-desvinculacion.md](../../raw/general/UNKNOWN-fecha-el-fin-del-trabajo-la-gran-desvinculacion.md) ([vídeo](https://www.youtube.com/watch?v=TK-u4W0D62k))
 - **Canal**: no identificado (metadatos del raw: UNKNOWN — la extracción falló al descargar; completar en re-pass)
 - **Fecha**: desconocida (metadatos UNKNOWN; contenido posterior a 2024: cita *Nexus*, de Yuval Noah Harari)
 - **Idioma y duración**: es (subtítulos automáticos); duración desconocida (metadatos UNKNOWN)

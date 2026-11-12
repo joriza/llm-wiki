@@ -1,6 +1,6 @@
 # Resumen: Sí, la IA te quitará el trabajo. Pero lo que viene después es peor
 
-- **Fuente original**: [raw/general/2026-02-05-si-la-ia-te-quitara-el-trabajo-pero-lo-que-viene-despues-es-peor.md](../../raw/general/2026-02-05-si-la-ia-te-quitara-el-trabajo-pero-lo-que-viene-despues-es-peor.md) ([vídeo](https://www.youtube.com/watch?v=3QuOl29PxyQ))
+- **Fuente original**: [raw/ia-critica-y-fronteras/2026-02-05-si-la-ia-te-quitara-el-trabajo-pero-lo-que-viene-despues-es-peor.md](../../raw/ia-critica-y-fronteras/2026-02-05-si-la-ia-te-quitara-el-trabajo-pero-lo-que-viene-despues-es-peor.md) ([vídeo](https://www.youtube.com/watch?v=3QuOl29PxyQ))
 - **Canal**: Roberto Vaquero
 - **Fecha**: 2026-02-05 (16:09, subtítulos automáticos es)
 - **Tipo**: ensayo-opinión sobre los riesgos sociales de la IA (destrucción de empleo, renta básica como control, vigilancia con Palantir, burbuja de la AGI, transhumanismo) con encuadre «humanista» del canal
@@ -34,4 +34,4 @@ El problema principal de la IA no es el desempleo que generará, sino la «idiot
 - «No existe la AGI» y la burbuja son tesis del canal, en disputa abierta con la industria; registrar como posición.
 - Garbiñeos del ASR normalizados solo aquí: «grabaríamos» (gravaríamos), «risquetos» (snacks/Cheetos), «desagregado/agregado» (fragmento confuso sobre plusvalía). La promoción de la novela «Duro de Pelar» y del video sobre Soros queda excluida de esta síntesis.
 
-- **Páginas de concepto asociadas**: [[atencion-secuestrada]] (la delegación cognitiva en la IA y la «idiotización» como control social). Canal: Roberto Vaquero, una sola fuente en la wiki — sin página de entidad por ahora (deferido en log).
+- **Páginas de concepto asociadas**: [[atencion-secuestrada]] (la delegación cognitiva en la IA y la «idiotización» como control social). Canal: Roberto Vaquero, una sola fuente en la wiki — sin página de entidad por ahora (deferido en log). Reubicado desde `general/` a `ia-critica-y-fronteras/` en la consolidación de la lista mixta (2026-11-12): mejor encaje temático.
