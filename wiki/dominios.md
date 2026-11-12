@@ -19,3 +19,4 @@ Reestructuración aprobada por el usuario (2026-11-11): `ia-uso-practico/` se di
 | `critica-tecnologica/` | Poder algorítmico, medios, política digital y su crítica filosófica y social (Café Kyoto y afines). |
 | `historia-informatica/` | Historia de la computación: software, empresas, lenguajes y hitos (playlist del usuario: Novell, MS-DOS, FORTRAN, FrontPage, Norton, etc.). |
 | `informatica-teoria/` | Fundamentos de programación, redes y teoría de la computación (estructuras de datos, algoritmos, POO, testing, SSH/DNS/ARP/DHCP, Git, Kafka; playlist Informatica-Teoria). |
+| `desarrollo-personal/` | **Crecimiento personal y vida práctica**: suerte y decisión, dinero, gestión del tiempo, flow, hábitos, psicología aplicada; lo afín a IA se cruza con ia-uso-practico (lista del usuario, 2026-11-12). |

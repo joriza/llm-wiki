@@ -1151,3 +1151,9 @@ Registro cronológico de solo adición.
 - Contradicción maker resuelta como gradiente en ai-engineer-perfil (distribución ← builder con fundamentos → supervisión técnica → infraestructura de confianza).
 - Pendientes menores: verificar cifras de redes/papers (Spotify 650 PRs/día, datos GP sin enlaces, paper Junfeng Xiao) antes de elevarlas a referencia.
 - **A continuación: push a remoto (pedido del usuario).**
+
+## [2026-11-12] ingesta | nueva lista «lista3» — dominio nuevo + fuentes 1-2/20
+
+- Nueva lista del usuario: https://www.youtube.com/playlist?list=PLqe2XRWDm9RFf-dFB4K6BYJxM5EmuTO63 — 20 únicas. Listado canónico: .atl/scratch/playlist-lista3.json.
+- **Dominio nuevo creado con confirmación del usuario**: `desarrollo-personal/` (vida práctica, productividad, psicología aplicada; lo afín a IA se cruza con ia-uso-practico). Registrado en dominios.md.
+- Nota de operación: el runner se lanzó sin --one por error y descargó las 2 primeras fuentes (aelpYjJBrV8, PzWnojkylAI) antes de cortarse el proceso (PID 24712 terminado). No se perdió nada; continuar por fetch_yt.py directo con espaciado.
