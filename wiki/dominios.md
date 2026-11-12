@@ -21,3 +21,4 @@ Reestructuración aprobada por el usuario (2026-11-11): `ia-uso-practico/` se di
 | `informatica-teoria/` | Fundamentos de programación, redes y teoría de la computación (estructuras de datos, algoritmos, POO, testing, SSH/DNS/ARP/DHCP, Git, Kafka; playlist Informatica-Teoria). |
 | `desarrollo-personal/` | **Crecimiento personal y vida práctica**: suerte y decisión, dinero, gestión del tiempo, flow, hábitos, psicología aplicada; lo afín a IA se cruza con ia-uso-practico (lista del usuario, 2026-11-12). |
 | `historia-argentina/` | Historia política, territorial y económica de Argentina desde divulgación: siglos XIX-XX, caudillos, federalismo, Malvinas, infraestructura (playlist «Historia Argentina», 2026-11-12). |
+| `economia-argentina/` | Divulgación económica y de seguridad social argentina: jubilaciones, pensiones, sistema previsional y política económica (playlist mixta del usuario, 2026-11-12). |

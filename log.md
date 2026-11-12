@@ -1215,3 +1215,10 @@ Registro cronológico de solo adición.
 - **Pendientes de verificación** (heredados y anotados en los resúmenes): créditos exactos de Plata dulce; cifras sin cita de Planeta Wow (inconsistencia interna 1943/laudo 1899) y Del Plano al Hierro (denominación oficial del túnel); «1863» del raw de Gullo = artefacto (correcto: 1833); elevar datos a referencia solo tras verificación.
 - **Cierre de sesión**: push a remoto y cierre pedido por el usuario.
 
+## [2026-11-12] ingesta | nueva lista mixta — dominio nuevo economia-argentina
+
+- Nueva lista del usuario: https://www.youtube.com/playlist?list=PLqe2XRWDm9RGsT8jzKULykYY792qDz9pQ — 42 entradas, temáticamente mixta (jubilaciones/seguridad social, divulgación diversa). Listado canónico: .atl/scratch/playlist-lista4.json; marcadores de re-pass en .atl/scratch/lista4/.
+- **Dominio nuevo creado con confirmación del usuario**: `economia-argentina/` (divulgación económica y de seguridad social argentina: jubilaciones, pensiones, sistema previsional y política económica). Registrado en dominios.md.
+- Pedido: procesar solo 1 fuente por sesión, ingesta en un único subagente para preservar el contexto principal.
+- Fuente 1/42: JUBILACIÓN ESTATAL: La mayor ESTAFA de la historia (Fundación Libertad y Progreso, 2017-12-06): crítica del sistema de reparto desde Bismarck 1889; desequilibrio demográfico; retención 35% (24,6 jubilación + 6,4 obras sociales + 3,6 seguridad social); analogía de las 6 casas confiscadas; capitalización (Chile/Australia) vs. reestatización 2008 presentada como confiscación kirchnerista — cifras sin citas, registrado como posición del canal — raw raw/economia-argentina/2017-12-06-jubilacion-estatal-la-mayor-estafa-de-la-historia.md — resumen wiki/economia-argentina/resumen-jubilacion-estatal-la-mayor-estafa-de-la-historia.md — entidad creada: fundacion-libertad-y-progreso.
+- Pendientes de la lista: 41 entradas. Consolidación aplazada. Nota: metadatos del vídeo UNKNOWN en el raw (título/canal/duración no recuperados; narración en inglés con subtítulos automáticos); verificación futura si se usa como referencia.
