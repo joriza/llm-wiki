@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (persona/creador de contenido).
 - **Dominio**: `ia-uso-practico/`.
 - **Actualizado**: 2026-11-11.
-- **Fuentes**: 2 resúmenes de la playlist «IA-Recursos» (2026-07-28 y 2026-09-08).
+- **Fuentes**: 2 resúmenes de la playlist «IA-Recursos» (2026-07-28 y 2026-09-08) + 1 del lote «IA-Nuevas formas de trabajo» ([[resumen-los-6-niveles-de-programar-con-ia-el-90-no-pasais-del-3-joaquin-ruiz]] — los 6 niveles de Shapiro, SDD como muro 3→4). Total: 3. Conceptos derivados: [[spec-driven-development]], [[experimento-metr]].
 
 ## Identidad
 

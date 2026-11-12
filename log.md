@@ -1141,3 +1141,13 @@ Registro cronológico de solo adición.
 - **Dominio**: todas en `agentes-de-codigo/`.
 - **Consolidación pendiente (protocolo ítem 15)**: entidades de canales (Alpaca Tech, Yari Taft, Van Der Henst, Joaquín Ruiz, JP Flores/Nerdearla, Fazt Code, Víctor Falcón, Gentleman Programming + Vods, Rob Guldenaar, Victor Robles WEB, VisualPolitik, Articulator ES, Eric Risco, ConquerAI); páginas de concepto candidatas: experimento-METR (aparece en 4 fuentes), ai-engineer-perfil, mercado-laboral-ia, verificacion-como-valor (tema transversal del lote), spec-driven-development (3 fuentes), multiplexores-herdr-config; contradicción maker abierto (Van Der Henst vs Taft vs Guldenaar en gradiente); cruces con [[multiplexores-agentes]], [[odd-metodologia]], [[desarrollo-con-modelos-locales]]; actualizar overview.md y sintesis.md.
 - **Operación**: descargas vía fetch_yt.py directo (el runner --one re-descargaba lo ya procesado; ver fuente 2/18). Espaciado natural por ingesta inline entre descargas.
+
+## [2026-11-12] consolidacion | lote «IA-Nuevas formas de trabajo» (18/18)
+
+- **Conceptos creados (4)**: verificacion-como-valor (tema transversal del lote, 8 fuentes), ai-engineer-perfil (mercado + gradiente maker de 3 posiciones), experimento-metr (4 fuentes que citan el mismo dato; variantes numéricas anotadas), spec-driven-development (idea base + 3 derivas: flujo programático, ASDD, HTML como spec).
+- **Entidades creadas (10)**: yari-taft, christian-van-der-henst, rob-guldenaar, victor-robles-web, visualpolitik, articulator-es, eric-risco, conquerai, nerdearla (JP Flores), victor-falcon.
+- **Entidades actualizadas**: fazt (5 fuentes), gentleman-programming (5, ia-uso-practico), joaquin-ruiz (3, ia-uso-practico); multiplexores-agentes cableado a las 2 fuentes Herdr del lote.
+- **overview.md**: hilo 10 nuevo, contadores a 196 resúmenes, estado de lotes actualizado. **sintesis.md**: hilo 9 nuevo + pendiente de ingesta cerrado (los 6 lotes completos).
+- Contradicción maker resuelta como gradiente en ai-engineer-perfil (distribución ← builder con fundamentos → supervisión técnica → infraestructura de confianza).
+- Pendientes menores: verificar cifras de redes/papers (Spotify 650 PRs/día, datos GP sin enlaces, paper Junfeng Xiao) antes de elevarlas a referencia.
+- **A continuación: push a remoto (pedido del usuario).**

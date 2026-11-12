@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (persona/creador de contenido).
 - **Dominio**: `agentes-de-codigo`.
 - **Actualizado**: 2026-11-11.
-- **Fuentes**: 3 resúmenes de la playlist «IA-Recursos» (2026-04-18 a 2026-09-09).
+- **Fuentes**: 3 resúmenes de la playlist «IA-Recursos» (2026-04-18 a 2026-09-09) + 2 del lote «IA-Nuevas formas de trabajo» ([[resumen-asi-desarrollo-con-varios-agentes-a-la-par-herdr-claude-code-fazt-code]] — canal Fazt Code, flujo Herdr multi-agente — y [[resumen-5-cambios-en-el-desarrollo-de-software-que-estan-pasando-ahora-2026-fazt]] — panorama Rust-vibe-coding/testing/nubes/orquestación). Total: 5.
 
 ## Identidad
 
