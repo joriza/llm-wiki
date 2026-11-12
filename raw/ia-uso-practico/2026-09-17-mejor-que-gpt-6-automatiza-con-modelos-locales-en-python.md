@@ -1,0 +1,64 @@
+# Mejor que GPT 6 🚀 Automatiza con Modelos LOCALES en Python
+
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=Odk17Xwf5tQ)
+- **Canal**: Nichonauta
+- **Publicado**: 2026-09-17
+- **Recopilado**: 2026-11-11
+- **Idioma**: es (subtítulos automáticos es (auto), transcripción literal)
+- **Duración**: 12:32
+
+> Transcripción a partir de los subtítulos automáticos del vídeo, sin normalizar; puede contener errores de reconocimiento. Las marcas de tiempo indican el inicio aproximado de cada bloque.
+
+---
+
+[00:00] El día de hoy vamos a ver cómo automatizar procesos a partir de modelos de lenguaje en local, esto por ejemplo directamente en Python haciendo una solicitud al endpoint estilo Open AI que tiene llama cpp. Para eso lo que vamos a hacer es utilizar algún modelo pequeñito como lo puede ser Gemma 4 E2B, esto simplemente porque para este tipo de tarea no hace falta modelo más grande.
+
+[00:27] ¿Por qué? Lo que sucede con los modelos de lenguaje es que su inteligencia se ve muy afectada por su arnés, por su entorno en el que es ejecutado. Cuando un modelo va a estar recibiendo solicitudes muy similares para hacer tareas muy similares, ya lo tenemos en un arnés preparado para ese tipo de consulta, ese tipo de respuesta, con lo cual aquí no necesariamente es que vamos a necesitar el modelo más inteligente posible, sino que vamos a necesitar un mismo modelo que pueda seguir bien las
+
+[00:59] instrucciones que ya le dimos y que se mantenga así de bien en el tiempo, es decir, que no se actualice de un momento a otro y que dichas solicitudes ahora las tengamos que adaptar a cómo entiende ahora el modelo las cosas. Es por ello que aquí necesitamos simplemente un modelo que funcione bien y adaptar todo, en este caso Gemma 4 E2B. Con este modelito descargado en este caso en QAT, vamos a poder hacer funcionar absolutamente todo esto y hasta va a ser modelo de sobra, ¿por qué? Pues
+
+[01:32] sencillamente porque una vez que esté todo configurado, nos vamos a dar cuenta que hasta el modelo tiene bastante inteligencia de sobra como para lo que queremos hacer. Aquí únicamente lo que estamos haciendo es preparar el archivo {punto} bat para este modelo con los ajustes correctos de ejecución y por ejemplo en este caso ni siquiera hace falta cuantizar la KV caché porque de por sí el modelo requiere poca memoria.
+
+[01:58] En este momento, con estos ajustes, el modelo ya debería de estar funcionando, así que vamos a revisar en el administrador de tareas, así que vamos a revisar en el administrador de tareas y nuestra GPU está completamente vacía.
+
+[02:11] Una vez que ejecuto el punto bat, vemos por aquí que está consumiendo 3.6 GB con su ventana de contexto completa, MTP, MM Pro para visión y demás. Entonces, ¿con esto qué sucede? Que una cosa es nosotros llegar y hacerle cualquier consulta al modelo de lenguaje, en lo cual, pues sí, muy seguramente convendría el modelo más inteligente para que, sin preocuparnos tanto por ingeniería de prompts, la respuesta sea buena. No significa que le vamos a decir cualquier cosa al azar, toda mal
+
+[02:42] escrita, pero pues simplemente necesitamos que funcione bien sin preocuparnos tanto. Sin embargo, al momento de ser utilizado en un arnés, en un entorno más controlado en el que siempre debería de funcionar igual, pues dado que los prompts ya están preparados para dicho modelo, o mejor dicho, los debemos de preparar para dicho modelo, lo único que tendremos que hacer las siguientes veces nada más es llegar y ejecutar, porque teóricamente ya habremos adaptado, ya tendremos la
+
+[03:10] combinación perfecta en cuanto a código, modelo y prompts. Entonces, aquí lo que vamos a hacer, pues va a ser conectarnos a llama.cpp, al endpoint que tiene al estilo OpenAI compatible y simplemente con algo como esto ya estaremos conectados a dicho endpoint. De hecho, si intentamos entrar, aparece error, sí, porque no estamos haciendo ninguna solicitud real, pero aparece algo, y en este caso un JSON, ¿por qué? Pues porque ahí está el endpoint al estilo OpenAI.
+
+[03:40] Luego, en cuanto a API key, API key, podemos poner lo que queramos, de hecho, pues voy a poner directamente llama.cpp, a excepción de que en nuestro punto bat tengamos verdaderas API keys, y luego, pues simplemente ponemos el nombre del modelo que es el que vamos a utilizar, en este caso gema 4 e 2 b. Con estos ajustes al momento de que nosotros intentemos ejecutar este código, que por cierto es este que tenemos por acá en nicho nauta, es para generar ideas de contenido, estaría listo para funcionar
+
+[04:10] para realizar dicho proceso, pero nos vamos a dar cuenta de una cosa más, y es que este código está preparado para hacer múltiples solicitudes en simultáneo. Entonces, otra cosa que pudiésemos hacer es directamente en el punto bat del modelo que vamos a utilizar, aumentar el número de solicitudes paralelas, aumentando la ventana de contexto o no, y una vez con ello al momento de ejecutar veremos que toda esa ventana de contexto bajo los parámetros de ejecución actuales se va a
+
+[04:40] dividir en los cuatro slots o las cuatro posibles respuestas que puede estar generando en simultáneo. Hay otros parámetros, otros flags para hacer que la división sea de forma diferente. Y aquí a tener en cuenta que el consumo debería de ser muy similar, ¿por qué?
+
+[04:55] Pues porque sigue siendo la misma ventana de contexto, simplemente dividida entre cuatro. Una vez con ello pues, si nosotros en este código escribimos aquí alguna temática del que nos genere ideas de contenido, por ejemplo, vamos a poner simplemente dinosaurios, control s para guardar, al momento de ejecutar esto debería de hacer cada una de estas solicitudes al modelo de lenguaje, en este caso gema 4 e 2 b, a partir del endpoint open ai compatible y realizando múltiples solicitudes en paralelo, puede ser que
+
+[05:26] el código intente hacer más de cuatro, es decir, más de las que por acá tenemos preparadas, pero pues lo único que sucede es que cuando termine una comienza con la otra. Entonces, aquí le damos en ejecutar y con ello deberíamos empezar a ver en mismo llama cpp como para cada uno de los slots vamos a ir viendo respuesta, se están generando distintas respuestas en paralelo, distintas respuestas en simultáneo y también vemos los tokens por segundo, que por cierto, en este caso, pues va a
+
+[05:56] ser mayor que al estar haciendo una única consulta en simultáneo. Es decir, los tokens por segundo totales de cada solicitud son menores, pero el conjunto, la multiplicación por cuatro, termina siendo mayor que el estar haciendo solicitud por solicitud. Aquí en este momento lo que estaba haciendo o lo que está haciendo es distintas categorías para a partir de ellas generar distintas subcategorías, para luego de ello sacar todas las ideas de contenido, en vez de directamente al modelo pedirle 1,000
+
+[06:27] ideas de contenido de la nada, por ejemplo, sobre dinosaurios, pues lo primero que se hace es que intente sacar categorías y luego de esas categorías, para cada una, subcategorías, y luego de cada combinación de esa temática con esa categoría, con esa subcategoría, sacar ideas de contenido. Aquí estamos viendo, pues, algo que comúnmente los entornos ya desarrollados, los arneses ya preparados, ayudan a potenciar bastante los modelos de lenguaje y en esta ocasión, eso es simplemente el dividir,
+
+[06:58] el hacer, digamos, que piense una cosa, luego la siguiente, luego la siguiente. Comparado, por ejemplo, que aunque me den el modelo GPT-6 Astra, pues digamos que simplemente pidiéndole 1,000 ideas de contenido, así de la nada, no las va a hacer tan bien. Y aquí con un modelo extremadamente más pequeñito, pues va a funcionar mejor. A la primera, no, significa que a lo mejor, una vez que obtenemos la respuesta, nos daremos cuenta que quizás hace falta adaptar un poquito el prompt o qué sé yo, porque
+
+[07:28] cada modelo de lenguaje actúa diferente, trabaja diferente y entiende las cosas de forma diferente, pero una vez que ya estén los prompts adaptados para ese modelo, con el código para ese modelo y el modelo ejecutado, pues tendremos la combinación, entre comillas, perfecta para funcionar sin que por fuerza necesitemos un modelo más grande en ejecución. Claramente, esta tarea la pudiésemos considerar sencilla, pero para ver si es cierto que es tan sencilla, vuelvo a lo de hace rato.
+
+[07:59] Probemos, por ejemplo, con GPT-6 Astra decirle de la nada que nos genere 1,000 ideas de contenido y seguramente no lo va a generar bien, porque tenemos que ir desglosando, tenemos que ir haciendo pensar al modelo, tenemos que ir rascándole, generando un árbol de temas, subtemas y demás, en este caso, a partir de categorías y subcategorías. De igual forma, si seguimos considerando esta tarea sencilla, pues también otra cosa que es sencilla sí es el modelo, pero hay otra cosa más, el entorno. Son
+
+[08:29] simplemente tres prompts más o menos genéricos para lograr esta respuesta. En tareas más complejas, pues el entorno también va a mejorar. A lo mejor no necesariamente cambiar de modelo de lenguaje, pero el entorno, el arnés donde lo estemos ejecutando, sí, tratando de adaptarse a las fortalezas y debilidades de dicho modelo. Sin embargo, tal como comentaba, esto es para cuando tenemos tareas repetitivas en las que gastamos un montón de tokens y en las que siempre se deben de hacer
+
+[08:57] de la misma forma. Por el contrario, si lo que hacemos es consultas esporádicas, no en el sentido de hacer pocas, sino de que cada una es muy diferente a la anterior, pues en ese caso, claramente convendría más el modelo más inteligente y listo, para no estar siempre pensando en todo momento hasta el más mínimo detalle de cómo preparar el prompt, porque además no solo es pensar en cómo hacer el prompt, es probarlo, probarlo, corregirlo, iterarlo hasta lograr las versiones definitivas. Así que, bueno,
+
+[09:29] ¿qué estamos viendo aquí? Varias cosas. Cómo los modelos de lenguaje pequeños también son útiles, cómo el arnés de ejecución importa mucho, cómo con un modelo pequeño y rápido podemos generar millones de tokens sin problema en pocos minutos, cómo conectar un código en Python a un endpoint personalizado como lo puede ser de llama cpp, cómo realizar múltiples solicitudes en paralelo y cómo potenciar modelos de lenguaje, porque menciono lo de hace rato, ni GPT-6 Astra haría bien a la primera el generar 1000
+
+[10:03] ideas de contenido, porque necesitamos desglosar y no a como el modelo se le ocurra, sino a como nosotros entendemos. No solo es que GPT-6 Astra esto no lo pueda hacer a la primera, sino que además sería lentísimo y carísimo comparado con lo que conseguimos aquí, que es de mejor calidad y no solo de mejor calidad, sino que muchísimo más rápido y muchísimo más económico, tal como estamos viendo. Vamos a ver algunos ejemplos, por ejemplo, y aquí tenemos la biomecánica de la carrera, cómo las
+
+[10:33] extremidades de los dinosaurios indicaron sus patrones de movimiento. Ya por último, una cosa más a tener en cuenta es que en este caso este arnés, este entorno no es únicamente prompts, sino que también incluye código y otra cosa más, podemos descanibalizar aquellas líneas que son muy similares o idénticas, eliminarlas y quedarnos solo con las más representativas de todo el conjunto, pero que sean realmente diferentes. Esto, por más que se lo pidamos a un modelo de lenguaje, por sí
+
+[11:05] solo no va a poder ni generar a la primera 1000 líneas buenas, ni no repetir nada o que sea cada una con de la anterior completamente diferente. Así que otra cosa de los arneses comúnmente es, pues la parte de código, así que aquí simplemente vamos a instalar la dependencia que nos falta en Python y con ello vamos a poder ejecutar. Aquí tenemos ciertos parámetros de cómo se va a descanibalizar todo este contenido y al momento de ejecutar esto ya no requiere modelos de lenguaje como tal.
+
+[11:36] Sin embargo, si requiere otro tipo de modelos, que en este caso es un diccionario, por así decirlo, en idioma español para a partir de ahí quedarnos solo con los más diferentes. Nos vamos a descanibalizados y por aquí, que solo nos quedamos con 100. Sí, porque es lo que indica el código y porque el objetivo de haber generado muchos es tratar de rascar, en este caso, todas las posibles ideas de contenido, pero luego seguramente más de una se va bastante. Así que estamos intentando
+
+[12:03] limpiar. De más de 1.000 nos quedamos en 100. Sí, pero porque lo dice el código, pero tampoco es obligatorio, ¿no? Podemos quedarnos con 500 o con lo que nosotros queramos. Y así de simple nos quedamos con las 500 más diferentes, siendo exactamente 500, siendo muy rápido y siendo buena forma de que verdaderamente sean diferentes, en vez de realizar todo directamente con modelos de lenguaje. Si quieres seguir viendo este tipo de vídeos, simplemente dale a Like y suscríbete.

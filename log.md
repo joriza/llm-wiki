@@ -993,3 +993,10 @@ Registro cronológico de solo adición.
 - Procesada bajo instrucción del usuario («procese solo 1 fuente mas») — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 44/58.
 - Entidad [[informatica-teoria/cognix]] actualizada con 6ª fuente en ia-uso-practico. Concepto [[ia-uso-practico/multiplexores-agentes]] reforzado (continuous batching, asientos vs velocidad, KV cache). Entidad [[llama-cpp]] refuerza server con continuous batching por defecto. Economía auto-alojamiento vs APIs documentada ($0,30 vs $0,28 / 1M tok).
 - Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 45-58 (~14) + la 54 UNKNOWN.
+
+## [2026-11-11] ingesta | lote ia-local — fuente 45/58 (pedido: «procese solo 1 fuente mas»)
+
+- Fuente 45/58: Mejor que GPT 6 — Automatiza con Modelos LOCALES en Python (tutorial Nichonauta: Gemma 4 E2B 3.6 GB VRAM + llama.cpp server OpenAI-compatible + Python; arnés (prompts estructurados + código + deduplicación) supera a GPT-6 en tareas repetitivas; árbol categorías→subcategorías→ideas en paralelo (4 slots); post-proceso código descanibaliza 1000+ → 100-500 únicas; millones tokens gratis/local; cuándo: tareas repetitivas misma estructura vs consultas esporádicas distintas; entorno = prompts + código + parámetros fijos; una vez adaptado: llegar y ejecutar) — raw raw/ia-uso-practico/2026-09-17-mejor-que-gpt-6-automatiza-con-modelos-locales-en-python.md — resumen wiki/ia-uso-practico/resumen-mejor-que-gpt-6-automatiza-con-modelos-locales-en-python.md
+- Procesada bajo instrucción del usuario («procese solo 1 fuente mas») — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 45/58.
+- Entidad [[ia-uso-practico/nichonauta]] actualizada (fuente 21 en lote). Modelo [[gemma-4]] refuerza E2B para arnés automatización (3.6 GB, MTP, visión). Entidad [[llama-cpp]] refuerza server OpenAI-compatible, parallel slots, continuous batching. Concepto [[ia-uso-practico/ia-local-texto]] (modelo más pequeño + arnés = multiplicador).
+- Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 46-58 (~13) + la 54 UNKNOWN.
