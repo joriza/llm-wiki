@@ -28,6 +28,7 @@ Los resultados PISA argentinos no son una novedad alarmista sino una caída sobr
 ## Páginas de concepto asociadas
 
 - **Páginas de concepto asociadas**: cruce directo con [[resumen-no-es-crisis-es-colapso-educacion-argentina]] (fuente 40/42 de la misma lista: Mariano Narodowski sobre el «colapso» educativo — 10 de cada 100 que terminan el secundario en tiempo y forma, sin repitencia y gobiernos que no se hacen cargo de los aprendizajes; ambos coinciden en el diagnóstico de la repitencia sin recuperación y en la educación como competencia provincial abandonada). Complementa a [[resumen-sacarse-un-10-sin-saber-nada-la-educacion-en-la-era-de-chatgpt-bilinkis]] (desarrollo-personal/: la IA como atajo escolar y la motivación intrínseca). Relación con [[atencion-secuestrada]] (general/: pantallas, dispositivos y apuestas como captura de la atención adolescente).
+- **Familia PISA de la lista mixta (dedupe verificado, añadido al ingestar la fuente 34/42)**: esta fuente (36/42, canal educativo no identificado, monólogo opinionístico) convive con [[resumen-argentina-muy-mal-en-las-pruebas-pisa]] (34/42, Telenoche, informe televisivo con docente y Rieznik), [[resumen-pisa-argentina-en-crisis-educativa]] (35/42, LA NACION, panel con Mercedes Miguel) y [[resumen-los-pibes-estan-cada-vez-mas-tarados]] (37/42, Abigail Luna, polemista con encuestas de humor) — cuatro videos distintos (otros ids, canales, formatos y fechas) sobre la misma noticia PISA; las cifras coinciden porque citan la misma fuente, no porque se copien: no son duplicados.
 
 ## Advertencias
 
