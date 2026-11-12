@@ -4,7 +4,7 @@
 - **Canal**: Inteligencia Artificial (página de entidad pendiente de consolidación).
 - **Publicado**: 2026-01-28. **Duración**: 17:20.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=yLKuq6SpMfs).
-- **Raw**: [raw/inteligencia-artificial/2026-01-28-clawdbot-es-una-locura-asistente-ia-inteligencia-artificial.md](../../raw/inteligencia-artificial/2026-01-28-clawdbot-es-una-locura-asistente-ia-inteligencia-artificial.md) (transcripción local generada con faster-whisper por bloqueo de timedtext; puede contener errores de reconocimiento). Existe también variante de subtítulos automáticos del mismo vídeo: [raw/inteligencia-artificial/2026-01-28-clawdbot-es-una-pta-locura-el-asistente-de-ia-que-lo-hace-todo.md](../../raw/inteligencia-artificial/2026-01-28-clawdbot-es-una-pta-locura-el-asistente-de-ia-que-lo-hace-todo.md) (fallback de `.atl/fetch_yt.py`, literal, 56 bloques).
+- **Raw**: [raw/ia-critica-y-fronteras/2026-01-28-clawdbot-es-una-locura-asistente-ia-inteligencia-artificial.md](../../raw/ia-critica-y-fronteras/2026-01-28-clawdbot-es-una-locura-asistente-ia-inteligencia-artificial.md) (transcripción local generada con faster-whisper por bloqueo de timedtext; puede contener errores de reconocimiento). Existe también variante de subtítulos automáticos del mismo vídeo: [raw/ia-critica-y-fronteras/2026-01-28-clawdbot-es-una-pta-locura-el-asistente-de-ia-que-lo-hace-todo.md](../../raw/ia-critica-y-fronteras/2026-01-28-clawdbot-es-una-pta-locura-el-asistente-de-ia-que-lo-hace-todo.md) (fallback de `.atl/fetch_yt.py`, literal, 56 bloques).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (agentes personales, seguridad y prompt injection).
 - **Disposición de la ingesta**: Nueva.
 

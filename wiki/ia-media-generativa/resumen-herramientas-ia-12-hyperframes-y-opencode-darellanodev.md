@@ -4,7 +4,7 @@
 - **Canal**: [[darellanodev]].
 - **Publicado**: 2026-07-05. **Duración**: 15:06.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=jYawp25fCzc).
-- **Raw**: [raw/inteligencia-artificial/2026-07-05-herramientas-ia-12-creando-video-con-hyperframes-y-opencode.md](../../raw/inteligencia-artificial/2026-07-05-herramientas-ia-12-creando-video-con-hyperframes-y-opencode.md) (subtítulos automáticos, transcripción literal).
+- **Raw**: [raw/ia-media-generativa/2026-07-05-herramientas-ia-12-creando-video-con-hyperframes-y-opencode.md](../../raw/ia-media-generativa/2026-07-05-herramientas-ia-12-creando-video-con-hyperframes-y-opencode.md) (subtítulos automáticos, transcripción literal).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]].
 - **Disposición de la ingesta**: Nueva.
 

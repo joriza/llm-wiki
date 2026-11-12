@@ -4,7 +4,7 @@
 - **Canal**: AICodeKing (página de entidad pendiente de consolidación).
 - **Publicado**: 2025-05-25. **Duración**: 09:39.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=dfBQ3Rui1Gw).
-- **Raw**: [raw/inteligencia-artificial/2025-05-25-mammouth-ai-chat-platform-20-models-10-dollars-aicodeking.md](../../raw/inteligencia-artificial/2025-05-25-mammouth-ai-chat-platform-20-models-10-dollars-aicodeking.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-uso-practico/2025-05-25-mammouth-ai-chat-platform-20-models-10-dollars-aicodeking.md](../../raw/ia-uso-practico/2025-05-25-mammouth-ai-chat-platform-20-models-10-dollars-aicodeking.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: pendientes de consolidación (plataformas todo-en-uno de IA, reprompting, modo razonamiento).
 - **Disposición de la ingesta**: Nueva.
 

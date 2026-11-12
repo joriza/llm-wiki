@@ -4,7 +4,7 @@
 - **Canal**: [[gentleman-programming]] (Alan).
 - **Publicado**: 2024-05-27. **Duración**: 31:26.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=6HSc2l0oyws).
-- **Raw**: [raw/inteligencia-artificial/2024-05-27-construye-tu-segundo-cerebro-digital-obsidian-nvim-organiza-tu-vida.md](../../raw/inteligencia-artificial/2024-05-27-construye-tu-segundo-cerebro-digital-obsidian-nvim-organiza-tu-vida.md) (subtítulos automáticos, transcripción literal).
+- **Raw**: [raw/ia-critica-y-fronteras/2024-05-27-construye-tu-segundo-cerebro-digital-obsidian-nvim-organiza-tu-vida.md](../../raw/ia-critica-y-fronteras/2024-05-27-construye-tu-segundo-cerebro-digital-obsidian-nvim-organiza-tu-vida.md) (subtítulos automáticos, transcripción literal).
 - **Páginas de concepto asociadas**: — (sin IA: ver nota sobre la fuente).
 - **Disposición de la ingesta**: Nueva.
 

@@ -4,7 +4,7 @@
 - **Canal**: Alejavi Rivera ([[alejavi-rivera]]).
 - **Publicado**: 2024-08-18. **Duración**: 16:18.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=223beR6eoAw).
-- **Raw**: [raw/inteligencia-artificial/2024-08-18-como-midjourney-gratis-mejor-sin-censura-flux1-alejavi-rivera.md](../../raw/inteligencia-artificial/2024-08-18-como-midjourney-gratis-mejor-sin-censura-flux1-alejavi-rivera.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-media-generativa/2024-08-18-como-midjourney-gratis-mejor-sin-censura-flux1-alejavi-rivera.md](../../raw/ia-media-generativa/2024-08-18-como-midjourney-gratis-mejor-sin-censura-flux1-alejavi-rivera.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[generacion-local-de-imagenes]] (FLUX.1 + acceso gratuito).
 - **Disposición de la ingesta**: Nueva.
 

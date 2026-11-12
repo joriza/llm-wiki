@@ -4,7 +4,7 @@
 - **Canal**: Xavier Mitjana.
 - **Publicado**: 2026-09-27. **Duración**: 18:52.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=1E1y9iQcu6I).
-- **Raw**: [raw/inteligencia-artificial/2026-09-27-asi-se-usa-la-ia-en-2026-olvida-los-prompts.md](../../raw/inteligencia-artificial/2026-09-27-asi-se-usa-la-ia-en-2026-olvida-los-prompts.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-uso-practico/2026-09-27-asi-se-usa-la-ia-en-2026-olvida-los-prompts.md](../../raw/ia-uso-practico/2026-09-27-asi-se-usa-la-ia-en-2026-olvida-los-prompts.md) (transcripción con marcas de tiempo).
 - **Disposición de la ingesta**: Nueva.
 
 ## Tesis central

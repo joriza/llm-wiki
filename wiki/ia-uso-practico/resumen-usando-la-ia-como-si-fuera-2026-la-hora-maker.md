@@ -4,7 +4,7 @@
 - **Canal**: [[la-hora-maker]].
 - **Publicado**: 2026-03-13. **Duración**: 42:48.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=d6moRNMK5ik).
-- **Raw**: [raw/inteligencia-artificial/2026-03-13-usando-la-inteligencia-artificial-como-si-fuera-2026.md](../../raw/inteligencia-artificial/2026-03-13-usando-la-inteligencia-artificial-como-si-fuera-2026.md) (subtítulos automáticos de YouTube, transcripción literal con marcas de tiempo). Existe también una transcripción ASR alternativa del mismo vídeo: [raw/inteligencia-artificial/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md](../../raw/inteligencia-artificial/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md) (faster-whisper small; la ruta ASR se usó por el bloqueo de timedtext antes de confirmar que el fallback de subtítulos funcionaba para este vídeo).
+- **Raw**: [raw/ia-uso-practico/2026-03-13-usando-la-inteligencia-artificial-como-si-fuera-2026.md](../../raw/ia-uso-practico/2026-03-13-usando-la-inteligencia-artificial-como-si-fuera-2026.md) (subtítulos automáticos de YouTube, transcripción literal con marcas de tiempo). Existe también una transcripción ASR alternativa del mismo vídeo: [raw/ia-uso-practico/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md](../../raw/ia-uso-practico/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md) (faster-whisper small; la ruta ASR se usó por el bloqueo de timedtext antes de confirmar que el fallback de subtítulos funcionaba para este vídeo).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (skills, MCP, spec-driven, agentes).
 - **Disposición de la ingesta**: Nueva.
 

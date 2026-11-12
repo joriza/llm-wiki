@@ -4,7 +4,7 @@
 - **Canal**: Valeria Londoño (entidad pendiente de consolidación).
 - **Publicado**: 2026-07-13. **Duración**: 22:06.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=ZD9VE4l0WnI).
-- **Raw**: [raw/inteligencia-artificial/2026-07-13-claude-google-flow-plan-gratuito-13-000-mes.md](../../raw/inteligencia-artificial/2026-07-13-claude-google-flow-plan-gratuito-13-000-mes.md) (subtítulos automáticos, transcripción literal).
+- **Raw**: [raw/ia-uso-practico/2026-07-13-claude-google-flow-plan-gratuito-13-000-mes.md](../../raw/ia-uso-practico/2026-07-13-claude-google-flow-plan-gratuito-13-000-mes.md) (subtítulos automáticos, transcripción literal).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (Claude como investigador y generador de prompts); [[generacion-local-de-imagenes]] ( Nano Banana 2 para imagen).
 - **Disposición de la ingesta**: Nueva.
 

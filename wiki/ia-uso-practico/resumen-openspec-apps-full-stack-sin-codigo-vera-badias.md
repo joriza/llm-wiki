@@ -4,7 +4,7 @@
 - **Canal**: Vera Badías (página de entidad pendiente de consolidación).
 - **Publicado**: 2025-10-15. **Duración**: 13:22.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=oHDbRdfDUc8).
-- **Raw**: [raw/inteligencia-artificial/2025-10-15-openspec-apps-full-stack-sin-codigo-vera-badias.md](../../raw/inteligencia-artificial/2025-10-15-openspec-apps-full-stack-sin-codigo-vera-badias.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-uso-practico/2025-10-15-openspec-apps-full-stack-sin-codigo-vera-badias.md](../../raw/ia-uso-practico/2025-10-15-openspec-apps-full-stack-sin-codigo-vera-badias.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (desarrollo dirigido por especificaciones).
 - **Disposición de la ingesta**: Nueva (raw generado el 2026-11-10 en el lote delegado; resumen completado el 2026-11-11 tras verificarse que no existía).
 

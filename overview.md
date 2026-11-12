@@ -11,7 +11,9 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 | `critica-tecnologica/` | 11 (Café Kyoto) | 9 | 1 | 11 | Estable |
 | `ia-critica-y-fronteras/` | 12+ | 8 | 5 | 12+ | Activo (Gary Marcus, IA China, world models) |
 | `ia-media-generativa/` | 10+ | 2 | 2 | 10+ | Activo (FLUX, ComfyUI, clonación voz) |
-| `ia-uso-practico/` | **57/58 + 1 privada** (lote IA Local COMPLETADO) | **14+** | **39** | **57** | ✅ **Consolidado 2026-11-11** (llama.cpp, Qwen 3.8/Qwen 4 XP, Strata, agentes locales) |
+| `ia-local/` | **38** (lote IA Local) | **5+** | **21** | **38** | ✅ **Consolidado 2026-11-11** (motores, modelos, hardware) |
+| `agentes-de-codigo/` | **17** (IA-Recursos + lote) | **2** | **8** | **17** | Activo (Pi, MinAgent, DeepSeek Harness, OpenCode, Herdr, ODD) |
+| `ia-uso-practico/` | **reducido** (APIs gratis, evaluación, productividad, Odysseus) | **7** | **10** | ~25 | Activo (agregación de APIs, herramientas) |
 | `informatica-teoria/` | 10+ | 8 | 2 | 10+ | Activo (algoritmos, POO, testing, redes) |
 | `historia-informatica/` | 12+ | 4 | 10 | 12+ | Estable |
 | `python-practico/` | 7 (lote completo) | 6 | 17 | 7 | ✅ Consolidado |
@@ -20,7 +22,9 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 
 ---
 
-## Hilo temático 9: IA Local (ia-uso-practico) — ✅ COMPLETADO Y CONSOLIDADO (2026-11-11)
+## Hilo temático 9: IA Local (ia-local/) — ✅ COMPLETADO Y CONSOLIDADO (2026-11-11)
+
+> **Reestructuración de dominios (2026-11-11, aprobada por el usuario)**: `ia-uso-practico/` se dividió en 3 — `ia-local/` (motores, modelos, hardware, canales del banco de pruebas), `agentes-de-codigo/` (Pi, MinAgent, DeepSeek Harness, OpenCode, Herdr, ODD) e `ia-uso-practico/` reducido (APIs gratis, evaluación, productividad, asistentes). Los 60 raws del bucket fantasma `raw/inteligencia-artificial/` se redistribuyeron a los dominios de sus resúmenes; `general/` (vacío) se eliminó. Ver `wiki/dominios.md`.
 
 **Playlist**: https://www.youtube.com/playlist?list=PLeaYlHPISoSQ (58 videos, dominio `ia-uso-practico/`)
 

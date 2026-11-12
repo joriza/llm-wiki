@@ -4,7 +4,7 @@
 - **Dominio**: `general/`.
 - **Actualizado**: 2026-11-10.
 - **Fuentes**: Gustavo Entrala (entrevista a Gary Marcus), 2026-11-07.
-- **Raw**: [raw/inteligencia-artificial/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md](../../raw/inteligencia-artificial/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md).
+- **Raw**: [raw/ia-critica-y-fronteras/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md](../../raw/ia-critica-y-fronteras/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md).
 
 ## Identidad
 

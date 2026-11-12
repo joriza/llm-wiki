@@ -4,7 +4,7 @@
 - **Canal**: Raúl Marín - Refresh | Lo último sin hype (página de entidad pendiente de consolidación).
 - **Publicado**: 2026-01-22. **Duración**: 25:27.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=Ieanl2rmqkg).
-- **Raw**: [raw/inteligencia-artificial/2026-01-22-figma-ya-no-vale-pencil-dev-y-magicpath-cambian-el-juego.md](../../raw/inteligencia-artificial/2026-01-22-figma-ya-no-vale-pencil-dev-y-magicpath-cambian-el-juego.md) (subtítulos automáticos, transcripción literal).
+- **Raw**: [raw/ia-uso-practico/2026-01-22-figma-ya-no-vale-pencil-dev-y-magicpath-cambian-el-juego.md](../../raw/ia-uso-practico/2026-01-22-figma-ya-no-vale-pencil-dev-y-magicpath-cambian-el-juego.md) (subtítulos automáticos, transcripción literal).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (Pencil conecta con Cursor/Claude Code vía MCP).
 - **Disposición de la ingesta**: Nueva.
 

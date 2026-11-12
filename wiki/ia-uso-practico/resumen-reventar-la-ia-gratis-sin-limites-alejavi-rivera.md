@@ -4,7 +4,7 @@
 - **Canal**: Alejavi Rivera ([[alejavi-rivera]]).
 - **Publicado**: 2026-06-28. **Duración**: 27:11.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=HreBx99BDsc).
-- **Raw**: [raw/inteligencia-artificial/2026-06-28-reventar-la-ia-gratis-sin-limites-alejavi-rivera.md](../../raw/inteligencia-artificial/2026-06-28-reventar-la-ia-gratis-sin-limites-alejavi-rivera.md) (transcripción de subtítulos manuales con marcas de tiempo).
+- **Raw**: [raw/ia-uso-practico/2026-06-28-reventar-la-ia-gratis-sin-limites-alejavi-rivera.md](../../raw/ia-uso-practico/2026-06-28-reventar-la-ia-gratis-sin-limites-alejavi-rivera.md) (transcripción de subtítulos manuales con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (OpenHands, Paper Click, Gstack), [[generacion-local-de-imagenes]] (ComfyUI, HyperFrame).
 - **Disposición de la ingesta**: Nueva.
 

@@ -3,7 +3,7 @@
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=cE6AF_kNCRA) (fuente 46/57 del lote IA-Recursos)
 - **Canal**: Juan David V — Aprende a invertir
 - **Publicado**: 2026-07-29 · Duración 24:31
-- **Raw**: `raw/inteligencia-artificial/2026-07-29-llevo-13-anos-analizando-acciones-la-ia-acaba-de-cambiar-mi-metodo.md` (subtítulos automáticos, transcripción literal)
+- **Raw**: `raw/ia-uso-practico/2026-07-29-llevo-13-anos-analizando-acciones-la-ia-acaba-de-cambiar-mi-metodo.md` (subtítulos automáticos, transcripción literal)
 
 ## Idea central
 

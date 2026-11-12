@@ -3,7 +3,7 @@
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=5JJgfcJxyyg) (fuente 50/57 del lote IA-Recursos)
 - **Canal**: [[fazt]]
 - **Publicado**: 2026-09-09 · Duración 17:42
-- **Raw**: `raw/inteligencia-artificial/2026-09-09-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos.md` (subtítulos automáticos, transcripción literal)
+- **Raw**: `raw/ia-uso-practico/2026-09-09-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos.md` (subtítulos automáticos, transcripción literal)
 
 ## Idea central
 

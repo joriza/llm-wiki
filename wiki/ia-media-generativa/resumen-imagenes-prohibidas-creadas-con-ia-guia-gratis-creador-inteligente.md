@@ -4,7 +4,7 @@
 - **Canal**: Creador Inteligente (página de entidad pendiente de consolidación).
 - **Publicado**: 2024-09-08. **Duración**: 24:05.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=bN94_jK12bo).
-- **Raw**: [raw/inteligencia-artificial/2024-09-08-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente.md](../../raw/inteligencia-artificial/2024-09-08-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-media-generativa/2024-09-08-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente.md](../../raw/ia-media-generativa/2024-09-08-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[generacion-local-de-imagenes]] (FLUX + acceso gratuito).
 - **Disposición de la ingesta**: Nueva.
 

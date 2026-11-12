@@ -38,7 +38,9 @@ Registro de hilos temáticos por dominio. Se actualiza en cada consolidación.
 - **Entidades**: [[darellanodev]] (Herramientas IA: Remotion+OpenCode, HyperFrames+OpenCode), [[alejavi-rivera]] (8 fuentes: FLUX, IA china, NotebookLM, open source, VPS/Docker, clonación voz, FreeLLMAPI), [[creatuia]], [[academia-sd]], [[xavier-mitjana]], [[codesimple]], [[alan-daitch]]
 - **Pendientes**: Fooocus/ComfyUI tutoriales, FLUX Kontext, marcas agua invisibles (SynthID 5 agujeros)
 
-## Hilo 6: IA Uso Práctico (ia-uso-practico/) — **✅ CONSOLIDADO (lote IA Local completo, 2026-11-11)**
+## Hilo 6: IA Local y agentes (ia-local/ + agentes-de-codigo/ + ia-uso-practico/) — **✅ CONSOLIDADO (2026-11-11)**
+
+> **Reestructuración aprobada** (2026-11-11): 3 dominios nuevos de la división de ia-uso-practico; raw/inteligencia-artificial redistribuido; general/ eliminado (ver wiki/dominios.md).
 
 - **Playlist**: IA Local (58 videos, PLeaYlHPISoSQ) — **57 procesadas + 1 SKIP (video privado)**.
 - **Entidades nuevas del cierre**: [[strata]] (motor a medida para Qwen 3.8 Flash Next: caché de expertos adaptativa 72 %, CPU+GPU pipeline, lectura chunked 14-26×; la idea ya saltó a llama.cpp vía PR #29887), [[bitnet]] / [[ternary-bonsai]] (LLMs ternarios 1.58-bit — QAT con straight-through estimator; el muro era el reentrenamiento, Bonsai 2 lo rompe con distilación desde pesos reales: Qwen 3.8 27B a 5.9 GB, 98.2 %), [[ornith]] 1.5 9B y [[frognano]] 4B (fine-tunes de Qwen: el primero gana en desarrollo agéntico, el segundo no reemplaza al original), [[minagent]] (agente terminal minimalista sobre Pi, «no sobreingeniería»), [[lm-studio]] (gestor: JIT loading, truco KV F16→Q8, MCP Exa, Copilot local Ask/Plan), [[jorge-marfil]] (laboratorio con trampas: **Qwen 3.8 Flash Next 3-bit en una 3060 = 17/17, empata con Claude Opus 5**), [[abi]] (Kaggle GPU gratis vía agente), [[bartowski]] (cuantizador de referencia GGUF).

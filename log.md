@@ -193,7 +193,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=12sBcsVMPVE — CreaTuIA, publicado 2025-10-19 (14:14).
-- Raw: raw/inteligencia-artificial/2025-10-19-4-mejores-ias-sin-censura-imagenes-gratis-creatuiia.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-media-generativa/2025-10-19-4-mejores-ias-sin-censura-imagenes-gratis-creatuiia.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-4-mejores-ias-sin-censura-imagenes-gratis-creatuiia (resumen de fuente).
 - Nota: fuente 1/57 de la playlist; primer canal nuevo del lote (CreaTuIA), entidad aplazada. Reseña de herramientas con contenido sensible («sin censura») registrada como contenido de la fuente.
 
@@ -201,7 +201,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=dfBQ3Rui1Gw — AICodeKing, publicado 2025-05-25 (09:39).
-- Raw: raw/inteligencia-artificial/2025-05-25-mammouth-ai-chat-platform-20-models-10-dollars-aicodeking.md (transcripción de subtítulos automáticos en con marcas de tiempo).
+- Raw: raw/ia-uso-practico/2025-05-25-mammouth-ai-chat-platform-20-models-10-dollars-aicodeking.md (transcripción de subtítulos automáticos en con marcas de tiempo).
 - Páginas creadas: resumen-mammouth-plataforma-chat-20-modelos-10-dolares-aicodeking (resumen de fuente, en español).
 - Nota: fuente 2/57 de la playlist; primera fuente en inglés del lote (resumen en español por convención). El encabezado del raw dice «español» por artefacto del extractor; la transcripción no fue modificada. Primer intento de raw tenía fecha/slug inventados: borrado y regenerado desde la metadata real.
 
@@ -209,7 +209,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=aGaD7noI2xQ — Código Trading, publicado 2025-09-25 (19:03).
-- Raw: raw/inteligencia-artificial/2025-09-25-mejor-ia-gratis-trading-2025-codigo-trading.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-uso-practico/2025-09-25-mejor-ia-gratis-trading-2025-codigo-trading.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-mejor-ia-gratis-trading-2025-codigo-trading (resumen de fuente).
 - Nota: fuente 3/57 de la playlist; tercer canal nuevo del lote (Código Trading), entidad aplazada. Contenido con interés comercial del canal (formación de pago) registrado como tal; la fuente incluye advertencia de riesgo explícita.
 
@@ -217,7 +217,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=O1IKmUk2Dzs — CreaTuIA, publicado 2025-10-16 (17:35).
-- Raw: raw/inteligencia-artificial/2025-10-16-mejor-ia-gratis-ilimitada-imagenes-sin-censura-creatuiia.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-media-generativa/2025-10-16-mejor-ia-gratis-ilimitada-imagenes-sin-censura-creatuiia.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-mejor-ia-gratis-ilimitada-imagenes-sin-censura-creatuiia (resumen de fuente).
 - Nota: fuente 4/57 de la playlist; la herramienta reseñada es Fooocus (transcrito «Focus»), identificación segura por la interfaz descrita. Contenido sensible («sin censura») registrado como contenido de la fuente.
 
@@ -225,7 +225,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=Fshy6Ele2UQ — MUSYN, publicado 2025-07-22 (18:01).
-- Raw: raw/inteligencia-artificial/2025-07-22-nueva-herramienta-imagen-ia-sin-censura-gratis-musyn.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-media-generativa/2025-07-22-nueva-herramienta-imagen-ia-sin-censura-gratis-musyn.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-nueva-herramienta-imagen-ia-sin-censura-gratis-musyn (resumen de fuente).
 - Nota: fuente 5/57 de la playlist; mismo software (Fooocus) que la fuente 4/57 pero de otro canal y con otro enfoque (requisitos bajos, Colab/móvil, tiempos cronometrados). Divergencia de requisitos entre ambas fuentes anotada para verificar en consolidación (4/6 GB vs 8 GB RAM; compatibilidad AMD).
 
@@ -233,7 +233,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=qPtUhkAmZOc — Academia SD, publicado 2025-06-27 (09:01).
-- Raw: raw/inteligencia-artificial/2025-06-27-flux-kontext-en-local-y-gratis-academia-sd.md (transcripción de subtítulos manuales es con marcas de tiempo).
+- Raw: raw/ia-media-generativa/2025-06-27-flux-kontext-en-local-y-gratis-academia-sd.md (transcripción de subtítulos manuales es con marcas de tiempo).
 - Páginas creadas: resumen-flux-kontext-en-local-y-gratis-academia-sd (resumen de fuente).
 - Nota: fuente 6/57 de la playlist; primera fuente del lote con subtítulos manuales desde la 6 (texto limpio). Tutorial técnico de ComfyUI + GGUF; quinto canal nuevo del lote (Academia SD), entidad aplazada.
 
@@ -241,7 +241,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=UlvCl6rQK8U — Xavier Mitjana, publicado 2025-09-07 (36:16).
-- Raw: raw/inteligencia-artificial/2025-09-07-todas-las-herramientas-ia-gratis-ilimitadas-xavier-mitjana.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-uso-practico/2025-09-07-todas-las-herramientas-ia-gratis-ilimitadas-xavier-mitjana.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-todas-las-herramientas-ia-gratis-ilimitadas-xavier-mitjana (resumen de fuente).
 - Nota: fuente 7/57 de la playlist; guía general de IA local (LM Studio, Ollama, ComfyUI; Gemma, Qwen, Wan, FLUX Kontext Dev). Patrocinio HP transcrito en el raw y excluido de la síntesis. Sexto canal nuevo del lote (Xavier Mitjana), entidad aplazada.
 
@@ -249,7 +249,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=HXo47zMFQyk — IA Paso a Paso, publicado 2024-11-11 (31:38).
-- Raw: raw/inteligencia-artificial/2024-11-11-comfyui-tutorial-completo-flux-dev-sd35-ia-paso-a-paso.md (transcripción de subtítulos manuales es con marcas de tiempo).
+- Raw: raw/ia-media-generativa/2024-11-11-comfyui-tutorial-completo-flux-dev-sd35-ia-paso-a-paso.md (transcripción de subtítulos manuales es con marcas de tiempo).
 - Páginas creadas: resumen-comfyui-tutorial-completo-flux-dev-sd35-ia-paso-a-paso (resumen de fuente).
 - Nota: fuente 8/57 de la playlist; tutorial de RunPod (nube de pago, barata) + ComfyUI; séptimo canal nuevo del lote (IA Paso a Paso), entidad aplazada.
 
@@ -257,7 +257,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=Le-ZOJ9ydtQ — Xavier Mitjana - Lab, publicado 2025-06-27 (15:42).
-- Raw: raw/inteligencia-artificial/2025-06-27-automatiza-tareas-edicion-imagenes-flux-kontext-dev-xavier-mitjana-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-media-generativa/2025-06-27-automatiza-tareas-edicion-imagenes-flux-kontext-dev-xavier-mitjana-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-automatiza-tareas-edicion-imagenes-flux-kontext-dev-xavier-mitjana-lab (resumen de fuente).
 - Nota: fuente 9/57 de la playlist; anuncio de open weights de FLUX.1 Kontext Dev + fine-tuning por tareas vía FAL. Mismo autor que la fuente 7/57 (canal principal) y mismo modelo que la 6/57; consolidación conjunta pendiente. Patrocinio Freepik registrado como tal.
 
@@ -265,7 +265,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=bN94_jK12bo — Creador Inteligente, publicado 2024-09-08 (24:05).
-- Raw: raw/inteligencia-artificial/2024-09-08-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-media-generativa/2024-09-08-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente (resumen de fuente).
 - Nota: fuente 10/57 de la playlist; guía de acceso gratuito a FLUX (Pro/Dev/Schnell) con Glif + optimización de prompts. La primera plataforma usada queda transcrito como «cart» sin identificación segura: pendiente en consolidación. Octavo canal nuevo del lote (Creador Inteligente), entidad aplazada.
 
@@ -273,7 +273,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=223beR6eoAw — Alejavi Rivera, publicado 2024-08-18 (16:18).
-- Raw: raw/inteligencia-artificial/2024-08-18-como-midjourney-gratis-mejor-sin-censura-flux1-alejavi-rivera.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-media-generativa/2024-08-18-como-midjourney-gratis-mejor-sin-censura-flux1-alejavi-rivera.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-como-midjourney-gratis-mejor-sin-censura-flux1-alejavi-rivera (resumen de fuente).
 - Nota: fuente 11/57 de la playlist; superpone temas con 10/57 (Glif/HF) y 9/57 (inpainting): consolidación conjunta pendiente. Contenido sensible (demo sin censura difuminada) registrado como contenido de la fuente. Noveno canal nuevo del lote (Alejavi Rivera), entidad aplazada.
 
@@ -281,7 +281,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=V6EPzmp36iw — CursosDesarrolloWeb, publicado 2025-10-01 (13:21).
-- Raw: raw/inteligencia-artificial/2025-10-01-kilo-code-glm-46-modelo-ultra-economico-cursosdesarrolloweb.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-uso-practico/2025-10-01-kilo-code-glm-46-modelo-ultra-economico-cursosdesarrolloweb.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-kilo-code-glm-46-modelo-ultra-economico-cursosdesarrolloweb (resumen de fuente).
 - Nota: fuente 12/57 de la playlist; Kilo Code + GLM 4.6 (Z.ai) con demo de API Laravel 12. Inconsistencia menor de la fuente (100 vs 120 prompts/5h para el plan Light) anotada para verificación. Décimo canal nuevo del lote (CursosDesarrolloWeb), entidad aplazada.
 
@@ -289,7 +289,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=x14zcZHjz5M — Julian Goldie SEO, publicado 2025-12-01 (08:34).
-- Raw: raw/inteligencia-artificial/2025-12-01-new-gemini-cli-update-is-insane-julian-goldie-seo.md (transcripción de subtítulos automáticos en con marcas de tiempo).
+- Raw: raw/ia-uso-practico/2025-12-01-new-gemini-cli-update-is-insane-julian-goldie-seo.md (transcripción de subtítulos automáticos en con marcas de tiempo).
 - Páginas creadas: resumen-new-gemini-cli-update-is-insane-julian-goldie-seo (resumen de fuente, en español).
 - Nota: fuente 13/57 de la playlist; segunda fuente en inglés del lote (encabezado del raw dice «español» por artefacto del extractor; transcripción sin modificar). Dirección de galería transcrita («gemini.com/extensions») a verificar en consolidación. Undécimo canal nuevo del lote (Julian Goldie SEO), entidad aplazada.
 
@@ -297,7 +297,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=W_RYfI8xxlg — Alejavi Rivera, publicado 2025-12-11 (29:34).
-- Raw: raw/inteligencia-artificial/2025-12-11-ia-china-reventar-todo-alejavi-rivera.md (transcripción de subtítulos manuales es-ES con marcas de tiempo).
+- Raw: raw/ia-critica-y-fronteras/2025-12-11-ia-china-reventar-todo-alejavi-rivera.md (transcripción de subtítulos manuales es-ES con marcas de tiempo).
 - Páginas creadas: resumen-ia-china-reventar-todo-alejavi-rivera (resumen de fuente).
 - Nota: fuente 14/57 de la playlist; tour de plataformas chinas con 11 casos (Z.ai/GLM 4.6V, Manus, Kimi OK Computer, DeepSeek OCR, Qwen, MiniMax, Kling O1). Patrocinio Hostinger registrado como tal. Mismo canal que la fuente 11/57; solapa GLM 4.6 con la 12/57: consolidación conjunta pendiente.
 
@@ -305,7 +305,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=2CMbqUSPzjs — Hdeleon Clips, publicado 2025-12-16 (05:32).
-- Raw: raw/inteligencia-artificial/2025-12-16-ia-le-borro-todo-el-disco-duro-hdeleon-clips.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-critica-y-fronteras/2025-12-16-ia-le-borro-todo-el-disco-duro-hdeleon-clips.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-ia-le-borro-todo-el-disco-duro-hdeleon-clips (resumen de fuente).
 - Nota: fuente 15/57 de la playlist; comentario del caso Google Antigravity (noticia sin fuente primaria en el raw) con protocolo de seguridad del canal. Duodécimo canal nuevo del lote (Hdeleon Clips), entidad aplazada.
 
@@ -313,7 +313,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=QVpxZyI1Iqk — midulive, publicado 2024-08-13 (07:00).
-- Raw: raw/inteligencia-artificial/2024-08-13-generador-bases-de-datos-gratis-midulive.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-uso-practico/2024-08-13-generador-bases-de-datos-gratis-midulive.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-generador-bases-de-datos-gratis-midulive (resumen de fuente).
 - Nota: fuente 16/57 de la playlist; Postgres.new (Supabase) — PostgreSQL con lenguaje natural en el navegador. Tramo final off-topic (giras del canal) excluido de la síntesis. Decimotercer canal nuevo del lote (midulive), entidad aplazada.
 
@@ -321,7 +321,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=UWmXrqhfP4c — Xavier Mitjana, publicado 2025-12-21 (22:54).
-- Raw: raw/inteligencia-artificial/2025-12-21-google-dispara-tu-productividad-novedad-xavier-mitjana.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-uso-practico/2025-12-21-google-dispara-tu-productividad-novedad-xavier-mitjana.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-google-dispara-tu-productividad-novedad-xavier-mitjana (resumen de fuente).
 - Nota: fuente 17/57 de la playlist; novedades Google (NotebookLM+Gemini, tablas, Gemini 3 Flash, Antigravity) + modelo Qwen de capas. Patrocinio HubSpot excluido de la síntesis. Mismo canal que 7/57 y 9/57: consolidación conjunta pendiente.
 
@@ -329,7 +329,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=nGaHoH9HHu0 — La Hora Maker, publicado 2024-09-16 (45:42).
-- Raw: raw/inteligencia-artificial/2024-09-16-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-uso-practico/2024-09-16-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker (resumen de fuente).
 - Nota: fuente 18/57 de la playlist; episodio 1 de un curso de evaluación de LLMs con Promptfoo (Ollama, aserciones, repeat). Ficheros de prueba en GitHub del canal (no en el raw). Decimocuarto canal nuevo del lote (La Hora Maker), entidad aplazada.
 
@@ -337,7 +337,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=oELZcpNCU9c — Del Código a la Arquitectura, publicado 2025-09-23 (10:46).
-- Raw: raw/inteligencia-artificial/2025-09-23-llmops-evaluar-agente-rag-ragas-del-codigo-a-la-arquitectura.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-uso-practico/2025-09-23-llmops-evaluar-agente-rag-ragas-del-codigo-a-la-arquitectura.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-llmops-evaluar-agente-rag-ragas-del-codigo-a-la-arquitectura (resumen de fuente).
 - Nota: fuente 19/57 de la playlist; parte de una serie (despliegue del agente en el video previo, enlazado en descripción). Decimoquinto canal nuevo del lote (Del Código a la Arquitectura), entidad aplazada.
 
@@ -345,7 +345,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=V9TcltcpkYY — Del Código a la Arquitectura, publicado 2025-09-19 (12:05).
-- Raw: raw/inteligencia-artificial/2025-09-19-despliega-agente-ia-docker-hugging-face-spaces-del-codigo-a-la-arquitectura.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-uso-practico/2025-09-19-despliega-agente-ia-docker-hugging-face-spaces-del-codigo-a-la-arquitectura.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-despliega-agente-ia-docker-hugging-face-spaces-del-codigo-a-la-arquitectura (resumen de fuente).
 - Nota: fuente 20/57 de la playlist; video previo de la serie cuya continuación (RAGAs) ya está ingresada como 19/57. Consolidación conjunta de la serie pendiente.
 
@@ -353,7 +353,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=f3MzCRVRe3E — IAcomunIA, publicado 2025-08-04 (23:49).
-- Raw: raw/inteligencia-artificial/2025-08-04-api-hugging-face-web-app-ia-ia-comunia.md (transcripción de subtítulos manuales es-419 con marcas de tiempo).
+- Raw: raw/ia-uso-practico/2025-08-04-api-hugging-face-web-app-ia-ia-comunia.md (transcripción de subtítulos manuales es-419 con marcas de tiempo).
 - Páginas creadas: resumen-api-hugging-face-web-app-ia-ia-comunia (resumen de fuente).
 - Nota: fuente 21/57 de la playlist; Vue 3 + HF Inference API con FLUX.1 Krea-dev (transcrito «crea dev», identificación probable) y código generado por CLI vía OpenRouter. Decimosexto canal nuevo del lote (IAcomunIA), entidad aplazada.
 
@@ -361,7 +361,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=59GrCryltng — Dot CSV Lab, publicado 2026-01-26 (30:29).
-- Raw: raw/inteligencia-artificial/2026-01-26-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-critica-y-fronteras/2026-01-26-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab (resumen de fuente).
 - Nota: fuente 22/57 de la playlist; reseña en profundidad de Clawdbot tras 48 horas de uso (Dot CSV Lab, Carlos Santa). Contenido clave para consolidación posterior (agentes personales, memoria persistente, prompt injection). Decimoséptimo canal nuevo del lote (Dot CSV Lab), entidad aplazada.
 
@@ -369,7 +369,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=cfNAIQtNbKY — NextGen IA Hub, publicado 2026-01-31 (16:16).
-- Raw: raw/inteligencia-artificial/2026-01-31-adios-notebooklm-surfsense-brutal-nextgen-ia-hub.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-critica-y-fronteras/2026-01-31-adios-notebooklm-surfsense-brutal-nextgen-ia-hub.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-adios-notebooklm-surfsense-brutal-nextgen-ia-hub (resumen de fuente).
 - Nota: fuente 23/57 de la playlist; SurfSense vs NotebookLM (selector de modelos, MCPs, colaboración). El canal anuncia video posterior sobre el modo local. Decimoctavo canal nuevo del lote (NextGen IA Hub), entidad aplazada.
 
@@ -377,7 +377,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=bYVkgvs9GbM — Dot CSV Lab, publicado 2026-02-02 (25:14).
-- Raw: raw/inteligencia-artificial/2026-02-02-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-critica-y-fronteras/2026-02-02-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab (resumen de fuente).
 - Nota: fuente 24/57 de la playlist; análisis de Genie 3 (world models) con el marco DLSS↔Genie y la tesis del «GPT-3 de la generación de mundos». Mismo canal que 22/57: consolidación conjunta pendiente.
 
@@ -385,7 +385,7 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=SkuFcjfHWi4 — Alejavi Rivera, publicado 2026-02-15 (31:11).
-- Raw: raw/inteligencia-artificial/2026-02-15-notebooklm-reventar-ia-gratis-alejavi-rivera.md (transcripción de subtítulos manuales es-ES con marcas de tiempo).
+- Raw: raw/ia-critica-y-fronteras/2026-02-15-notebooklm-reventar-ia-gratis-alejavi-rivera.md (transcripción de subtítulos manuales es-ES con marcas de tiempo).
 - Páginas creadas: resumen-notebooklm-reventar-ia-gratis-alejavi-rivera (resumen de fuente).
 - Nota: fuente 25/57 de la playlist; 11 casos para potenciar NotebookLM (extensiones, Canva Bulk, cómics, Antigravity). Patrocinio Top View registrado como tal. Mismo canal que 11/57 y 14/57: consolidación conjunta pendiente.
 
@@ -393,25 +393,25 @@ Registro cronológico de solo adición.
 
 - Disposición: Nueva.
 - Fuente: https://www.youtube.com/watch?v=RRAYtqnGJPs — Fazt, publicado 2026-04-18 (25:22).
-- Raw: raw/inteligencia-artificial/2026-04-18-agente-de-codigo-que-viene-vacio-fazt.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
+- Raw: raw/ia-uso-practico/2026-04-18-agente-de-codigo-que-viene-vacio-fazt.md (transcripción de subtítulos automáticos es con marcas de tiempo; puede contener errores de reconocimiento).
 - Páginas creadas: resumen-agente-de-codigo-que-viene-vacio-fazt (resumen de fuente).
 - Nota: fuente 26/57 de la playlist; reseña de Pi (el agente minimalista extensible — el mismo harness en el que corre esta ingesta). Algunos nombres garbiñados por subtítulos automáticos (OpenClaw, Claude Code, modelos) anotados para verificación en consolidación. Patrocinios Don Dominio y fast.dev registrados como tales. Decimonoveno canal nuevo del lote (Fazt), entidad aplazada.
 
 ## [2026-11-10] ingesta | ¡Esto acaba de Reventar la IA! Hacen TODO GRATIS y SIN LÍMITES
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=HreBx99BDsc — Alejavi Rivera, 2026-06-28 (27:11). Raw: raw/inteligencia-artificial/2026-06-28-reventar-la-ia-gratis-sin-limites-alejavi-rivera.md. Página creada: resumen-reventar-la-ia-gratis-sin-limites-alejavi-rivera. Nota: fuente 34/57; recopilatorio de +20 herramientas open source (procesada por W2 del lote delegado).
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=HreBx99BDsc — Alejavi Rivera, 2026-06-28 (27:11). Raw: raw/ia-uso-practico/2026-06-28-reventar-la-ia-gratis-sin-limites-alejavi-rivera.md. Página creada: resumen-reventar-la-ia-gratis-sin-limites-alejavi-rivera. Nota: fuente 34/57; recopilatorio de +20 herramientas open source (procesada por W2 del lote delegado).
 
 ## [2026-11-10] ingesta | Entrena tu propia IA... ¡GRATIS! Olvida CHATGPT
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=Fn36INn_EAo — Xavier Mitjana, 2026-06-28 (18:05). Raw: raw/inteligencia-artificial/2026-06-28-entrena-tu-propia-ia-gratis-xavier-mitjana.md. Página creada: resumen-entrena-tu-propia-ia-gratis-xavier-mitjana. Nota: fuente 35/57; LoRAs de comunidad, identidad con Ideogram y vídeo con LTX 2.3 (procesada por W2).
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=Fn36INn_EAo — Xavier Mitjana, 2026-06-28 (18:05). Raw: raw/ia-uso-practico/2026-06-28-entrena-tu-propia-ia-gratis-xavier-mitjana.md. Página creada: resumen-entrena-tu-propia-ia-gratis-xavier-mitjana. Nota: fuente 35/57; LoRAs de comunidad, identidad con Ideogram y vídeo con LTX 2.3 (procesada por W2).
 
 ## [2026-11-10] ingesta | Despedí a mi editor y contraté a Claude Code
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=QRhX4zU1jso — Santiago Munoz, 2026-07-14 (29:33). Raw: raw/inteligencia-artificial/2026-07-14-despedi-editor-contrate-claude-code-santiago-munoz.md. Página creada: resumen-despedi-editor-contrate-claude-code-santiago-munoz. Nota: fuente 37/57; fábrica de vídeos estilo Vox con Claude Code + Remotion + ElevenLabs + Kie AI + Apify (procesada por W2).
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=QRhX4zU1jso — Santiago Munoz, 2026-07-14 (29:33). Raw: raw/ia-uso-practico/2026-07-14-despedi-editor-contrate-claude-code-santiago-munoz.md. Página creada: resumen-despedi-editor-contrate-claude-code-santiago-munoz. Nota: fuente 37/57; fábrica de vídeos estilo Vox con Claude Code + Remotion + ElevenLabs + Kie AI + Apify (procesada por W2).
 
 ## [2026-11-10] ingesta | Herramientas IA #2: Crear vídeo con Remotion y OpenCode
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=7KMcc12K0fA — Darellanodev, 2026-03-22 (09:55). Raw: raw/inteligencia-artificial/2026-03-22-herramientas-ia-2-video-remotion-opencode-darellanodev.md. Página creada: resumen-herramientas-ia-2-video-remotion-opencode-darellanodev. Nota: fuente 38/57; banda animada de suscripción con Remotion + OpenCode (procesada por W2).
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=7KMcc12K0fA — Darellanodev, 2026-03-22 (09:55). Raw: raw/ia-media-generativa/2026-03-22-herramientas-ia-2-video-remotion-opencode-darellanodev.md. Página creada: resumen-herramientas-ia-2-video-remotion-opencode-darellanodev. Nota: fuente 38/57; banda animada de suscripción con Remotion + OpenCode (procesada por W2).
 
 ## [2026-11-10] ingesta | Crea apps con IA usando esta API GRATIS (FreeLLMAPI)
 
@@ -458,7 +458,7 @@ Registro cronológico de solo adición.
 
 ## [2026-11-11] ingesta | Usando la Inteligencia Artificial como si fuera 2026
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=d6moRNMK5ik — La Hora Maker, 2026-03-13 (42:48). Raw: raw/inteligencia-artificial/2026-03-13-usando-la-inteligencia-artificial-como-si-fuera-2026.md (subtítulos automáticos, literal; 108 bloques). Existe variante ASR del mismo raw: raw/inteligencia-artificial/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md (faster-whisper small). Página creada: resumen-usando-la-ia-como-si-fuera-2026-la-hora-maker. Nota: fuente 29/57 de la playlist «IA-Recursos»; clase de Fab Academy sobre IA aplicada — context engineering, skills con scripts, MCP de Mods (fablabs), spec-driven (OpenSpec) y A2A. Enlaza a [[agentes-de-codigo]] y cruza con [[resumen-openspec-apps-full-stack-sin-codigo-vera-badias]] (27/57) y [[resumen-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker]] (mismo canal; entidad la-hora-maker pendiente de consolidación). Estado del lote: 33/57 con resumen, 24 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=d6moRNMK5ik — La Hora Maker, 2026-03-13 (42:48). Raw: raw/ia-uso-practico/2026-03-13-usando-la-inteligencia-artificial-como-si-fuera-2026.md (subtítulos automáticos, literal; 108 bloques). Existe variante ASR del mismo raw: raw/ia-uso-practico/2026-03-13-usando-la-ia-como-si-fuera-2026-la-hora-maker.md (faster-whisper small). Página creada: resumen-usando-la-ia-como-si-fuera-2026-la-hora-maker. Nota: fuente 29/57 de la playlist «IA-Recursos»; clase de Fab Academy sobre IA aplicada — context engineering, skills con scripts, MCP de Mods (fablabs), spec-driven (OpenSpec) y A2A. Enlaza a [[agentes-de-codigo]] y cruza con [[resumen-openspec-apps-full-stack-sin-codigo-vera-badias]] (27/57) y [[resumen-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker]] (mismo canal; entidad la-hora-maker pendiente de consolidación). Estado del lote: 33/57 con resumen, 24 pendientes.
 
 ## [2026-11-11] descubrimiento | el fallback de subtítulos de .atl/fetch_yt.py SÍ funcionó para dos vídeos
 
@@ -468,13 +468,13 @@ Registro cronológico de solo adición.
 
 ## [2026-11-11] ingesta | Laboratorio IA GRATIS: Ubuntu y OpenCode con Killercoda desde tu navegador
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=r8bJpmw19_s — Comarca IA (Hugo Paredes), 2026-06-23 (09:19). Raw: raw/inteligencia-artificial/2026-06-23-laboratorio-ia-gratis-ubuntu-y-opencode-con-killercoda-desde-tu-navega.md (subtítulos automáticos, literal). Página creada: resumen-laboratorio-ia-gratis-ubuntu-y-opencode-con-killercoda-comarca-ia. Nota: fuente 30/57; Ubuntu efímero de 1 h en Killercoda + OpenCode con modelos gratuitos (DeepSeek V4 Flash, MiMo 2.5, Nemotron 3 Ultra) — laboratorio de pruebas, no producción; OpenCode exige directorio de proyecto. Enlaza a [[agentes-de-codigo]] (nuevo cruce añadido). Raw obtenido por el fallback de subtítulos (ruta literal, no ASR). Estado del lote: 34/57 con resumen, 23 pendientes.
-- Raw adicional preexistente en disco (sin trackear): raw/inteligencia-artificial/2026-01-22-figma-ya-no-vale-pencil-dev-y-magicpath-cambian-el-juego.md — fuente 31/57 (Ieanl2rmqkg, Raúl Marín - Refresh); se procesa a continuación.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=r8bJpmw19_s — Comarca IA (Hugo Paredes), 2026-06-23 (09:19). Raw: raw/ia-uso-practico/2026-06-23-laboratorio-ia-gratis-ubuntu-y-opencode-con-killercoda-desde-tu-navega.md (subtítulos automáticos, literal). Página creada: resumen-laboratorio-ia-gratis-ubuntu-y-opencode-con-killercoda-comarca-ia. Nota: fuente 30/57; Ubuntu efímero de 1 h en Killercoda + OpenCode con modelos gratuitos (DeepSeek V4 Flash, MiMo 2.5, Nemotron 3 Ultra) — laboratorio de pruebas, no producción; OpenCode exige directorio de proyecto. Enlaza a [[agentes-de-codigo]] (nuevo cruce añadido). Raw obtenido por el fallback de subtítulos (ruta literal, no ASR). Estado del lote: 34/57 con resumen, 23 pendientes.
+- Raw adicional preexistente en disco (sin trackear): raw/ia-uso-practico/2026-01-22-figma-ya-no-vale-pencil-dev-y-magicpath-cambian-el-juego.md — fuente 31/57 (Ieanl2rmqkg, Raúl Marín - Refresh); se procesa a continuación.
 
 ## [2026-11-11] ingesta | ¿Figma ya no vale? Pencil.dev y MagicPath cambian el juego
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=Ieanl2rmqkg — Raúl Marín - Refresh, 2026-01-22 (25:27). Raw: raw/inteligencia-artificial/2026-01-22-figma-ya-no-vale-pencil-dev-y-magicpath-cambian-el-juego.md (subtítulos automáticos, literal). Página creada: resumen-figma-ya-no-vale-pencil-dev-y-magicpath-raul-marin-refresh. Nota: fuente 31/57; Pencil.dev con MCP nativo (canvas bidireccional diseño-código, variables, slots, .pencil locales) frente a MagicPath (chat multi-modelo, aún verde); tono entusiasta declarado por el autor. Enlaza a [[agentes-de-codigo]]. Estado del lote: 35/57 con resumen, 22 pendientes.
-- Raws adicionales preexistentes en disco (sin trackear, commit 0d14efa/bd9e0b4): raw/inteligencia-artificial/2024-05-27-construye-tu-segundo-cerebro-digital-obsidian-nvim-organiza-tu-vida.md — fuente 33/57 (6HSc2l0oyws, Gentleman Programming) y raw/inteligencia-artificial/2026-05-17-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-esto-puedes-hace.md — fuente 44/57 (yWx7TrhZTxg); pendientes de ingesta en orden.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=Ieanl2rmqkg — Raúl Marín - Refresh, 2026-01-22 (25:27). Raw: raw/ia-uso-practico/2026-01-22-figma-ya-no-vale-pencil-dev-y-magicpath-cambian-el-juego.md (subtítulos automáticos, literal). Página creada: resumen-figma-ya-no-vale-pencil-dev-y-magicpath-raul-marin-refresh. Nota: fuente 31/57; Pencil.dev con MCP nativo (canvas bidireccional diseño-código, variables, slots, .pencil locales) frente a MagicPath (chat multi-modelo, aún verde); tono entusiasta declarado por el autor. Enlaza a [[agentes-de-codigo]]. Estado del lote: 35/57 con resumen, 22 pendientes.
+- Raws adicionales preexistentes en disco (sin trackear, commit 0d14efa/bd9e0b4): raw/ia-critica-y-fronteras/2024-05-27-construye-tu-segundo-cerebro-digital-obsidian-nvim-organiza-tu-vida.md — fuente 33/57 (6HSc2l0oyws, Gentleman Programming) y raw/ia-critica-y-fronteras/2026-05-17-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-esto-puedes-hace.md — fuente 44/57 (yWx7TrhZTxg); pendientes de ingesta en orden.
 
 ## [2026-11-11] corrección | numeración canónica del lote tomada del playlist JSON
 
@@ -482,19 +482,19 @@ Registro cronológico de solo adición.
 
 ## [2026-11-11] ingesta | ¡Obsidian reventó la IA con MEMORIA GRATIS e ILIMITADA!
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=J_cMk5zEThI — Alejavi Rivera, 2026-05-17 (29:01). Raw: raw/inteligencia-artificial/2026-05-17-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-esto-puedes-hace.md (subtítulos manuales es-ES, literal). Página creada: resumen-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-alejavi-rivera. Nota: fuente 32/57 (numeración corregida; no 44/57 como se anotó antes); Obsidian como memoria de agentes con el método raw → wiki (skills de Brockman y de Kepano: Bases, Canvas JSON, CLI). Patrocinio Chatfuel [11:16-12:53] excluido de la síntesis. Actualizada la página de entidad [[alejavi-rivera]] a 5 fuentes. Cruce metacognitivo: el patrón raw/ + wiki/ descrito coincide con el diseño de esta wiki. Estado del lote: 36/57 con resumen, 21 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=J_cMk5zEThI — Alejavi Rivera, 2026-05-17 (29:01). Raw: raw/ia-critica-y-fronteras/2026-05-17-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-esto-puedes-hace.md (subtítulos manuales es-ES, literal). Página creada: resumen-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-alejavi-rivera. Nota: fuente 32/57 (numeración corregida; no 44/57 como se anotó antes); Obsidian como memoria de agentes con el método raw → wiki (skills de Brockman y de Kepano: Bases, Canvas JSON, CLI). Patrocinio Chatfuel [11:16-12:53] excluido de la síntesis. Actualizada la página de entidad [[alejavi-rivera]] a 5 fuentes. Cruce metacognitivo: el patrón raw/ + wiki/ descrito coincide con el diseño de esta wiki. Estado del lote: 36/57 con resumen, 21 pendientes.
 
 ## [2026-11-11] ingesta | Construye tu Segundo Cerebro Digital (Obsidian + NVIM)
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=6HSc2l0oyws — Gentleman Programming (Alan), 2024-05-27 (31:26). Raw: raw/inteligencia-artificial/2024-05-27-construye-tu-segundo-cerebro-digital-obsidian-nvim-organiza-tu-vida.md (subtítulos automáticos, literal). Página creada: resumen-segundo-cerebro-digital-obsidian-nvim-gentleman-programming. Nota: fuente 33/57; **fuente sin IA** (2024): Zettelkasten manual en Obsidian (hubs, notas atómicas, grafo) + workflow obsidian.nvim + backup en GitHub. Valor para la wiki: antecedente manual del método de memoria que la fuente 32 automatiza con agentes. Sin página de concepto asociada. Estado del lote: 37/57 con resumen, 20 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=6HSc2l0oyws — Gentleman Programming (Alan), 2024-05-27 (31:26). Raw: raw/ia-critica-y-fronteras/2024-05-27-construye-tu-segundo-cerebro-digital-obsidian-nvim-organiza-tu-vida.md (subtítulos automáticos, literal). Página creada: resumen-segundo-cerebro-digital-obsidian-nvim-gentleman-programming. Nota: fuente 33/57; **fuente sin IA** (2024): Zettelkasten manual en Obsidian (hubs, notas atómicas, grafo) + workflow obsidian.nvim + backup en GitHub. Valor para la wiki: antecedente manual del método de memoria que la fuente 32 automatiza con agentes. Sin página de concepto asociada. Estado del lote: 37/57 con resumen, 20 pendientes.
 
 ## [2026-11-11] ingesta | La IA GRATIS que está DESTROZANDO a las Suscripciones de Pago
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=VAw9w_IRMEs — Alejavi Rivera, 2026-06-14 (26:52). Raw: raw/inteligencia-artificial/2026-06-14-la-ia-gratis-que-esta-destrozando-a-las-suscripciones-de-pago.md (subtítulos manuales es-ES, literal). Página creada: resumen-la-ia-gratis-que-esta-destrozando-a-las-suscripciones-alejavi-rivera. Nota: fuente 34/57; catálogo open source: Handy (dictado), Odysseus (VPS+Docker, 24/7), Gemma 4 12B local, Ideogram 4.0 en ComfyUI, Bernini (ByteDance, vídeo) y LTX Desktop. Cruces a [[generacion-local-de-imagenes]] y [[agentes-de-codigo]]; patrocinio Hostinger [12:02-12:22]. 6.ª fuente de Alejavi Rivera (entidad a actualizar en consolidación). Estado del lote: 38/57 con resumen, 19 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=VAw9w_IRMEs — Alejavi Rivera, 2026-06-14 (26:52). Raw: raw/ia-uso-practico/2026-06-14-la-ia-gratis-que-esta-destrozando-a-las-suscripciones-de-pago.md (subtítulos manuales es-ES, literal). Página creada: resumen-la-ia-gratis-que-esta-destrozando-a-las-suscripciones-alejavi-rivera. Nota: fuente 34/57; catálogo open source: Handy (dictado), Odysseus (VPS+Docker, 24/7), Gemma 4 12B local, Ideogram 4.0 en ComfyUI, Bernini (ByteDance, vídeo) y LTX Desktop. Cruces a [[generacion-local-de-imagenes]] y [[agentes-de-codigo]]; patrocinio Hostinger [12:02-12:22]. 6.ª fuente de Alejavi Rivera (entidad a actualizar en consolidación). Estado del lote: 38/57 con resumen, 19 pendientes.
 
 ## [2026-11-11] ingesta | Google crea tu PROFESOR PARTICULAR con IA (y es GRATIS)
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=IH__GK4XBbU — Migue Baena IA, 2026-07-19 (19:47). Raw: raw/inteligencia-artificial/2026-07-19-google-crea-tu-profesor-particular-con-ia-y-es-gratis.md (subtítulos automáticos, literal). Página creada: resumen-google-crea-tu-profesor-particular-migue-baena-ia. Nota: fuente 37/57 (numeración canónica; el log del 2026-11-10 la llamaba «fuente 36» — la numeración se corrige desde el playlist JSON). NotebookLM «estudia y aprende» como tutor adaptativo: diagnóstico (15 preguntas) → plan por errores → lecciones adaptadas (umbral 80 %) → app interactiva con Canvas. Patrocinio Higgsfield [06:17-08:49] excluido de la síntesis. La fuente que falló en W2 ya queda ingerida. Estado del lote: 39/57 con resumen, 18 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=IH__GK4XBbU — Migue Baena IA, 2026-07-19 (19:47). Raw: raw/ia-critica-y-fronteras/2026-07-19-google-crea-tu-profesor-particular-con-ia-y-es-gratis.md (subtítulos automáticos, literal). Página creada: resumen-google-crea-tu-profesor-particular-migue-baena-ia. Nota: fuente 37/57 (numeración canónica; el log del 2026-11-10 la llamaba «fuente 36» — la numeración se corrige desde el playlist JSON). NotebookLM «estudia y aprende» como tutor adaptativo: diagnóstico (15 preguntas) → plan por errores → lecciones adaptadas (umbral 80 %) → app interactiva con Canvas. Patrocinio Higgsfield [06:17-08:49] excluido de la síntesis. La fuente que falló en W2 ya queda ingerida. Estado del lote: 39/57 con resumen, 18 pendientes.
 
 ## [2026-11-11] limpieza y recuperación | raw mal nombrado
 
@@ -502,19 +502,19 @@ Registro cronológico de solo adición.
 
 ## [2026-11-11] ingesta | Herramientas IA #12: Creando vídeo con HyperFrames y OpenCode
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=jYawp25fCzc — Darellanodev, 2026-07-05 (15:06). Raw: raw/inteligencia-artificial/2026-07-05-herramientas-ia-12-creando-video-con-hyperframes-y-opencode.md (subtítulos automáticos, literal). Página creada: resumen-herramientas-ia-12-hyperframes-y-opencode-darellanodev. Nota: fuente 40/57 (numeración canónica; el log del 2026-11-10 la llamaba «fuente 39»); la segunda fuente que falló en W2 ya queda ingerida. HyperFrames como alternativa sin React a Remotion (39/57, mismo canal): actores HTML data-start/duration + coreografía JS, skills nativas (Score, Animation), OpenCode + Big Pickle y export MP4. Estado del lote: 40/57 con resumen, 17 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=jYawp25fCzc — Darellanodev, 2026-07-05 (15:06). Raw: raw/ia-media-generativa/2026-07-05-herramientas-ia-12-creando-video-con-hyperframes-y-opencode.md (subtítulos automáticos, literal). Página creada: resumen-herramientas-ia-12-hyperframes-y-opencode-darellanodev. Nota: fuente 40/57 (numeración canónica; el log del 2026-11-10 la llamaba «fuente 39»); la segunda fuente que falló en W2 ya queda ingerida. HyperFrames como alternativa sin React a Remotion (39/57, mismo canal): actores HTML data-start/duration + coreografía JS, skills nativas (Score, Animation), OpenCode + Big Pickle y export MP4. Estado del lote: 40/57 con resumen, 17 pendientes.
 
 ## [2026-11-11] ingesta | Cómo Clonar la VOZ en Segundos por IA GRATIS y SIN Límites
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=1PUzFg1CdbU — Alejavi Rivera, 2026-07-12 (26:13). Raw: raw/inteligencia-artificial/2026-07-12-como-clonar-la-voz-en-segundos-por-ia-gratis-y-sin-limites.md (subtítulos manuales es-ES, literal). Página creada: resumen-como-clonar-la-voz-en-segundos-1puzfg1cdbu-alejavi-rivera. Nota: fuente 42/57; tres métodos de clonación de voz: VoiceBox (local open source + Docker/VPS), MiniMax Audio y MyVocal.AI (nube, grabar local y subir), Suno AI (covers gratis, clonación cantada de pago). Énfasis en calidad del input (Adobe Enhance Speech) y consentimiento. 7.ª fuente de Alejavi Rivera. Estado del lote: 41/57 con resumen, 16 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=1PUzFg1CdbU — Alejavi Rivera, 2026-07-12 (26:13). Raw: raw/ia-media-generativa/2026-07-12-como-clonar-la-voz-en-segundos-por-ia-gratis-y-sin-limites.md (subtítulos manuales es-ES, literal). Página creada: resumen-como-clonar-la-voz-en-segundos-1puzfg1cdbu-alejavi-rivera. Nota: fuente 42/57; tres métodos de clonación de voz: VoiceBox (local open source + Docker/VPS), MiniMax Audio y MyVocal.AI (nube, grabar local y subir), Suno AI (covers gratis, clonación cantada de pago). Énfasis en calidad del input (Adobe Enhance Speech) y consentimiento. 7.ª fuente de Alejavi Rivera. Estado del lote: 41/57 con resumen, 16 pendientes.
 
 ## [2026-11-11] ingesta | Claude + Google Flow Plan Gratuito = $13.000/mes
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=ZD9VE4l0WnI — Valeria Londoño, 2026-07-13 (22:06). Raw: raw/inteligencia-artificial/2026-07-13-claude-google-flow-plan-gratuito-13-000-mes.md (subtítulos automáticos, literal). Página creada: resumen-claude-google-flow-plan-gratuito-valeria-londono. Nota: fuente 43/57; fábrica de vídeos estilo «Sen» en 4 pasos con herramientas gratuitas (Claude investigador/guion/prompts por tiempo, ElevenLabs, TurboScribe, Google Flow + extensión de cola con Nano Banana 2, CapCut). Cruza con 37/57 (fábrica de vídeo con Claude Code). Estado del lote: 42/57 con resumen, 15 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=ZD9VE4l0WnI — Valeria Londoño, 2026-07-13 (22:06). Raw: raw/ia-uso-practico/2026-07-13-claude-google-flow-plan-gratuito-13-000-mes.md (subtítulos automáticos, literal). Página creada: resumen-claude-google-flow-plan-gratuito-valeria-londono. Nota: fuente 43/57; fábrica de vídeos estilo «Sen» en 4 pasos con herramientas gratuitas (Claude investigador/guion/prompts por tiempo, ElevenLabs, TurboScribe, Google Flow + extensión de cola con Nano Banana 2, CapCut). Cruza con 37/57 (fábrica de vídeo con Claude Code). Estado del lote: 42/57 con resumen, 15 pendientes.
 
 ## [2026-11-11] ingesta | Deja de usar el modelo más CARO para todo | SpecJudge
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=T53zvm08zUg — Joaquín Ruiz (IA para Desarrolladores), 2026-07-28 (08:23). Raw: raw/inteligencia-artificial/2026-07-28-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge.md (subtítulos manuales es-ES, literal). Página creada: resumen-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge-joaquin-ruiz. Nota: fuente 44/57; SpecJudge (open source MIT): juez Ollama + reglas YAML recomiendan modelo por encaje (no por precio) leyendo specs spec-driven; volatilidad en YAML fuera del código. Cruces a [[evaluacion-de-llms]] y [[agentes-de-codigo]]; autopromoción del libro del canal [04:34-05:45]. Estado del lote: 43/57 con resumen, 14 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=T53zvm08zUg — Joaquín Ruiz (IA para Desarrolladores), 2026-07-28 (08:23). Raw: raw/ia-uso-practico/2026-07-28-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge.md (subtítulos manuales es-ES, literal). Página creada: resumen-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge-joaquin-ruiz. Nota: fuente 44/57; SpecJudge (open source MIT): juez Ollama + reglas YAML recomiendan modelo por encaje (no por precio) leyendo specs spec-driven; volatilidad en YAML fuera del código. Cruces a [[evaluacion-de-llms]] y [[agentes-de-codigo]]; autopromoción del libro del canal [04:34-05:45]. Estado del lote: 43/57 con resumen, 14 pendientes.
 
 ## [2026-11-11] ingesta | El nuevo ChatGPT tiene SUPERPODERES y no los estás usando
 
@@ -522,51 +522,51 @@ Registro cronológico de solo adición.
 
 ## [2026-11-11] ingesta | Deja de ver «vuelve en 5 horas»: 11 trucos para ahorrar tokens
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=yWx7TrhZTxg — Joaquín Ruiz (IA para Desarrolladores), 2026-09-08 (18:37). Raw: raw/inteligencia-artificial/2026-09-08-deja-de-ver-vuelve-en-5-horas-11-trucos-para-ahorrar-tokens.md (subtítulos automáticos, literal). Página creada: resumen-deja-de-ver-vuelve-en-5-horas-11-trucos-ahorrar-tokens-joaquin-ruiz. Nota: fuente 49/57; tesis «los modelos no tienen memoria»: el input reutilizado (historial + herramientas reenviado en cada turno) es la mayoría del consumo; 11 trucos en 3 bloques (básico, técnico, capa local). Cruza con 44/57 (SpecJudge, aquí presentada como desarrollo propio del canal); autopromoción de dos libros y SpecJudge excluida de la síntesis. Estado del lote: 45/57 con resumen, 12 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=yWx7TrhZTxg — Joaquín Ruiz (IA para Desarrolladores), 2026-09-08 (18:37). Raw: raw/ia-uso-practico/2026-09-08-deja-de-ver-vuelve-en-5-horas-11-trucos-para-ahorrar-tokens.md (subtítulos automáticos, literal). Página creada: resumen-deja-de-ver-vuelve-en-5-horas-11-trucos-ahorrar-tokens-joaquin-ruiz. Nota: fuente 49/57; tesis «los modelos no tienen memoria»: el input reutilizado (historial + herramientas reenviado en cada turno) es la mayoría del consumo; 11 trucos en 3 bloques (básico, técnico, capa local). Cruza con 44/57 (SpecJudge, aquí presentada como desarrollo propio del canal); autopromoción de dos libros y SpecJudge excluida de la síntesis. Estado del lote: 45/57 con resumen, 12 pendientes.
 
 ## [2026-11-11] ingesta | Llevo 13 años analizando acciones. La IA acaba de cambiar mi método.
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=cE6AF_kNCRA — Juan David V (Aprende a invertir), 2026-07-29 (24:31). Raw: raw/inteligencia-artificial/2026-07-29-llevo-13-anos-analizando-acciones-la-ia-acaba-de-cambiar-mi-metodo.md (subtítulos automáticos, literal, ya deduplicado previamente). Página creada: resumen-llevo-13-anos-analizando-acciones-la-ia-cambia-mi-metodo-juan-david-v. Nota: fuente 46/57; skill de Claude + screener de Investing Pro como análisis cuantitativo institucional; tesis «IA con datos confiables, criterio final humano»; exclusión de bancos/utilities; ejemplos BlackBerry 2011 y Adobe presente. Patrocinio Investing Pro excluido. Raw en raw/inteligencia-artificial/ (previa corrección de nombre del commit 85138e2). Estado del lote: 46/57 con resumen, 11 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=cE6AF_kNCRA — Juan David V (Aprende a invertir), 2026-07-29 (24:31). Raw: raw/ia-uso-practico/2026-07-29-llevo-13-anos-analizando-acciones-la-ia-acaba-de-cambiar-mi-metodo.md (subtítulos automáticos, literal, ya deduplicado previamente). Página creada: resumen-llevo-13-anos-analizando-acciones-la-ia-cambia-mi-metodo-juan-david-v. Nota: fuente 46/57; skill de Claude + screener de Investing Pro como análisis cuantitativo institucional; tesis «IA con datos confiables, criterio final humano»; exclusión de bancos/utilities; ejemplos BlackBerry 2011 y Adobe presente. Patrocinio Investing Pro excluido. Raw en raw/inteligencia-artificial/ (previa corrección de nombre del commit 85138e2). Estado del lote: 46/57 con resumen, 11 pendientes.
 
 ## [2026-11-11] ingesta | Deja de perder tiempo configurando agentes de IA en cada ordenador
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=Jctradr7k-Q — Fazt, 2026-08-22 (15:05). Raw: raw/inteligencia-artificial/2026-08-22-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador.md (subtítulos automáticos, literal). Página creada: resumen-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador-fazt. Nota: fuente 47/57; dotfiles + symlink para skills/config de agentes entre máquinas; carpeta .agents como formato compartido entre herramientas; chezmoi/GNU Stow/YADM/dotbot/Nix. Patrocinio Brevo excluido. Fuente introductoria. Estado del lote: 47/57 con resumen, 10 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=Jctradr7k-Q — Fazt, 2026-08-22 (15:05). Raw: raw/ia-uso-practico/2026-08-22-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador.md (subtítulos automáticos, literal). Página creada: resumen-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador-fazt. Nota: fuente 47/57; dotfiles + symlink para skills/config de agentes entre máquinas; carpeta .agents como formato compartido entre herramientas; chezmoi/GNU Stow/YADM/dotbot/Nix. Patrocinio Brevo excluido. Fuente introductoria. Estado del lote: 47/57 con resumen, 10 pendientes.
 
 ## [2026-11-11] ingesta | Marcas de agua invisibles en la IA 2026: qué son y cómo evitarlas
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=HGWozEps8L8 — Alan Daitch, 2026-08-20 (06:41). Raw: raw/inteligencia-artificial/2026-08-20-marcas-de-agua-invisibles-en-la-ia-2026-que-son-y-como-evitarlas.md (subtítulos automáticos, literal; ya estaba en disco — la ruta ASR quedó de reserva en .atl/). Página creada: resumen-marcas-de-agua-invisibles-en-la-ia-2026-alan-daitch. Nota: fuente 48/57; SynthID/antrópico watermarking estadístico, artículo 50 UE, cinco agujeros críticos (paráfrasis la elimina; API de detección explotable en bucle). Estado del lote: 48/57 con resumen, 9 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=HGWozEps8L8 — Alan Daitch, 2026-08-20 (06:41). Raw: raw/ia-media-generativa/2026-08-20-marcas-de-agua-invisibles-en-la-ia-2026-que-son-y-como-evitarlas.md (subtítulos automáticos, literal; ya estaba en disco — la ruta ASR quedó de reserva en .atl/). Página creada: resumen-marcas-de-agua-invisibles-en-la-ia-2026-alan-daitch. Nota: fuente 48/57; SynthID/antrópico watermarking estadístico, artículo 50 UE, cinco agujeros críticos (paráfrasis la elimina; API de detección explotable en bucle). Estado del lote: 48/57 con resumen, 9 pendientes.
 
 ## [2026-11-11] ingesta | Dejé de pagar 4 suscripciones de IA por ESTOS repos
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=5JJgfcJxyyg — Fazt, 2026-09-09 (17:42). Raw: raw/inteligencia-artificial/2026-09-09-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos.md (subtítulos automáticos, literal). Página creada: resumen-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos-fazt. Nota: fuente 50/57; tour de repos (OmniRouter, Herdr, Orca, editor de agentes, distro DHH, AnyDoc, GrillMe, DeepSeek Harness, OpenMontage). Nombres garbiñados: verificar contra GitHub antes de citar. Patrocinio Hostinger excluido. Estado del lote: 50/57 con resumen, 7 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=5JJgfcJxyyg — Fazt, 2026-09-09 (17:42). Raw: raw/ia-uso-practico/2026-09-09-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos.md (subtítulos automáticos, literal). Página creada: resumen-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos-fazt. Nota: fuente 50/57; tour de repos (OmniRouter, Herdr, Orca, editor de agentes, distro DHH, AnyDoc, GrillMe, DeepSeek Harness, OpenMontage). Nombres garbiñados: verificar contra GitHub antes de citar. Patrocinio Hostinger excluido. Estado del lote: 50/57 con resumen, 7 pendientes.
 
 ## [2026-11-11] ingesta | Inteligencia artificial sin sobreingeniería: por qué creé Gentle AI (curso)
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=mjG1w1RjDKg — Gentleman Programming, 2026-09-19 (38:19). Raw: raw/inteligencia-artificial/2026-09-19-inteligencia-artificial-sin-sobreingenieria-por-que-cree-gentle-ai-cur.md (subtítulos automáticos, literal). Página creada: resumen-inteligencia-artificial-sin-sobreingenieria-por-que-cree-gentle-ai-curso. Nota: fuente 51/57; curso actualizado de Gentle AI: ODD reemplaza SDD, presupuesto de ~400 líneas por slice, RDD con binario determinista y lentes aisladas, PRs encadenados, Gentle Shell (Pi) con worktrees centrados y comunicación padre-hijo. Útil para documentar la wiki que se usa con ODD. Estado del lote: 51/57 con resumen, 6 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=mjG1w1RjDKg — Gentleman Programming, 2026-09-19 (38:19). Raw: raw/ia-uso-practico/2026-09-19-inteligencia-artificial-sin-sobreingenieria-por-que-cree-gentle-ai-cur.md (subtítulos automáticos, literal). Página creada: resumen-inteligencia-artificial-sin-sobreingenieria-por-que-cree-gentle-ai-curso. Nota: fuente 51/57; curso actualizado de Gentle AI: ODD reemplaza SDD, presupuesto de ~400 líneas por slice, RDD con binario determinista y lentes aisladas, PRs encadenados, Gentle Shell (Pi) con worktrees centrados y comunicación padre-hijo. Útil para documentar la wiki que se usa con ODD. Estado del lote: 51/57 con resumen, 6 pendientes.
 
 ## [2026-11-11] ingesta | HOY te presento ODD, mi metodología para eliminar la burocracia de la IA
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=WM2JAuR-MOU — Gentleman Programming Vods, 2026-09-16 (127:52). Raw: raw/inteligencia-artificial/2026-09-16-hoy-te-presento-odd-mi-metodologia-para-eliminar-la-burocracia-de-la-i.md (subtítulos automáticos, literal, stream con mucho ruido de chat). Página creada: resumen-hoy-te-presento-odd-mi-metodologia-para-eliminar-la-burocracia-de-la-ia. Nota: fuente 52/57; fuente primaria de ODD (flujo por defecto de Gentle AI v3, reemplazo de SDD): petición→autorización→exploración→research acotado→challenge de premisas→doc por feature con TODO vivo→TDD→evidencia real→RDD. Contraste con Uncle Bob/Swarm Forge y caso GPT 5.6. Autopromoción del ecosistema excluida de la síntesis. Estado del lote: 52/57 con resumen, 5 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=WM2JAuR-MOU — Gentleman Programming Vods, 2026-09-16 (127:52). Raw: raw/ia-uso-practico/2026-09-16-hoy-te-presento-odd-mi-metodologia-para-eliminar-la-burocracia-de-la-i.md (subtítulos automáticos, literal, stream con mucho ruido de chat). Página creada: resumen-hoy-te-presento-odd-mi-metodologia-para-eliminar-la-burocracia-de-la-ia. Nota: fuente 52/57; fuente primaria de ODD (flujo por defecto de Gentle AI v3, reemplazo de SDD): petición→autorización→exploración→research acotado→challenge de premisas→doc por feature con TODO vivo→TDD→evidencia real→RDD. Contraste con Uncle Bob/Swarm Forge y caso GPT 5.6. Autopromoción del ecosistema excluida de la síntesis. Estado del lote: 52/57 con resumen, 5 pendientes.
 
 ## [2026-11-11] ingesta | Así se usa la IA en 2026 ¡Olvida los prompts!
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=1E1y9iQcu6I — Xavier Mitjana, 2026-09-27 (18:52). Raw: raw/inteligencia-artificial/2026-09-27-asi-se-usa-la-ia-en-2026-olvida-los-prompts.md (subtítulos automáticos, literal). Página creada: resumen-asi-se-usa-la-ia-en-2026-olvida-los-prompts-xavier-mitjana. Nota: fuente 53/57; tres errores, nivel 2 = encargos (qué/qué/cómo se valida), nivel 3 = proyectos/Gems y agente Spark de Gemini (42 docs de Drive → cuadro de mando + informe), LLM wiki de Karpathy (transcript garbiña «And Carpaci»), anuncio de cuarto nivel emergente. Patrocinio Hostinger [04:38-06:02] excluido de la síntesis. Estado del lote: 53/57 con resumen, 4 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=1E1y9iQcu6I — Xavier Mitjana, 2026-09-27 (18:52). Raw: raw/ia-uso-practico/2026-09-27-asi-se-usa-la-ia-en-2026-olvida-los-prompts.md (subtítulos automáticos, literal). Página creada: resumen-asi-se-usa-la-ia-en-2026-olvida-los-prompts-xavier-mitjana. Nota: fuente 53/57; tres errores, nivel 2 = encargos (qué/qué/cómo se valida), nivel 3 = proyectos/Gems y agente Spark de Gemini (42 docs de Drive → cuadro de mando + informe), LLM wiki de Karpathy (transcript garbiña «And Carpaci»), anuncio de cuarto nivel emergente. Patrocinio Hostinger [04:38-06:02] excluido de la síntesis. Estado del lote: 53/57 con resumen, 4 pendientes.
 
 ## [2026-11-11] ingesta | Herdr es increíble (HolaMundo)
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=FxgzAcQfro0 — HolaMundo, 2026-09-15 (47:47). Raw: raw/inteligencia-artificial/2026-09-15-herdr-es-increible-aprendelo-gratis-ahora-con-certificado-incluido.md (subtítulos automáticos, literal). Página creada: resumen-herdr-es-increible-aprendelo-gratis-certificado-holamundo. Nota: fuente 54/57; Herdr como multiplexor de terminal con persistencia e integración nativa de agentes; modelo sesión→ventana→panel heredado de tmux; server en segundo plano; config.toml; fuzzy finder con filtro por estado; marketplace (~1123 plugins, revisar código); herder --remote; tesis del mini PC como arnés de agentes. Garbiñeos corregidos (Herder=Herdr, Cloud=Claude, timax=tmux). Autopromoción (certificado, academia) excluida. Estado del lote: 54/57 con resumen, 3 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=FxgzAcQfro0 — HolaMundo, 2026-09-15 (47:47). Raw: raw/ia-uso-practico/2026-09-15-herdr-es-increible-aprendelo-gratis-ahora-con-certificado-incluido.md (subtítulos automáticos, literal). Página creada: resumen-herdr-es-increible-aprendelo-gratis-certificado-holamundo. Nota: fuente 54/57; Herdr como multiplexor de terminal con persistencia e integración nativa de agentes; modelo sesión→ventana→panel heredado de tmux; server en segundo plano; config.toml; fuzzy finder con filtro por estado; marketplace (~1123 plugins, revisar código); herder --remote; tesis del mini PC como arnés de agentes. Garbiñeos corregidos (Herder=Herdr, Cloud=Claude, timax=tmux). Autopromoción (certificado, academia) excluida. Estado del lote: 54/57 con resumen, 3 pendientes.
 
 ## [2026-11-11] ingesta | FreeLLMAPI rompe las suscripciones (Alejavi Rivera)
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=7Oez8kmknOA — Alejavi Rivera, 2026-09-17 (30:51). Raw: raw/inteligencia-artificial/2026-09-17-freellmapi-acaba-de-romper-las-suscripciones-de-ia-todo-gratis-y-sin-l.md (subtítulos automáticos, literal). Página creada: resumen-freellmapi-acaba-de-romper-las-suscripciones-todo-gratis-alejavi-rivera. Nota: fuente 55/57; segunda cobertura de FreeLLMAPI (cruce con resumen-crea-apps-ia-api-gratis-dev-knives): solo modelos gratuitos auto-filtrados, modos fusion/auto/enrutamiento, mapeo Opus/Sonnet/Haiku, analiticas y trazabilidad, Ollama local como proveedor, compresión de contexto, apps móviles y VPS Docker. Afiliación Manus y autopromoción excluidas. Estado del lote: 55/57 con resumen, 2 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=7Oez8kmknOA — Alejavi Rivera, 2026-09-17 (30:51). Raw: raw/ia-uso-practico/2026-09-17-freellmapi-acaba-de-romper-las-suscripciones-de-ia-todo-gratis-y-sin-l.md (subtítulos automáticos, literal). Página creada: resumen-freellmapi-acaba-de-romper-las-suscripciones-todo-gratis-alejavi-rivera. Nota: fuente 55/57; segunda cobertura de FreeLLMAPI (cruce con resumen-crea-apps-ia-api-gratis-dev-knives): solo modelos gratuitos auto-filtrados, modos fusion/auto/enrutamiento, mapeo Opus/Sonnet/Haiku, analiticas y trazabilidad, Ollama local como proveedor, compresión de contexto, apps móviles y VPS Docker. Afiliación Manus y autopromoción excluidas. Estado del lote: 55/57 con resumen, 2 pendientes.
 
 ## [2026-11-11] ingesta | Gratis y sin límites: accesos API (CodeSimple)
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=yucBRF3lSaQ — CodeSimple, 2026-09-23 (06:00). Raw: raw/inteligencia-artificial/2026-09-23-gratis-y-sin-limites-accesos-api-de-gpt-claude-gemini-y-mas-2026-codesimple.md (subtítulos automáticos, literal; título del raw corregido, venía como UNKNOWN). Página creada: resumen-gratis-y-sin-limites-accesos-api-gpt-claude-gemini-codesimple. Nota: fuente 56/57; catálogo corto de proveedores gratuitos (NVIDIA, Pinecone, Token Harbor, OpenRouter, Talkify, agentrouter.org); nombres dudosos marcados con (?). Estado del lote: 56/57 con resumen, 1 pendiente.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=yucBRF3lSaQ — CodeSimple, 2026-09-23 (06:00). Raw: raw/ia-uso-practico/2026-09-23-gratis-y-sin-limites-accesos-api-de-gpt-claude-gemini-y-mas-2026-codesimple.md (subtítulos automáticos, literal; título del raw corregido, venía como UNKNOWN). Página creada: resumen-gratis-y-sin-limites-accesos-api-gpt-claude-gemini-codesimple. Nota: fuente 56/57; catálogo corto de proveedores gratuitos (NVIDIA, Pinecone, Token Harbor, OpenRouter, Talkify, agentrouter.org); nombres dudosos marcados con (?). Estado del lote: 56/57 con resumen, 1 pendiente.
 
 ## [2026-11-11] ingesta | La IA ya maneja todos tus programas (Pablo Tapias)
 
-- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=KkKjpyjn1vI — Pablo Tapias, 2026-11-04 (10:47). Raw: raw/inteligencia-artificial/2026-11-04-la-ia-ya-maneja-todos-tus-programas-agent-desktop-pablo-tapias.md (subtítulos automáticos, literal; título del raw corregido, venía como UNKNOWN). Página creada: resumen-la-ia-ya-maneja-todos-tus-programas-agent-desktop-pablo-tapias. Nota: fuente 57/57 (última del lote); Agent Desktop como puente de control preciso (interfaz a texto, no visión), 3 demos (Facturas Paco, NIE, Gestión Rufino 2003), skill para Claude Code. Autopromoción (mentorías, WhatsApp) excluida. Estado del lote: 57/57 con resumen, 0 pendientes.
+- Disposición: Nueva. Fuente: https://www.youtube.com/watch?v=KkKjpyjn1vI — Pablo Tapias, 2026-11-04 (10:47). Raw: raw/ia-critica-y-fronteras/2026-11-04-la-ia-ya-maneja-todos-tus-programas-agent-desktop-pablo-tapias.md (subtítulos automáticos, literal; título del raw corregido, venía como UNKNOWN). Página creada: resumen-la-ia-ya-maneja-todos-tus-programas-agent-desktop-pablo-tapias. Nota: fuente 57/57 (última del lote); Agent Desktop como puente de control preciso (interfaz a texto, no visión), 3 demos (Facturas Paco, NIE, Gestión Rufino 2003), skill para Claude Code. Autopromoción (mentorías, WhatsApp) excluida. Estado del lote: 57/57 con resumen, 0 pendientes.
 
 ## [2026-11-11] consolidacion parcial | Nuevo dominio historia-informatica y preservacion de raws
 
@@ -1094,3 +1094,11 @@ Registro cronológico de solo adición.
 - **overview.md**: lote marcado COMPLETADO/CONSOLIDADO (57/58 + 1 SKIP); decisiones 11-17 añadidas; pendientes del lote cerrados.
 - **sintesis.md**: Hilo 6 → CONSOLIDADO con tesis macro del cierre.
 - **Aprobado por el usuario en esta sesión**: pdt-llm-wiki.md restaurado (borrador del autor, forma parte del proyecto).
+
+## [2026-11-11] lint | reestructuración de dominios (aprobada por el usuario)
+
+- **Decisión del usuario** (ask_user_choice): (1) dividir `ia-uso-practico/` en **3 dominios**; (2) **redistribuir** los raws del bucket fantasma `raw/inteligencia-artificial/` al dominio wiki donde ya vive cada resumen; (3) **eliminar** `general/` (vacío).
+- **Nuevos dominios**: `ia-local/` (motores: llama.cpp, LM Studio, Strata, Ollama; modelos: Qwen, Gemma 4, LFM, Ornith, FrogNano, BitNet/Bonsai; hardware y cuantización; canales del banco de pruebas: Nichonauta, CodeSimple, Jorge Marfil, atareao, Apasoft) — 38 raws + 60 páginas; `agentes-de-codigo/` (Pi, MinAgent, DeepSeek Harness, OpenCode, Kilo Code, Herdr/multiplexores, ODD/Gentle AI, Fazt) — 9 raws + 26 páginas; `ia-uso-practico/` reducido (agregación de APIs, evaluación, productividad, Odysseus, canales transversales) — 39 raws + 39 páginas.
+- **Redistribución**: los 60 raws de `raw/inteligencia-artificial/` fueron cada uno al dominio de su resumen (ia-critica-y-fronteras 12, ia-media-generativa 11, ia-uso-practico 37); el directorio fantasma se eliminó.
+- **Mecánica**: 193 movimientos (wiki + raw), 332 actualizaciones de rutas en todo el repositorio (citas raw/ de los resúmenes, enlaces de index.md, overview.md y sintesis.md), 77 cabeceras `**Dominio**` actualizadas. Verificación final: **0 rutas rotas** en index/overview/síntesis y 0 citas raw huérfanas.
+- **`wiki/dominios.md`** reescrito con la nueva tabla de 10 dominios y la nota de reestructuración. `overview.md` y `sintesis.md` actualizados con la nueva estructura.

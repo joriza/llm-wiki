@@ -4,7 +4,7 @@
 - **Canal**: CreaTuIA (página de entidad pendiente de consolidación; misma fuente que [[resumen-4-mejores-ias-sin-censura-imagenes-gratis-creatuiia]]).
 - **Publicado**: 2025-10-16. **Duración**: 17:35.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=O1IKmUk2Dzs).
-- **Raw**: [raw/inteligencia-artificial/2025-10-16-mejor-ia-gratis-ilimitada-imagenes-sin-censura-creatuiia.md](../../raw/inteligencia-artificial/2025-10-16-mejor-ia-gratis-ilimitada-imagenes-sin-censura-creatuiia.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-media-generativa/2025-10-16-mejor-ia-gratis-ilimitada-imagenes-sin-censura-creatuiia.md](../../raw/ia-media-generativa/2025-10-16-mejor-ia-gratis-ilimitada-imagenes-sin-censura-creatuiia.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[generacion-local-de-imagenes]] (Fooocus local).
 - **Disposición de la ingesta**: Nueva.
 

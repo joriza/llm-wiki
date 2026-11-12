@@ -3,7 +3,7 @@
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=mjG1w1RjDKg) (fuente 51/57 del lote IA-Recursos)
 - **Canal**: [[gentleman-programming]].
 - **Publicado**: 2026-09-19 · Duración 38:19
-- **Raw**: `raw/inteligencia-artificial/2026-09-19-inteligencia-artificial-sin-sobreingenieria-por-que-cree-gentle-ai-cur.md` (subtítulos automáticos, transcripción literal)
+- **Raw**: `raw/ia-uso-practico/2026-09-19-inteligencia-artificial-sin-sobreingenieria-por-que-cree-gentle-ai-cur.md` (subtítulos automáticos, transcripción literal)
 
 ## Idea central
 

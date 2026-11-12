@@ -3,7 +3,7 @@
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=WM2JAuR-MOU) (fuente 52/57 del lote IA-Recursos)
 - **Canal**: Gentleman Programming Vods (stream) — [[gentleman-programming]].
 - **Publicado**: 2026-09-16 · Duración 127:52
-- **Raw**: `raw/inteligencia-artificial/2026-09-16-hoy-te-presento-odd-mi-metodologia-para-eliminar-la-burocracia-de-la-i.md` (subtítulos automáticos, transcripción literal; stream, mucho ruido de chat)
+- **Raw**: `raw/ia-uso-practico/2026-09-16-hoy-te-presento-odd-mi-metodologia-para-eliminar-la-burocracia-de-la-i.md` (subtítulos automáticos, transcripción literal; stream, mucho ruido de chat)
 
 ## Idea central
 

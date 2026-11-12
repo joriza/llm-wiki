@@ -3,7 +3,7 @@
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=Jctradr7k-Q) (fuente 47/57 del lote IA-Recursos)
 - **Canal**: [[fazt]]
 - **Publicado**: 2026-08-22 · Duración 15:05
-- **Raw**: `raw/inteligencia-artificial/2026-08-22-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador.md` (subtítulos automáticos, transcripción literal)
+- **Raw**: `raw/ia-uso-practico/2026-08-22-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador.md` (subtítulos automáticos, transcripción literal)
 
 ## Idea central
 

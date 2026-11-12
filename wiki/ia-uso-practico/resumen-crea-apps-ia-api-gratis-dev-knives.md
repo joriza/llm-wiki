@@ -4,7 +4,7 @@
 - **Canal**: Dev Knives (página de entidad pendiente de consolidación).
 - **Publicado**: 2026-07-15. **Duración**: 21:30.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=9o1TT3ie_9M).
-- **Raw**: [raw/inteligencia-artificial/2026-07-15-crea-apps-ia-api-gratis-dev-knives.md](../../raw/inteligencia-artificial/2026-07-15-crea-apps-ia-api-gratis-dev-knives.md) (transcripción de subtítulos automáticos con marcas de tiempo).
+- **Raw**: [raw/ia-uso-practico/2026-07-15-crea-apps-ia-api-gratis-dev-knives.md](../../raw/ia-uso-practico/2026-07-15-crea-apps-ia-api-gratis-dev-knives.md) (transcripción de subtítulos automáticos con marcas de tiempo).
 - **Páginas de concepto asociadas**: pendientes de consolidación (FreeLLMAPI, agregación de APIs gratuitas, modo fusión con modelo juez, Coolify, integración OpenCode/Claude Code).
 - **Disposición de la ingesta**: Nueva.
 

@@ -4,7 +4,7 @@
 - **Canal**: midulive (página de entidad pendiente de consolidación).
 - **Publicado**: 2024-08-13. **Duración**: 07:00.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=QVpxZyI1Iqk).
-- **Raw**: [raw/inteligencia-artificial/2024-08-13-generador-bases-de-datos-gratis-midulive.md](../../raw/inteligencia-artificial/2024-08-13-generador-bases-de-datos-gratis-midulive.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-uso-practico/2024-08-13-generador-bases-de-datos-gratis-midulive.md](../../raw/ia-uso-practico/2024-08-13-generador-bases-de-datos-gratis-midulive.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: pendientes de consolidación (Postgres.new, PGlite en navegador, SQL con lenguaje natural).
 - **Disposición de la ingesta**: Nueva.
 

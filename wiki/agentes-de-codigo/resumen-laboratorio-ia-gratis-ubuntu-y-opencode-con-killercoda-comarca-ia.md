@@ -4,7 +4,7 @@
 - **Canal**: Comarca IA (Hugo Paredes; entidad pendiente de consolidación).
 - **Publicado**: 2026-06-23. **Duración**: 09:19.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=r8bJpmw19_s).
-- **Raw**: [raw/inteligencia-artificial/2026-06-23-laboratorio-ia-gratis-ubuntu-y-opencode-con-killercoda-desde-tu-navega.md](../../raw/inteligencia-artificial/2026-06-23-laboratorio-ia-gratis-ubuntu-y-opencode-con-killercoda-desde-tu-navega.md) (subtítulos automáticos, transcripción literal).
+- **Raw**: [raw/ia-uso-practico/2026-06-23-laboratorio-ia-gratis-ubuntu-y-opencode-con-killercoda-desde-tu-navega.md](../../raw/ia-uso-practico/2026-06-23-laboratorio-ia-gratis-ubuntu-y-opencode-con-killercoda-desde-tu-navega.md) (subtítulos automáticos, transcripción literal).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]].
 - **Disposición de la ingesta**: Nueva.
 

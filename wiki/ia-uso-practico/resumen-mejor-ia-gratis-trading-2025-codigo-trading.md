@@ -4,7 +4,7 @@
 - **Canal**: Código Trading (página de entidad pendiente de consolidación).
 - **Publicado**: 2025-09-25. **Duración**: 19:03.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=aGaD7noI2xQ).
-- **Raw**: [raw/inteligencia-artificial/2025-09-25-mejor-ia-gratis-trading-2025-codigo-trading.md](../../raw/inteligencia-artificial/2025-09-25-mejor-ia-gratis-trading-2025-codigo-trading.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-uso-practico/2025-09-25-mejor-ia-gratis-trading-2025-codigo-trading.md](../../raw/ia-uso-practico/2025-09-25-mejor-ia-gratis-trading-2025-codigo-trading.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (bots con Grok 4).
 - **Disposición de la ingesta**: Nueva.
 

@@ -4,7 +4,7 @@
 - **Canal**: Alejavi Rivera (ver [[alejavi-rivera]], 6.ª fuente del lote).
 - **Publicado**: 2026-06-14. **Duración**: 26:52.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=VAw9w_IRMEs).
-- **Raw**: [raw/inteligencia-artificial/2026-06-14-la-ia-gratis-que-esta-destrozando-a-las-suscripciones-de-pago.md](../../raw/inteligencia-artificial/2026-06-14-la-ia-gratis-que-esta-destrozando-a-las-suscripciones-de-pago.md) (subtítulos manuales es-ES, transcripción literal).
+- **Raw**: [raw/ia-uso-practico/2026-06-14-la-ia-gratis-que-esta-destrozando-a-las-suscripciones-de-pago.md](../../raw/ia-uso-practico/2026-06-14-la-ia-gratis-que-esta-destrozando-a-las-suscripciones-de-pago.md) (subtítulos manuales es-ES, transcripción literal).
 - **Páginas de concepto asociadas**: [[generacion-local-de-imagenes]] (Ideogram 4.0 en ComfyUI); [[agentes-de-codigo]] (Odysseus como espacio agéntico).
 - **Disposición de la ingesta**: Nueva.
 

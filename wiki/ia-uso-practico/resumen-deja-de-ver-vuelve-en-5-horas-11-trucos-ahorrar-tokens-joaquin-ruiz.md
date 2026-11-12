@@ -3,7 +3,7 @@
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=yWx7TrhZTxg) (fuente 49/57 del lote IA-Recursos)
 - **Canal**: [[joaquin-ruiz]] — IA para Desarrolladores
 - **Publicado**: 2026-09-08 · Duración 18:37
-- **Raw**: `raw/inteligencia-artificial/2026-09-08-deja-de-ver-vuelve-en-5-horas-11-trucos-para-ahorrar-tokens.md` (subtítulos automáticos, transcripción literal)
+- **Raw**: `raw/ia-uso-practico/2026-09-08-deja-de-ver-vuelve-en-5-horas-11-trucos-para-ahorrar-tokens.md` (subtítulos automáticos, transcripción literal)
 
 ## Idea central
 

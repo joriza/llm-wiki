@@ -4,7 +4,7 @@
 - **Canal**: NextGen IA Hub (página de entidad pendiente de consolidación).
 - **Publicado**: 2026-01-31. **Duración**: 16:16.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=cfNAIQtNbKY).
-- **Raw**: [raw/inteligencia-artificial/2026-01-31-adios-notebooklm-surfsense-brutal-nextgen-ia-hub.md](../../raw/inteligencia-artificial/2026-01-31-adios-notebooklm-surfsense-brutal-nextgen-ia-hub.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-critica-y-fronteras/2026-01-31-adios-notebooklm-surfsense-brutal-nextgen-ia-hub.md](../../raw/ia-critica-y-fronteras/2026-01-31-adios-notebooklm-surfsense-brutal-nextgen-ia-hub.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: pendientes de consolidación (SurfSense, RAG colaborativo, conectores MCP, NotebookLM).
 - **Disposición de la ingesta**: Nueva.
 

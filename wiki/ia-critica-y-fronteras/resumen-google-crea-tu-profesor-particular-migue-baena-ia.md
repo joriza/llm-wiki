@@ -4,7 +4,7 @@
 - **Canal**: Migue Baena IA (entidad pendiente de consolidación).
 - **Publicado**: 2026-07-19. **Duración**: 19:47.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=IH__GK4XBbU).
-- **Raw**: [raw/inteligencia-artificial/2026-07-19-google-crea-tu-profesor-particular-con-ia-y-es-gratis.md](../../raw/inteligencia-artificial/2026-07-19-google-crea-tu-profesor-particular-con-ia-y-es-gratis.md) (subtítulos automáticos, transcripción literal).
+- **Raw**: [raw/ia-critica-y-fronteras/2026-07-19-google-crea-tu-profesor-particular-con-ia-y-es-gratis.md](../../raw/ia-critica-y-fronteras/2026-07-19-google-crea-tu-profesor-particular-con-ia-y-es-gratis.md) (subtítulos automáticos, transcripción literal).
 - **Páginas de concepto asociadas**: [[evaluacion-de-llms]] (evaluación diagnóstica como base del plan de estudio); [[agentes-de-codigo]] (Canvas para generar la app).
 - **Disposición de la ingesta**: Nueva.
 

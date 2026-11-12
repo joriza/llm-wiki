@@ -4,7 +4,7 @@
 - **Canal**: [[dot-csv-lab]] (misma fuente que [[resumen-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab]]).
 - **Publicado**: 2026-02-02. **Duración**: 25:14.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=bYVkgvs9GbM).
-- **Raw**: [raw/inteligencia-artificial/2026-02-02-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md](../../raw/inteligencia-artificial/2026-02-02-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-critica-y-fronteras/2026-02-02-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md](../../raw/ia-critica-y-fronteras/2026-02-02-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[world-models]].
 - **Disposición de la ingesta**: Nueva.
 

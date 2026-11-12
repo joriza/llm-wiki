@@ -4,7 +4,7 @@
 - **Canal**: Alejavi Rivera (ver [[alejavi-rivera]], 7.ª fuente del lote).
 - **Publicado**: 2026-07-12. **Duración**: 26:13.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=1PUzFg1CdbU).
-- **Raw**: [raw/inteligencia-artificial/2026-07-12-como-clonar-la-voz-en-segundos-por-ia-gratis-y-sin-limites.md](../../raw/inteligencia-artificial/2026-07-12-como-clonar-la-voz-en-segundos-por-ia-gratis-y-sin-limites.md) (subtítulos manuales es-ES, transcripción literal).
+- **Raw**: [raw/ia-media-generativa/2026-07-12-como-clonar-la-voz-en-segundos-por-ia-gratis-y-sin-limites.md](../../raw/ia-media-generativa/2026-07-12-como-clonar-la-voz-en-segundos-por-ia-gratis-y-sin-limites.md) (subtítulos manuales es-ES, transcripción literal).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (VPS/Docker como infraestructura de herramientas open source).
 - **Disposición de la ingesta**: Nueva.
 

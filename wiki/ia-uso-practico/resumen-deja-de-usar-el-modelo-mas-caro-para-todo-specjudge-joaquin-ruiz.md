@@ -4,7 +4,7 @@
 - **Canal**: [[joaquin-ruiz]] — IA para Desarrolladores.
 - **Publicado**: 2026-07-28. **Duración**: 08:23.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=T53zvm08zUg).
-- **Raw**: [raw/inteligencia-artificial/2026-07-28-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge.md](../../raw/inteligencia-artificial/2026-07-28-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge.md) (subtítulos manuales es-ES, transcripción literal).
+- **Raw**: [raw/ia-uso-practico/2026-07-28-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge.md](../../raw/ia-uso-practico/2026-07-28-deja-de-usar-el-modelo-mas-caro-para-todo-specjudge.md) (subtítulos manuales es-ES, transcripción literal).
 - **Páginas de concepto asociadas**: [[evaluacion-de-llms]] (elegir modelo por encaje, no por fama); [[agentes-de-codigo]] (spec-driven development).
 - **Disposición de la ingesta**: Nueva.
 

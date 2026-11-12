@@ -4,7 +4,7 @@
 - **Canal**: [[dot-csv-lab]].
 - **Publicado**: 2026-01-26. **Duración**: 30:29.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=59GrCryltng).
-- **Raw**: [raw/inteligencia-artificial/2026-01-26-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab.md](../../raw/inteligencia-artificial/2026-01-26-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-critica-y-fronteras/2026-01-26-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab.md](../../raw/ia-critica-y-fronteras/2026-01-26-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (agentes personales).
 - **Disposición de la ingesta**: Nueva.
 

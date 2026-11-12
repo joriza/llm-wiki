@@ -4,7 +4,7 @@
 - **Canal**: Alejavi Rivera (ver [[alejavi-rivera]], 5.ª fuente del lote).
 - **Publicado**: 2026-05-17. **Duración**: 29:01.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=J_cMk5zEThI).
-- **Raw**: [raw/inteligencia-artificial/2026-05-17-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-esto-puedes-hace.md](../../raw/inteligencia-artificial/2026-05-17-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-esto-puedes-hace.md) (subtítulos manuales es-ES, transcripción literal).
+- **Raw**: [raw/ia-critica-y-fronteras/2026-05-17-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-esto-puedes-hace.md](../../raw/ia-critica-y-fronteras/2026-05-17-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-esto-puedes-hace.md) (subtítulos manuales es-ES, transcripción literal).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (memoria para agentes).
 - **Disposición de la ingesta**: Nueva.
 

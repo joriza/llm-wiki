@@ -4,7 +4,7 @@
 - **Canal**: [[la-hora-maker]].
 - **Publicado**: 2024-09-16. **Duración**: 45:42.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=nGaHoH9HHu0).
-- **Raw**: [raw/inteligencia-artificial/2024-09-16-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker.md](../../raw/inteligencia-artificial/2024-09-16-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-uso-practico/2024-09-16-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker.md](../../raw/ia-uso-practico/2024-09-16-curso-evaluacion-llm-promptfoo-episodio-1-la-hora-maker.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[evaluacion-de-llms]] (Promptfoo local).
 - **Disposición de la ingesta**: Nueva.
 

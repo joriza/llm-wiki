@@ -4,7 +4,7 @@
 - **Canal**: Xavier Mitjana ([[xavier-mitjana]]).
 - **Publicado**: 2025-12-21. **Duración**: 22:54.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=UWmXrqhfP4c).
-- **Raw**: [raw/inteligencia-artificial/2025-12-21-google-dispara-tu-productividad-novedad-xavier-mitjana.md](../../raw/inteligencia-artificial/2025-12-21-google-dispara-tu-productividad-novedad-xavier-mitjana.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-uso-practico/2025-12-21-google-dispara-tu-productividad-novedad-xavier-mitjana.md](../../raw/ia-uso-practico/2025-12-21-google-dispara-tu-productividad-novedad-xavier-mitjana.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[generacion-local-de-imagenes]] (capas de imagen), [[agentes-de-codigo]] (agente navegador).
 - **Disposición de la ingesta**: Nueva.
 

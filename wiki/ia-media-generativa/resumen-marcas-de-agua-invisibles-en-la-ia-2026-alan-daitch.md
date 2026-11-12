@@ -3,7 +3,7 @@
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=HGWozEps8L8) (fuente 48/57 del lote IA-Recursos)
 - **Canal**: Alan Daitch
 - **Publicado**: 2026-08-20 · Duración 06:41
-- **Raw**: `raw/inteligencia-artificial/2026-08-20-marcas-de-agua-invisibles-en-la-ia-2026-que-son-y-como-evitarlas.md` (subtítulos automáticos, transcripción literal)
+- **Raw**: `raw/ia-media-generativa/2026-08-20-marcas-de-agua-invisibles-en-la-ia-2026-que-son-y-como-evitarlas.md` (subtítulos automáticos, transcripción literal)
 
 ## Idea central
 

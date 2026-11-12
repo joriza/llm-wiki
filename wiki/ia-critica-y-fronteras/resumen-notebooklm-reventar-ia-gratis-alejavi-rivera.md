@@ -4,7 +4,7 @@
 - **Canal**: Alejavi Rivera ([[alejavi-rivera]]).
 - **Publicado**: 2026-02-15. **Duración**: 31:11.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=SkuFcjfHWi4).
-- **Raw**: [raw/inteligencia-artificial/2026-02-15-notebooklm-reventar-ia-gratis-alejavi-rivera.md](../../raw/inteligencia-artificial/2026-02-15-notebooklm-reventar-ia-gratis-alejavi-rivera.md) (transcripción de subtítulos manuales es-ES con marcas de tiempo).
+- **Raw**: [raw/ia-critica-y-fronteras/2026-02-15-notebooklm-reventar-ia-gratis-alejavi-rivera.md](../../raw/ia-critica-y-fronteras/2026-02-15-notebooklm-reventar-ia-gratis-alejavi-rivera.md) (transcripción de subtítulos manuales es-ES con marcas de tiempo).
 - **Páginas de concepto asociadas**: [[agentes-de-codigo]] (control agéntico vía MCP).
 - **Disposición de la ingesta**: Nueva.
 

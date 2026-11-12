@@ -4,7 +4,7 @@
 - **Canal**: [[gustavo-entrala]]. **Entrevistado**: [[gary-marcus]].
 - **Publicado**: 2026-11-07. **Duración**: 62:52.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=0a7tFu6Gq0M).
-- **Raw**: [raw/inteligencia-artificial/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md](../../raw/inteligencia-artificial/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md) (transcripción con marcas de tiempo; subtítulos automáticos).
+- **Raw**: [raw/ia-critica-y-fronteras/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md](../../raw/ia-critica-y-fronteras/2026-11-07-gary-marcus-fracaso-industria-ia-gustavo-entrala.md) (transcripción con marcas de tiempo; subtítulos automáticos).
 - **Páginas de concepto asociadas**: [[limites-de-los-llm]] · [[burbuja-de-la-ia]] · [[ia-y-sociedad]].
 - **Disposición de la ingesta**: Nueva.
 - **Nota**: fuente de opinión estructurada como entrevista. Las afirmaciones sobre empresas y personas son declaraciones de Gary Marcus (a veces denuncias personales), no hechos verificados; se presentan atribuidas.

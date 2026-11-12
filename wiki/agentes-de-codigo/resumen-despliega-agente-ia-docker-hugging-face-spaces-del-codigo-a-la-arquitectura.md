@@ -4,7 +4,7 @@
 - **Canal**: Del Código a la Arquitectura (página de entidad pendiente de consolidación; misma serie que [[resumen-llmops-evaluar-agente-rag-ragas-del-codigo-a-la-arquitectura]]).
 - **Publicado**: 2025-09-19. **Duración**: 12:05.
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=V9TcltcpkYY).
-- **Raw**: [raw/inteligencia-artificial/2025-09-19-despliega-agente-ia-docker-hugging-face-spaces-del-codigo-a-la-arquitectura.md](../../raw/inteligencia-artificial/2025-09-19-despliega-agente-ia-docker-hugging-face-spaces-del-codigo-a-la-arquitectura.md) (transcripción con marcas de tiempo).
+- **Raw**: [raw/ia-uso-practico/2025-09-19-despliega-agente-ia-docker-hugging-face-spaces-del-codigo-a-la-arquitectura.md](../../raw/ia-uso-practico/2025-09-19-despliega-agente-ia-docker-hugging-face-spaces-del-codigo-a-la-arquitectura.md) (transcripción con marcas de tiempo).
 - **Páginas de concepto asociadas**: pendientes de consolidación (Docker, Hugging Face Spaces, agentes RAG, FastAPI, LangChain).
 - **Disposición de la ingesta**: Nueva.
 
