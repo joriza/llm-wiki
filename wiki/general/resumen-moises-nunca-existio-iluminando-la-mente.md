@@ -26,3 +26,5 @@ Moisés es probablemente un personaje literario construido en capas (éxodo Hixo
 ## Advertencias
 
 - Mezcla investigación real (Finkelstein, hipótesis kenita/madianita, hipótesis documental, Freud) con extrapolaciones fuertes y errores menores del ASR (Yahé/Yabé/Iabé por Yahvé, Hamurabi, Gilsías por Hilquías). Antes de elevar cualquier dato a referencia, verificar contra literatura académica específica.
+
+- **Entidad**: [[iluminando-la-mente]] — 2ª fuente del canal en la wiki (cruce Nicea↔Moisés: la misma fórmula de premisa sensacionalista + material académico real + cierre espiritual).

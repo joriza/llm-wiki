@@ -33,3 +33,5 @@ El problema principal de la IA no es el desempleo que generará, sino la «idiot
 - Las afirmaciones sobre Palantir (Ucrania, Gaza, deportaciones) son plausibles según cobertura periodística pero se presentan sin fuentes; el argumento del nombre como «confesión» es retórica, no evidencia.
 - «No existe la AGI» y la burbuja son tesis del canal, en disputa abierta con la industria; registrar como posición.
 - Garbiñeos del ASR normalizados solo aquí: «grabaríamos» (gravaríamos), «risquetos» (snacks/Cheetos), «desagregado/agregado» (fragmento confuso sobre plusvalía). La promoción de la novela «Duro de Pelar» y del video sobre Soros queda excluida de esta síntesis.
+
+- **Páginas de concepto asociadas**: [[atencion-secuestrada]] (la delegación cognitiva en la IA y la «idiotización» como control social). Canal: Roberto Vaquero, una sola fuente en la wiki — sin página de entidad por ahora (deferido en log).

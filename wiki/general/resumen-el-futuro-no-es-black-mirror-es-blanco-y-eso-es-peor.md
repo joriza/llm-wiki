@@ -24,3 +24,6 @@ Análisis de la serie *Pluribus* de Vince Gilligan como metáfora del presente: 
 ## Advertencias
 
 - La lectura de Pantone 2026 es una interpretación conspirativa-estética del autor, no un hecho; los nombres y citas vienen de ASR y deben verificarse antes de promocionar a referencia. Posible cruce con la fuente [[resumen-como-la-industria-musical-fabrico-una-generacion-sin-criterio]] (ambos temen la homogeneización) y con [[resumen-el-caso-mas-turbio-de-dr-house]] (media/serie como vehículo de ensayo), ambos en general/.
+
+- **Entidad**: [[puchito-cine]] — 4ª aparición del canal (3ª en general/).
+- **Páginas de concepto asociadas**: [[homogeneizacion-cultural]] (el futuro blanco como homogeneización afectiva) · [[realidad-como-espectaculo]] (el consenso que reemplaza al conflicto).

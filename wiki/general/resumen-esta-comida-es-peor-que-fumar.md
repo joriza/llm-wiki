@@ -31,3 +31,6 @@ Hoy mueren más personas por mala alimentación que por accidentes de tránsito 
 - Eritrosina/rojo 3: la prohibición estadounidense (2025) es correcta en el marco temporal; la descripción «derivado del petróleo» es una simplificación divulgativa común, no una caracterización toxicológica.
 - Cifras sin fuente puntual en el raw: 55 % de consumo calórico en EE. UU., 70 % del sodio, 14 % de diabetes, 30 % de UNICEF, 43 % mundial — verificar contra las fuentes originales (OMS, UNICEF, IDF) antes de citar.
 - Garbiñeos del ASR normalizados solo aquí: «Vilquis» (Bilinkis), «Moscovitz/Movich» (Moskowitz), «jmaf» (jarabe de maíz), «carbonexilitalina» (carboximetilcelulosa), «ACB» (ACV), «agarrass» (agarrás), «descifráis» (descifráis/russismos del ASR). El patrocinio declarado (BBVA, Personal) y las autorreferencias a otros episodios quedan excluidas de esta síntesis.
+
+- **Entidad**: [[santiago-bilinkis]] — 1ª aparición del canal en la lista mixta (dominio general/).
+- **Páginas de concepto asociadas**: [[atencion-secuestrada]] (el bliss point y el hackeo dopaminérgico: la misma ingeniería de la recompensa que las pantallas, aplicada a la comida).

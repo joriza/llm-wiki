@@ -23,3 +23,5 @@ La música popular actual es un «producto neuroquímico» de la industria y los
 ## Advertencias
 
 - Datos científicos no verificados (el estudio de Viena no se cita con precisión); las afirmaciones neurobiológicas son simplificaciones fuertes sin fuentes; el estilo es manifiestamente polémico (el propio video pide «sangre en los comentarios»). Registrado como ensayo de opinión del canal.
+
+- **Páginas de concepto asociadas**: [[homogeneizacion-cultural]] (núcleo de la página: la música como producto estándar, hilo Adorno/Han) · [[atencion-secuestrada]] (mere exposure como condicionamiento; la escucha activa como antídoto).

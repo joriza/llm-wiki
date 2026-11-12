@@ -23,3 +23,5 @@ El Concilio de Nicea (325) no fue un evento espiritual sino político: Constanti
 ## Advertencias
 
 - Verificación pendiente para elevar a referencia: composición real del concilio y actas (no hubo «votación» formal del credo como se narra), el edicto de quema con pena capital, la carta de Constantino, autoría del término homousios (Ossio de Córdoba [«oo de Córdoba» en el ASR]).
+
+- **Entidad**: [[iluminando-la-mente]] — canal divulgativo histórico-religioso sensacionalista; 1ª de sus 2 fuentes en la wiki.

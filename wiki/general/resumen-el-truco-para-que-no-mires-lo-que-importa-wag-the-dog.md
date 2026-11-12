@@ -31,3 +31,6 @@
 - Las frases sobre el poder y el petróleo provienen de entrevistados no identificados en la transcripción (una atribuida a Foucault, otra sobre Irak y las arvejas); no citar sin identificar la fuente original del fragmento.
 - El paralelo Irak/ADMs y la lectura «recursos como motivo real» de las intervenciones son hipótesis interpretativas del canal; requieren bibliografía específica antes de elevarlas a referencia.
 - Nombres y garbiñeos del ASR normalizados solo aquí: «Wak the Dog / Wag de Dog» (*Wag the Dog*), «Conrad Brin/Bre» (Brean), «Mots/Mmuds» (Motss), «Daftin Hoffman» (Dustin Hoffman), «Albaña» (Albania), «arvejas» (arvejas/arroces según contexto).
+
+- **Entidad**: [[puchito-cine]] — 3ª aparición del canal (2ª en general/).
+- **Páginas de concepto asociadas**: [[realidad-como-espectaculo]] (núcleo de la página: el relato que reemplaza al hecho) · [[homogeneizacion-cultural]] (el relato único; cruce con la industria musical — el himno «Old Shoe» como emblema fabricado para circular solo).

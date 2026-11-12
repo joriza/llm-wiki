@@ -31,3 +31,6 @@ Los smartphones y las redes iniciaron hacia 2010 el «experimento psicológico m
 - «237 notificaciones diarias» y «25 años de vida scrolleando»: cifras divulgativas sin referencia; verificar.
 - La crítica al «experimento» como marco (conejillos de indias sin consentimiento) es retórica del canal: no hubo un experimento único diseñado, sino la adopción comercial no regulada de tecnologías; registrar como encuadre.
 - Garbiñeos del ASR normalizados solo aquí: «Vilquis» (Bilinkis), «SEO de Apple» (CEO), «Fau Schwartz» (FAO Schwarz), «escroleando/croleando» (scrolleando), «Nicolas Cartaba» (Nicholas Carr), «efecto fln» (efecto Flynn), «Vivec Merty» (Vivek Murthy), «Sara Abramson» (Sara Abrahamsson), «tu exa» (tu ex), «agarrass» (agarrás), «hac la cuenta» (hacé la cuenta), «tensión psicológica» (atención/tratamiento psicológico, según el estudio original). El patrocinio declarado (Personal BBVA) y la referencia al episodio anterior sobre redes sociales quedan excluidos de esta síntesis.
+
+- **Entidad**: [[santiago-bilinkis]] — 2ª aparición del canal en la lista mixta (dominio general/).
+- **Páginas de concepto asociadas**: [[atencion-secuestrada]] (núcleo de la página: pantallas, dopamina, efecto Flynn revertido y los antídotos coincidentes).

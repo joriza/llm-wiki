@@ -23,3 +23,5 @@ El **CSS Box Model** jugó para el web design el papel que el contenedor de tran
 ## Advertencias
 
 - Divulgación con tesis fuerte pero razonada; la historia técnica (tablas, spacer GIFs, Box Model, no-code) es verificable y correcta a grandes rasgos. Incluye autopromoción de newsletter (excluida de la síntesis). Posible cruce futuro con el dominio historia-informatica.
+
+- **Páginas de concepto asociadas**: [[homogeneizacion-cultural]] (relacionada: la estandarización→abstracción como contracara productiva de la homogeneización — el estándar también democratiza). Canal: Design Lovers, una sola fuente en la wiki — sin página de entidad por ahora (deferido en log).

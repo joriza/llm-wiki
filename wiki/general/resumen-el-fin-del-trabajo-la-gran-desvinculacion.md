@@ -38,3 +38,5 @@ Durante milenios el trabajo fue hambre y obligación, no identidad; la modernida
 - «Más de la mitad de los empleos no contribuye a nada esencial» se presenta como sugerencia de Graeber; en su libro la magnitud proviene de encuestas de percepción (~37-40%) y es debatida — no elevar la cifra del video a dato.
 - «La gran desvinculación» [15:31] se atribuye a «los expertos» sin fuente puntual: verificar el origen del término (se asocia habitualmente a informes de compromiso laboral, p. ej. Gallup) antes de usarlo como categoría.
 - Datos históricos estándar (Čapek 1921, Ford 1914, Keynes 1930, Arendt 1958) consistentes con el registro general, pero verificados solo contra el video; la periodización «1.000 años» de Acemoglu/Johnson es la síntesis del canal.
+
+- **Páginas de concepto asociadas**: [[atencion-secuestrada]] (relacionada: la IA fagocitando la capacidad cognitiva y de decisión — la «gran desvinculación» como resultado a escala laboral). Canal no identificado (metadatos UNKNOWN) — sin página de entidad.

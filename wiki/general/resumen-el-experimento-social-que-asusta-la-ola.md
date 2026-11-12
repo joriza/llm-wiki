@@ -30,3 +30,5 @@ El experimento de la Tercera Ola (Ron Jones, Palo Alto, 1967) muestra que instal
 - El video mezcla deliberadamente experimento real y ficciones (1981/2008): escenas como los juicios expres y el «exilio a la biblioteca» provienen del relato testimonial, no del guion cinematográfico — la atribución exacta de cada episodio requiere verificación.
 - Datos de Milgram (65 % de obediencia, techo de 450 V, pago de 4 USD) coinciden con la publicación original pero se citan sin referencia; la universidad aparece garbiñeada por el ASR («de Shale» por Yale) — normalizado solo aquí.
 - La cita «literal, textual» de Haffner corresponde a una traducción indirecta en el video; verificar contra la edición española (*Historia de un alemán*, 2000) antes de citar.
+
+- **Entidad**: [[puchito-cine]] — 2ª aparición del canal (cine como documento social-experimental; consolidada en la lista mixta 2026-11-12).

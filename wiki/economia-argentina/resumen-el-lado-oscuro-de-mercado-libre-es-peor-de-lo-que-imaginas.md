@@ -27,3 +27,5 @@ Mercado Libre no gana por su marketplace —ese sería solo el «cebo»— sino 
 - Los importes de 2023 (ingresos netos ~14.500 millones de USD; volumen de pago ~60.000 millones de USD) son del orden de los reportes públicos de la compañía, pero el video no cita informe alguno; contrastar con el reporte anual de MercadoLibre antes de citar.
 - La afirmación «obligar a los vendedores a usar exclusivamente Mercado Pago» es una simplificación: las políticas de medios de pago y envíos han variado por país y categoría; verificar el estado vigente.
 - Garbiñeos del ASR normalizados solo aquí: «Mercadolibbre/Mercadoolbre» (Mercado Libre), «Galin» (Galperin), «Dialab» (dial-up), «fintec» (fintech), «pes» (pesos). La promoción final del video sobre Rappi queda excluida de esta síntesis.
+
+- **Entidad**: [[otros-canales-dp]] — 2ª aparición del canal Jhonny Vendo (1ª: [[resumen-el-problema-con-linkedin-jhonny-vendo]], dominio desarrollo-personal); mismo registro opinionístico sin fuentes en ambos videos.
