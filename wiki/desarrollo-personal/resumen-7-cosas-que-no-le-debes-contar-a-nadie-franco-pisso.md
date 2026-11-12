@@ -1,0 +1,27 @@
+# Resumen: 7 COSAS QUE NO LE DEBES CONTAR A NADIE
+
+- **Tipo**: resumen de fuente.
+- **Dominio**: `desarrollo-personal/`.
+- **Fuente original**: `raw/desarrollo-personal/2026-03-09-7-cosas-que-no-le-debes-contar-a-nadie-franco-pisso.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar; «OPI, OPI abre ahora en abril» = nombre de su formación propia, promoción excluida) — https://www.youtube.com/watch?v=U92p5eKmI_k — Franco Pisso (profesor de oratoria, magíster en comunicación), 2026-03-09 (17:55).
+- **Nota**: fuente 11/20 de la lista del usuario. Charla didáctica rioplatense con apuntes declarados. El estudio sobre «las parejas que más suben contenido son las menos felices» lo cita con desconocimiento de la fuente — no elevar a hecho.
+
+## La premisa
+
+«Ponderar el silencio sobre decirlo»: seguramente aplicás más de tres de estos siete silencios, y dejar de comunicar esos puntos cambia tanto cómo te ven (la gente busca más tu compañía y valora más tu tiempo) como cómo te sentís.
+
+## Los 7 silencios
+
+1. **Tus planes, metas y objetivos.** El caso del primo con el emprendimiento «a punto de arrancar» hace 7 años: contar planes **absorbe miedos ajenos** (opiniones de gente que no sabe lo que buscás) y genera una **recompensa cerebral anticipada** — «decir que estoy a punto de hacer algo ya me hace sentir como si lo estuviera logrando», por eso el «lunes arranco la dieta» nunca arranca. Ni siquiera la conjugación («estamos haciendo…») engaña al cerebro. Metáfora central: **contar el plan es tirar el ladrillo para que otro lo mire, en vez de usarlo para construir la casa**. Excepción: una persona de confianza extrema. «No digas que lo estás haciendo: hacelo, y después lo contás».
+2. **Los detalles de tu relación de pareja.** «La pareja tiene dos personas involucrándola: no es un contenido social». Si es increíble: comparaciones, envidia, sospechas de que «no debe ser real». Si hablás mal: perdés confianza y vos mismo empezás a verlo más negativo. Señal de alarma: el desprecio/asc («la contracción del bucinador» — microexpresión de asco) al hablar de la pareja «normalmente significa que las cosas están realmente mal». El estudio de parejas-instagram lo cita pero se deslinda de él.
+3. **Cuánto ganás.** Ganas poco → «sin resultados, sin estatus»; ganás mucho → «creído, mentiroso, hace cosas raras». Cualquiera de las dos cambia la dinámica social (interés por tu plata o abandono). Y «nunca va a ser suficiente, ni por mucho ni por poco». Salvedad ética: preguntarle a alguien cuánto gana «es una falta de respeto — es información que le pertenece»; aceptable: «me está yendo mejor o peor que el año pasado».
+4. **Tus problemas.** «A nadie le importás como para que dejen de dormir por vos». Contar los problemas a cualquiera instala el **rol de víctima** («pobrecito, siempre le pasa lo mismo») y crea un **problema identitario**: «se empieza a asociar el sufrimiento con tu identidad — esta es una persona con mala suerte». «Hay cosas que se hablan en terapia», no con el kiosquero. Elegí muy bien con quién compartís.
+5. **Tus logros demasiado pronto.** «Calma — que los resultados hablen por sí solos»: mejor que otros se te acerquen a decir «vi que tenías 100.000 reproducciones» (dos estadios repletos) que autopromocionarte. Hablar todo el tiempo de logros «genera rechazo — la gente quiere estar con seres humanos, que tienen victorias y derrotas» y genera una presión externa durísima (lo siguiente tiene que ser mayor). «Así como a nadie le interesan tus problemas, a nadie le interesan tus logros tampoco».
+6. **Hablar mal de los demás.** El punto que más subraya: el miedo a exponerse viene de criarse donde se hablaba mal de la gente (programas de chimento) — creés que tus acciones van a salir en el chimento y «vos no sos famoso: sos una persona que tiene que hacer una presentación, y RRHH no va a llegar a su casa a hablar de tu entrevista porque tiene otros problemas». La escala cósmica: «en 150 años muy probablemente ninguno estemos vivos — ¿cómo vamos a ser esclavos del qué dirán?». «Dejá de mirar noticieros y programas de chimento y tu vida cambia rotundamente». **Ejercicio práctico**: una pulserita (o un cable) en una muñeca; cada vez que hablás mal de alguien, la cambiás de mano — al pasar 24 horas sin hablar mal de nadie, hiciste la purga.
+7. **Los secretos que te confiaron.** «La confianza se gana con muchos actos y se pierde en uno solo — una escalera muy larga con un precipicio al lado: pisás en falso una vez y te caés al fondo». «Así como la palabra tiene peso, el silencio también lo tiene» — la discreción como uno de los valores sociales más ponderados de la amistad.
+
+## Cruces
+
+- El punto 1 (contar el plan consume la recompensa) es el argumento clásico contra «seguí tu pasión anunciándola» y conecta con Guldenaar ([[resumen-por-que-la-mayoria-de-los-programadores-estan-perdiendo-el-tiempo-rob-guldenaar]]: el builder «hace que algo exista», no lo anuncia).
+- El punto 5 («que los resultados hablen») es la versión social de «no entregues logros sin poder explicarlos» y del antirlead del lote anterior (los PR firmados por Claude).
+- El punto 6 (el qué dirán y el chimento) dialoga con la «presión 3: el ruido» de GP y con «comparar tu detrás de escena con el highlight» de Bilinkis/Vendo: mismo ecosistema de comparación social.
+- Punto 3 y 4 ≈ «gastar para encajar» (Bilinkis): la moneda social que uno pone en circulación define el rol que le devuelven.
