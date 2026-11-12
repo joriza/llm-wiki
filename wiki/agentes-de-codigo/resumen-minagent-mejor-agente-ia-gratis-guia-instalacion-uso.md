@@ -55,9 +55,9 @@
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/nichonauta]] (fuente 23 en el lote).
+- Entidad: [[nichonauta]] (fuente 23 en el lote).
 - Entidad: [[minagent]] (agente minimalista terminal, fork de main agent; prompts optimizados, `/init` → `agents.md`, `/context`, `@archivo`, Escape para detener; funciona con cualquier API OpenAI-compatible).
 - Modelo: [[gemma-4]] (E4B QAT 6.1 GB VRAM; funciona bien con prompts minimalistas).
 - Entidad: [[llama-cpp]] (Windows CUDA 13; backend usado en demo).
-- Concepto: [[ia-uso-practico/ia-local-texto]] (modelo pequeño + prompts minimalistas + contexto controlado = usable diario).
+- Concepto: [[ia-local-texto]] (modelo pequeño + prompts minimalistas + contexto controlado = usable diario).
 - Relacionado: fuente 33/58 (Pi Agent setup end-to-end); fuente 45/58 (automatización Python + Gemma 4 E2B — arnés > modelo grande); fuente 38/58 (programación real con Pi Agent).

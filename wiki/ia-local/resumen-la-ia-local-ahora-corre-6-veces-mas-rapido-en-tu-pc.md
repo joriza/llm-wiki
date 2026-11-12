@@ -106,9 +106,9 @@
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/codesimple]] (fuente 4 en el lote; versión CodeSimple de la historia Strata).
+- Entidad: [[codesimple]] (fuente 4 en el lote; versión CodeSimple de la historia Strata).
 - Entidad: [[strata]] (motor especializado; refuerza datos fuente 51: IQ3_XXS 99.4% media, coder 32 GB, RTX 2060 6 GB, motor Apple Silicon 41-52 tok/s, Claude+Codex 7-10 días).
 - Modelo: [[qwen]] (3.8 Flash Next 125B MoE refuerza; 27B SWE-Bench Pro 61.7 vs 62.5).
 - Entidad: [[llama-cpp]] (PR #29887 expert cache; 4090 1.57×, 5090 2.2×).
-- Concepto: [[ia-uso-practico/hardware-para-ia-local]] (RAM manda > VRAM; DDR5 ×4-5; "si no cabe en la despensa no corre").
+- Concepto: [[hardware-para-ia-local]] (RAM manda > VRAM; DDR5 ×4-5; "si no cabe en la despensa no corre").
 - Relacionado: fuente 51/58 (Jorge Marfil — misma historia, análisis paralelo); fuente 53/58 (BitNet ternarios — hardware especializado); fuente 44/58 (concurrencia KV cache).

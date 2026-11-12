@@ -40,8 +40,8 @@
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/abi]] (canal, 1ª fuente en el lote; tutoriales paso a paso en español).
-- Concepto: [[ia-uso-practico/ia-local-texto]] (alternativa nube gratis cuando hardware local no alcanza).
-- Entidad: [[ollama]] (servidor en Kaggle notebook; endpoint OpenAI-compatible expuesto vía Cloudflare).
-- Concepto: [[ia-uso-practico/agregacion-apis]] (Kaggle como proveedor gratuito más en el catálogo).
+- Entidad: [[abi]] (canal, 1ª fuente en el lote; tutoriales paso a paso en español).
+- Concepto: [[ia-local-texto]] (alternativa nube gratis cuando hardware local no alcanza).
+- Entidad: Ollama (servidor en Kaggle notebook; endpoint OpenAI-compatible expuesto vía Cloudflare).
+- Concepto: [[agregacion-apis]] (Kaggle como proveedor gratuito más en el catálogo).
 - Relacionado: fuente 48/58 (Cómo Usar GPU Gratis en Kaggle — CodeSimple, misma receta con cliente Hermes/Open WebUI); fuente 43/58 (No Compres Hardware — alternativa nube para lo pesado); fuente 30/58 (CPU-only llama.cpp — economía local sin GPU).

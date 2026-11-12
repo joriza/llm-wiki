@@ -91,8 +91,8 @@
 ## Cruces en la wiki
 
 - Entidad: [[informatica-teoria/cognix]] (5ª fuente en ia-uso-practico; 1ª en historia-informatica).
-- Concepto: [[ia-uso-practico/multiplexores-agentes]] (concurrencia, continuous batching, asientos vs velocidad).
+- Concepto: [[multiplexores-agentes]] (concurrencia, continuous batching, asientos vs velocidad).
 - Entidad: [[llama-cpp]] (server con continuous batching por defecto desde marzo 2024).
-- Entidad: [[vllm]] / [[sglang]] (motores serios, disaggregation a escala).
-- Concepto: [[ia-uso-practico/hardware-para-ia-local]] (economía auto-alojamiento vs APIs, $0,30 vs $0,28 / 1M tokens).
+- Entidad: vLLM / SGLang (motores serios, disaggregation a escala).
+- Concepto: [[hardware-para-ia-local]] (economía auto-alojamiento vs APIs, $0,30 vs $0,28 / 1M tokens).
 - Relacionado: fuente 32/58 (pila 5 capas inferencia local — Cognix); fuente 39/58 (Mac Studio vs $200/mes — Cognix).

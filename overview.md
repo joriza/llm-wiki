@@ -82,7 +82,7 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 ### Pendientes tras la consolidación
 
 - **Migración de dominios aprobada por el usuario** (2026-11-11): dividir `ia-uso-practico/` en 3 (`ia-local/`, `agentes-de-codigo/`, `ia-uso-practico/` reducido), redistribuir los 60 raws del bucket fantasma `raw/inteligencia-artificial/` a los dominios de sus resúmenes, eliminar `general/` vacío.
-- Canales con 1 fuente quedan como páginas mínimas ([[ia-uso-practico/abi]], [[bartowski]]).
+- Canales con 1 fuente quedan como páginas mínimas ([[abi]], [[bartowski]]).
 
 ---
 

@@ -5,7 +5,7 @@
 - **Actualizado**: 2026-11-11 (consolidación lote ia-local — fuente 58).
 - **Fuentes**: [[resumen-ia-local-programacion-agentes-gratis-privado-cualquier-pc]] (HolaMundo) · mencionado en [[resumen-estas-usando-el-motor-de-ia-equivocado-y-esta-es-la-razon]] (pila de 5 capas, opción escritorio).
 
-App de escritorio para **gestionar, chatear y servir modelos locales** — la alternativa «todo en uno» frente a [[llama-cpp]] (flexibilidad) y Ollama (API). En el lote es el gestor elegido por [[ia-uso-practico/holamundo]].
+App de escritorio para **gestionar, chatear y servir modelos locales** — la alternativa «todo en uno» frente a [[llama-cpp]] (flexibilidad) y Ollama (API). En el lote es el gestor elegido por [[holamundo]].
 
 ## Funciones documentadas
 
@@ -24,4 +24,4 @@ GPU offload 20 → 18 tok/s · offload 30 → 28 tok/s · **modelo completo en V
 
 ## Cruces
 
-[[llama-cpp]] · [[ia-local-texto]] · [[ia-uso-practico/holamundo]] · [[agentes-de-codigo]].
+[[llama-cpp]] · [[ia-local-texto]] · [[holamundo]] · [[agentes-de-codigo]].

@@ -5,7 +5,7 @@
 - **Actualizado**: 2026-11-11 (consolidación lote ia-local — fuente 52).
 - **Fuentes**: [[resumen-frognano-4b-es-realmente-mejor-que-qwen-3-5-original]] (Nichonauta, 2026-10-02).
 
-**FrogNano 4B** (v2609): fine-tune de Microsoft sobre **Qwen 3.5 4B**, «propósito general: lenguaje, razonamiento, codificación, agentes, multimodal». Ficha sin benchmarks ni comparativas (solo texto generado por IA). Cuantización probada: **Q4_K_M + mmproj de [[ia-uso-practico/bartowski]]**; conserva **MTP** (muchos fine-tunes lo pierden).
+**FrogNano 4B** (v2609): fine-tune de Microsoft sobre **Qwen 3.5 4B**, «propósito general: lenguaje, razonamiento, codificación, agentes, multimodal». Ficha sin benchmarks ni comparativas (solo texto generado por IA). Cuantización probada: **Q4_K_M + mmproj de [[bartowski]]**; conserva **MTP** (muchos fine-tunes lo pierden).
 
 ## Resultados de las pruebas (vs Qwen 3.5 4B original)
 

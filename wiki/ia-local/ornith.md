@@ -20,4 +20,4 @@ Familia de **fine-tunes de Qwen 3.5 9B**: Ornith 1 → Ornith 1.5 («mejora de l
 
 ## Cruces
 
-[[qwen]] (base y comparación) · [[llama-cpp]] (parámetros oficiales por modelo) · [[pi-agent]] (test agéntico) · [[ia-uso-practico/nichonauta]].
+[[qwen]] (base y comparación) · [[llama-cpp]] (parámetros oficiales por modelo) · [[pi-agent]] (test agéntico) · [[nichonauta]].

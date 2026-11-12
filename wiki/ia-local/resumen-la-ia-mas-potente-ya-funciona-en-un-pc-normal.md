@@ -131,9 +131,9 @@ Setup: especificación honrada + trampas (tests que comprueban lo contrario de l
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/jorge-marfil]] (2ª fuente; laboratorio con trampas + barrido RAM + demo a ciegas).
+- Entidad: [[jorge-marfil]] (2ª fuente; laboratorio con trampas + barrido RAM + demo a ciegas).
 - Modelo: [[qwen]] (3.8 Flash Next refuerza: arquitectura interna Qwen 4 XP, 180B = 125B+51B n-grams+4B MTP; 3-bit 82 GB; 17/17 laboratorio; SWE comparison Opus 4.6 62.5 vs 53.4; Qwen 3.6 35B 14/17).
 - Entidad: [[llama-cpp]] (soporte Qwen 4 XP en main; MTP integrado 1 oct; memory mapping SSD; expertos en RAM).
-- Concepto: [[ia-uso-practico/hardware-para-ia-local]] (6 hilos = 1/núcleo +48%; 24 GB contestar / 40 GB leer; tabla n-grams en SSD vía mmap; Free Token colgado vs llama.cpp mmap).
-- Concepto: [[ia-uso-practico/ia-local-texto]] (control+privacidad vs velocidad; relevo planificador/ejecutor entre modelos).
+- Concepto: [[hardware-para-ia-local]] (6 hilos = 1/núcleo +48%; 24 GB contestar / 40 GB leer; tabla n-grams en SSD vía mmap; Free Token colgado vs llama.cpp mmap).
+- Concepto: [[ia-local-texto]] (control+privacidad vs velocidad; relevo planificador/ejecutor entre modelos).
 - Relacionado: fuente 51/58 y 55/58 (Strata — misma arquitectura/motor historia); fuente 44/58 (KV cache); fuente 47/58 (RAM manda, prefill vs decode).

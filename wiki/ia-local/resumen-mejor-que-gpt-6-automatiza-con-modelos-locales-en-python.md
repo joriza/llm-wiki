@@ -50,9 +50,9 @@ En lugar de "genera 1000 ideas de dinosaurios":
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/nichonauta]] (fuente 21 en el lote; canal de IA local práctica).
+- Entidad: [[nichonauta]] (fuente 21 en el lote; canal de IA local práctica).
 - Modelo: [[gemma-4]] (E2B refuerza: 3.6 GB VRAM, MTP, visión, ideal para arnés automatización).
 - Entidad: [[llama-cpp]] (server OpenAI-compatible, parallel slots, continuous batching, KV cache opcional).
-- Concepto: [[ia-uso-practico/ia-local-texto]] (regla: modelo más pequeño que dé el rendimiento; arnés como multiplicador).
-- Concepto: [[ia-uso-practico/multiplexores-agentes]] (paralelismo, slots, continuous batching).
+- Concepto: [[ia-local-texto]] (regla: modelo más pequeño que dé el rendimiento; arnés como multiplicador).
+- Concepto: [[multiplexores-agentes]] (paralelismo, slots, continuous batching).
 - Relacionado: fuente 33/58 (programación real con Pi Agent — setup end-to-end similar); fuente 29/58 (DeepSeek Harness + Gemma 4 local — preset optimizado 6× tokens).

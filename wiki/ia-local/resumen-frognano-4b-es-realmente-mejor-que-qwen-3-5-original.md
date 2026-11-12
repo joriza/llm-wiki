@@ -56,7 +56,7 @@
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/nichonauta]] (fuente 25 en el lote).
+- Entidad: [[nichonauta]] (fuente 25 en el lote).
 - Modelo: [[qwen]] (3.5 4B base; FrogNano = fine-tune Microsoft v2609).
 - Modelo: [[frognano]] (Microsoft, fine-tune Qwen 3.5 4B; Q4_K_M + MM Pro; MTP integrado; redacción más robótica; similar en código, mejora puntual en Asteroids; no reemplaza al original).
 - Entidad: [[llama-cpp]] (backend, ajustes Qwen 3.5 4B estándar).

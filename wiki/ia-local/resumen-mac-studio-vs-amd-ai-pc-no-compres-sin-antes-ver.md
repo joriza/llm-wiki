@@ -97,7 +97,7 @@
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/codesimple]] (fuente 2 en el lote; canal análisis económico/técnico IA local).
-- Concepto: [[ia-uso-practico/hardware-para-ia-local]] (refuerza: preprocesamiento vs decodificación, modelos densos vs MoE, curva software, trampas hardware, economía 24/7).
+- Entidad: [[codesimple]] (fuente 2 en el lote; canal análisis económico/técnico IA local).
+- Concepto: [[hardware-para-ia-local]] (refuerza: preprocesamiento vs decodificación, modelos densos vs MoE, curva software, trampas hardware, economía 24/7).
 - Entidad: [[llama-cpp]] (compilación +33% más rápido en Mac; kernels atención Ken 3.6 en AMD).
 - Relacionado: fuente 39/58 (Mac Studio vs $200/mes — Cognix, análisis financiero complementario); fuente 43/58 (No Compres Hardware — CodeSimple, economía VRAM/depreciación); fuente 44/58 (Concurrencia — Cognix, continuous batching, KV cache).

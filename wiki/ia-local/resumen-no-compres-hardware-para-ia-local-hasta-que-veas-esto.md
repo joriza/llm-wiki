@@ -77,8 +77,8 @@ Análisis de 50 mil anuncios eBay vendidos (ene-jun 2026, 16 tarjetas):
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/codesimple]] (canal, 1ª fuente en el lote).
-- Concepto: [[ia-uso-practico/hardware-para-ia-local]] (economía de VRAM, depreciación/reventa, ancho de banda vs capacidad, cuentas de equilibrio).
-- Concepto: [[ia-uso-practico/agregacion-apis]] (modelos abiertos alojados como alternativa racional; FreeLLMAPI/OmniRouter/Mammouth).
+- Entidad: [[codesimple]] (canal, 1ª fuente en el lote).
+- Concepto: [[hardware-para-ia-local]] (economía de VRAM, depreciación/reventa, ancho de banda vs capacidad, cuentas de equilibrio).
+- Concepto: [[agregacion-apis]] (modelos abiertos alojados como alternativa racional; FreeLLMAPI/OmniRouter/Mammouth).
 - Entidad: [[llama-cpp]] (contexto de inferencia local, ancho de banda memoria).
 - Relacionado: fuente 39/58 (Mac Studio vs $200/mes — Cognix, análisis financiero complementario); fuente 30/58 (CPU-only llama.cpp — economía RAM vs GPU).

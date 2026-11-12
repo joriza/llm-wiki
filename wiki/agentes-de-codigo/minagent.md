@@ -5,7 +5,7 @@
 - **Actualizado**: 2026-11-11 (consolidación lote ia-local — fuentes 49 y 50, mismo día).
 - **Fuentes**: [[resumen-minagent-mejor-agente-ia-gratis-guia-instalacion-uso]] · [[resumen-minagent-mi-agente-desarrollo-como-crear-agente-ia-simple]] (Nichonauta, 2026-09-25).
 
-Agente de desarrollo de **terminal, minimalista y open source** de [[ia-uso-practico/nichonauta]], construido sobre la base de [[pi-agent]] («si Pi ya es sencillo, esto lo es aún más»). Node.js + cualquier API OpenAI-compatible ([[llama-cpp]], LM Studio, Anthropic, OpenAI, Gemini…).
+Agente de desarrollo de **terminal, minimalista y open source** de [[nichonauta]], construido sobre la base de [[pi-agent]] («si Pi ya es sencillo, esto lo es aún más»). Node.js + cualquier API OpenAI-compatible ([[llama-cpp]], LM Studio, Anthropic, OpenAI, Gemini…).
 
 ## Filosofía: simpleza intencional
 

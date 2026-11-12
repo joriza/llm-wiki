@@ -106,13 +106,13 @@
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/holamundo]] (fuente 2 en el lote; guía end-to-end IA local para desarrollo).
+- Entidad: [[holamundo]] (fuente 2 en el lote; guía end-to-end IA local para desarrollo).
 - Entidad: [[lm-studio]] (gestor modelos; model server JIT + only-last-loaded; KV Q8 trick; MCP Exa; extensión VS Code Copilot local).
 - Entidad: [[pi-agent]] (plugin LM Studio, `/model`; skills backlog/story; alucinaciones corregibles).
-- Entidad: [[herdr]] (multiplexor: Pi + Lazygit lado a lado).
+- Entidad: Herdr (multiplexor: Pi + Lazygit lado a lado).
 - Modelo: [[gemma-4]] (E4B razonamiento/chat; 12B agéntico moderado; 18→104 tok/s según offload).
 - Modelo: [[qwen]] (3.6 35B A3B MTP diario; 3.5 2B sorprende; 3.8 27B).
 - Modelo: [[lfm]] (2.5 24B A2B implementación código; 183.78 tok/s VRAM completa).
-- Concepto: [[ia-uso-practico/ia-local-texto]] (tareas acotadas + contexto claro; híbrido nube/local; PCI Compliance → solo local).
-- Concepto: [[ia-uso-practico/multiplexores-agentes]] (Herdr 2 pestañas).
+- Concepto: [[ia-local-texto]] (tareas acotadas + contexto claro; híbrido nube/local; PCI Compliance → solo local).
+- Concepto: [[multiplexores-agentes]] (Herdr 2 pestañas).
 - Relacionado: fuente 33/58 (Pi Agent setup end-to-end); fuente 45/58 (automatización Python arnés); fuente 49-50/58 (MinAgent); fuente 32/58 (pila 5 capas: LM Studio escritorio).

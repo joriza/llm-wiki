@@ -53,7 +53,7 @@
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/nichonauta]] (fuente 22 en el lote).
+- Entidad: [[nichonauta]] (fuente 22 en el lote).
 - Modelo: [[qwen]] (3.5 9B base; comparativa con fine-tune Ornith).
 - Modelo: [[ornith]] (fine-tune de Qwen 3.5 9B → 1 → 1.5; 9B; MTP + visión; mejora agéntica).
 - Entidad: [[llama-cpp]] (parámetros de ejecución oficiales por modelo; MM Pro, MTP).

@@ -102,9 +102,9 @@
 
 - Entidad: [[informatica-teoria/cognix]] (6ª fuente en ia-uso-practico; 1ª en historia-informatica; análisis técnico profundo).
 - Entidad: [[bitnet]] (Microsoft 2024: 1.58-bit LLMs, ternario -1/0/+1, bitnet.cpp CPU, QAT straight-through estimator; 2.22 GB VRAM 3B, 2.71× velocidad, -72% energía; entrenamiento 4T tokens desde cero).
-- Entidad: [[ternary-bonsai]] / [[prism-ml]] (Prism ML sept 2025: Qwen 3.8 27B ternario via distilación desde pesos reales; 54→5.9 GB, 98.2% score; Hugging Face; corre en 5060 Ti 16 GB).
+- Entidad: [[ternary-bonsai]] / Prism ML (Prism ML sept 2025: Qwen 3.8 27B ternario via distilación desde pesos reales; 54→5.9 GB, 98.2% score; Hugging Face; corre en 5060 Ti 16 GB).
 - Modelo: [[qwen]] (3.8 27B base para Bonsai 2; 2.5 1.5B comparación BitNet 2B).
 - Entidad: [[llama-cpp]] (base bitnet.cpp; PR #29887 expert cache relacionado).
-- Concepto: [[ia-uso-practico/hardware-para-ia-local]] (RAM manda; Tensor Cores vs sumadores; Nvidia 80% mercado dicta formato; contexto 16-bit come VRAM).
-- Concepto: [[ia-uso-practico/ia-local-texto]] (cuantización vs QAT; ternario vs 4-bit; memorización vs razonamiento).
+- Concepto: [[hardware-para-ia-local]] (RAM manda; Tensor Cores vs sumadores; Nvidia 80% mercado dicta formato; contexto 16-bit come VRAM).
+- Concepto: [[ia-local-texto]] (cuantización vs QAT; ternario vs 4-bit; memorización vs razonamiento).
 - Relacionado: fuente 32/58 (pila 5 capas inferencia — Cognix, motores especializados); fuente 44/58 (KV cache cuello botella); fuente 51/58 (Strata caché expertos MoE — similar idea: mover lo caliente a VRAM).

@@ -44,8 +44,8 @@
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/codesimple]] (fuente 3 en el lote; canal análisis económico/técnico + tutoriales prácticos).
-- Concepto: [[ia-uso-practico/ia-local-texto]] (alternativa nube gratis cuando hardware local no alcanza; complemento a "modelo más pequeño que dé el rendimiento").
-- Entidad: [[ollama]] (corre en Kaggle notebook; endpoint OpenAI-compatible expuesto vía Cloudflare).
-- Concepto: [[ia-uso-practico/agregacion-apis]] (Kaggle como proveedor gratuito más en el catálogo; FreeLLMAPI/OmniRouter podrían integrarlo).
+- Entidad: [[codesimple]] (fuente 3 en el lote; canal análisis económico/técnico + tutoriales prácticos).
+- Concepto: [[ia-local-texto]] (alternativa nube gratis cuando hardware local no alcanza; complemento a "modelo más pequeño que dé el rendimiento").
+- Entidad: Ollama (corre en Kaggle notebook; endpoint OpenAI-compatible expuesto vía Cloudflare).
+- Concepto: [[agregacion-apis]] (Kaggle como proveedor gratuito más en el catálogo; FreeLLMAPI/OmniRouter podrían integrarlo).
 - Relacionado: fuente 43/58 (No Compres Hardware — CodeSimple, alternativa nube para lo pesado); fuente 30/58 (CPU-only llama.cpp — economía RAM vs GPU/nube).

@@ -120,10 +120,10 @@
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/jorge-marfil]] (canal, 1ª fuente en lote; análisis técnico profundo, estilo "desde cero para que lo siga cualquiera").
+- Entidad: [[jorge-marfil]] (canal, 1ª fuente en lote; análisis técnico profundo, estilo "desde cero para que lo siga cualquiera").
 - Entidad: [[strata]] (motor inferencia especializado Qwen 3.8 Flash Next 125B MoE; caché expertos adaptativa, CPU+GPU pipeline, MTP, lectura chunked; MIT license; 8k★ en 9 días; PR llama.cpp #29887 replica idea).
 - Modelo: [[qwen]] (3.8 Flash Next 125B MoE, arquitectura Qwen 4; 6B activos/token, 48 capas, 512 expertos, top-11, n-grams 51B; cuantizaciones Q2_0/IQ3_XXS/IQ2_XS/IQ3_S; Swift 1.5 fine-tune).
 - Entidad: [[llama-cpp]] (motor general; PR #29887 añade expert cache; 15-20 tok/s sin él).
-- Concepto: [[ia-uso-practico/hardware-para-ia-local]] (RAM manda > VRAM para MoE; DDR5 precio ×4-5; economía RAM vs API).
-- Concepto: [[ia-uso-practico/ia-local-texto]] (preprocesamiento/lectura vs generación; Strata acelera lectura 15-26×).
+- Concepto: [[hardware-para-ia-local]] (RAM manda > VRAM para MoE; DDR5 precio ×4-5; economía RAM vs API).
+- Concepto: [[ia-local-texto]] (preprocesamiento/lectura vs generación; Strata acelera lectura 15-26×).
 - Relacionado: fuente 32/58 (pila 5 capas inferencia — Cognix, motores especializados vs generales); fuente 44/58 (concurrencia — continuous batching, KV cache); fuente 47/58 (Mac vs AMD — preprocesamiento vs decodificación, MoE corriente principal).

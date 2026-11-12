@@ -63,10 +63,10 @@
 
 ## Cruces en la wiki
 
-- Entidad: [[ia-uso-practico/nichonauta]] (fuente 24 en el lote; mismo día que fuente 49).
+- Entidad: [[nichonauta]] (fuente 24 en el lote; mismo día que fuente 49).
 - Entidad: [[minagent]] (agente terminal minimalista basado en Pi Agent; Node.js + OpenAI-compatible API; 5 tools nativas sandboxed; `/init`→`agents.md`, `/compactar`, `/contexto`, `@archivo`, visión, multi-archivo; proyecto 166 KB auto-modificable; filosofía: simpleza intencional para modelos pequeños y grandes).
 - Entidad: [[pi-agent]] (base arquitectural de MinAgent; fuente 33/58 setup end-to-end).
 - Modelo: [[gemma-4]] (E4B 132k ctx texto+imagen+reasoning; 6.1 GB VRAM en fuente 49, aquí mismo modelo).
 - Entidad: [[llama-cpp]] (backend usado en demos; Windows CUDA 13).
-- Concepto: [[ia-uso-practico/ia-local-texto]] (modelo pequeño + prompts minimalistas + contexto controlado = usable diario; preprocesamiento vs generación tokens).
+- Concepto: [[ia-local-texto]] (modelo pequeño + prompts minimalistas + contexto controlado = usable diario; preprocesamiento vs generación tokens).
 - Relacionado: fuente 49/58 (MinAgent guía instalación/uso — misma herramienta, foco en setup y uso diario); fuente 33/58 (Pi Agent setup end-to-end — base arquitectural).

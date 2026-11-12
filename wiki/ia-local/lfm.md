@@ -34,4 +34,4 @@ En el duelo de MoE chicos (~1B activo, solo texto): el LFM 2.5 8B-A1B es **más 
 
 ## LFM 2.5 24B A2B (fuente 58)
 
-La guía de [[ia-uso-practico/holamundo]] lo recomienda como **modelo de implementación de código** cuando el Qwen 3.6 35B no corre: sigue instrucciones y patrones sin desviarse. Medido en la 3060 del tutorial: 32 tok/s con offload parcial + ctx 60k + KV Q8, **183.78 tok/s con el modelo completo en VRAM (sin MTP — velocidad nativa)**, 22-26 tok/s en CPU casi puro.
+La guía de [[holamundo]] lo recomienda como **modelo de implementación de código** cuando el Qwen 3.6 35B no corre: sigue instrucciones y patrones sin desviarse. Medido en la 3060 del tutorial: 32 tok/s con offload parcial + ctx 60k + KV Q8, **183.78 tok/s con el modelo completo en VRAM (sin MTP — velocidad nativa)**, 22-26 tok/s en CPU casi puro.
