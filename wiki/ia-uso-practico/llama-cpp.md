@@ -2,8 +2,8 @@
 
 - **Tipo**: página de entidad (herramienta).
 - **Dominio**: `ia-uso-practico/`.
-- **Actualizado**: 2026-11-11 (fuente 28/58 del lote ia-local — TurboQuant / KV cache Q8 + rotary attention).
-- **Fuentes**: [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]] · [[resumen-turboquant-en-llama-cpp-como-reducir-la-vram-de-tus-modelos-de-ia-sin-perder-calidad]].
+- **Actualizado**: 2026-11-11 (fuente 30/58 del lote ia-local — build CPU-only demostrado).
+- **Fuentes**: [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]] · [[resumen-turboquant-en-llama-cpp-como-reducir-la-vram-de-tus-modelos-de-ia-sin-perder-calidad]] · [[resumen-modelos-de-lenguaje-en-cpu-como-ejecutarlos-con-llama-cpp-sin-una-gpu]].
 
 **llama.cpp** es el conjunto de herramientas y librerías open source (GitHub `ggml-org/llama.cpp`) que ejecuta modelos de lenguaje estilo GPT **en tu propia PC**, con GPU NVIDIA (CUDA), AMD/Intel (Vulkan) o CPU puro — con fallback automático a CPU si la GPU no está disponible.
 
@@ -70,4 +70,4 @@ Los modelos chicos entran en **loops infinitos** (repiten la misma cadena sin sa
 
 ## Dónde queda en la wiki
 
-Es el motor descrito como alternativa a Ollama/LM Studio en [[ia-local-texto]]; su endpoint OpenAI-compatible conecta los clientes de [[agentes-de-codigo]] (OpenCode, Codex). El ecosistema de hardware/cuantización se desarrolla en las fuentes siguientes del lote ia-local. TurboQuant / KV cache Q8 + rotary attention es una mejora gratuita que se activa automáticamente en versiones actuales.
+Es el motor descrito como alternativa a Ollama/LM Studio en [[ia-local-texto]]; su endpoint OpenAI-compatible conecta los clientes de [[agentes-de-codigo]] (OpenCode, Codex). El ecosistema de hardware/cuantización se desarrolla en las fuentes siguientes del lote ia-local. TurboQuant / KV cache Q8 + rotary attention es una mejora gratuita que se activa automáticamente en versiones actuales. **Build CPU-only** (fuente 30): misma capacidad y modelos GGUF, velocidad usable (11+ tok/s en Qwen 35B-A3B MoE, 35 GB RAM), a fracción del costo de GPU equivalente (250 USD RAM vs 5000+ USD GPU).

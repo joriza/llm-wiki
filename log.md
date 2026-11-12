@@ -947,3 +947,11 @@ Registro cronológico de solo adición.
 - Procesada bajo instrucción del usuario («procese solo 2 fuentes mas», 2ª) — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 29/58.
 - Entidad [[gemma-4]] refuerza: benchmarks velocidad 166-186 tok/s, consumo 3.6 GB VRAM, pruebas funcionales, comparación Qwen.
 - Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 35-58 (~24) + la 54 UNKNOWN.
+
+## [2026-11-11] ingesta | lote ia-local — fuentes 30-31/58 (pedido: «procese solo 2 fuentes mas»)
+
+- Fuente 30/58: Modelos de Lenguaje en CPU — CÓMO Ejecutarlos con llama.cpp sin una GPU (build CPU-only Windows: mismos GGUF; Gemma E2B usable, Qwen 3.6 35B-A3B MoE 3B activos a >11 tok/s en 35 GB RAM grabando video; economía 250 USD RAM vs 5000+ USD GPU; MoE ideal para CPU) — raw raw/ia-uso-practico/2026-09-06-modelos-de-lenguaje-en-cpu-como-ejecutarlos-con-llama-cpp-sin-una-gpu.md — resumen wiki/ia-uso-practico/resumen-modelos-de-lenguaje-en-cpu-como-ejecutarlos-con-llama-cpp-sin-una-gpu.md
+- Fuente 31/58: Guía Completa de Ollama Modelfile — Personaliza tus LLMs Locales Paso a Paso (Apasoft Training, 2026-08-19): ModelFile = Dockerfile para Ollama; bloques FROM/TEMPLATE/SYSTEM/ADAPTER/LICENSE/PARAMETER/MESSAGE (few-shot); `ollama create` no duplica GB (solo metadatos); ejemplo experto Python (temp 0.2, system, messages → solo código); hereda lo no definido del base — raw raw/ia-uso-practico/2026-08-19-guia-completa-de-ollama-modelfile-personaliza-tus-llms-locales-paso-a-paso.md — resumen wiki/ia-uso-practico/resumen-guia-completa-de-ollama-modelfile-personaliza-tus-llms-locales-paso-a-paso.md
+- Procesadas bajo instrucción del usuario («procese solo 2 fuentes mas») — descargas siguen detenidas, runner no relanzado (solo --one x2). Estado del lote: 31/58.
+- Entidad [[llama-cpp]] ampliada con build CPU-only (fuente 30). Nueva entrada en index: Apasoft Training (canal).
+- Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 37-58 (~22) + la 54 UNKNOWN.
