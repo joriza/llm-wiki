@@ -812,7 +812,7 @@ Registro cronológico de solo adición.
 - Fuente 4/7: Todas las Bibliotecas de Python | Explicadas en 8 minutos (panorámica divulgativa; sin profundidad técnica, señalado) — raw raw/python-practico/2026-05-22-todas-las-bibliotecas-de-python-explicadas-en-8-minutos.md — resumen wiki/python-practico/resumen-todas-las-bibliotecas-de-python-explicadas-en-8-minutos.md
 - Páginas derivadas fuente 4/7: concepto [[mapa-del-ecosistema-python]] (taxonomía por rol, cruzada con polars/fastapi/playwright/loguru/codigo-de-plomeria; sin entidades nuevas — 23 librerías de una línea, las recurrentes ya tienen página).
 - Fuente 5/7: Estas 5 librerías de Python parecen DEMASIADO PODEROSAS (multiplicadores unipersonales; sin concepto propio — hilo unificador ya vivo en codigo-de-plomeria) — raw raw/python-practico/2026-10-05-estas-5-librerias-de-python-parecen-demasiado-poderosas.md — resumen wiki/python-practico/resumen-estas-5-librerias-de-python-parecen-demasiado-poderosas.md
-- Páginas derivadas fuente 5/7: entidades [[manim]], [[faker]], [[gradio]], [[diagrams]], [[marimo]] + fila «Demo y prototipado» en [[mapa-del-ecosistema-python]]; PENDIENTE RESUELTO: entidad [[cognix]] creada en informatica-teoria consolidando las 3 fuentes del canal (URL vs URI, lenguajes parte 2, librerías poderosas).
+- Páginas derivadas fuente 5/7: entidades [[manim]], [[faker]], [[gradio]], [[diagrams]], [[marimo]] + fila «Demo y prototipado» en [[mapa-del-ecosistema-python]]; PENDIENTE RESUELTO: entidad [[informatica-teoria/cognix]] creada en informatica-teoria consolidando las 3 fuentes del canal (URL vs URI, lenguajes parte 2, librerías poderosas).
 - Fuente 6/7: Tutorial DuckDB: La BBDD rápida y ligera (tutorial completo con demostraciones; promoción del sitio del canal excluida) — raw raw/python-practico/2024-07-03-tutorial-duckdb-la-bbdd-rapida-y-ligera-ideal-para-analitica-etl-scripting-micro.md — resumen wiki/python-practico/resumen-tutorial-duckdb-la-bbdd-rapida-y-ligera-ideal-para-analitica-etl-scripting-micro.md
 - Páginas derivadas fuente 6/7: entidad [[duckdb]] + concepto [[bases-de-datos-especializadas]] (tesis de nichos, con matriz de decisión que cruza polars y automatizacion-con-python).
 - Fuente 7/7: 7 Librerías de Python Que Usan los Micro-SaaS Rentables (stack micro-SaaS en 4 movimientos; anécdota marco del canal no verificable, promos excluidas) — raw raw/python-practico/2026-10-19-7-librerias-de-python-que-usan-los-micro-saas-rentables.md — resumen wiki/python-practico/resumen-7-librerias-de-python-que-usan-los-micro-saas-rentables.md
@@ -822,7 +822,7 @@ Registro cronológico de solo adición.
 
 - **Lote completo**: 7/7 fuentes (0 SKIP), ingestadas en bucle secuencial descarga→ingesta por ruta VPN Proton (agente único, pacing ≥50 s).
 - **Consolidación sin aplazamiento** (decisión del usuario): 6 páginas de concepto (logging-en-python, automatizacion-con-python, codigo-de-plomeria, mapa-del-ecosistema-python, bases-de-datos-especializadas, micro-saas-con-python) + 17 páginas de entidad (loguru, polars, playwright, fastapi, pydantic, sqlmodel, dramatiq, dynaconf, manim, faker, gradio, diagrams, marimo, duckdb, alembic, celery, cognix), todas cableadas con enlaces de doble corchete desde sus resúmenes y entre sí.
-- **Pendiente heredado resuelto**: entidad [[cognix]] (3 fuentes en 3 dominios) — líneas de pendiente actualizadas en overview.md y sintesis.md.
+- **Pendiente heredado resuelto**: entidad [[informatica-teoria/cognix]] (3 fuentes en 3 dominios) — líneas de pendiente actualizadas en overview.md y sintesis.md.
 - **Actualizados**: overview.md (128 fuentes, dominio python-practico, hilo temático 8) y sintesis.md (sección 8, pendientes a cinco lotes completos).
 - **Lint final** y push: ver entrada de cierre.
 
@@ -910,7 +910,7 @@ Registro cronológico de solo adición.
 - **overview.md**: 142 fuentes; ia-uso-practico 47 (lote ia-local en curso 24/58); páginas 152 resúmenes + 99 consolidación + 3 meta (verificado por filesystem); hilo temático 9 agregado.
 - **sintesis.md**: hilo 9 agregado; pendientes actualizados (ia-local en curso 24/58).
 - **protocolo-ingesta-youtube.md**: estado al pausar actualizado (24/58, 3 raws en scratch, reanudación completa).
-- **Pendiente heredado resuelto esta sesión**: entidad [[cognix]] (3 fuentes en 3 dominios).
+- **Pendiente heredado resuelto esta sesión**: entidad [[informatica-teoria/cognix]] (3 fuentes en 3 dominios).
 - **Push a origin/master** y cierre de sesión a pedido del usuario.
 
 ## [2026-11-11] ingesta | lote ia-local — fuente 25/58 (pedido: «procese solo 1 fuente mas»)
@@ -955,3 +955,18 @@ Registro cronológico de solo adición.
 - Procesadas bajo instrucción del usuario («procese solo 2 fuentes mas») — descargas siguen detenidas, runner no relanzado (solo --one x2). Estado del lote: 31/58.
 - Entidad [[llama-cpp]] ampliada con build CPU-only (fuente 30). Nueva entrada en index: Apasoft Training (canal).
 - Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 37-58 (~22) + la 54 UNKNOWN.
+
+## [2026-11-11] ingesta | lote ia-local — fuente 32/58 (pedido: «procese solo 3 fuentes mas», 1ª)
+
+- Fuente 32/58: Estás Usando el Motor de IA Equivocado… y Esta es la Razón (análisis pila 5 capas inferencia local; Cognix, 2026-09-06): separa formato/runtime/motor servidor/gestión/UI; desmonta benchmarks tok/s en 1 request; tabla de decisión por cuello de botella (flexibilidad→llama.cpp, API→Ollama, escritorio→LM Studio, concurrencia→vLLM/SGLang, Apple→MLX, MoE→Free Token/Calibri); motores: vLLM (PagedAttention), SGLang (Radix Attention), TensorRT-LLM, ExLlama, MLX, Free Token/Calibri (MoE offload GPU→RAM→NVMe) — raw raw/ia-uso-practico/2026-09-06-estas-usando-el-motor-de-ia-equivocado-y-esta-es-la-razon.md — resumen wiki/ia-uso-practico/resumen-estas-usando-el-motor-de-ia-equivocado-y-esta-es-la-razon.md
+- Procesada bajo instrucción del usuario («procese solo 3 fuentes mas», 1ª) — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 32/58.
+- Entidad [[ia-uso-practico/cognix]] creada en ia-uso-practico (2ª fuente del canal; 1ª en historia-informatica).
+- Quedan pendientes 2ª y 3ª fuentes del pedido.
+
+## [2026-11-11] ingesta | lote ia-local — fuente 33/58 (pedido: «procese solo 3 fuentes mas», 2ª)
+
+- Fuente 33/58: Programación Real con IA Local — Guía Paso a Paso desde Cero con Pi Agent (setup end-to-end: hardware RTX 3060 12 GB → modelo Gemma 4 12B QAT Q4 (6.65 GB mmproj+MTP) → llama.cpp CUDA 13 .bat optimizado (KV Q8 TurboQuant, MTP draft, reasoning, ctx 262k) → Pi Agent + Custom Provider TS conectado a endpoint OpenAI localhost:8080/v1; demo Snake HTML funcional, autocompactación, 70+ tok/s MTP) — raw raw/ia-uso-practico/2026-09-10-programacion-real-con-ia-local-guia-paso-a-paso-desde-cero-con-pi-agent.md — resumen wiki/ia-uso-practico/resumen-programacion-real-con-ia-local-guia-paso-a-paso-desde-cero-con-pi-agent.md
+- Fuente 34/58: Mac Studio vs $200 al mes en IA — ¿Cuál merece más la pena? (análisis financiero/técnico Cognix: memoria unificada Max 128 GB $5.1k punto dulce; Ultra 256 GB $9.5k para MoE 170-180 GB; vs suscripción $20-200/mes recuperación 21-2 años; vs API por uso centavos/millón tokens = decenas $/mes brutal; costo oculto local = tiempo compatibilidad/compresión/templates; decisión: $20-60/mes → olvida local; compras Mac igual → Max 128 GB; uso pro/datos sensibles → Ultra 256 GB; API $$$ → hardware propio) — raw raw/ia-uso-practico/2026-09-07-mac-studio-vs-200-al-mes-en-ia-cual-merece-mas-la-pena.md — resumen wiki/ia-uso-practico/resumen-mac-studio-vs-200-al-mes-en-ia-cual-merece-mas-la-pena.md
+- Procesadas bajo instrucción del usuario («procese solo 3 fuentes mas», 2ª y 3ª) — descargas siguen detenidas, runner no relanzado (solo --one x2). Estado del lote: 34/58.
+- Entidad [[pi-agent]] creada (agente minimalista extensible, Custom Provider TS). Entidad [[informatica-teoria/cognix]] actualizada con 3ª fuente del canal. Entidad [[gemma-4]] refuerza pipeline completo. Entidad [[llama-cpp]] .bat optimizado documentado.
+- Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 40-58 (~19) + la 54 UNKNOWN.
