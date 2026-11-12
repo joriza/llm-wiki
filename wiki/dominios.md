@@ -22,3 +22,4 @@ Reestructuración aprobada por el usuario (2026-11-11): `ia-uso-practico/` se di
 | `desarrollo-personal/` | **Crecimiento personal y vida práctica**: suerte y decisión, dinero, gestión del tiempo, flow, hábitos, psicología aplicada; lo afín a IA se cruza con ia-uso-practico (lista del usuario, 2026-11-12). |
 | `historia-argentina/` | Historia política, territorial y económica de Argentina desde divulgación: siglos XIX-XX, caudillos, federalismo, Malvinas, infraestructura (playlist «Historia Argentina», 2026-11-12). |
 | `economia-argentina/` | Divulgación económica y de seguridad social argentina: jubilaciones, pensiones, sistema previsional y política económica (playlist mixta del usuario, 2026-11-12). |
+| `general/` | Fuentes que aún no justifican un dominio propio (bucket recreado 2026-11-12 para off-topic de la lista mixta; se evalúa reubicación o dominio nuevo en la consolidación). |
