@@ -8,6 +8,8 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 |---------|-------------------|---------------------|---------------------|-----------|---------------------|
 | `casa-calefaccion/` | 13 (lote completo) | 4 | 13+ | 13 | ✅ Consolidado |
 | `historia-argentina/` | **9** (lista completa 9/9) | **3** | **9** | **9** | ✅ **Consolidado 2026-11-12** (aduana porteña, porteñocentrismo, Malvinas) |
+| `economia-argentina/` | **4** (lista mixta 1-24; 18 entradas de la lista pendientes) | 0 | **1** | 4 | 🔄 Activo (jubilaciones, pensiones, política económica) |
+| `general/` | **18** (lista mixta; 2 reubicadas fuera en consolidación) | **3** | **1** | 16 | 🔄 Activo (bucket off-topic de la lista mixta; reevaluar en cada consolidación) |
 | `ciencias-tierra/` | 3 | 4 | 1 | 3 | Estable |
 | `critica-tecnologica/` | 11 (Café Kyoto) | 9 | 1 | 11 | Estable |
 | `ia-critica-y-fronteras/` | 12+ | 8 | 5 | 12+ | Activo (Gary Marcus, IA China, world models) |
@@ -19,7 +21,7 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 | `historia-informatica/` | 12+ | 4 | 10 | 12+ | Estable |
 | `python-practico/` | 7 (lote completo) | 6 | 17 | 7 | ✅ Consolidado |
 
-**Total general**: ~216 fuentes, 58+ conceptos, 104+ entidades, ~216 resúmenes.
+**Total general**: ~238 fuentes (incl. lista mixta 1-24), 61+ conceptos, 106+ entidades, ~238 resúmenes.
 
 ---
 
@@ -103,6 +105,25 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 
 ---
 
+## Hilo temático 13: Lista mixta (economia-argentina/ + general/) — 🔄 CONSOLIDADA (pasada 1-24, 2026-11-12)
+
+**Playlist**: https://www.youtube.com/playlist?list=PLqe2XRWDm9RGsT8jzKULykYY792qDz9pQ (42 entradas; procesadas 1-24, quedan 18).
+
+**Estado**: **22 procesadas con ciclo completo + 2 SKIP definitivos sin subtítulos** (fuente 8 gxGkbyokiLk «Las Apuestas ya No Son un Entretenimiento»; fuente 12 GlHvr7Nmw5Q; marcador `.no-subs`). Clasificación confirmada por el usuario: economía/seguridad social → `economia-argentina/` (4: fuentes 1, 2, 3, 11); off-topic → `general/` (18, de las cuales 2 reubicadas en la consolidación).
+
+**Entidades**: [[fundacion-libertad-y-progreso]] (think tank libertario), [[iluminando-la-mente]] (canal histórico-religioso sensacionalista, 2 fuentes confirmadas). **Actualizadas**: otros-canales-dp (Jhonny Vendo, 2ª aparición), santiago-bilinkis (6 fuentes totales), puchito-cine (4 apariciones). Canales de 1 fuente sin página (deferidos en log): Cintia Cotur, Adrián Lusardi, Cine Leyendas Secretas, Themateoteo, El Guion Interno, DW Documental, Roberto Vaquero, Tiemblen Tiranos, SupervivenciaModerna, Design Lovers.
+
+**Conceptos creados en consolidación**: [[homogeneizacion-cultural]] (la cultura como producto estándar: industria musical + *Pluribus* + Wag the Dog + cine de los 90; contracara productiva: Box Model), [[atencion-secuestrada]] (atención y cognición capturadas: IA + ultraprocesados + pantallas; dopamina, mere exposure y antídotos), [[realidad-como-espectaculo]] (el relato que reemplaza al hecho / la interfaz que reemplaza al mundo / el consenso que reemplaza al conflicto).
+
+**Reubicaciones y renombres**: fuente 23 (El Guion Interno, Generación Olvidada) general/ → desarrollo-personal/ (junto a su casi-homónimo Mente Descubierta); fuente 17 (Roberto Vaquero, IA) general/ → ia-critica-y-fronteras/. Raws por id renombrados a fecha-título (Nicea 2026-01-16, Moisés 2026-01-29) y UNKNOWN-fecha (gran desvinculación, metadatos UNKNOWN).
+
+**Hilo transversal nuevo**: lo que llegó como «lista mixta» queda organizado en tres conceptos conectados — cultura (homogeneización), cognición (atención) y política mediática (espectáculo); la divulgación sensacionalista queda etiquetada como posición del canal en cada resumen.
+
+**Pendientes**: fuentes 25-42 (18 entradas); verificación de cifras sin cita (WEF/FMI, porcentajes de Bilinkis, estudio de Viena); metadatos UNKNOWN de 3 raws (Dr. House, jubilarse a los 55, gran desvinculación) y canal no identificado de la fuente 24.
+
+---
+
 ## Próximas consolidaciones
 
 - **Revisión periódica**: cada ~10 fuentes o cuando aparezcan contradicciones nuevas.
+- **Lista mixta (hilo 13)**: fuentes 25-42 pendientes (18 entradas; SKIP definitivos 8/12); revisar canales de una fuente y los metadatos UNKNOWN en el próximo lote.

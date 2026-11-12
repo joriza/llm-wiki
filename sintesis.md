@@ -77,6 +77,7 @@ Registro de hilos temáticos por dominio. Se actualiza en cada consolidación.
 2. **Revisión cruzada**: contradicciones Gemma/Qwen, KV Q8 vs Q4, MTP aparte/integrado, licencia TimesFM
 3. **Entidades pendientes**: ninguna activa (historia-argentina consolidada 2026-11-12; verificación de datos sin enlace pendiente) (atareao, Apasoft, Cognix, MinAgent, Herdr consolidadas). **Pendiente estructural**: migración de dominios aprobada (dividir ia-uso-practico en 3; redistribuir raw/inteligencia-artificial; eliminar general/).
 4. **Conceptos pendientes hardware**: CPU sin GPU, guía compra, Mac Studio vs AMD, Kaggle, servidor 32 GB VRAM gratis
+5. **Lista mixta (economia-argentina/ + general/, hilo 13)**: pasada 1-24 consolidada (22 procesadas + 2 SKIP; 3 conceptos, 2 reubicaciones, 3 renombres de raws); pendientes fuentes 25-42 (18 entradas) y revisión de canales con 1 fuente
 
 ---
 
@@ -88,4 +89,16 @@ Registro de hilos temáticos por dominio. Se actualiza en cada consolidación.
 - **Tesis dominante del corpus**: los mapas y las instituciones argentinas son resultados de decisiones económicas — la renta aduanera explica unitarios/federales y la costa vacía; los «vacíos» del mapa no son accidentes (pregunta clave: «¿a quién no le sirvió?»)
 - **Registro ideológico**: la tesis anglosajona de Gullo quedó etiquetada como opinión del autor; los resúmenes distinguen opinión vs. hecho documentado
 - **Pendientes**: verificación de créditos de Plata dulce, cifras sin cita (Planeta Wow, Del Plano al Hierro), lint de contradictions cruzadas con historia-informatica (ninguna detectada)
+
+---
+
+## Hilo 13: Lista mixta (economia-argentina/ + general/) — **CONSOLIDADA (pasada 1-24, 2026-11-12)**
+
+- **Fuentes**: 22 procesadas + 2 SKIP sin subtítulos (8: gxGkbyokiLk «Las Apuestas»; 12: GlHvr7Nmw5Q, marcador .no-subs) de las primeras 24 de 42; quedan 18 entradas
+- **Distribución**: 4 → `economia-argentina/` (jubilación estatal FLyP, jubilarse a los 55, pensión por viudez/Cintia Cotur, Mercado Libre/Jhonny Vendo); 16 → `general/` (bucket off-topic); 2 reubicadas en la consolidación: fuente 23 (El Guion Interno, Generación Olvidada) → `desarrollo-personal/` junto a su casi-homónimo, fuente 17 (Roberto Vaquero, IA) → `ia-critica-y-fronteras/`
+- **Conceptos**: [[homogeneizacion-cultural]] (la cultura como producto estándar: industria musical, *Pluribus*, Wag the Dog, cine de los 90; contracara productiva del Box Model), [[atencion-secuestrada]] (IA e idiotización, ultraprocesados y bliss point, pantallas e infancia; dopamina, mere exposure y antídotos), [[realidad-como-espectaculo]] (el relato que reemplaza al hecho, la interfaz que reemplaza al mundo, el consenso que reemplaza al conflicto)
+- **Entidades**: [[fundacion-libertad-y-progreso]], [[iluminando-la-mente]] (2 fuentes; sensacionalismo histórico-religioso registrado como posición del canal); actualizadas: otros-canales-dp (Jhonny Vendo 2ª aparición), santiago-bilinkis (6 fuentes), puchito-cine (4 apariciones); canales de 1 fuente sin página (deferidos en log)
+- **Tesis transversal del bloque**: lo que llegó como «lista mixta» se organiza en tres hilos — la cultura homogeneizada (producción estandarizada), la atención secuestrada (el mismo exploit dopaminérgico en pantallas, comida e IA) y la realidad mediatizada (el relato por delante del hecho)
+- **Registro de sesgo**: alta densidad de divulgación opinionística sin citas (Lusardi, Vaquero, Iluminando la Mente, Cine Leyendas Secretas, SupervivenciaModerna); los resúmenes marcan qué cifras requieren verificación antes de elevar a referencia
+- **Pendientes**: fuentes 25-42 (18 entradas); metadatos UNKNOWN de 3 raws (Dr. House, jubilarse a los 55, gran desvinculación) y canal no identificado de la fuente 24; renombres históricos completados (Nicea, Moisés, gran desvinculación → UNKNOWN-fecha)
 
