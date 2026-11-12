@@ -1000,3 +1000,10 @@ Registro cronológico de solo adición.
 - Procesada bajo instrucción del usuario («procese solo 1 fuente mas») — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 45/58.
 - Entidad [[ia-uso-practico/nichonauta]] actualizada (fuente 21 en lote). Modelo [[gemma-4]] refuerza E2B para arnés automatización (3.6 GB, MTP, visión). Entidad [[llama-cpp]] refuerza server OpenAI-compatible, parallel slots, continuous batching. Concepto [[ia-uso-practico/ia-local-texto]] (modelo más pequeño + arnés = multiplicador).
 - Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 46-58 (~13) + la 54 UNKNOWN.
+
+## [2026-11-11] ingesta | lote ia-local — fuente 46/58 (pedido: «procese solo 3 fuentes mas», 1ª)
+
+- Fuente 46/58: Me equivoqué con Ornith 9B — Comparativa de RENDIMIENTO y Calidad con Qwen (comparativa cara a cara Nichonauta: Qwen 3.5 9B original vs Ornith 1.5 9B (fine-tune de fine-tune); Qwen ~10 tok/s más rápido (72-79 vs 67-70), razonamiento corto, respuestas simples; Ornith más lento, razonamiento largo, pero **mejor calidad en desarrollo agéntico** (landing page más completa, snake.html itera sin romper, estilo Tetris mejor acabado); chat/SVG: empate preferencia personal; veredicto: Ornith para desarrollo agéntico/código, Qwen para velocidad/chat, Gemma para redacción) — raw raw/ia-uso-practico/2026-09-22-me-equivoque-con-ornith-9b-comparativa-rendimiento-calidad.md — resumen wiki/ia-uso-practico/resumen-me-equivoque-con-ornith-9b-comparativa-rendimiento-calidad.md
+- Procesada bajo instrucción del usuario («procese solo 3 fuentes mas», 1ª) — descargas siguen detenidas, runner no relanzado (solo --one). Estado del lote: 46/58.
+- Entidad [[ia-uso-practico/nichonauta]] actualizada (fuente 22 en lote). Modelo [[qwen]] comparado con fine-tune Ornith. Modelo [[ornith]] (fine-tune Qwen 3.5 9B → 1 → 1.5; 9B; MTP + visión; mejora agéntica). Entidad [[llama-cpp]] parámetros ejecución oficiales por modelo. Entidad [[pi-agent]] test agéntico snake.html + iteración.
+- Scratch limpio (0 raws pendientes). Pendientes de descargar: entradas 47-58 (~12) + la 54 UNKNOWN.
