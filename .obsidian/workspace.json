@@ -11,10 +11,14 @@
             "id": "2129487712d773bb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -186,10 +190,13 @@
   },
   "active": "2129487712d773bb",
   "lastOpenFiles": [
+    "wiki/ia-uso-practico/resumen-minagent-mi-agente-desarrollo-como-crear-agente-ia-simple.md",
+    "raw/ia-uso-practico/2026-09-25-minagent-mi-agente-desarrollo-como-crear-agente-ia-simple.md",
+    "raw/ia-uso-practico/2026-11-XX-minagent-mi-agente-desarrollo-como-crear-agente-ia-simple.md",
+    "pdt-llm-wiki.md",
     "wiki/ia-uso-practico/resumen-minagent-mejor-agente-ia-gratis-guia-instalacion-uso.md",
     "raw/ia-uso-practico/2026-09-25-minagent-mejor-agente-ia-gratis-guia-instalacion-uso.md",
     "raw/ia-uso-practico/2026-11-XX-minagent-mejor-agente-ia-gratis-guia-instalacion-uso.md",
-    "pdt-llm-wiki.md",
     "wiki/ia-uso-practico/resumen-como-usar-gpu-gratis-en-kaggle-30-horas-semanales.md",
     "raw/ia-uso-practico/2026-09-24-como-usar-gpu-gratis-en-kaggle-30-horas-semanales.md",
     "raw/ia-uso-practico/2026-11-XX-como-usar-gpu-gratis-en-kaggle-30-horas-semanales.md",
@@ -209,9 +216,6 @@
     "raw/ia-uso-practico/2026-09-17-no-compres-hardware-para-ia-local-hasta-que-veas-esto.md",
     "raw/ia-uso-practico/2026-11-XX-no-compres-hardware-para-ia-local-hasta-que-veas-esto.md",
     "wiki/ia-media-generativa/alan-daitch.md",
-    "wiki/ia-uso-practico/codesimple.md",
-    "wiki/ia-media-generativa/academia-sd.md",
-    "wiki/ia-media-generativa/creatuia.md",
     "raw/ia-uso-practico",
     "raw/python-practico",
     "wiki/python-practico",
