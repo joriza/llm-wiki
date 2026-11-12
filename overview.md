@@ -7,6 +7,7 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 | Dominio | Fuentes procesadas | Páginas de concepto | Páginas de entidad | Resúmenes | Hilo temático activo |
 |---------|-------------------|---------------------|---------------------|-----------|---------------------|
 | `casa-calefaccion/` | 13 (lote completo) | 4 | 13+ | 13 | ✅ Consolidado |
+| `historia-argentina/` | **9** (lista completa 9/9) | **3** | **9** | **9** | ✅ **Consolidado 2026-11-12** (aduana porteña, porteñocentrismo, Malvinas) |
 | `ciencias-tierra/` | 3 | 4 | 1 | 3 | Estable |
 | `critica-tecnologica/` | 11 (Café Kyoto) | 9 | 1 | 11 | Estable |
 | `ia-critica-y-fronteras/` | 12+ | 8 | 5 | 12+ | Activo (Gary Marcus, IA China, world models) |
@@ -18,7 +19,7 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 | `historia-informatica/` | 12+ | 4 | 10 | 12+ | Estable |
 | `python-practico/` | 7 (lote completo) | 6 | 17 | 7 | ✅ Consolidado |
 
-**Total general**: ~200 fuentes, 55+ conceptos, 95+ entidades, ~200 resúmenes.
+**Total general**: ~216 fuentes, 58+ conceptos, 104+ entidades, ~216 resúmenes.
 
 ---
 
@@ -86,7 +87,22 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 
 ---
 
+## Hilo temático 12: Historia Argentina (historia-argentina/) — ✅ COMPLETADO Y CONSOLIDADO (2026-11-12)
+
+**Playlist**: «Historia Argentina» de Jorge J. Izaguirre (9 videos, 9/9 con ciclo completo; sin SKIP).
+
+**Fuentes**: Pigna (unitarios y federales), Gullo/Canal del Coronel ×2 (Bolívar, objetivo anglosajón), Ventosa (lluvia del siglo 1985), Mundo Olvidado (costa vacía), Puchito Cine (Plata dulce), Rastros Argentinos (planta nuclear de Pilcaniyeu), Planeta Wow (Puna de Atacama), Del Plano al Hierro (túnel Paraná-Santa Fe).
+
+**Conceptos creados en consolidación**: [[aduana-portena]] (la renta aduanera como eje económico-político, fuentes 1+4), [[portenocentrismo]] (la cara cultural de la puerta única, fuentes 1+4), [[cuestion-malvinas]] (registro testimonial vs. revisionista, fuentes 1+7).
+
+**Entidades**: felipe-pigna, marcelo-gullo-omodeo (2 fuentes), ventosa-periodismo, mundo-olvidado, puchito-cine, rastros-argentinos, planeta-wow, del-plano-al-hierro.
+
+**Hilos transversales**: territorio como resultado de decisiones económicas (costa vacía, Puna de Atacama, túnel interprovincial); la autonomía tecnológica (Pilcaniyeu) frente a la subordinación (tesis Gullo, registrada como opinión); el cine como documento económico (Plata dulce).
+
+**Pendientes de verificación antes de elevar a referencia**: créditos exactos de *Plata dulce*; cifras sin cita de Planeta Wow (1943 vs laudo 1899) y Del Plano al Hierro (denominación oficial del túnel); «1863» en el raw de Gullo (artefacto, correcto: 1833).
+
+---
+
 ## Próximas consolidaciones
 
-- **Al cierre del lote ia-local (58/58)**: consolidación final completa + overview/sintesis + push.
 - **Revisión periódica**: cada ~10 fuentes o cuando aparezcan contradicciones nuevas.

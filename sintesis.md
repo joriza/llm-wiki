@@ -75,5 +75,17 @@ Registro de hilos temáticos por dominio. Se actualiza en cada consolidación.
 
 1. **Cierre lote ia-local (58/58)**: consolidación final + overview/sintesis completos + push
 2. **Revisión cruzada**: contradicciones Gemma/Qwen, KV Q8 vs Q4, MTP aparte/integrado, licencia TimesFM
-3. **Entidades pendientes**: ninguna del lote ia-local (atareao, Apasoft, Cognix, MinAgent, Herdr consolidadas). **Pendiente estructural**: migración de dominios aprobada (dividir ia-uso-practico en 3; redistribuir raw/inteligencia-artificial; eliminar general/).
+3. **Entidades pendientes**: ninguna activa (historia-argentina consolidada 2026-11-12; verificación de datos sin enlace pendiente) (atareao, Apasoft, Cognix, MinAgent, Herdr consolidadas). **Pendiente estructural**: migración de dominios aprobada (dividir ia-uso-practico en 3; redistribuir raw/inteligencia-artificial; eliminar general/).
 4. **Conceptos pendientes hardware**: CPU sin GPU, guía compra, Mac Studio vs AMD, Kaggle, servidor 32 GB VRAM gratis
+
+---
+
+## Hilo 12: Historia Argentina (historia-argentina/) — **CONSOLIDADO**
+
+- **Fuentes**: 9/9 (lista «Historia Argentina», sin SKIP)
+- **Conceptos**: [[aduana-portena]] (renta aduanera como eje de la economía política: Pigna + Mundo Olvidado), [[portenocentrismo]] (percepción cultural de la puerta única), [[cuestion-malvinas]] (testimonial Pigna vs. revisionista Gullo, sin resolver)
+- **Entidades**: [[felipe-pigna]], [[marcelo-gullo-omodeo]] (2 fuentes), [[ventosa-periodismo]], [[mundo-olvidado]], [[puchito-cine]], [[rastros-argentinos]], [[planeta-wow]], [[del-plano-al-hierro]]
+- **Tesis dominante del corpus**: los mapas y las instituciones argentinas son resultados de decisiones económicas — la renta aduanera explica unitarios/federales y la costa vacía; los «vacíos» del mapa no son accidentes (pregunta clave: «¿a quién no le sirvió?»)
+- **Registro ideológico**: la tesis anglosajona de Gullo quedó etiquetada como opinión del autor; los resúmenes distinguen opinión vs. hecho documentado
+- **Pendientes**: verificación de créditos de Plata dulce, cifras sin cita (Planeta Wow, Del Plano al Hierro), lint de contradictions cruzadas con historia-informatica (ninguna detectada)
+
