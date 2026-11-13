@@ -4,7 +4,7 @@ Listado de las 15 entradas contabilizadas del tramo 1 del backlog WL (inventario
 
 | WL | Título | Canal | Dominio | Estado | Commit |
 |---|---|---|---|---|---|
-| 1 | [Gentle Shell: cambié toda la interfaz y el diseño ](wiki/agentes-de-codigo/resumen-gentle-shell-cambie-toda-la-interfaz-y-el-diseno.md)| Gentleman Programming Vods | agentes-de-codigo | ✅ | ae5a911 |
+| 1 | Gentle Shell: cambié toda la interfaz y el diseño 🗑️ baja (resumen eliminado por decisión del usuario)| Gentleman Programming Vods | agentes-de-codigo | ✅ | ae5a911 |
 | 2 | [Si la IA hace la web, ¿qué estás vendiendo? ](wiki/ia-uso-practico/resumen-si-la-ia-hace-la-web-que-estas-vendiendo.md)| Raiola Networks | ia-uso-practico | ✅ | 069f541 |
 | 3 | [Microsoft pierde en Países Bajos: gobierno a Linux (NixOS) ](wiki/critica-tecnologica/resumen-microsoft-acaba-de-perder-en-los-paises-bajos-el-gobierno-se-esta-pasando-a-linux.md)| El Bit Informado | critica-tecnologica | ✅ | 62c2852 |
 | 4 | [Dominadas → 3 ejercicios SEAL (guía 50+) ](wiki/general/resumen-cambie-las-dominadas-por-3-ejercicios-seal.md)| Tipo Gris | general | ✅ | 45cf868 |
