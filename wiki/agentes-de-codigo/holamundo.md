@@ -1,8 +1,8 @@
 # HolaMundo
 
 - **Tipo**: página de entidad (persona/creador de contenido).
-- **Dominio**: `ia-uso-practico/`.
-- **Actualizado**: 2026-11-11.
+- **Dominio**: `agentes-de-codigo/` (reubicada desde `ia-uso-practico/` en la reestructuración aprobada por el usuario, 2026-11-12 — sus dos fuentes monográficas viven aquí).
+- **Actualizado**: 2026-11-12 (reubicación de dominio).
 - **Fuentes**: [[resumen-herdr-es-increible-aprendelo-gratis-certificado-holamundo]] (playlist «IA-Recursos», 2026-09-15 — monográfico 47:47) · [[resumen-ia-local-programacion-agentes-gratis-privado-cualquier-pc]] (lote ia-local, fuente 58, 2026-11-10 — guía end-to-end LM Studio + modelos + VS Code + Pi).
 
 ## Identidad

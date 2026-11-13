@@ -1,6 +1,6 @@
 # Puchito Cine
 
-**Tipo**: entidad (canal) · **Dominio**: historia-argentina (residencias en general/)
+**Tipo**: entidad (canal) · **Dominio**: general/ (reestructuración aprobada por el usuario, 2026-11-12: la página vive en general/, donde están 3 de sus 4 fuentes; su fuente de historia-argentina — «Plata dulce» — permanece en ese dominio y enlaza aquí)
 
 Canal de análisis y crítica fílmica argentina con lectura política y social de las películas: usa el cine como documento histórico para explicar el presente — económico (Plata dulce), social (La Ola), político-mediático (Wag the Dog) y cultural-filosófico (*Pluribus*, cine de los 90).
 

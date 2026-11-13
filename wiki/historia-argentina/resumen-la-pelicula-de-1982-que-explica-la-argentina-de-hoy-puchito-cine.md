@@ -1,6 +1,6 @@
 # La película de 1982 que explica la Argentina de hoy — *Plata dulce* (Puchito Cine, 2025-09-22)
 
-**Tipo**: resumen de fuente · **Fuente**: [`raw/historia-argentina/2025-09-22-la-pelicula-de-1982-que-explica-la-argentina-de-hoy-puchito-cine.md`](../../raw/historia-argentina/2025-09-22-la-pelicula-de-1982-que-explica-la-argentina-de-hoy-puchito-cine.md) · **Video**: [youtube.com/watch?v=0duEzaF1FwE](https://www.youtube.com/watch?v=0duEzaF1FwE) · **Entidad**: [[puchito-cine]] · **Duración**: 15:15
+**Tipo**: resumen de fuente · **Fuente**: [`raw/historia-argentina/2025-09-22-la-pelicula-de-1982-que-explica-la-argentina-de-hoy-puchito-cine.md`](../../raw/historia-argentina/2025-09-22-la-pelicula-de-1982-que-explica-la-argentina-de-hoy-puchito-cine.md) · **Video**: [youtube.com/watch?v=0duEzaF1FwE](https://www.youtube.com/watch?v=0duEzaF1FwE) · **Entidad**: [[puchito-cine]] (página de entidad en general/ desde la reestructuración de 2026-11-12) · **Duración**: 15:15
 
 Análisis fílmico de ***Plata dulce*** (1982, Fernando Ayala y Olmi — Federico Luppi y Rodolfo Ranni como socios) leída como radiografía del **modelo económico de la última dictadura** (1976-1983) y de la clase media argentina. El canal sostiene que la película «explica la Argentina de hoy» — el paralelismo con el presente es explícito en todo el video.
 

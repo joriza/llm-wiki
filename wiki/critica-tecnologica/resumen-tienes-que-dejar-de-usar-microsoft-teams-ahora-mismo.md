@@ -1,6 +1,6 @@
 # Resumen: Tienes que dejar de usar Microsoft Teams ahora mismo
 
-- **Fuente original**: [raw/general/UNKNOWN-fecha-tienes-que-dejar-de-usar-microsoft-teams-ahora-mismo.md](../../raw/general/UNKNOWN-fecha-tienes-que-dejar-de-usar-microsoft-teams-ahora-mismo.md) ([vídeo](https://www.youtube.com/watch?v=qW7m3MUd3A8))
+- **Fuente original**: [raw/critica-tecnologica/UNKNOWN-fecha-tienes-que-dejar-de-usar-microsoft-teams-ahora-mismo.md](../../raw/critica-tecnologica/UNKNOWN-fecha-tienes-que-dejar-de-usar-microsoft-teams-ahora-mismo.md) ([vídeo](https://www.youtube.com/watch?v=qW7m3MUd3A8))
 - **Canal**: no identificado (metadatos del raw: UNKNOWN — título y canal provienen del listado de la playlist; completar en re-pass)
 - **Fecha**: desconocida (metadatos UNKNOWN; el contenido alude a «aproximadamente 320 millones de usuarios de Teams en 2024» y a hechos de abril de 2026, por lo que es posterior a esas fechas)
 - **Idioma y duración**: es (subtítulos automáticos); duración desconocida (metadatos UNKNOWN; la transcripción termina en [16:31], ~17 min)

@@ -1,8 +1,8 @@
 # Gentleman Programming
 
 - **Tipo**: página de entidad (persona/creador de contenido).
-- **Dominio**: `ia-uso-practico/`.
-- **Actualizado**: 2026-11-11.
+- **Dominio**: `agentes-de-codigo/` (reubicada desde `ia-uso-practico/` en la reestructuración aprobada por el usuario, 2026-11-12 — sus fuentes de metodología y arneses viven aquí).
+- **Actualizado**: 2026-11-12 (reubicación de dominio).
 - **Fuentes**: 3 resúmenes de la playlist «IA-Recursos» — canal principal (2024-05-27, 2026-09-19) y canal de streams «Gentleman Programming Vods» (2026-09-16) — + 2 del lote «IA-Nuevas formas de trabajo» ([[resumen-laburas-las-mismas-horas-con-ia-y-terminas-frito-por-que-gentleman-programming]] — brain fry, bienestar — y [[resumen-inteligencia-artificial-7-reglas-si-recien-empezas-a-programar-gentleman-programming-vods]] — criterio para juniors). Total: 5. Conceptos derivados del lote: [[verificacion-como-valor]], [[experimento-metr]].
 
 ## Identidad

@@ -1,6 +1,6 @@
 # Resumen: The 1956 Invention That Defined Modern Web Design
 
-- **Fuente original**: [raw/2025-09-03-the-1956-invention-that-defined-modern-web-design.md](../../raw/general/2025-09-03-the-1956-invention-that-defined-modern-web-design.md) ([vídeo](https://www.youtube.com/watch?v=bU7ehwW4pws))
+- **Fuente original**: [raw/2025-09-03-the-1956-invention-that-defined-modern-web-design.md](../../raw/historia-informatica/2025-09-03-the-1956-invention-that-defined-modern-web-design.md) ([vídeo](https://www.youtube.com/watch?v=bU7ehwW4pws))
 - **Canal**: Design Lovers
 - **Fecha**: 2025-09-03
 - **Tipo**: video de divulgación de diseño (10 min), narración en inglés con subtítulos manuales

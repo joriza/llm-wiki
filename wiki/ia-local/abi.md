@@ -1,8 +1,8 @@
 # Abi
 
 - **Tipo**: página de entidad (canal).
-- **Dominio**: `ia-uso-practico/`.
-- **Actualizado**: 2026-11-11 (consolidación lote ia-local — 1 fuente).
+- **Dominio**: `ia-local/` (reubicada desde `ia-uso-practico/` en la reestructuración aprobada por el usuario, 2026-11-12 — su única fuente vive aquí).
+- **Actualizado**: 2026-11-12 (reubicación de dominio).
 - **Fuentes**: [[resumen-free-32gb-vram-server-running-ai-models-locally]] (2026-10-28).
 
 Canal de tutoriales en español, estilo paso a paso con todos los comandos en la descripción. En el lote aporta la variante **agéntica** del patrón «GPU gratis en la nube»: Kaggle GPU T4×2 + Ollama + Cloudflare Tunnel conectado a un **agente de programación** (endpoint personalizado OpenAI-compatible) en vez de a un cliente de chat.

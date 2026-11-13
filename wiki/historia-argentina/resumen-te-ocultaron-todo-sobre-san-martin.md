@@ -1,6 +1,6 @@
 # Resumen: Te ocultaron todo sobre San Martín
 
-- **Fuente original**: [raw/general/2026-01-31-te-ocultaron-todo-sobre-san-martin.md](../../raw/general/2026-01-31-te-ocultaron-todo-sobre-san-martin.md) ([vídeo](https://www.youtube.com/watch?v=H_CcRq4rDn8))
+- **Fuente original**: [raw/historia-argentina/2026-01-31-te-ocultaron-todo-sobre-san-martin.md](../../raw/historia-argentina/2026-01-31-te-ocultaron-todo-sobre-san-martin.md) ([vídeo](https://www.youtube.com/watch?v=H_CcRq4rDn8))
 - **Canal**: Tiemblen Tiranos
 - **Fecha**: 2026-01-31 (33:14, subtítulos automáticos es)
 - **Tipo**: biografía divulgativa desmitificadora de José de San Martín con veredicto filosófico-ideológico final sobre el poder
