@@ -1,0 +1,28 @@
+# Resumen: Cambié las dominadas por 3 ejercicios SEAL
+
+- **Fuente original**: [raw/general/2026-11-11-cambie-las-dominadas-por-3-ejercicios-seal.md](../../raw/general/2026-11-11-cambie-las-dominadas-por-3-ejercicios-seal.md) ([vídeo](https://www.youtube.com/watch?v=Uy_CoRUwgqo))
+- **Canal**: Tipo Gris
+- **Fecha**: 2026-11-11 (11:27, subtítulos automáticos es)
+- **Tipo**: guía de fitness para mayores de 50: tres ejercicios de espalda/hombro inspirados en la preparación de los Navy SEAL (Stew Smith) como alternativa o complemento de las dominadas cuando el hombro no está listo para la barra; sin equipamiento (marco de puerta, mochila, suelo)
+
+## Marca de sesgo
+
+Canal de fitness orientado al público senior con registro persuasivo («mejores que las dominadas» como gancho titular). Contiene CTA de venta a mitad de video («mi sistema completo», código en pantalla/enlace en descripción) — excluido de esta síntesis. Las dos afirmaciones «científicas» del video (prevalencia de roturas asintomáticas y ranking de ejercicios de hombro) se citan sin referencia.
+
+## Puntos clave
+
+1. **Premisa** [00:00-00:29]: en una dominada todo el peso cuelga de los hombros con brazos en overhead — pinchazo al cambiar una bombilla = señal de sobrecarga; «en un estudio, una de cada cinco personas de más de 60 tenía un tendón roto en el hombro sin sentir dolor»; los tres ejercicios eligen carga y entrenan direcciones de tirón que la dominada no cubre.
+2. **La fuente SEAL** [00:29-00:53]: los SEAL siguen usando dominadas en su prueba física, pero sus preparadores no se quedan en la barra; Stew Smith, ex oficial SEAL que entrena gratis a aspirantes, describe un remo con cintas («te inclinas hacia atrás con brazos estirados y llevas el pecho a las manos») — el marco de una puerta da el mismo remo sin comprar nada; la vida diaria tira hacia el pecho (puerta pesada, manguera), no desde arriba.
+3. **Ejercicio 1: remo en marco de puerta** [01:14-02:58]: frente al marco, agarre a altura de pecho, cuerpo en línea talones-cabeza como plancha inclinada; técnica: codos pegados, omóplatos «hacia los bolsillos de atrás» antes de tirar (la espalda empieza, los brazos terminan), hombros lejos de las orejas, glúteos apretados; la inclinación decide la carga — un paso cambia la dificultad (a diferencia de la dominada, no necesita gomas ni máquinas); camino de vuelta suave a la barra para quien la hacía a los 20.
+4. **Ejercicio 2: remo con mochila, dos tirones** [02:58-05:12]: mano y rodilla en apoyo, espalda plana «como una mesa»; versión codo pegado tirando a la cadera → dorsal (el músculo principal de la dominada, bajo la axila); versión codo abierto a altura de hombro tirando al pecho → romboides/espalda media (los que evitan hombros rodando al frente tras horas al volante); la dominada solo trabaja el primero — la mochila da ambos con peso elegido; si hay que girar el pecho al techo para subir, sobra un libro.
+5. **Detalles finos del remo** [04:47-06:21]: pausa de 1 segundo con mochila colgando al final (el omóplato se desliza al frente y se «vuelve a meter en el bolsillo» — el reinicio que la gente se salta con prisa); zona lumbar trabajando isométricamente; el remo unilateral delata el lado débil que la dominada bilateral esconde — serie extra al lado flojo hasta igualar; progresión: mochila vacía → libros → garrafa de 5 L.
+6. **Ejercicio 3: nadador boca abajo** [06:21-08:07]: más antiguo que los SEAL — sale del manual de forma física de la Marina de EE. UU. de 1943 (capítulo de postura); boca abajo, frente en toalla, brazos en Y con pulgares arriba, barrido Y→T→hacia cadera «como una gran brazada» (los SEAL nadando ~450 m en su prueba); entrena el músculo que baja y rota el omóplato (porción inferior entre/bajo las escápulas) y da espacio articular al brazo en overhead — el mecanismo del pinchazo de la bombilla; «investigadores probaron 10 ejercicios de hombro y la elevación en Y boca abajo quedó primera» para ese músculo.
+7. **Dosis y variantes** [08:07-09:49]: repeticiones lentas de 6-7 s (más tempo = más trabajo de los músculos pequeños); contrarresta la postura de hombros adelantados (conducción, móvil); variante de pie contra pared sin despegar las manos; pausas de 2 s en Y/T/cadera al progresar; abrir la Y si hay pinchazo.
+8. **Estructura: pirámide PT** [09:49-11:08]: el entrenamiento «pirámide PT» de Stew Smith — escalera de repeticiones (1, 2, 3…) con los cuatro movimientos por serie (remo marco → remo mochila a cadera → al pecho → nadadores), 30 s de descanso, parar cuando falla la técnica (típicamente series 5-8); 3 sesiones semanales con día de descanso, un escalón más por semana; cierre: dominada construye el tirón desde arriba, pero marco+mochila+suelo cubren el tirón diario, los dos lados y el hombro en overhead «mejor que las dominadas» para muchos hombros de más de 50.
+
+## Advertencias
+
+- Contenido de fitness generalista, no consejo médico: con patología de hombro diagnosticada (rotura del manguito, pinzamiento subacromial) consultar profesional antes de entrenar; el propio video usa el pinchazo como señal de advertencia.
+- Afirmaciones sin cita: «un estudio» con 1 de cada 5 mayores de 60 con tendón roto asintomático (la prevalencia de roturas asintomáticas del manguito en seniors está documentada en literatura, pero verificar la cifra exacta) y el ranking de 10 ejercicios con la Y boca abajo primera — ambos necesitan fuente.
+- «Rowing solo» (ASR) = rucking (caminar con mochila pesada) en el argot de Smith — terminología reconstruida.
+- Consolidación aplazada: posible cruce con la fuente WL-5 (pesas→tendones, G8TVKkW122g) al cierre del tramo — ambas tratan tendones/seniors desde divulgación fitness.
