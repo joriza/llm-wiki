@@ -21,6 +21,7 @@ Los resultados PISA confirman lo que el canal venía mostrando con sus encuestas
 ## Familia PISA de la lista mixta (dedupe verificado)
 
 - **Casi-homónimos, no duplicados**: esta fuente (37/42, Abigail Luna, 2026-09-11, comentario con skits) convive con [[resumen-argentina-muy-mal-en-las-pruebas-pisa]] (34/42, Telenoche, informe televisivo), [[resumen-pisa-argentina-en-crisis-educativa]] (35/42, LA NACION, panel con ministra) y [[resumen-los-resultados-de-la-prueba-pisa-asustan]] (36/42, canal educativo no identificado, monólogo docente) — cuatro videos distintos (otros ids, canales, formatos y fechas) sobre la misma publicación de resultados; las cifras coinciden porque citan el mismo informe, no porque se copien. Es la fuente más opinionista de la familia. Cruce adicional: el eje promoción-sin-aprendizaje coincide con la crítica a la repitencia abolida de [[resumen-no-es-crisis-es-colapso-educacion-argentina]] (40/42, Narodowski) y con [[resumen-los-resultados-de-la-prueba-pisa-asustan]] (36/42), y el ángulo «IA como herramienta, no causa» dialoga con [[resumen-sacarse-un-10-sin-saber-nada-la-educacion-en-la-era-de-chatgpt-bilinkis]] (desarrollo-personal/).
+- **Página de concepto**: [[familia-pisa]] — la consolidación de la familia (convergencias, divergencias, rol de la IA y cifras a verificar); esta fuente aporta a la página las leyes «con nombre y año» y los puntajes 2025.
 
 ## Advertencias
 

@@ -28,6 +28,8 @@ El experimento de la Tercera Ola (Ron Jones, Palo Alto, 1967) muestra que instal
 
 - **Cruce con [[resumen-el-experimento-social-mas-perturbador-de-la-historia]]** (fuente 42/42, la balsa Acali de Santiago Genovés, 1973): experimentos reales en espejo — La Ola muestra lo rápido que un grupo adopta disciplina, jerarquía y delación bajo liderazgo carismático; la Acali muestra lo resistente que es la cooperación cuando el grupo aísla y despoja de poder a quien fabrica el conflicto (incluido un plan de asesinato por consenso: todos la mano sobre la jeringuilla). En ambos casos el creador termina desenmascarando su propio papel: Jones disolvió La Ola proyectando Núremberg; Genovés quedó reducido a pasajero de su propia balsa.
 
+- **Página de concepto**: [[experimentos-sociales]] — la consolidación del género (hipótesis, desenlaces en espejo y sus lecciones) que enlaza esta fuente con la Acali.
+
 ## Advertencias
 
 - La reconstrucción del experimento descansa en el propio relato de Ron Jones y testimonios recogados décadas después: no hay actas; los números (>200 participantes), la «policía secreta» y el anunciado «candidato presidencial» varían según la versión; contrastar con la crónica de Jones (1976) y la historiografía sobre el caso.

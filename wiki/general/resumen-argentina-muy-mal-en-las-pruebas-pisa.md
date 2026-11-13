@@ -22,6 +22,8 @@ Los resultados PISA argentinos confirman una caída sostenida sobre una base ya 
 
 - **Casi-homónimos, no duplicados**: esta fuente (34/42, Telenoche, 2026-09-08, 18:49) convive con otras tres fuentes de la misma lista sobre la misma noticia PISA — [[resumen-los-resultados-de-la-prueba-pisa-asustan]] (36/42, canal educativo no identificado «Fran», monólogo opinionístico), [[resumen-pisa-argentina-en-crisis-educativa]] (35/42, LA NACION, panel con Mercedes Miguel y Argentinos por la Educación) y [[resumen-los-pibes-estan-cada-vez-mas-tarados]] (37/42, Abigail Luna, comentario polemista con encuestas callejeras de humor). Verificación de dedupe estilo fuente 23: cuatro videos distintos (otros ids, canales, formatos y fechas) que cubren la misma publicación de resultados; las cifras coinciden (76 % matemática, 6/10 lectura) porque citan la misma fuente, no porque se copien. Cruce adicional con [[resumen-no-es-crisis-es-colapso-educacion-argentina]] (40/42, Narodowski: el diagnóstico estructural) y con [[atencion-secuestrada]] (celulares, TikTok nocturno y sueño perdido).
 
+- **Página de concepto**: [[familia-pisa]] — convergencias, divergencias, rol de la IA y cifras marcadas para verificación de los cuatro videos de la noticia, en una sola página.
+
 ## Advertencias
 
 - Cifras citadas sin fuente puntual en el programa, a contrastar con el informe OCDE y con Argentinos por la Educación: puesto 72 de 91 países (el número de participantes de la edición debe verificarse; la serie suele citar ~81 sistemas), 76 % bajo el nivel básico en matemática, 6/10 en lectura, 8º de 13 en América Latina, y la serie de matemática 2006/2018/2022 (36/27/31 %).

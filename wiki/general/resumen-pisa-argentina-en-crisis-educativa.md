@@ -29,6 +29,8 @@ Los resultados PISA 2025 son «los peores en 20 años»: menos de uno de cada 12
 
 - **Casi-homónimos, no duplicados**: esta fuente (35/42, LA NACION, 2026-09-08, panel de 37:43) convive con [[resumen-argentina-muy-mal-en-las-pruebas-pisa]] (34/42, Telenoche, informe televisivo), [[resumen-los-resultados-de-la-prueba-pisa-asustan]] (36/42, canal educativo no identificado, monólogo) y [[resumen-los-pibes-estan-cada-vez-mas-tarados]] (37/42, Abigail Luna, polemista con skits) — cuatro videos distintos (otros ids, canales, formatos) sobre la misma noticia; el panel es el más institucional de los cuatro (único con una ministra en vivo). Cruce adicional: [[resumen-no-es-crisis-es-colapso-educacion-argentina]] (40/42) y [[resumen-los-resultados-de-la-prueba-pisa-asustan]] (36/42, única otra fuente que toca la IA en educación con el dato de uso semanal).
 
+- **Página de concepto**: [[familia-pisa]] — la consolidación de la familia (convergencias, divergencias, rol de la IA y cifras a verificar).
+
 ## Advertencias
 
 - Cifras a verificar contra el informe OCDE antes de citar: «menos de uno de cada 12» con nivel básico en las tres materias (cálculo conjunto, no un dato directo de PISA), 76 % matemática / 59 % ciencias / 60 % lectura por debajo del nivel 2, el «4 %» de China de la placa (sospechosamente redondo; posible error de la placa o del ASR — verificar), puntajes <400 vs. >500, octavos de 13 en la región, la correlación OCDE teléfonos-lengua (26 países, −15 a −25 puntos) y el «informe de 375 páginas».

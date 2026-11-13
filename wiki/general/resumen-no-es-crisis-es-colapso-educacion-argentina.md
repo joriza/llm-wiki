@@ -25,6 +25,7 @@ El sistema educativo argentino «perdió capacidad de autorreproducirse»: de ca
 
 - **Entidad**: Mariano Narodowski — sin página aún en la wiki (candidato a entidad en la próxima consolidación si hay más fuentes; académico de educación citado por nombre en el propio audio).
 - **Páginas de concepto asociadas**: cruce directo con [[resumen-los-resultados-de-la-prueba-pisa-asustan]] (fuente 36/42 de la misma lista: los datos PISA que este diagnóstico explica — clima disciplinario, pantallas, IA como atajo y repitencia sin recuperación; ambos coinciden en la repitencia abolida sin recuperación de aprendizajes y en la educación como competencia provincial abandonada).
+- **Página de concepto asociada**: [[familia-pisa]] — la familia de cuatro videos PISA (fuentes 34-37 de la lista mixta) cuyos datos de superficie este diagnóstico explica por el fondo (repitencia abolida, provincias que no se hacen cargo).
 
 ## Advertencias
 
