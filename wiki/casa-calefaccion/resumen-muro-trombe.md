@@ -73,4 +73,6 @@ Para ventilar la vivienda en verano, la fuente recomienda usar la ventana como e
 
 ---
 
+**Entidad**: [[yaaxconstructor]] — canal de arquitectura bioclimática; también aporta al dominio el partesol y la ventilación natural.
+
 **Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

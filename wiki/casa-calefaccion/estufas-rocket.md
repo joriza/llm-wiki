@@ -2,7 +2,7 @@
 
 - **Tipo**: página de concepto.
 - **Dominio**: `casa-calefaccion/`.
-- **Actualizado**: 2026-11-11 (consolidación pendiente del lote casa-calefaccion).
+- **Actualizado**: 2026-11-12 (entidad del canal cableada; consolidación del lote casa-calefaccion, 2026-11-11).
 - **Fuentes**: [[resumen-calefaccion-gratis-como-hacer-una-estufa-rocket-paso-a-paso]] (paso a paso) · [[resumen-tutorial-de-estufas-rocket-parte-1]] · [[resumen-tutorial-de-estufas-rocket-parte-2]] (serie tutorial completa).
 
 ## El concepto
@@ -13,4 +13,4 @@ La serie de fuentes cubre construcción completa en dos partes (planos, proporci
 
 ## Ubicación en la wiki
 
-Bloque: calefacción low-tech por combustión. Cruces: [[calefaccion-de-emergencia]] (alternativas sin leña), [[solar-pasivo-y-ventilacion]] (el otro polo del confort térmico pasivo).
+Bloque: calefacción low-tech por combustión. Cruces: [[calefaccion-de-emergencia]] (alternativas sin leña), [[solar-pasivo-y-ventilacion]] (el otro polo del confort térmico pasivo). Entidad del canal de la serie tutorial: [[el-faro-bioconstruccion]].

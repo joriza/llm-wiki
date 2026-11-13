@@ -79,4 +79,6 @@ Los caños se unen por extremo macho y hembra, y en las juntas se produce goteo 
 
 ---
 
+**Entidad**: [[el-faro-bioconstruccion]] — canal de bioconstrucción y autosustentabilidad; autor de la serie rocket en dos partes.
+
 **Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

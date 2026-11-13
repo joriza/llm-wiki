@@ -70,4 +70,6 @@ Existen diseños sin tambor que usan ladrillos [11:32-11:57]: no aportan calor i
 
 ---
 
+**Entidad**: [[el-faro-bioconstruccion]] — canal de bioconstrucción y autosustentabilidad; autor de la serie rocket en dos partes.
+
 **Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

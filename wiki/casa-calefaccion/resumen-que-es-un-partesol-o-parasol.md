@@ -61,4 +61,6 @@ Los partesoles son elementos arquitectónicos que, gracias a las sombras que gen
 
 ---
 
+**Entidad**: [[yaaxconstructor]] — canal de arquitectura bioclimática; también aporta al dominio el muro Trombe y la ventilación natural.
+
 **Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

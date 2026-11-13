@@ -53,4 +53,6 @@ La fuente añade el respaldo histórico: este enfriamiento se usó en regiones c
 
 ---
 
+**Entidad**: [[yaaxconstructor]] — canal de arquitectura bioclimática; también aporta al dominio el muro Trombe y el partesol.
+
 **Ver también**: [[estufas-rocket]] · [[solar-pasivo-y-ventilacion]] · [[calefaccion-de-emergencia]] · [[biogas-casero]] · [[bateria-de-arena]] — páginas de concepto del dominio.

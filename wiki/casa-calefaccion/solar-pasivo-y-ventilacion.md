@@ -2,7 +2,7 @@
 
 - **Tipo**: página de concepto.
 - **Dominio**: `casa-calefaccion/`.
-- **Actualizado**: 2026-11-11 (consolidación pendiente del lote casa-calefaccion).
+- **Actualizado**: 2026-11-12 (entidad del canal cableada; consolidación del lote casa-calefaccion, 2026-11-11).
 - **Fuentes**: [[resumen-muro-trombe]] · [[resumen-que-es-un-partesol-o-parasol]] · [[resumen-tipos-de-ventilacion-natural]].
 
 ## El concepto
@@ -14,4 +14,4 @@ Confort térmico **sin energía activa**, actuando sobre la envolvente del edifi
 
 ## Ubicación en la wiki
 
-Bloque: diseño térmico pasivo (el polo «sin quemar nada» del dominio). Cruces: [[estufas-rocket]] (el polo activo low-tech), [[calefaccion-de-emergencia]] (cuando el diseño no alcanza).
+Bloque: diseño térmico pasivo (el polo «sin quemar nada» del dominio). Cruces: [[estufas-rocket]] (el polo activo low-tech), [[calefaccion-de-emergencia]] (cuando el diseño no alcanza). Entidad del canal de las tres fuentes: [[yaaxconstructor]].
