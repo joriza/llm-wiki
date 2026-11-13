@@ -47,4 +47,4 @@ Mac Studio = **solo cómputo** (tú arman el stack: llama.cpp, Ollama, compresi�
 
 ## Cruces en la wiki
 
-Entidad: [[informatica-teoria/cognix]] (3ª fuente del canal; 2ª en ia-uso-practico). Hardware: [[hardware-para-ia-local]] (Mac Studio M5 Max/Ultra, memoria unificada, MoE gigantes). Económico: [[burbuja-de-la-ia]] (costes reales API vs suscripción vs hardware). Canales: [[ia-y-sociedad]] (regulación, empleo).
+Entidad: [[cognix]] (3ª fuente del canal; 2ª en ia-uso-practico). Hardware: [[hardware-para-ia-local]] (Mac Studio M5 Max/Ultra, memoria unificada, MoE gigantes). Económico: [[burbuja-de-la-ia]] (costes reales API vs suscripción vs hardware). Canales: [[ia-y-sociedad]] (regulación, empleo).

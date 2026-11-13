@@ -90,7 +90,7 @@
 
 ## Cruces en la wiki
 
-- Entidad: [[informatica-teoria/cognix]] (5ª fuente en ia-uso-practico; 1ª en historia-informatica).
+- Entidad: [[cognix]] (5ª fuente en ia-uso-practico; 1ª en historia-informatica).
 - Concepto: [[multiplexores-agentes]] (concurrencia, continuous batching, asientos vs velocidad).
 - Entidad: [[llama-cpp]] (server con continuous batching por defecto desde marzo 2024).
 - Entidad: vLLM / SGLang (motores serios, disaggregation a escala).

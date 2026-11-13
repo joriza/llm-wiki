@@ -18,4 +18,4 @@ Su servidor personal (RTX 3060 12 GB de segunda mano, Ryzen 6c, 61 GB RAM) es el
 
 ## Cruces
 
-[[strata]] · [[qwen]] · [[llama-cpp]] · [[hardware-para-ia-local]] · comparar con [[codesimple]] (mismo estilo económico-técnico) y [[informatica-teoria/cognix]].
+[[strata]] · [[qwen]] · [[llama-cpp]] · [[hardware-para-ia-local]] · comparar con [[codesimple]] (mismo estilo económico-técnico) y [[cognix]].
