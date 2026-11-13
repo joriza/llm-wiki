@@ -1,6 +1,6 @@
 # Resumen: PC gamer y piso de tierra: el silencio de la marginalidad
 
-- **Fuente original**: [raw/general/2026-04-22-pc-gamer-y-piso-de-tierra-el-silencio-de-la-marginalidad.md](../../raw/general/2026-04-22-pc-gamer-y-piso-de-tierra-el-silencio-de-la-marginalidad.md) ([vídeo](https://www.youtube.com/watch?v=7OI2WzwwMZU))
+- **Fuente original**: [raw/sociedad-argentina/2026-04-22-pc-gamer-y-piso-de-tierra-el-silencio-de-la-marginalidad.md](../../raw/sociedad-argentina/2026-04-22-pc-gamer-y-piso-de-tierra-el-silencio-de-la-marginalidad.md) ([vídeo](https://www.youtube.com/watch?v=7OI2WzwwMZU))
 - **Canal**: Themateoteo
 - **Fecha**: 2026-04-22 (20:48, subtítulos automáticos es)
 - **Tipo**: ensayo-comentario (vlog de opinión) sobre un caso viral: un streamer peruano que transmite con una PC de gama alta desde una vivienda sin piso; reflexión sobre la marginalidad vivida como estado natural, la lógica de la ayuda y la «pobreza como forma de pensar»

@@ -1,6 +1,6 @@
 # Resumen: ¿Qué está pasando con la justicia en Argentina?
 
-- **Fuente original**: [raw/general/UNKNOWN-fecha-que-esta-pasando-con-la-justicia-en-argentina.md](../../raw/general/UNKNOWN-fecha-que-esta-pasando-con-la-justicia-en-argentina.md) ([vídeo](https://www.youtube.com/watch?v=FzA3YgWDZOY))
+- **Fuente original**: [raw/sociedad-argentina/UNKNOWN-fecha-que-esta-pasando-con-la-justicia-en-argentina.md](../../raw/sociedad-argentina/UNKNOWN-fecha-que-esta-pasando-con-la-justicia-en-argentina.md) ([vídeo](https://www.youtube.com/watch?v=FzA3YgWDZOY))
 - **Canal**: no identificado (metadatos del raw: UNKNOWN; es un canal de entrevistas true-crime con comunidad propia («Enojados, colóricos, iracundos…» según el cierre) y el lema de contar «la historia del que hace bien las cosas» — completar identificación en re-pass)
 - **Fecha**: desconocida (metadatos UNKNOWN; el contenido comenta un habeas corpus colectivo reciente de «60 días» y la situación procesal de Cristina Fernández de Kirchner con «violaciones constantemente las condiciones de su domicilio», por lo que es contemporáneo a esos hechos)
 - **Idioma y duración**: es (subtítulos automáticos); duración desconocida (metadatos UNKNOWN; la transcripción termina en [57:56], ~58 min)

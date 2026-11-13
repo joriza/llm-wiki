@@ -1,6 +1,6 @@
 # Resumen: De la promesa de estudiar al trabajo ilegal: así funciona el negocio del reparto
 
-- **Fuente original**: [raw/general/2026-05-01-de-la-promesa-de-estudiar-al-trabajo-ilegal-asi-funciona-el-negocio-del-reparto.md](../../raw/general/2026-05-01-de-la-promesa-de-estudiar-al-trabajo-ilegal-asi-funciona-el-negocio-del-reparto.md) ([vídeo](https://www.youtube.com/watch?v=wfhiHqrEal4))
+- **Fuente original**: [raw/sociedad-argentina/2026-05-01-de-la-promesa-de-estudiar-al-trabajo-ilegal-asi-funciona-el-negocio-del-reparto.md](../../raw/sociedad-argentina/2026-05-01-de-la-promesa-de-estudiar-al-trabajo-ilegal-asi-funciona-el-negocio-del-reparto.md) ([vídeo](https://www.youtube.com/watch?v=wfhiHqrEal4))
 - **Canal**: DW Documental (Deutsche Welle)
 - **Fecha**: 2026-05-01 (43:36, subtítulos automáticos es)
 - **Tipo**: reportaje de investigación sobre la economía del reparto a domicilio en Berlín — repartidores migrantes (mayormente estudiantes indios), subcontratación en cascada, fraude laboral, universidades privadas de dudosa calidad y organización de los trabajadores

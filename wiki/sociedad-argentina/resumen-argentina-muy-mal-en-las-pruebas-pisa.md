@@ -1,6 +1,6 @@
 # Resumen: Argentina, muy mal en las pruebas PISA — 6 de cada 10 chicos no comprenden textos básicos
 
-- **Fuente original**: [raw/general/2026-09-08-argentina-muy-mal-en-las-pruebas-pisa.md](../../raw/general/2026-09-08-argentina-muy-mal-en-las-pruebas-pisa.md) ([vídeo](https://www.youtube.com/watch?v=SPo6zvWal0w))
+- **Fuente original**: [raw/sociedad-argentina/2026-09-08-argentina-muy-mal-en-las-pruebas-pisa.md](../../raw/sociedad-argentina/2026-09-08-argentina-muy-mal-en-las-pruebas-pisa.md) ([vídeo](https://www.youtube.com/watch?v=SPo6zvWal0w))
 - **Canal**: Telenoche (noticiero televisivo; conductores citados en el audio: Dominique [Metzger] y Federico)
 - **Fecha**: 2026-09-08 (18:49, subtítulos automáticos es)
 - **Tipo**: informe de noticiero televisivo sobre los resultados PISA de Argentina, con cuatro voces: la explicación de los datos por los conductores, una encuesta callejera breve (vox pop), una docente de secundaria que streamea (Adriana) y el divulgador científico Andrés Rieznik

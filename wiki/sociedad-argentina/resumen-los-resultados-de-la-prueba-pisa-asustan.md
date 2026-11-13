@@ -1,6 +1,6 @@
 # Resumen: Los resultados de la prueba PISA asustan
 
-- **Fuente original**: [raw/general/UNKNOWN-fecha-los-resultados-de-la-prueba-pisa-asustan.md](../../raw/general/UNKNOWN-fecha-los-resultados-de-la-prueba-pisa-asustan.md) ([vídeo](https://www.youtube.com/watch?v=mAIeFjkbQwA))
+- **Fuente original**: [raw/sociedad-argentina/UNKNOWN-fecha-los-resultados-de-la-prueba-pisa-asustan.md](../../raw/sociedad-argentina/UNKNOWN-fecha-los-resultados-de-la-prueba-pisa-asustan.md) ([vídeo](https://www.youtube.com/watch?v=mAIeFjkbQwA))
 - **Canal**: no identificado (metadatos del raw: UNKNOWN; el conductor se presenta como «Fran», docente universitario con canal educativo y libros propios, participante de la campaña «No entienden lo que leen» de Argentinos por la Educación — completar identificación en re-pass)
 - **Fecha**: desconocida (metadatos UNKNOWN; el contenido comenta la publicación de resultados PISA recientes y alude a un compromiso federal de alfabetización firmado en 2024 y a uno de matemática «recién en marzo del 2026», por lo que es posterior a esas fechas)
 - **Idioma y duración**: es (subtítulos automáticos); duración desconocida (metadatos UNKNOWN; la transcripción termina en [20:56], ~21 min)

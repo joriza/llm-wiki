@@ -1,6 +1,6 @@
 # Resumen: Elecciones en Brasil — ¿América Latina gira a la derecha?
 
-- **Fuente original**: [raw/general/2026-10-10-elecciones-en-brasil-america-latina-gira-a-la-derecha.md](../../raw/general/2026-10-10-elecciones-en-brasil-america-latina-gira-a-la-derecha.md) ([vídeo](https://www.youtube.com/watch?v=ZOBvCf8y7xg))
+- **Fuente original**: [raw/sociedad-argentina/2026-10-10-elecciones-en-brasil-america-latina-gira-a-la-derecha.md](../../raw/sociedad-argentina/2026-10-10-elecciones-en-brasil-america-latina-gira-a-la-derecha.md) ([vídeo](https://www.youtube.com/watch?v=ZOBvCf8y7xg))
 - **Canal**: Roxana Kreimer
 - **Fecha**: 2026-10-10 (30:57, subtítulos automáticos es) — publicado entre la primera vuelta brasileña (octubre) y el balotage del 25 de octubre
 - **Tipo**: ensayo-análisis político sobre el giro a la derecha de América Latina a partir de la primera vuelta brasileña (Flavio Bolsonaro vs. Lula), complementado con el libro *Un fantasma recorre el mundo* del historiador Pablo Stefanoni; incluye una sección de datos de pobreza por país para refutar la explicación simplificada («la izquierda ganó porque empobreció»)

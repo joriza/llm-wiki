@@ -1,6 +1,6 @@
 # Resumen: 25 años presa por posteo racista en este país
 
-- **Fuente original**: [raw/general/2026-02-13-25-anos-presa-por-posteo-racista-en-este-pais.md](../../raw/general/2026-02-13-25-anos-presa-por-posteo-racista-en-este-pais.md) ([vídeo](https://www.youtube.com/watch?v=RwP-eyiios0))
+- **Fuente original**: [raw/sociedad-argentina/2026-02-13-25-anos-presa-por-posteo-racista-en-este-pais.md](../../raw/sociedad-argentina/2026-02-13-25-anos-presa-por-posteo-racista-en-este-pais.md) ([vídeo](https://www.youtube.com/watch?v=RwP-eyiios0))
 - **Canal**: SupervivenciaModerna
 - **Fecha**: 2026-02-13 (06:30, subtítulos automáticos es)
 - **Tipo**: comentario político-opinativo (canal de supervivencia y preparacionismo) sobre la legislación brasileña de racismo/transfobia y un supuesto caso de asilo europeo

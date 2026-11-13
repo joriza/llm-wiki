@@ -1,6 +1,6 @@
 # Resumen: PISA — Argentina en crisis educativa; peores resultados en 20 años y el rol de la IA
 
-- **Fuente original**: [raw/general/2026-09-08-pisa-argentina-en-crisis-educativa.md](../../raw/general/2026-09-08-pisa-argentina-en-crisis-educativa.md) ([vídeo](https://www.youtube.com/watch?v=rY0bok0boYM))
+- **Fuente original**: [raw/sociedad-argentina/2026-09-08-pisa-argentina-en-crisis-educativa.md](../../raw/sociedad-argentina/2026-09-08-pisa-argentina-en-crisis-educativa.md) ([vídeo](https://www.youtube.com/watch?v=rY0bok0boYM))
 - **Canal**: LA NACION (emisión en vivo / panel; conductor nombrado como «Claudio» en el audio)
 - **Fecha**: 2026-09-08 (37:43, subtítulos automáticos es)
 - **Tipo**: panel de análisis sobre los resultados PISA de Argentina con cuatro voces: Mercedes Miguel (ministra de Educación de la Ciudad de Buenos Aires), María Sol [ASR; Argentinos por la Educación], Lucas Romero (analista político) y participación editorial del conductor; incluye el comunicado del gobierno nacional, el estudio CABA+ITBA sobre celulares y el debate kirchnerismo-financiamiento

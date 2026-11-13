@@ -1,6 +1,6 @@
 # Resumen: Los pibes están cada vez más tarados — los vergonzosos resultados de las pruebas PISA
 
-- **Fuente original**: [raw/general/2026-09-11-los-pibes-estan-cada-vez-mas-tarados-vergonzosos-resultados-de-las-pruebas-pisa.md](../../raw/general/2026-09-11-los-pibes-estan-cada-vez-mas-tarados-vergonzosos-resultados-de-las-pruebas-pisa.md) ([vídeo](https://www.youtube.com/watch?v=p0Ur54g9NnE))
+- **Fuente original**: [raw/sociedad-argentina/2026-09-11-los-pibes-estan-cada-vez-mas-tarados-vergonzosos-resultados-de-las-pruebas-pisa.md](../../raw/sociedad-argentina/2026-09-11-los-pibes-estan-cada-vez-mas-tarados-vergonzosos-resultados-de-las-pruebas-pisa.md) ([vídeo](https://www.youtube.com/watch?v=p0Ur54g9NnE))
 - **Canal**: Abigail Luna
 - **Fecha**: 2026-09-11 (13:43, subtítulos automáticos es)
 - **Tipo**: comentario político-opinionístico sobre los resultados PISA de Argentina, estructurado sobre encuestas callejeras de humor (skits con preguntas escolares básicas) y una lista de «responsables» con nombre y año: leyes de promoción automática, resolución provincial de valoraciones sin notas, docentes «impresentables» citados y sindicalismo docente; cierre anti-kirchnerista explícito

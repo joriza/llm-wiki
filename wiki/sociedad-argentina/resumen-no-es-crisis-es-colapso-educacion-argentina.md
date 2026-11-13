@@ -1,6 +1,6 @@
 # Resumen: No es crisis, es colapso (educación argentina)
 
-- **Fuente original**: [raw/general/UNKNOWN-fecha-no-es-crisis-es-colapso-educacion-argentina.md](../../raw/general/UNKNOWN-fecha-no-es-crisis-es-colapso-educacion-argentina.md) ([vídeo](https://www.youtube.com/watch?v=Z1Z8DziVhzo))
+- **Fuente original**: [raw/sociedad-argentina/UNKNOWN-fecha-no-es-crisis-es-colapso-educacion-argentina.md](../../raw/sociedad-argentina/UNKNOWN-fecha-no-es-crisis-es-colapso-educacion-argentina.md) ([vídeo](https://www.youtube.com/watch?v=Z1Z8DziVhzo))
 - **Canal**: no identificado (metadatos del raw: UNKNOWN; es una entrevista a Mariano Narodowski en un estudio — el contexto que se menciona es un coloquio de IDEA, «el día anterior del coloquio hubo varias discusiones»; completar identificación en re-pass)
 - **Fecha**: desconocida (metadatos UNKNOWN; la entrevista se graba «hace dos años» desde la conversación previa en el mismo programa y el coloquio de IDEA es anual — sin fecha determinable desde el contenido; completar en re-pass)
 - **Idioma y duración**: es (subtítulos automáticos); duración desconocida (metadatos UNKNOWN; la transcripción termina en [14:39], ~15 min)

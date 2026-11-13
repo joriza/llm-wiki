@@ -1,6 +1,6 @@
 # Resumen: Mario Pergolini — «Al 80 % de la gente no le importa Milei» (540º con O'Donnell y Tenembaum)
 
-- **Fuente original**: [raw/general/2026-10-06-mario-pergolini-al-80-de-la-gente-no-le-importa-milei-540-con-odonnell-y-tenembaum.md](../../raw/general/2026-10-06-mario-pergolini-al-80-de-la-gente-no-le-importa-milei-540-con-odonnell-y-tenembaum.md) ([vídeo](https://www.youtube.com/watch?v=0zhcJlj9L7o))
+- **Fuente original**: [raw/sociedad-argentina/2026-10-06-mario-pergolini-al-80-de-la-gente-no-le-importa-milei-540-con-odonnell-y-tenembaum.md](../../raw/sociedad-argentina/2026-10-06-mario-pergolini-al-80-de-la-gente-no-le-importa-milei-540-con-odonnell-y-tenembaum.md) ([vídeo](https://www.youtube.com/watch?v=0zhcJlj9L7o))
 - **Canal**: Cenital (programa 540º, con Ernesto Tenembaum y María O'Donnell)
 - **Fecha**: 2026-10-06 (57:14, subtítulos automáticos es)
 - **Tipo**: entrevista larga a Mario Pergolini sobre el estado de los medios de comunicación (televisión, radio, streaming), la inteligencia artificial y los agentes, la educación y las infancias, la política argentina como ruido de fondo y su propia trayectoria empresarial (Otro Día Perdido, Vorterix, ATO)
