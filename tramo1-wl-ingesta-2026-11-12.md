@@ -12,7 +12,7 @@ Listado de las 15 entradas contabilizadas del tramo 1 del backlog WL (inventario
 | 6 | Cardiólogo: riesgos de la rutina matutina | Secretos de la Longevidad | general | 🗑️ baja (resumen eliminado por decisión del usuario; commit de baja `7c00d80`; raw conservado sin procesar) | 6e7f4a5 |
 | 7 | [7 cosas «caras» que valen la pena ](wiki/general/resumen-7-cosas-caras-en-las-que-si-vale-la-pena-gastar.md)| «sesgos financieros» (metadatos UNKNOWN) | general | ✅ | 679d9dd |
 | 8 | [Robotech (1985): 10 datos curiosos ](wiki/general/resumen-robotech-1985-10-datos-curiosos-que-no-sabias.md)| Caricaturas del Baúl | general | ✅ | d39ddbf |
-| 9 | [El Papa y la carpa VIP (commentary argentino) ](wiki/general/resumen-el-papa-y-la-carpa-vip-para-famosos.md)| Tipito LIVE | general | ✅ | f41962f |
+| 9 | El Papa y la carpa VIP 🗑️ baja (resumen eliminado por decisión del usuario)| Tipito LIVE | general | ✅ | f41962f |
 | 10 | [Elephant-Goldfish Model (Google, agentes) ](wiki/agentes-de-codigo/resumen-elephant-goldfish-model-el-metodo-gratis-de-google-para-programar-con-ia.md)| InzideTech | agentes-de-codigo | ✅ | 0461555 |
 | 11 | [C# 15: novedades (unions, labeled break, etc.) ](wiki/informatica-teoria/resumen-c-sharp-15-ya-esta-aqui-estas-son-sus-novedades.md)| hdeleon.net | informatica-teoria | ✅ | d30363d |
 | 12 | [IAs atacaron a Anthropic (Cathedral, prueba autorizada) ](wiki/ia-critica-y-fronteras/resumen-ias-atacaron-a-anthropic-y-llegaron-demasiado-lejos.md)| Contexto Extra | ia-critica-y-fronteras | ✅ | a293118 |
