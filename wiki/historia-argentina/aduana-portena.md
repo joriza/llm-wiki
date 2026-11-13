@@ -13,7 +13,7 @@ La renta aduanera de Buenos Aires como **eje de la economía política argentina
 
 - La **puerta única** no es un accidente geográfico sino una decisión económica de dos siglos, consolidada en tres momentos: 1776/1778 (creación y privilegio aduanero), 1853-1880 (Constitución no jurada y federalización con aduana nacional) y la red ferroviaria convergente.
 - Consecuencias demográficas hoy: el AMBA concentra ~38% del país mientras la costa atlántica queda casi vacía (Chubut 2,6 hab/km²).
-- El porteñocentrismo (ver [[porteñocentrismo]]) es la cara cultural del mismo fenómeno.
+- El porteñocentrismo (ver [[portenocentrismo]]) es la cara cultural del mismo fenómeno.
 
 ## Fuentes
 

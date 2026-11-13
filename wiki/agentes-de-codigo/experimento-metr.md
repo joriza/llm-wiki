@@ -13,4 +13,4 @@
 
 **Cuidado al citar**: las variantes numéricas difieren entre fuentes (+19 %/-20 % vs +19 %/+24 %); el dato original es de principios de 2025 y los propios autores advierten que las herramientas mejoraron después. Verificar contra METR antes de elevar cifras.
 
-**Ver también**: [[verificacion-como-valor]], [[ia-engineer-perfil]], [[evaluacion-de-llms]] (dominio ia-uso-practico).
+**Ver también**: [[verificacion-como-valor]], [[ai-engineer-perfil]], [[evaluacion-de-llms]] (dominio ia-uso-practico).
