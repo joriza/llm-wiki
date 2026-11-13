@@ -1,6 +1,6 @@
 # Resumen: Las canciones de hoy que hablan del dinero
 
-- **Fuente original**: [raw/general/TboOG4krLBg.md](../../raw/general/TboOG4krLBg.md) ([vídeo](https://www.youtube.com/watch?v=TboOG4krLBg))
+- **Fuente original**: [raw/general/UNKNOWN-fecha-las-canciones-de-hoy-que-hablan-del-dinero.md](../../raw/general/UNKNOWN-fecha-las-canciones-de-hoy-que-hablan-del-dinero.md) ([vídeo](https://www.youtube.com/watch?v=TboOG4krLBg))
 - **Canal**: no identificado en los metadatos del raw (UNKNOWN), pero el contenido se autopresenta sin ambigüedad: «Soy Santiago Bilinkis. Y esto es Futuro en Construcción», su podcast (patrocinios del episodio: BBVA, EY y Personal — excluidos de la síntesis); completar fecha en re-pass
 - **Fecha**: desconocida (metadatos UNKNOWN; el contenido alude a la confirmación de Bad Bunny como artista más escuchado del mundo en diciembre de 2025 y a un disco de Billie Eilish de 2024, por lo que es posterior a esas fechas)
 - **Idioma y duración**: es (subtítulos automáticos); duración desconocida (metadatos UNKNOWN; la transcripción termina en [23:25], ~24 min)

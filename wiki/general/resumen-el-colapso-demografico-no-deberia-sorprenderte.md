@@ -1,6 +1,6 @@
 # Resumen: El colapso demográfico no debería sorprenderte
 
-- **Fuente original**: [raw/general/NG4z806AHls.md](../../raw/general/NG4z806AHls.md) ([vídeo](https://www.youtube.com/watch?v=NG4z806AHls))
+- **Fuente original**: [raw/general/UNKNOWN-fecha-el-colapso-demografico-no-deberia-sorprenderte.md](../../raw/general/UNKNOWN-fecha-el-colapso-demografico-no-deberia-sorprenderte.md) ([vídeo](https://www.youtube.com/watch?v=NG4z806AHls))
 - **Canal**: no identificado (metadatos del raw: UNKNOWN; el contenido es chileno — «todos los medios de noticias en Chile», cifras en pesos chilenos — y el código de afiliados del patrocinio suena en el ASR como «Dart/Dark Global», posible pista del nombre del canal; completar identificación en re-pass)
 - **Fecha**: desconocida (metadatos UNKNOWN; el contenido comenta la baja de la fecundidad chilena a 0,99 «la semana pasada» y un estudio de Stanford «publicado este año», por lo que es contemporáneo a esos hechos)
 - **Idioma y duración**: es (subtítulos automáticos); duración desconocida (metadatos UNKNOWN; la transcripción termina en [13:12], ~14 min)

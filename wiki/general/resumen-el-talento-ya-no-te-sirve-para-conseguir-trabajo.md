@@ -1,6 +1,6 @@
 # Resumen: Por qué el talento ya no te sirve para conseguir trabajo
 
-- **Fuente original**: [raw/general/bAAjgX6hBu4.md](../../raw/general/bAAjgX6hBu4.md) ([vídeo](https://www.youtube.com/watch?v=bAAjgX6hBu4))
+- **Fuente original**: [raw/general/UNKNOWN-fecha-el-talento-ya-no-te-sirve-para-conseguir-trabajo.md](../../raw/general/UNKNOWN-fecha-el-talento-ya-no-te-sirve-para-conseguir-trabajo.md) ([vídeo](https://www.youtube.com/watch?v=bAAjgX6hBu4))
 - **Canal**: no identificado en los metadatos del raw (UNKNOWN), pero el contenido se autopresenta sin ambigüedad: «Soy Santiago Bilinkis. Y esto es Futuro en Construcción», su podcast (patrocinios del episodio: EY, Personal y BBVA — excluidos de la síntesis); completar fecha en re-pass
 - **Fecha**: desconocida (metadatos UNKNOWN; el contenido alude a hechos de julio-noviembre de 2025 y a un estudio de Stanford «publicado este año», por lo que es posterior a esas fechas)
 - **Idioma y duración**: es (subtítulos automáticos); duración desconocida (metadatos UNKNOWN; la transcripción termina en [25:51], ~26 min)
