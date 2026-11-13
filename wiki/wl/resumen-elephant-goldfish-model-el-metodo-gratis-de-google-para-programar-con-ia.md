@@ -1,6 +1,6 @@
 # Resumen: Elephant-Goldfish Model: el método gratis de Google para programar con IA
 
-- **Fuente original**: [raw/agentes-de-codigo/2026-11-08-elephant-goldfish-model-el-metodo-gratis-de-google-para-programar-con-ia.md](../../raw/agentes-de-codigo/2026-11-08-elephant-goldfish-model-el-metodo-gratis-de-google-para-programar-con-ia.md) ([vídeo](https://www.youtube.com/watch?v=TBcgwD9sygM))
+- **Fuente original**: [raw/wl/2026-11-08-elephant-goldfish-model-el-metodo-gratis-de-google-para-programar-con-ia.md](../../raw/wl/2026-11-08-elephant-goldfish-model-el-metodo-gratis-de-google-para-programar-con-ia.md) ([vídeo](https://www.youtube.com/watch?v=TBcgwD9sygM))
 - **Canal**: InzideTech
 - **Fecha**: 2026-11-08 (10:15, subtítulos automáticos es)
 - **Tipo**: tutorial de metodología para agentes de código: EGM (Elephant-Goldfish Model), sistema abierto de Google (Apache 2.0) que divide el trabajo de diseño entre un agente principal con memoria (elefante), subagentes de contexto cero (peces dorados) y el humano como árbitro; instala en Claude Code, Codex CLI, Antigravity CLI, Cursor, Copilot, etc.

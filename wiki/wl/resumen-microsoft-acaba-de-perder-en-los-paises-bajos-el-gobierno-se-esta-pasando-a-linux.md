@@ -1,6 +1,6 @@
 # Resumen: Microsoft acaba de perder en los Países Bajos ¡el gobierno se está pasando a Linux!
 
-- **Fuente original**: [raw/critica-tecnologica/2026-11-10-microsoft-acaba-de-perder-en-los-paises-bajos-el-gobierno-se-esta-pasando-a-linux.md](../../raw/critica-tecnologica/2026-11-10-microsoft-acaba-de-perder-en-los-paises-bajos-el-gobierno-se-esta-pasando-a-linux.md) ([vídeo](https://www.youtube.com/watch?v=0IYqMCE97Vg))
+- **Fuente original**: [raw/wl/2026-11-10-microsoft-acaba-de-perder-en-los-paises-bajos-el-gobierno-se-esta-pasando-a-linux.md](../../raw/wl/2026-11-10-microsoft-acaba-de-perder-en-los-paises-bajos-el-gobierno-se-esta-pasando-a-linux.md) ([vídeo](https://www.youtube.com/watch?v=0IYqMCE97Vg))
 - **Canal**: El Bit Informado
 - **Fecha**: 2026-11-10 (24:16, subtítulos automáticos es)
 - **Tipo**: documental-narración sobre soberanía digital: cómo el bloqueo del correo del fiscal de la Corte Penal Internacional por sanciones de EE. UU. desencadenó la migración del gobierno neerlandés (y media Europa) fuera de Microsoft, con detalle técnico del proyecto (NixOS, suite propia, gestión de flotas)

@@ -1,6 +1,6 @@
 # Resumen: 7 cosas «caras» en las que sí vale la pena gastar
 
-- **Fuente original**: [raw/general/7N5UlLWTddo.md](../../raw/general/7N5UlLWTddo.md) ([vídeo](https://www.youtube.com/watch?v=7N5UlLWTddo))
+- **Fuente original**: [raw/wl/7N5UlLWTddo.md](../../raw/wl/7N5UlLWTddo.md) ([vídeo](https://www.youtube.com/watch?v=7N5UlLWTddo))
 - **Canal**: no identificado en los metadatos (metadatos UNKNOWN); auto-nombrado en el contenido como «sesgos financieros» (canal de finanzas personales, registro coloquial latinoamericano)
 - **Fecha**: UNKNOWN (metadatos UNKNOWN; contenido sugiere 2024-2026 por referencias a FUT Champions y delivery apps)
 - **Duración**: UNKNOWN en metadatos (la transcripción abarca ~15:35)

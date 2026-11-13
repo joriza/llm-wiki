@@ -1,6 +1,6 @@
 # Resumen: Robotech (1985): 10 datos curiosos que no sabías
 
-- **Fuente original**: [raw/general/2026-11-06-robotech-1985-10-datos-curiosos-que-no-sabias.md](../../raw/general/2026-11-06-robotech-1985-10-datos-curiosos-que-no-sabias.md) ([vídeo](https://www.youtube.com/watch?v=Mqh0q_Gr7m0))
+- **Fuente original**: [raw/wl/2026-11-06-robotech-1985-10-datos-curiosos-que-no-sabias.md](../../raw/wl/2026-11-06-robotech-1985-10-datos-curiosos-que-no-sabias.md) ([vídeo](https://www.youtube.com/watch?v=Mqh0q_Gr7m0))
 - **Canal**: Caricaturas del Baúl
 - **Fecha**: 2026-11-06 (14:13, subtítulos automáticos es)
 - **Tipo**: divulgación de trivia televisiva: la madeja comercial y editorial detrás de Robotech — la adaptación de Harmony Gold que cosió tres series japonesas (Macross, Southern Cross, Mospeada) en una sola saga de 85 episodios

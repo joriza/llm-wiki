@@ -1,6 +1,6 @@
 # Resumen: IAs atacaron a Anthropic y llegaron demasiado lejos (Línea peligrosa, parte 5)
 
-- **Fuente original**: [raw/ia-critica-y-fronteras/2026-11-08-ias-atacaron-a-anthropic-y-llegaron-demasiado-lejos.md](../../raw/ia-critica-y-fronteras/2026-11-08-ias-atacaron-a-anthropic-y-llegaron-demasiado-lejos.md) ([vídeo](https://www.youtube.com/watch?v=v35QxGr8TSY))
+- **Fuente original**: [raw/wl/2026-11-08-ias-atacaron-a-anthropic-y-llegaron-demasiado-lejos.md](../../raw/wl/2026-11-08-ias-atacaron-a-anthropic-y-llegaron-demasiado-lejos.md) ([vídeo](https://www.youtube.com/watch?v=v35QxGr8TSY))
 - **Canal**: Contexto Extra (serie «Línea peligrosa», parte 5)
 - **Fecha**: 2026-11-08 (19:20, subtítulos automáticos es)
 - **Tipo**: crónica documentada de seguridad informática: agentes de IA de la startup Cathedral encontraron caminos hacia sistemas internos de Anthropic en una prueba autorizada — reconstrucción por «cinco puertas», con separación explícita entre lo demostrado y lo no demostrado, más el contexto de la semana (fallos PHP 2 Shell explotados masivamente)

@@ -1,6 +1,6 @@
 # Resumen: Si la IA hace la web, ¿qué estás vendiendo?
 
-- **Fuente original**: [raw/ia-uso-practico/2026-11-10-si-la-ia-hace-la-web-que-estas-vendiendo.md](../../raw/ia-uso-practico/2026-11-10-si-la-ia-hace-la-web-que-estas-vendiendo.md) ([vídeo](https://www.youtube.com/watch?v=7fD40ftA6c8))
+- **Fuente original**: [raw/wl/2026-11-10-si-la-ia-hace-la-web-que-estas-vendiendo.md](../../raw/wl/2026-11-10-si-la-ia-hace-la-web-que-estas-vendiendo.md) ([vídeo](https://www.youtube.com/watch?v=7fD40ftA6c8))
 - **Canal**: Raiola Networks (Eloy Rodríguez, CEO y cofundador; hosting con ~95.000 clientes auto-declarados)
 - **Fecha**: 2026-11-10 (15:11, subtítulos automáticos es)
 - **Tipo**: análisis de negocio desde la práctica: qué dejó de pagarse y qué sigue pagándose en el desarrollo web cuando la IA construye las webs — para quien vende webs y para quien las contrata

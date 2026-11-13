@@ -1,6 +1,6 @@
 # Resumen: Cambié las dominadas por 3 ejercicios SEAL
 
-- **Fuente original**: [raw/general/2026-11-11-cambie-las-dominadas-por-3-ejercicios-seal.md](../../raw/general/2026-11-11-cambie-las-dominadas-por-3-ejercicios-seal.md) ([vídeo](https://www.youtube.com/watch?v=Uy_CoRUwgqo))
+- **Fuente original**: [raw/wl/2026-11-11-cambie-las-dominadas-por-3-ejercicios-seal.md](../../raw/wl/2026-11-11-cambie-las-dominadas-por-3-ejercicios-seal.md) ([vídeo](https://www.youtube.com/watch?v=Uy_CoRUwgqo))
 - **Canal**: Tipo Gris
 - **Fecha**: 2026-11-11 (11:27, subtítulos automáticos es)
 - **Tipo**: guía de fitness para mayores de 50: tres ejercicios de espalda/hombro inspirados en la preparación de los Navy SEAL (Stew Smith) como alternativa o complemento de las dominadas cuando el hombro no está listo para la barra; sin equipamiento (marco de puerta, mochila, suelo)

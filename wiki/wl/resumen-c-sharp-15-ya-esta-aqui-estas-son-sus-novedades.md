@@ -1,6 +1,6 @@
 # Resumen: ¡C# 15 ya está aquí! Estas son sus novedades
 
-- **Fuente original**: [raw/informatica-teoria/2026-11-10-c-sharp-15-ya-esta-aqui-estas-son-sus-novedades.md](../../raw/informatica-teoria/2026-11-10-c-sharp-15-ya-esta-aqui-estas-son-sus-novedades.md) ([vídeo](https://www.youtube.com/watch?v=ryRpsa0TAis))
+- **Fuente original**: [raw/wl/2026-11-10-c-sharp-15-ya-esta-aqui-estas-son-sus-novedades.md](../../raw/wl/2026-11-10-c-sharp-15-ya-esta-aqui-estas-son-sus-novedades.md) ([vídeo](https://www.youtube.com/watch?v=ryRpsa0TAis))
 - **Canal**: hdeleon.net (Héctor de León)
 - **Fecha**: 2026-11-10 (11:24, subtítulos automáticos es)
 - **Tipo**: tutorial con demostración de código en vivo: las novedades del lenguaje C# 15, lanzadas junto con .NET 11 el mismo día — tipo union, labeled break/continue, jerarquías cerradas, extension indexers y collection expression arguments

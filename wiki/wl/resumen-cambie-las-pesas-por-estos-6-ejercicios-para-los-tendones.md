@@ -1,6 +1,6 @@
 # Resumen: Cambié las pesas por estos 6 ejercicios para los tendones — resultados impactantes
 
-- **Fuente original**: [raw/general/2026-11-09-cambie-las-pesas-por-estos-6-ejercicios-para-los-tendones.md](../../raw/general/2026-11-09-cambie-las-pesas-por-estos-6-ejercicios-para-los-tendones.md) ([vídeo](https://www.youtube.com/watch?v=G8TVKkW122g))
+- **Fuente original**: [raw/wl/2026-11-09-cambie-las-pesas-por-estos-6-ejercicios-para-los-tendones.md](../../raw/wl/2026-11-09-cambie-las-pesas-por-estos-6-ejercicios-para-los-tendones.md) ([vídeo](https://www.youtube.com/watch?v=G8TVKkW122g))
 - **Canal**: Fuerza y Forma
 - **Fecha**: 2026-11-09 (20:08, subtítulos automáticos es)
 - **Tipo**: guía de fortalecimiento de tendones para mayores de 50 (voz narrada en primera persona): 6 ejercicios + 2 adicionales con técnica, dosis, progresión y contraindicaciones por ejercicio; física narrada con anécdota personal de lesión
