@@ -1,7 +1,7 @@
 # FrogNano
 
 - **Tipo**: página de entidad (modelo).
-- **Dominio**: `ia-local`.
+- **Dominio**: `modelos-llm-locales`.
 - **Actualizado**: 2026-11-11 (consolidación lote ia-local — fuente 52).
 - **Fuentes**: [[resumen-frognano-4b-es-realmente-mejor-que-qwen-3-5-original]] (Nichonauta, 2026-10-02).
 

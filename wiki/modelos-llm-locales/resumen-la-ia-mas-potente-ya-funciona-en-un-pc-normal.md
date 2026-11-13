@@ -1,8 +1,8 @@
 # Resumen: ¿La IA Más Potente Ya Funciona En Un PC Normal?
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-10-31-la-ia-mas-potente-ya-funciona-en-un-pc-normal.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar — «Cuen/Kuen»→Qwen, «Cloud»→Claude, «Chema 3 N»→Gemma 3n, «mapear/mapear el archivo»→memory mapping) — https://www.youtube.com/watch?v=Qp620li6xZE — Jorge Marfil, 2026-10-31 (36:20).
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-10-31-la-ia-mas-potente-ya-funciona-en-un-pc-normal.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar — «Cuen/Kuen»→Qwen, «Cloud»→Claude, «Chema 3 N»→Gemma 3n, «mapear/mapear el archivo»→memory mapping) — https://www.youtube.com/watch?v=Qp620li6xZE — Jorge Marfil, 2026-10-31 (36:20).
 - **Nota**: fuente 56/58 del lote ia-local (entrada 56 del playlist). Análisis técnico + laboratorio de 3 tareas con trampas: Qwen 3.8 Flash Next (arquitectura Qwen 4 XP, 180B total = 125B cerebro + 51B tabla n-grams "chuleta" + 4B MTP) en RTX 3060 12 GB + 61 GB RAM; barrido memoria 12-61 GB; comparación con Claude Opus 5; hilos CPU 12→6 = +48%.
 
 ## El descubrimiento: no es Qwen 3.8, es Qwen 4 XP (vista previa experimental)

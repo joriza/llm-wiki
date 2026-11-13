@@ -1,7 +1,7 @@
 # Bartowski
 
 - **Tipo**: página de entidad (cuantizador).
-- **Dominio**: `ia-local`.
+- **Dominio**: `modelos-llm-locales`.
 - **Actualizado**: 2026-11-11 (consolidación lote ia-local — 1 fuente citada; rol transversal del ecosistema GGUF).
 - **Fuentes**: [[resumen-frognano-4b-es-realmente-mejor-que-qwen-3-5-original]] (cuantización Q4_K_M + mmproj usada en la prueba).
 

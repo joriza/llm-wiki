@@ -1,8 +1,8 @@
 # Resumen: Reto Modelos 2B — cómo sacar el MÁXIMO provecho con IA Local
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-08-20-reto-modelos-2b-como-sacar-el-maximo-provecho-con-ia-local.md` (video en español; transcripción literal por subtítulos automáticos, «un slot»→Unsloth, «Atomic AI» según ASR) — https://www.youtube.com/watch?v=C_nBDT9cIGM — Nichonauta, 2026-08-19 (11:18).
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-08-20-reto-modelos-2b-como-sacar-el-maximo-provecho-con-ia-local.md` (video en español; transcripción literal por subtítulos automáticos, «un slot»→Unsloth, «Atomic AI» según ASR) — https://www.youtube.com/watch?v=C_nBDT9cIGM — Nichonauta, 2026-08-19 (11:18).
 - **Nota**: fuente 12/58 del lote ia-local. **Giro estratégico del canal**: abandona probar modelos a diario y se compromete por semanas a DOS modelos 2B (Gemma 4 E2B + Qwen 3.5 2B), construyéndoles entorno (RAG, MCPs, skills, descomposición atómica de tareas con «Atomic AI»).
 
 ## La tesis: estabilidad sobre novedad

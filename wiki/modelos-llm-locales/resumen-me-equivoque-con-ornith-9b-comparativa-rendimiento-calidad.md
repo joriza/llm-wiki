@@ -1,8 +1,8 @@
 # Resumen: Me equivoqué con Ornith 9B 🧪 Comparativa de RENDIMIENTO y Calidad con Qwen
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-09-22-me-equivoque-con-ornith-9b-comparativa-rendimiento-calidad.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar — «Ornit»→Ornith, «Gema»→Gemma) — https://www.youtube.com/watch?v=SLt4-2aIgAs — Nichonauta, 2026-09-22 (12:28).
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-09-22-me-equivoque-con-ornith-9b-comparativa-rendimiento-calidad.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar — «Ornit»→Ornith, «Gema»→Gemma) — https://www.youtube.com/watch?v=SLt4-2aIgAs — Nichonauta, 2026-09-22 (12:28).
 - **Nota**: fuente 46/58 del lote ia-local (entrada 46 del playlist). Comparativa cara a cara: Qwen 3.5 9B original vs Ornith 1.5 9B (fine-tune de Qwen 3.5 9B → Ornith 1 → Ornith 1.5); tests: chat, SVG, landing page, uso agéntico (Pi Agent + snake.html + iteración estilo Tetris).
 
 ## La tesis: el fine-tune Ornith 1.5 9B **sí mejora calidad en desarrollo agéntico**, pero pierde velocidad

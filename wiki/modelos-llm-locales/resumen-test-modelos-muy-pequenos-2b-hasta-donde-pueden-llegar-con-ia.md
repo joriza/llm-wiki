@@ -1,8 +1,8 @@
 # Resumen: Test Modelos Muy Pequeños 2B — ¿hasta dónde pueden llegar con IA?
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-08-22-test-modelos-muy-pequenos-2b-hasta-donde-pueden-llegar-con-ia.md` (video en español; transcripción literal por subtítulos automáticos) — https://www.youtube.com/watch?v=muiow8wjgIU — Nichonauta, 2026-08-22 (06:32).
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-08-22-test-modelos-muy-pequenos-2b-hasta-donde-pueden-llegar-con-ia.md` (video en español; transcripción literal por subtítulos automáticos) — https://www.youtube.com/watch?v=muiow8wjgIU — Nichonauta, 2026-08-22 (06:32).
 - **Nota**: fuente 14/58 del lote ia-local. Primera escala del «Reto 2B»: probar los dos modelos comprometidos **en chat puro, sin herramientas ni uso agéntico** — el siguiente video sube a OpenCode con archivos, y luego vienen skills, MCPs y Atomic AI.
 
 ## La escalera de capacidades (de simple a complejo)

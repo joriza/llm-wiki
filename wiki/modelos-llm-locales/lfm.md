@@ -1,7 +1,7 @@
 # Liquid LFM (familia 2.5)
 
 - **Tipo**: página de entidad (modelos).
-- **Dominio**: `ia-local`.
+- **Dominio**: `modelos-llm-locales`.
 - **Actualizado**: 2026-11-11 (fuente 8/58 del lote ia-local; la fuente 28 comparará el 8B-A1B).
 - **Fuentes**: [[resumen-liquid-lfm-2-5-una-alternativa-potente-para-uso-agentico-y-de-texto]] · [[resumen-cree-un-modelo-moe-0-1b-ultra-rapido-incluso-en-cpu]] (fuente 22 — conversiones MoE del canal) · [[resumen-ling3-0-tiny-vs-lfm-2-5-8b-a1b-cual-es-el-mejor-modelo-de-ia-pequeno]] (fuente 23 — comparativa contra Ling 3.0 Tiny).
 

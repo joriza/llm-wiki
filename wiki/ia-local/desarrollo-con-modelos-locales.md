@@ -42,3 +42,5 @@ La prueba agéntica real en OpenCode (landing con Bootstrap, ambos modelos 2B en
 - **Soluciones globales vs parches**: los modelos chicos tienden a corregir elemento por elemento; el humano pide la solución global (todos los elementos con ese fondo → texto claro) porque parchear uno a uno «no tiene sentido».
 - **Truco de visión vía herramienta**: un modelo que «no puede ver imágenes» logró hacerlo leyendo la ruta con la herramienta `read` — la capacidad puede estar detrás de una herramienta.
 - **Verificar tras cada cambio**: «dijo que lo hizo correctamente y no cambió nada» es normal — o el humano verifica, o se le da Playwright para auto-verificarse.
+
+> **Ver también (reestructuración aprobada por el usuario, 2026-11-12)**: las familias de modelos con las que se probó este workflow ([[qwen]], [[gemma-4]], retos 2B y comparativas por modelo) viven en el dominio `modelos-llm-locales/`; aquí queda el workflow de desarrollo agéntico y sus hallazgos.

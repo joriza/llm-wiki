@@ -1,8 +1,8 @@
 # Resumen: Liquid LFM 2.5 — una alternativa potente para uso agéntico y de texto
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-08-05-liquid-lfm-2-5-una-alternativa-potente-para-uso-agentico-y-de-texto.md` (video en español; transcripción literal por subtítulos automáticos) — https://www.youtube.com/watch?v=bq7sJ3hOpbk — Nichonauta, 2026-08-05.
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-08-05-liquid-lfm-2-5-una-alternativa-potente-para-uso-agentico-y-de-texto.md` (video en español; transcripción literal por subtítulos automáticos) — https://www.youtube.com/watch?v=bq7sJ3hOpbk — Nichonauta, 2026-08-05.
 - **Nota**: fuente 8/58 del lote ia-local. **Metadatos del raw UNKNOWN** (como la fuente 7; atribución a Nichonauta inferida del contenido — mismo banco de pruebas y referencias a sus propios videos). Consolidado en la entidad [[lfm]].
 
 ## El modelo: Liquid LFM 2.5 en variante 2.6B

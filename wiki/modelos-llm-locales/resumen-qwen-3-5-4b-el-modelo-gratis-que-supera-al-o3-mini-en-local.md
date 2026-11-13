@@ -1,8 +1,8 @@
 # Resumen: Qwen 3.5 4B — el modelo gratis que supera al O3 Mini en local
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-07-24-qwen-3-5-4b-el-modelo-gratis-que-supera-al-o3-mini-en-local.md` (video en español; transcripción literal por subtítulos automáticos, «quant»→Qwen) — https://www.youtube.com/watch?v=gYPX8NRg3vs — Nichonauta, 2026-07-24 (18:22).
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-07-24-qwen-3-5-4b-el-modelo-gratis-que-supera-al-o3-mini-en-local.md` (video en español; transcripción literal por subtítulos automáticos, «quant»→Qwen) — https://www.youtube.com/watch?v=gYPX8NRg3vs — Nichonauta, 2026-07-24 (18:22).
 - **Nota**: fuente 6/58 del lote ia-local. Comparativa contra un modelo retirado de referencia (O3 Mini High). Consolidado con la familia en [[qwen]].
 
 ## La comparativa de leaderboard (Artificial Analysis, según el canal)

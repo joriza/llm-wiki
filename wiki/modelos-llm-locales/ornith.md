@@ -1,7 +1,7 @@
 # Ornith
 
 - **Tipo**: página de entidad (modelo).
-- **Dominio**: `ia-local`.
+- **Dominio**: `modelos-llm-locales`.
 - **Actualizado**: 2026-11-11 (consolidación lote ia-local — fuente 46).
 - **Fuentes**: [[resumen-me-equivoque-con-ornith-9b-comparativa-rendimiento-calidad]] (Nichonauta, 2026-09-22).
 

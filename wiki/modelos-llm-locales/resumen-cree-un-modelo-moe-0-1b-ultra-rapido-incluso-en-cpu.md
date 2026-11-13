@@ -1,8 +1,8 @@
 # Resumen: Creé un modelo MoE 0.1B — ultra rápido incluso en CPU
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-08-26-cree-un-modelo-moe-0-1b-ultra-rapido-incluso-en-cpu.md` (video en español; transcripción literal por subtítulos automáticos, «quant»→Qwen) — https://www.youtube.com/watch?v=QZ18qtz9WJ8 — Nichonauta, 2026-08-25 (07:07).
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-08-26-cree-un-modelo-moe-0-1b-ultra-rapido-incluso-en-cpu.md` (video en español; transcripción literal por subtítulos automáticos, «quant»→Qwen) — https://www.youtube.com/watch?v=QZ18qtz9WJ8 — Nichonauta, 2026-08-25 (07:07).
 - **Nota**: fuente 22/58 del lote ia-local. Extiende la entidad [[lfm]] con las conversiones MoE propias del canal. Aclaración honesta del canal: estos LFM «no son ChatGPT» — son bases para desarrollos y automatizaciones (como ChatGPT solo desde ~2.6B).
 
 ## La idea: convertir densos a MoE

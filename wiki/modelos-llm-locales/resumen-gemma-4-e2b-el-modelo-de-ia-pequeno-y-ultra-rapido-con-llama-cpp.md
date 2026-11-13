@@ -1,8 +1,8 @@
 # Resumen: Gemma 4 E2B — el Modelo de IA Pequeño y ULTRA RÁPIDO con Llama.cpp
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-09-03-gemma-4-e2b-el-modelo-de-ia-pequeno-y-ultra-rapido-con-llama-cpp.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar — «Gema»→Gemma, «Q»→Qwen, «MM Prog»→mmproj) — https://www.youtube.com/watch?v=3YFQG_mpAzM — Nichonauta, 2026-09-03.
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-09-03-gemma-4-e2b-el-modelo-de-ia-pequeno-y-ultra-rapido-con-llama-cpp.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar — «Gema»→Gemma, «Q»→Qwen, «MM Prog»→mmproj) — https://www.youtube.com/watch?v=3YFQG_mpAzM — Nichonauta, 2026-09-03.
 - **Nota**: fuente 29/58 del lote ia-local (entrada 34 del playlist). Refuerza y extiende la entidad [[gemma-4]] con benchmarks de velocidad, consumo real en RTX 3060 y pruebas funcionales (calculadora, simulador de fluidos, visión).
 
 ## El caso E2B: any-to-any, QAT, MTP, 5.1B totales / 2B activos

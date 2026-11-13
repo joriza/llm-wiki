@@ -1,7 +1,7 @@
 # BitNet
 
 - **Tipo**: página de entidad (familia de modelos / técnica).
-- **Dominio**: `ia-local`.
+- **Dominio**: `modelos-llm-locales`.
 - **Actualizado**: 2026-11-11 (consolidación lote ia-local — fuente 53).
 - **Fuentes**: [[resumen-1-58-bits-llms-podrian-ser-mejores-pero-nadie-quiere-usarlos]] (Cognix).
 

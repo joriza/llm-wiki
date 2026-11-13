@@ -1,8 +1,8 @@
 # Resumen: FrogNano 4B 🚀 ¿Es REALMENTE mejor que el Qwen 3.5 Original?
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-10-02-frognano-4b-es-realmente-mejor-que-qwen-3-5-original.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar) — https://www.youtube.com/watch?v=95vKXHnfwpA — Nichonauta, 2026-10-02 (06:20).
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-10-02-frognano-4b-es-realmente-mejor-que-qwen-3-5-original.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar) — https://www.youtube.com/watch?v=95vKXHnfwpA — Nichonauta, 2026-10-02 (06:20).
 - **Nota**: fuente 52/58 del lote ia-local (entrada 52 del playlist). Review FrogNano 4B v2609 (Microsoft, fine-tune Qwen 3.5 4B): tests visión, Tetris, iteración cyberpunk, Asteroids; conclusión: similar al original, más robótico en redacción, MTP integrado, mejoras puntuales pero no reemplazo global.
 
 ## Qué es FrogNano 4B

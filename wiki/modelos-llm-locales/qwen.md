@@ -1,7 +1,7 @@
 # Qwen (familia 3.5 / 3.6)
 
 - **Tipo**: página de entidad (modelos).
-- **Dominio**: `ia-local`.
+- **Dominio**: `modelos-llm-locales`.
 - **Actualizado**: 2026-11-11 (fuente 37/58 del lote ia-local — Qwen 3.5 2B fix loops DRY runtime; Qwen 3.8-27B arquitectura híbrida).
 - **Fuentes**: [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]] · [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] · [[resumen-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad]] · [[resumen-qwen-3-5-4b-el-modelo-gratis-que-supera-al-o3-mini-en-local]] · [[resumen-reto-modelos-2b-como-sacar-el-maximo-provecho-con-ia-local]] · [[resumen-probe-todos-los-4-bits-de-qwen3-8-27b-este-es-el-mejor-para-tu-gpu]] · [[resumen-asi-corregi-qwen-3-5-2b-la-solucion-a-las-repeticiones-sin-fine-tuning]].
 

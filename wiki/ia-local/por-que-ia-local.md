@@ -30,3 +30,5 @@ La disponibilidad/consistencia justifica el stack de [[micro-saas-con-python]] (
 ## Matiz posterior (fuente 20/58): la mejor versión es híbrida
 
 El veredicto a 30 días de otro operador ([[resumen-i-used-odysseus-ai-for-30-days-heres-the-truth]]) afina el argumento: **local para lo simple, barato y privado; APIs para lo complejo** — lo puramente local «puede ser lento o débil según tu hardware». El valor del workspace self-hosted no fue nunca correr todo local: es la **capa de control que unifica** modelos, investigación y datos. Y la regla de privacidad practica: los prompts sensibles se quedan en modelos locales; al usar APIs, el prompt sale hacia el proveedor.
+
+> **Ver también (reestructuración aprobada por el usuario, 2026-11-12)**: las familias de LLM locales y sus comparativas ([[qwen]], [[gemma-4]], [[lfm]], [[ornith]], [[frognano]], [[bitnet]], [[ternary-bonsai]]) se documentan en el dominio `modelos-llm-locales/`; aquí queda el «por qué» del uso local, motores y hardware.

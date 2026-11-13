@@ -1,8 +1,8 @@
 # Resumen: Gemma 4 E2B — el modelo de IA más eficiente para redacción en español
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-08-07-gemma-4-e2b-el-modelo-de-ia-mas-eficiente-para-redaccion-en-espanol.md` (video en español; transcripción automática llegada traducida al inglés con duplicación de ASR — normalizada solo aquí; el ASR garbla «Gemma 4 E2B» como «Gemma 2 2B») — https://www.youtube.com/watch?v=yeyKPVQuiNA — Nichonauta, 2026-08-07.
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-08-07-gemma-4-e2b-el-modelo-de-ia-mas-eficiente-para-redaccion-en-espanol.md` (video en español; transcripción automática llegada traducida al inglés con duplicación de ASR — normalizada solo aquí; el ASR garbla «Gemma 4 E2B» como «Gemma 2 2B») — https://www.youtube.com/watch?v=yeyKPVQuiNA — Nichonauta, 2026-08-07.
 - **Nota**: fuente 10/58 del lote ia-local. **Metadatos del raw UNKNOWN** (atribución a Nichonauta inferida del contenido: continuación directa de sus fuentes previas). Consolidado en [[gemma-4]].
 
 ## El contexto: la alternativa al Qwen 3.5 2B

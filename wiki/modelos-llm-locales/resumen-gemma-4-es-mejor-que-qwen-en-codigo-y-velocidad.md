@@ -1,8 +1,8 @@
 # Resumen: Gemma 4 es MEJOR que Qwen en código y velocidad
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-07-19-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad.md` (video en español; transcripción literal por subtítulos automáticos, «cuen»→Qwen) — https://www.youtube.com/watch?v=0pa-Fy4hsBA — Nichonauta, 2026-07-19 (07:36).
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-07-19-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad.md` (video en español; transcripción literal por subtítulos automáticos, «cuen»→Qwen) — https://www.youtube.com/watch?v=0pa-Fy4hsBA — Nichonauta, 2026-07-19 (07:36).
 - **Nota**: fuente 5/58 del lote ia-local. **Revierte parcialmente a la fuente 3** (del 16-07, mismo canal): la actualización de Google a Gemma 4 —plantilla corregida + MTP— cambia el veredicto sobre herramientas y velocidad. Los benchmarks citados (Artificial Analysis, Terminal Bench) son del canal, no verificados.
 
 ## Los números de la comparativa (Artificial Analysis / Terminal Bench, según el canal)

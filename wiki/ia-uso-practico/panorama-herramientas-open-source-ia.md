@@ -38,3 +38,5 @@ Además, patrón híbrido creciente: plataformas con plan cloud de pago **y** op
 - Bloque express ya consolidado: Obsidian → [[obsidian-memoria-agentes]]; Ollama/Yan → [[ia-local-texto]]; ComfyUI → [[generacion-local-de-imagenes]].
 - Voice Box conecta con [[clonacion-de-voz]]; las UIs agénticas (Openhs, Gstack, Superpowers) con [[agentes-de-codigo]]; el compresor Headroom con la tesis de [[agregacion-apis]] (optimizar créditos antes de escalar suscripción).
 - **Advertencia de profundidad**: recopilatorio de una mención por herramienta — las entidades solo se crean si las herramientas reaparecen con sustancia en fuentes posteriores del lote (llama.cpp, Qwen, Gemma son los temas profundos de las siguientes 57 fuentes).
+
+> **Ver también (reestructuración aprobada por el usuario, 2026-11-12)**: las familias de LLM locales y sus comparativas ([[qwen]], [[gemma-4]], [[lfm]], [[ornith]], [[frognano]], [[bitnet]], [[ternary-bonsai]]) tienen dominio propio en `modelos-llm-locales/`; las entidades profundas del banco de pruebas (llama.cpp, motores, hardware) viven en `ia-local/`.

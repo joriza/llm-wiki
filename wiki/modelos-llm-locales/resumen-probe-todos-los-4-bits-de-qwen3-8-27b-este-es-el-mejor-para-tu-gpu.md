@@ -1,8 +1,8 @@
 # Resumen: Probé Todos los 4 Bits de Qwen3.8-27B — Este es el Mejor para tu GPU
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-09-02-probe-todos-los-4-bits-de-qwen3-8-27b-este-es-el-mejor-para-tu-gpu.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar — «KB»→KV, «NBF P4»→NF4) — https://www.youtube.com/watch?v=cNgD4JDNLd4 — Cognix, 2026-09-02 (08:31).
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-09-02-probe-todos-los-4-bits-de-qwen3-8-27b-este-es-el-mejor-para-tu-gpu.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar — «KB»→KV, «NBF P4»→NF4) — https://www.youtube.com/watch?v=cNgD4JDNLd4 — Cognix, 2026-09-02 (08:31).
 - **Nota**: fuente 35/58 del lote ia-local (entrada 40 del playlist). Cuarta fuente del canal **Cognix** (3ª en ia-uso-practico). Análisis técnico profundo: **«4 bits» no es una etiqueta única** — precisión numérica ≠ algoritmo de cuantización ≠ formato contenedor ≠ kernel de inferencia.
 
 ## El engaño silencioso: «4 bits» ≠ una sola cosa
@@ -62,4 +62,4 @@ Modelo razonamiento híbrido 27B abierto corriendo en **RTX 3090 usada ($500) o 
 
 ## Cruces en la wiki
 
-Entidad: [[informatica-teoria/cognix]] (4ª fuente del canal; 3ª en ia-uso-practico). Modelo: [[qwen]] (Qwen 3.8-27B arquitectura híbrida, KV cache masiva). Hardware: [[hardware-para-ia-local]] (VRAM vs contexto, EXL3/NF4/MLX por GPU). Formatos: GGUF, EXL3, NF4. Cuantización: Unsloth UD recetas dinámicas.
+Entidad: [[cognix]] (4ª fuente del canal; 3ª en ia-uso-practico). Modelo: [[qwen]] (Qwen 3.8-27B arquitectura híbrida, KV cache masiva). Hardware: [[hardware-para-ia-local]] (VRAM vs contexto, EXL3/NF4/MLX por GPU). Formatos: GGUF, EXL3, NF4. Cuantización: Unsloth UD recetas dinámicas.

@@ -1,8 +1,8 @@
 # Resumen: Ling 3.0 Tiny vs LFM 2.5 8B A1B — ¿cuál es el mejor modelo de IA pequeño?
 
 - **Tipo**: resumen de fuente.
-- **Dominio**: `ia-local`.
-- **Fuente original**: `raw/ia-local/2026-08-27-ling3-0-tiny-vs-lfm-2-5-8b-a1b-cual-es-el-mejor-modelo-de-ia-pequeno.md` (video en español; transcripción literal por subtítulos automáticos, «Link»→Ling, «FM»→LFM) — https://www.youtube.com/watch?v=yfo3KCvllCw — Nichonauta, 2026-08-26 (12:57).
+- **Dominio**: `modelos-llm-locales`.
+- **Fuente original**: `raw/modelos-llm-locales/2026-08-27-ling3-0-tiny-vs-lfm-2-5-8b-a1b-cual-es-el-mejor-modelo-de-ia-pequeno.md` (video en español; transcripción literal por subtítulos automáticos, «Link»→Ling, «FM»→LFM) — https://www.youtube.com/watch?v=yfo3KCvllCw — Nichonauta, 2026-08-26 (12:57).
 - **Nota**: fuente 23/58 del lote ia-local. Actualiza la entidad [[lfm]] con la comparativa directa contra Ling 3.0 Tiny.
 
 ## El duelo de MoE chicos (ambos solo texto, ~1B activo)
