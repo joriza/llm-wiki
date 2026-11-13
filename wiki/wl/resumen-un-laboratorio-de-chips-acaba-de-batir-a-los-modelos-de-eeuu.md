@@ -1,6 +1,6 @@
 # Resumen: Un Laboratorio De Chips Acaba De Batir A Los Modelos De EEUU
 
-- **Fuente original**: [raw/ia-local/2026-11-12-un-laboratorio-de-chips-acaba-de-batir-a-los-modelos-de-eeuu.md](../../raw/ia-local/2026-11-12-un-laboratorio-de-chips-acaba-de-batir-a-los-modelos-de-eeuu.md) ([vídeo](https://www.youtube.com/watch?v=huQRi8wmbXs))
+- **Fuente original**: [raw/wl/2026-11-12-un-laboratorio-de-chips-acaba-de-batir-a-los-modelos-de-eeuu.md](../../raw/wl/2026-11-12-un-laboratorio-de-chips-acaba-de-batir-a-los-modelos-de-eeuu.md) ([vídeo](https://www.youtube.com/watch?v=huQRi8wmbXs))
 - **Canal**: Jorge Marfil
 - **Fecha**: 2026-11-12 (40:51, subtítulos automáticos es)
 - **Tipo**: análisis técnico profundo de un lanzamiento: Ripple 65B Preview (denso, Apache 2.0, 32 M USD, equipo de 5) del laboratorio de diseño de chips Recursive Intelligence — qué hay detrás del titular de Terminal Bench 2.1, cómo se entrenó con la «escalera», qué es un modelo denso frente a MoE, y números máquina por máquina (DGX, RTX Pro, 2×consumo, Strix Halo) con veredictos por perfil de usuario

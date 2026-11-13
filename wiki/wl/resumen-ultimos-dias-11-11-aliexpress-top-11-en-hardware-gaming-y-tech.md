@@ -1,6 +1,6 @@
 # Resumen: Últimos días 11.11 AliExpress: TOP 11 en hardware, gaming y tech
 
-- **Fuente original**: [raw/general/2026-11-11-ultimos-dias-11-11-aliexpress-top-11-en-hardware-gaming-y-tech.md](../../raw/general/2026-11-11-ultimos-dias-11-11-aliexpress-top-11-en-hardware-gaming-y-tech.md) ([vídeo](https://www.youtube.com/watch?v=QOug4_hsCGI))
+- **Fuente original**: [raw/wl/2026-11-11-ultimos-dias-11-11-aliexpress-top-11-en-hardware-gaming-y-tech.md](../../raw/wl/2026-11-11-ultimos-dias-11-11-aliexpress-top-11-en-hardware-gaming-y-tech.md) ([vídeo](https://www.youtube.com/watch?v=QOug4_hsCGI))
 - **Canal**: acaele
 - **Fecha**: 2026-11-11 (11:11, subtítulos automáticos es)
 - **Tipo**: guía de compra afiliada para el 11.11 de AliExpress: top 11 de hardware, gaming y electrónica, solo artículos que el autor dice tener en persona y haber analizado en su canal

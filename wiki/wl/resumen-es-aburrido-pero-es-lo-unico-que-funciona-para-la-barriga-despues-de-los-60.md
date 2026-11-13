@@ -1,6 +1,6 @@
 # Resumen: Es aburrido, pero es lo único que funciona para la BARRIGA después de los 60
 
-- **Fuente original**: [raw/general/2026-10-07-es-aburrido-pero-es-lo-unico-que-funciona-para-la-barriga-despues-de-los-60.md](../../raw/general/2026-10-07-es-aburrido-pero-es-lo-unico-que-funciona-para-la-barriga-despues-de-los-60.md) ([vídeo](https://www.youtube.com/watch?v=uo25nq42dc8))
+- **Fuente original**: [raw/wl/2026-10-07-es-aburrido-pero-es-lo-unico-que-funciona-para-la-barriga-despues-de-los-60.md](../../raw/wl/2026-10-07-es-aburrido-pero-es-lo-unico-que-funciona-para-la-barriga-despues-de-los-60.md) ([vídeo](https://www.youtube.com/watch?v=uo25nq42dc8))
 - **Canal**: Marc te cuida (cierre con «aquí en Vitónica te cuida» — canal vinculado a la marca Vitónica [ASR — verificar])
 - **Fecha**: 2026-10-07 (17:29, subtítulos automáticos es)
 - **Tipo**: guía de salud para mayores de 60 años con tesis contracorriente: la barriga de la edad no es un problema de disciplina sino de blanco equivocado — perder músculo y ganar grasa visceral son el mismo problema — y la solución son tres cosas juntas (proteína repartida, fuerza 2×/semana, ventana de comida de 10 h) con el riñón como hilo conductor

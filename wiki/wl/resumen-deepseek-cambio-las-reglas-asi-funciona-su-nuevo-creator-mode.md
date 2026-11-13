@@ -1,6 +1,6 @@
 # Resumen: 🔥 DeepSeek Cambió las Reglas: ¡Así Funciona su Nuevo Creator Mode!
 
-- **Fuente original**: [raw/agentes-de-codigo/2026-11-11-deepseek-cambio-las-reglas-asi-funciona-su-nuevo-creator-mode.md](../../raw/agentes-de-codigo/2026-11-11-deepseek-cambio-las-reglas-asi-funciona-su-nuevo-creator-mode.md) ([vídeo](https://www.youtube.com/watch?v=wVWr0LOTq0Q))
+- **Fuente original**: [raw/wl/2026-11-11-deepseek-cambio-las-reglas-asi-funciona-su-nuevo-creator-mode.md](../../raw/wl/2026-11-11-deepseek-cambio-las-reglas-asi-funciona-su-nuevo-creator-mode.md) ([vídeo](https://www.youtube.com/watch?v=wVWr0LOTq0Q))
 - **Canal**: Informática DP
 - **Fecha**: 2026-11-11 (11:47, subtítulos automáticos es)
 - **Tipo**: tutorial práctico: el Creator Mode del arnés de DeepSeek [ASR «DeepSeek Armes/Arnes» — la plataforma que la wiki documenta como [[deepseek-harness]]]: crear plugins y herramientas integradas con instrucciones en lenguaje natural, instalado sobre un proveedor personalizado y probado con dos demos

@@ -1,6 +1,6 @@
 # Resumen: DeepSeek acaba de SUPERAR a Claude — este flujo de código lo cambia TODO
 
-- **Fuente original**: [raw/agentes-de-codigo/2026-11-11-deepseek-acaba-de-superar-a-claude-este-flujo-de-codigo-lo-cambia-todo.md](../../raw/agentes-de-codigo/2026-11-11-deepseek-acaba-de-superar-a-claude-este-flujo-de-codigo-lo-cambia-todo.md) ([vídeo](https://www.youtube.com/watch?v=L6TrE8f3kpE))
+- **Fuente original**: [raw/wl/2026-11-11-deepseek-acaba-de-superar-a-claude-este-flujo-de-codigo-lo-cambia-todo.md](../../raw/wl/2026-11-11-deepseek-acaba-de-superar-a-claude-este-flujo-de-codigo-lo-cambia-todo.md) ([vídeo](https://www.youtube.com/watch?v=L6TrE8f3kpE))
 - **Canal**: Cognix
 - **Fecha**: 2026-11-11 (15:56, subtítulos automáticos es)
 - **Tipo**: tutorial de arquitectura multiagente: el método «superagente» que DeepSeek publicó (enrutador + trabajadores con ventanas de contexto separadas), reconstruido por una empresa de software sobre Claude Code con tickets, tablero, watchdog, merger y agentes auxiliares

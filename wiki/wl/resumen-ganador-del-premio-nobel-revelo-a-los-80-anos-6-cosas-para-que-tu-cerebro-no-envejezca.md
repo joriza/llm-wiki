@@ -1,6 +1,6 @@
 # Resumen: Ganador del Premio Nobel: REVELÓ a los 80 años 6 cosas para que tu cerebro no envejezca
 
-- **Fuente original**: [raw/general/2026-11-10-ganador-del-premio-nobel-revelo-a-los-80-anos-6-cosas-para-que-tu-cerebro-no-envejezca.md](../../raw/general/2026-11-10-ganador-del-premio-nobel-revelo-a-los-80-anos-6-cosas-para-que-tu-cerebro-no-envejezca.md) ([vídeo](https://www.youtube.com/watch?v=DJLjzr_wbvE))
+- **Fuente original**: [raw/wl/2026-11-10-ganador-del-premio-nobel-revelo-a-los-80-anos-6-cosas-para-que-tu-cerebro-no-envejezca.md](../../raw/wl/2026-11-10-ganador-del-premio-nobel-revelo-a-los-80-anos-6-cosas-para-que-tu-cerebro-no-envejezca.md) ([vídeo](https://www.youtube.com/watch?v=DJLjzr_wbvE))
 - **Canal**: Sabiduría Joven
 - **Fecha**: 2026-11-10 (19:19, subtítulos automáticos es)
 - **Tipo**: divulgación de neurociencia del envejecimiento estructurada como biografía aplicada: la vida de Santiago Ramón y Cajal como hilo para seis hábitos con respaldo científico actual (The Lancet 2024, experimentos de ejercicio, dieta MIND, neurogénesis del hipocampo)

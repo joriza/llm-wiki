@@ -1,6 +1,6 @@
 # Resumen: El caso de la espía CHINA de NVIDIA es PEOR de lo que pensábamos: TRUMP lo sabía
 
-- **Fuente original**: [raw/ia-critica-y-fronteras/2026-11-10-el-caso-de-la-espia-china-de-nvidia-es-peor-de-lo-que-pensabamos.md](../../raw/ia-critica-y-fronteras/2026-11-10-el-caso-de-la-espia-china-de-nvidia-es-peor-de-lo-que-pensabamos.md) ([vídeo](https://www.youtube.com/watch?v=mIPIl8eHECM))
+- **Fuente original**: [raw/wl/2026-11-10-el-caso-de-la-espia-china-de-nvidia-es-peor-de-lo-que-pensabamos.md](../../raw/wl/2026-11-10-el-caso-de-la-espia-china-de-nvidia-es-peor-de-lo-que-pensabamos.md) ([vídeo](https://www.youtube.com/watch?v=mIPIl8eHECM))
 - **Canal**: VisualPolitik
 - **Fecha**: 2026-11-10 (22:30, subtítulos automáticos es)
 - **Tipo**: análisis geopolítico-tech: el escándalo Huang–espía china (aventura extramatrimonial del CEO de NVIDIA con una presunta agente del Ministerio de Seguridad del Estado), la máquina de contrabando de chips MegaSpeed y la radiografía del veto de chips EE. UU.–China 2022-2026 con su giro final (Pekín ya no quiere los chips)

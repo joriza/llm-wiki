@@ -1,6 +1,6 @@
 # Resumen: Rust no viene a por Python. Viene a por algo peor
 
-- **Fuente original**: [raw/informatica-teoria/2026-11-07-rust-no-viene-a-por-python-viene-a-por-algo-peor.md](../../raw/informatica-teoria/2026-11-07-rust-no-viene-a-por-python-viene-a-por-algo-peor.md) ([vídeo](https://www.youtube.com/watch?v=qI_t-NeBlZo))
+- **Fuente original**: [raw/wl/2026-11-07-rust-no-viene-a-por-python-viene-a-por-algo-peor.md](../../raw/wl/2026-11-07-rust-no-viene-a-por-python-viene-a-por-algo-peor.md) ([vídeo](https://www.youtube.com/watch?v=qI_t-NeBlZo))
 - **Canal**: CD
 - **Fecha**: 2026-11-07 (06:26, subtítulos automáticos es)
 - **Tipo**: ensayo técnico breve con mapa del terreno: dónde está ganando Rust realmente (la capa de sistemas de la IA, no la de investigación) y por qué Python ni siquiera es su objetivo — el «algo peor» del título es el C++ de debajo

@@ -1,6 +1,6 @@
 # Resumen: La guerra de Bukele en Haití es PEOR de lo que pensábamos: no queda ni una cárcel
 
-- **Fuente original**: [raw/general/2026-11-11-la-guerra-de-bukele-en-haiti-es-peor-de-lo-que-pensabamos.md](../../raw/general/2026-11-11-la-guerra-de-bukele-en-haiti-es-peor-de-lo-que-pensabamos.md) ([vídeo](https://www.youtube.com/watch?v=LJLGVfzj0nY))
+- **Fuente original**: [raw/wl/2026-11-11-la-guerra-de-bukele-en-haiti-es-peor-de-lo-que-pensabamos.md](../../raw/wl/2026-11-11-la-guerra-de-bukele-en-haiti-es-peor-de-lo-que-pensabamos.md) ([vídeo](https://www.youtube.com/watch?v=LJLGVfzj0nY))
 - **Canal**: VisualPolitik
 - **Fecha**: 2026-11-11 (22:10, subtítulos automáticos es)
 - **Tipo**: análisis geopolítico estructurado en tres preguntas: ¿tiene el bando estatal fuerza suficiente en Haití, qué obstáculos encontrará y puede superarlos? — con el «método Bukele» poniéndose a prueba por primera vez fuera de El Salvador

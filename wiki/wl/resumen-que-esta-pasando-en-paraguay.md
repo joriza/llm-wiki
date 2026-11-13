@@ -1,6 +1,6 @@
 # Resumen: ¿Qué está pasando en Paraguay?
 
-- **Fuente original**: [raw/general/2026-11-10-que-esta-pasando-en-paraguay.md](../../raw/general/2026-11-10-que-esta-pasando-en-paraguay.md) ([vídeo](https://www.youtube.com/watch?v=uDRUfbrCdGM))
+- **Fuente original**: [raw/wl/2026-11-10-que-esta-pasando-en-paraguay.md](../../raw/wl/2026-11-10-que-esta-pasando-en-paraguay.md) ([vídeo](https://www.youtube.com/watch?v=uDRUfbrCdGM))
 - **Canal**: Draugr Txikito
 - **Fecha**: 2026-11-10 (20:32, subtítulos automáticos es)
 - **Tipo**: comentario de actualidad con reportaje propio: la intervención del banco Ueno en Paraguay (ASR «Bueno»), su conexión con el presidente Santiago Peña y el entramado del grupo Vázquez, contada desde la experiencia directa del autor en Asunción y correos de lectores

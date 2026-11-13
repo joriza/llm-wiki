@@ -1,6 +1,6 @@
 # Resumen: LA GUERRA SECRETA DE MILEI: espías, negocios y una SIDE fuera de control
 
-- **Fuente original**: [raw/general/2026-11-07-la-guerra-secreta-de-milei-espias-negocios-y-una-side-fuera-de-control.md](../../raw/general/2026-11-07-la-guerra-secreta-de-milei-espias-negocios-y-una-side-fuera-de-control.md) ([vídeo](https://www.youtube.com/watch?v=xT56-VI94zo))
+- **Fuente original**: [raw/wl/2026-11-07-la-guerra-secreta-de-milei-espias-negocios-y-una-side-fuera-de-control.md](../../raw/wl/2026-11-07-la-guerra-secreta-de-milei-espias-negocios-y-una-side-fuera-de-control.md) ([vídeo](https://www.youtube.com/watch?v=xT56-VI94zo))
 - **Canal**: El Presto
 - **Fecha**: 2026-11-07 (60:22, subtítulos automáticos es)
 - **Tipo**: entrevista larga al periodista Pedro Lacour por la salida de su libro «Los espías de Milei: Operaciones y descontrol en la lucha por el manejo de la SIDE»: la guerra interna Caputo–Karina por la SIDE, la doctrina «CIA argentina», el regreso de los viejos espías y el mapa de operadores (Vila, Stiuso, Bindi, Scaturice, los Jiménez)
