@@ -1609,3 +1609,7 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-009 — foco LED y su fuente conmutada BP2861 (z85eNiv1EqE)
 
 - **FAV-009** (z85eNiv1EqE, Electrotube tv, 2024-11-02, 08:06): fuente conmutada de bombilla LED con el BP2861 — puente discreto (vs JWB1981 con puente interno), R 45 Ω fusible, filtro 400 V, current sense pin 7 (1,8 Ω), MOSFET interno + bobina, red RC 75 kΩ+C en paralelo con los LED, parpadeo invisible. Tema-candidato: fuente-conmutada-led (2/3). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2024-11-02-como-funciona-una-bombilla-o-foco-led-y-su-fuente-conmutada-tl431-smps.md` — resumen `wiki/electronica-practica/resumen-FAV-009-foco-led-fuente-conmutada-bp2861-electrotube.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-010 — LEDs a 220V sin transformador (MPydeX-V2n4)
+
+- **FAV-010** (MPydeX-V2n4, Electgpl, 2015-05-09, 12:43): fuente capacitiva sin transformador para LEDs con cálculos completos — capacitor limitador por reactancia (221 nF/400 V para 4 LED 2,5 V/20 mA), puente rectificador, filtro 100 µF/16 V, por qué el capacitor disipa menos que una R (90° de desfase), medición real 9,35 V, mejoras con R serie y zener. **Umbral del tema fuente-conmutada-led alcanzado (FAV-008+009+010) → página de concepto en la próxima consolidación.** — Dominio: electronica-practica/ — raw `raw/electronica-practica/2015-05-09-como-conectar-leds-a-220v-sin-transformador.md` — resumen `wiki/electronica-practica/resumen-FAV-010-leds-220v-sin-transformador-electgpl.md`.
