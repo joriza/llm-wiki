@@ -43,3 +43,4 @@ Recopilación de 15 casos reales (casi todos con «Fable 5.2», el modelo tope d
 - **WL-48 (Sequoia)**: «si vendes la herramienta, compites con el modelo» — los casos de creación aquí (vídeo por código, maquetas, juegos) son exactamente el trabajo que los pilotos automáticos absorberán.
 - Tema-candidato: **modelos abiertos vs cerrados para seguridad** (caso Hugging Face + backdoors) — primera fuente del tema.
 - **Página de concepto**: [[destilacion-conocimiento-oscuro]] — Heretic y los modelos sin frenos como la otra cara del acceso al «cómo piensa» un modelo (creada 2026-11-14).
+- **Página de concepto**: [[anatomia-de-un-rumor]] — la frase recortada como versión corta del mismo mecanismo (creada 2026-11-14 con WL-62/WL-31).

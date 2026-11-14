@@ -44,3 +44,4 @@ La IA generativa está erosionando el aprendizaje formal: los estudiantes la usa
 - **[[burbuja-de-la-ia]]**: percepción generacional y angustia laboral (64 % → 89 %) como termómetro social del ciclo.
 - Concepto candidato para consolidación: **IA en educación** (aprendizaje erosionado vs tutoría socrática que sí funciona) — primera fuente de la wiki en el tema.
 - **Página de concepto**: [[tecnologia-educativa-promesa-vs-institucion]] — el ciclo promesa-institución repetido con IA (WL-79, Logo); dato macro de adopción también en [[burnout-era-ia]].
+- **Página de concepto**: [[anatomia-de-un-rumor]] — el ingrediente real re-enmarcado (fecha prestada, cifra aislada, clip sin contexto); creada 2026-11-14 con WL-62/WL-53.
