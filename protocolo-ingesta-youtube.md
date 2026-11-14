@@ -19,7 +19,7 @@ Decisión del usuario 2026-11-13 tras el análisis crítico del bucle descarga�
 **Capa de estado y reanudación:**
 
 8. **`estado.json` central** (`.atl/scratch/<nombre>/estado.json`, id → estado + timestamp): pending / downloaded / ingested / committed / skip-nosubs / skip-private / meta-fail / failed. El runner escribe los estados de descarga; el bucle de ingesta escribe ingested/committed. **El commit es la fuente de verdad**: al reanudar, un estado laggeado se reconcilia contra `log.md` (nunca re-ingestar por estado solo). Escala a listas de cientos.
-9. **Cortes solo en frontera committed**: relevo planificado cada ~10 fuentes (subagente) o al agotar contexto; jamás a mitad de descarga o ingesta. El cableado de páginas se hace por búsqueda de entidades en `wiki/` (no por lista manual, que no escala).
+9. **Cortes solo en frontera committed**: relevo del subagente cada 5 fuentes (decisión del usuario 2026-11-14, antes ~10 — evaluar en la práctica si conviene volver a 15); contexto del worker siempre mínimo y jamás un corte a mitad de descarga o ingesta. El cableado de páginas se hace por búsqueda de entidades en `wiki/` (no por lista manual, que no escala).
 
 **Capa de tiempos (después de proteger):**
 
