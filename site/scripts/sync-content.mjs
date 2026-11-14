@@ -126,9 +126,7 @@ function buildIndex() {
 // Meta de build para el footer: conteo de fuentes (resumen-*.md en wiki/ ANTES de copiar)
 // y último commit (fecha ISO corta %as + hash corto %h) ejecutado desde la raíz del repo.
 function collectBuildMeta(files) {
-  const fuentes = files.filter((f) =>
-    path.basename(f).toLowerCase().startsWith("resumen-"),
-  ).length
+  const fuentes = files.filter((f) => path.basename(f).toLowerCase().startsWith("resumen-")).length
   let commitDate = null
   let commitHash = null
   const repoRoot = path.resolve(siteDir, "..")

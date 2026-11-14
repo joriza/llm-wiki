@@ -39,8 +39,7 @@ export default ((_opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           Actualizado {stamp}
-          {commitLine} · generado con <a href="https://quartz.jzhao.xyz/">Quartz</a> v
-          {version}
+          {commitLine} · generado con <a href="https://quartz.jzhao.xyz/">Quartz</a> v{version}
         </p>
       </footer>
     )
