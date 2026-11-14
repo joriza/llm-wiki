@@ -14,7 +14,7 @@ Operación conjunta de fuerzas especiales salvadoreñas + Policía/FFAA haitiana
 - **Canal de news-farm altamente sospechoso**: relato sin una sola fuente concreta (ninguna agencia, fecha de operación, número de parte oficial), narrador uniforme tipo TTS, retórica épica recargada («cámara de los horrores», «victoria para la decencia») y una historia *convenientemente perfecta* para el engagement (Bukele + Haití + cráneos + Blackwater + Rubio).
 - Elementos **posibles pero no verificables desde el raw**: la presencia salvadoreña en Haití (habría precedentes de diálogo Salvador-Haití en 2025-2026), la recompensa por «Barbecue» (real:Jimmy Chérizier, sancionado por EE. UU.), Viv Ansanm designada terrorista (real, 2025). El «hallazgo de cráneos en el estadio» y los «4 militares secuestrados» son afirmaciones sin respaldo citado — **tratar como no verificado hasta contrastar**.
 - Errores de ASR visibles: «Viv and Sam»/«Vivanam» (Viv Ansanm), «Tusan Lubertur» (Toussaint Louverture), «Nayib Bukele» correcto; «Acestado» (asestado).
-- **Declarar en la wiki como fuente de calidad mínima**: útil solo como registro de la narrativa de la news-farm pro-Bukele, no como hecho.
+- **Corroboración posterior (WL-43)**: EL CUARTO PODER publicó el mismo día una versión informativa del mismo evento (con entrevista NTN24 y citas textuales de Bukele) — el núcleo fáctico deja de ser news-farm pura y pasa a «evento reportado por múltiples canales hispanos, sin fuente primaria internacional verificada»; ver [[resumen-bukele-estadio-silvio-cator-cuarto-poder]].
 
 ## Cruces
 
