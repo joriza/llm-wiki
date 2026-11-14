@@ -1601,3 +1601,7 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-007 — condensador (3rBmi5CPCs0)
 
 - **FAV-007** (3rBmi5CPCs0, Luis Carlos Galán, 2019-03-28, 19:56): el condensador de la construcción al comportamiento — láminas+dieléctrico (botella de Leyden), tipos y medición con capacitímetro (470 µF → 458 µF), curvas exponenciales de carga/descarga con multímetro y osciloscopio, constante de tiempo τ=R·C con R variable. Tema-candidato: condensador-rc (1/2, sube con FAV-008..010). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2019-03-28-como-funciona-un-condensador-curvas-de-carga-descarga-con-el-osciloscopio.md` — resumen `wiki/electronica-practica/resumen-FAV-007-condensador-luis-carlos-galan.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-008 — foco LED fuente conmutada JWB1981 (2IFIRgJz64Q)
+
+- **FAV-008** (2IFIRgJz64Q, Electrotube tv, 2024-11-09, 09:58): fuente conmutada de bombilla LED con el integrado JWB1981 — puente/operacional/MOSFET internos, R 30 Ω fusible, filtro 400 V + descarga 1 MΩ, current sense pin 4 (subir esa R = LED más relajados y duraderos), conmutación a alta frecuencia con parpadeo invisible. Tema-candidato: fuente-conmutada-led (1/3). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2024-11-09-como-funciona-una-bombilla-o-foco-led-fuente-conmutada-con-jwb1981-smps-tl431.md` — resumen `wiki/electronica-practica/resumen-FAV-008-foco-led-fuente-conmutada-jwb1981-electrotube.md`.
