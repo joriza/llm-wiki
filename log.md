@@ -1580,3 +1580,7 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-003 — detector de luz (4jUeKtnwzrs)
 
 - **FAV-003** (4jUeKtnwzrs, El profe García, 2012-12-12, 02:59, subs manuales es-419): montaje en protoboard de detector de ausencia de luz — divisor 100KΩ+LDR → base de NPN 2N2222A (vía 1KΩ), LED+500Ω en colector; al oscurecer el transistor conduce y enciende el LED = fotocélula de alumbrado público. Tema-candidato: ldr-fotorresistencia (1/2, sube con FAV-004). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2012-12-12-montaje-detector-de-luz.md` — resumen `wiki/electronica-practica/resumen-FAV-003-montaje-detector-de-luz.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-004 — fotoresistencia LDR (1vWbqf7cHLg)
+
+- **FAV-004** (1vWbqf7cHLg, Cienciabit, 2016-09-05, 06:37, subs manuales): la LDR — CdS + efecto fotoeléctrico (más luz → menos resistencia), límite de respuesta (no comunicaciones → fotodiodo/fototransistor), 3 experimentos: LED con 120Ω de protección, detección de IR de mando a distancia, multímetro (~14 KΩ oscura). **Umbral del tema ldr-fotorresistencia alcanzado (FAV-003+FAV-004) → página de concepto en la próxima consolidación.** — Dominio: electronica-practica/ — raw `raw/electronica-practica/2016-09-05-una-resistencia-sensible-a-la-luz-fotoresistencia-ldr.md` — resumen `wiki/electronica-practica/resumen-FAV-004-fotoresistencia-ldr-cienciabit.md`.
