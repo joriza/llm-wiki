@@ -1,6 +1,6 @@
 # Resumen: Elecciones en Estados Unidos — qué cambia para el mundo y para Milei cuando Trump pierde el Congreso
 
-- **Fuente original**: `raw/wl/tramo-5/2026-11-07-elecciones-en-estados-unidos-que-cambia-para-el-mundo-y-para-milei-cuando-trump-.md` (WL-66, tramo 5)
+- **Fuente original**: `raw/sociedad-argentina/2026-11-07-elecciones-en-estados-unidos-que-cambia-para-el-mundo-y-para-milei-cuando-trump-.md` (WL-66, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=dVPKRslTL_8
 - **Canal**: Roxana Kreimer (filósofa argentina; análisis político con marxismo analítico suave y filosofía política explícita)
 - **Publicado**: 2026-11-07 · **Duración**: 37:43 · **Idioma**: es (subtítulos automáticos, transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen: ¿Estamos a un CIBERATAQUE de una catástrofe mundial?
 
-- **Fuente original**: `raw/wl/tramo-5/2026-11-07-estamos-a-un-ciberataque-de-una-catastrofe-mundial.md` (WL-65, tramo 5)
+- **Fuente original**: `raw/critica-tecnologica/2026-11-07-estamos-a-un-ciberataque-de-una-catastrofe-mundial.md` (WL-65, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=V9O2sdPfSSU
 - **Canal**: Joaquin Trincado (Chile; «un canal chico recién empezando» — reflexión técnica accesible)
 - **Publicado**: 2026-11-07 · **Duración**: 12:12 · **Idioma**: es (subtítulos automáticos, transcripción literal)

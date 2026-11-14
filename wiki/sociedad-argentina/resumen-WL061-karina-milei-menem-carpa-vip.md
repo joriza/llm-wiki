@@ -1,6 +1,6 @@
 # Resumen: El Presto muestra las pruebas — Karina Milei, los Menem y el escándalo de la carpa VIP
 
-- **Fuente original**: `raw/wl/tramo-5/2026-11-12-el-presto-muestra-las-pruebas-karina-milei-los-menem-y-el-escandalo-de-la-carpa-.md` (WL-61, tramo 5 — primera fuente con la nueva estructura de carpetas)
+- **Fuente original**: `raw/sociedad-argentina/2026-11-12-el-presto-muestra-las-pruebas-karina-milei-los-menem-y-el-escandalo-de-la-carpa-.md` (WL-61, tramo 5 — primera fuente con la nueva estructura de carpetas)
 - **URL**: https://www.youtube.com/watch?v=q5up4N0c1Hw
 - **Canal**: El Presto (opinión política argentina; editorial con lenguaje altamente agresivo)
 - **Publicado**: 2026-11-12 · **Duración**: 26:48 · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -27,3 +27,4 @@
 - **Dominio destino previsto: `sociedad-argentina/`** — **continuación directa de WL-57** (misma carpa VIP, mismo canal, un día después): WL-57 era la editorial moral; este es el «con pruebas» — par documental para consolidación (bidireccional).
 - **WL-42**: la grieta como identidad — aquí el sectarismo anti-pro/anti-kirchnerismo explícito.
 - Tema-candidato: **la visita de León XIV (2026)** — este video aporta el capítulo de contrataciones públicas al expediente.
+- **Página de concepto**: [[captura-de-medios-estatales]] — este video aporta el capítulo de contrataciones públicas del entorno Menem (creada 2026-11-14 con WL-73/WL-57).

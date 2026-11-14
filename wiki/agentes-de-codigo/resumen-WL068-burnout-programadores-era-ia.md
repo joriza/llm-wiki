@@ -1,6 +1,6 @@
 # Resumen: La enfermedad silenciosa de los programadores — BURNOUT
 
-- **Fuente original**: `raw/wl/tramo-5/2026-11-05-la-enfermedad-silenciosa-de-los-programadores-burnout.md` (WL-68, tramo 5)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-05-la-enfermedad-silenciosa-de-los-programadores-burnout.md` (WL-68, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=oM5JiMtzmts
 - **Canal**: TodoCode (Luisina — profesora de programación, canal educativo Java/Spring)
 - **Publicado**: 2026-11-05 · **Duración**: 25:22 · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -38,3 +38,4 @@ Narrado en primera persona con detalle: junior recién egresada; la capacitadora
 - **WL-47 (SuperAgente DeepSeek)**: la contradicción exacta — DeepSeek diseña para minimizar la atención humana; TodoCode documenta que la supervisión humana crece más rápido que la autonomía. El debate observe/auto de WL-47 es la respuesta organizacional al problema que WL-68 describe.
 - **WL-31 (Platzi, 88-92 % de trabajos con IA)**: contraste con los datos de frustración (66 %) — la adopción masiva no equivale a adopción sana.
 - Tema-candidato: **burnout-de-la-era-IA** (la trampa de productividad: ahorro → exigencia) — primera fuente del tema.
+- **Páginas de concepto**: [[burnout-era-ia]] (fuente principal, con WL-52/WL-47) y [[ambiguedad-rellenada-por-el-sistema]] (el «botón psicodélico») — creadas 2026-11-14.

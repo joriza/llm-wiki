@@ -1,6 +1,6 @@
 # Resumen: La trágica historia de Eduard Einstein, el hijo con esquizofrenia que Albert no volvió a ver
 
-- **Fuente original**: `raw/wl/tramo-5/2026-11-06-la-tragica-historia-de-eduard-einstein-el-hijo-con-esquizofrenia-que-albert-no-v.md` (WL-71, tramo 5)
+- **Fuente original**: `raw/general/2026-11-06-la-tragica-historia-de-eduard-einstein-el-hijo-con-esquizofrenia-que-albert-no-v.md` (WL-71, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=8zrH2yp4NQA
 - **Canal**: Silencio Clínico (historia clínica de familias famosas «sin morbo, con documentos»; distingue siempre lo comprobado de lo repetido)
 - **Publicado**: 2026-11-05 · **Duración**: 28:40 · **Idioma**: es (subtítulos automáticos, transcripción literal)

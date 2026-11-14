@@ -1,6 +1,6 @@
 # Resumen: La verdad sobre estos 10 villanos — ¿eran realmente malos?
 
-- **Fuente original**: `raw/wl/tramo-5/2026-06-05-la-verdad-sobre-estos-10-villanos-eran-realmente-malos.md` (WL-63, tramo 5)
+- **Fuente original**: `raw/general/2026-06-05-la-verdad-sobre-estos-10-villanos-eran-realmente-malos.md` (WL-63, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=2h986U9AKVA
 - **Canal**: EL CANAL DE NEURUS (Diego; registro rioplatense — «mate cocido», «quilombo»; análisis de ficción)
 - **Publicado**: 2026-06-05 · **Duración**: 20:21 · **Idioma**: es (subtítulos automáticos, transcripción literal)

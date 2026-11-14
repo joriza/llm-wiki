@@ -1,6 +1,6 @@
 # Resumen: Clarion — el programa que creaba programas
 
-- **Fuente original**: `raw/wl/tramo-5/2026-10-29-clarion-el-programa-que-creaba-programas.md` (WL-69, tramo 5)
+- **Fuente original**: `raw/informatica-teoria/2026-10-29-clarion-el-programa-que-creaba-programas.md` (WL-69, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=YUVTJVHDtVw
 - **Canal**: ARCHIVO DEL FUTURO (histórico-técnico; serie sobre Turbo Pascal, Delphi, Clipper)
 - **Publicado**: 2026-10-29 · **Duración**: 25:47 · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -35,3 +35,4 @@ Generador de aplicaciones de negocio (1986, DOS, Barrington Systems — Bruce Ba
 - **WL-59 (Craft Anything)** y **WL-58**: **Clarion = el antecedente directo de 1986** — describir el negocio, generar el 80 %, programar las excepciones con puntos de inserción preservables — la misma arquitectura conceptual del vi-coding 2026, con la misma tensión (automatizado vs comprender lo inesperado). Cruce bidireccional obligatorio en consolidación: «Craft Anything es Clarion con IA».
 - **WL-64**: el final de VB6/coexistencia «simply works» repite el ciclo de Clarion (SoftVelocity manteniendo aplicaciones décadas) — el tema **software-que-resiste** (WL-64+69).
 - Tema-candidato: **generadores de aplicaciones 4GL (1986-2026): de Clarion a Craft Anything** — primera fuente del tema.
+- **Páginas de concepto/entidad**: [[generadores-4gl-1986-2026]] (fuente principal), [[reglas-cableadas-vs-programadas]] y [[archivo-del-futuro]] (entidad del canal, con WL-79) — creadas 2026-11-14.

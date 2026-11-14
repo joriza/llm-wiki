@@ -1,6 +1,6 @@
 # Resumen: 17 de noviembre — qué SÍ va a pasar y qué NO (apagón mundial, alertas y mochila de emergencia)
 
-- **Fuente original**: `raw/wl/tramo-5/2026-11-13-17-de-noviembre-que-si-va-a-pasar-y-que-no-apagon-mundial-alertas-y-mochila-de-e.md` (WL-62, tramo 5)
+- **Fuente original**: `raw/general/2026-11-13-17-de-noviembre-que-si-va-a-pasar-y-que-no-apagon-mundial-alertas-y-mochila-de-e.md` (WL-62, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=NRdbhHwNE3g
 - **Canal**: ReporteIDAA («Reporte Aida»; el propio video aclara: «es un video informativo, no es una verificación»)
 - **Publicado**: 2026-11-12 · **Duración**: 04:02 · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -26,3 +26,4 @@ Una **prueba de ~1 minuto en radio y TV de Estados Unidos** (no en México, no a
 - **Dominio destino previsto: `general/`** (alfabetización mediática/desinformación).
 - **WL-53 (Mitjana) / WL-31**: misma familia de «cómo se fabrica información viral» — aquí el rumor apocalíptico, allá la frase recortada; candidata a concepto **anatomía de un rumor** (ingredientes reales + fecha prestada + anonimos).
 - Tema: primera fuente de la wiki sobre desinformación preventiva.
+- **Página de concepto**: [[anatomia-de-un-rumor]] — fuente principal de la página (creada 2026-11-14 con WL-31/WL-53).

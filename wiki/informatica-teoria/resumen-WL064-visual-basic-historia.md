@@ -1,6 +1,6 @@
 # Resumen: Visual Basic — Bill Gates lo compró, Microsoft lo abandonó y sus programas siguen vivos
 
-- **Fuente original**: `raw/wl/tramo-5/2026-11-12-visual-basic-bill-gates-lo-compro-microsoft-lo-abandono-y-sus-programas-siguen-v.md` (WL-64, tramo 5)
+- **Fuente original**: `raw/informatica-teoria/2026-11-12-visual-basic-bill-gates-lo-compro-microsoft-lo-abandono-y-sus-programas-siguen-v.md` (WL-64, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=B8lII_cRmDM
 - **Canal**: Un Junior Más
 - **Publicado**: 2026-11-12 · **Duración**: 34:45 · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -34,3 +34,4 @@ Más de **200 MVPs de Microsoft** (sus mejores embajadores, premiados por ayudar
 - **Dominio destino previsto: `informatica-teoria/`** — clúster con WL-55 (Gus), WL-46 (Rust), WL-26 (historia) y la serie historia-informatica (Jensen Huang).
 - **WL-45/WL-31**: la lección de compatibilidad dialoga con el miedo a reescribir («si hay que reescribir, ¿por qué seguir con el mismo proveedor?» — migración a lenguajes de internet) — antecedente histórico exacto del debate IA-reescribe-todo de WL-46.
 - Tema-candidato: **compatibilidad hacia atrás como activo** (VB6/COBOL/SimCity vs .NET) — primera fuente histórica del tema.
+- **Páginas de concepto**: [[generadores-4gl-1986-2026]] (la línea evolutiva 4GL) y [[lenguaje-rust]] (el contrapunto de la compatibilidad rota) — creadas 2026-11-14.

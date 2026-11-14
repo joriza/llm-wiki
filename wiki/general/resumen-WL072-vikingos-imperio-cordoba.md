@@ -1,6 +1,6 @@
 # Resumen: El día que los vikingos entendieron lo que era un verdadero imperio (Björn Ironside y el Emirato de Córdoba, 859-862)
 
-- **Fuente original**: `raw/wl/tramo-5/2026-10-14-el-dia-que-los-vikingos-entendieron-lo-que-era-un-verdadero-imperio.md` (WL-72, tramo 5)
+- **Fuente original**: `raw/general/2026-10-14-el-dia-que-los-vikingos-entendieron-lo-que-era-un-verdadero-imperio.md` (WL-72, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=RMvUNjE_Oyo
 - **Canal**: Historia Brutal (narración histórica dramatizada, 66:57 — el video más largo procesado)
 - **Publicado**: 2026-10-14 · **Idioma**: es (subtítulos automáticos, transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen: ¿ESP-Mosaico podría ser el fin de la programación con Arduino?
 
-- **Fuente original**: `raw/wl/tramo-5/2026-11-07-esp-mosaico-podria-ser-el-fin-de-la-programacion-con-arduino.md` (WL-67, tramo 5)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-07-esp-mosaico-podria-ser-el-fin-de-la-programacion-con-arduino.md` (WL-67, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=E-Q8tX1SFRA
 - **Canal**: BricoGeek (referente maker hispano)
 - **Publicado**: 2026-11-07 · **Duración**: 12:54 · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -37,3 +37,4 @@ Repos de GitHub con documentación/ejemplos/componentes, **entorno de simulació
 - **WL-58 (ArtCraft)**: misma tesis — «el MCP convierte la herramienta en manos del agente» — aplicada al hardware físico en vez del escritorio; confirma el patrón **MCP-first como dirección de industria 2026** (Espressif, Arduino/Qualcomm, ArtCraft, Platzi-Education).
 - **WL-52/45**: la pregunta «¿mejores proyectos o proyectos que nadie entiende?» repite la preocupación de oxidación de WL-45 en el mundo maker.
 - Tema-candidato: **hardware agéntico (MCP-first hardware)** — primera fuente del tema.
+- **Páginas de concepto**: [[hardware-agentico-mcp-first]] (fuente principal de la página) y [[reglas-cableadas-vs-programadas]] — creadas 2026-11-14.

@@ -1,6 +1,6 @@
 # Resumen: The Dark Knowledge of AI
 
-- **Fuente original**: `raw/wl/tramo-5/2026-10-06-the-dark-knowledge-of-ai.md` (WL-70, tramo 5)
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-10-06-the-dark-knowledge-of-ai.md` (WL-70, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=A9psCzGqvfs
 - **Canal**: Emergence (subtítulos **manuales**; video-essay documental con paralelismos históricos)
 - **Publicado**: 2026-10-05 · **Duración**: 19:00 · **Idioma**: es (transcripción literal)
@@ -44,3 +44,4 @@
 - **WL-40 (limites-de-los-llm)**: el conocimiento oscuro (probabilidades residuales) es un límite expuesto deliberadamente como barrera comercial.
 - **WL-53 (modelos sin frenos)**: Heretic («cirugía cerebral») es la versión no comercial de la discusión de frenos.
 - Tema-candidato: **destilación y conocimiento oscuro** (técnica + geopolítica + ética del copiar) — primera fuente del tema.
+- **Páginas de concepto**: [[destilacion-conocimiento-oscuro]] (fuente principal) y [[ia-como-reconstruccion]] (la otra dirección IA↔conocimiento acumulado, con WL-75) — creadas 2026-11-14.
