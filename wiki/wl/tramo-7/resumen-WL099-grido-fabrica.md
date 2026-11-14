@@ -35,3 +35,4 @@
 ## ADVERTENCIA
 
 Contenido de marca (tour guiado por la empresa); datos sin verificación independiente; el título es clickbait (no explica el precio, explica el proceso).
+- **Página de concepto**: [[como-se-hace-lo-cotidiano]] — el dato técnico debajo de la marca (creada 2026-11-14).

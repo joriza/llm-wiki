@@ -36,3 +36,4 @@ Un caso completo de primera entrevista técnica junior en noviembre de 2026, nar
 - **WL-40 (Tu Minuto Económico)**: coincide en «nadie tiene la bola de cristal» — la recomendación operativa (dominar punta a punta sin IA) es la versión práctica.
 - Tema-candidato: **hiring técnico post-IA** (prohibición de IA en pruebas como nueva norma; la «oxidación por Copilot/OpenCode» como riesgo personal documentado).
 - **Página de concepto**: [[burnout-era-ia]] — la oxidación como tercer síntoma del clúster (creada 2026-11-14).
+- **Página de concepto**: [[futuro-del-trabajo]] y [[hiring-post-ia]] — la barra subió, no desapareció (creadas 2026-11-14).

@@ -40,3 +40,4 @@
 ## ADVERTENCIA
 
 Divulgación de un tercero entusiasta (amigo declarado del creador — sesgo de simpatía explícito); las comparaciones «ODD ≫ SDD» son opinión cualificada, no benchmarks.
+- **Entidad**: [[gentleman-programming]] — actualizada con esta tercera voz independiente (2026-11-14); metodología: [[odd-metodologia]].

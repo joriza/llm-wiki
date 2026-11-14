@@ -29,3 +29,4 @@ Contraste de apertura: la visita de **León XIV** a Argentina (primera de un pon
 - **Dominio destino previsto: `sociedad-argentina/`** — refuerza el clúster con WL-18 y WL-29.
 - Tema-candidato en consolidación: **Francisco y la política argentina** (primera fuente de la wiki sobre Bergoglio — el pontificado, su no-vuelta y la grieta) y la continuación con León XIV como evento de 2026.
 - **[[burbuja-de-la-ia]] no aplica**; cruce débil con WL-34 (Ximena Vásquez): ambos videos se apoyan en la misma crítica de la interpretación fragmentaria como producto del engagement — «fabricar enfrentamientos» es el patrón compartido entre la grieta argentina y la guerra cultural global.
+- **Página de concepto**: [[papado-y-grieta-argentina]] — el experimento negativo (la no-visita; creada 2026-11-14).

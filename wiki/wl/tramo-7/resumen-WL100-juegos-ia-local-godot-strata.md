@@ -47,3 +47,4 @@ Demo de extremo a extremo de desarrollo agéntico con IA local: un juego (demo b
 ## ADVERTENCIA
 
 Nombres de modelos/cuantizaciones garuñados por ASR — verificar contra el canal/repo antes de citar cifras; mediciones de un solo equipo.
+- **Entidad**: [[opencode]] — actualizada con este tutorial directo (2026-11-14). **Página de concepto**: [[hardware-agentico-mcp-first]] — tercer caso MCP-para-todo (actualizada 2026-11-14).

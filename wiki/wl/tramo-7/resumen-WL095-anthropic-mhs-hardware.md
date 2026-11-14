@@ -49,3 +49,4 @@ Anthropic presentó el **27/8/2026 el Model Hardware Standard (MHS)** — un est
 ## ADVERTENCIA
 
 Anuncio 2026 de segunda mano (research preview, cifras del propio proyecto); siglas y fechas por verificar contra el anuncio oficial de Anthropic antes de citar.
+- **Página de concepto**: [[seguridad-fuera-del-modelo]] (interlocks) y [[hardware-agentico-mcp-first]] (el eslabón físico del patrón MCP-first) — creada/actualizada 2026-11-14.

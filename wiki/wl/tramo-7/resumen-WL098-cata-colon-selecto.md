@@ -37,3 +37,4 @@
 ## ADVERTENCIA
 
 Cata subjetiva de un solo catador; precios sin fecha fija; la afirmación de propiedad CCU/Colón es incierta según el propio autor — no citar como hecho.
+- **Página de concepto**: [[vino-y-nuevos-consumidores]] y [[como-se-hace-lo-cotidiano]] — creadas 2026-11-14.

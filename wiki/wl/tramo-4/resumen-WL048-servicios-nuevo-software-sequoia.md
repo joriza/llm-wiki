@@ -49,3 +49,4 @@
 - **WL-40 (futuro del trabajo)**: el mapa inteligencia-vs-criterio es exactamente la línea que WL-40 preguntaba («si la IA puede separarla en dos capas»); el sector consultoría 300-400 MM queda como la gran pregunta abierta.
 - **WL-47 (SuperAgente DeepSeek)**: los pilotos automáticos de servicios son el mercado que estas arquitecturas multi-agente hacen posible — técnica (WL-47) ↔ economía (WL-48) como par de la misma ola.
 - Tema-candidato: **services-as-software / pilotos automáticos** — primera fuente del tema en la wiki.
+- **Página de concepto**: [[futuro-del-trabajo]] y [[ofimatica-agentica-local]] — la tesis económica del clúster (creadas 2026-11-14).

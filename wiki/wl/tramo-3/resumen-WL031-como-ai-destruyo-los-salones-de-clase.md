@@ -45,3 +45,4 @@ La IA generativa está erosionando el aprendizaje formal: los estudiantes la usa
 - Concepto candidato para consolidación: **IA en educación** (aprendizaje erosionado vs tutoría socrática que sí funciona) — primera fuente de la wiki en el tema.
 - **Página de concepto**: [[tecnologia-educativa-promesa-vs-institucion]] — el ciclo promesa-institución repetido con IA (WL-79, Logo); dato macro de adopción también en [[burnout-era-ia]].
 - **Página de concepto**: [[anatomia-de-un-rumor]] — el ingrediente real re-enmarcado (fecha prestada, cifra aislada, clip sin contexto); creada 2026-11-14 con WL-62/WL-53.
+- **Página de concepto**: [[futuro-del-trabajo]] — clúster de impacto laboral de la IA (creada 2026-11-14, consolidación tramos 3-4-7).

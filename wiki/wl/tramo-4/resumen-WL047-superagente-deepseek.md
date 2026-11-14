@@ -38,3 +38,4 @@ La atención humana como cuello de botella de la era multi-agente: una persona p
 - **WL-45 (Maxi Programa)**: contraste — allí el humano se oxida delegando en IA; aquí el diseño asume que el humano es el cuello de botella y lo minimiza. Tensión registrada.
 - Tema-candidato: **orquestación multi-agente** (gate/mandate/slots/proactividad graduada como patrón de diseño 2026).
 - **Páginas de concepto**: [[burnout-era-ia]] (el modo «observe» como respuesta organizacional) y [[ambiguedad-rellenada-por-el-sistema]] (mandate + registro de alcance) — creadas 2026-11-14.
+- **Página de concepto**: [[ades-orquestacion]] — la capa de arquitectura de la orquestación (creada 2026-11-14).

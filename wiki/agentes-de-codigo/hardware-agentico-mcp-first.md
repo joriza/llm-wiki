@@ -52,3 +52,4 @@ Fechas y nombres (ESP32-S31, ESP Cloud, Arduino Agentic Mode, StoryTold, 795 her
 - **WL-52/68** ([[burnout-era-ia]]): «¿proyectos que nadie entiende?» repite la preocupación de oxidación y supervisión del clúster burnout.
 - **WL-82**: la variante defensiva del patrón — el proxy MCP como frontera de permisos («esconde lo prohibido al agente») en Gentle Dot.
 - **WL-81**: el espejo histórico — cuando las reglas vivían cableadas en el circuito antes de ser software ([[reglas-cableadas-vs-programadas]]).
+- **Consolidación tramos 3-4-7 (2026-11-14)**: **WL-95** (Anthropic MHS) añade el eslabón físico del patrón — fichas declarativas, interlocks y MCP como una de las puertas de acceso sobre Modbus/PLC existentes; **WL-100** (Godot-MCP vía OpenCode + Strata local) es el tercer caso MCP-para-todo; **WL-58/59** (ecosistema ArtCraft, ahora en [[ofimatica-agentica-local]]) llevan el patrón a la ofimática de escritorio (795 herramientas MCP).

@@ -33,3 +33,5 @@ Espacio reservado de ~30×40 m para 250 personas — aire acondicionado, baños,
 - **WL-42**: cruce bidireccional obligatorio en consolidación — la visita realizada vs la nunca realizada como experimento natural de la tesis de la grieta.
 - Tema-candidato: **la visita de León XIV a Argentina (2026)** — primera fuente del evento junto con WL-42.
 - **Página de concepto**: [[captura-de-medios-estatales]] — la carpa VIP como capítulo de contrataciones públicas del entorno del poder (creada 2026-11-14).
+- **Página de concepto**: [[papado-y-grieta-argentina]] — el experimento positivo (la visita realizada; creada 2026-11-14).
+- **Entidad**: [[el-presto]] — canal del video (creada 2026-11-14 con WL-88).

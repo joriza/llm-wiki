@@ -44,3 +44,4 @@ Los pequeños negocios están «empapelando» su entorno físico y digital con i
 ## ADVERTENCIA
 
 Testimonios únicos («Lisa», caso SF) sin verificación independiente; cifras de encuestas citadas de segunda mano sin enlaces — citar solo como «según el video».
+- **Página de concepto**: [[vino-y-nuevos-consumidores]] (el inverso comercial del slop) y [[futuro-del-trabajo]] (el oficio de arreglar salida IA) — creadas 2026-11-14.

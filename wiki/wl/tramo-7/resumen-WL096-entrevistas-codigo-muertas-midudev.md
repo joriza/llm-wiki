@@ -42,3 +42,4 @@
 ## ADVERTENCIA
 
 Opinión calificada con sesgo declarado (creador de contenido ex-contratador); claims de Anthropic sin enlace al post original — citar el post (Félix) como fuente primaria en consolidación.
+- **Página de concepto**: [[hiring-post-ia]] y [[futuro-del-trabajo]] — la contracara del clúster hiring (creadas 2026-11-14).

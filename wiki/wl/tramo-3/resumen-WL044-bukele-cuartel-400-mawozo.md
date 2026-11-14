@@ -25,3 +25,4 @@ Tercera pieza del episodio haitiano, cronológicamente **anterior** a WL-41/43 (
 
 - **Dominio destino previsto: `general/`** (américa latina/seguridad) — tercer eslabón del clúster Haití-Bukele WL-41→43→44.
 - Tema-candidato en consolidación: **la internacionalización del modelo Bukele y su marketing viral de seguridad** (formatos virales como doctrina, CECOT como precedente, coordinadas por multitud como crowdsourcing militar — detalle notable: la inteligencia del objetivo la aportaron internautas por X).
+- **Página de concepto**: [[modelo-bukele-haiti]] — el eslabón cronológico inicial (10/11 Mawozo; creada 2026-11-14).

@@ -44,3 +44,5 @@ Microsoft, la empresa del «Linux es un cáncer» (Ballmer, 2001), publicó en 2
 ## ADVERTENCIA
 
 Noticia 2026 de segunda mano sin fuente primaria en pantalla; nombres ASR a corregir antes de citar; la historia pre-2014 (Halloween, silla, patentes) es canónica y fiable.
+- **Página de concepto**: [[lenguaje-rust]] — uutils como la cuarta fuente institucional del clúster (cableado 2026-11-14).
+- **Entidad**: [[el-bit-informado]] — canal del video (creada 2026-11-14 con WL-55).

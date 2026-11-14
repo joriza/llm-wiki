@@ -31,3 +31,4 @@ Rust es más rápido y seguro, pero la reescritura total rara vez vale la pena: 
 - **WL-14 y WL-26 (Rust)**: continúa directamente el clúster Rust ↔ roadmap; y el dato «OpenCode corre sobre Bun» actualiza el clúster agentes-de-codigo ([[deepseek-harness]] familia).
 - **WL-31/WL-45**: tercera voz en el debate «¿qué hay que saber programando en la era IA?» — aquí la IA escribe el código pero las decisiones de lenguaje/arquitectura/equipo siguen siendo humanas.
 - Tema-candidato: **TypeScript-AOT vs Go vs Rust** (nueva línea de rendimiento 2026) — primera fuente del tema en la wiki.
+- **Página de concepto**: [[lenguaje-rust]] — el contrapeso pragmático del clúster (cableado 2026-11-14).

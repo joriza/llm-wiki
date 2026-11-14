@@ -38,3 +38,4 @@
 
 - **Dominio destino previsto: `general/`** (deporte/divulgación — sin dominio propio).
 - **WL-31/WL-40/WL-51 familia «velocidad cognitiva»**: la tesis «el fútbol moderno no aceleró las piernas sino el pensamiento — anticipar patrones antes que la reacción» es exactamente la misma estructura que WL-51 (anticipación vs reacción en agentes) y WL-40 (criterio vs inteligencia) — patrón transversal «en entornos más rápidos gana quien interpreta antes, no quien reacciona mejor» — candidato a concepto en consolidación.
+- **Página de concepto**: [[anticipacion-vs-reaccion]] — el patrón transversal medido en el fútbol (creada 2026-11-14).

@@ -45,3 +45,4 @@ Invertir la recuperación de memoria: hasta ahora el acceso era **una función d
 - **WL-48 (Sequoia)**: los «pilotos automáticos de servicios» necesitan exactamente este tipo de memoria de usuario de largo plazo — técnica ↔ producto otra vez.
 - Tema-candidato: **memoria agéntica (pirámide + navegación activa + RL de uso)** — primera fuente del tema en la wiki.
 - **Página de concepto**: [[destilacion-conocimiento-oscuro]] — NapMem como la versión «navegar la memoria» del mismo problema de transferencia (creada 2026-11-14).
+- **Página de concepto**: [[obsidian-memoria-agentes]] — espejo arquitectural de la pirámide wiki/Engram; «memoria agéntica» propia aplazada por 1 fuente plena (2026-11-14).

@@ -35,3 +35,4 @@ En provincia de Buenos Aires, la **Ley Provincial 811** (de la dictadura, vigent
 ## ADVERTENCIA
 
 Contenido de denuncia política con datos de una sola parte; las cifras grandes (deudas de 23-50 M) y el rumor sobre «Galperín» requieren fuente primaria antes de citar como hechos.
+- **Entidad**: [[el-presto]] — canal del video (creada 2026-11-14 con WL-57).

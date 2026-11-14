@@ -21,3 +21,4 @@ Segunda fuente independiente sobre el mismo hecho de WL-41 (mismo día): la Poli
 - **Dominio destino previsto: `general/`** (américa latina/seguridad; junto con WL-41 — mismas notas de fuente, mejor calidad).
 - **Corrobora WL-41** (bidireccional en consolidación): el patrón «dos canales hispanos reportan lo mismo el mismo día» es evidencia de evento real pero también de ecosistema de guion compartido — decidir en consolidación qué confianza dar.
 - Tema-candidato conjunto con WL-41: **la internacionalización del modelo Bukele en Haití** (acuerdo bilateral, Task Force, cráneos en Silvio Cator) — primera cobertura de la wiki sobre Haití.
+- **Página de concepto**: [[modelo-bukele-haiti]] — línea temporal del episodio (creada 2026-11-14).

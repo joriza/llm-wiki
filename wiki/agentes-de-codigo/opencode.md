@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (herramienta).
 - **Dominio**: `agentes-de-codigo`.
 - **Actualizado**: 2026-11-11 (fuente 3/58 del lote ia-local — primera fuente sustancial; el canal lo ya usaba y [[agentes-de-codigo]] lo menciona).
-- **Fuentes**: [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] · [[resumen-opencode-con-modelos-muy-pequenos-como-usarlos-localmente-con-llama-cpp]] (fuente 13 — configuración por archivo).
+- **Fuentes**: [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] · [[resumen-opencode-con-modelos-muy-pequenos-como-usarlos-localmente-con-llama-cpp]] (fuente 13 — configuración por archivo) · [[resumen-WL100-juegos-ia-local-godot-strata]] (WL-100, tramo 7 — tutorial directo de conexión OpenCode + endpoint local Strata: editar opencode.json para esfuerzo de razonamiento high y límites por 262k de contexto; demo agéntica Godot-MCP).
 
 **OpenCode** es un agente de desarrollo (versiones **desktop y terminal**, instalador por SO) que se conecta a cualquier proveedor de modelos — incluidos los locales vía endpoint OpenAI-compatible.
 

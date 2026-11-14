@@ -20,3 +20,4 @@ Operación conjunta de fuerzas especiales salvadoreñas + Policía/FFAA haitiana
 
 - **Dominio destino previsto: `sociedad-argentina/` no encaja; → `general/`** (américa latina/seguridad) — o descartable en consolidación si el usuario decide despreciar fuentes de este nivel.
 - Tema-candidato: **la expansión regional del modelo Bukele** y la ecosistema de canales news-farm en español (mismo patrón TTS que S5/S10 del tramo salud) — el patrón de canal como objeto de estudio, no el contenido.
+- **Página de concepto**: [[modelo-bukele-haiti]] — la expansión regional del modelo Bukele con estado de confianza por fuente (creada 2026-11-14).

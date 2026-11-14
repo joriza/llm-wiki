@@ -42,3 +42,4 @@ Cuatro investigadores del MIT usaron **GPT-6 «Astra»** (OpenAI) para leer, rep
 ## ADVERTENCIA
 
 Divulgación de alta calidad pero de segunda mano: cifras y nombres («GPT-6 Astra») según el canal; el paper del MIT (título «chispas») es la fuente a citar.
+- **Página de concepto**: [[abundancia-de-demostraciones]] — el eje «la máquina produce, el humano digiere» (creada 2026-11-14).

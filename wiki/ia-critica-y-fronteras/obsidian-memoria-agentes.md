@@ -32,4 +32,4 @@ El patrón que todas las fuentes confirman: la memoria útil para un agente no e
 
 ## Fuentes de este concepto
 
-- [[resumen-segundo-cerebro-digital-obsidian-nvim-gentleman-programming]] (33/57, antecedente manual) · [[resumen-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-alejavi-rivera]] (32/57, fuente guía) · [[resumen-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab]] (22/57, sesiones archivadas) · [[resumen-asi-se-usa-la-ia-en-2026-olvida-los-prompts-xavier-mitjana]] (53/57, LLM wiki).
+- [[resumen-segundo-cerebro-digital-obsidian-nvim-gentleman-programming]] (33/57, antecedente manual) · [[resumen-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-alejavi-rivera]] (32/57, fuente guía) · [[resumen-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab]] (22/57, sesiones archivadas) · [[resumen-asi-se-usa-la-ia-en-2026-olvida-los-prompts-xavier-mitjana]] (53/57, LLM wiki) · [[resumen-WL051-napmem-memoria-agentes-alibaba]] (WL-51, tramo 4 — espejo arquitectural en la nube: pirámide de memoria, navegación activa con presupuesto de lectura, RL que castiga inventar; página «memoria agéntica» propia aplazada por 1 fuente plena).

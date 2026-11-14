@@ -51,3 +51,5 @@ Decidir dueño/ubicación de cada dato; recursividad sin datos que crezcan entre
 - **WL-52 (Gentleman Programming)** y **WL-46**: el patrón «diseñador humano + IA implementadora» como nueva forma de construir software de sistemas — tercera instancia del tema.
 - Tema-candidato: **arena-allocation como modelo de lenguaje** y **software-de-sistemas construido por IA** — ambas primeras en la wiki.
 - **Páginas de concepto**: [[lenguaje-rust]] (la alternativa al borrow checker) y [[generadores-4gl-1986-2026]] / [[hardware-agentico-mcp-first]] (diseñador humano + IA implementadora) — creadas 2026-11-14.
+- **Página de concepto**: [[lenguaje-rust]] — Gus como alternativa al borrow checker (cableado 2026-11-14).
+- **Entidad**: [[el-bit-informado]] — canal del video (creada 2026-11-14 con WL-92).

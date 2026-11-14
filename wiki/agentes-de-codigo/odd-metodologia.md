@@ -37,3 +37,4 @@ Este lote se registra en `odd/tasks/` siguiendo exactamente el formato ODD que l
 ## Fuentes de este concepto
 
 - [[resumen-hoy-te-presento-odd-mi-metodologia-para-eliminar-la-burocracia-de-la-ia]] (52/57, fuente primaria) · [[resumen-inteligencia-artificial-sin-sobreingenieria-por-que-cree-gentle-ai-curso]] (51/57).
+- **WL-94** (tramo 7, consolidación 2026-11-14): [[resumen-WL094-metodo-odd-espanadero]] — tercera voz independiente sobre ODD (Daniel Españadero): «un helecho no construye un edificio para una hoja» (proporcionalidad por clasificación de riesgo), «una pregunta a tiempo vale más que diez supuestos» (= [[ambiguedad-rellenada-por-el-sistema]]) y «cerrar con la verdad» (= verificación intra-tarea de ASDD en WL-78). Confirmación externa del diagnóstico que motivó ODD; sesgo de amistad declarado en la fuente.

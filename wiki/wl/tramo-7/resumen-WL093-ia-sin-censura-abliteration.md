@@ -41,3 +41,4 @@ La «censura» de un modelo de pesos abiertos nunca fue un candado: la negativa 
 ## ADVERTENCIA
 
 Contenido sobre elusión de salvaguardas con datos de segunda mano (papers sin cita exacta, cifras del NIST/orden ejecutiva sin enlace) — citar cifras solo contra fuentes primarias verificadas.
+- **Página de concepto**: [[seguridad-fuera-del-modelo]] — el argumento técnico de la capa alrededor (creada 2026-11-14).
