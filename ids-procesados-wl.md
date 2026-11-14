@@ -6,6 +6,8 @@ _Actualizado 2026-11-14._
 
 El runner (`descarga_playlist.py`) evita re-proceso automáticamente vía `raw_processed_ids()` (scan de `raw/`) + marcadores `.done` + archivo de estado. Esta tabla es para curación manual.
 
+**Nota:** `VOsd5kxNUqk` (WL-13, meta-fail ×2) NO figura en la tabla — está en `estado.json` con estado `meta-fail` y sigue en la playlist (posición 1). Pendiente de re-pass: no borrarlo de la lista.
+
 ## Tabla
 
 | video_id | en lista actual? | estado | resumen |
