@@ -27,3 +27,7 @@
 - La harina «0» del subtítulo corresponde a la clasificación italiana (tipo 00, harina fina); fuera de Italia, sustituir por harina fina de trigo.
 - El resumen de ingredientes «en el cuadro de información» no está disponible en la transcripción — única fuente exacta de cantidades.
 - Canal, fecha de publicación y duración UNKNOWN en el metadato del archivo original.
+
+---
+
+**Página de concepto**: [[familia-pizza-casera]] — la rama de masa líquida batida sin levado (dosis de levadura marcada para verificar) dentro de la familia de cuatro fuentes pizza; el horneado en dos etapas es el denominador común del grupo.

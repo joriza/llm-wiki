@@ -39,3 +39,7 @@ Un adobo simple — ajo, sal, pimienta, cítricos y aceite, siguiendo la regla *
 - Garbles de ASR normalizados solo aquí: «7 puntos 2 kilogramos» (7,2 kg), «alineada toda la noche» (adobada/marinada), «cucharada y media de sorpresa» (sal gruesa — «sorpresao», probablemente sal de grano), «sicard» (garble irreconstruible del banter cubano).
 - La sal de mesa como sustituta cambia la textura del acabado: la gruesa forma costra y desala menos.
 - El «truco central» (inyección + lenta + acabado caliente) es técnica estándar de cerdo asado presentada como exclusiva: superlativos del título sin comparativas.
+
+---
+
+**Página de concepto**: [[cerdo-al-horno]] — la escuela cubana de adobo inyectado + cocción lenta a 160 °C con acabado a 250 °C, dentro de la comparación de tres piezas grandes de 7-8 kg.

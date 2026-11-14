@@ -51,3 +51,9 @@ Cáscaras de limón y naranja (sin la parte blanca) más canela, cardamomo y cla
 - Garbles de ASR normalizados solo aquí: «chuméense» (chusméense, den una vuelta por), «complici» (complicado), «del 3» (marzo).
 - El canal repite «consumir con precaución»: licor de ~20 % aparente de alcohol con base dulce; sin análisis de graduación final en el vídeo.
 - El premio de claridad esperado depende del tipo de miel y de cáscara: el propio autor aclara que este lote quedó levemente turbio.
+
+---
+
+**Página de concepto**: [[licores-caseros]] — la variante de almíbar en peso (excepción del canal) dentro del mismo método de maceración y filtrado en etapas.
+
+**Entidad**: [[nosoy-normal-cerveceria]] — segunda fuente del canal; la fórmula ×0,323 y las equivalencias propias quedan marcadas para verificación en el concepto.

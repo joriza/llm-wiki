@@ -30,3 +30,7 @@
 - «Vino rancio» es el término de la voz; podría tratarse de jerez/rancio o vino añejo de cocina — verificar en el vídeo.
 - Garbles de ASR normalizados solo aquí: «contamuslo» (contra-muslo), «Vasculita la pongo a cero» (balanza), «salmoras» (salmuera), «homoage» no aplica aquí; cierre truncado del raw («Co?»).
 - Metadatos de canal, fecha y duración UNKNOWN en el archivo original.
+
+---
+
+**Página de concepto asociada**: [[aprovechamiento-pollo-entero]] — su espina «que va para caldo» comparte el criterio de aprovechamiento, y su salmuera dosificada (7 %, 12 h) es el contrapunto medible de la salmuera «a ojo» de las fuentes del concepto.

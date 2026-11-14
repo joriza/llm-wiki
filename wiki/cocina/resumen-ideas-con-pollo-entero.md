@@ -34,3 +34,7 @@
 - La **salmuera de la pechuga no tiene dosificación** de sal ni proporción agua/sal; la inyección se menciona sin receta.
 - Garbles de ASR normalizados solo aquí: «a rogar» (rehogar), «sanguchito a Bavaro» (frase sin recuperación clara — probablemente «sanguchito a mano»/relleno libre), «te haces mujer» (frase del guion, no técnica), «esternón» (quilla del esternón — término correcto), «frisaditas» (congeladas).
 - Registro rioplatense con voseo y jerga; el archivo original es de subtítulos automáticos — las citas literales pueden contener errores de reconocimiento.
+
+---
+
+**Página de concepto**: [[aprovechamiento-pollo-entero]] — la mitad casera rioplatense del concepto (fiambre de pechuga, arrollado de pata-muslo, caldo-empanadas de un solo ave), junto al despiece técnico del video de cocina-economía.

@@ -42,3 +42,7 @@ Masa escaldada de **500 g de harina por 600 cm³ de agua** (escala: 1 kg de hari
 - La manteca (35 g) es opcional: la receta base es solo harina, agua y sal.
 - Los 175 °C se enuncian como ideal pero sin cómo verificarlo sin termómetro: el vídeo sugiere «probar».
 - La rellenadora mostrada es de escala semi-comercial; para casa sugiere pistola de rellenar o jeringas pasteleras.
+
+---
+
+**Página de concepto**: [[churros-caseros]] — la referencia con churrera, medidas en gramos y la advertencia de seguridad (prohibido freír bollos crudos) que el video casero de la botella DIY omite por completo.

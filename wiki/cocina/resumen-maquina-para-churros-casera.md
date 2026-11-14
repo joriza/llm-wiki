@@ -31,3 +31,7 @@
 - El tipo de harina («cuatro ceros» / 000) y todas las medidas en tazas quedan aproximadas; sin pesos.
 - Ninguna advertencia de seguridad al recortar la tapa de plástico ni al manipular la masa caliente: el borde recortado de la botella y el engrudo caliente queman — precaución no mencionada en el vídeo.
 - Canal, fecha de publicación y duración UNKNOWN en el metadato del archivo original.
+
+---
+
+**Página de concepto**: [[churros-caseros]] — la variante DIY (botella recortada en asterisco, tazas sin pesos, ingrediente ilegible en el ASR) comparada con la receta institucional con churrera.

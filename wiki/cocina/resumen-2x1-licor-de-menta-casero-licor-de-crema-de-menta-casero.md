@@ -48,3 +48,9 @@ Un extracto alcohólico de menta y anís estrellado macerado en vodka durante 10
 - Garbles de ASR normalizados solo aquí: «Jean» (gin), «la Ladera» (la heladera), «Exacto» (extracto).
 - La fórmula × 0,323 es la fracción de azúcar de un jarabe 1:1 medido en volumen convertida a gramos (densidad aproximada del azúcar granulado); es una aproximación del propio canal, no una constante certificada.
 - La cucharada sopera ≈ 24 g es una equivalencia del canal y puede variar según el tamaño de la cuchara.
+
+---
+
+**Página de concepto**: [[licores-caseros]] — el método macerado-filtrado-jarabe del canal, con su peculiaridad de dividir un solo extracto en dos licores finales.
+
+**Entidad**: [[nosoy-normal-cerveceria]] — primera de las dos fuentes de licores del canal en la lista; su autopromoción de academia queda registrada en la entidad.

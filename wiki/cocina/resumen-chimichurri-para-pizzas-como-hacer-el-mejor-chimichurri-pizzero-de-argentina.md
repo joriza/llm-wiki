@@ -35,3 +35,9 @@ Cinco ingredientes (ajos, perejil, albahaca, ají molido y aceite de girasol) li
 - Garbles de ASR normalizados solo aquí: «albaca» (albahaca), «picsero/pizzero» (pizzero), «prepizza» no aplica aquí pero el vídeo hermano sí lo usa.
 - La solidificación del aceite de oliva en frío es real, pero el rechazo total también obedece a una elección de sabor del autor, no a una regla universal.
 - Mismo autor que la pizza de muzzarella al molde de Umami (2024-07-01): el chimichurri aparece citado allí como «ingrediente secreto» — ver resumen hermano.
+
+---
+
+**Página de concepto**: [[familia-pizza-casera]] — el acabado pincelado («el perfume de la pizza») que une esta fuente con su video hermano al molde dentro de la familia de cuatro fuentes pizza.
+
+**Entidad**: [[gonzalo-dacovich]] — canal propio aquí, instructor en Umami en el video hermano; situación de dos canales documentada en la entidad.

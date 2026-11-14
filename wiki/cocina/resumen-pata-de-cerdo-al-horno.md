@@ -34,3 +34,7 @@
 - El vídeo no menciona control de temperatura interna del cerdo; para una pieza de 8 kg conviene verificar cocción completa (termómetro al hueso) en lugar de fiarse solo del cronómetro de 5,5 h.
 - La regla «40 min/kg» es del propio canal, sin fuente; en piezas menores los tiempos totales de dorado + 4 h de envuelto deben re-escalarse.
 - Canal, fecha de publicación y duración UNKNOWN en el metadato del archivo original.
+
+---
+
+**Página de concepto**: [[cerdo-al-horno]] — la escuela del dorado fuerte + aluminio húmedo (150-180 °C) dentro de la comparación de tres piezas grandes de 7-8 kg de la lista.

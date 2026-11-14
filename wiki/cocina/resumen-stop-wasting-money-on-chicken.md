@@ -40,3 +40,7 @@
 - Garbles de ASR normalizados solo aquí: «homoage» (remouillage — segundo caldo), «Yakuri guy» (referencia a otro youtuber, no recuperable), «kanji/shora/pastina» (platos de convalecencia: congee, sopa, pastina), «filet minan» (filet mignon).
 - «El pollo asado es más barato que el crudo» es una observación anecdótica del canal, no una regla de mercado.
 - Metadatos de canal, fecha y duración UNKNOWN en el archivo original; la fecha «recopilado» es solo la de descarga.
+
+---
+
+**Página de concepto**: [[aprovechamiento-pollo-entero]] — la mitad técnica del concepto (despiece de «cuatro cortes», tres caldos, schmaltz), junto a la mitad casera rioplatense de las ideas con pollo entero.

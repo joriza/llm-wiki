@@ -53,3 +53,9 @@ Método directo con harina 0000 (9-10 % de proteína) y fermentación corta de 3
 - Garbles de ASR normalizados solo aquí: «gadina» (gliadina), «zarro» (sarro), «prepix» (prepizza), «bloyo» (bollo), «musa» no aparece pero «amasadora» sí se confunde con «amadora».
 - El horno de 280-300 °C excede el máximo de muchos hornos domésticos: usar el máximo disponible y extender levemente el tiempo.
 - La cantidad de queso («350-500 g») es excesiva según el propio autor: es definición de la pizza tradicional porteña, no una regla general.
+
+---
+
+**Página de concepto**: [[familia-pizza-casera]] — la rama al molde del horno doméstico (prepizza al 70-80 % + regeneración) dentro de la familia de cuatro fuentes pizza.
+
+**Entidad**: [[gonzalo-dacovich]] — instructor de Umami y dueño del canal propio «Maestro Pizzero»; la situación de dos canales y sus títulos autodeclarados sin fuente quedan documentados en la entidad.

@@ -31,3 +31,7 @@ Pierna de cerdo de 7 kg marinada en dos tandas con jugos cítricos, salsa de soj
 - **Sin temperatura interna ni punto final**: no se menciona termómetro; los 4 h + 15 min para 7 kg (≈ 34-35 min/kg) quedan sin control de cocción interna.
 - **Conversión de unidades inconsistente**: la nuez moscada figura como «1 cucharada (5 g)» y la sal como «3 cucharadas (45 g)» — 15 g por cucharada corresponde a sal gruesa, no a especia molida; las equivalencias del vídeo no son internamente coherentes.
 - La transcripción es de subtítulos manuales traducidos (título original en portugués): posibles desvíos de la receta original brasileña al español.
+
+---
+
+**Página de concepto**: [[cerdo-al-horno]] — la escuela brasileña de marinada en dos tandas; su advertencia de traducción pt→es y las equivalencias inconsistentes quedan documentadas en el concepto.

@@ -40,3 +40,7 @@ Masa sin amasado de 70 % de hidratación: solo se integran los ingredientes, se 
 - Garbles de ASR normalizados solo aquí: «horno pichero» (horno pizzero), «57 minutos 4 minutos» (tiempo de horno pizzero, probablemente ~4 min), «musa» (muzzarella), «técnica de Los Capos» (sin contexto recuperable).
 - La cifra de 6 g de levadura seca por kilo es baja a propósito (fermentación larga en frío); no es un error, pero rompe con las recetas de levado rápido — seguir los tiempos indicados.
 - Canal, fecha de publicación y duración UNKNOWN en el metadato del archivo original; la fecha «recopilado» es solo la fecha de descarga.
+
+---
+
+**Página de concepto**: [[familia-pizza-casera]] — la rama de masa sin amasado de alta hidratación (70 %, fermentación fría) dentro de la familia de cuatro fuentes pizza de la lista, junto al molde de Umami, la pizza líquida y el chimichurri pizzero.
