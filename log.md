@@ -1605,3 +1605,7 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-008 — foco LED fuente conmutada JWB1981 (2IFIRgJz64Q)
 
 - **FAV-008** (2IFIRgJz64Q, Electrotube tv, 2024-11-09, 09:58): fuente conmutada de bombilla LED con el integrado JWB1981 — puente/operacional/MOSFET internos, R 30 Ω fusible, filtro 400 V + descarga 1 MΩ, current sense pin 4 (subir esa R = LED más relajados y duraderos), conmutación a alta frecuencia con parpadeo invisible. Tema-candidato: fuente-conmutada-led (1/3). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2024-11-09-como-funciona-una-bombilla-o-foco-led-fuente-conmutada-con-jwb1981-smps-tl431.md` — resumen `wiki/electronica-practica/resumen-FAV-008-foco-led-fuente-conmutada-jwb1981-electrotube.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-009 — foco LED y su fuente conmutada BP2861 (z85eNiv1EqE)
+
+- **FAV-009** (z85eNiv1EqE, Electrotube tv, 2024-11-02, 08:06): fuente conmutada de bombilla LED con el BP2861 — puente discreto (vs JWB1981 con puente interno), R 45 Ω fusible, filtro 400 V, current sense pin 7 (1,8 Ω), MOSFET interno + bobina, red RC 75 kΩ+C en paralelo con los LED, parpadeo invisible. Tema-candidato: fuente-conmutada-led (2/3). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2024-11-02-como-funciona-una-bombilla-o-foco-led-y-su-fuente-conmutada-tl431-smps.md` — resumen `wiki/electronica-practica/resumen-FAV-009-foco-led-fuente-conmutada-bp2861-electrotube.md`.
