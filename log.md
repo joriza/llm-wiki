@@ -1658,3 +1658,7 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-317 — tutorial básico KiCad (b_yza-hhNdY)
 
 - **FAV-317** (b_yza-hhNdY, ElectroTutoriales, 2018-04-02, 40:39): flujo completo KiCad con placa de referencia de voltaje SO-8 — comandos g/m/r/a, librería propia en carpeta del proyecto, netlist manual (vs Eagle automático), ERC/DRC, asignación de huellas (CvPcb), ground pour, impresión espejada con marca de taladro para planchado, visor 3D, paneles. ASR denso: «kit kat/kika»=KiCad, «áridos»=Eagle, «rc»=ERC/DRC. **Primera voz del concepto-candidato diseño-pcb-herramientas**. — Dominio: electronica-practica/ — raw `raw/electronica-practica/2018-04-02-tutorial-basico-kicad.md` — resumen `wiki/electronica-practica/resumen-FAV-317-tutorial-basico-kicad.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-318 — LiveWire y PCB Wizard (Ik3_e90AhPQ)
+
+- **FAV-318** (Ik3_e90AhPQ, Ideatronic, 2017-01-27, 10:00): LiveWire (simulación, puente rectificador 1N4007 + 4700 µF) → Tools/Convertir a PCB Wizard con opciones automáticas o expertas; Real Work para acomodar, auto-route con diagonales, impresión del artwork desde PCB Wizard portable (mejor calidad que desde LiveWire). ASR: «diatonic»=Ideatronic, «atwork»=Artwork. Segunda voz de diseño-pcb-herramientas; Ideatronic 3/3 en la ventana. — Dominio: electronica-practica/ — raw `raw/electronica-practica/2017-01-27-livewire-pcb-wizard-ideatronic.md` — resumen `wiki/electronica-practica/resumen-FAV-318-livewire-pcb-wizard-ideatronic.md`.
