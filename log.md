@@ -1662,3 +1662,7 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-318 — LiveWire y PCB Wizard (Ik3_e90AhPQ)
 
 - **FAV-318** (Ik3_e90AhPQ, Ideatronic, 2017-01-27, 10:00): LiveWire (simulación, puente rectificador 1N4007 + 4700 µF) → Tools/Convertir a PCB Wizard con opciones automáticas o expertas; Real Work para acomodar, auto-route con diagonales, impresión del artwork desde PCB Wizard portable (mejor calidad que desde LiveWire). ASR: «diatonic»=Ideatronic, «atwork»=Artwork. Segunda voz de diseño-pcb-herramientas; Ideatronic 3/3 en la ventana. — Dominio: electronica-practica/ — raw `raw/electronica-practica/2017-01-27-livewire-pcb-wizard-ideatronic.md` — resumen `wiki/electronica-practica/resumen-FAV-318-livewire-pcb-wizard-ideatronic.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-319 — crear componentes en PCB Wizard (iT3pGlj_hec)
+
+- **FAV-319** (iT3pGlj_hec, Kriss Electronics, 2017-02-11, 10:46): encapsulados propios en PCB Wizard — caso TDA2050 Pentawatt: pads 2,2×3,2 mm con grilla 0,1 mm y origen de medida reubicable, silk screen numerada y agrupada, capa Real Component con coloreado realista, Make Symbol (K=«...package», ref U/D/Q) y Add to Library. ASR: «exección puncage»=«...package», «SCK»=jack 6,35 mm. Tercera voz de diseño-pcb-herramientas (umbral 3 — con EasyEDA del relevo siguiente se consolida). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2017-02-11-crear-componentes-pcb-wizard.md` — resumen `wiki/electronica-practica/resumen-FAV-319-crear-componentes-pcb-wizard.md`.
