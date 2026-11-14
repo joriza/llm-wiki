@@ -1,6 +1,6 @@
 # Resumen: ¡El Papa León XIV los dejó en evidencia! El escándalo VIP que avergüenza a la Argentina
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-12-el-papa-leon-xiv-los-dejo-en-evidencia-el-escandalo-vip-que-averguenza-a-la-arge.md` (WL-57, tramo 4)
+- **Fuente original**: `raw/sociedad-argentina/2026-11-12-el-papa-leon-xiv-los-dejo-en-evidencia-el-escandalo-vip-que-averguenza-a-la-arge.md` (WL-57, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=T2s3eeDULsY
 - **Canal**: El Presto (opinión política argentina, tono pastoral-critico)
 - **Publicado**: 2026-11-12 · **Duración**: 12:50 · **Idioma**: es (subtítulos automáticos, transcripción literal)

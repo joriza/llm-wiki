@@ -1,6 +1,6 @@
 # Resumen: ¿Por qué NO reescribo todo en Rust? (aunque la IA escriba el código por mí)
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-13-por-que-no-reescribo-todo-en-rust-aunque-la-ia-escriba-el-codigo-por-mi.md` (WL-46, tramo 4 — descargada como cabeza de la lista curada)
+- **Fuente original**: `raw/informatica-teoria/2026-11-13-por-que-no-reescribo-todo-en-rust-aunque-la-ia-escriba-el-codigo-por-mi.md` (WL-46, tramo 4 — descargada como cabeza de la lista curada)
 - **URL**: https://www.youtube.com/watch?v=7hkKvzsVuu8
 - **Canal**: Fazt Code
 - **Publicado**: 2026-11-13 · **Duración**: 18:59 · **Idioma**: es (subtítulos automáticos, transcripción literal)

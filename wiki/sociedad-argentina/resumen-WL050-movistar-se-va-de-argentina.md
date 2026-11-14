@@ -1,6 +1,6 @@
 # Resumen: ¿Por qué Movistar se va de Argentina?
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-04-por-que-movistar-se-va-de-argentina.md` (WL-50, tramo 4)
+- **Fuente original**: `raw/sociedad-argentina/2026-11-04-por-que-movistar-se-va-de-argentina.md` (WL-50, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=lTZwfgRmHY4
 - **Canal**: Marca Registrada (subtítulos **manuales**; serie «cómo funciona por dentro otra marca argentina»)
 - **Publicado**: 2026-11-04 · **Duración**: 09:29 · **Idioma**: es (transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen: 15 usos extremos de la IA que cambiarán tu vida en 2027
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-12-15-usos-extremos-de-la-ia-que-cambiaran-tu-vida-en-2027.md` (WL-53, tramo 4)
+- **Fuente original**: `raw/ia-uso-practico/2026-11-12-15-usos-extremos-de-la-ia-que-cambiaran-tu-vida-en-2027.md` (WL-53, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=1stM4GBFeqQ
 - **Canal**: Xavier Mitjana (con patrocinio declarado de Fish Audio/Drama 3 integrado en el desarrollo)
 - **Publicado**: 2026-11-12 · **Duración**: 21:40 · **Idioma**: es (subtítulos automáticos, transcripción literal)

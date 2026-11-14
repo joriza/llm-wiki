@@ -1,6 +1,6 @@
 # Resumen: Qwen 4 27B — ¿el nuevo rey de la IA local?
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-12-qwen-4-27b-el-nuevo-rey-de-la-ia-local.md` (WL-60, tramo 4)
+- **Fuente original**: `raw/ia-local/2026-11-12-qwen-4-27b-el-nuevo-rey-de-la-ia-local.md` (WL-60, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=kvs5MgxEhU8
 - **Canal**: Cognix (cierre de tramo 4 — el modelo aún **no salió**: análisis de lo que realmente se sabe antes del hype)
 - **Publicado**: 2026-11-12 · **Duración**: 27:25 · **Idioma**: es (subtítulos automáticos, transcripción literal; voces rioplatense — «Cuen» por Qwen)

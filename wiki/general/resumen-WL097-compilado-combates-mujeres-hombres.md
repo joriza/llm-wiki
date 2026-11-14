@@ -1,6 +1,6 @@
 # Resumen: Derechos iguales, golpes iguales — cuando ellas desafiaron a hombres (compilado de combates)
 
-- **Fuente original**: `raw/wl/tramo-7/2026-11-02-derechos-iguales-golpes-iguales-cuando-ellas-desafiaron-a-hombres.md` (WL-97, tramo 7)
+- **Fuente original**: `raw/general/2026-11-02-derechos-iguales-golpes-iguales-cuando-ellas-desafiaron-a-hombres.md` (WL-97, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=M41QQDjyT4U
 - **Canal**: Ultimate Fight Docs
 - **Publicado**: 2026-11-01 (metadato del listing) · **Duración**: 14:45 · **Idioma**: es (subtítulos automáticos, transcripción literal)

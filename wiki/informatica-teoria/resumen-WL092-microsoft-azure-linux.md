@@ -1,6 +1,6 @@
 # Resumen: Microsoft lanzó su propia distribución de Linux — lo que pasó después fue inesperado
 
-- **Fuente original**: `raw/wl/tramo-7/2026-11-02-microsoft-lanzo-su-propia-distribucion-de-linux-lo-que-paso-despues-fue-inespera.md` (WL-92, tramo 7)
+- **Fuente original**: `raw/informatica-teoria/2026-11-02-microsoft-lanzo-su-propia-distribucion-de-linux-lo-que-paso-despues-fue-inespera.md` (WL-92, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=yvfRueBJyvQ
 - **Canal**: El Bit Informado
 - **Publicado**: 2026-11-02 · **Duración**: 23:56 · **Idioma**: es (subtítulos automáticos, transcripción literal)

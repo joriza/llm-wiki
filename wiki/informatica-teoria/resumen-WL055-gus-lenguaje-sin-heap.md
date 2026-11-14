@@ -1,6 +1,6 @@
 # Resumen: Este nuevo lenguaje acaba de superar a C++ (Gus)
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-12-este-nuevo-lenguaje-acaba-de-superar-a-c.md` (WL-55, tramo 4)
+- **Fuente original**: `raw/informatica-teoria/2026-11-12-este-nuevo-lenguaje-acaba-de-superar-a-c.md` (WL-55, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=AB7DSx6JT1Q
 - **Canal**: El Bit Informado
 - **Publicado**: 2026-11-12 · **Duración**: 23:45 · **Idioma**: es (subtítulos automáticos, transcripción literal)

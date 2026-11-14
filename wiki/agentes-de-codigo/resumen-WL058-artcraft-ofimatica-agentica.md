@@ -1,6 +1,6 @@
 # Resumen: 848 — ArtCraft: haz que la IA trabaje por ti
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-12-848-artcraft-haz-que-la-ia-trabaje-por-ti.md` (WL-58, tramo 4)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-12-848-artcraft-haz-que-la-ia-trabaje-por-ti.md` (WL-58, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=I5D_lJjEqKk
 - **Canal**: atareao (Lorenzo — Atareao con Linux, episodio 848; veterano del software libre, 20+ años con GIMP/Inkscape/LibreOffice)
 - **Publicado**: 2026-11-12 · **Duración**: 37:18 · **Idioma**: es (subtítulos automáticos, transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen: Mendoza esconde algo que la mayoría de los argentinos no sabe que existe
 
-- **Fuente original**: `raw/wl/tramo-3/2026-11-01-mendoza-esconde-algo-que-la-mayoria-de-los-argentinos-no-sabe-que-existe.md` (WL-33, tramo 3)
+- **Fuente original**: `raw/sociedad-argentina/2026-11-01-mendoza-esconde-algo-que-la-mayoria-de-los-argentinos-no-sabe-que-existe.md` (WL-33, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=MDlzOz5mXoA
 - **Canal**: Mateo Ríos
 - **Publicado**: 2026-11-01 · **Duración**: 23:29 · **Idioma**: es (subtítulos automáticos, transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen: Por qué Anthropic se está metiendo en el hardware — MHS explicado
 
-- **Fuente original**: `raw/wl/tramo-7/2026-11-01-por-que-anthropic-se-esta-metiendo-en-el-hardware-mhs-explicado.md` (WL-95, tramo 7)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-01-por-que-anthropic-se-esta-metiendo-en-el-hardware-mhs-explicado.md` (WL-95, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=3hxdHem70gw
 - **Canal**: IoT Lab
 - **Publicado**: 2026-11-01 · **Duración**: 29:21 · **Idioma**: es (subtítulos automáticos, transcripción literal)

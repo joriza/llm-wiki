@@ -1,6 +1,6 @@
 # Resumen: Científicos midieron algo impresionante del fútbol de Pelé, Maradona y Messi
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-06-cientificos-midieron-algo-impresionante-del-futbol-de-pele-maradona-y-messi.md` (WL-54, tramo 4)
+- **Fuente original**: `raw/general/2026-11-06-cientificos-midieron-algo-impresionante-del-futbol-de-pele-maradona-y-messi.md` (WL-54, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=ryLPKvemrCk
 - **Canal**: Un Dólar Por Fútbol
 - **Publicado**: 2026-11-06 · **Duración**: 20:13 · **Idioma**: es (subtítulos automáticos, transcripción literal)

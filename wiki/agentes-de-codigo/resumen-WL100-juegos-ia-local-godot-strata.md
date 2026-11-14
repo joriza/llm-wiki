@@ -1,6 +1,6 @@
 # Resumen: Desarrollando juegos con IA local — Godot, OpenCode y tokens ilimitados (Strata)
 
-- **Fuente original**: `raw/wl/tramo-7/2026-11-03-desarrollando-juegos-con-ia-local-crea-videojuegos-con-godot-y-tokens-ilimitados.md` (WL-100, tramo 7)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-03-desarrollando-juegos-con-ia-local-crea-videojuegos-con-godot-y-tokens-ilimitados.md` (WL-100, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=WkaDb-1MOCY
 - **Canal**: Nichonauta
 - **Publicado**: 2026-11-03 · **Duración**: 25:35 · **Idioma**: es (subtítulos automáticos, transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen: Golpe en Haití — Bukele recupera el estadio Silvio Cator
 
-- **Fuente original**: `raw/wl/tramo-3/2026-11-13-golpe-en-haiti-bukele-recupera-el-estadio-silvio-cator.md` (WL-43, tramo 3)
+- **Fuente original**: `raw/general/2026-11-13-golpe-en-haiti-bukele-recupera-el-estadio-silvio-cator.md` (WL-43, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=V5v3sqyhGO8
 - **Canal**: EL CUARTO PODER (informativo con segmento de análisis; cita entrevista de NTN24 al analista León Borja «Dr. Layo Sadi» según ASR)
 - **Publicado**: 2026-11-13 · **Duración**: (raw) · **Idioma**: es (subtítulos automáticos, transcripción literal)

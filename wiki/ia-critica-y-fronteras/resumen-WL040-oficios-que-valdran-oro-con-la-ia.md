@@ -1,6 +1,6 @@
 # Resumen: Los oficios que valdrán oro con la IA — qué estudiar ahora (Cava, Calero y Armesilla)
 
-- **Fuente original**: `raw/wl/tramo-3/2026-11-04-los-oficios-que-valdran-oro-con-la-ia-que-estudiar-ahora-cava-calero-y-armesilla.md` (WL-40, tramo 3)
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-11-04-los-oficios-que-valdran-oro-con-la-ia-que-estudiar-ahora-cava-calero-y-armesilla.md` (WL-40, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=XxJpNIRPamU
 - **Canal**: Tu Minuto Económico (terceto de comentaristas — entre ellos José Manuel Cava mencionado por nombre; conversación de mesa redonda)
 - **Publicado**: 2026-11-04 · **Duración**: 19:05 · **Idioma**: es (subtítulos automáticos, transcripción literal)

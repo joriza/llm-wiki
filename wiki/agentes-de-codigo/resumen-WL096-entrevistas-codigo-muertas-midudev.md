@@ -1,6 +1,6 @@
 # Resumen: Las pruebas técnicas de programación son… (entrevistas de código muertas)
 
-- **Fuente original**: `raw/wl/tramo-7/2026-11-03-las-pruebas-tecnicas-de-programacion-son.md` (WL-96, tramo 7)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-03-las-pruebas-tecnicas-de-programacion-son.md` (WL-96, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=Cy_Sh7vy-Sw
 - **Canal**: midudev (Miguel Ángel Durán)
 - **Publicado**: 2026-11-03 · **Duración**: 14:09 · **Idioma**: es (subtítulos automáticos, transcripción literal)

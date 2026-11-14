@@ -1,6 +1,6 @@
 # Resumen: Bitcoin cae a 73.000 $ — ¿qué está pasando realmente?
 
-- **Fuente original**: `raw/wl/tramo-3/2026-11-12-bitcoin-cae-a-73-000-que-esta-pasando-realmente.md` (WL-39, tramo 3)
+- **Fuente original**: `raw/critica-tecnologica/2026-11-12-bitcoin-cae-a-73-000-que-esta-pasando-realmente.md` (WL-39, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=7skQAZe4XYI
 - **Canal**: DatoAlCanto (subtítulos **manuales** es-ES — el raw más limpio de los procesados)
 - **Publicado**: 2026-11-12 · **Duración**: 14:58 · **Idioma**: es (transcripción literal)

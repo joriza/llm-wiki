@@ -1,6 +1,6 @@
 # Resumen: Jensen Huang y Alice Huang — apostó a que lo traía. Y lo trajo (documental)
 
-- **Fuente original**: `raw/wl/tramo-3/2026-11-11-jensen-huang-y-alice-huang-aposto-a-que-lo-traia-y-lo-trajo-documental.md` (WL-32, tramo 3)
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-11-11-jensen-huang-y-alice-huang-aposto-a-que-lo-traia-y-lo-trajo-documental.md` (WL-32, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=C6NEGDVJNtI
 - **Canal**: La caja negra
 - **Publicado**: 2026-11-11 · **Duración**: 27:42 · **Idioma**: es (subtítulos automáticos, transcripción literal)

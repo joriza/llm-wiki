@@ -1,6 +1,6 @@
 # Resumen: Así funciona el SuperAgente de DeepSeek
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-12-asi-funciona-el-superagente-de-deepseek.md` (WL-47, tramo 4)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-12-asi-funciona-el-superagente-de-deepseek.md` (WL-47, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=WzD7hwLvR2U
 - **Canal**: Helmcode (equipo que construye NAN, comunidad de infraestructura GPU compartida para modelos abiertos)
 - **Publicado**: 2026-11-12 · **Duración**: 12:38 · **Idioma**: es (subtítulos automáticos, transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen: Cómo AI destruyó los salones de clase
 
-- **Fuente original**: `raw/wl/tramo-3/2026-07-11-como-ai-destruyo-los-salones-de-clase.md` (WL-31, tramo 3)
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-07-11-como-ai-destruyo-los-salones-de-clase.md` (WL-31, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=5F1pcSljraU
 - **Canal**: Platzi (live Platzi con saludos al chat; Freddie — fundador, no nombrado en el audio pero reconocible por primera persona del proyecto)
 - **Publicado**: 2026-07-11 · **Duración**: 17:28 · **Idioma**: es (subtítulos automáticos, transcripción literal)

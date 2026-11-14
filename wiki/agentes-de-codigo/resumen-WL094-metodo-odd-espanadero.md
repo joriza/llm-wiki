@@ -1,6 +1,6 @@
 # Resumen: La forma CORRECTA de programar con IA en 2027 — el método ODD
 
-- **Fuente original**: `raw/wl/tramo-7/2026-10-29-la-forma-correcta-de-programar-con-ia-en-2027-el-metodo-odd.md` (WL-94, tramo 7)
+- **Fuente original**: `raw/agentes-de-codigo/2026-10-29-la-forma-correcta-de-programar-con-ia-en-2027-el-metodo-odd.md` (WL-94, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=MJelskUFTkk
 - **Canal**: Daniel Españadero (directo; ASR «Españadero/Daniel España»)
 - **Publicado**: 2026-10-29 · **Duración**: 21:01 · **Idioma**: es (subtítulos automáticos, transcripción literal)

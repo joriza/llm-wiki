@@ -1,6 +1,6 @@
 # Resumen: Trabajaba 14 horas por día y terminé en el hospital. Qué cambió
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-12-trabajaba-14-horas-por-dia-y-termine-en-el-hospital-que-cambio.md` (WL-52, tramo 4)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-12-trabajaba-14-horas-por-dia-y-termine-en-el-hospital-que-cambio.md` (WL-52, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=7YPU9Fdrn5E
 - **Canal**: Gentleman Programming (Alan — creador de Gentle AI / Gentle Shell / Engram; el video «crudo» sin intro ni cartoons)
 - **Publicado**: 2026-11-12 · **Duración**: 14:50 · **Idioma**: es (subtítulos manuales, transcripción literal)

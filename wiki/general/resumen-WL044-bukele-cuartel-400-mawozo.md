@@ -1,6 +1,6 @@
 # Resumen: Bukele cumple su amenaza y pulveriza el cuartel de 400 Mawozo
 
-- **Fuente original**: `raw/wl/tramo-3/2026-11-10-bukele-cumple-su-amenaza-y-pulveriza-el-cuartel-de-400-mawozo.md` (WL-44, tramo 3)
+- **Fuente original**: `raw/general/2026-11-10-bukele-cumple-su-amenaza-y-pulveriza-el-cuartel-de-400-mawozo.md` (WL-44, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=680tYusDEJk
 - **Canal**: EL CUARTO PODER (mismo informativo de WL-43; con analistas Tatiana Dangón — columnista de Club de Prensa — y Guillermo Pacheco, Security College US; formato Club de Prensa)
 - **Publicado**: 2026-11-10 · **Duración**: (raw) · **Idioma**: es (subtítulos automáticos, transcripción literal)

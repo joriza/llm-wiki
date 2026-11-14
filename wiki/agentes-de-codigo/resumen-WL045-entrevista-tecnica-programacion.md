@@ -1,6 +1,6 @@
 # Resumen: Así se supera una entrevista técnica de programación
 
-- **Fuente original**: `raw/wl/tramo-3/2026-11-12-asi-se-supera-una-entrevista-tecnica-de-programacion.md` (WL-45, tramo 3)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-12-asi-se-supera-una-entrevista-tecnica-de-programacion.md` (WL-45, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=y0dQRmx9ZZM
 - **Canal**: Maxi Programa (Maximiliano — programador con paso por Oracle/Accenture/Deloitte, profesor UTN +15 años, plataforma propia de cursos .NET/Python/SQL)
 - **Publicado**: 2026-11-12 · **Duración**: 16:18 · **Idioma**: es (subtítulos automáticos, transcripción literal; contexto argentino — UTN, «la fábrica donde trabajaba hace 22 años cerró en agosto»)

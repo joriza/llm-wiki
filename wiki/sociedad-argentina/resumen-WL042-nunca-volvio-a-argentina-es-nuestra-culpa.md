@@ -1,6 +1,6 @@
 # Resumen: Nunca volvió a Argentina… y es nuestra culpa
 
-- **Fuente original**: `raw/wl/tramo-3/2026-11-13-nunca-volvio-a-argentina-y-es-nuestra-culpa.md` (WL-42, tramo 3)
+- **Fuente original**: `raw/sociedad-argentina/2026-11-13-nunca-volvio-a-argentina-y-es-nuestra-culpa.md` (WL-42, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=0NhGS1j13Q0
 - **Canal**: Themateoteo (Mateo Teo — youtuber argentino de actualidad; registro coloquial rioplatense, «Nos vemos, perro»)
 - **Publicado**: 2026-11-13 · **Duración**: 17:34 · **Idioma**: es (subtítulos automáticos, transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen: ¿Qué escondían las pandillas en el estadio? Bukele revela un hallazgo macabro en Haití
 
-- **Fuente original**: `raw/wl/tramo-3/2026-11-13-que-escondian-las-pandillas-en-el-estadio-bukele-revela-un-hallazgo-macabro-en-h.md` (WL-41, tramo 3)
+- **Fuente original**: `raw/general/2026-11-13-que-escondian-las-pandillas-en-el-estadio-bukele-revela-un-hallazgo-macabro-en-h.md` (WL-41, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=QW6o4ofqKwE
 - **Canal**: Colombia En Foco
 - **Publicado**: 2026-11-13 · **Duración**: 14:44 · **Idioma**: es (subtítulos automáticos, transcripción literal)

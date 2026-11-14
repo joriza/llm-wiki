@@ -1,6 +1,6 @@
 # Resumen: Tu agente no debería recibir recuerdos: debería navegarlos (NapMem, Alibaba)
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-09-tu-agente-no-deberia-recibir-recuerdos-deberia-navegarlos-napmem-alibaba.md` (WL-51, tramo 4)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-09-tu-agente-no-deberia-recibir-recuerdos-deberia-navegarlos-napmem-alibaba.md` (WL-51, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=rl-a2bZ1vKA
 - **Canal**: Articulator ES (subtítulos **manuales**; síntesis del paper **NapMem** — equipo Qwen/Alibaba + universidades de China y Singapur)
 - **Publicado**: 2026-11-09 · **Duración**: 14:02 · **Idioma**: es (transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen: Una IA sin censura cuesta 5 dólares hacerla. Por qué casi nunca compensa
 
-- **Fuente original**: `raw/wl/tramo-7/2026-11-01-una-ia-sin-censura-cuesta-5-dolares-hacerla-por-que-casi-nunca-compensa.md` (WL-93, tramo 7)
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-11-01-una-ia-sin-censura-cuesta-5-dolares-hacerla-por-que-casi-nunca-compensa.md` (WL-93, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=H3KvXUB4SmY
 - **Canal**: Jorge Marfil
 - **Publicado**: 2026-11-01 · **Duración**: 25:33 · **Idioma**: es (subtítulos automáticos, transcripción literal)

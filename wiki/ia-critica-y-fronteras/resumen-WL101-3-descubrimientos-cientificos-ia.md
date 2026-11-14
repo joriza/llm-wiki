@@ -1,6 +1,6 @@
 # Resumen: Hito histórico — 3 nuevos descubrimientos científicos gracias a la IA
 
-- **Fuente original**: `raw/wl/tramo-7/2026-10-28-hito-historico-3-nuevos-descubrimientos-cientificos-gracias-a-la-ia.md` (WL-101, tramo 7)
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-10-28-hito-historico-3-nuevos-descubrimientos-cientificos-gracias-a-la-ia.md` (WL-101, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=rWQ2CP3r75Q
 - **Canal**: iabro
 - **Publicado**: 2026-10-28 · **Duración**: 26:17 · **Idioma**: es (subtítulos automáticos, transcripción literal)

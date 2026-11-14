@@ -1,6 +1,6 @@
 # Resumen: El negocio MILLONARIO detrás del COMEI — obliga a los odontólogos a pagar millones
 
-- **Fuente original**: `raw/wl/tramo-7/2026-11-03-una-locura-el-negocio-millonario-detras-del-comei-obliga-a-los-odontologos-a-pag.md` (WL-88, tramo 7)
+- **Fuente original**: `raw/sociedad-argentina/2026-11-03-una-locura-el-negocio-millonario-detras-del-comei-obliga-a-los-odontologos-a-pag.md` (WL-88, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=ssCLo8CYPsg
 - **Canal**: El Presto
 - **Publicado**: 2026-11-03 · **Duración**: 28:01 · **Idioma**: es (subtítulos automáticos, transcripción literal)

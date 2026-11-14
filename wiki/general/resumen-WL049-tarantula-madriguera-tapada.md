@@ -1,6 +1,6 @@
 # Resumen: ¿Qué le pasa a una tarántula si tapas su madriguera?
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-08-que-le-pasa-a-una-tarantula-si-tapas-su-madriguera.md` (WL-49, tramo 4)
+- **Fuente original**: `raw/general/2026-11-08-que-le-pasa-a-una-tarantula-si-tapas-su-madriguera.md` (WL-49, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=VSviZZVogGM
 - **Canal**: Nacho Te Lo Explica
 - **Publicado**: 2026-11-08 · **Duración**: 28:35 · **Idioma**: es (subtítulos automáticos, transcripción literal)

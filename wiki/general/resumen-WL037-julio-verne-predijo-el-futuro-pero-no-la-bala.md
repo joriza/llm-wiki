@@ -1,6 +1,6 @@
 # Resumen: Predijo el futuro, pero no la bala — la historia de Julio Verne
 
-- **Fuente original**: `raw/wl/tramo-3/2026-11-03-predijo-el-futuro-pero-no-la-bala-la-historia-de-julio-verne.md` (WL-37, tramo 3)
+- **Fuente original**: `raw/general/2026-11-03-predijo-el-futuro-pero-no-la-bala-la-historia-de-julio-verne.md` (WL-37, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=tbcvf02TWi4
 - **Canal**: Forjadores
 - **Publicado**: 2026-11-03 · **Duración**: 44:36 · **Idioma**: es (subtítulos automáticos, transcripción literal)

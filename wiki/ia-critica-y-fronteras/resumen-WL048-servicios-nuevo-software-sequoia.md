@@ -1,6 +1,6 @@
 # Resumen: Los servicios son el nuevo software — la tesis de Sequoia sobre copilotos y pilotos automáticos
 
-- **Fuente original**: `raw/wl/tramo-4/2026-10-26-los-servicios-son-el-nuevo-software-la-tesis-de-sequoia-sobre-copilotos-y-piloto.md` (WL-48, tramo 4)
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-10-26-los-servicios-son-el-nuevo-software-la-tesis-de-sequoia-sobre-copilotos-y-piloto.md` (WL-48, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=yVbkVbZ__XY
 - **Canal**: Articulator ES (subtítulos **manuales**; video-essay en español sobre el artículo de **Julien Bek, Sequoia Capital** — «Services as software»)
 - **Publicado**: 2026-10-26 · **Duración**: 10:56 · **Idioma**: es (transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen: Cómo un lenguaje creado en 10 días ATRAPÓ a toda la humanidad | Reacción
 
-- **Fuente original**: `raw/wl/tramo-7/2026-11-02-como-un-lenguaje-creado-en-10-dias-atrapo-a-toda-la-humanidad-reaccion.md` (WL-87, tramo 7)
+- **Fuente original**: `raw/informatica-teoria/2026-11-02-como-un-lenguaje-creado-en-10-dias-atrapo-a-toda-la-humanidad-reaccion.md` (WL-87, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=Ckac17_43gM
 - **Canal**: Dos Dager (reacción en vivo de dos conductores argentinos)
 - **Publicado**: 2026-11-02 · **Duración**: 32:07 · **Idioma**: es (subtítulos automáticos, transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen: Probé T3 Code — ¿es mejor que Herder y Orca?
 
-- **Fuente original**: `raw/wl/tramo-4/2026-11-11-probe-t3-code-es-mejor-que-herder-y-orca.md` (WL-56, tramo 4)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-11-probe-t3-code-es-mejor-que-herder-y-orca.md` (WL-56, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=dxTdFiE-dQI
 - **Canal**: Fazt Code (con patrocinio de DonDominio al inicio)
 - **Publicado**: 2026-11-11 · **Duración**: 23:45 · **Idioma**: es (subtítulos automáticos, transcripción literal)

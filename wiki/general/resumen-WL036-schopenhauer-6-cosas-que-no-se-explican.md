@@ -1,6 +1,6 @@
 # Resumen: Schopenhauer — las 6 cosas que una persona inteligente nunca explica a nadie
 
-- **Fuente original**: `raw/wl/tramo-3/2026-11-09-schopenhauer-las-6-cosas-que-una-persona-inteligente-nunca-explica-a-nadie.md` (WL-36, tramo 3)
+- **Fuente original**: `raw/general/2026-11-09-schopenhauer-las-6-cosas-que-una-persona-inteligente-nunca-explica-a-nadie.md` (WL-36, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=NGyUqlsKLF0
 - **Canal**: La Sabiduría De Schopenhauer
 - **Publicado**: 2026-11-09 · **Duración**: 28:50 · **Idioma**: es (subtítulos automáticos, transcripción literal)

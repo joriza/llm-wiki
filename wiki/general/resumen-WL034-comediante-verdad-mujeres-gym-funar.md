@@ -1,6 +1,6 @@
 # Resumen: Comediante dijo la VERDAD sobre las mujeres en el GYM… y lo quieren FUNAR
 
-- **Fuente original**: `raw/wl/tramo-3/2026-10-18-comediante-dijo-la-verdad-sobre-las-mujeres-en-el-gym-y-lo-quieren-funar.md` (WL-34, tramo 3)
+- **Fuente original**: `raw/general/2026-10-18-comediante-dijo-la-verdad-sobre-las-mujeres-en-el-gym-y-lo-quieren-funar.md` (WL-34, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=fl5Of1-CCm0
 - **Canal**: Ximena Vásquez (creadora peruana; cierre con códigos Yape/Plin y autopresentación irónica «como la stripper que soy»)
 - **Publicado**: 2026-10-18 · **Duración**: 19:43 · **Idioma**: es (subtítulos automáticos, con censura de audio del propio YouTube que deja huecos — varias palabras clave ilegibles en el raw)

@@ -1,6 +1,6 @@
 # Resumen: Hito del MIT: una IA ha mejorado a otra sin entrenarla
 
-- **Fuente original**: `raw/wl/tramo-7/2026-11-03-hito-del-mit-una-ia-ha-mejorado-a-otra-sin-entrenarla.md` (WL-89, tramo 7)
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-11-03-hito-del-mit-una-ia-ha-mejorado-a-otra-sin-entrenarla.md` (WL-89, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=ea4cyoDURvc
 - **Canal**: iabro
 - **Publicado**: 2026-11-03 · **Duración**: 11:20 · **Idioma**: es (subtítulos automáticos, transcripción literal)
