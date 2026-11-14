@@ -1650,3 +1650,7 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-315 — fuentes en T-con parte I (IJ4rSOYc2Vk)
 
 - **FAV-315** (IJ4rSOYc2Vk, Fredy Restrepo, 2017-12-09, 18:26): fuentes internas de una tarjeta T-con Samsung — de 12 V de entrada: AVDD ~15,5 V step-up (FB, 1,162 V ref, oscilación 500–750 kHz), 3,3 V step-down para el procesador, 12 V lineal @ 200 mA, VGH ~27 V y VGL −5…−7 V por bomba de carga. ASR: «charles pong»=charge pump, «lt spies»=LTspice. — Dominio: electronica-practica/ — raw `raw/electronica-practica/2017-12-09-analizando-fuentes-tcon-parte-1.md` — resumen `wiki/electronica-practica/resumen-FAV-315-analizando-fuentes-tcon-parte-1.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-316 — fuente conmutada oscilando (U1LlPJg4e7Y)
+
+- **FAV-316** (U1LlPJg4e7Y, Terrazocultor jose manuel, 2013-07-25, 07:15): comprobador casero de oscilación de fuentes conmutadas sin osciloscopio — condensador + neón (~90 V) + 10 kΩ entre negativo del condensador de filtro y patilla del MOSFET; demo con avería inducida (base del driver desoldada): 300 V de continua presentes pero neón apagado. ASR: «morf/morfer»=MOSFET, «burera»=bombilla. — Dominio: electronica-practica/ — raw `raw/electronica-practica/2013-07-25-fuente-conmutada-oscilando.md` — resumen `wiki/electronica-practica/resumen-FAV-316-fuente-conmutada-oscilando.md`.
