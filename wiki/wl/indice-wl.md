@@ -2,13 +2,14 @@
 
 Hub de lectura humana de la estación provisional `wl/`. Cada tramo del backlog «Ver más tarde» de YouTube se ingesta aquí y, en su consolidación por tramo, las fuentes migran a su dominio temático definitivo (reestructuración aprobada por el usuario, 2026-11-12). Los futuros tramos WL se ingestan directamente en `wl/` (ver `log.md`, bloque de migración; flujo documentado en `odd/tasks/ingesta-ver-mas-tarde.md`).
 
-Contenido (2026-11-14, tramo 3 en curso): **8 resúmenes en la estación** (antes de la consolidación eran **0** — los 25 pares de los tramos 1-2 migraron a sus dominios) — los 25 pares raw+resumen procesables migraron con `git mv` a sus dominios definitivos (detalle WL → dominio en `log.md`, bloque CONSOLIDACIÓN WL; las filas migradas de esta tabla viven en el historial git). Quedan **4 bajas definitivas (raws eliminados por decisión del usuario, 2026-11-13 — el registro permanece aquí y en `log.md` para el dedupe pre-flight)** (WL-1, WL-6, WL-9, WL-19) y **1 meta-fail sin fuente** (WL-13, re-pass).
+Contenido (2026-11-14, tramo 3 en curso): **9 resúmenes en la estación** (antes de la consolidación eran **0** — los 25 pares de los tramos 1-2 migraron a sus dominios) — los 25 pares raw+resumen procesables migraron con `git mv` a sus dominios definitivos (detalle WL → dominio en `log.md`, bloque CONSOLIDACIÓN WL; las filas migradas de esta tabla viven en el historial git). Quedan **4 bajas definitivas (raws eliminados por decisión del usuario, 2026-11-13 — el registro permanece aquí y en `log.md` para el dedupe pre-flight)** (WL-1, WL-6, WL-9, WL-19) y **1 meta-fail sin fuente** (WL-13, re-pass).
 
 | WL | Título | Canal | Dominio destino previsto | Tramo | Estado |
 | --- | --- | --- | --- | --- | --- |
 | WL-1 | Gentle Shell: cambié toda la interfaz y el diseño (`niubcMYfdWU`) | Gentleman Programming Vods | agentes-de-codigo | 1 | Baja — raw eliminado (2026-11-13) |
 | WL-6 | Cardiólogo advierte: millones hacen ESTO cada mañana… (`_DB1IK5s_1s`) | Secretos de la Longevidad | general (clúster fitness-senior) | 1 | Baja — raw eliminado (2026-11-13) |
 | WL-9 | El Papa y la CARPA VIP para «FAMOSOS» (`SFQ6rvooB58`) | Tipito LIVE | general (candidata a sociedad-argentina) | 1 | Baja — raw eliminado (2026-11-13) |
+| WL-39 | Bitcoin cae a 73.000 $ (`7skQAZe4XYI`) | DatoAlCanto | critica-tecnologica o general (cripto; por decidir) | 3 | Pendiente consolidación |
 | WL-38 | Los 10 países más baratos y seguros para jubilarse (`Ujx3oOO0C9M`) | Emigrar con cabeza | general (vida práctica/emigración) | 3 | Pendiente consolidación |
 | WL-37 | Predijo el futuro, pero no la bala — Julio Verne (`tbcvf02TWi4`) | Forjadores | general (biografía/literatura) | 3 | Pendiente consolidación |
 | WL-36 | Schopenhauer: las 6 cosas que una persona inteligente nunca explica (`NGyUqlsKLF0`) | La Sabiduría De Schopenhauer | general (filosofía aplicada) | 3 | Pendiente consolidación |
