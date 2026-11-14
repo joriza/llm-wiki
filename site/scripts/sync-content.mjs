@@ -10,6 +10,7 @@
 
 import fs from "node:fs"
 import path from "node:path"
+import { execFileSync } from "node:child_process"
 import { fileURLToPath } from "node:url"
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url))
@@ -122,9 +123,52 @@ function buildIndex() {
   return { domains: rows.length, files: files.length }
 }
 
+// Meta de build para el footer: conteo de fuentes (resumen-*.md en wiki/ ANTES de copiar)
+// y último commit (fecha ISO corta %as + hash corto %h) ejecutado desde la raíz del repo.
+function collectBuildMeta(files) {
+  const fuentes = files.filter((f) =>
+    path.basename(f).toLowerCase().startsWith("resumen-"),
+  ).length
+  let commitDate = null
+  let commitHash = null
+  const repoRoot = path.resolve(siteDir, "..")
+  try {
+    const out = execFileSync("git", ["log", "-1", "--format=%as|%h"], {
+      cwd: repoRoot,
+      encoding: "utf8",
+      stdio: ["ignore", "pipe", "ignore"],
+    }).trim()
+    const [d, h] = out.split("|")
+    if (d) commitDate = d
+    if (h) commitHash = h
+  } catch {
+    // git no disponible o repo sin commits: el footer degrada a la fecha de build
+  }
+  return { commitDate, commitHash, fuentesProcesadas: fuentes }
+}
+
+function writeBuildMeta(meta) {
+  // Módulo .ts generado: importable directamente por FooterCustom.tsx en el build de Quartz.
+  const out = `// Generado por site/scripts/sync-content.mjs — NO editar a mano.
+export interface BuildMeta {
+  commitDate: string | null
+  commitHash: string | null
+  fuentesProcesadas: number
+}
+
+export const buildMeta: BuildMeta = ${JSON.stringify(meta, null, 2)}
+`
+  fs.writeFileSync(
+    path.join(siteDir, "quartz", "components", "buildMeta.generated.ts"),
+    out,
+    "utf8",
+  )
+}
+
 function sync() {
-  clearContent()
   const files = walkMd(WIKI)
+  writeBuildMeta(collectBuildMeta(files))
+  clearContent()
   let copied = 0
   for (const f of files) {
     const rel = path.relative(WIKI, f)
