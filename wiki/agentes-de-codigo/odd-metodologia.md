@@ -4,7 +4,7 @@
 - **Dominio**: `agentes-de-codigo`.
 - **Actualizado**: 2026-11-11.
 - **Fuentes**: 2 resúmenes de la playlist «IA-Recursos» (52/57 fuente primaria, 51/57) + uso propio de la wiki.
-- **Ver también**: [[agentes-de-codigo]] · [[evaluacion-de-llms]] (evidencia real vs. cognitiva) · [[gentleman-programming]].
+- **Ver también**: [[agentes-de-codigo]] · [[evaluacion-de-llms]] (evidencia real vs. cognitiva) · [[gentleman-programming]] · [[elephant-goldfish-model]] (familia externa: disciplina de diseño antes de código).
 
 ## El concepto
 
@@ -24,6 +24,7 @@ Metodología de trabajo con agentes de IA creada para Gentle AI (flujo por defec
 - **Presupuesto de líneas**: cada tarea estima líneas con límite objetivo de ~400 (el «switch point» para revisar); se induce por carga cognitiva («te doy 400 líneas; si lo justificás, te doy más»), no por orden de minimalismo — la anti-sobreingeniería por diseño (51/57).
 - **Pre-commit risk assessment + RDD**: severidad del cambio antes de commitear; review por slices con agentes enfocados por lentes (riesgo, resiliencia, legibilidad, confianza) aislados del contexto del padre, conducidos por un binario determinista (51/57).
 - **Engram**: memoria compartida local entre agentes (decisiones, por tópicos) (51/57, 52/57).
+- **EGM (Elephant-Goldfish Model)**: familia externa con la misma tesis ([[elephant-goldfish-model]], WL-10) — el elefante redacta la especificación por secciones aprobadas y los peces dorados (subagentes de contexto cero) la auditan en frío; como ODD, reserva la burocracia para cambios sustanciales, y añade el drift-report para verificar que la implementación no se desvió de la especificación aprobada.
 
 ## El debate que la contextualiza
 

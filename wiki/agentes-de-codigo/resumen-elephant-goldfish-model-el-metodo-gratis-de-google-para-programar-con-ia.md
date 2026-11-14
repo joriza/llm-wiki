@@ -1,6 +1,6 @@
 # Resumen: Elephant-Goldfish Model: el método gratis de Google para programar con IA
 
-- **Fuente original**: [raw/wl/2026-11-08-elephant-goldfish-model-el-metodo-gratis-de-google-para-programar-con-ia.md](../../raw/wl/2026-11-08-elephant-goldfish-model-el-metodo-gratis-de-google-para-programar-con-ia.md) ([vídeo](https://www.youtube.com/watch?v=TBcgwD9sygM))
+- **Fuente original**: [raw/agentes-de-codigo/2026-11-08-elephant-goldfish-model-el-metodo-gratis-de-google-para-programar-con-ia.md](../../raw/agentes-de-codigo/2026-11-08-elephant-goldfish-model-el-metodo-gratis-de-google-para-programar-con-ia.md) ([vídeo](https://www.youtube.com/watch?v=TBcgwD9sygM))
 - **Canal**: InzideTech
 - **Fecha**: 2026-11-08 (10:15, subtítulos automáticos es)
 - **Tipo**: tutorial de metodología para agentes de código: EGM (Elephant-Goldfish Model), sistema abierto de Google (Apache 2.0) que divide el trabajo de diseño entre un agente principal con memoria (elefante), subagentes de contexto cero (peces dorados) y el humano como árbitro; instala en Claude Code, Codex CLI, Antigravity CLI, Cursor, Copilot, etc.
@@ -28,4 +28,4 @@ Tutorial promocional con registro hype («acaba de superar las 13.900 estrellas 
 - ASR sistemático: «diagonal» = el prefijo slash `/` de los comandos (`/egm:bootstrap`, `/egm:brainstorm`, `/egm:draft`, `/egm:review`, `/egm:resolve`, `/egm:drift-report`, `/egm:review-loop` — los nombres exactos requieren el README del repositorio); «Cloud Code» = Claude Code; «Code CLI» = Codex CLI; el archivo «Pero» = concepts brief — verificar nombres canónicos contra el repo antes de citar comandos.
 - Cifras sin verificación: 13.900 estrellas en GitHub «en tiempo récord», los «seis fallos mortales de concurrencia» del demo, versión mínima Antigravity 1.4.10.
 - El video describe el repo y el ensayo de Rensin de oídas; no muestra el código fuente — contrastar con el repositorio real (licencia Apache 2.0 declarada) antes de usarlo como referencia técnica.
-- Consolidación aplazada: cablear con [[odd-metodologia]] y [[resumen-hoy-te-presento-odd-mi-metodologia-para-eliminar-la-burocracia-de-la-ia]] (misma familia: disciplina de diseño antes de código), y con [[resumen-estamos-mergeando-codigo-que-nadie-entiende-nerdearla-jp-flores]] al cierre del tramo.
+- **Página de concepto**: [[elephant-goldfish-model]] (creada en la consolidación tramos 1-2, 2026-11-13) — allí vive el cableado con [[odd-metodologia]] y [[resumen-hoy-te-presento-odd-mi-metodologia-para-eliminar-la-burocracia-de-la-ia]] (misma familia: disciplina de diseño antes de código); el cruce con [[resumen-estamos-mergeando-codigo-que-nadie-entiende-nerdearla-jp-flores]] queda registrado como línea futura en la página del concepto.

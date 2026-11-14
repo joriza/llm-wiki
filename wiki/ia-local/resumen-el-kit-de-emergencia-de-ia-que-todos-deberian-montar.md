@@ -1,6 +1,6 @@
 # Resumen: El Kit De Emergencia De IA Que Todos Deberían Montar
 
-- **Fuente original**: [raw/wl/2026-11-11-el-kit-de-emergencia-de-ia-que-todos-deberian-montar.md](../../raw/wl/2026-11-11-el-kit-de-emergencia-de-ia-que-todos-deberian-montar.md) ([vídeo](https://www.youtube.com/watch?v=mkATVkOvJbQ))
+- **Fuente original**: [raw/ia-local/2026-11-11-el-kit-de-emergencia-de-ia-que-todos-deberian-montar.md](../../raw/ia-local/2026-11-11-el-kit-de-emergencia-de-ia-que-todos-deberian-montar.md) ([vídeo](https://www.youtube.com/watch?v=mkATVkOvJbQ))
 - **Canal**: Jorge Marfil
 - **Fecha**: 2026-11-11 (42:22, subtítulos automáticos es)
 - **Tipo**: guía práctica de resiliencia IA local: un disco externo de ~240 GB con modelos y runners para chat/código, imagen, vídeo, voz, música y biblioteca sin conexión — qué descargar exactamente, qué puede una máquina de 16-24 GB y qué se rompe sin wifi

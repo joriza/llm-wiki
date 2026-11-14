@@ -1,6 +1,6 @@
 # Resumen: Ganador del Premio Nobel: REVELÓ a los 80 años 6 cosas para que tu cerebro no envejezca
 
-- **Fuente original**: [raw/wl/2026-11-10-ganador-del-premio-nobel-revelo-a-los-80-anos-6-cosas-para-que-tu-cerebro-no-envejezca.md](../../raw/wl/2026-11-10-ganador-del-premio-nobel-revelo-a-los-80-anos-6-cosas-para-que-tu-cerebro-no-envejezca.md) ([vídeo](https://www.youtube.com/watch?v=DJLjzr_wbvE))
+- **Fuente original**: [raw/general/2026-11-10-ganador-del-premio-nobel-revelo-a-los-80-anos-6-cosas-para-que-tu-cerebro-no-envejezca.md](../../raw/general/2026-11-10-ganador-del-premio-nobel-revelo-a-los-80-anos-6-cosas-para-que-tu-cerebro-no-envejezca.md) ([vídeo](https://www.youtube.com/watch?v=DJLjzr_wbvE))
 - **Canal**: Sabiduría Joven
 - **Fecha**: 2026-11-10 (19:19, subtítulos automáticos es)
 - **Tipo**: divulgación de neurociencia del envejecimiento estructurada como biografía aplicada: la vida de Santiago Ramón y Cajal como hilo para seis hábitos con respaldo científico actual (The Lancet 2024, experimentos de ejercicio, dieta MIND, neurogénesis del hipocampo)
@@ -27,4 +27,4 @@ Divulgación con narrativa biográfica amable y cierre recordatorio («informati
 - La neurogénesis adulta en humanos es un debate científico vivo (el propio vídeo lo reconoce): no presentar el hallazgo de Llorens-Martín como hecho cerrado.
 - ASR con ruido leve (nombres propios, «vegecia» por «vejez», «audífono») normalizado solo en este resumen; el raw permanece intacto.
 - Canal sin página de entidad en la wiki (una sola fuente hasta ahora); candidato a entidad en consolidación si reaparece.
-- Cruce de cluster salud-señior del backlog WL: [[resumen-cambie-las-dominadas-por-3-ejercicios-seal]] y [[resumen-cardiologo-advierte-millones-hacen-esto-cada-manana-sin-conocer-el-riesgo]] (pulso cardiovascular matutino y colesterol como denominadores comunes con este resumen).
+- **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — esta fuente aporta la línea neurociencia del clúster («usar la cabeza», caminar/fuerza con dosis, cita social, sueño). WL-6 (cardiólogo, matutino/riesgo cardiovascular) es baja pendiente de triage: podría sumar el bloque cardiovascular-metabólico si se re-ingesta.

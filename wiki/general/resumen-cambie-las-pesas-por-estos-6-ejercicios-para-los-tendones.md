@@ -1,6 +1,6 @@
 # Resumen: Cambié las pesas por estos 6 ejercicios para los tendones — resultados impactantes
 
-- **Fuente original**: [raw/wl/2026-11-09-cambie-las-pesas-por-estos-6-ejercicios-para-los-tendones.md](../../raw/wl/2026-11-09-cambie-las-pesas-por-estos-6-ejercicios-para-los-tendones.md) ([vídeo](https://www.youtube.com/watch?v=G8TVKkW122g))
+- **Fuente original**: [raw/general/2026-11-09-cambie-las-pesas-por-estos-6-ejercicios-para-los-tendones.md](../../raw/general/2026-11-09-cambie-las-pesas-por-estos-6-ejercicios-para-los-tendones.md) ([vídeo](https://www.youtube.com/watch?v=G8TVKkW122g))
 - **Canal**: Fuerza y Forma
 - **Fecha**: 2026-11-09 (20:08, subtítulos automáticos es)
 - **Tipo**: guía de fortalecimiento de tendones para mayores de 50 (voz narrada en primera persona): 6 ejercicios + 2 adicionales con técnica, dosis, progresión y contraindicaciones por ejercicio; física narrada con anécdota personal de lesión
@@ -28,4 +28,4 @@ Narración con anécdota personal constructora («20 años cargando barra hasta 
 - Las citas científicas sin autor/año: el «protocolo sueco de finales de los 90 para Aquiles» corresponde en todo punto al protocolo excéntrico de Alfredson et al. (1998) — verificar antes de citar; igualmente «los isométricos alivian el dolor de rodilla de inmediato» y «las excéntricas superan al reposo en epicondilitis» tienen apoyo en literatura fisioterápica pero requieren fuente concreta.
 - El «yo» narrador (20 años de gimnasio, alumnos mayores) es dispositivo de guion del canal, no identificable como persona real — tratar como recurso didáctico.
 - ASR: «exercício adicional número one» (mezcla pt/en), garbiñeos menores sin impacto en el contenido.
-- Consolidación aplazada: cruce con [[resumen-cambie-las-dominadas-por-3-ejercicios-seal]] (WL-4, mismo nicho fitness-senior: hombros/omóplatos) al cierre del tramo.
+- **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — el cruce con WL-4 (mismo nicho fitness-senior: hombros/omóplatos) quedó resuelto allí (isometrías/excéntricas lentas + tirón sin barra como mantenimiento de tendón y hombro).

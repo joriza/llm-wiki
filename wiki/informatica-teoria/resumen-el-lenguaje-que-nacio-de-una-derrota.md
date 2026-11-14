@@ -1,6 +1,6 @@
 # Resumen: El lenguaje que nació de una DERROTA
 
-- **Fuente original**: [raw/wl/2026-11-11-el-lenguaje-que-nacio-de-una-derrota.md](../../raw/wl/2026-11-11-el-lenguaje-que-nacio-de-una-derrota.md) ([vídeo](https://www.youtube.com/watch?v=7RVrXtg5NAk))
+- **Fuente original**: [raw/informatica-teoria/2026-11-11-el-lenguaje-que-nacio-de-una-derrota.md](../../raw/informatica-teoria/2026-11-11-el-lenguaje-que-nacio-de-una-derrota.md) ([vídeo](https://www.youtube.com/watch?v=7RVrXtg5NAk))
 - **Canal**: fatdev
 - **Fecha**: 2026-11-11 (26:07, subtítulos automáticos es)
 - **Tipo**: historia de la computación narrada como crónica judicial-empresarial: cómo la guerra Microsoft–Sun por Java, el cierre judicial de Visual J++ (17-11-1998) y el fichaje de Anders Hejlsberg desembocaron en C# y .NET

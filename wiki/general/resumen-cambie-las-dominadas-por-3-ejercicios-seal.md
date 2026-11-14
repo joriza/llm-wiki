@@ -1,6 +1,6 @@
 # Resumen: Cambié las dominadas por 3 ejercicios SEAL
 
-- **Fuente original**: [raw/wl/2026-11-11-cambie-las-dominadas-por-3-ejercicios-seal.md](../../raw/wl/2026-11-11-cambie-las-dominadas-por-3-ejercicios-seal.md) ([vídeo](https://www.youtube.com/watch?v=Uy_CoRUwgqo))
+- **Fuente original**: [raw/general/2026-11-11-cambie-las-dominadas-por-3-ejercicios-seal.md](../../raw/general/2026-11-11-cambie-las-dominadas-por-3-ejercicios-seal.md) ([vídeo](https://www.youtube.com/watch?v=Uy_CoRUwgqo))
 - **Canal**: Tipo Gris
 - **Fecha**: 2026-11-11 (11:27, subtítulos automáticos es)
 - **Tipo**: guía de fitness para mayores de 50: tres ejercicios de espalda/hombro inspirados en la preparación de los Navy SEAL (Stew Smith) como alternativa o complemento de las dominadas cuando el hombro no está listo para la barra; sin equipamiento (marco de puerta, mochila, suelo)
@@ -25,4 +25,4 @@ Canal de fitness orientado al público senior con registro persuasivo («mejores
 - Contenido de fitness generalista, no consejo médico: con patología de hombro diagnosticada (rotura del manguito, pinzamiento subacromial) consultar profesional antes de entrenar; el propio video usa el pinchazo como señal de advertencia.
 - Afirmaciones sin cita: «un estudio» con 1 de cada 5 mayores de 60 con tendón roto asintomático (la prevalencia de roturas asintomáticas del manguito en seniors está documentada en literatura, pero verificar la cifra exacta) y el ranking de 10 ejercicios con la Y boca abajo primera — ambos necesitan fuente.
 - «Rowing solo» (ASR) = rucking (caminar con mochila pesada) en el argot de Smith — terminología reconstruida.
-- Consolidación aplazada: posible cruce con la fuente WL-5 (pesas→tendones, G8TVKkW122g) al cierre del tramo — ambas tratan tendones/seniors desde divulgación fitness.
+- **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — el cruce con WL-5 (pesas→tendones, G8TVKkW122g) quedó resuelto allí: hombros/omóplatos y tendones como mantenimiento de tejido en la misma página.

@@ -1,6 +1,6 @@
 # Resumen: A Gillette (por fin) le está llegando su KARMA…
 
-- **Fuente original**: [raw/wl/2026-11-09-a-gillette-por-fin-le-esta-llegando-su-karma.md](../../raw/wl/2026-11-09-a-gillette-por-fin-le-esta-llegando-su-karma.md) ([vídeo](https://www.youtube.com/watch?v=pf2MtrMHc7g))
+- **Fuente original**: [raw/general/2026-11-09-a-gillette-por-fin-le-esta-llegando-su-karma.md](../../raw/general/2026-11-09-a-gillette-por-fin-le-esta-llegando-su-karma.md) ([vídeo](https://www.youtube.com/watch?v=pf2MtrMHc7g))
 - **Canal**: Se Lo Buscaron
 - **Fecha**: 2026-11-09 (19:43, subtítulos automáticos es)
 - **Tipo**: historia de negocio bien documentada: el modelo razor-and-blades de Gillette, su siglo de dominio y el desgaste frente a Dollar Shave Club, Harry's y la FTC (2012-2026), con distinciones contables cuidadosas

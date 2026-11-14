@@ -1,6 +1,6 @@
 # Resumen: ¿Puede la IA cambiar cómo pensamos?
 
-- **Fuente original**: [raw/wl/2026-10-24-puede-la-ia-cambiar-como-pensamos.md](../../raw/wl/2026-10-24-puede-la-ia-cambiar-como-pensamos.md) ([vídeo](https://www.youtube.com/watch?v=9Iet4dp6NiE))
+- **Fuente original**: [raw/ia-critica-y-fronteras/2026-10-24-puede-la-ia-cambiar-como-pensamos.md](../../raw/ia-critica-y-fronteras/2026-10-24-puede-la-ia-cambiar-como-pensamos.md) ([vídeo](https://www.youtube.com/watch?v=9Iet4dp6NiE))
 - **Canal**: ConquerAI
 - **Fecha**: 2026-10-24 (11:09, subtítulos automáticos es)
 - **Tipo**: ensayo divulgativo con base empírica: la neolengua de Orwell como marco, la hipótesis de Sapir-Whorf como fundamento lingüístico, y la evidencia reciente de que el texto de IA está homogeneizando también el habla humana (estudios de Tübingen 2024 y del habla en vídeo/podcast) — con respuesta pro-pluralidad de modelos

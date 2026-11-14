@@ -1,6 +1,6 @@
 # Resumen: Cómo aprender Rust si ya sabes programar (roadmap 2026)
 
-- **Fuente original**: [raw/wl/2026-11-10-como-aprender-rust-si-ya-sabes-programar-roadmap-2026.md](../../raw/wl/2026-11-10-como-aprender-rust-si-ya-sabes-programar-roadmap-2026.md) ([vídeo](https://www.youtube.com/watch?v=UYvUvRntUNA))
+- **Fuente original**: [raw/informatica-teoria/2026-11-10-como-aprender-rust-si-ya-sabes-programar-roadmap-2026.md](../../raw/informatica-teoria/2026-11-10-como-aprender-rust-si-ya-sabes-programar-roadmap-2026.md) ([vídeo](https://www.youtube.com/watch?v=UYvUvRntUNA))
 - **Canal**: CD
 - **Fecha**: 2026-11-10 (10:55, subtítulos automáticos es)
 - **Tipo**: roadmap de aprendizaje de Rust para programadores que ya vienen de otro lenguaje (Python/JavaScript/C++): cuatro fases con el error típico de cada una y un proyecto para cerrarlas, más la bifurcación final por caminos (backend, CLI, WebAssembly, embebido)

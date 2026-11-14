@@ -1,6 +1,6 @@
 # Resumen: ¿Qué está pasando en Paraguay?
 
-- **Fuente original**: [raw/wl/2026-11-10-que-esta-pasando-en-paraguay.md](../../raw/wl/2026-11-10-que-esta-pasando-en-paraguay.md) ([vídeo](https://www.youtube.com/watch?v=uDRUfbrCdGM))
+- **Fuente original**: [raw/sociedad-argentina/2026-11-10-que-esta-pasando-en-paraguay.md](../../raw/sociedad-argentina/2026-11-10-que-esta-pasando-en-paraguay.md) ([vídeo](https://www.youtube.com/watch?v=uDRUfbrCdGM))
 - **Canal**: Draugr Txikito
 - **Fecha**: 2026-11-10 (20:32, subtítulos automáticos es)
 - **Tipo**: comentario de actualidad con reportaje propio: la intervención del banco Ueno en Paraguay (ASR «Bueno»), su conexión con el presidente Santiago Peña y el entramado del grupo Vázquez, contada desde la experiencia directa del autor en Asunción y correos de lectores
@@ -28,4 +28,4 @@ Relato first-person (vacaciones en Paraguay 2025, newsletter propia) con tono co
 - Las cifras de reintegros, el mínimo de solvencia «menos de la mitad», el fondo de garantía (~39.000 USD) y las capturas de notificaciones provienen de un correo anónimo de lector — no verificados por fuente primaria.
 - La conexión Peña–Ueno y las acusaciones al entramado Vázquez son afirmaciones del vídeo apoyadas en ABC Color; en un tema judicial en curso, no tratar como sentencia.
 - El «Peñasol» citado como negocio clásico de Asunción queda sin identificar (posible garbeo del ASR).
-- Sin dominio propio para banca/corrupción paraguaya: clasificada en general/ por regla de la lista (no es economia-argentina ni sociedad-argentina).
+- Clasificación definitiva: sociedad-argentina/ (mapa de migración aprobado por el orquestador; consolidación tramos 1-2, 2026-11-13; alcance «Argentina y la región» — banca/corrupción regional). La nota del tramo («sin dominio propio para banca/corrupción paraguaya») quedó resuelta por el mapa aprobado.

@@ -1,6 +1,6 @@
 # Resumen: Microsoft acaba de perder en los Países Bajos ¡el gobierno se está pasando a Linux!
 
-- **Fuente original**: [raw/wl/2026-11-10-microsoft-acaba-de-perder-en-los-paises-bajos-el-gobierno-se-esta-pasando-a-linux.md](../../raw/wl/2026-11-10-microsoft-acaba-de-perder-en-los-paises-bajos-el-gobierno-se-esta-pasando-a-linux.md) ([vídeo](https://www.youtube.com/watch?v=0IYqMCE97Vg))
+- **Fuente original**: [raw/critica-tecnologica/2026-11-10-microsoft-acaba-de-perder-en-los-paises-bajos-el-gobierno-se-esta-pasando-a-linux.md](../../raw/critica-tecnologica/2026-11-10-microsoft-acaba-de-perder-en-los-paises-bajos-el-gobierno-se-esta-pasando-a-linux.md) ([vídeo](https://www.youtube.com/watch?v=0IYqMCE97Vg))
 - **Canal**: El Bit Informado
 - **Fecha**: 2026-11-10 (24:16, subtítulos automáticos es)
 - **Tipo**: documental-narración sobre soberanía digital: cómo el bloqueo del correo del fiscal de la Corte Penal Internacional por sanciones de EE. UU. desencadenó la migración del gobierno neerlandés (y media Europa) fuera de Microsoft, con detalle técnico del proyecto (NixOS, suite propia, gestión de flotas)
@@ -30,4 +30,4 @@ Narrativa dramática de canal divulgativo («uno de los mayores dolores de cabez
 - Cifras y fechas reproducidas sin fuente en pantalla — verificar: ahorro de 15 M€/año de Schleswig-Holstein, 30.000 puestos del proyecto regional, 9 M de francos y 3.000 puestos del piloto suizo, orden DINUM de abril-2026, número de puestos de la CPI (1.800).
 - Nombres ASR inciertos: «Cendiz» (ZenDiS, agencia alemana), «Samstad» (cuarto ayuntamiento del piloto), «Securix» (puesto Linux de la DINUM), «Linux MuSyC» (proyecto de Schleswig-Holstein), «Dirk Schroter» (Schröter), «Mind Bureau» (Mijn Bureau) — contrastar con prensa neerlandesa/alemana.
 - El canal dramatiza («Microsoft ya perdió») pero el propio contenido corrige: piloto en curso, sin fecha de migración total — no citar el titular como hecho consumado.
-- Consolidación aplazada: cruce con [[resumen-tienes-que-dejar-de-usar-microsoft-teams-ahora-mismo]] (bossware/vigilancia Microsoft) al cierre del tramo.
+- **Cruces** (cableado de la consolidación tramos 1-2, 2026-11-13): [[resumen-tienes-que-dejar-de-usar-microsoft-teams-ahora-mismo]] (bossware/vigilancia Microsoft — la dependencia del proveedor vista desde el puesto de trabajo) · [[resumen-flyby11-acaba-de-vencer-el-nuevo-bloqueo-de-windows-11]] (informatica-teoria — el hardware «obsoleto» por TPM/requisitos que este video recicla en los portátiles del piloto neerlandés es el mismo que Flyby11 mantiene con vida dentro de Windows 11).
