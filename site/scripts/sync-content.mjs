@@ -52,7 +52,8 @@ function sanitizeRawLinks(md) {
   // la cita queda como texto plano (S6: sin enlace al archivo original).
   return md.replace(/\[([^\]\n]+)\]\(([^)\n]+)\)/g, (m, label, url) => {
     const target = url.toLowerCase()
-    if (/(^|[\\/.])raw\//.test(target) || /\.atl\//.test(target) || /(^|[\\/.])odd\//.test(target)) return label
+    if (/(^|[\\/.])raw\//.test(target) || /\.atl\//.test(target) || /(^|[\\/.])odd\//.test(target))
+      return label
     return m
   })
 }
@@ -76,7 +77,10 @@ function buildIndex() {
     .split(/\r?\n/)
     .filter((l) => /^\| `[^`]+\/`\s*\|/.test(l))
     .map((l) => {
-      const [nameCell, scopeCell] = l.split("|").slice(1, 3).map((s) => s.trim())
+      const [nameCell, scopeCell] = l
+        .split("|")
+        .slice(1, 3)
+        .map((s) => s.trim())
       const folder = nameCell.match(/`([^`]+)\/`/)[1]
       return { folder, scope: scopeCell }
     })
@@ -170,7 +174,8 @@ function audit(dir) {
         // Avisos: texto citando rutas raw/ (cita textual, sin enlace)
         const m = text.match(/[\w\-. /\\]*\braw\/[\w\-. /\\]+/g)
         for (const hit of m ?? []) {
-          if (!/chokidar|raw\/picocss|quartz/.test(hit)) contentLeaks.push(`${path.relative(dir, full)}: texto ${hit.trim()}`)
+          if (!/chokidar|raw\/picocss|quartz/.test(hit))
+            contentLeaks.push(`${path.relative(dir, full)}: texto ${hit.trim()}`)
         }
       }
     }
@@ -182,7 +187,9 @@ function audit(dir) {
     process.exit(1)
   }
   if (contentLeaks.length) {
-    console.warn(`audit: avisos de referencias a rutas prohibidas en texto (citas, sin enlace): ${contentLeaks.length}`)
+    console.warn(
+      `audit: avisos de referencias a rutas prohibidas en texto (citas, sin enlace): ${contentLeaks.length}`,
+    )
     const uniq = [...new Set(contentLeaks)]
     for (const l of uniq.slice(0, 10)) console.warn(`  ${l}`)
     if (uniq.length > 10) console.warn(`  ... y ${uniq.length - 10} más`)

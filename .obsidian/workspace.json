@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/wl/tramo-7/resumen-WL101-3-descubrimientos-cientificos-ia.md",
+                "file": "wiki/wl/indice-wl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resumen-WL101-3-descubrimientos-cientificos-ia"
+              "title": "indice-wl"
             }
           }
         ]
@@ -190,7 +190,15 @@
   },
   "active": "12c81cc59921fbdc",
   "lastOpenFiles": [
-    "wiki/wl/tramo-7/resumen-WL100-juegos-ia-local-godot-strata.md",
+    "wiki/electronica-practica/resumen-FAV-007-condensador-luis-carlos-galan.md",
+    "raw/electronica-practica/2019-03-28-como-funciona-un-condensador-curvas-de-carga-descarga-con-el-osciloscopio.md",
+    "wiki/electronica-practica/resumen-FAV-006-transistor-npn-vs-pnp-makordoba.md",
+    "raw/electronica-practica/2024-05-02-transistor-npn-y-pnp-guia-definitiva-para-no-confundirlos.md",
+    "wiki/electronica-practica/resumen-FAV-005-como-funciona-un-transistor-del0al1.md",
+    "raw/electronica-practica/2025-12-15-como-funciona-un-transistor-y-como-usarlo-correctamente.md",
+    "wiki/electronica-practica/resumen-FAV-004-fotoresistencia-ldr-cienciabit.md",
+    "raw/electronica-practica/2016-09-05-una-resistencia-sensible-a-la-luz-fotoresistencia-ldr.md",
+    "wiki/dominios.md",
     "site/public/wl/tramo-7/resumen-WL101-3-descubrimientos-cientificos-ia-og-image.webp",
     "site/public/wl/tramo-7/resumen-WL100-juegos-ia-local-godot-strata-og-image.webp",
     "site/public/wl/tramo-7/resumen-WL099-grido-fabrica-og-image.webp",
@@ -201,10 +209,6 @@
     "site/public/wl/tramo-7/resumen-WL094-metodo-odd-espanadero-og-image.webp",
     "site/public/wl/tramo-7/resumen-WL093-ia-sin-censura-abliteration-og-image.webp",
     "site/public/wl/tramo-7/resumen-WL092-microsoft-azure-linux-og-image.webp",
-    "wiki/wl/tramo-7/resumen-WL099-grido-fabrica.md",
-    "wiki/wl/tramo-7/resumen-WL098-cata-colon-selecto.md",
-    "wiki/wl/tramo-7/resumen-WL097-compilado-combates-mujeres-hombres.md",
-    "wiki/wl/tramo-7/resumen-WL096-entrevistas-codigo-muertas-midudev.md",
     "site/public/wl/tramo-7/resumen-WL101-3-descubrimientos-cientificos-ia.html",
     "site/public/wl/tramo-7/resumen-WL100-juegos-ia-local-godot-strata.html",
     "site/public/wl/tramo-7/resumen-WL099-grido-fabrica.html",
@@ -215,26 +219,22 @@
     "site/public/wl/tramo-7/resumen-WL094-metodo-odd-espanadero.html",
     "site/public/wl/tramo-7/resumen-WL093-ia-sin-censura-abliteration.html",
     "site/public/wl/tramo-7/resumen-WL092-microsoft-azure-linux.html",
-    "wiki/wl/tramo-7/resumen-WL095-anthropic-mhs-hardware.md",
-    "wiki/wl/tramo-7/resumen-WL094-metodo-odd-espanadero.md",
-    "wiki/wl/tramo-7/resumen-WL093-ia-sin-censura-abliteration.md",
-    "site/content/ia-local/resumen-ia-local-con-llama-cpp-funciona-en-una-pc-de-4-gb-ram.md",
-    "site/content/ia-local/resumen-ia-local-ahora-va-6x-mas-rapida-en-tu-pc-normal.md",
-    "site/content/ia-critica-y-fronteras/world-models.md",
-    "site/content/ia-critica-y-fronteras/resumen-WL070-dark-knowledge-of-ai.md",
-    "site/content/ia-critica-y-fronteras/resumen-si-la-ia-te-quitara-el-trabajo-pero-lo-que-viene-despues-es-peor.md",
-    "site/content/ia-critica-y-fronteras/resumen-segundo-cerebro-digital-obsidian-nvim-gentleman-programming.md",
-    "site/content/ia-critica-y-fronteras/resumen-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab.md",
-    "site/content/ia-critica-y-fronteras/resumen-puede-la-ia-cambiar-como-pensamos.md",
-    "site/content/ia-critica-y-fronteras/resumen-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-alejavi-rivera.md",
-    "site/content/ia-critica-y-fronteras/resumen-notebooklm-reventar-ia-gratis-alejavi-rivera.md",
-    "site/content/ia-critica-y-fronteras/resumen-la-ia-ya-maneja-todos-tus-programas-agent-desktop-pablo-tapias.md",
-    "site/content/ia-critica-y-fronteras/resumen-ias-atacaron-a-anthropic-y-llegaron-demasiado-lejos.md",
-    "site/content/ia-critica-y-fronteras/resumen-ia-le-borro-todo-el-disco-duro-hdeleon-clips.md",
-    "site/content/ia-critica-y-fronteras/resumen-google-genie-3-simulador-mundos-crisis-videojuegos-dot-csv-lab.md",
-    "site/content/ia-critica-y-fronteras/resumen-ia-china-reventar-todo-alejavi-rivera.md",
-    "site/content/ia-critica-y-fronteras/resumen-google-crea-tu-profesor-particular-migue-baena-ia.md",
-    "site/content/ia-critica-y-fronteras/resumen-entrevista-gary-marcus-gustavo-entrala.md",
-    "site/content/ia-critica-y-fronteras/resumen-el-nuevo-chatgpt-tiene-superpoderes-gustavo-entrala.md"
+    "wiki/ia-critica-y-fronteras/resumen-WL101-3-descubrimientos-cientificos-ia.md",
+    "raw/ia-critica-y-fronteras/2026-10-28-hito-historico-3-nuevos-descubrimientos-cientificos-gracias-a-la-ia.md",
+    "wiki/agentes-de-codigo/resumen-WL100-juegos-ia-local-godot-strata.md",
+    "raw/agentes-de-codigo/2026-11-03-desarrollando-juegos-con-ia-local-crea-videojuegos-con-godot-y-tokens-ilimitados.md",
+    "wiki/general/resumen-WL099-grido-fabrica.md",
+    "raw/general/2026-10-31-el-secreto-de-por-que-grido-es-tan-barato.md",
+    "wiki/general/resumen-WL098-cata-colon-selecto.md",
+    "raw/general/2026-10-31-probamos-todos-los-colon-selecto.md",
+    "wiki/general/resumen-WL097-compilado-combates-mujeres-hombres.md",
+    "raw/general/2026-11-02-derechos-iguales-golpes-iguales-cuando-ellas-desafiaron-a-hombres.md",
+    "wiki/agentes-de-codigo/resumen-WL096-entrevistas-codigo-muertas-midudev.md",
+    "raw/agentes-de-codigo/2026-11-03-las-pruebas-tecnicas-de-programacion-son.md",
+    "wiki/agentes-de-codigo/resumen-WL095-anthropic-mhs-hardware.md",
+    "raw/agentes-de-codigo/2026-11-01-por-que-anthropic-se-esta-metiendo-en-el-hardware-mhs-explicado.md",
+    "wiki/agentes-de-codigo/resumen-WL094-metodo-odd-espanadero.md",
+    "raw/agentes-de-codigo/2026-10-29-la-forma-correcta-de-programar-con-ia-en-2027-el-metodo-odd.md",
+    "wiki/ia-critica-y-fronteras/resumen-WL093-ia-sin-censura-abliteration.md"
   ]
 }

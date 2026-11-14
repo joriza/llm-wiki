@@ -15,8 +15,8 @@ export default ((_opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          Actualizado {stamp} · generado con{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz</a> v{version}
+          Actualizado {stamp} · generado con <a href="https://quartz.jzhao.xyz/">Quartz</a> v
+          {version}
         </p>
       </footer>
     )
