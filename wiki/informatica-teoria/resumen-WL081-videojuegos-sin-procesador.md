@@ -1,6 +1,6 @@
 # Resumen: ¿Cómo funcionaban los videojuegos sin procesador?
 
-- **Fuente original**: `raw/wl/tramo-6/2026-11-02-como-funcionaban-los-videojuegos-sin-procesador.md` (WL-81, tramo 6)
+- **Fuente original**: `raw/informatica-teoria/2026-11-02-como-funcionaban-los-videojuegos-sin-procesador.md` (WL-81, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=x1N0-uv-D_U
 - **Canal**: Herschel González. (divulgación técnica de historia de la computación, explicación clara)
 - **Publicado**: 2026-11-02 · **Duración**: ~15 min · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -33,3 +33,4 @@
 - **Cruce conceptual — el tema-candidato más rico**: **«reglas cableadas vs reglas programadas»** es exactamente el eje hardware-agéntico y de destilación del corpus (WL-70, «hardware-agéntico» de la backlog T5): hoy los ASICs de IA vuelven a cablear reglas en silicio para ganar rendimiento — el péndulo circuito↔software es un patrón recurrente de la informática (Pong → 8080 → GPU → TPUs). Cruce directo con WL-79 (Logo/tecnología educativa, misma época) y WL-69 (Clarion: generadores, mismo péndulo automatización).
 - **Cruce humano**: Jobs/Wozniak en Breakout ↔ historia de Apple (si hay fuentes futuras, página de entidad); Wozniak «el diseño de 44 chips inmantenible» ↔ tema «minimalismo brillante vs fabricabilidad».
 - El bug-de-la-paleta como feature ↔ patrón «limitación convertida en diseño» (reutilizable para el eje de diseño de juegos/producto).
+- **Página de concepto**: [[reglas-cableadas-vs-programadas]] — fuente principal de la página (creada 2026-11-14 con WL-69/WL-67/WL-79).

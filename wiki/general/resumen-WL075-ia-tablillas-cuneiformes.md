@@ -1,6 +1,6 @@
 # Resumen: Una IA leyó tablillas que nadie había leído en 2.000 años
 
-- **Fuente original**: `raw/wl/tramo-6/2026-11-06-una-ia-leyo-tablillas-que-nadie-habia-leido-en-2-000-anos-esto-es-lo-que-encontr.md` (WL-75, tramo 6)
+- **Fuente original**: `raw/general/2026-11-06-una-ia-leyo-tablillas-que-nadie-habia-leido-en-2-000-anos-esto-es-lo-que-encontr.md` (WL-75, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=meFIFl8XNvY
 - **Canal**: Ecos de Sumer (divulgación asiriológica con desmontaje de pseudohistoria)
 - **Publicado**: 2026-11-06 · **Duración**: 30:26+ · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -27,3 +27,4 @@
 - **Tema-candidato fuerte: «IA como herramienta de reconstrucción»** — cruza directo con WL-70 (destilación/dark knowledge: otra forma de IA sobre conocimiento humano acumulado) y con el patrón «la IA compara, el humano interpreta» (WL-52/68: supervisión humana insostenible/IA no supervisa a la IA — aquí el caso positivo y acotado).
 - **Cruce cultural**: Diluvio/Enki/Inanna ↔ el marco mítico del Cercano Oriente; «El descenso de Inanna» como texto fuente del motivo del descenso a los infiernos.
 - La ironía de Dumuzi («la mirada de la muerte» repetida) y el bosque-canción de Humbaba: tema-candidato «la literatura cuneiforme que desmonta sus propios héroes».
+- **Páginas de concepto**: [[ia-como-reconstruccion]] (fuente principal, con WL-70) y [[ambiguedad-rellenada-por-el-sistema]] (el contraste del dominio cerrado) — creadas 2026-11-14.

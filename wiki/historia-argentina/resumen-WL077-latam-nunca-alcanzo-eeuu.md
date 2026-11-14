@@ -1,6 +1,6 @@
 # Resumen: La verdadera razón por la que América Latina nunca alcanzó a Estados Unidos
 
-- **Fuente original**: `raw/wl/tramo-6/2026-10-30-la-verdadera-razon-por-la-que-america-latina-nunca-alcanzo-a-estados-unidos.md` (WL-77, tramo 6)
+- **Fuente original**: `raw/historia-argentina/2026-10-30-la-verdadera-razon-por-la-que-america-latina-nunca-alcanzo-a-estados-unidos.md` (WL-77, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=k_dB7KyOjYI
 - **Canal**: Historia Oculta con Carlos (videoensayo de historia económica; narración esmerada, datos de Angus Maddison)
 - **Publicado**: 2026-10-30 · **Duración**: ~80 min · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -31,3 +31,4 @@
 - **Cruce directo con WL-76** (desindustrialización europea): espejo inverso — Europa se desindustrializa por energía/reglas mientras el diagnóstico latinoamericano es «reglas que sobrevivan a los gobiernos»; ambos videos convergen en «estabilidad institucional > vectores ideológicos».
 - **Cruce con WL-73** (ATC-Sofovich): la Argentina del stop-go y los golpes como telón de fondo del caso de corrupción menemista.
 - La Torre de David ↔ posible tema «ruinas del progreso»; «sembrar el petróleo» y el fondo del cobre ↔ tema-candidato «regla fiscal anti-ciclo».
+- **Página de concepto**: [[desarrollo-latinoamericano]] — fuente principal de la página (creada 2026-11-14 con WL-76/WL-73).

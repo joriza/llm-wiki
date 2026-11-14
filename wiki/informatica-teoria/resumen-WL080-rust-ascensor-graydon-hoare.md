@@ -1,6 +1,6 @@
 # Resumen: Su ascensor se rompió — creó Rust
 
-- **Fuente original**: `raw/wl/tramo-6/2026-10-17-son-ascenseur-est-tombe-en-panne-il-a-cree-rust.md` (WL-80, tramo 6)
+- **Fuente original**: `raw/informatica-teoria/2026-10-17-son-ascenseur-est-tombe-en-panne-il-a-cree-rust.md` (WL-80, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=BIy9mNZAb_U
 - **Canal**: CodingBiceps (videoensayo francés de historia del software, narrado en primera persona con guiños galos)
 - **Publicado**: 2026-10-17 · **Duración**: ~17 min · **Idioma**: es (subtítulos automáticos, transcripción literal — título original en francés)
@@ -34,3 +34,4 @@
 - **Cruce Git↔Monotone↔Rust**: historia circular elegante (Monotone pierde → Git nace copiando su estructura de datos → Git 3.0 exige Rust → Rust nació del mismo autor); cablear con la página de Git si existe (WL-26 dedupe).
 - **Cruce con el eje seguridad**: el dato 70%-CVE-memoria ↔ tema-candidato «memoria insegura como clase de bug dominante» (con la advertencia del `unwrap`: el paradigma se rompe donde se autoriza).
 - **Cruce organizacional**: crisis Mozilla 2020 / Rust Foundation ↔ WL-73 (ATC: quién paga el canal) solo como patrón genérico de gobernanza; mejor cruce: debate kernel (veto vs obligación) ↔ WL-78 (control de decisiones: el mantenedor no decide quién usa su código — misma disputa de ownership, dominios distintos).
+- **Página de concepto**: [[lenguaje-rust]] — tercera fuente del clúster (creada 2026-11-14 completando WL-14/WL-26).

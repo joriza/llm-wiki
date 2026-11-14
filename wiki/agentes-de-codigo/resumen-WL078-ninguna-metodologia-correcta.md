@@ -1,6 +1,6 @@
 # Resumen: Ninguna metodología de programación con IA es la correcta
 
-- **Fuente original**: `raw/wl/tramo-6/2026-11-05-ninguna-metodologia-de-programacion-con-ia-es-la-correcta.md` (WL-78, tramo 6)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-05-ninguna-metodologia-de-programacion-con-ia-es-la-correcta.md` (WL-78, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=gQJbQUQFMXc
 - **Canal**: Eric Risco | Inteligencia Artificial (divulgación técnica de desarrollo con agentes; desarrollador profesional, Andorra — menciona el evento «Lakon An»)
 - **Publicado**: 2026-11-05 · **Duración**: ~24 min · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -29,3 +29,4 @@
 - **Cruce principal — es una fuente SOBRE el harness de este proyecto**: ODD (autorizando→explorando→decidiendo→documentando→implementando tarea a tarea→cierre «qué funciona/qué falló/qué sigue»), Engram como memoria, la clasificación pequeño/grande y el cierre con verificación son exactamente el workflow con el que se está construyendo esta wiki. Cablear con [[gentle-ai]]/[[odd]] (crear página si no existe) y con las páginas del eje SDD/harness ya existentes ([[deepseek-harness]] precedentes).
 - **Cruce ASDD ↔ el flujo de este proyecto**: la idea «verificación dentro de cada tarea + lista de decisiones para el humano» es el patrón que la consolidación debería documentar en la página de concepto **«control de decisiones en agentes»** (junto a WL-68 «la IA no supervisa a la IA», WL-52).
 - **Cruce SDD-ambigüedad ↔ WL-75**: otro caso de «la máquina rellena huecos con algo convincente» (traducciones que alucinan ↔ features que nadie pidió) — mismo patrón abstracto, dominios distintos. Tema-candidato: «ambigüedad no resuelta = decisión tomada por el sistema».
+- **Páginas de concepto/entidad**: [[ambiguedad-rellenada-por-el-sistema]] (fuente principal), [[comunicacion-en-confrontacion]], [[tecnologia-educativa-promesa-vs-institucion]] y [[eric-risco]] (entidad actualizada con esta fuente) — creadas/actualizadas 2026-11-14.

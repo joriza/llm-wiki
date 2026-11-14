@@ -1,6 +1,6 @@
 # Resumen: Me hice mi propio asistente de IA (open source) — por qué y cómo
 
-- **Fuente original**: `raw/wl/tramo-6/2026-11-04-me-hice-mi-propio-asistente-de-ia-open-source-por-que-y-como.md` (WL-82, tramo 6)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-04-me-hice-mi-propio-asistente-de-ia-open-source-por-que-y-como.md` (WL-82, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=mXQEpPqhOqU
 - **Canal**: Gentleman Programming (Alan Buscaglia — autor del ecosistema Gentle AI con que corre este proyecto)
 - **Publicado**: 2026-11-04 · **Duración**: ~13 min · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -33,3 +33,4 @@
 - **Cruce principal con WL-78** (Eric Risco sobre SDD/ODD): Risco describió ODD de oídas y lo criticó por la clasificación; este video es la contraparte — ODD «bitácora de capitán» usada para construir el producto. Par docu: **la misma metodología vista desde fuera y desde dentro** — candidato directo a página de concepto «ecosistema gentle-ai» o «reglas fuera del agente».
 - **Cruce de seguridad**: el principio «la regla fuera del agente» ↔ WL-68 (supervisión humana insostenible) y ↔ el patrón del eje: permisos, botón de pánico, PIN invisible = implementación concreta de «el agente no puede decidir sobre sí mismo» (también WL-80: «YOU ARE WRONG» — ownership de decisiones).
 - **Autoreferencia documental**: este mismo proyecto wiki corre sobre ese ecosistema (ODD, Engram, Pi) — registrar en la consolidación que la fuente describe la infraestructura con que se escribió el propio resumen.
+- **Páginas de concepto/entidad**: [[ambiguedad-rellenada-por-el-sistema]] («reglas fuera del agente»), [[hardware-agentico-mcp-first]] (el proxy MCP como frontera de permisos) y [[gentleman-programming]] (entidad actualizada: fuentes 5→7 con WL-52) — creadas/actualizadas 2026-11-14.

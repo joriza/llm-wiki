@@ -1,6 +1,6 @@
 # Resumen: Soda Stereo — la verdad sobre el intento de conquistar Europa
 
-- **Fuente original**: `raw/wl/tramo-6/2026-09-11-soda-stereo-la-verdad-sobre-el-intento-de-conquista-europa-que-salio-mal.md` (WL-74, tramo 6)
+- **Fuente original**: `raw/general/2026-09-11-soda-stereo-la-verdad-sobre-el-intento-de-conquista-europa-que-salio-mal.md` (WL-74, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=sx2S2FS6ooc
 - **Canal**: La Biblioteca de Lucas Risso (videoensayo de historia cultural argentina)
 - **Publicado**: 2026-09-11 · **Duración**: 20:14 · **Idioma**: es (subtítulos automáticos, transcripción literal)

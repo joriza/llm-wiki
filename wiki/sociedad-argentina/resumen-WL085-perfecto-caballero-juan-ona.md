@@ -1,6 +1,6 @@
 # Resumen: Juan Oña, el creador de «Perfecto, caballero» — cómo nació el audio viral
 
-- **Fuente original**: `raw/wl/tramo-6/2026-11-30-juan-ona-el-creador-de-pefeto-caballedo-cuenta-como-nacio-el-audio-viral.md` (WL-85, tramo 6)
+- **Fuente original**: `raw/sociedad-argentina/2026-11-30-juan-ona-el-creador-de-pefeto-caballedo-cuenta-como-nacio-el-audio-viral.md` (WL-85, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=6EnPCFztlog
 - **Canal**: RosarioLaCiudad en vivo (entrevista televisiva/streaming de Rosario, Argentina)
 - **Publicado**: 2026-10-30 · **Duración**: ~9 min · **Idioma**: es (subtítulos automáticos, transcripción literal)

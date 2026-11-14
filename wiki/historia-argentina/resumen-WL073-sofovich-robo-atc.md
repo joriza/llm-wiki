@@ -1,6 +1,6 @@
 # Resumen: Sofovich y el robo a ATC — el caso de corrupción más escandaloso de la TV argentina
 
-- **Fuente original**: `raw/wl/tramo-6/2026-10-31-sofovich-y-el-robo-a-atc-el-caso-de-corrupcion-mas-escandaloso-de-la-tv-argentin.md` (WL-73, tramo 6)
+- **Fuente original**: `raw/historia-argentina/2026-10-31-sofovich-y-el-robo-a-atc-el-caso-de-corrupcion-mas-escandaloso-de-la-tv-argentin.md` (WL-73, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=FuLfzuQ_zOM
 - **Canal**: Sig Ezekiel (videoensayo documental sobre historia de la TV y política argentina)
 - **Publicado**: 2026-10-31 · **Duración**: 17:55 · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -25,3 +25,4 @@
 - **Dominio destino previsto: `historia-argentina/`** (o `sociedad-argentina/` según decida la consolidación) — caso de corrupción menemista que conecta con el eje **Karina Milei / entorno Menem** de WL-57/WL-61 (la carpa VIP contrató a productoras del entorno Menem: continuidad del patrón «amigos del poder en contrataciones públicas»).
 - **WL-42 / WL-57**: la grieta mediática argentina y el uso de medios públicos/privados como trinchera.
 - Tema-candidato para consolidación: **«captura de medios estatales»** (ATC-Sofovich como caso semilla; comparables: asignación de publicidad oficial, testaferros en el cargo).
+- **Página de concepto**: [[captura-de-medios-estatales]] — el caso semilla de la página (creada 2026-11-14 con WL-61/WL-57); el stop-go argentino como telón de fondo en [[desarrollo-latinoamericano]].

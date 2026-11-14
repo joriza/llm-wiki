@@ -1,6 +1,6 @@
 # Resumen: Así fue como destruyeron la economía de Europa — el colapso que nadie vio venir
 
-- **Fuente original**: `raw/wl/tramo-6/2026-11-03-asi-fue-como-destruyeron-la-economia-de-europa-el-colapso-que-nadie-vio-venir-do.md` (WL-76, tramo 6)
+- **Fuente original**: `raw/general/2026-11-03-asi-fue-como-destruyeron-la-economia-de-europa-el-colapso-que-nadie-vio-venir-do.md` (WL-76, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=e1JMd3Kinpk
 - **Canal**: TOP DE IMPACTO (conducción: «Gabriel Bulgakov» — divulgación geopolítica/ecoconómica de tono alarmista)
 - **Publicado**: 2026-11-03 · **Duración**: ~33 min · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -27,3 +27,4 @@
 - **Cruce con el eje geopolítico-energético**: el bloque Ucrania+gas ruso conecta con fuentes de geopolítica global ya procesadas; la tensión UE-EE.UU. (aranceles, OTAN 5%, Groenlandia) es materia para una futura página «relaciones transatlánticas 2025-2026».
 - **Cruce temático IA/industria**: «compete con las herramientas de ayer» ↔ el eje de adopción de IA como diferencial productivo (WL-68 burnout-IA, WL-70 destilación): la UE como caso de no-adopción estructural.
 - Precaución al consolidar: contrastear cifras (Francia 110%, no 17,5%) y marcar el canal como de fiabilidad mixta (datos reales + encuadre conspirativo + error grosero).
+- **Páginas de concepto**: [[desarrollo-latinoamericano]] (el espejo europeo) y [[anatomia-de-un-rumor]] (la estadística re-enmarcada: 17,5 % vs ~110 % real — ver contradicciones en log.md) — creadas 2026-11-14.

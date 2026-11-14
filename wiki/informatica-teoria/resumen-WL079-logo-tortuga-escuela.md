@@ -1,6 +1,6 @@
 # Resumen: Logo — la tortuga que quiso cambiar la escuela
 
-- **Fuente original**: `raw/wl/tramo-6/2026-11-01-logo-la-tortuga-que-quiso-cambiar-la-escuela.md` (WL-79, tramo 6)
+- **Fuente original**: `raw/informatica-teoria/2026-11-01-logo-la-tortuga-que-quiso-cambiar-la-escuela.md` (WL-79, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=Sj4LDrhQShU
 - **Canal**: Archivo del Futuro (videoensayo argentino de historia de la informática educativa; formato «expediente»)
 - **Publicado**: 2026-11-01 · **Duración**: ~22 min · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -30,3 +30,4 @@
 - **Cruce con WL-78** (metodologías con IA): el mismo ciclo «herramienta potente + promesa educativa + instituciones que no cambian» — Logo como ancestro del debate «la herramienta no basta; la práctica alrededor sí». Tema-candidato: **«tecnología educativa: promesa vs institución»** (Logo, OLPC/Ames, y por extensión la IA en escuelas del WL-31 «Cómo AI destruyó los salones de clase»).
 - **Cruce Scratch/Lego Mindstorms**: para triage humano — reconocimiento generacional («los robots de piezas que muchos armaron en los 2000 vienen de esa misma tortuga»).
 - La tortuga egocéntrica («pensar desde el que se mueve») ↔ posible mini-concepto de empatía computacional; Turtle de Python/LibreLogo = dato utilísimo para el usuario que programa.
+- **Páginas de concepto/entidad**: [[tecnologia-educativa-promesa-vs-institucion]] (fuente principal) y [[archivo-del-futuro]] (entidad del canal, con WL-69) — creadas 2026-11-14.

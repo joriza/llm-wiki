@@ -1,6 +1,6 @@
 # Resumen: Santi Maratea vs la «China» Ansa — una clase de comunicación 5 estrellas
 
-- **Fuente original**: `raw/wl/tramo-6/2026-11-02-santi-maratea-vs-la-china-ansa-una-clase-de-comunicacion-5-estrellas.md` (WL-86, tramo 6)
+- **Fuente original**: `raw/sociedad-argentina/2026-11-02-santi-maratea-vs-la-china-ansa-una-clase-de-comunicacion-5-estrellas.md` (WL-86, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=9Ritj0x6fO4
 - **Canal**: Dani Zazzini — Comunicación y Lenguaje Corporal (análisis técnico de comunicación; el video desarma deliberadamente el conflicto de fondo y analiza solo la técnica)
 - **Publicado**: 2026-11-02 · **Duración**: ~13 min · **Idioma**: es (subtítulos automáticos, transcripción literal)
@@ -28,3 +28,4 @@
 - **Cruce directo con WL-85** («Perfecto, caballero»): mismo bloque de cultura mediática argentina 2026 — viralidad, marco, percepción de audiencia; tema-candidato conjunto «el marco de la conversación como territorio de poder» (Ansa recrimina → Maratea recorta la palabra; Oña no acepta que le pongan el cuadro del preso).
 - **Cruce técnico**: «nunca te defiendas; enumera hechos» ↔ WL-76/77 (Cloudflare post-mortem inmediato, «los hechos están») como versión institucional del mismo principio: ante acusación, hechos verificables > argumentos defensivos.
 - **Cruce con el eje Gentle AI**: «no aceptes el marco» es el equivalente humano de «no aceptes la spec ambigua» (WL-78): recortar la palabra que hace ruido = pedir clarificación antes de ejecutar.
+- **Página de concepto**: [[comunicacion-en-confrontacion]] — fuente principal de la página (creada 2026-11-14 con WL-85/WL-78).
