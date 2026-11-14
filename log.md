@@ -1626,3 +1626,7 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-306 — Zener Diode Tester (GwRyAGgpbPg)
 
 - **FAV-306** (GwRyAGgpbPg, Jericho Uno, 2017-04-29, 04:14): tester casero barato y fiable para medir el voltaje real de diodos zener hasta 24 V. **ASR degradado**: los subtítulos automáticos (ru) solo capturaron ruido musical (10 bloques sin habla) — resumen derivado del título y del cross-ref de FAV-307; candidata a re-pass. Tema-candidato: diodo-zener (1/2). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2017-04-29-zener-diode-tester.md` — resumen `wiki/electronica-practica/resumen-FAV-306-zener-diode-tester-jericho-uno.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-307 — cargador 5V a fuente 12V (vwdp2pbWA0o)
+
+- **FAV-307** (vwdp2pbWA0o, Amiyoled, 2016-10-14, 22:09): convertir un cargador de móvil 5 V en fuente de 12 V — solo dos componentes: zener de referencia (D3, comprobado con tester de zener) y condensador de salida (voltaje ≥30 % mayor que la salida, si no explota); límite ~300 mA, caída 13,2 V→12 V con carga, variantes a 9 V para Arduino. **Umbral del tema diodo-zener alcanzado (FAV-306+307)** → página de concepto en la próxima consolidación. ASR: «center/senner/cener»=zener, «mamp»=mA. — Dominio: electronica-practica/ — raw `raw/electronica-practica/2016-10-14-cargador-movil-a-fuente-12v.md` — resumen `wiki/electronica-practica/resumen-FAV-307-cargador-movil-5v-a-fuente-12v-amiyoled.md`.
