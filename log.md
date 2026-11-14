@@ -1588,3 +1588,7 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-005 — transistor BJT (qLxECOjrJVg)
 
 - **FAV-005** (qLxECOjrJVg, Del 0 al 1, 2025-12-15, 14:20): el transistor BJT de la física al montaje — semiconductores y dopaje (fósforo→N, boro→P), unión PN y zona de agotamiento (0,6-0,7 V), NPN por dentro (base delgada, corriente de base controla emisor→colector), montaje LED con 2N2222A + pull-down 10 KΩ; FET y NPN-vs-PNP anunciados para otros videos. Tema-candidato: transistor-bjt (1/2, sube con FAV-006). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2025-12-15-como-funciona-un-transistor-y-como-usarlo-correctamente.md` — resumen `wiki/electronica-practica/resumen-FAV-005-como-funciona-un-transistor-del0al1.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-006 — NPN vs PNP (XRVzR1HwNk0)
+
+- **FAV-006** (XRVzR1HwNk0, El Aula Virtual de makordoba, 2024-05-02, 16:48): receta intuitiva de conexión NPN/PNP en emisor común — lazo de control (diodo emisor en directa + R de base) y lazo de potencia (colector al polo opuesto + R_c); NPN = base al positivo / PNP = base al negativo; corriente de colector sigue la flecha; demo en protoboard 9 V. **Umbral del tema transistor-bjt alcanzado (FAV-005+FAV-006) → página de concepto en la próxima consolidación.** — Dominio: electronica-practica/ — raw `raw/electronica-practica/2024-05-02-transistor-npn-y-pnp-guia-definitiva-para-no-confundirlos.md` — resumen `wiki/electronica-practica/resumen-FAV-006-transistor-npn-vs-pnp-makordoba.md`.
