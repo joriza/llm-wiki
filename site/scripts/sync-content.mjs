@@ -47,7 +47,18 @@ function extractTitle(md) {
   return null
 }
 
+function sanitizeRawLinks(md) {
+  // Los resúmenes citan raws como enlaces Markdown a ../../raw/...; en el sitio
+  // la cita queda como texto plano (S6: sin enlace al archivo original).
+  return md.replace(/\[([^\]\n]+)\]\(([^)\n]+)\)/g, (m, label, url) => {
+    const target = url.toLowerCase()
+    if (/(^|[\\/.])raw\//.test(target) || /\.atl\//.test(target) || /(^|[\\/.])odd\//.test(target)) return label
+    return m
+  })
+}
+
 function withFrontmatter(md, relPath) {
+  md = sanitizeRawLinks(md)
   if (md.startsWith("---")) return md // ya tiene frontmatter
   const title = extractTitle(md) ?? path.basename(relPath, ".md")
   return `---\ntitle: ${JSON.stringify(title)}\n---\n\n${md}`
@@ -74,18 +85,14 @@ function buildIndex() {
   const files = walkMd(WIKI)
   for (const f of files) {
     const rel = path.relative(WIKI, f)
-    const top = rel.split(/[\\/]/)[0]
-    if (top !== path.basename(WIKI) && rel.includes("/") || path.dirname(rel) !== ".") {
-      const dir = path.dirname(rel)
-      if (dir !== ".") counts[dir.split(/[\\/]/)[0]] = (counts[dir.split(/[\\/]/)[0]] ?? 0) + 1
+    const dir = path.dirname(rel)
+    if (dir !== ".") {
+      const top = dir.split(/[\\/]/)[0]
+      counts[top] = (counts[top] ?? 0) + 1
     }
   }
 
   const lines = [
-    "---",
-    `title: "Wiki de conocimiento personal"`,
-    "---",
-    "",
     "---",
     `title: "Wiki de conocimiento personal"`,
     "---",
@@ -100,7 +107,7 @@ function buildIndex() {
     "",
     "## Dominios",
     "",
-  )
+  ]
   for (const d of rows) {
     const n = counts[d.folder] ?? 0
     const scope = d.scope.replace(/\[\[|\]\]/g, "")
@@ -151,15 +158,19 @@ function audit(dir) {
       if (entry.isDirectory()) scanHtml(full)
       else if (/\.(html|js|css)$/.test(entry.name)) {
         const text = fs.readFileSync(full, "utf8")
-        for (const seg of FORBIDDEN_SEGMENTS) {
-          const re = new RegExp(`(?:^|[\\\\"'/ (])${seg}/`, "g")
-          if (seg === "raw" && re.test(text)) {
-            // buscar más precisión: rutas tipo raw/...
-            const m = text.match(/[\w\-. /\\]*\braw\/[\w\-. /]+/g)
-            for (const hit of m ?? []) {
-              if (!/chokidar|raw\/picocss|quartz/.test(hit)) contentLeaks.push(`${path.relative(dir, full)}: ${hit.trim()}`)
-            }
+        // FUGA dura: enlaces (href/src) hacia rutas prohibidas en el output generado
+        const hrefRe = /(?:href|src)="([^"]*)"/g
+        let hm
+        while ((hm = hrefRe.exec(text))) {
+          const t = hm[1].toLowerCase()
+          if (/(^|[\\/.])raw\//.test(t) || /\.atl\//.test(t) || /(^|[\\/.])odd\//.test(t)) {
+            contentLeaks.push(`${path.relative(dir, full)}: ENLACE ${hm[1]}`)
           }
+        }
+        // Avisos: texto citando rutas raw/ (cita textual, sin enlace)
+        const m = text.match(/[\w\-. /\\]*\braw\/[\w\-. /\\]+/g)
+        for (const hit of m ?? []) {
+          if (!/chokidar|raw\/picocss|quartz/.test(hit)) contentLeaks.push(`${path.relative(dir, full)}: texto ${hit.trim()}`)
         }
       }
     }
