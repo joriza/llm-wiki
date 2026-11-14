@@ -1,6 +1,6 @@
 # es un documento borrador del autor, no debe tomarse en cuenta.
 
-Deme listado actualizado para curar la lista WL. Realice consolidacion demorada. Pushee a remoto y cierre acá.
+Refresque la lista WL. Deme listado actualizado de los items procesados para curar la lista WL. Realice consolidacion demorada. Pushee a remoto y cierre acá.
 
 he limpiado la wiki manualmente para comenzar de cero.
 
