@@ -35,3 +35,4 @@ Nueva herramienta de **ArtCraft/StoryTold** (el ecosistema de Brandon Thomas —
 - **WL-48 (Sequoia)**: el caso Loom es exactamente «sustituir el contrato de externalización por un proveedor nativo de IA» — y el título deWL-58 («haz que la IA trabaje por ti») ejecuta la tesis.
 - **WL-53 (Mitjana)**: el «pedal de guitarra replicado en 3 días» aquí tiene su versión completa (Loom replicada por 0,69 $) — la misma línea ética (funcionalidad sí, marca/código no).
 - Tema-candidato: **recreación de software por IA con costes medidos** — primera fuente con economía detallada del vi-coding de apps.
+- **Página de concepto**: [[generadores-4gl-1986-2026]] — «Craft Anything = Clarion con IA», cruce bidireccional con WL-69 (creada 2026-11-14).

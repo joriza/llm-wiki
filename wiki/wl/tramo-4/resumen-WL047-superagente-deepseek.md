@@ -37,3 +37,4 @@ La atención humana como cuello de botella de la era multi-agente: una persona p
 - **[[odd-metodologia]]**: la regla «el router nunca ejecuta, siempre delega» es la misma disciplina de separación coordinación/implementación que ODD aplica a orquestador vs workers — cruce conceptual fuerte para consolidación.
 - **WL-45 (Maxi Programa)**: contraste — allí el humano se oxida delegando en IA; aquí el diseño asume que el humano es el cuello de botella y lo minimiza. Tensión registrada.
 - Tema-candidato: **orquestación multi-agente** (gate/mandate/slots/proactividad graduada como patrón de diseño 2026).
+- **Páginas de concepto**: [[burnout-era-ia]] (el modo «observe» como respuesta organizacional) y [[ambiguedad-rellenada-por-el-sistema]] (mandate + registro de alcance) — creadas 2026-11-14.

@@ -25,3 +25,4 @@ Guía didáctica pragmática con enfoque anti-abandono («no lo dejes para volve
 - El canal «CD» no queda identificado con nombre completo en los metadatos (solo «CD») — identificar antes de citar como fuente.
 - Los consejos («clona sin culpa») son recomendaciones pedagógicas para la fase de aprendizaje, no prácticas para código de producción — no sacarlos de contexto.
 - Cruces ya realizados: [[resumen-every-programming-language-explained-in-16-minutes-just-explained]] y [[resumen-rust-no-viene-a-por-python-viene-a-por-algo-peor]] (WL-26 del tramo 2, mismo canal CD — la continuación anunciada al cierre de este roadmap: el «por qué ahora» de Rust, la capa de sistemas de la IA y el objetivo real, el C++ de debajo).
+- **Página de concepto**: [[lenguaje-rust]] — el «cómo» del clúster, consolidada con WL-26 y WL-80 (2026-11-14).

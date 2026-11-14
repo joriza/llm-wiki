@@ -44,3 +44,4 @@ Invertir la recuperación de memoria: hasta ahora el acceso era **una función d
 - **Engram/memoria del propio proyecto**: NapMem es exactamente el modelo piramidal (hechos→temas→perfil, enlaces a fuentes, fusionar conservando fuentes, «vacío antes que inventar») que la wiki y su capa de memoria replican en texto — cruce metarreferencial fuerte para consolidación.
 - **WL-48 (Sequoia)**: los «pilotos automáticos de servicios» necesitan exactamente este tipo de memoria de usuario de largo plazo — técnica ↔ producto otra vez.
 - Tema-candidato: **memoria agéntica (pirámide + navegación activa + RL de uso)** — primera fuente del tema en la wiki.
+- **Página de concepto**: [[destilacion-conocimiento-oscuro]] — NapMem como la versión «navegar la memoria» del mismo problema de transferencia (creada 2026-11-14).

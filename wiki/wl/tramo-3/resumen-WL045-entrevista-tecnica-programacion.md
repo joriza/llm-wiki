@@ -35,3 +35,4 @@ Un caso completo de primera entrevista técnica junior en noviembre de 2026, nar
 - **WL-31 (Platzi)**: contraste directo — allí el «empleo junior de software desaparece» y el front end «se acabó»; aquí una empresa real entrevista juniors y evalúa desarrollo sin IA. Ambos pueden ser ciertos a la vez: la barra subió (stack completo punta-a-punta sin ayuda) en lugar de desaparecer.
 - **WL-40 (Tu Minuto Económico)**: coincide en «nadie tiene la bola de cristal» — la recomendación operativa (dominar punta a punta sin IA) es la versión práctica.
 - Tema-candidato: **hiring técnico post-IA** (prohibición de IA en pruebas como nueva norma; la «oxidación por Copilot/OpenCode» como riesgo personal documentado).
+- **Página de concepto**: [[burnout-era-ia]] — la oxidación como tercer síntoma del clúster (creada 2026-11-14).

@@ -43,3 +43,4 @@ La IA generativa está erosionando el aprendizaje formal: los estudiantes la usa
 - **[[limites-de-los-llm]]** (dominio `ia-critica-y-fronteras/`): efecto cognitivo y laboral de la IA generativa; se suma al clúster de crítica con datos de empleo junior (contrasta con el optimismo de WL-23/24/25 sobre agentes de código).
 - **[[burbuja-de-la-ia]]**: percepción generacional y angustia laboral (64 % → 89 %) como termómetro social del ciclo.
 - Concepto candidato para consolidación: **IA en educación** (aprendizaje erosionado vs tutoría socrática que sí funciona) — primera fuente de la wiki en el tema.
+- **Página de concepto**: [[tecnologia-educativa-promesa-vs-institucion]] — el ciclo promesa-institución repetido con IA (WL-79, Logo); dato macro de adopción también en [[burnout-era-ia]].

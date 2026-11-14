@@ -42,3 +42,4 @@
 - **Dominio destino previsto: `agentes-de-codigo/`** — clúster de herramientas ADE/vi-coding junto con WL-47 (SuperAgente), [[deepseek-harness]] y la propia Gentle Shell del clúster Gentleman (WL-52).
 - **WL-52 (Gentleman Programming)**: mismo nicho — orquestación de agentes multi-suscripción; el «revisor del core, comunidad delega» de Alan vs el «opinionated de Theo» como dos modelos de gobernanza de herramientas de agentes.
 - Tema-candidato (junto con WL-47): **ADEs como capa de orquestación multi-suscripción** — patrón 2026 (Herder/Orca/T3 Code) con el debate UX-terminal vs GUI y headless-Windows como restricción real.
+- **Página de concepto**: [[hardware-agentico-mcp-first]] — la orquestación como capa de dirección del mismo flujo (creada 2026-11-14).

@@ -50,3 +50,4 @@ Cierre: «si no defendés el tiempo, se lo queda tu dopamina, tu empresa o el ú
 
 - El dato METR (seniors +19 % tiempo creyendo +24 % más rápido) es el mismo de las fuentes 4/18 (Ruiz) y 2/18 — se usa aquí con lecturas distintas: sensación ≠ velocidad.
 - Conecta con el dominio `ia-uso-practico/` (productividad) y con las fuentes 6-7/18 (Herdr, notificaciones): la regla 1 de Falcón («solo Blocked») es exactamente la regla 1 de este video aplicada.
+- **Página de concepto**: [[burnout-era-ia]] — el clúster burnout consolidado con WL-52 y WL-68 (2026-11-14).

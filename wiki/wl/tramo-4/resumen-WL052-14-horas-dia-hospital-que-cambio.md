@@ -35,3 +35,4 @@ Un sábado a la 13:30, mientras trabajaba, se le **adormece la lengua entera has
 - **Dominio destino previsto: `agentes-de-codigo/`** — entidad de canal [[gentleman-programming]] (existe desde el clúster WL-1, referida en log) + actualización de estado del proyecto Gentle AI para consolidación.
 - **[[gentleman-programming]] / [[odd-metodologia]]**: el «quiero seguir siendo el maestro del core, revisor del resto» es exactamente la separación orquestador-workers; y el burnout del one-man-band es el contraargumento vivo a «el humano como cuello de botella» de WL-47.
 - **[[fitness-senior]] tangencial**: el cuerpo que «dice basta» — cruce débil por tema salud mental/estrés, probablemente no lo valga.
+- **Página de concepto**: [[burnout-era-ia]] — testimonio gemelo de WL-68; página consolidada 2026-11-14.

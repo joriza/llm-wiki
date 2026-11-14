@@ -50,3 +50,4 @@ Decidir dueño/ubicación de cada dato; recursividad sin datos que crezcan entre
 - **WL-46 (Fazt Code)**: complementario — allí «Rust no para todo»; aquí una alternativa concreta al borrow checker (arenas + compilador que deduce) con el precedente ML-90s como advertencia.
 - **WL-52 (Gentleman Programming)** y **WL-46**: el patrón «diseñador humano + IA implementadora» como nueva forma de construir software de sistemas — tercera instancia del tema.
 - Tema-candidato: **arena-allocation como modelo de lenguaje** y **software-de-sistemas construido por IA** — ambas primeras en la wiki.
+- **Páginas de concepto**: [[lenguaje-rust]] (la alternativa al borrow checker) y [[generadores-4gl-1986-2026]] / [[hardware-agentico-mcp-first]] (diseñador humano + IA implementadora) — creadas 2026-11-14.

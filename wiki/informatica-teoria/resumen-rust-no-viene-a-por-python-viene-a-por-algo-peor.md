@@ -24,3 +24,4 @@ Divulgación técnica con datos concretos y verificables en línea general (CVE 
 - Los datos de rendimiento (pip vs uv; pandas vs Polars) son demos del vídeo sin metodología publicada — ilustrativos, no benchmarks.
 - La afirmación de Musk sobre XAI/X es autoinformada — el propio vídeo la marca como tal («eso lo dice él»).
 - Cruce directo con [[resumen-como-aprender-rust-si-ya-sabes-programar-roadmap-2026]] (WL-14 del tramo 1, mismo canal CD): allí el «cómo aprenderlo» (roadmap de 4 fases); aquí el «por qué ahora» (el mapa de adopción) — el roadmap incluso cierra anunciando este vídeo como su continuación sobre Rust en la IA. El «algo peor» del título: el C++ de la capa de sistemas, no Python.
+- **Página de concepto**: [[lenguaje-rust]] — el «por qué» del clúster, consolidada con WL-14 y WL-80 (2026-11-14).

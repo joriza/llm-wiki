@@ -41,3 +41,4 @@ Rechaza el framing habitual («ArtCraft acabará con Photoshop/AutoCAD/Word» �
 - **WL-48 (Sequoia)**: la tesis del episodio es la demostración desktop de «vendéis el trabajo, no la herramienta» — las Craft Apps son el punto de entrada que Sequoia describiría como piloto automático de ofimática.
 - **WL-56 (T3 Code)**: misma filosofía MCP-first de ecosistema (todo controlable por agente) en dominios distintos (ADE vs ofimática).
 - Tema-candidato: **ofimática agéntica local** (MCP en apps de escritorio open source Rust) — primera fuente del tema.
+- **Páginas de concepto**: [[hardware-agentico-mcp-first]] (el patrón MCP-first consolidado) y [[generadores-4gl-1986-2026]] («Clarion con IA») — creadas 2026-11-14.

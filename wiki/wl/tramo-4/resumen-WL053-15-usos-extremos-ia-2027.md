@@ -42,3 +42,4 @@ Recopilación de 15 casos reales (casi todos con «Fable 5.2», el modelo tope d
 - **[[burbuja-de-la-ia]]**: la burocracia emergente de los agentes (204 apartados) y la iniciativa autónoma (negocio Mollick) son evidencia empírica de la discusión sobre agencia — conecta con WL-47 (SuperAgente: proactividad off/observe/auto — Mollick vivió por qué «observe» es el default sensato).
 - **WL-48 (Sequoia)**: «si vendes la herramienta, compites con el modelo» — los casos de creación aquí (vídeo por código, maquetas, juegos) son exactamente el trabajo que los pilotos automáticos absorberán.
 - Tema-candidato: **modelos abiertos vs cerrados para seguridad** (caso Hugging Face + backdoors) — primera fuente del tema.
+- **Página de concepto**: [[destilacion-conocimiento-oscuro]] — Heretic y los modelos sin frenos como la otra cara del acceso al «cómo piensa» un modelo (creada 2026-11-14).

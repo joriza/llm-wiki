@@ -38,3 +38,4 @@
 - **[[limites-de-los-llm]]**: la definición «mal llamada inteligencia artificial… es un procesador de lenguaje y de datos» cuadra con el clúster de límites.
 - **WL-31 (Platzi)**: contraste directo — allí «el front end se acabó» y hay que «quemar neuronas»; aquí «no se puede aconsejar qué estudiar» + la IA crea empleo a corto plazo + el futuro es neolítico, no industrial. Ambos coinciden en lo único robusto: la creatividad y el trato humano como refugios.
 - Tema-candidato: **futuro del trabajo bajo IA** — primera fuente del tema; candidata a página de concepto junto con WL-31 en consolidación.
+- **Página de concepto**: [[destilacion-conocimiento-oscuro]] — la geopolítica del idioma como la misma asimetría vista desde el dato (creada 2026-11-14).

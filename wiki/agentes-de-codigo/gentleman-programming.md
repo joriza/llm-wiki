@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (persona/creador de contenido).
 - **Dominio**: `agentes-de-codigo/` (reubicada desde `ia-uso-practico/` en la reestructuración aprobada por el usuario, 2026-11-12 — sus fuentes de metodología y arneses viven aquí).
 - **Actualizado**: 2026-11-12 (reubicación de dominio).
-- **Fuentes**: 3 resúmenes de la playlist «IA-Recursos» — canal principal (2024-05-27, 2026-09-19) y canal de streams «Gentleman Programming Vods» (2026-09-16) — + 2 del lote «IA-Nuevas formas de trabajo» ([[resumen-laburas-las-mismas-horas-con-ia-y-terminas-frito-por-que-gentleman-programming]] — brain fry, bienestar — y [[resumen-inteligencia-artificial-7-reglas-si-recien-empezas-a-programar-gentleman-programming-vods]] — criterio para juniors). Total: 5. Conceptos derivados del lote: [[verificacion-como-valor]], [[experimento-metr]].
+- **Fuentes**: 3 resúmenes de la playlist «IA-Recursos» — canal principal (2024-05-27, 2026-09-19) y canal de streams «Gentleman Programming Vods» (2026-09-16) — + 2 del lote «IA-Nuevas formas de trabajo» ([[resumen-laburas-las-mismas-horas-con-ia-y-terminas-frito-por-que-gentleman-programming]] — brain fry, bienestar — y [[resumen-inteligencia-artificial-7-reglas-si-recien-empezas-a-programar-gentleman-programming-vods]] — criterio para juniors) + 2 del backlog WL consolidados en la pasada de los tramos 5-6 (2026-11-14): [[resumen-WL052-14-horas-dia-hospital-que-cambio]] (WL-52, tramo 4 — confesión del burnout con decisiones de gobernanza del proyecto) y [[resumen-WL082-gentle-dot-asistente]] (WL-82, tramo 6 — **fuente primaria del ecosistema**: arquitectura de Gentle Dot sobre Gentle Shell/RPC + ODD como bitácora). Total: 7. Conceptos derivados: [[verificacion-como-valor]], [[experimento-metr]], [[burnout-era-ia]], [[ambiguedad-rellenada-por-el-sistema]].
 
 ## Identidad
 
@@ -24,9 +24,16 @@ Su argumento de fondo: los LLM son probabilísticos, así que el valor del arné
 - [[resumen-segundo-cerebro-digital-obsidian-nvim-gentleman-programming]] (2024-05-27).
 - [[resumen-hoy-te-presento-odd-mi-metodologia-para-eliminar-la-burocracia-de-la-ia]] (2026-09-16, Vods).
 - [[resumen-inteligencia-artificial-sin-sobreingenieria-por-que-cree-gentle-ai-curso]] (2026-09-19).
+- [[resumen-laburas-las-mismas-horas-con-ia-y-terminas-frito-por-que-gentleman-programming]] (lote «IA-Nuevas formas de trabajo») y [[resumen-inteligencia-artificial-7-reglas-si-recien-empezas-a-programar-gentleman-programming-vods]] (Vods).
+- [[resumen-WL052-14-horas-dia-hospital-que-cambio]] (WL-52, 2026-11-12): ataque de pánico tras ~1 año de 12-14 h/día; «no me quemó la IA, me ayuda»; herramientas gratis para siempre sin inversores; delegación en la comunidad reservándose core/orquestación; sostenimiento por donaciones + stars + charlas ([[burnout-era-ia]]).
+- [[resumen-WL082-gentle-dot-asistente]] (WL-82, 2026-11-04): Gentle Dot (Tauri 2/Rust + daemon Node 24 + Gentle Shell en modo RPC white-label); **reglas fuera del agente** (botón de pánico, lista negra, permisos con vencimiento — «si la regla vive dentro del agente, se la puede saltear»); construido CON ODD («bitácora de capitán» que otro agente lee); despliegue VPS con 3 usuarios del sistema y secretos AES-256-GCM.
 
 ## Véase también
 
 - [[odd-metodologia]] — la metodología consolidada como concepto.
 - [[obsidian-memoria-agentes]] — su fuente manual como antecedente del método automatizado.
 - [[agentes-de-codigo]] — Gentle AI dentro de los «orquestadores y ecosistemas completos».
+- [[burnout-era-ia]] — WL-52 y WL-68 como testimonios gemelos del clúster.
+- [[ambiguedad-rellenada-por-el-sistema]] — «reglas fuera del agente» como respuesta al hueco de spec.
+- [[hardware-agentico-mcp-first]] — el proxy MCP de Gentle Dot como frontera de permisos.
+- Externa: [[resumen-WL078-ninguna-metodologia-correcta]] (Eric Risco, en tránsito tramo 6) describe y critica ODD de oídas — par docu «la misma metodología vista desde fuera y desde dentro».

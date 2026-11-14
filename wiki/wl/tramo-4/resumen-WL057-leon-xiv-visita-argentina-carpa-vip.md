@@ -32,3 +32,4 @@ Espacio reservado de ~30×40 m para 250 personas — aire acondicionado, baños,
 - **Dominio destino previsto: `sociedad-argentina/`** — trío con WL-42 (Francisco/la grieta) y la línea WL-18/29.
 - **WL-42**: cruce bidireccional obligatorio en consolidación — la visita realizada vs la nunca realizada como experimento natural de la tesis de la grieta.
 - Tema-candidato: **la visita de León XIV a Argentina (2026)** — primera fuente del evento junto con WL-42.
+- **Página de concepto**: [[captura-de-medios-estatales]] — la carpa VIP como capítulo de contrataciones públicas del entorno del poder (creada 2026-11-14).
