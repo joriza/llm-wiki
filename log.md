@@ -1584,3 +1584,7 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-004 — fotoresistencia LDR (1vWbqf7cHLg)
 
 - **FAV-004** (1vWbqf7cHLg, Cienciabit, 2016-09-05, 06:37, subs manuales): la LDR — CdS + efecto fotoeléctrico (más luz → menos resistencia), límite de respuesta (no comunicaciones → fotodiodo/fototransistor), 3 experimentos: LED con 120Ω de protección, detección de IR de mando a distancia, multímetro (~14 KΩ oscura). **Umbral del tema ldr-fotorresistencia alcanzado (FAV-003+FAV-004) → página de concepto en la próxima consolidación.** — Dominio: electronica-practica/ — raw `raw/electronica-practica/2016-09-05-una-resistencia-sensible-a-la-luz-fotoresistencia-ldr.md` — resumen `wiki/electronica-practica/resumen-FAV-004-fotoresistencia-ldr-cienciabit.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-005 — transistor BJT (qLxECOjrJVg)
+
+- **FAV-005** (qLxECOjrJVg, Del 0 al 1, 2025-12-15, 14:20): el transistor BJT de la física al montaje — semiconductores y dopaje (fósforo→N, boro→P), unión PN y zona de agotamiento (0,6-0,7 V), NPN por dentro (base delgada, corriente de base controla emisor→colector), montaje LED con 2N2222A + pull-down 10 KΩ; FET y NPN-vs-PNP anunciados para otros videos. Tema-candidato: transistor-bjt (1/2, sube con FAV-006). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2025-12-15-como-funciona-un-transistor-y-como-usarlo-correctamente.md` — resumen `wiki/electronica-practica/resumen-FAV-005-como-funciona-un-transistor-del0al1.md`.
