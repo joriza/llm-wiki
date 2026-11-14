@@ -2,7 +2,7 @@
 
 Hub de lectura humana de la estación provisional `wl/`. Cada tramo del backlog «Ver más tarde» de YouTube se ingesta aquí y, en su consolidación por tramo, las fuentes migran a su dominio temático definitivo (reestructuración aprobada por el usuario, 2026-11-12). Los futuros tramos WL se ingestan directamente en `wl/`, organizados en subcarpetas por tramo con prefijo WL (regla del 2026-11-14, decisión del usuario): `wiki/wl/tramo-3/`, `wiki/wl/tramo-4/`, … y raws espejados en `raw/wl/tramo-N/` (ver `log.md`; flujo documentado en `odd/tasks/ingesta-ver-mas-tarde.md`). Los resúmenes de los tramos 1-2 viven en sus dominios definitivos; esta tabla es el índice humano de la estación.
 
-Contenido (2026-11-14, tras la consolidación de los tramos 5-6): **30 resúmenes en la estación**, todos de los tramos 3-4 (pendientes de su pasada de consolidación). Historial de migraciones (detalle WL → dominio en `log.md`, bloques CONSOLIDACIÓN WL; las filas migradas viven en el historial git): los 25 pares de los tramos 1-2 migraron el 2026-11-13 y los 25 pares de los tramos 5-6 el 2026-11-14 con `git mv` a sus dominios definitivos. Quedan **4 bajas definitivas (raws eliminados por decisión del usuario, 2026-11-13 — el registro permanece aquí y en `log.md` para el dedupe pre-flight)** (WL-1, WL-6, WL-9, WL-19) y **1 meta-fail sin fuente** (WL-13, re-pass); **1 SKIP definitivo sin subtítulos del tramo 6** (WL-83 `vKsjYdEAmNI` «Inki», marcador `.no-subs`).
+Contenido (2026-11-14, tras la ingesta del tramo 7): **45 resúmenes en la estación** — 30 de los tramos 3-4 y 15 del tramo 7 (WL-87..WL-101, pendientes de consolidación). Historial de migraciones (detalle WL → dominio en `log.md`, bloques CONSOLIDACIÓN WL; las filas migradas viven en el historial git): los 25 pares de los tramos 1-2 migraron el 2026-11-13 y los 25 pares de los tramos 5-6 el 2026-11-14 con `git mv` a sus dominios definitivos. Quedan **4 bajas definitivas (raws eliminados por decisión del usuario, 2026-11-13 — el registro permanece aquí y en `log.md` para el dedupe pre-flight)** (WL-1, WL-6, WL-9, WL-19) y **1 meta-fail sin fuente** (WL-13, re-pass); **1 SKIP definitivo sin subtítulos del tramo 6** (WL-83 `vKsjYdEAmNI` «Inki», marcador `.no-subs`).
 
 | WL | Título | Canal | Dominio destino previsto | Tramo | Estado |
 | --- | --- | --- | --- | --- | --- |
@@ -24,6 +24,21 @@ Contenido (2026-11-14, tras la consolidación de los tramos 5-6): **30 resúmene
 | WL-48 | Los servicios son el nuevo software — tesis de Sequoia (`yVbkVbZ__XY`) | Articulator ES | ia-critica-y-fronteras (services-as-software) | 4 | Pendiente consolidación |
 | WL-47 | Así funciona el SuperAgente de DeepSeek (`WzD7hwLvR2U`) | Helmcode | agentes-de-codigo (clúster DeepSeek) | 4 | Pendiente consolidación |
 | WL-46 | ¿Por qué NO reescribo todo en Rust? (`7hkKvzsVuu8`) | Fazt Code | informatica-teoria (clúster Rust) | 4 | Pendiente consolidación |
+| WL-87 | Cómo un lenguaje creado en 10 días atrapó a la humanidad — reacción (`Ckac17_43gM`) | Dos Dager | informatica-teoria (clúster historia-computación) | 7 | Pendiente consolidación |
+| WL-88 | El negocio millonario detrás del COMEI (`ssCLo8CYPsg`) | El Presto | sociedad-argentina (gremios/regulación) | 7 | Pendiente consolidación |
+| WL-89 | Hito del MIT: una IA mejoró a otra sin entrenarla (`ea4cyoDURvc`) | iabro | ia-critica-y-fronteras (interpretabilidad) | 7 | Pendiente consolidación |
+| WL-90 | Epidemia imágenes IA: la pérdida de la originalidad (`od3dgRzplSk`) | Lógicamente Aclarado | ia-uso-practico (adopción/slop) | 7 | Pendiente consolidación |
+| WL-91 | Argentina: el país que no debería existir — doc ruso (`0HzKjK62Cb0`) | Вопросы и Ответы (ruso) | general (geografía) | 7 | Pendiente consolidación |
+| WL-92 | Microsoft lanzó su propia distribución de Linux (`yvfRueBJyvQ`) | El Bit Informado | informatica-teoria (ecosistema software) | 7 | Pendiente consolidación |
+| WL-93 | Una IA sin censura cuesta 5 dólares — abliteration (`H3KvXUB4SmY`) | Jorge Marfil | ia-critica-y-fronteras (seguridad/alineación) | 7 | Pendiente consolidación |
+| WL-94 | El método ODD — tercera voz (`MJelskUFTkk`) | Daniel Españadero | agentes-de-codigo (metodologías; AUTORREFERENCIA) | 7 | Pendiente consolidación |
+| WL-95 | Por qué Anthropic se mete en el hardware — MHS (`3hxdHem70gw`) | IoT Lab | agentes-de-codigo (hardware-agéntico) | 7 | Pendiente consolidación |
+| WL-96 | Las pruebas técnicas de programación son… (`Cy_Sh7vy-Sw`) | midudev | agentes-de-codigo (hiring post-IA) | 7 | Pendiente consolidación |
+| WL-97 | Derechos iguales, golpes iguales — compilado combates (`M41QQDjyT4U`) | Ultimate Fight Docs | general (deporte; FIABILIDAD BAJA) | 7 | Pendiente consolidación |
+| WL-98 | Probamos todos los Colón Selecto (`9fjCMothYAY`) | Matías Jurisich | general (cultura consumible) | 7 | Pendiente consolidación |
+| WL-99 | El secreto de por qué Grido es tan barato (`1eU5LvRfAYg`) | Clarín | general (industria; contenido de marca) | 7 | Pendiente consolidación |
+| WL-100 | Desarrollando juegos con IA local — Godot + Strata (`WkaDb-1MOCY`) | Nichonauta | agentes-de-codigo (ia-local/vi-coding) | 7 | Pendiente consolidación |
+| WL-101 | Hito histórico: 3 descubrimientos científicos con IA (`rWQ2CP3r75Q`) | iabro | ia-critica-y-fronteras (frontera/abundancia de demostraciones) | 7 | Pendiente consolidación |
 | WL-45 | Así se supera una entrevista técnica de programación (`y0dQRmx9ZZM`) | Maxi Programa | agentes-de-codigo (hiring técnico post-IA) | 3 | Pendiente consolidación |
 | WL-44 | Bukele pulveriza el cuartel de 400 Mawozo (`680tYusDEJk`) | EL CUARTO PODER | general (episodio Haití-Bukele, 10/11) | 3 | Pendiente consolidación |
 | WL-43 | Golpe en Haití: Bukele recupera el estadio Silvio Cator (`V5v3sqyhGO8`) | EL CUARTO PODER | general (corrobora WL-41) | 3 | Pendiente consolidación |
