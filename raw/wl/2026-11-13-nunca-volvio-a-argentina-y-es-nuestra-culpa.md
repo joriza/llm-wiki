@@ -1,0 +1,96 @@
+# NUNCA volvió a Argentina… y es nuestra culpa..
+
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=0NhGS1j13Q0)
+- **Canal**: Themateoteo
+- **Publicado**: 2026-11-13
+- **Recopilado**: 2026-11-14
+- **Idioma**: es (subtítulos automáticos es (auto), transcripción literal)
+- **Duración**: 17:34
+
+> Transcripción a partir de los subtítulos automáticos del vídeo, sin normalizar; puede contener errores de reconocimiento. Las marcas de tiempo indican el inicio aproximado de cada bloque.
+
+---
+
+[00:00] Vino el Papa a la Argentina. Después de casi 40 años, un pontífice volvió a pisar nuestro país, un acontecimiento histórico. Pero hubo algo que me llamó muchísimo la atención. León XIV frente a Javier Milei, gobernadores y dirigentes de distintos partidos. Habló de trabajo, educación, pobreza, también de la iniciativa privada, el derecho a la vida y la democracia. ¿Saben qué pasó? Cuando terminó, parecía que cada sector político había escuchado a un Papa totalmente distinto. Los de derecha
+
+[00:29] destacaban la iniciativa privada y la defensa de la vida desde la concepción. Los de izquierda, las universidades, la pobreza y la necesidad de poner la economía al servicio de las personas. Y en los medios empezó otro espectáculo.
+
+[00:42] Para algunos, León XIV había ido a darle un cachetazo a Milei. Para otros, había reivindicado valores que defiende el gobierno. Era el mismo discurso, pero cada uno se llevó la parte que le convenía. Y viendo todo esto, me acordé de algo bastante más extraño. Nosotros tuvimos un Papa argentino durante 12 años. Un tipo nacido en Flores, hincha de San Lorenzo, que se tomaba el colectivo y caminaba por Buenos Aires.
+
+[01:04] Se convirtió en uno de los hombres más importantes del planeta. Viajó a Brasil, Bolivia, Paraguay, Chile y países muchísimo más lejanos también, [carraspeo] pero nunca volvió a pisar la Argentina siendo Papa. Incluso murió sin hacerlo. Pero, ¿cómo puede ser? Durante años escuchamos de todo, que no venía por Cristina, por Macri, que era peronista, que odiaba a los libertarios.
+
+[01:23] Pero Francisco habló de este asunto varias veces y una parte de la respuesta tiene mucho más que ver con nosotros de lo que imaginamos. Volvamos a 2013. El 13 de marzo, Jorge Bergoglio fue elegido Papa, el primero de América Latina y encima argentino. Una locura sin precedente. Imaginate lo que significó enterarnos de que un tipo de Flores acababa de convertirse en el líder de la Iglesia Católica. Teníamos a Messi en el Barcelona y a Bergoglio en el Vaticano.
+
+[01:50] Nos faltaba solamente conquistar Marte y cartón lleno. Más allá de la religión, era extraordinario. Según una investigación del entre 2013 2014 el 91 por ciento de los argentinos tenía una opinión favorable sobre Francisco. En 2024 había bajado al 64 por ciento. Y acá hay una pregunta que me parece mucho más interesante que el número mismo en sí. O sea, ¿por qué la política tiene tanto poder para cambiar la opinión que tenemos sobre una persona? Porque en Argentina pasa algo
+
+[02:21] bastante particular. Cuando vivís en un país donde los problemas económicos son permanentes, donde la inflación te cambia los planes, donde llegar a fin de mes incluso puede ser una preocupación constante, la política deja de ser algo que solamente aparece cuando hay elecciones como en un país común. Se mete en tu casa, en el mercado, cuando pagás el alquiler, cuando tenés que elegir una escuela u otra, cuando no sabés cuánto va a valer tu sueldo el mes que viene. Y es lógico que pase. Cuando
+
+[02:48] los problemas de una sociedad no se resuelven, es lógico que la gente empiece a prestarle más atención a las personas encargadas de tener que resolverlo. El problema es cuando esa preocupación se transforma en una identidad, cuando ya no defendés las ideas, sino que necesitás que todas las personas que están alrededor tuyo piensen como vos. Y ahí pasa algo tremendo. Empezás a juzgar a las personas no tanto por lo que hacen, sino por el sector político con el que las relacionás. Y Francisco no estuvo ajeno
+
+[03:16] a eso, porque además de sus encuentros con Cristina Kirchner, también hubo gestos que generaron muchísima controversia. Por ejemplo, recibió a Estela de Carlotto, presidenta de Abuelas de Plaza de Mayo. En 2014 tuvieron una audiencia privada junto a Ignacio Guido, el nieto de Carlotto que había recuperado su identidad. Y acá tenemos que ser honestos, la búsqueda de los nietos apropiados en la época de la dictadura es una causa totalmente noble, legítima. Pero también es cierto que
+
+[03:43] Abuelas de Plaza de Mayo está identificada con un sector político en específico por la mayoría de los argentinos. Así que si bien para algunos estas fotografías eran un gesto de humanidad, para otros era una señal de cercanía con el kirchnerismo. Pero lo de Eve de Bonafini para mí fue lo que más repercusión tuvo, porque acá la historia es todavía más interesante. Hebe que presidía la Asociación Madres Plaza de Mayo y tenía una identificación política muy fuerte con el kirchnerismo, había
+
+[04:10] sido una de las personas que más duramente cuestionó a Jorge Bergoglio. Lo había acusado de haber sido cómplice en la dictadura, habían tenido enfrentamientos cuando él era arzobispo de Buenos Aires y en 2008 las madres incluso habían ocupado la catedral metropolitana. O sea, no estamos hablando de dos personas que se llevaban bárbaro, pero el 27 de mayo de 2016 pasó algo que sorprendió a mucha gente.
+
+[04:32] Francisco la recibió en una audiencia privada en el Vaticano y Hebe, que durante años lo había cuestionado, terminó pidiéndole perdón. Hasta ahí podríamos estar hablando de una historia bastante linda de reconciliación. El problema es lo que pasó luego, porque al salir de la reunión Hebe dio una conferencia de prensa y contó que había hablado con Francisco sobre el gobierno de Mauricio Macri y dijo textualmente que en 5 meses de ese gobierno había destruido lo que habían construido
+
+[04:58] durante 12 años. Además le pidió al papa que interviniera de alguna manera para ayudar frente a la situación que según ella estaba atravesando la Argentina. Ahora para un segundo, una cosa es que Hebe le haya llevado sus preocupaciones políticas y otra muy distinta es que Francisco estuviera de acuerdo con absolutamente todo lo que ella decía.
+
+[05:16] Sin embargo, ¿sabés qué empezaron a discutir los medios? Que Francisco había estado más de 1 hora reunido con Hebe, mientras que unos meses antes había recibido a Mauricio Macri durante apenas 22 minutos. Estaban comparando los minutos, boludo. O sea, como si el Vaticano fuera, no sé, una aplicación de citas o algo así y el tiempo que pasás con alguien determina cuánto te gusta. O sea, imaginate, para una parte de la opinión pública aquella fotografía sonriente de Francisco con Hebe era una
+
+[05:43] confirmación de sus preferencias políticas. Pero ahora yo me pregunto, ¿realmente lo era? Porque el papa también había recibido a otras personas que habían sido críticas con él. ¿En serio no podía tratarse solamente de una reconciliación, de una conversación pastoral? Lo que sabemos es que Hebe aprovechó el encuentro para plantearle cuestiones políticas y después las hizo públicas. De terror, amigo. Después está también el caso de Milagro Salas. Mirá, Francisco la recibió en el Vaticano en
+
+[06:10] 2014. Cuando ella estaba detenida en 2016 le hizo llegar un rosario bendecido y en 2017 le escribió una carta expresándole cercanía y acompañamiento espiritual. Estamos hablando de una dirigente que, años después, terminó con una condena firme de 15 años de prisión por delitos que incluyen asociación ilícita, fraude a la administración pública y extorsión. ¿Significa que Francisco avalaba esos delitos? No, no significa eso. Significa que es el Papa.
+
+[06:37] ¿Qué quieren que haga? ¿Que le apunte con una 9 mm en la frente, amigo? O sea, date cuenta, ¿no? El Papa se supone que es la imagen de la redención, del perdón, de todo eso que tiene que ver con esa, qué se yo, no sé yo qué es el Papa, pero igual te lo digo así. Pero sería bastante ingenuo creer que esos gestos no iban a generar rechazo en una parte de la sociedad argentina, ¿no? Una cosa es lo que vos querés expresar con una acción y otra muy distinta es como lo interpreta la gente. Y acá tenemos un
+
+[07:05] dato que me parece revelador. Una investigación sobre las creencias religiosas en Argentina encontró que en 2019 tres de cada 10 católicos consideraban que Francisco estaba demasiado metido en política. Tres de cada 10. Y estamos hablando de personas que pertenecen a su propia iglesia.
+
+[07:21] Entonces, cuando vemos que su imagen positiva cayó tanto en Argentina, es imposible ignorar el hecho de toda esta discusión política. ¿Podemos demostrar que los 27 puntos de caída se explican exclusivamente por la grieta? No. Pero tampoco podemos contar esta historia como si la grieta no hubiera existido, porque Jorge Bergoglio había dejado de ser solamente el Papa para muchos argentinos. Se había convertido en alguien al que había que ubicar políticamente. Y una vez que eso sucede,
+
+[07:49] cada gesto empieza a ser leído como una declaración partidaria, aunque quizás nunca haya tenido esa intención. Lo que demostró que nuestra relación con Francisco se fue complicando. Antes de su elección había tenido enfrentamientos con el kirchnerismo, sobre todo durante el gobierno de Néstor Kirchner. Después, Cristina Fernández de Kirchner se reunió varias veces con él. Hubo fotografías, gestos de cercanía y una enorme atención mediática. Entonces, apareció la pregunta, ¿Francisco se había vuelto
+
+[08:17] kirchnerista? Con Macri pasó algo distinto, pero igual de revelador. En febrero de 2016 el presidente fue al Vaticano. La reunión duró 22 minutos y Francisco apareció serio en las fotografías. Imagínense, se armó un quilombo descomunal. Que lo había recibido de mala gana, que estaba enojado, que no lo quería ver, de todo.
+
+[08:37] Se analizaba la cara del Papa como si fuera un mensaje cifrado de los servicios de inteligencia. Que si sonrió, que cuánto duró la reunión, si le apretó la mano o no. Faltaba solamente el análisis facial de de de Bergoglio. Franco Pisso, ahorita se te pasó, la verdad, ¿hm? Lo curioso es que 8 meses después Macri volvió al Vaticano y tuvo un encuentro más largo y cordial, pero la primera fotografía ya había servido para que no haya discusión. El Papa no quería a Macri. Ahora bien,
+
+[09:05] Francisco sabía perfectamente lo que estaba pasando. En marzo de 2015, apenas 2 años después de asumir, le dio una entrevista a Televisa. Hablaron de una carta privada enviada a un amigo argentino que terminó publicada y generó una polémica y Francisco reconoció que a veces se había sentido usado por la política de su país. Incluso mencionó a políticos argentinos que pedían audiencias. Fíjate qué tremendo. A los 2 años de convertirse en Papa ya sentía que algunos aprovechaban su figura. Y
+
+[09:35] hay algo que me parece fundamental. Utilizar políticamente a alguien no siempre implica mentir. Podés mostrar una fotografía auténtica, una carta verdadera, una frase que alguien realmente pronunció y construir alrededor una interpretación totalmente interesada. Los hechos son reales, el significado que les atribuís es otra historia. Y acá entran los periodistas porque los políticos no son los únicos que pueden sacar rédito de todo esto.
+
+[09:59] Volvamos al discurso de León XIV. El Papa habló de estimular la iniciativa privada y prácticamente a continuación dijo que la economía debía estar al servicio de las personas. Las dos cosas en un mismo discurso. Sin embargo, el diario El País publicó un título que vinculaba sus palabras con las víctimas de la motosierra de Milei. Por otro lado, un medio favorable al gobierno lo presentó como una reivindicación de la economía de mercado. ¿Y saben qué es lo loco de todo esto? Que los dos estaban
+
+[10:28] mostrando fragmentos reales. Y ojo, reaccionar a lo que dice el Papa con las políticas del gobierno es legítimo, analizar las consecuencias también, está bien, es parte de un trabajo periodístico. Lo que me rompe mucho las bolas es cuando una interpretación se vende como si fuera una declaración explícita y se utiliza como un arma arrojadiza. Entonces aparece el que necesita demostrar que su bando ganó. Agarra una frase, la pone en Twitter, se babea como un cané corso 20 minutos y la convierte en un argumento
+
+[11:00] contra sus adversarios. Del otro lado hacen lo mismo con otra frase y listo, tenemos programa, debate, clips y gente puteándose en los comentarios, engagement, genial. Lo que tal vez perdimos fue el discurso completo y esto también me incluye a mí. Yo hago videos de actualidad, sé que una frase llamativa, explosiva, llama mucho más la atención que una explicación de 10 minutos. Pero si solamente buscamos el fragmento que más reacción genera en la gente, en algún momento dejamos de
+
+[11:31] informar y empezamos a fabricar enfrentamientos. Sí, estoy hablando del periodismo argentino prácticamente. Ahora, tampoco quiero pintar a Francisco como un hombre ajeno a la política, para nada. Tenía posiciones claras sobre la justicia social, la pobreza y la economía y también se oponía al aborto, algo que difícilmente puede encajar con el progresismo argentino. Entonces, ¿qué era? ¿De izquierda, de derecha, peronista, conservador? Quizás el problema es esta necesidad enfermiza de
+
+[11:59] poner una camiseta partidaria a todo el mundo. En el libro El pastor, publicado en 2023, Francisco negó haber sido militante o simpatizante del peronismo, pero también preguntó qué tendría de malo compartir una concepción política de esa tradición. Y tiene sentido. Podés coincidir con mi ley en una cosa y estar completamente en desacuerdo en otra.
+
+[12:19] Podés defender la iniciativa privada y al mismo tiempo creer que existen responsabilidades sociales. No es tan difícil de entender, salvo que necesitéis dividir a la gente para tu conveniencia. Francisco tampoco era perfecto, podía equivocarse, tener preferencias y hacer gestos cuestionables. Nosotros teníamos derecho a criticarlo, obviamente, pero criticarlo no debería significar reducir 12 años de pontificado a discutir si era kircho o si no era kircho. No. Y mientras pasaba todo eso seguíamos sin
+
+[12:49] responder la pregunta, ¿no? ¿Por qué no venía a Argentina? En una entrevista de marzo de 2023 con Daniel Hadad, Francisco explicó que había existido un plan de viajar a fines de 2017. La idea era visitar Chile, Argentina y Uruguay, pero el calendario electoral chileno obligó a reorganizar las fechas. La visita a nuestro país quedaría para enero y Francisco explicó con humor que en enero no encontrabas ni al gato en Argentina. Finalmente se hizo el recorrido por Chile y Perú. Después
+
+[13:19] llegó la pandemia, se postergaron viajes, aparecieron otras obligaciones y su salud fue complicándose. Hasta ahí hay varias razones concretas, pero no son las únicas. Hadad le preguntó de qué dependía finalmente su regreso.
+
+[13:33] Francisco dijo que tenía voluntad de venir y enseguida mencionó la coyuntura sociopolítica. Explicó que la visita de un papa podía ser aprovechada políticamente y que por eso evitaban viajar a países durante periodos electorales. Quería que su presencia no fuera utilizada por un bando contra el otro y esto cambia mucho la discusión porque no es un periodista interpretando lo que supuestamente pensaba Francisco.
+
+[13:57] Por eso en un en tiempo electoral no se hacen viajes en los países para evitar que la presidencia sea usada por el partido gobernante para una reelección o algo por el estilo, ¿no? Es el propio Francisco diciendo que el uso político de una visita le preocupaba. Si bien hubo problemas de agenda, una pandemia mundial, elecciones y tuvo problemas de salud, Francisco aún quería volver a Argentina en 2024, aunque faltaban cosas por resolver, así que la politización fue una preocupación
+
+[14:26] documentada. Lo cierto es que Francisco murió en abril de 2025 sin regresar y en medio de tantos análisis políticos había una persona que estaba extrañando su país. Habló varias veces de su nostalgia por Buenos Aires, de cuánto extrañaba caminar por sus calles y encontrarse con la gente. En una carta de 2018 expresó el cariño que sentía por los argentinos y hasta pidió disculpas a quienes se hubieran sentido offended por alguno de sus gestos. Un tipo que ocupaba el cargo religioso más importante del planeta
+
+[14:56] reconocía que podía equivocarse. No sé si para ustedes, pero para mí esa parte tan humana quedó totalmente tapada con la discusión política. Nos centramos tanto en fijarnos si apoyaba a Cristina, si despreciaba a Macri o si evitaba a mi ley, que la verdad nos perdimos algo importante. Era un argentino que extrañaba su país y que nunca pudo volver. Y ahora León 14 está en nuestro país. Resulta imposible no encontrar cierta ironía, ¿no? Francisco temía que su visita terminara convertida en una
+
+[15:25] pelea política. Vino su sucesor y una de las primeras discusiones fue quién había salido favorecido por sus palabras, incluso después de que León 14 pidiera diálogo, prudencia y respeto por quienes piensan distinto. No, a la Pero hay otra cosa, a ver. Ya sabemos que todos los políticos son unos oportunistas de lo sabemos.
+
+[15:44] Sabemos que los periodistas son casi todos mercenarios. Es fácil la solución. Los puteamos, nos enojamos, nos sentimos moralmente superiores, los miramos desde arriba y eh y bueno, así seguimos, ¿no? Por un tiempo esa sensación de bronca y de desprecio se calma. Pero el problema es que nosotros también participamos.
+
+[16:02] Cuando compartimos la parte de una declaración solamente que nos beneficia, cuando alguien que admiramos no piensa como nosotros y le hacemos la cruz, cuando siempre nos preguntamos a qué partido pertenece la persona para poder recién ponerte a pensar si tiene razón o no en lo que está diciendo. Y no me malentiendan, la política importa, las decisiones de los gobiernos afectan a nuestras vidas y deben discutirse. Pero cuando se convierte en la única manera de interpretar todo, ya sea un político,
+
+[16:31] ya sea un deportista, un cantante o incluso una serie, ahí ya tenemos un problema. Por eso quiero cerrar con algo que Francisco dijo en 2023. Le preguntaron por la decepción de los argentinos que esperaban su visita y respondió que la salvación de la Argentina no iba a venir de su viaje y pensalo porque es brillante, loco. O sea, nosotros llevamos años preguntándonos cuándo iba a aterrizar el Papa y él nos estaba recordando que nuestro futuro no depende de que él vuelva de Roma. Yo creo que nunca
+
+[16:59] sabremos cuánto pesó cada motivo en su decisión de no volver, pero sí sabemos que nos advirtió sobre la utilización política de su figura y nosotros seguimos haciendo lo mismo. Tuvimos al primer Papa argentino de la historia y pasamos buena parte de esos 12 años discutiendo si era de los nuestros o de los otros. Ahora tenemos a otro Papa caminando por nuestro país. Ojalá podamos escucharlo sin necesitar que nos dé la razón en todo, porque hay cosas que perdemos cuando convertimos
+
+[17:26] absolutamente todo en una pelea política y algunas, cuando nos damos cuenta, ya no podemos recuperarlas. Nos vemos, perro.

@@ -2,13 +2,14 @@
 
 Hub de lectura humana de la estación provisional `wl/`. Cada tramo del backlog «Ver más tarde» de YouTube se ingesta aquí y, en su consolidación por tramo, las fuentes migran a su dominio temático definitivo (reestructuración aprobada por el usuario, 2026-11-12). Los futuros tramos WL se ingestan directamente en `wl/` (ver `log.md`, bloque de migración; flujo documentado en `odd/tasks/ingesta-ver-mas-tarde.md`).
 
-Contenido (2026-11-14, tramo 3 en curso): **11 resúmenes en la estación** (antes de la consolidación eran **0** — los 25 pares de los tramos 1-2 migraron a sus dominios) — los 25 pares raw+resumen procesables migraron con `git mv` a sus dominios definitivos (detalle WL → dominio en `log.md`, bloque CONSOLIDACIÓN WL; las filas migradas de esta tabla viven en el historial git). Quedan **4 bajas definitivas (raws eliminados por decisión del usuario, 2026-11-13 — el registro permanece aquí y en `log.md` para el dedupe pre-flight)** (WL-1, WL-6, WL-9, WL-19) y **1 meta-fail sin fuente** (WL-13, re-pass).
+Contenido (2026-11-14, tramo 3 en curso): **12 resúmenes en la estación** (antes de la consolidación eran **0** — los 25 pares de los tramos 1-2 migraron a sus dominios) — los 25 pares raw+resumen procesables migraron con `git mv` a sus dominios definitivos (detalle WL → dominio en `log.md`, bloque CONSOLIDACIÓN WL; las filas migradas de esta tabla viven en el historial git). Quedan **4 bajas definitivas (raws eliminados por decisión del usuario, 2026-11-13 — el registro permanece aquí y en `log.md` para el dedupe pre-flight)** (WL-1, WL-6, WL-9, WL-19) y **1 meta-fail sin fuente** (WL-13, re-pass).
 
 | WL | Título | Canal | Dominio destino previsto | Tramo | Estado |
 | --- | --- | --- | --- | --- | --- |
 | WL-1 | Gentle Shell: cambié toda la interfaz y el diseño (`niubcMYfdWU`) | Gentleman Programming Vods | agentes-de-codigo | 1 | Baja — raw eliminado (2026-11-13) |
 | WL-6 | Cardiólogo advierte: millones hacen ESTO cada mañana… (`_DB1IK5s_1s`) | Secretos de la Longevidad | general (clúster fitness-senior) | 1 | Baja — raw eliminado (2026-11-13) |
 | WL-9 | El Papa y la CARPA VIP para «FAMOSOS» (`SFQ6rvooB58`) | Tipito LIVE | general (candidata a sociedad-argentina) | 1 | Baja — raw eliminado (2026-11-13) |
+| WL-42 | Nunca volvió a Argentina… y es nuestra culpa (`0NhGS1j13Q0`) | Themateoteo | sociedad-argentina (Francisco y la grieta) | 3 | Pendiente consolidación |
 | WL-41 | ¿Qué escondían las pandillas en el estadio? Bukele en Haití (`QW6o4ofqKwE`) | Colombia En Foco | general (news-farm, no verificado) | 3 | Pendiente consolidación |
 | WL-40 | Los oficios que valdrán oro con la IA (`XxJpNIRPamU`) | Tu Minuto Económico | ia-critica-y-fronteras (futuro del trabajo) | 3 | Pendiente consolidación |
 | WL-39 | Bitcoin cae a 73.000 $ (`7skQAZe4XYI`) | DatoAlCanto | critica-tecnologica o general (cripto; por decidir) | 3 | Pendiente consolidación |
