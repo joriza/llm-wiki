@@ -2,6 +2,22 @@
 
 Registro vivo de dominios de la wiki. Consultar antes de cada ingesta.
 
+## Principios de taxonomía emergente (2026-11-14, decisión del usuario)
+
+Análisis primigenio del usuario: los dominios `*-argentina` comparten el sujeto (Argentina) pero se diferencian por ejes inconsistentes (historia/sociedad por tiempo, economía por materia). Lo mismo ocurre con informática, sociedad, etc.: **hay fuentes que calzan en más de una agrupación, y la frontera cambia según la cantidad de fuentes y su contenido**. Principios derivados:
+
+1. **Primera palabra = eje primario**: el nombre del dominio empieza por el sujeto por el que se busca (ej. `argentina-…`, `ia-…`). Principio directivo para decisiones nuevas; NO implica renombrar el corpus existente.
+2. **Membresía física única, relaciones ilimitadas**: toda fuente vive en UN dominio (regla S2 del AGENTS.md) y se relaciona con todos los demás mediante cruces `[[...]]`. La ubicación física es administración provisional; los cruces son el conocimiento estable.
+3. **Toda decisión de dominio es provisional por defecto**: la consolida el lint (cierre de tramo o cada ~30-40 fuentes ingestadas), no la ingesta. Un error de ubicación con buenos cruces es barato y reversible.
+4. **Disparadores objetivos de lint** (decisión del usuario siempre encima): dominio >30 fuentes o sub-temas distintos → proponer división; dominio <5 fuentes sin crecimiento en 2-3 tramos → proponer fusión/absorción; solapamiento >30% entre dos dominios → proponer fusión; duda de destino en >20% de un tramo → la frontera está mal, ajustar la frontera.
+5. **Migraciones globales solo por dolor, no por lógica**: los renombres masivos se ejecutan cuando el costo operativo los justifica, no por coherencia estética — los invariants (enlaces por nombre, cruces, log) sobreviven cualquier reorganización.
+
+**Propuestas pendientes de decisión del usuario (registradas 2026-11-14, NO ejecutar sin confirmación)**:
+- (a) Unificar los 3 dominios `*-argentina` en un dominio único `argentina/` con sub-temas (`historia/`, `sociedad/`, `economia/`) y página-hub `[[argentina]]` — resuelve la multimembresía por país y debilita la sub-pregunta temporal de clasificación; alternativa liviana: renombrar con prefijo (`argentina-historia/` etc.). Costo: migración de 38 resúmenes + raws + índices.
+- (b) `economia-argentina/` es frágil (4 fuentes, 1 página, solapamiento natural con sociedad-argentina) — candidato a absorción si no acumula fuentes propias en próximos tramos (disparador 4.3).
+- (c) `sociedad-argentina/` vigilar umbral de ~30 fuentes (creció 11→22 en una pasada): candidato a división futuro (actualidad-política vs cultura-mediática).
+
+## Historial de reestructuraciones
 Reestructuración aprobada por el usuario (2026-11-11): `ia-uso-practico/` se dividió en 3
 (`ia-local/`, `agentes-de-codigo/`, `ia-uso-practico/` reducido); el bucket fantasma
 `raw/inteligencia-artificial/` se redistribuyó a los dominios de sus resúmenes; `general/` (vacío) se eliminó.
