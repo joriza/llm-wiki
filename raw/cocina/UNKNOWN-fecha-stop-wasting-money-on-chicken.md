@@ -1,0 +1,82 @@
+# UNKNOWN
+
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=Dw9vRSVUZgs)
+- **Canal**: UNKNOWN
+- **Publicado**: UNKNOWN
+- **Recopilado**: 2026-11-13
+- **Idioma**: en (subtítulos automáticos en (auto), transcripción literal)
+- **Duración**: 00:00
+
+> Transcripción a partir de los subtítulos automáticos del vídeo, sin normalizar; puede contener errores de reconocimiento. Las marcas de tiempo indican el inicio aproximado de cada bloque.
+
+---
+
+[00:00] For the same price as two boneless, skinless breasts, you can buy two breasts, two thighs, two drums, two tenders, four wings, and about four quarts or lers of chicken stock. Plus, after buying all of this, you'll still have $2.58 to spare. And all you need to save literally hundreds of dollars a year is the information that I put into this easy to follow YouTube video. In this video, I'm going to give you clear step-by-step instructions on how to break down a chicken. Then, I'll show
+
+[00:33] you everything you can make with the scraps to save even more money. And last of all, I'm going to give you nine recipes that you can make after your first whole bird breakdown. But first, I can already hear the keyboard warriors just tapping away. Of course, bone less, skin less, meat is more expensive.
+
+[00:53] You're paying per pound and not everyone has an hour to cut up a chicken before dinner. So, you're paying extra for the convenience. I before e except convenience. First off, I like the glasses. Thanks. Secondly, I did the math. I visited six grocery stores, put all the chicken prices into a spreadsheet, broke down dozens of chickens to find the simplest, most efficient method, and calculated all the savings with detailed graphs. Using a whole chicken will save you on average 56% over the individual
+
+[01:32] pieces. And even if you throw away the bones instead of using them to make homemade stock, breaking down a whole chicken yourself will still save you 34% on meat alone. Plus, the quality of that meat is going to be way better than the pre-cut stuff, which is sometimes full of tendons, membranes, and other connective tissue. Yeah, but I only use the breast and thighs anyway. Well, those are actually the most expensive pieces to buy separately. So, if you break down a whole chicken yourself and
+
+[01:58] throw away everything except for the breasts and thighs, your savings per pound are still going to be 22%. Plus, when you break down a whole chicken, you get breasts, thighs, and tenders. But if you buy tenders separately, then those are the most expensive part of a chicken. They're the literal tender loin or filet minan. Yeah, I do like chicken tenders. On the high end, Walmart had 52% savings from meat alone. And Kroger and Ralphs topped off the savings at 72% if you use the bones to make your own
+
+[02:30] stock. 72%. That's like even better than buy one get one free. Exactly. And it doesn't take an hour to break down a chicken. I'm not a professional chef and the first time it maybe took 5 to 10 minutes, but now I can break down a chicken in just a few minutes and have meat for weeks. If I'm being honest, it sounds like you're just being a chicken.
+
+[02:53] Fair. No comment. Well, not so fast. Leaving a positive comment can really help the video reach a wider audience. Touche. Touche. Thanks. Now that everyone's on the same page and ready to save some money, let's grab a whole chicken and I'll show you how to break it down. This can be done a couple different ways, but after lots of trial and error, this is the method that I find to be the easiest, safest, and most efficient. All you need is a knife, a fork, a paper towel, a small bowl, and
+
+[03:29] a stock pot for the scraps. Safety first. If you ever need to reposition the bird with two hands, just make sure that you wipe your knife hand clean of any grease before grabbing the knife so you have a nice clean, safe, firm grip. Quick anatomy lesson. These are the wings. These are the legs. These are the breasts, which makes this the back. If there are any giblets or organs or neckbones inside the chicken, make sure you take those out first and put them in your stockp for later. Starting
+
+[04:02] with the chicken on its back, if you pull the leg out a little bit, you can cut open the skin and see immediately where you need to cut first. Most of the cuts you're going to make for this process are through skin and fat. So, when in doubt, just peel back the skin so you can see what you're working with and slice along the fat line. For this first cut, you're going to slice along the fat line of the hip joint. Then, you can pop open the hip and with the very tip of your knife, just trim the little
+
+[04:27] ligaments connecting the two bones. These cuts aren't very deep here. The only goal is to separate the two bones of the joint. The next cut continues around the fat line up into the back of the chicken to remove these two little lumps of meat called the oysters.
+
+[04:42] Basically, these are like the love handles of the chicken. If you've ever scooped one of these out of a roasted chicken, then you know how incredibly tasty they are and how much we want to keep these on our legs. I'm just going to cut the skin back here and a little bit of muscle to show you that oyster muscle we're talking about. But when you're doing this on the other side, I'll show you. We just cut through the skin and the muscle all at once. The cut you're trying to make is you're trying
+
+[05:06] to slice right through the top where the oyster connects to the bone because that will release the rest of the oyster, which is kind of just floating within this socket of bone. And once there's no longer any meat to bone connection, then you can just grab the leg and pull the meat away in one smooth motion. I know that was fast, but we're going to do it all again on the other side. Chicken on the back. Slice open the skin. Slice along the fat line. Trim between the joint until the bones are completely
+
+[05:36] separated. Cut around and release the top of the oyster. Then pull all the meat away. So these are your two legs, two drums, two thighs. To separate the drum from the thigh, all you need to do is cut on the drum side of this fat line. Now, you may think I'm just making this easy by using a super expensive knife. I know, classic YouTuber telling you all the expensive things you need to buy in order to do something cheaply, but you don't need a specific bon knife to do this. You can
+
+[06:09] use just a normal steak knife. You just need to cut at the right place on the drum side of the fat line cuz you are cutting between the two bones. See, if your knife hits something hard, then you just need to reposition to find the gap.
+
+[06:26] For the thighs, you can keep the skin on or off. And to remove the bones, just use the tip of your knife to cut down each side of the bone. Poke a little hole behind the bone with your finger. And then use your knife to cut down one side. And repeat the process on the other side. This isn't an exact science here, so feel around for any hard pieces you might have missed, or trim away any fat or scraggly imperfections that you may not want. Add the bones and meat trimmings to your stockp and add any fat
+
+[06:56] or skin to your bowl for a special surprise recipe coming later. At this point, if you don't specifically need skin on chicken breast for another recipe, then I would just take it off and add that to your surprise recipe skin bowl so that you can see exactly where you need to cut next, which you guessed it is right along the fat line.
+
+[07:17] If you follow the fat line at the bottom of the breast, it will lead up to the shoulder. Then you can open up and trim the ligaments between the two bones just like you did at the hip joint. Once the shoulder's open, you can feel the wishbone right here. There's no separate oyster meat on this cut, but you can think about it the same way. You're just trying to separate the meat from the wishbone. So, slice from one end of the wishbone down to the other. And just like the legs, once you're done, you can
+
+[07:42] just give the whole breast a pull, and everything comes off in one big piece. Then, just slice between the breast and a wing. Hopefully, you're beginning to see a bit of a pattern here. Breaking down a chicken is basically the same four cuts done on each appendage. Cut along the fat line. Trim between the joint, release the meat from the bone, and pull all the meat away. Now, with this chicken, a little piece of breast bone came off with this second breast.
+
+[08:12] And that's just something that may happen because every chicken is going to be different. So, if you're breaking down a chicken and something happens that didn't happen in my video, just adapt. And if it's a piece that you don't want to eat, then just trim it off and add it to your stock. Then just go back to where you were and keep breaking down the chicken according to your plan.
+
+[08:31] You can cook the wings just like this. But if you want to make a buffalo wing, then you just have to stand the wing up like a V and slice vertically through the little gap at the elbow and the gap at the wrist. The key here is that you never need to cut through any of the bones. So if your knife doesn't get through easily, just try moving it a little up or down the wing till you find the gap. The two wing tips can go straight into your stock. And then you have two flats that are great for
+
+[08:55] delicious chicken wings. And two drums that you can give to your friends with low standards and low self-esteem. With only four wings per bird, it does make sense to do this a couple of times and just store these in the freezer until you've got a batch of wings that's big enough to be worth your while. Now, the only thing left is, you guessed it, the filt minan just sitting there taunting you with its tender loins.
+
+[09:19] There isn't a fat line to follow for this cut, but at this point, you can see everything pretty clearly. So, just slice on the bottom against the rib cage to separate the tender from the rib cage. Then, you're only going to cut a little bit up the back. I learned this trick from a Yakuri guy video and it's super awesome because if you only cut halfway up the back, then you can use this little tendon in front as a grip, grab it with a paper towel, and pull the whole tender down and away, leaving just
+
+[09:48] the membrane attached to the bones. >> Let's see that in an instant replay. >> You slice the full length on the bottom and then just partially up the back. Separate the tender off the ribs with your finger. Then grab it with a paper towel and pull down and back. Pretty cool, right? But you don't want to eat that stringy tendon. So with a firm grip on the tendon, just slide it through the prongs of a fork and pull back to remove it.
+
+[10:21] Once again, just grab the tendon with a paper towel. Put it between the prongs of a fork. And then when you pull back, you're left with a tendon or your stock and two tendonless chicken tenders. Flet two drums, two thighs, four chicken wings, two breasts, and a bunch of bones for chicken stock. Now, if you're breaking down a chicken for the first time, you're probably going to mess up a little bit. So, just take your time and remember that every other chicken is basically free. If you're still too
+
+[10:58] intimidated and want to start with some training wheels, I would highly recommend practicing with a roasted chicken. It's going to be cheaper than raw chicken for some strange reason. Plus, it's a lot easier to separate the meat along the natural divisions and study the overall anatomy of a bird. But even in the worst case scenario with raw chicken, any meat that's left on the bones is still not going to go to waste because you're going to use it for added nutrients and flavor in your chicken
+
+[11:25] stock. You paid for all of this. So stop throwing out cash, kiddo. There's a reason that chicken noodle soup, kanji, shora, pastina, and all the other getwell soon dishes around the world all use homemade stock. A homemade chicken stock with the vitamins, minerals, and collagen that you get from bones is super healthy. And the high quality stocks at the grocery store have the price tags to prove it. So, if you really want to save money in the kitchen and eat better, healthier tasting food,
+
+[11:55] there is no better way than with homemade chicken stock. I just want to pause and reflect on this one key takeaway from this video because we talk a lot about saving money in this video, but for me personally, the key takeaway is this. Changing from box stock to homemade stock will change your life in more ways than money alone. It's going to taste better. It's going to be a much higher quality and it's going to be healthier for you. So, if there's one thing that you take away from this
+
+[12:23] video, I hope that it's changing from box stock to homemade stock. Because making that choice is the hard part. Once you've made that choice, the recipe is super easy. You throw all the chicken parts into a pot with some vegetable scraps. These are any stems, leaves, roots, or skins that you might have left over from your veggies. Then cover everything with water and simmer for 3 to four hours.
+
+[12:46] Strain out the solids and that's it. Homemade chicken stock. You can salt to taste or simmer with herbs and spices if you know what you're going to use it for. But I prefer to keep it neutral, which is to say just a base for any dish that I want to use it for. Then I'll add spices later depending on that final dish. A couple bonus tips for a clearer stock. If you develop any foam on the top in the first 30 minutes or so, just skim that off with a spoon or skimmer.
+
+[13:13] Those are impurities, which are basically just proteins and fats. It's not bad for you, and it doesn't really affect the flavor if you skip this, but you'll end up with a more clear product if you do it. But if your goal is a perfectly clear stock, then you'll also want to make sure to keep everything at a low simmer. Don't use a lid to aggressively boil the stock because the bubbles and agitation from boiling will emulsify some of the fat and your stock will end up a little cloudy. But once
+
+[13:40] again, this isn't a health or flavor thing, just looks. For different flavors of stock, you can roast the chicken bones at 400F or 200C for 20 minutes beforehand and make what's called a brown stock, which has a deeper, richer flavor. And if you save the scraps from your brown or neutral stock and simmer them for another 3 to four hours, then you can make what's known as a homoage, which has a lighter flavor. And all of these, neutral stock, brown stock, and homoage, can all be stored in glass jars
+
+[14:10] while hot and kept safely in the pantry or cooled down and kept in the freezer for months. And having homemade chicken stock on hand will improve your cooking more than any recipe I can give you. Which reminds me, what can you make with all your chicken pieces, your homemade stock, and your schmaltz? Oh, surprise.
+
+[14:30] See, I told you it would be a surprise. That's right. When you buy a whole chicken, you're not just saving money on meat and getting homemade stock. You also get schmaltz, which is basically chicken butter made by heating the skin and fat scraps low and slow until they're brown and crispy. You can make this every time you break down a chicken or just collect scraps in the freezer for months and make a big batch all at once. You can use the crispy chicken skin from schmaltz as a garnish. And
+
+[14:56] once strained and once strained, the the schmaltz is shelf stable for months. And once strained, the schmaltz is fridge stable for months. And you can use it to add flavor to anything that needs oil, like frying the aromatics for a risoto made with your homemade chicken stock. A chicken adobo made with your drumsticks. Chicken parm with one breast. Chicken pot pie with the other.
+
+[15:21] Roasted chicken with skin on thighs. A hot chicken sandwich with boneless skinless thighs. Fried chicken tenders with the tenders. Roasted teriyak wings with the wings. And a hearty bowl of chicken noodle soup with any leftover meat that you just don't know what to do with. I put all the links to these recipes and a complete grocery list down in the description. And I'm going to make full video recipes over on my shorts feed. So, don't be a chicken and subscribe.
