@@ -1576,3 +1576,7 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-002 — Kirchhoff, mallas (LihRPe0zkGI)
 
 - **FAV-002** (LihRPe0zkGI, El profe García, 2016-02-17, 12:03): análisis de mallas con Kirchhoff+Ohm — signos por sentido de corriente, resistencia compartida R·(i1−i2), sistema 2×2 por eliminación, i1=500 mA / i2=250 mA, signo negativo = sentido real inverso. **Primera fuente del dominio** `electronica-practica/`. Tema-candidato: leyes-de-kirchhoff (1/2). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2016-02-17-analisis-de-mallas-con-kirchhoff-y-ohm.md` — resumen `wiki/electronica-practica/resumen-FAV-002-analisis-de-mallas-con-kirchhoff-y-ohm.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-003 — detector de luz (4jUeKtnwzrs)
+
+- **FAV-003** (4jUeKtnwzrs, El profe García, 2012-12-12, 02:59, subs manuales es-419): montaje en protoboard de detector de ausencia de luz — divisor 100KΩ+LDR → base de NPN 2N2222A (vía 1KΩ), LED+500Ω en colector; al oscurecer el transistor conduce y enciende el LED = fotocélula de alumbrado público. Tema-candidato: ldr-fotorresistencia (1/2, sube con FAV-004). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2012-12-12-montaje-detector-de-luz.md` — resumen `wiki/electronica-practica/resumen-FAV-003-montaje-detector-de-luz.md`.
