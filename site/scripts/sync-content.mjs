@@ -111,7 +111,7 @@ function buildIndex() {
   for (const d of rows) {
     const n = counts[d.folder] ?? 0
     const scope = d.scope.replace(/\[\[|\]\]/g, "")
-    lines.push(`- **[[${d.folder}/${d.folder}|${d.folder}]]** (${n} página${n === 1 ? "" : "s"}) — ${scope}`)
+    lines.push(`- **[${d.folder}](./${d.folder})** (${n} página${n === 1 ? "" : "s"}) — ${scope}`)
   }
   lines.push("")
   fs.writeFileSync(path.join(CONTENT, "index.md"), lines.join("\n"), "utf8")
