@@ -37,7 +37,7 @@ jobs:
         run: node scripts/sync-content.mjs
         working-directory: site
       - name: Build de Quartz
-        run: node node_modules/.bin/quartz build
+        run: node quartz/bootstrap-cli.mjs build
         working-directory: site
       - name: Auditoría anti-fuga (raw/, log.md, .atl/, odd/)
         run: node scripts/sync-content.mjs audit public
