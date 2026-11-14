@@ -1,0 +1,32 @@
+# Resumen: Predijo el futuro, pero no la bala — la historia de Julio Verne
+
+- **Fuente original**: `raw/wl/2026-11-03-predijo-el-futuro-pero-no-la-bala-la-historia-de-julio-verne.md` (WL-37, tramo 3)
+- **URL**: https://www.youtube.com/watch?v=tbcvf02TWi4
+- **Canal**: Forjadores
+- **Publicado**: 2026-11-03 · **Duración**: 44:36 · **Idioma**: es (subtítulos automáticos, transcripción literal)
+
+## El arco narrativo
+
+Biografía documental cerrada por dos escenas espejo: el disparo de 1886 (su sobrino Gastón le dispara dos veces en la verja de su casa de Amiens; la bala de la pierna izquierda jamás se extrae — «predijo el futuro, pero no la bala») y la caja fuerte de 1989 donde su bisnieto encuentra el manuscrito enterrado 126 años (*París en el siglo XX*, publicado en 1994). Coordenadas actuales del guion: en abril de 2026 una cápsula despegó de Florida, rodeó la Luna y amerizó en el Pacífico — «tal cual» la trama de *De la Tierra a la Luna* (1865).
+
+## La vida (lo verificable del documental)
+
+- **Origen y leyendas**: Nantes, 1828, hijo mayor de un abogado que quería un sucesor del despacho; la anécdota del grumete de 11 años y la promesa «solo viajaré en sueños» está **expuesta como leyenda familiar** (la inventó/adornó su sobrina-biógrafa) — el documental sistematicamente desmonta los mitos verneanos, incluida la del manuscrito rescatado del fuego por Honorine y la del globo de Nadar como inspiración de *Cinco semanas en globo* (voló 9 meses *después* de publicado el libro).
+- **París, amor y hambre**: dos enamoramientos fallidos (Carolina, Herminie — casadas ambas con ricos mayores; sus novelas quedarían pobladas de muchachas casadas por fuerza); la parálisis facial de 1851 (otitis media según médicos actuales); la carta de 1852 rechazando el despacho paterno; la influencia de Jacques Arago (explorador ciego) y el giro del «relato de viaje»; los años en la bolsa de París manteniendo a su familia; 20.000 notas de lectura conservadas 40 años.
+- **Hetzel, el editor-hacedor**: rechaza su libro de viajes y rescata *Un viaje por los aires* con la consigna fundacional del género — «que el lector aprenda algo en cada página sin sentir que le dan una lección»; contrato de 2-3 libros/año por 40 años; exiliado por Luis Napoleón, editor secreto de Hugo; pseudónimo infantil P.-J. Stahl. Muere el 17/3/1887, ocho días después del disparo a Verne, sin que Verne pueda estar a su lado.
+- **Las profecías acertadas**: *De la Tierra a la Luna* — velocidad de escape calculada con su primo Henri Garcet (11 km/s, casi exacta), cañón entre el ecuador y el paralelo 28 → **Florida**, cápsula de aluminio, splashdown en el Pacífico, tres tripulantes; Armstrong lo cita en la transmisión de regreso del Apolo 11 (23/7/1969; módulo *Columbia* vs cañón *Columbiad*). Desmontaje de las coincidencias falsas: la cápsula de Verne **nunca aluniza**, y el detalle mortal que el guion subraya — disparar humanos a 11 km/s desde un cañón los habría aplastado (el cañón debió ser muchísimo más largo).
+- **La censura de Nemo**: en la primera versión el capitán era un polaco noble masacrado por los rusos (levantiamento de 1863); Hetzel lo vetó por el mercado ruso — «el capitán más famoso de la literatura nació censurado».
+- **La herida de la Academia**: rechazado en 1876, 1883 y 1884; su frase de 1869 — «quien no tiene gran fortuna o gran posición política no tiene ninguna posibilidad» — se vuelve trágica cuando su hermano Paul explica el disparo de Gastón: el joven enfermo quería «llamar la atención sobre su tío» para que la Academia lo admitiera. Gastón pasó 52 años internado (hasta 1938). En su funeral de 1905 (5.000 personas, enviado del káiser Guillermo II) **el gobierno francés no envió a nadie**.
+- **El otoño**: tras el disparo y la muerte de madre (1887), renuncia a viajar («viajar era el placer de mi vida»); concejal de Amiens 16 años (oficial de la Legión de Honor por su labor municipal, no literaria); recibe a **Nellie Bly** en el andén (1889) — la periodista del New York World que batió el récord de Fogg (72 días vs 80); «el gran pesar de mi vida es no haber ocupado nunca un lugar en la literatura francesa»; pleito del químico Turpin (demanda por difamación por *Frente a la bandera*; su abogado el joven Raymond Poincaré, futuro presidente); colaboración tardía con Michel (que publicó bajo el nombre del padre reescrituras como *París en 2889*); vs H. G. Wells: «yo me sirvo de la física, él inventa»; muerte en 1905 a los 77, con las últimas novelas oscuras (inventores que ya no exploran: dominan).
+- **La profecía mayor**: *París en el siglo XX* (escrita ~1863, vetada por Hetzel: «periodismo barato… nadie creerá hoy en sus profecías») — un París 1960 de autos, luz eléctrica y máquinas de calcular donde el arte y la poesía no valen nada; «no las máquinas, nosotros» como lectura final del guion. La frase célebre atribuida («todo lo que un hombre es capaz de imaginar…») **no la escribió Verne** — el documental tiene razón en señalarlo.
+- **Verne como método**: agente de bolsa sin un solo experimento — su laboratorio era el papel: revistas, informes, la Sociedad de Geografía, diccionarios («tuve la suerte de nacer cuando había diccionarios sobre todo»), notas y un primo matemático.
+
+## Notas críticas
+
+- **El documental más riguroso del nicho biográfico procesado**: fechas consistentes, mitos verneanos desmontados con fuentes (sobrina-biógrafa, Nadar), distinción entre coincidencias reales y fabricadas, y honestidad sobre lo incierto (edad de Gastón, sitio exacto de la bala). Riesgo: dramatización de puntuación emocional («la frase más triste»), inevitable del formato.
+- Detalles a verificar si se cita: la «cápsula de abril 2026» (evento contemporáneo del guion, fuera de la cobertura de la wiki — declarado como referencia del emisor); el nombre del abogado como «Remon Poincaré» (ASR de *Raymond*); «isla Feidó» (ASR de la *Île Feydeau*).
+
+## Cruces
+
+- **Dominio destino previsto: `general/`** (biografía/literatura — sin dominio propio de humanidades; primera fuente biográfica no-tecnológica de este tipo desde la bio de Jensen Huang, que sí fue historia-informatica).
+- Tema-candidato a página de concepto en consolidación: **la relación ciencia-ficción ↔ ingeniería real** (Verne→Apolo; el «método Verne» de documentación como técnica de predicción) — conecta con el clúster de divulgación científica WL-35 y con la serie «Forjadores» (canal de biografías «mentes que cambiaron el mundo»).
