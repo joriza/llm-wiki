@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f29d4081cca8e6e0",
+        "id": "b34dedf38c6bf939",
         "type": "tabs",
         "children": [
           {
-            "id": "2129487712d773bb",
+            "id": "12c81cc59921fbdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/dominios.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "dominios"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -83,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 459.5
   },
   "right": {
     "id": "c681dca326d4d3ad",
@@ -188,43 +184,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2129487712d773bb",
+  "active": "12c81cc59921fbdc",
   "lastOpenFiles": [
-    "wiki/agentes-de-codigo/resumen-hoy-te-presento-odd-mi-metodologia-para-eliminar-la-burocracia-de-la-ia.md",
-    "wiki/agentes-de-codigo/resumen-herdr-es-increible-aprendelo-gratis-certificado-holamundo.md",
-    "wiki/agentes-de-codigo/resumen-despedi-editor-contrate-claude-code-santiago-munoz.md",
-    "wiki/ia-local/resumen-free-32gb-vram-server-running-ai-models-locally.md",
-    "wiki/ia-local/resumen-la-ia-local-ahora-corre-6-veces-mas-rapido-en-tu-pc.md",
-    "wiki/ia-local/resumen-1-58-bits-llms-podrian-ser-mejores-pero-nadie-quiere-usarlos.md",
-    "wiki/ia-local/resumen-ia-local-ahora-va-6x-mas-rapida-en-tu-pc-normal.md",
-    "wiki/ia-local/resumen-frognano-4b-es-realmente-mejor-que-qwen-3-5-original.md",
-    "wiki/agentes-de-codigo/resumen-minagent-mi-agente-desarrollo-como-crear-agente-ia-simple.md",
-    "wiki/agentes-de-codigo/resumen-minagent-mejor-agente-ia-gratis-guia-instalacion-uso.md",
-    "wiki/ia-local/resumen-me-equivoque-con-ornith-9b-comparativa-rendimiento-calidad.md",
-    "wiki/ia-local/resumen-mac-studio-vs-amd-ai-pc-no-compres-sin-antes-ver.md",
-    "wiki/ia-local/resumen-no-compres-hardware-para-ia-local-hasta-que-veas-esto.md",
-    "wiki/ia-local/resumen-mejor-que-gpt-6-automatiza-con-modelos-locales-en-python.md",
-    "wiki/ia-local/resumen-como-hacer-que-un-llm-local-atienda-a-cientos-de-usuarios.md",
-    "wiki/ia-local/resumen-asi-corregi-qwen-3-5-2b-la-solucion-a-las-repeticiones-sin-fine-tuning.md",
-    "wiki/agentes-de-codigo/resumen-programacion-real-con-ia-local-guia-paso-a-paso-desde-cero-con-pi-agent.md",
-    "wiki/ia-local/resumen-mac-studio-vs-200-al-mes-en-ia-cual-merece-mas-la-pena.md",
-    "wiki/ia-local/resumen-modelos-de-lenguaje-en-cpu-como-ejecutarlos-con-llama-cpp-sin-una-gpu.md",
-    "wiki/ia-local/resumen-827-no-necesitas-una-gpu-de-3000-para-ia-local.md",
-    "wiki/ia-local/resumen-ling3-0-tiny-vs-lfm-2-5-8b-a1b-cual-es-el-mejor-modelo-de-ia-pequeno.md",
-    "wiki/ia-local/resumen-cree-un-modelo-moe-0-1b-ultra-rapido-incluso-en-cpu.md",
-    "wiki/ia-local/resumen-gpu-40gb-como-usar-tu-gpu-integrada-para-ia-con-llama-cpp.md",
-    "wiki/ia-local/resumen-test-modelos-muy-pequenos-2b-hasta-donde-pueden-llegar-con-ia.md",
-    "wiki/ia-local/resumen-reto-modelos-2b-como-sacar-el-maximo-provecho-con-ia-local.md",
-    "wiki/agentes-de-codigo/resumen-opencode-con-modelos-muy-pequenos-como-usarlos-localmente-con-llama-cpp.md",
-    "raw/ia-media-generativa",
-    "raw/ia-critica-y-fronteras",
-    "raw/agentes-de-codigo",
-    "raw/ia-local",
-    "wiki/agentes-de-codigo",
-    "wiki/ia-local",
-    "raw/ia-uso-practico",
-    "raw/python-practico",
-    "wiki/python-practico",
-    "odd/tasks"
+    "raw/wl/tramo-4/2026-11-12-qwen-4-27b-el-nuevo-rey-de-la-ia-local.md",
+    "wiki/wl/tramo-4/resumen-WL060-resumen-qwen-4-27b-rey-ia-local.md",
+    "raw/wl/tramo-4/2026-11-12-craft-anything-acabo-con-todo-copia-cualquier-app-facil-y-gratis.md",
+    "wiki/wl/tramo-4/resumen-WL059-resumen-craft-anything-recrea-apps.md",
+    "raw/wl/tramo-4/2026-11-12-848-artcraft-haz-que-la-ia-trabaje-por-ti.md",
+    "wiki/wl/resumen-t3-code-ade-comparativa.md",
+    "wiki/wl/tramo-4/resumen-WL058-resumen-artcraft-ofimatica-agentica.md",
+    "raw/wl/tramo-4/2026-11-12-el-papa-leon-xiv-los-dejo-en-evidencia-el-escandalo-vip-que-averguenza-a-la-arge.md",
+    "wiki/wl/tramo-4/resumen-WL057-resumen-leon-xiv-visita-argentina-carpa-vip.md",
+    "raw/wl/tramo-4/2026-11-11-probe-t3-code-es-mejor-que-herder-y-orca.md",
+    "wiki/wl/tramo-4/resumen-WL056-resumen-t3-code-ade-comparativa.md",
+    "raw/wl/tramo-4/2026-11-12-este-nuevo-lenguaje-acaba-de-superar-a-c.md",
+    "wiki/wl/tramo-4/resumen-WL055-resumen-gus-lenguaje-sin-heap.md",
+    "raw/wl/tramo-4/2026-11-06-cientificos-midieron-algo-impresionante-del-futbol-de-pele-maradona-y-messi.md",
+    "wiki/wl/tramo-4/resumen-WL054-resumen-pele-maradona-messi-tiempo-de-juego.md",
+    "raw/wl/tramo-4/2026-11-12-15-usos-extremos-de-la-ia-que-cambiaran-tu-vida-en-2027.md",
+    "wiki/wl/tramo-4/resumen-WL053-resumen-15-usos-extremos-ia-2027.md",
+    "raw/wl/tramo-4/2026-11-12-trabajaba-14-horas-por-dia-y-termine-en-el-hospital-que-cambio.md",
+    "wiki/wl/tramo-4/resumen-WL052-resumen-14-horas-dia-hospital-que-cambio.md",
+    "raw/wl/tramo-4/2026-11-09-tu-agente-no-deberia-recibir-recuerdos-deberia-navegarlos-napmem-alibaba.md",
+    "wiki/wl/tramo-4/resumen-WL051-resumen-napmem-memoria-agentes-alibaba.md",
+    "raw/wl/tramo-4/2026-11-04-por-que-movistar-se-va-de-argentina.md",
+    "wiki/wl/tramo-4/resumen-WL050-resumen-movistar-se-va-de-argentina.md",
+    "raw/wl/tramo-4/2026-11-08-que-le-pasa-a-una-tarantula-si-tapas-su-madriguera.md",
+    "wiki/wl/tramo-4/resumen-WL049-resumen-tarantula-madriguera-tapada.md",
+    "raw/wl/tramo-4/2026-10-26-los-servicios-son-el-nuevo-software-la-tesis-de-sequoia-sobre-copilotos-y-piloto.md",
+    "raw/wl/tramo-4",
+    "raw/wl/tramo-3",
+    "wiki/wl/tramo-4",
+    "wiki/wl/tramo-3",
+    "raw/wl",
+    "raw/salud-fitness",
+    "wiki/salud-fitness",
+    "sedgd3BKu",
+    "sedcYooKi",
+    "wiki/sociedad-argentina/sedoUOAP6"
   ]
 }
