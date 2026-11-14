@@ -36,7 +36,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(), — desactivado 2026-11-14: grafo canvas animado congelaba la iGPU AMD del usuario (Kernel-Power 41 x2)
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
