@@ -1,6 +1,15 @@
 # es un documento borrador del autor, no debe tomarse en cuenta.
 
-Refresque la lista WL. Deme listado actualizado de los items procesados para curar la lista WL. Realice consolidacion demorada. Pushee a remoto y cierre acá.
+Refresque la lista WL. 
+Deme listado actualizado de los items procesados para curar la lista WL. 
+Realice consolidacion demorada. 
+Pushee a remoto y cierre acá.
+
+
+He cerrado el navegador.
+Realice copia de seguridad de favoritos.
+Elimine marcadores procesados con exito.
+
 
 he limpiado la wiki manualmente para comenzar de cero.
 
@@ -57,3 +66,12 @@ y no mezclar consolidaciones o repetir procesos de ingestas en videos ya procesa
 o quitar o consolidar puntualmente videos de "ver mas tarde"
 
 ---
+Procese las  carpetas Electricidad Basica Teorica y Electronica Basica en una sola pasada
+
+---
+
+De la carpeta Gral procese el contenidos y las subcarpetas de:
+Proxmox
+Python
+y Nichobauta
+Procese todos los marcadores que le sean posible, además de los video de youtube.
