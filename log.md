@@ -1674,3 +1674,15 @@ Registro cronológico de solo adición.
 ## [2026-11-14] ingesta favoritos | FAV-314 — amplificador de audio casero LM386 (aMgSYiiJ0rY)
 
 - **FAV-314** (aMgSYiiJ0rY, Ideatronic, 2018-03-20, 04:50): mini amplificador LM386 punto a punto — pin 2 a tierra/potenciómetro, pin 3 al cursor, salida pin 5 con acoplo de 100 µF al parlante, alimentación 5–12 V (batería 9 V); prueba con celular, suena alto con algo de distorsión. ASR: «patika»=patilla; el autor llama «operacional» al LM386 (amplificador de potencia). **Cuarta voz de la entidad Ideatronic**. — Dominio: electronica-practica/ — raw `raw/electronica-practica/2018-03-20-amplificador-audio-casero-ideatronic.md` — resumen `wiki/electronica-practica/resumen-FAV-314-amplificador-audio-casero-ideatronic.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-320 — diseñar placa PCB con EasyEDA (LpYEEx2quZI)
+
+- **FAV-320** (LpYEEx2quZI, TodoElectronica21, 2016-06-15, 12:54): EasyEDA (nube, multiplataforma) con mini amplificador LM386 — esquemático con búsqueda de librería, conversión a PCB con tamaño automático, autorouter multicapa (pista 22 mil), retoque manual, áreas de cobre top/bottom, capa silk, vista 3D, Gerber (6 archivos) o pedido directo (100 de 1 capa ≈ 18 céntimos/ud). ASR: «AC eda»=EasyEDA, «top skill layer»=top silk layer, «kerber»=Gerber. 4ª/5ª voz de diseño-pcb-herramientas. — Dominio: electronica-practica/ — raw `raw/electronica-practica/2016-06-15-diseno-placa-pcb-easyeda.md` — resumen `wiki/electronica-practica/resumen-FAV-320-diseno-placa-pcb-easyeda.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-321 — crear circuitos impresos con EasyEDA (ttUVIRd8Lsg)
+
+- **FAV-321** (ttUVIRd8Lsg, Kriss Electronics, 2017-07-02, 11:31): EasyEDA con oscilador astable BC547+2 LEDs — esquemático (grilla, rotación, edición de valores), conversión a PCB, capas, redimensionado del board, pads, pistas manuales a 40 mil en bottom, silk, y botón Fabrication para pedido a fábrica (capas, cantidad mín. 5, colores, cobre 1 oz = 35 µm, precio en vivo); consejo: copias locales de los proyectos en la nube. ASR: «isic de edad/silleda»=EasyEDA, «psb/psdb»=PCB. Umbral diseño-pcb-herramientas consolidado (5 voces: KiCad, LiveWire/PCB Wizard ×2, EasyEDA ×2). — Dominio: electronica-practica/ — raw `raw/electronica-practica/2017-07-02-crear-circuitos-impresos-easyeda.md` — resumen `wiki/electronica-practica/resumen-FAV-321-crear-circuitos-impresos-easyeda.md`.
+
+## [2026-11-14] ingesta favoritos | FAV-322 — no procesable: VIDEO PRIVADO (4Y3N1ogx9fY)
+
+- **FAV-322** (4Y3N1ogx9fY, «¿Qué es EasyEDA? ¿Es buena herramienta?»): **VIDEO PRIVADO** (meta-fail ×2 — youtube-transcript-api «This video is private» + yt-dlp «all clients failed»). Se trata como los FAV-309/310/311 según T2.5-bis: IGNORAR, **eliminación silenciosa** del bookmark en la limpieza de cierre de ventana (decisión del usuario aplicable a los privados de esta carpeta). Sin ingesta.

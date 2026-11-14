@@ -1,0 +1,52 @@
+# Como diseñar placa PCB en PC - EasyEDA gratis
+
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=LpYEEx2quZI)
+- **Canal**: TodoElectronica21
+- **Publicado**: 2016-06-15
+- **Recopilado**: 2026-11-14
+- **Idioma**: es (subtítulos automáticos es (auto), transcripción literal)
+- **Duración**: 12:54
+
+> Transcripción a partir de los subtítulos automáticos del vídeo, sin normalizar; puede contener errores de reconocimiento. Las marcas de tiempo indican el inicio aproximado de cada bloque.
+
+---
+
+[00:00] Hola a todos Qué tal Cómo estáis Bienvenidos a este nuevo vídeo en el que vamos a enseñar Cómo podemos diseñar con el ordenador plaquitas pcb como estas vamos a la web de AC eda aca.com Bars os dejo el enlace en la descripción del vídeo y como vemos es un programa multiplataforma vamos a poder trabajar con él en Mac Linux Windows y Android cosa que está muy bien Vamos a poder dibujar esquemáticos rápidamente verificar circuitos analógicos y digitales con un simulador vamos a poder diseñar pcbs
+
+[00:46] incluso multicapa y además vamos a poder importar diseños desde Eagle altium Kat y Lt Spice además también podemos desarrollar colaborativamente Pues con amigos y colegas En la nube podemos desarrollar Open Hardware y por último podemos compartir diseño fácilmente con la comunidad además aquí bajo a la derecha tenemos disponible un chat por si queremos lanzar alguna consulta cuando ya estemos logueados dentro de la web bueno para loguearse es muy sencillo simplemente venís aquí arriba venís a
+
+[01:19] login metéis un username un password y un email válido pinchara en registrar y automáticamente estaríais dentro pinchara en New project New schematic y lo que haríamos es ir sacando componentes de la de la barra izquierda hacia el campo de trabajo esto lo vamos a hacer muy rápido porque haremos más vídeos explicando mejor cómo se hace y nos vamos a centrar sobre todo en lo que es el diseño pcb del circuito aquí a la izquierda veis que tenéis una serie de componentes que son los que hemos utilizado pues para sacar
+
+[01:53] aquí en el circuito Pero además hay otros que aquí no están Pero bueno no preocuparos porque hay muchísimas librerías por ejemplo aquí podemos Buscar lm386 que así es como lo he encontrado yo pinchamos en enter y ya tenemos aquí nuestro circuito simplemente sería pinchar en Place y podríamos colocarlo una vez finalizado nuestro esquemático Pues nos podemos venir aquí y podemos guardarlo como un módulo por ejemplo mini amplificador vamos y ahí vemos que ha terminado y ahora una vez guardado lo que podemos
+
+[02:36] hacer es exportarlo podemos exportarlo en tres formatos PDF imagen o svg yo recomiendo que lo hagáis en PDF o en todo caso en svg porque en formato imagen nos va a salir de buena calidad bueno exportamos en PDF Y como veis aquí tendríamos nuestro circuito pues para si lo queremos compartir en un blog o por internet lo que queráis pues Lo tendríamos ahí bueno y antes de de crear nuestro proyecto con la pcb que sería desde este botoncito de aquí lo que vamos a hacer es eliminar
+
+[03:12] los pads porque si no nos va a dar un error porque no sab representar esos pads cuando nosotros lo pasemos Vale entonces Bueno lo hemos pinchamos aquí y directamente se nos Abre esta ventanita con los componentes que nosotros hemos diseñado y además nos Calcula un tamaño de placa aproximado en función de los componentes que nosotros hemos diseñado la verdad es que está pues genial entonces simplemente cogemos arrastramos nuestros componentes dentro de la placa más o menos con idea para que
+
+[03:45] luego enrutar no sea muy difícil colocarías el altavoz aquí y luego nos harían falta los pads para lo que es el Jack de sonido y la alimentación por tanto nos vendríamos colocarías uno aquí otro aquí que podría ser la alimentación otro aquí y otro aquí donde irían los los cables de del Jack y bueno y ahora vamos a a meter texto simplemente pinchamos y arrastramos y aquí lo que vamos a hacer con doble clic es ponerle un más que lo vamos a colocar aquí para que no nos equivoquemos esto se imprimirá en
+
+[04:25] la seg grafía del circuito lo pegamos entramos lo sustituimos por un menos salimos copiamos pegamos copiamos y pegamos y ahora vamos a poner aquí bajo por ejemplo con control c y control V lo mismo pero cambiándole por una s para que sepamos que ahí nos va a venir el sonido tenemos otra opción muy chula que es que si estamos aquí en la camarita podemos ver cómo cómo está nuestra placa Cómo se va a quedar como veis te lo muestra de forma muy chula y luego podemos volver a esta pestañita bueno
+
+[05:11] Cómo podemos rotear pues podemos rotear de dos maneras podemos rotear a mano con esta opción o podemos rotear con el autor Root que es una cosa mágica que no sé si la conocéis Pero bueno Nos vamos aquí arriba a la derecha Mel y autorouter y aquí tenemos varias opciones yo le voy a colocar aquí la anchura de pista 22 y otra importante pues es las capas de enrutamiento podemos decirle que solo por arriba por por abajo o all que es que que te en rute pistas tanto por la parte de arriba de la placa como por la
+
+[05:52] parte de abajo entonces bueno nosotros vamos a decirle que nos en rute por ambas capas y y le damos a r a ver lo que tarda OK Bueno ha tardado unos 5 segundos teniendo en cuenta que este circuito no es muy grande Pues bueno no está mal también pensar que es online vale todo el procesamiento es online Bueno vamos a arlar un poquito Las pistas que no nos gusten Cómo están o por dónde pasan como veis las podemos mover esta la voy a separar un poquito más de los pads por lo que pueda pasar y
+
+[06:33] bueno lo demás está bien qué nos quedaría pues unir a mano las patas con las entrada de sonido y con la entrada de voltaje último vamos a conectar la entrada de sonido llevándonos la pista negativa por la cara de abajo la boton y usamos clic derecho para quitarnos la opción de pista marcamos top layer y volvemos a marcar la pista para que vaya por la capa de arriba y ahora sí para que no interfiera con este con la serigrafía nos vamos por arriba y hasta aquí y ahora sí tendríamos nuestro
+
+[07:26] circuito Vale ahora sí que estaría finalizado que no he mostrado Cómo se pasan componentes de lo que es la capa de cobre a la capa de serigrafía Es decir para que sean pintura o cobre en el circuito los elementos que queramos que sean pintura pues simplemente los tenemos que seleccionar con control vale todo esto imaginaros que lo quisiera cambiar a la capa de arriba para que apareciese como cobre y el circuito me viniese fabricado como cobre lo selecciono todo me voy a la derecha y le
+
+[07:59] digo top Player cuando pincho en el fondo como veis se ha pasado la capa de cobre Y si yo me voy a la imagen Esto me vendría en el circuito como una parte de cobre Pero yo lo que quiero es que me venga serigrafiado es decir pintado en el circuito pues simplemente lo selecciono todo me voy aquí a la derecha y le digo top skill layer vale Y esto me va a venir pintado al igual que todo lo coloreado en amarillo en esta placa tanto todo electrónica 21 como los más y los menos el altavoz el dibujo del
+
+[08:34] condensador etcétera etcétera Bueno he añadido aquí la marca de todo electrónica 21 y además he colocado el más y el menos en el altavoz y ahora sí que veis cómo quedaría finalmente el circuito como veis queda muy chulo una vez esté guardado vamos a poder por ejemplo exportarlo como un PDF vale Ahí Lo tendríamos una cosa muy interesante también que podemos hacer hacer es colocar con este icono de aquí áreas de cobre Cooper áreas vale simplemente tenemos que seleccionar y esto lo que nos va a hacer
+
+[09:12] es crear una capa de cobre es decir aprovechar el cobre que tiene la placa y de esta forma pues conseguimos que el circuito se nos quede pues más profesional Si queremos también poner una capa de cobre en la bottom layer es decir en la cara de abajo seleccionamos la bottom layer quitamos la visualización de la top layer para ver solo la parte de abajo y nos iríamos Igualmente teniendo seleccionado aquí la botton layer nos iríamos aquí y seleccionaríamos la superficie a cubrir
+
+[09:49] con el área de cobre y como veis automáticamente se nos quedaría así si seleccionamos la top layer también para que se vea todo finalmente este el circuito terminado Pues de forma bastante profesional y decente Por qué no finalmente así quedaría este sería el circuito que si nosotros pedimos nos vendría antes de que me preguntéis si se puede poner en español Nos vamos aquí a la esquina superior derecha y en user Language Tenemos muchos idiomas aquí tendríamos el español vamos a generar
+
+[10:26] Los ficheros los cuales os podéis Descargar pues para luego imprimir la placa en vuestra casa y haceros el circuito en casa pero también lo mejor de este programa diría yo es que podemos pedir los circuitos y que nos los traigan a casa hecho entonces para que os hagáis una idea esta placa que acabo de hacer de dos capas cinco unidades nos saldrían por 9,3 imaginaros que quiero pedir 100 si si era pedir 100 me saldría por 9,4 pero ya es que estamos hablando de de de pcb de dos capas si lo hacemos de
+
+[11:01] una a 18 con3 las 100 Es decir me saldrían a unos 18 céntimos para buscarlo en vuestra moneda os aconsejo que utilicéis el el conversor de Divisas de Google que lo dejaré en la descripción también porque mucha gente me pregunta en mi moneda y en esta y en esta Pues bueno así no tenéis problema para que veáis pues bueno eh qué barato saldría pedir las placas y que nos viniesen hechas si pinchamos en Download Gerber files no cargarías Los ficheros kerber que una vez descomprimido el archivo veríamos que
+
+[11:35] son seis por otro lado aquí en recurso nos podemos venir y ver la cantidad de circuitos que hace pues la gente Pues con esta plataforma no y en la parte de tutorial pues tenéis eh tutoriales de todas las cosas que podéis hacer con con esta aplicación vale Incluso en algunos pues tenéis eh vídeos y pues muchísimas cosas más diagramas de de cómo podéis ir haciendo las cosas incluso podemos sacar componentes de este tipo es muy muy completo ya os digo con este programa podéis aprender mucho este sería el
+
+[12:16] ejemplo de de una simulación muy muy completo ya os digo así es que nada chicos Espero que os haya gustado muchísimo el vídeo os dejo los enlaces en la descripción no olvidéis de dar de suscribir y nos vemos el próximo día con más vídeos nuevos [Música]
