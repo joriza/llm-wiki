@@ -7,7 +7,7 @@ Listado de las 15 entradas del tramo 2 del backlog WL (inventario 16-30). Estado
 | 16 | [Nobel a los 80: 6 cosas para que tu cerebro no envejezca](wiki/general/resumen-ganador-del-premio-nobel-revelo-a-los-80-anos-6-cosas-para-que-tu-cerebro-no-envejezca.md) | Sabiduría Joven | general | — |
 | 17 | [El lenguaje que nació de una DERROTA](wiki/informatica-teoria/resumen-el-lenguaje-que-nacio-de-una-derrota.md) | fatdev | informatica-teoria | — |
 | 18 | [¿Qué está pasando en Paraguay?](wiki/general/resumen-que-esta-pasando-en-paraguay.md) | Draugr Txikito | general | — |
-| 19 | [11.11 AliExpress: TOP 11 hardware, gaming y tech](wiki/general/resumen-ultimos-dias-11-11-aliexpress-top-11-en-hardware-gaming-y-tech.md) | acaele | general | — |
+| 19 | 11.11 AliExpress TOP 11 🗑️ baja (resumen eliminado por decisión del usuario) | acaele | general | — |
 | 20 | [A Gillette (por fin) le está llegando su KARMA](wiki/general/resumen-a-gillette-por-fin-le-esta-llegando-su-karma.md) | — | general | — |
 | 21 | [El Kit De Emergencia De IA Que Todos Deberían Montar](wiki/ia-local/resumen-el-kit-de-emergencia-de-ia-que-todos-deberian-montar.md) | Jorge Marfil | ia-local | — |
 | 22 | [La guerra de BUKELE en HAITÍ](wiki/general/resumen-la-guerra-de-bukele-en-haiti-es-peor-de-lo-que-pensabamos.md) | VisualPolitik | general | — |

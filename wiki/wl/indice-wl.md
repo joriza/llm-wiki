@@ -24,7 +24,7 @@ Contenido: tramos 1-2 (WL-1..WL-30) — **26 resúmenes**, **3 raws de bajas sin
 | WL-16 | [Ganador del Premio Nobel: REVELÓ a los 80 años 6 cosas para que tu cerebro no envejezca](resumen-ganador-del-premio-nobel-revelo-a-los-80-anos-6-cosas-para-que-tu-cerebro-no-envejezca.md) | Sabiduría Joven | general (clúster fitness-senior/salud) | 2 | Pendiente consolidación |
 | WL-17 | [El lenguaje que nació de una DERROTA](resumen-el-lenguaje-que-nacio-de-una-derrota.md) | fatdev | informatica-teoria | 2 | Pendiente consolidación |
 | WL-18 | [¿Qué está pasando en Paraguay?](resumen-que-esta-pasando-en-paraguay.md) | Draugr Txikito | general (banca/corrupción regional; evaluar sociedad-argentina) | 2 | Pendiente consolidación |
-| WL-19 | [Últimos días 11.11 AliExpress: TOP 11 en hardware, gaming y tech](resumen-ultimos-dias-11-11-aliexpress-top-11-en-hardware-gaming-y-tech.md) | acaele | general (consumo tech) | 2 | Pendiente consolidación |
+| WL-19 | Últimos días 11.11 AliExpress 🗑️ baja (resumen eliminado por decisión del usuario; raw conservado) | acaele | — | 2 | Baja |
 | WL-20 | [A Gillette (por fin) le está llegando su KARMA](resumen-a-gillette-por-fin-le-esta-llegando-su-karma.md) | Se Lo Buscaron | general (consumo/historia de negocio) | 2 | Pendiente consolidación |
 | WL-21 | [El Kit De Emergencia De IA Que Todos Deberían Montar](resumen-el-kit-de-emergencia-de-ia-que-todos-deberian-montar.md) | Jorge Marfil | ia-local | 2 | Pendiente consolidación |
 | WL-22 | [La guerra de BUKELE en HAITÍ es PEOR de lo que pensábamos](resumen-la-guerra-de-bukele-en-haiti-es-peor-de-lo-que-pensabamos.md) | VisualPolitik | general (geopolítica) | 2 | Pendiente consolidación |
