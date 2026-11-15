@@ -1,0 +1,24 @@
+# Resumen — La Física Cuántica: la explicación completa (funciona, pero nadie sabe por qué)
+
+- **Fuente original**: `raw/wl/tramo-26/2026-10-11-la-fisica-cuantica-la-explicacion-completa-funciona-pero-nadie-sabe-por-que.md` (video `SCESF9Ie38Q`, canal Ciencia Explicada, 2026-10-11, 41:50, subtítulos automáticos)
+- **Dominio provisional**: wl (tramo-26) — consolidación diferida (L12)
+
+## Tesis
+
+Historia completa y divulgativa de la mecánica cuántica contada como biografía de una idea que su propio fundador (Planck, 1900) consideró «un acto de desesperación»: la energía es una escalera, no una rampa; la teoría funciona con una precisión sin precedentes desde hace más de un siglo, pero las interpretaciones sobre qué significa siguen en disputa abierta.
+
+## Puntos clave
+
+- **El problema del cuerpo negro**: Kirchhoff lo formula (1859); el Reichsanstalt berlinés lo mide con precisión por la industria de la bombilla; la fórmula de Wien falla en infrarrojo y la física clásica predecía energía infinita hacia el violeta («catástrofe ultravioleta»). Mito desmontado: Planck no partió de Rayleigh sino de los datos de Rubens (7-10-1900, sobremesa) y de la ley de Wien — buscó de noche una fórmula que uniera ambas; el nombre «catástrofe ultravioleta» lo acuñó Ehrenfest en 1911, a historia ya contada hacia atrás.
+- **El truco de Planck**: para derivar su fórmula tuvo que suponer que la energía se intercambia en paquetes (E = h·ν). Lo llamó «acto de desesperación» y «suposición puramente formal»; pasó años intentando suavizarla. El valor de h está grabado en su lápida en Gotinga (6,62×10⁻³⁴) y desde 2019 define el kilogramo.
+- **Einstein va más allá (1905)**: no solo la materia intercambia paquetes — la luz misma viene en cuantos; explica el efecto fotoeléctrico (luz roja intensa no arranca electrones, azul débil sí). Planck, al proponerlo a la Academia de Prusia (1913), citó la hipótesis de los cuantos de luz como error perdonable; Millikan intentó refutarla (1914-16) y terminó confirmando la ecuación y midiendo h con precisión. Nobel de Einstein 1921 por el fotoeléctrico, no por la relatividad.
+- **Del átomo a la doble rendija**: átomo inestable según Maxwell → órbitas cuantizadas de Bohr (1913, rayas del hidrógeno); dualidad onda-partícula de de Broglie (1924, tesis avalada por Einstein); difracción de electrones (Davisson-Germer 1927) y doble rendija con electrones de uno en uno (Tonomura/Hitachi 1989): cada electrón llega como punto, la colección dibuja franjas, y el detector en la rendija las destruye.
+- **Dos mecánicas, una teoría**: mecánica matricial de Heisenberg (Helgoland, 1925, solo cosas medibles) y ecuación de onda de Schrödinger (1926), rivales y equivalentes; Born (1926) responde «¿onda de qué?» — ondula la probabilidad: la física renuncia a predecir resultados concretos. Principio de indeterminación (1927) bien entendido: no es que medir moleste — la partícula no tiene posición y velocidad definidas a la vez.
+- **Mitos desmontados**: observar = interactuar con un detector, sin conciencia ni mente (la pseudociencia de «manifestación cuántica» no es física); el gato de Schrödinger (1935) se inventó para criticar la interpretación de Copenhague, no para explicar la teoría; Einstein no rechazó la cuántica por no entenderla — la entendió y le molestaba lo que implicaba («Dios no juega a los dados», carta a Born 1926); EPR/entrelazamiento (1935) se resolvió experimentalmente a favor de la cuántica (Bell 1964; Clauser 1972, Aspect 1982, Zeilinger — Nobel 2022). «Cállate y calcula» es de Mermin (1989), no de Feynman; Feynman sí escribió que nadie entiende la mecánica cuántica (1965).
+- **La teoría que funciona**: QED acierta el electrón con más de 10 decimales — la más precisa de la historia; transistor (Bell, 1947), láser (Maiman, 1960), LED, fibra óptica, resonancia, flash, GPS y cada pantalla son cuántica aplicada. La decoherencia explica por qué no vemos superposiciones macroscópicas.
+- **Lo que sigue abierto**: ninguna interpretación demostrada (Copenhague, muchos mundos de Everett, Bohm, colapso objetivo — todas dan las mismas cuentas); gravedad cuántica sin unir; ordenadores cuánticos aún prototipos pequeños y delicados, lejos de los anuncios.
+- **El precio humano de Planck**: hijo Carl muerto en Verdún (1916), dos hijas muertas de parto (1917/1919), fracaso ante Hitler defendiendo a los científicos judíos (1933), casa bombardeada (1944) y su hijo Erwin ejecutado por el atentado contra Hitler (23-1-1945); murió en Gotinga en 1947.
+
+## Advertencias de triage
+
+- Divulgación de segunda mano sin citas bibliográficas explícitas; las fechas y anécdotas citadas (carta de Planck a Wood 1931, anécdota del Grunewald «no verificable, tomada como anécdota») coinciden con el relato histórico estándar, pero el video no ofrece fuentes primarias — señalado en triage. Errores menores del ASR normalizados solo aquí.
