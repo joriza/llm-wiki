@@ -2240,3 +2240,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=FFQk0DiTtPE. Canal ToP Projects Compilation, 2025-10-03, 24:38, EN subs automáticos (nombres de productos según ASR, señalados).
 - **Raw**: raw/electronica-practica/2026-11-15-7-simuladores-arduino-2026-top-projects.md
 - **Resumen**: wiki/electronica-practica/resumen-FAV-472-siete-simuladores-arduino-2026-top-projects.md
+
+## [2026-11-15] ingesta | Cargar programa con LDmicro y Xloader (marco cruz) — FAV-473
+- **Fuente**: https://www.youtube.com/watch?v=VcrODftwUFc. Canal marco cruz, 2018-10-15, 03:32, ES subs automáticos.
+- **Raw**: raw/electronica-practica/2026-11-15-cargar-programa-arduino-ldmicro-xloader-marco-cruz.md
+- **Resumen**: wiki/electronica-practica/resumen-FAV-473-cargar-programa-arduino-ldmicro-xloader-marco-cruz.md
