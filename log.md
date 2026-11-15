@@ -2840,3 +2840,7 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Resumen**: `wiki/wl/tramo-12/resumen-WL125-los-taxistas-se-arrepienten-de-votar-a-milei-no-hay-un-mango.md`.
 - **Decisiones**: encuadre sesgado declarado (canal militante anti-gobierno; selección de voces de arrepentimiento con un contraejemplo) — útil como clima percibido, no como medición; dominio destino previsto `general/sociedad-argentina` (S4 sin dominios nuevos); cruces con WL-119/123/124/120 diferidos. Consolidación diferida (L12).
 
+- **Fuente**: `raw/wl/tramo-12/2026-10-30-tren-urquiza-7-cosas-que-no-sabes-y-el-proyecto-que-no-fue.md` (`49QT0KNgonA`, Ojo Urbano, 2026-10-30, 11:37).
+- **Resumen**: `wiki/wl/tramo-12/resumen-WL126-tren-urquiza-7-cosas-que-no-sabes-y-el-proyecto-que-no-fue.md`.
+- **Decisiones**: dominio destino previsto `general` (transporte/infraestructura urbana; S4 sin dominios nuevos); cifra de satisfacción es de encuesta del propio operador (señalada); cruce con WL-118 diferido. Consolidación diferida (L12).
+
