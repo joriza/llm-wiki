@@ -1906,3 +1906,7 @@ YouTube dCku8BabPx4 (Mario's Ideas, ES-US). Raw: raw/electronica-practica/2020-1
 ## [2026-11-15] skip-no-subs | Short deteccion AC "magica" (FAV-395)
 
 YouTube Short 8orOU6iogtw. SKIP definitivo .NO-SUBS: video sin pistas de subtítulos (meta-fail x2: youtube-transcript-api "Subtitles are disabled" + yt-dlp todos los clientes fallidos). Fila 50 de iot-gral-lista.txt marcada. Ni raw ni resumen. Ademas, material de ~60 s tipo short hubiera caido bajo el criterio SKIP de FAV-323/326 (contenido trivial).
+
+## [2026-11-15] ingesta | Pantallas OLED con Arduino: librerías y ejemplos (FAV-396)
+
+YouTube XYBcr1KpN3Y (deMMake, ES, 2019). Raw: raw/electronica-practica/2019-05-30-pantallas-oled-arduino-librerias-ejemplos-demmake.md. Resumen: wiki/electronica-practica/resumen-FAV-396-pantallas-oled-arduino-librerias-demmake.md. Cruces: clúster OLED (FAV-382/383/384/387/391) y FAV-386 (I2C). Clúster OLED llega a 7 fuentes; deMMake 1.a fuente.
