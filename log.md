@@ -2770,3 +2770,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-10/2026-10-31-todo-lo-que-pasa-hasta-c-el-epico-arranque-de-los-pc-retro.md` (`a1csv05WWdM`, PC Clásico, 2026-10-31, 13:24).
 - **Resumen**: `wiki/wl/tramo-10/resumen-WL114-todo-lo-que-pasa-hasta-c-el-epico-arranque-de-los-pc-retro.md`.
 - **Decisiones**: dominio destino `general` (retrocomputing/hardware; S4 sin dominios nuevos); bloque de miembros excluido; sin patrocinio. Consolidación diferida (L12).
+
+## [2026-11-15] ingesta WL | tramo 10, fuente WL-115 — Café con Javo (sketch PDB)
+
+- **Fuente**: `raw/wl/tramo-10/2026-10-31-cafe-con-javo-ayudo-a-bolsonaro-lo-golpearon-en-catamarca.md` (`6MLzI2Pgl0s`, PDB, 2026-10-31, 17:04).
+- **Resumen**: `wiki/wl/tramo-10/resumen-WL115-cafe-con-javo-ayudo-a-bolsonaro-lo-golpearon-en-catamarca.md`.
+- **Decisiones**: contenido 100 % satírico/ficcional — archivado como humor político, no fuente informativa (advirtido en triage); dominio destino `general` (cultura argentina / humor político; S4 sin dominios nuevos); cruce con WL-112 diferido. ASR muy ruidoso, normalizado solo en el resumen (L12).
