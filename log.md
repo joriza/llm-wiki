@@ -2093,3 +2093,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=JhuiIzA5E2s (list= ajena ignorada, S4). Canal Gilada, 2026-07-11, 18:25, ES-419 subs manuales.
 - **Raw**: raw/informatica/2026-11-15-que-es-realmente-internet-gilada.md
 - **Resumen**: wiki/informatica/resumen-FAV-438-que-es-realmente-internet-gilada.md
+
+## [2026-11-15] ingesta | FAV-439 — Las 8 Estructuras de Datos que TODO Programador Usa (Torti Code)
+- **Fuente**: https://www.youtube.com/watch?v=9ifwAPFxpu0. Canal Torti Code, 2026-04-17, 20:29, ES subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-8-estructuras-de-datos-torti-code.md
+- **Resumen**: wiki/informatica/resumen-FAV-439-8-estructuras-de-datos-torti-code.md
