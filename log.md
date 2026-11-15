@@ -2125,3 +2125,10 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ignored | FAV-447 — Arquitectura de Software e IA (playlist pura)
 - **Fuente**: https://www.youtube.com/playlist?list=PLT8O-1uuC6R5vtb2GMZr3W5eTNABUUFbr — playlist sin `v=` → IGNORADA definitivo (precedente FAV-401/404). Fila 37 marcada.
+
+## [2026-11-15] ingesta | FAV-448 — Monolito vs Microservicios (TheDebugDuck)
+- **Fuente**: https://www.youtube.com/watch?v=JgrsAyefLFU. Canal TheDebugDuck, 2026-08-09, 13:35, ES subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-monolito-vs-microservicios-thedebugduck.md
+- **Resumen**: wiki/informatica/resumen-FAV-448-monolito-vs-microservicios-thedebugduck.md
+
+## [2026-11-15] relevo 8 T4 — FAV-447 ignorada (playlist pura, commit 3d5525dc); FAV-448 procesada (este commit)
