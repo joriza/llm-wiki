@@ -2908,3 +2908,11 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Fuente útil: `NiqsTBKIQo0` (Gentleman Programming Vods, 2026-10-28, 06:24). Raw espejado a `raw/wl/tramo-14/2026-10-28-todo-lo-nuevo-de-gentle-shell-4.md`; resumen en `wiki/wl/tramo-14/resumen-WL137-todo-lo-nuevo-de-gentle-shell-4.md`.
 - Demo de Gentle Shell 4: interfaz renovada, modo Yolo no-destructivo, Claude Bridge multi-modelo por rol, ahorro de tokens, estadísticas y mensajería entre sesiones Pi (en pruebas). Fuente interna/promocional de primera mano (producto del propio entorno), señalado en triage.
 - Dominio destino previsto (pendiente consolidación, S4): `ia-uso-practico/agentes-de-codigo` o entidad [[gentleman-programming]].
+
+## [2026-11-15] cierre | Tramo 14 WL completado (WL-132..WL-137)
+
+- **5/5 fuentes útiles ingestadas y committed** con ciclo completo por fuente (raw espejado a `raw/wl/tramo-14/` → resumen en `wiki/wl/tramo-14/resumen-WL<NNN>-<slug>.md` → fila index → línea log → commit con git add por archivo). Commits por fuente: WL-132 82174f81, WL-133 c46b2550, WL-134 b9ca8447, WL-135 531bf699, WL-137 ca83c6d5.
+- 1 SKIP definitivo sin subtítulos: WL-136 `fh8f3UdpWzU` (equipo Maintainers, GP Vods) — marcador `.no-subs` en scratch; no cuenta como fuente útil. 0 meta-fail. Dedupe pre-flight limpio (653→658 ids en raw/).
+- Salida **45.239.32.215** (Proton UE, validada hoy) — 5 descargas consecutivas sin 429, presupuesto suave 100 nunca alcanzado (regla L13).
+- Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-132 ia-critica-y-fronteras (o ia-uso-practico/hardware-ia-local); WL-133 y WL-134 general (ecología, mismo canal — cruce candidato entre sí); WL-135 ia-critica-y-fronteras o agentes-de-codigo (preprint del MIT sin peer-review, señalado); WL-137 ia-uso-practico/agentes-de-codigo (fuente interna de Gentle Shell, señalada en triage).
+- Última fuente del tramo: **WL-137** (`NiqsTBKIQo0`). Próximo: T15 (WL-138..WL-142, relevo 8); consolidación de tramos 8-14 diferida (L12).

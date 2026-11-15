@@ -73,6 +73,17 @@ Contenido (2026-11-15, cierre del tramo 10): **15 resúmenes en la estación** �
 | WL-130 | Lo que se sabe hasta ahora del hack a Binance (`aAMOi9cDa8g`) | Pelado Nerd | general (cripto/seguridad, info preliminar al 30-10) | Resumen en `tramo-13/` |
 | WL-131 | La vergüenza se te va si entendés esto (`1uupD1vZkyM`) | Franco Pisso | general (comunicación/ansiedad social) | Resumen en `tramo-13/` |
 
+### Tramo 14 (2026-11-15, relevo 7 — WL-132..WL-137, pendiente consolidación)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-132 | ¿Es El Fin De Los LLM? (NCM) (`2BicjJgRkms`) | Jorge Marfil | ia-critica-y-fronteras (o ia-uso-practico/hardware) | Resumen en `tramo-14/` |
+| WL-133 | Los Sapos Desaparecieron en Silencio… y la Gente Empezó a Enfermar (`pimDRIsdq40`) | Naturaleza Insólita | general (ecología) | Resumen en `tramo-14/` |
+| WL-134 | ¿Por Qué Ya No Ves Luciérnagas? (`G1Ouqo4UflQ`) | Naturaleza Insólita | general (ecología; cruce con WL-133) | Resumen en `tramo-14/` |
+| WL-135 | El MIT dejó una IA sola en una isla. Esto es lo que hizo (`RPsQMBIjF58`) | SinergIA | ia-critica-y-fronteras o agentes-de-codigo (preprint sin peer-review) | Resumen en `tramo-14/` |
+| WL-136 | Hoy! Hablamos con el equipo de Maintainers y varias sorpresas! (`fh8f3UdpWzU`) | Gentleman Programming Vods | — | SKIP definitivo (.no-subs) |
+| WL-137 | Todo lo nuevo de Gentle Shell 4 (`NiqsTBKIQo0`) | Gentleman Programming Vods | ia-uso-practico/agentes-de-codigo (fuente interna) | Resumen en `tramo-14/` |
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
