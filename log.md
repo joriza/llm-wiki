@@ -1875,3 +1875,7 @@ YouTube 9gfZnNPBlVg (El profe Garcia). Raw: raw/electronica-practica/2026-11-15-
 
 YouTube AXo3sLMQ89o (Electronica Con Piero). Raw: raw/electronica-practica/2021-04-22-videos-animaciones-oled-arduino-electronica-con-piero.md. Resumen: wiki/electronica-practica/resumen-FAV-387-videos-animaciones-oled-electronica-con-piero.md. Cruces: cluster OLED (FAV-350/382/383/384, ahora 5 fuentes, consolidacion deferida), FAV-380 (animacion en panel LED).
 
+## [2026-11-15] ingesta | Open Source Mini Video Player (FAV-388)
+
+YouTube 67RFm2RMjC4 (Super Make Something, EN con subs auto). Raw: raw/electronica-practica/2022-08-14-open-source-mini-video-player-super-make-something.md. Resumen: wiki/electronica-practica/resumen-FAV-388-mini-video-player-esp32-super-make-something.md. Cruces: FAV-387 (video en micro), FAV-389/371 (ST7735/ILI9341), FAV-358/362 (ESP32).
+
