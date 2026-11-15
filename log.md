@@ -3000,3 +3000,10 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Raw: `raw/wl/tramo-17/2026-10-28-algo-esta-fallando-a-la-vez-en-los-trenes-y-las-carreteras-de-espana-visualpolit.md` · Resumen: `wiki/wl/tramo-17/resumen-WL151-algo-esta-fallando-trenes-carreteras-espana.md`
 - Dominio previsto (consolidación diferida): general (infraestructura/transporte — caso España).
 
+## [2026-11-15] ingesta WL | cierre tramo 17 — ventana WL-148..WL-151 (relevo 10, tramo final del pedido de 50)
+
+- **4/4 fuentes útiles ingestadas y committed** con ciclo completo por fuente (raw espejado a `raw/wl/tramo-17/` → resumen en `wiki/wl/tramo-17/resumen-WL<NNN>-<slug>.md` → fila index → línea log → commit con git add por archivo). Commits por fuente: WL-148 0abad553/95bc2a30/a2d7fc0f/40c3f511, WL-149 08817ea7/2a8a201a/f5351398/fa8d3adf, WL-150 63f46164/2b48fbb8/04e8af11/71ab2eb0, WL-151 e613419d/966f247d/d796a1a2/3842c8c9.
+- 0 meta-fail, 0 skip; dedupe pre-flight limpio (668→672 ids en raw/).
+- Salida **45.239.32.215** (Proton UE, validada hoy) — 4 descargas timedtext consecutivas sin 429, presupuesto suave 100 nunca alcanzado (regla L13). Registro en `.atl/salidas.md`.
+- Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-148 general (biografía/cultura pop, marco docudrama), WL-149 general/sociedad-argentina (humor nostálgico — NO fuente factual), WL-150 general (tecnología/privacidad; cruces con WL-147/WL-132 y crítica tecnológica), WL-151 general (infraestructura/transporte España; cruces WL-118/WL-142/WL-126).
+- Última fuente del tramo y del pedido: **WL-151** (`a8764s81INI`). **Pedido de 50 fuentes (L21) COMPLETADO**: tramos 8-17 = WL-102..WL-151 → **49 fuentes útiles + 1 skip definitivo** (WL-136, .no-subs), 0 meta-fails; consolidación de tramos 8-17 diferida (L12).
