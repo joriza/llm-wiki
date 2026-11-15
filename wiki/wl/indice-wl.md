@@ -140,3 +140,17 @@ Contenido (2026-11-15, cierre del tramo 10): **15 resúmenes en la estación** �
 | WL-162 | Lo que va a reemplazar a tu laptop ya está en tu bolsillo (`lgC7MZS_R30`) | Titanes Tecnológicos | general (historia de la tecnología/industria; cruces WL-138/WL-122) | Resumen en `tramo-19/` |
 
 Notas del tramo: WL-157 (`npVBnrL-y-4`, El Presto) SKIP definitivo `.no-subs`; el tramo queda encabezado por la cuádruple presencia de Themateoteo (WL-158/159/161 + precedente WL-156) — candidata a entidad de canal en consolidación.
+
+### Tramo 20 (2026-11-15, relevo 13 — ventana de 5 útiles desde la cabeza; se procesaron 7 útiles por sobregiro reportado, pendiente consolidación)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-163 | ¿ARGENTINA es de los países más POBRES de LATINOAMÉRICA? (`Z-2AmgbpHe4`) | Ciudadano news | general/sociedad-argentina (entrevista Schteingart/Fundar — opinión del entrevistado señalada) | Resumen en `tramo-20/` |
+| WL-164 | Lo Que Nadie Te Cuenta Sobre Tu Cuerpo Después de los 50 (`PV7vWFZDHEU`) | Somos Mente en Calma | general (salud/longevidad — divulgación sin citas, señalado) | Resumen en `tramo-20/` |
+| WL-165 | Google Harness 2: Cómo Crear Agentes de IA que Aprenden Solos (`Rrwnak3RRIw`) | InzideTech | ia-uso-practico/agentes-de-codigo (fuente secundaria; cruces [[deepseek-harness]], WL-153, WL-132) | Resumen en `tramo-20/` |
+| WL-166 | VirtualDJ 2026: El software que NADIE respetaba ahora sorprende a todos (`wTZkkpN70g0`) | Portal DJ | general (historia del software/industria DJ; cruces WL-162/WL-158) | Resumen en `tramo-20/` |
+| WL-167 | «La mitad de la memoria que tengo debe ser un don que me dio Dios»: Alejandro Gardinetti (`FWSgULNMHSQ`) | Urbana Play 104.3 FM | general/sociedad-argentina (humor — NO fuente factual; cruce WL-149) | Resumen en `tramo-20/` |
+| WL-168 | Fenómeno pañal: Milei se desgració (`go8Yx612mhs`) | Emanuel Rodríguez (Peroncho Delivery) | general/sociedad-argentina (opinión militante — NO fuente factual; cruces WL-125/WL-146) | Resumen en `tramo-20/` |
+| WL-169 | Cómo Hacer una Ducha Caliente Sin usar Gas ni Electricidad (`Jq2ghiA6ncI`) | El Profeturo | general (bricolaje/energía — tecno-folklore NO verificado, señalado) | Resumen en `tramo-20/` |
+
+Notas del tramo: ventana completa (WL-163..WL-167) cerrada en WL-167; WL-168 y WL-169 procesadas por sobregiro del bucle (error de conteo del relevo, reportado al orquestador). 0 meta-fail, 0 skip, sin 429. WL-169 es candidato a baja (triage del usuario, regla de baja de fuente).
