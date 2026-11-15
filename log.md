@@ -2650,3 +2650,6 @@ Fuente 24/37 de la playlist Python (xs6eiVPbCNQ, Argonauta digital 2021-06-08, E
 
 ## [2026-11-15] ingesta | Crea Web APIs con Python y FastAPI paso a paso
 Fuente 25/37 de la playlist Python (wPJ7q2V4s3Y, Open Sessions 2021-01-02, ES-ASR, 12:31). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-crea-web-apis-con-python-y-fastapi-paso-a-paso.md con cruces a [[fastapi]] y los tres tutoriales de Flask del dominio. Página de entidad [[fastapi]] actualizada con el aporte (tutorial desde cero: uvicorn, python-multipart, async).
+
+## [2026-11-15] ingesta | Trading con Python #1🐍 - Indicadores de análisis técnico
+Fuente 26/37 de la playlist Python (oKpisYJ-CMw, Ronny Portillo 2021-05-03, ES-ASR, 35:05). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-trading-con-python-1-indicadores-de-analisis-tecnico.md con cruces al porfolio cripto (Bollinger calculadas a mano en pandas vs TA-Lib), librerías imprescindibles y automatizacion-con-python. Nota de contenido: setup de época (Python 3.6 fijo por backtesting, TA-Lib por Wheels); segunda fuente de trading del dominio.
