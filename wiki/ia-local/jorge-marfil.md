@@ -2,8 +2,8 @@
 
 - **Tipo**: página de entidad (canal).
 - **Dominio**: `ia-local`.
-- **Actualizado**: 2026-11-11 (consolidación lote ia-local — 2 fuentes).
-- **Fuentes**: [[resumen-ia-local-ahora-va-6x-mas-rapida-en-tu-pc-normal]] (Strata, 2026-10-04) · [[resumen-la-ia-mas-potente-ya-funciona-en-un-pc-normal]] (Qwen 3.8 Flash Next en 3060, 2026-10-31).
+- **Actualizado**: 2026-11-15 (consolidación tramos 8-17 — +4 fuentes WL).
+- **Fuentes**: [[resumen-ia-local-ahora-va-6x-mas-rapida-en-tu-pc-normal]] (Strata, 2026-10-04) · [[resumen-la-ia-mas-potente-ya-funciona-en-un-pc-normal]] (Qwen 3.8 Flash Next en 3060, 2026-10-31) · backlog WL: [[resumen-WL102-cuantizacion-llm-trampa-calidad-q4]] (WL-102, cuantización Q4), [[resumen-WL122-podria-google-vencer-a-nvidia-en-chips-de-ia-tpu-vs-gpu-explicado]] (WL-122, TPU vs GPU — bajo el canal hermano «Marfil Lab»), [[resumen-WL132-es-el-fin-de-los-llm-ncm]] (WL-132, desmontaje del NCM) y [[resumen-WL147-tu-ia-local-no-es-tan-privada-como-crees]] (WL-147, seguridad del montaje local en cinco capas). Total: 6.
 
 Canal en español de análisis técnico de IA local, estilo **«desde cero para que lo siga cualquiera»**: explica VRAM/RAM/expertos con analogías (la cocina: encimera = VRAM, despensa = RAM, trastero = SSD) y **mide en su propio hardware** mostrando también lo que falla.
 
@@ -15,6 +15,13 @@ Canal en español de análisis técnico de IA local, estilo **«desde cero para 
 4. **El ajuste gratis**: 6 hilos (1/núcleo) en vez de 12 → +48 % (el 65 % del tiempo los hilos se esperaban entre sí).
 
 Su servidor personal (RTX 3060 12 GB de segunda mano, Ryzen 6c, 61 GB RAM) es el banco de pruebas de ambos videos.
+
+## Aportes del backlog WL (2026-11-15)
+
+- **Cuantización** (WL-102): el Q4 de un buen cuantizador casi empata con BF16 en medias, pero las medias esconden cambios del 13,6 % de respuestas individuales, caídas hasta −59 % en contexto largo y degradación ×5 en idiomas no ingleses; «dos Q4 no son el mismo modelo» (GPTQ vs AWQ); el programa también estropea (kernel de atención, contexto por defecto, plantilla).
+- **Hardware de datacenter** (WL-122, Marfil Lab): TPU vs GPU — el foso de CUDA, la era de la inferencia (Ironwood), compra de Groq por Nvidia y la estrategia multi-chip; «ganar» es entrar en la lista de opciones.
+- **Crítica de fronteras** (WL-132): desmontaje del hype del NCM de Stanford (el 31× solo vale contra difusión en resúmenes de 48 tokens; escala mínima; la ventaja paralela es de batch=1).
+- **Seguridad** (WL-147): cinco capas de riesgo de un montaje local (GGUF, plantilla Jinja, runner, puerto abierto, pesos+herramientas) con checklist de mitigación — el complemento «auditivo» del banco de pruebas del canal.
 
 ## Cruces
 

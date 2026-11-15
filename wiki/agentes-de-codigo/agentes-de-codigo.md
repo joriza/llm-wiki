@@ -43,6 +43,11 @@ Dos fuentes del cierre del lote generalizan el patrón más allá del código. L
 
 ## Fuentes de este concepto
 
+Grupo añadido en la consolidación de los tramos 8-17 WL (2026-11-15):
+
+- [[resumen-WL108-la-habilidad-mas-importante-de-un-ingeniero-no-es-programar]] (WL-108, BettaTech): *The Pragmatic Programmer* reído en la era agéntica — agency («la IA lo escribió» no es excusa) y **ventanas rotas amplificadas por agentes en paralelo** que copian ejemplos sucios del proyecto; complemento teórico de la seguridad del corpus.
+- [[resumen-WL135-el-mit-dejo-una-ia-sola-en-una-isla]] (WL-135, SinergIA): el experimento Eko del MIT — agente Claude Code sin tarea en una isla simulada; **borrar una línea de memoria borra una habilidad**, y una creencia falsa apuntada degrada el rendimiento; evidencia del papel de la memoria de ficheros (preprint sin peer-review, señalado).
+
 Grupo de arquetipos y seguridad (consolidación parcial previa):
 
 - [[resumen-kilo-code-glm-46-modelo-ultra-economico-cursosdesarrolloweb]] (12/57) · [[resumen-ia-le-borro-todo-el-disco-duro-hdeleon-clips]] (15/57) · [[resumen-agente-de-codigo-que-viene-vacio-fazt]] (26/57) · [[resumen-openspec-apps-full-stack-sin-codigo-vera-badias]] (27/57) · [[resumen-reventar-la-ia-gratis-sin-limites-alejavi-rivera]] (34/57) · [[resumen-despedi-editor-contrate-claude-code-santiago-munoz]] (37/57) · [[resumen-herramientas-ia-2-video-remotion-opencode-darellanodev]] (38/57) · [[resumen-notebooklm-reventar-ia-gratis-alejavi-rivera]] (25/57, control agéntico) · [[resumen-laboratorio-ia-gratis-ubuntu-y-opencode-con-killercoda-comarca-ia]] (30/57, OpenCode efímero en Killercoda) · [[resumen-entrevista-gary-marcus-gustavo-entrala]] (corpus previo).
