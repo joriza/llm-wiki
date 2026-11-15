@@ -2518,3 +2518,21 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | LDmicro Arduino Nano (FAV-544, relevo 11 Electromecanica)
 - FAV-544 ieUgc414Et4 «LDmicro Cap_10» — El Profe Zurco, ES-ASR 11:05. Resumen: wiki/electromecanica/resumen-FAV-544-ldmicro-arduino-nano-bootloader.md; raw: raw/electromecanica/2026-11-15-ldmicro-arduino-nano-bootloader.md. **Umbral PLC-ladder: clúster PLC LOGO!/Cade Simu (FAV-490..497) + LDmicro hobby → concepto PLC industrial-vs-hobby candidato a consolidación.**
+
+## [2026-11-15] ingesta | Primeros pasos en LDmicro (FAV-545, relevo 12 Electromecanica)
+- FAV-545 hj08CY_HIII «Primeros pasos en ld micro» — Gaston Sebastian Gallego, ES-ASR 13:29 (&list= ajena ignorada por S4). Resumen: wiki/electromecanica/resumen-FAV-545-primeros-pasos-ldmicro.md; raw: raw/electromecanica/2026-11-15-primeros-pasos-ldmicro.md. Clúster LDmicro/ladder: teoría básica.
+
+## [2026-11-15] ingesta | LDmicro + XLoader (FAV-546, relevo 12 Electromecanica)
+- FAV-546 5bnanIe51QE «Cargar programa en lenguaje escalera en Arduino» — Fernando Torres Ortiz, ES-ASR 06:27. Resumen: wiki/electromecanica/resumen-FAV-546-ldmicro-xloader-arduino.md; raw: raw/electromecanica/2026-11-15-ldmicro-xloader-arduino.md. **Clúster LDmicro/ladder 3 fuentes (FAV-544/545/546) + PLC industrial (FAV-490..497) → concepto PLC industrial-vs-hobby candidato firme.**
+
+## [2026-11-15] ingesta | NO-SUBS Kirchhoff (FAV-547, relevo 12 Electromecanica)
+- FAV-547 EwY13yT1tSo «Leyes de Kirchhoff (mallas y nodos)» — meta-fail ×2 (TranscriptsDisabled, intento + re-pass) → NO-SUBS definitivo. La teoría de Kirchhoff de la carpeta queda cubierta por FAV-548.
+
+## [2026-11-15] ingesta | Kirchhoff y resistencias equivalentes (FAV-548, relevo 12 Electromecanica)
+- FAV-548 btrxWydp4ag «Circuitos ELÉCTRICOS: Leyes de Kirchhoff y Resistencias Equivalentes» — El Traductor de Ingeniería, ES-ASR 34:46. Resumen: wiki/electromecanica/resumen-FAV-548-kirchhoff-resistencias-equivalentes.md; raw: raw/electromecanica/2026-11-15-kirchhoff-resistencias-equivalentes.md. Único tema de teoría pura de la carpeta — base que unifica los cálculos de todas las demás fuentes.
+
+## [2026-11-15] ingesta | Generador eólico casero (FAV-549, relevo 12 Electromecanica)
+- FAV-549 wwaFaeprHAA «Generador Eolico Casero, Reciclando Ventilador Roto» — EL ANGELITO, ES-ASR 13:42. Resumen: wiki/electromecanica/resumen-FAV-549-generador-eolico-casero-ventilador.md; raw: raw/electromecanica/2026-11-15-generador-eolico-casero-ventilador.md. **Cierre práctico del clúster renovables (18 fuentes)**; EL ANGELITO 2ª fuente (FAV-523+549) → entidad candidata.
+
+## [2026-11-15] CIERRE DE VENTANA Electromecanica (relevo 12, verificación completa)
+- Lista verificada: **60/60 filas FAV-490..549 con marca «; »** (0 filas sin procesar). Totales de la ventana: **47 PROCESADAS con ciclo completo**, 3 IGNORADAS (playlists puras FAV-492/493/537), **9 NO-SUBS** (FAV-507/508/509/510/511/515/516/519/547), 1 SKIP-WEB (FAV-536, dominio caído). 0 duplicados en el rango. 0×429 en toda la ventana; salida Proton UE 45.239.32.215 constante. Umbrales finales para consolidación (a cargo del orquestador): **energias-renovables ~18**, detectores-de-metales 5, PLC industrial-vs-hobby 12, reguladores solares 4, electrólisis/niquelado 3, cautines 2, fuente-sin-transformador 2, electrólisis 2, Kirchhoff 1 (no cumple umbral); entidades candidatas: CIAE 3, Mentalidad De Ingeniería 3, EL ANGELITO 2, Electgpl 2, ELECTRONOOBS 2.
