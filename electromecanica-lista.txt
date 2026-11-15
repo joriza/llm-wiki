@@ -43,11 +43,11 @@
 - FAV-532 — [video] (Electromecanica/Energias Renovables) — (805) El Espejismo Verde La realidad escondida detrás de los autos eléctricos - YouTube — https://www.youtube.com/watch?v=3Zcmz5n19as ; PROCESADA 2026-11-15 relevo 9
 - FAV-533 — [video] (Electromecanica/Energias Renovables) — (927) REGULADOR de VOLTAJE CASERO para EQUIPO SOLAR - YouTube — https://www.youtube.com/watch?v=m7oZseAx6r8 ; PROCESADA 2026-11-15 relevo 9 (subs manuales)
 - FAV-534 — [video] (Electromecanica/Energias Renovables) — (927) Kit Solar para cortes de Luz - Bajo Costo - Bateria de Gel 12V y USB | Sponsor LCSC - YouTube — https://www.youtube.com/watch?v=12CNQP9LSLc ; PROCESADA 2026-11-15 relevo 9 (sponsor LCSC declarado)
-- FAV-535 — [video] (Electromecanica/Energias Renovables) — (927) ✅Cual es la Diferencia entre controlador PWM y MPPT #2022 #solarenergy - YouTube — https://www.youtube.com/watch?v=w5mOt0ramn4
-- FAV-536 — [web] (Electromecanica/Energias Renovables) — Como hacer un seguidor solar casero con Arduino — https://www.wexterhome.com/proyectos-con-arduino/seguidor-solar-casero/
-- FAV-537 — [playlist] (Electromecanica/Energias Renovables) — (927) 🪵🪓 CÓMO HACER MÁQUINA PARA HACER BRIQUETAS - YouTube — https://www.youtube.com/playlist?list=PLDKIpoNvzGd90MxvYFAJ3mif7IEARAv5F
-- FAV-538 — [video] (Electromecanica/Otros) — ¿Qué es la Electrolisis? - YouTube — https://www.youtube.com/watch?v=LabUSWql5mc
-- FAV-539 — [video] (Electromecanica/Otros) — Niquelado casero - como hacer electrolito para NIQUELAR metales, casero con pocos elementos, como niquelar metales - YouTube — https://www.youtube.com/watch?v=4dzl2E5fJD4
+- FAV-535 — [video] (Electromecanica/Energias Renovables) — (927) ✅Cual es la Diferencia entre controlador PWM y MPPT #2022 #solarenergy - YouTube — https://www.youtube.com/watch?v=w5mOt0ramn4 ; PROCESADA 2026-11-15 relevo 10
+- FAV-536 — [web] (Electromecanica/Energias Renovables) — Como hacer un seguidor solar casero con Arduino — https://www.wexterhome.com/proyectos-con-arduino/seguidor-solar-casero/ ; SKIP-WEB 2026-11-15 relevo 10 (dominio wexterhome.com inexistente/NXDOMAIN, sitio caído — material no recuperable)
+- FAV-537 — [playlist] (Electromecanica/Energias Renovables) — (927) 🪵🪓 CÓMO HACER MÁQUINA PARA HACER BRIQUETAS - YouTube — https://www.youtube.com/playlist?list=PLDKIpoNvzGd90MxvYFAJ3mif7IEARAv5F ; IGNORADA 2026-11-15 relevo 10 (playlist pura, precedente FAV-401/404/492/493)
+- FAV-538 — [video] (Electromecanica/Otros) — ¿Qué es la Electrolisis? - YouTube — https://www.youtube.com/watch?v=LabUSWql5mc ; PROCESADA 2026-11-15 relevo 10
+- FAV-539 — [video] (Electromecanica/Otros) — Niquelado casero - como hacer electrolito para NIQUELAR metales, casero con pocos elementos, como niquelar metales - YouTube — https://www.youtube.com/watch?v=4dzl2E5fJD4 ; PROCESADA 2026-11-15 relevo 10
 - FAV-540 — [video] (Electromecanica/Otros) — Niquelado casero - Método mejorado - YouTube — https://www.youtube.com/watch?v=0hNqim8l8aQ
 - FAV-541 — [video] (Electromecanica) — Por que mi cautín no suelda? - YouTube — https://www.youtube.com/watch?v=NoaLWJ6qsdA
 - FAV-542 — [video] (Electromecanica) — Repara o modifica tu cautín. ¡Este no es un vídeo más! - YouTube — https://www.youtube.com/watch?v=uyFW6-19NDo

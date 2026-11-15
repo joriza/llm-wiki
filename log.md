@@ -2488,3 +2488,18 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Kit solar cortes de luz (FAV-534, relevo 9 Electromecanica)
 - FAV-534 12CNQP9LSLc «Kit Solar para cortes de Luz» — Electgpl, ES-ASR 15:17 (sponsor LCSC declarado). Resumen: wiki/electromecanica/resumen-FAV-534-kit-solar-cortes-luz.md; raw: raw/electromecanica/2026-11-15-kit-solar-cortes-luz.md. **Electgpl 2ª fuente (FAV-504 + 534) → entidad candidata.** Umbral clúster renovables ahora **15 fuentes (FAV-520..534)** — candidata firme para consolidación.
+
+## [2026-11-15] ingesta | PWM vs MPPT cuál conviene (FAV-535, relevo 10 Electromecanica)
+- FAV-535 w5mOt0ramn4 «¿Cual es la Diferencia entre controlador PWM y MPPT» — El profe chris ⚡, ES-manual 07:43. Resumen: wiki/electromecanica/resumen-FAV-535-pwm-vs-mppt-profe-chris.md; raw: raw/electromecanica/2026-11-15-pwm-vs-mppt-profe-chris.md. Subtema reguladores llega a **4 fuentes** (FAV-523/525/526/535).
+
+## [2026-11-15] ingesta | SKIP-WEB seguidor solar (FAV-536, relevo 10 Electromecanica)
+- FAV-536 https://www.wexterhome.com/proyectos-con-arduino/seguidor-solar-casero/ — **SKIP-WEB con motivo**: dominio wexterhome.com NXDOMAIN (sitio caído, verificado con nslookup + 2 intentos curl exit 6). Material no recuperable; sin raw ni resumen. Si reaparece (Wayback), candidato a re-pass.
+
+## [2026-11-15] ingesta | IGNORADA playlist briquetas (FAV-537, relevo 10 Electromecanica)
+- FAV-537 playlist «CÓMO HACER MÁQUINA PARA HACER BRIQUETAS» — IGNORADA por ser playlist pura (regla S4, precedente FAV-401/404/492/493). Sin fetch.
+
+## [2026-11-15] ingesta | Electrólisis (FAV-538, relevo 10 Electromecanica)
+- FAV-538 LabUSWql5mc «¿Qué es la Electrolisis?» — Es Ciencia, ES-ASR 02:46. Resumen: wiki/electromecanica/resumen-FAV-538-que-es-la-electrolisis.md; raw: raw/electromecanica/2026-11-15-que-es-la-electrolisis.md. Carpeta Electromecanica/Otros. **Umbral nuevo: electrólisis (FAV-538 + 539) → concepto transversal candidato a consolidación.**
+
+## [2026-11-15] ingesta | Niquelado casero (FAV-539, relevo 10 Electromecanica)
+- FAV-539 4dzl2E5fJD4 «Niquelado casero — electrolito» — INVENT AR, ES-ASR 04:40. Resumen: wiki/electromecanica/resumen-FAV-539-niquelado-casero-electrolito.md; raw: raw/electromecanica/2026-11-15-niquelado-casero-electrolito.md. Práctica del umbral electrólisis; restauración como tema paralelo.
