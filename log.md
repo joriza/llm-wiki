@@ -1947,3 +1947,7 @@ URL de playlist pura (list=PLiJv_3SD9kX...). Decisión del usuario 2026-11-15: �
 
 ## [2026-11-15] ignored | Playlist Arduino propeller clock (FAV-404, línea 59)
 URL de playlist pura (list=PLlck5hCWxDJ...). IGNORADA definitivamente por orden del usuario 2026-11-15 («ignore ambas listas»).
+## [2026-11-15] ingesta | FAV-408 — Amplificador sencillo de audio con un transistor 13003 (TOKIO-ELECTRONIC)
+- Fuente: https://www.youtube.com/watch?v=GgRRr-RMiws → raw/electronica-practica/2026-11-15-amplificador-audio-transistor-13003.md
+- Resumen: wiki/electronica-practica/resumen-FAV-408-amplificador-audio-transistor-13003-tokio-electronic.md
+- Cruces: [[transistor-bjt]], [[resumen-FAV-364-microcontroladores-industria-mito-tr3bol]]
