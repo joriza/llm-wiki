@@ -2372,3 +2372,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ignored | FAV-492/493 playlists puras (relevo 1 Electromecanica)
 - FAV-492 (CURSO PLC LOGO! SIEMENS, PL04XX6UHHXqhJUByekClZgM2Akq0oolPI) y FAV-493 (LOGO! en CADESIMU, PL04XX6UHHXqhm5zIXlCC3uD2XAiuZzDIb): IGNORADAS definitivas — playlists puras, precedente FAV-401/404/421/427/447 (orden del usuario 2026-11-15). Sin fetch, sin presupuesto, sin contacto con YouTube.
+
+## [2026-11-15] ingesta | Arranque estrella-triángulo en PLC LOGO! (FAV-494, relevo 1 Electromecanica)
+- FAV-494 zo-dp7Wk3QM «Arranque Estrella Triangulo en PLC logo SIEMENS» — Antonio Delg, ES-ASR 20:44. Resumen: wiki/electromecanica/resumen-FAV-494-arranque-estrella-triangulo-plc-logo.md; raw: raw/electromecanica/2026-11-15-arranque-estrella-triangulo-plc-logo.md. Umbral deferido: arranque estrella-triángulo (FAV-494/496/497); Cade Simu (491/493/496/497).
