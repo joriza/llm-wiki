@@ -3090,3 +3090,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 
 ## [2026-11-15] ingesta | WL-181 · SE ACABÓ EL SOFTWARE (DotTech-ES)
 Tramo 23, fuente 1. Panorama del quiebre de octubre 2026 del software: REA (MCP Ghidra/IDA para agentes), clones «sala limpia» de Brandon Thomas (13 apps), demos canceladas (Drankin' God: Reflux, Revamp), Epic/Sweeney vs Kenney, cierre de BioWare, jurisprudencia (SAS Institute, Thomson Reuters vs ROSS, Tetris) y seguridad (Broadcom WPS, PHP to Shell, Danfoss/Claude). Raw espejado en `raw/wl/tramo-23/2026-10-23-se-acabo-el-software.md`; resumen en `wiki/wl/tramo-23/resumen-WL181-se-acabo-el-software.md`. Dominio previsto: ia-critica-y-fronteras o general (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
+
+## [2026-11-15] ingesta | WL-182 · Manaos: La Gaseosa más polémica de Argentina (Andru - Impetu)
+Tramo 23, fuente 2. Caso de estrategia de segunda marca argentina: Cañido, Sao, ataque por flanco al almacén de barrio, marketing de memes, allanamientos AFIP/ARCA y retiro ANMAT. Raw espejado en `raw/wl/tramo-23/2026-09-22-manaos-la-gaseosa-mas-polemica-de-argentina.md`; resumen en `wiki/wl/tramo-23/resumen-WL182-manaos-la-gaseosa-mas-polemica-de-argentina.md`. Dominio previsto: general/sociedad-argentina (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
