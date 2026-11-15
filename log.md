@@ -2396,3 +2396,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Inductores explicados (FAV-501, relevo 3 Electromecanica)
 - FAV-501 Gckb8cS1h5g «Inductores Explicados» — Engineering Mindset, ES-ASR 10:15. Resumen: wiki/electromecanica/resumen-FAV-501-inductores-explicados.md; raw: raw/electromecanica/2026-11-15-inductores-explicados.md. Canal 5ª fuente de la ventana; serie de componentes casi completa → concepto candidato al cierre.
+
+## [2026-11-15] ingesta | Transistor explicado BJT (FAV-502, relevo 3 Electromecanica)
+- FAV-502 zh7PeHAZRLY «Transistor Explicado» — Engineering Mindset, ES-ASR 18:19. Resumen: wiki/electromecanica/resumen-FAV-502-transistor-explicado.md; raw: raw/electromecanica/2026-11-15-transistor-explicado.md. Canal 6ª fuente de la ventana; serie de componentes completa → concepto candidato. Cruces: [[transistor-bjt]], FAV-503.
