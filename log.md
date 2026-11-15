@@ -2969,3 +2969,10 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 
 ## [2026-11-15] ingesta | Tu IA local no es tan privada como crees (WL-147, tramo 16)
 - Canal Jorge Marfil, 37:13, ASR es, `NTO8_1b4LXk`. Raw espejado en `raw/wl/tramo-16/2026-10-28-tu-ia-local-no-es-tan-privada-como-crees.md`; resumen en `wiki/wl/tramo-16/resumen-WL147-tu-ia-local-no-es-tan-privada-como-crees.md`. Dominio previsto: ia-uso-practico/ia-local (seguridad de montajes locales; cruce con WL-132 mismo canal y con el hilo ia-local del repo). Consolidación diferida (L12).
+
+## [2026-11-15] ingesta WL | cierre tramo 16 — ventana WL-143..WL-147 (relevo 9)
+- **5/5 fuentes útiles ingestadas y committed** con ciclo completo por fuente (raw espejado a `raw/wl/tramo-16/` → resumen en `wiki/wl/tramo-16/resumen-WL<NNN>-<slug>.md` → fila index → línea log → commit con git add por archivo). Commits por fuente: WL-143 3a4b4f8d, WL-144 57f03e52, WL-145 2e2b3533, WL-146 23476845, WL-147 54ab0eed.
+- 0 meta-fail, 0 skip; dedupe pre-flight limpio (663→668 ids en raw/).
+- Salida **45.239.32.215** (Proton UE, validada hoy) — 5 descargas timedtext consecutivas sin 429, presupuesto suave 100 nunca alcanzado (regla L13). Registro en `.atl/salidas.md`.
+- Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-143 general/sociedad-argentina (cultura pop/televisión, marco docudrama), WL-144 general (industria automotriz; cifras sin verificación independiente — señalado), WL-145 general (divulgación genética/demografía), WL-146 general/sociedad-argentina (debate político — opinión, NO fuente factual), WL-147 ia-uso-practico/ia-local (seguridad; cruce con WL-132).
+- Última fuente del tramo: **WL-147** (`NTO8_1b4LXk`). Siguiente: T17 (WL-148..WL-151, relevo 10 — tramo final de los 50 pedidos en L21); consolidación de tramos 8-16 diferida (L12).

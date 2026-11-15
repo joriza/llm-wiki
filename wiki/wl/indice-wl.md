@@ -94,6 +94,16 @@ Contenido (2026-11-15, cierre del tramo 10): **15 resúmenes en la estación** �
 | WL-141 | BURLARSE de la gente le salió CARO — Santutu (`BQiFdcxMPOk`) | Themateoteo | general/sociedad-argentina (cultura digital — opinión, NO factual) | Resumen en `tramo-15/` |
 | WL-142 | ¿Por qué los ferrocarriles dejan rieles viejos tirados junto a la vía? (`xjyKyQUHl7E`) | Entendiendo Lo Simple | general (infraestructura/ferrocarriles) | Resumen en `tramo-15/` |
 
+### Tramo 16 (2026-11-15, relevo 9 — WL-143..WL-147, pendiente consolidación)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-143 | Por qué la televisión decidió borrar por completo a Raúl Portal (`P7I-FSOmuSA`) | Ecos del Pasado Argentino | general/sociedad-argentina (cultura pop/televisión — marco docudrama) | Resumen en `tramo-16/` |
+| WL-144 | Canadá Acaba de REVELAR el Motor Secreto que DESTRUIRÁ a Tesla, BYD… (`yDrc9Y-bx44`) | Laboratorio de Inventos | general (industria automotriz/tecnología; cruce con WL-138; cifras sin fuente independiente) | Resumen en `tramo-16/` |
+| WL-145 | ¿Podrían 2 Personas Repoblar la Tierra? (`qhZcvJLBvcI`) | Fosil Metal | general (divulgación genética/demografía) | Resumen en `tramo-16/` |
+| WL-146 | 1 MARXISTA vs 5 LIBERTARIOS — Reacción (`BRd-oFpYYKY`) | Dos Dager | general/sociedad-argentina (debate político — opinión, NO factual) | Resumen en `tramo-16/` |
+| WL-147 | Tu IA Local No Es Tan Privada Como Crees (`NTO8_1b4LXk`) | Jorge Marfil | ia-uso-practico/ia-local (seguridad; cruce con WL-132) | Resumen en `tramo-16/` |
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
