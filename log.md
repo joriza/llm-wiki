@@ -2548,3 +2548,6 @@ Creación del dominio `self-hosting/` (wiki/ y raw/) por decisión del usuario a
 
 ## [2026-11-15] ingesta | He Cancelado Todos mis Servicios de Streaming… Esto Es lo Que Hago Ahora
 Fuente 1/11 (8qxX43V2GCE, GCtech 2025-12-12). Raw intacto a raw/self-hosting/; resumen con cruce a [[proxmox-homelab]]. Relanzado runner v2 (--one --budget 5) para fuentes 2-5.
+
+## [2026-11-15] ingesta | Home Servers en 2025: Todo lo que tenes que saber para comenzar!
+Fuente 2/11 (hwaho9SAMco, Pocho Labs 2025-04-28). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuente 1.
