@@ -2745,3 +2745,10 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-9/2026-11-01-internet-nunca-volvera-a-ser-como-antes.md` (`VqsmMAVeHco`, Finanzas para todos, 2026-11-01, 21:38).
 - **Resumen**: `wiki/wl/tramo-9/resumen-WL111-internet-nunca-volvera-a-ser-como-antes.md`.
 - **Decisiones**: dominio destino `ia-critica-y-fronteras` (impacto económico de la IA sobre la web abierta); cruces con fuentes AI-mode/SEO de tramos anteriores (consolidación diferida, L12); S4 sin dominios nuevos.
+
+### CIERRE TRAMO 9 (2026-11-15, relevo 2 de gentle-ai-worker)
+
+- **5/5 fuentes ingestadas y committed** (WL-107..WL-111), 0 meta-fail, 0 skip, pre-flight dedupe limpio (628→633 ids en raw/). Commits por fuente: WL-107 `b1731b17`, WL-108 `6f95e0b2`, WL-109 `1aa403fe`, WL-110 `a3db71d4`, WL-111 `c590622c`. Salida **45.239.32.215** (Proton UE, validada hoy, 6 descargas consecutivas del día sin un solo 429) — presupuesto suave 100 nunca alcanzado (L13). Estructura tramo (L12): `raw/wl/tramo-9/` + `wiki/wl/tramo-9/resumen-WL<NNN>-<slug>.md`, index.md con subcarpeta.
+- Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-107 general/sociedad-argentina (historia televisiva + debate económico); WL-108 ia-uso-practico/agentes-de-codigo (Claude Code, ventanas rotas con agentes en paralelo); WL-109 general (ecología/ambiente, sin dominio propio); WL-110 general (cultura argentina, patrocinio Temu excluido); WL-111 ia-critica-y-fronteras (impacto económico del AI Mode sobre la web).
+- **WL-112** (`v4hYfc-gUCA`, PDB «Milei, Trump y la fuga de Bolsonaro») quedó **descargada en scratch** al probar el sexto `--one` (frontera committed respetada): cabeza de la ventana del tramo 10 — procesarla primero al reanudar.
+- Cierre registrado en hub `wiki/wl/indice-wl.md` (sección tramo 9, 5 filas + nota WL-112) y en `odd/tasks/ingesta-ver-mas-tarde.md` (T9 COMPLETADO). Última fuente del tramo: **WL-111** (`VqsmMAVeHco`). Próximo: tramo 10 (WL-112..WL-116, relevo 3); consolidación de tramos 8-9 diferida según flujo L12.
