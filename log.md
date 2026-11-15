@@ -2557,3 +2557,6 @@ Fuente 3/11 (00ENzG5SCMM, Enreta Domótica 2025-11-23). Raw intacto a raw/self-h
 
 ## [2026-11-15] ingesta | Mi Servidor Casero Todo en Uno: CasaOS, Docker, Pi-hole, n8n, File Browser y Cloudflare
 Fuente 4/11 (5Wq4DTyp944, Felipe M. 2025-07-21). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-3.
+
+## [2026-11-15] ingesta | How to install Pi-hole on Casa OS
+Fuente 5/11 (uOvB0CIhb5k, BigBearTechWorld 2023-09-22, en inglés). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 3-4. Última del relevo 1.
