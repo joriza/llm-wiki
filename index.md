@@ -734,7 +734,8 @@ Catálogo de contenido. Se actualiza en cada ingesta; es lo primero que se consu
 
 | [Intenté buscar trabajo y está feo (Dos Dager)](wiki/informatica/resumen-FAV-486-busque-trabajo-esta-feo-dos-dager.md) | Mercado laboral IT como problema de señal/ruído: bandeja de rechazos de bots, spray-and-pray roto y el paper de AI self-preferencing en contratación — los filtros ATS/LLM prefieren CVs hechos por IA (~82 %) con sesgo antihumano, no pro-propio. | informatica |
 
-| [Por qué dejamos de leer (Platzi)](wiki/general/resumen-FAV-481-por-que-dejamos-de-leer-platzi.md) | Colapso de la lectura con divergencia: PISA promedio cayendo (500→476) pero el percentil 90 mejorando — la lectura como multiplicador de desigualdad por decisión personal; boom de audiolibros; vocabulario infantil (1,5 M palabras leyendo a diario) como mecanismo profundo. | general |
+| [El analfabetismo que nadie vio venir (El Robot de Platón)](wiki/general/resumen-FAV-487-analfabetismo-nadie-vio-venir-robot-platon.md) | El nuevo analfabetismo como brecha de comprensión: ADN y algoritmos como códigos que escriben la realidad (genoma oscuro, problema de la parada, IA cuya salida hay que descifrar como un organismo), la primera escritura que se ejecuta sola y «no aprendas a leer, para eso están los audiolibros». | general |
+| [Por qué dejamos de leer (Platzi)](wiki/general/resumen-FAV-481-por-que-dejamos-de-leer-platzi.md) |
 
 | [La IA va más rápido que la educación (MoureDev)](wiki/informatica/resumen-FAV-482-ia-educacion-desfase-mouredev.md) | Desfase estructural: planes de estudio de 3 años frente a tecnología que cambia cada 3 meses; la IA como cambio de categoría (genera aprendizaje, no solo distribuye información); nueva brecha adaptarse-solo vs que-te-enseñen; posición moderada que defiende fundamentos y sistema público. | informatica |
 

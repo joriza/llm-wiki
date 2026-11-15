@@ -2311,3 +2311,9 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Raw**: raw/informatica/2026-11-15-busque-trabajo-y-esta-feo-dos-dager.md
 - **Resumen**: wiki/informatica/resumen-FAV-486-busque-trabajo-esta-feo-dos-dager.md
 - **Dominio**: informatica/ — mercado laboral IT por contenido (precedente FAV-464 juniors).
+
+## [2026-11-15] ingesta | El Analfabetismo que NADIE Vio Venir (El Robot de Platón) — FAV-487
+- **Fuente**: https://www.youtube.com/watch?v=CqotNt4ij2A. Canal El Robot de Platón, 2026-07-09, 23:34, ES subs automáticos. Patrocinio TripleTen excluido.
+- **Raw**: raw/general/2026-11-15-analfabetismo-que-nadie-vio-venir-robot-platon.md
+- **Resumen**: wiki/general/resumen-FAV-487-analfabetismo-nadie-vio-venir-robot-platon.md
+- **Dominio**: general/ — transversal sin dominio claro (divulgación/alfabetización; decisión de consolidación). Completa el par lectura/analfabetismo con FAV-481 (umbral ≥2 para consolidación).
