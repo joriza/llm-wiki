@@ -1986,3 +1986,7 @@ YouTube hJBYvOV51QQ (ES, subs automáticos, 21:05, 2024-02-29). Raw: raw/electro
 - Fuente: https://www.youtube.com/watch?v=HJ2jhVcDb5E → raw/electronica-practica/2026-11-15-deauther-wifi-wipwn-esp8266-nodemcu.md
 - Resumen: wiki/electronica-practica/resumen-FAV-416-wipwn-deauther-esp8266-alto-evolucionario.md
 - Cruces: FAV-412 (Spacehuhn Deauther, proyecto sucesor), FAV-415 (misma serie del canal, versión ESP32), FAV-357 (NodeMCU). Descarga gated OK (sleep 88 s, salida WARP).
+
+## [2026-11-15] ingesta | FAV-417 — El ácido tánico como convertidor de óxido (Raíces Prohibidas)
+- Fuente: https://www.youtube.com/watch?v=ywWdMOfVRSw → raw/electronica-practica/2026-11-15-acido-tanico-conversion-oxido.md
+- Resumen: wiki/electronica-practica/resumen-FAV-417-acido-tanico-conversion-oxido-raices-prohibidas.md (marco clickbait señalado, precedentes fuentes 20/21). Descarga gated OK (sleep 88 s, salida WARP).

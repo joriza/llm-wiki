@@ -3,8 +3,8 @@ FAV-412|Vs|Desautenticador ESP8266 | Documentación de Spacehuhn|https://docs.sp
 FAV-413|Vs|SillyTavern Documentation|https://docs.sillytavern.app/
 FAV-414|Vs|Convert Markdown Table to Excel Online - Table Convert|https://tableconvert.com/markdown-to-excel ; SKIP 2026-11-15: herramienta trivial de conversión, sin contenido útil para la wiki
 FAV-415|Vs|(396) Atacando Redes Wi-Fi con NodeMCU ESP32 Deauther PMKID WPA2 Handshake ESP-IDF VS Code PASO A PASO!!! - YouTube|https://www.youtube.com/watch?v=hJBYvOV51QQ
-FAV-416|Vs|(396) Atacando Redes Wi-Fi con Wi-PWN ESP8266 NodeMCU TROLLEA MÁS, VIVÍ MEJOR!!! - YouTube|https://www.youtube.com/watch?v=HJ2jhVcDb5E
-FAV-417|Vs|Líquido de $3: ELIMINA TODO el óxido PARA SIEMPRE, por eso quieren ocultarlo! - YouTube|https://www.youtube.com/watch?v=ywWdMOfVRSw
+FAV-416|Vs|(396) Atacando Redes Wi-Fi con Wi-PWN ESP8266 NodeMCU TROLLEA MÁS, VIVÍ MEJOR!!! - YouTube|https://www.youtube.com/watch?v=HJ2jhVcDb5E ; PROCESADA 2026-11-15
+FAV-417|Vs|Líquido de $3: ELIMINA TODO el óxido PARA SIEMPRE, por eso quieren ocultarlo! - YouTube|https://www.youtube.com/watch?v=ywWdMOfVRSw ; PROCESADA 2026-11-15
 FAV-418|Vs|La Madera Será Como Nueva Para Siempre: El Aceite De $1, Que Intentaron Enterrar Desde 1932! - YouTube|https://www.youtube.com/watch?v=a047yopYSxw
 FAV-419|Vs|(30) Cómo generar un LLM a partir de tus documentos (fácil y rápido) - YouTube|https://www.youtube.com/watch?v=j_R3Do3WwgU
 FAV-420|Vs|(574) ¡FreeLLMAPI acaba de Romper las Suscripciones de IA! TODO GRATIS y SIN límites - YouTube|https://www.youtube.com/watch?v=7Oez8kmknOA
