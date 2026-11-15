@@ -1975,3 +1975,9 @@ Web https://docs.spacehuhn.com/deauther/ sin raw. Resumen: wiki/electronica-prac
 
 ## [2026-11-15] ingesta | FAV-413 — SillyTavern: frontend de LLM para power users (docs)
 Web https://docs.sillytavern.app/ sin raw. Fuente claramente de INFORMÁTICA/IA local — resumida igualmente en electronica-practica/, **candidata a dominio informatica** (decisión del usuario en la consolidación). Resumen: wiki/electronica-practica/resumen-FAV-413-sillytavern-frontend-llm.md. Cruces: [[ia-en-mcu]].
+
+## [2026-11-15] skip | FAV-414 — Convert Markdown Table to Excel Online (Table Convert)
+Web https://tableconvert.com/markdown-to-excel — herramienta trivial de conversión en el navegador, sin material de conocimiento. SKIP con motivo.
+
+## [2026-11-15] ingesta | FAV-415 — Atacando redes Wi-Fi con NodeMCU ESP32 Deauther (Alto Evolucionario)
+YouTube hJBYvOV51QQ (ES, subs automáticos, 21:05, 2024-02-29). Raw: raw/electronica-practica/2026-11-15-deauther-wifi-esp32-nodemcu.md. Resumen: wiki/electronica-practica/resumen-FAV-415-deauther-wifi-esp32-alto-evolucionario.md. Cruces: FAV-412 (Spacehuhn Deauther ESP8266), FAV-357/358/359/360 (ESP32/ESP8266). Descarga gated OK (sleep 87 s, salida WARP).
