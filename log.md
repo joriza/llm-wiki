@@ -3099,3 +3099,6 @@ Tramo 23, fuente 3. Docudrama del ciclo LulzSec 2011 y la traición de Sabu: HBG
 
 ## [2026-11-15] ingesta | WL-184 · ¿El Peronismo en su Crisis Terminal? (Los Herederos de Alberdi)
 Tramo 23, fuente 4. Compilación satírico-crítica de la crisis peronista post-2025; NO fuente factual, encuadre militante señalado en triage e index. Raw espejado en `raw/wl/tramo-23/2026-10-22-el-peronismo-en-su-crisis-terminal-de-trabajadores-a-femboys.md`; resumen en `wiki/wl/tramo-23/resumen-WL184-el-peronismo-en-su-crisis-terminal.md`. Dominio previsto: general/sociedad-argentina (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
+
+## [2026-11-15] ingesta | WL-185 · Me equivoqué, NO uses Spec Driven Development (HolaMundo)
+Tramo 23, fuente 5 (última útil). Crítica al SDD y alternativa ágil con 3 skills propias (backlog/slice/pair programming). Raw espejado en `raw/wl/tramo-23/2026-10-23-me-equivoque-no-uses-spec-driven-development.md`; resumen en `wiki/wl/tramo-23/resumen-WL185-me-equivoque-no-uses-spec-driven-development.md`. Dominio previsto: ia-uso-practico/agentes-de-codigo (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
