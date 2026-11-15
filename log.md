@@ -1935,3 +1935,6 @@ YouTube tItvqXAkzBk (Robot UNO, ES, 2021). El bookmark traía `list=` — ignora
 
 ## [2026-11-15] ingesta | Conectar 100 LEDs a una salida (FAV-405)
 YouTube CtJqhg5Y6DA (El profe García, ES-419, 2013, subs manuales). El bookmark traía `list=` — ignorada por S4. Raw: raw/electronica-practica/2013-11-20-conectar-100-leds-una-salida-profe-garcia.md. Resumen: wiki/electronica-practica/resumen-FAV-405-conectar-100-leds-una-salida-profe-garcia.md. Cruces: FAV-398/402 (transistor conmutador), [[transistor-bjt]].
+
+## [2026-11-15] ingesta | Tira LED al ritmo de la música (FAV-406)
+YouTube ZsMuX1fI0Fs (El profe García, ES, 2021). El bookmark traía `list=` — ignorada por S4. Raw: raw/electronica-practica/2021-01-20-tira-led-ritmo-musica-profe-garcia.md. Resumen: wiki/electronica-practica/resumen-FAV-406-tira-led-ritmo-musica-profe-garcia.md. Cruces: FAV-375 (pantalla 16x16 WS2812B, mismo canal), FAV-393 (WS2812), FAV-398/402 (clúster LED).
