@@ -2877,3 +2877,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Estructura tramo (L12): `raw/wl/tramo-13/` + `wiki/wl/tramo-13/resumen-WL<NNN>-<slug>.md`, index.md con subcarpeta, hub indice-wl.md actualizado (sección tramo 13).
 - Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-127 general (gastronomía experimental); WL-128 general (historia del cine/cultura pop); WL-129 general (divulgación espacial — ojo, fecha del hito día luz 18-11-2026, verificar luego contra NASA); WL-130 general (cripto/seguridad — info preliminar al 30-10-2026, puede desactualizarse); WL-131 general (comunicación/ansiedad social).
 - Última fuente del tramo: **WL-131** (`1uupD1vZkyM`). Próximo: T14 (WL-132..WL-136, relevo 7); consolidación de tramos 8-13 diferida según flujo L12.
+
+## [2026-11-15] ingesta | WL-132 — ¿Es El Fin De Los LLM? (NCM)
+
+- Fuente: `2BicjJgRkms` (Jorge Marfil, 2026-10-29, 33:37). Raw espejado a `raw/wl/tramo-14/2026-10-29-es-el-fin-de-los-llm-ncm.md`; resumen en `wiki/wl/tramo-14/resumen-WL132-es-el-fin-de-los-llm-ncm.md`.
+- Desmontaje del hype del NCM de Stanford: generación por niveles (no token a token), 31× solo contra modelos de difusión, gana en resúmenes/Sudoku y pierde en traducción, escala mínima y publicación incompleta (placeholder de 5 bytes); la ventaja de escritura paralela es del usuario local (batch=1), no de los datacenters. Regla del canal: «compra por ancho de banda y vigila el cálculo».
+- Dominio destino previsto (pendiente consolidación, S4): `ia-critica-y-fronteras` o `ia-uso-practico/hardware-ia-local`. Cruce natural: [[jorge-marfil]], hardware para IA local.
