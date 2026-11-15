@@ -1,0 +1,60 @@
+- FAV-490 — [video] (Electromecanica/PLC) — Conceptos Básicos del Controlador de Lógica Programable - YouTube — https://www.youtube.com/watch?v=NPsepHRSCls
+- FAV-491 — [video] (Electromecanica/PLC) — (300) COMO REALIZAR EL CABLEADO DE PLC LOGO 12/24RCE EXPLICADO - YouTube — https://www.youtube.com/watch?v=0gEZE2ubCZE
+- FAV-492 — [playlist] (Electromecanica/PLC) — (189) CURSO PLC LOGO! de SIEMENS desde CERO - YouTube — https://www.youtube.com/playlist?list=PL04XX6UHHXqhJUByekClZgM2Akq0oolPI
+- FAV-493 — [playlist] (Electromecanica/PLC) — (189) LOGO! en CADESIMU - YouTube — https://www.youtube.com/playlist?list=PL04XX6UHHXqhm5zIXlCC3uD2XAiuZzDIb
+- FAV-494 — [video] (Electromecanica/PLC) — (189) Arranque Estrella Triangulo en PLC logo SIEMENS - YouTube — https://www.youtube.com/watch?v=zo-dp7Wk3QM
+- FAV-495 — [video] (Electromecanica/PLC) — (189) Cómo LEER un SENSOR ANALÓGICO (autosen - AP016) de 4–20 mA en PLC LOGO! - YouTube — https://www.youtube.com/watch?v=oK0rGYagn8s
+- FAV-496 — [video] (Electromecanica/PLC) — (189) Arranque estrella triangulo con PLC LOGO en cade simu. paso a paso. - YouTube — https://www.youtube.com/watch?v=cYQZbnc1BNQ
+- FAV-497 — [video] (Electromecanica/PLC) — (189) PRÁCTICA 3.5 LOGO RS Arranque estrella triángulo con inversión de giro de un motor trifásico. - YouTube — https://www.youtube.com/watch?v=OaqSaC__qnU
+- FAV-498 — [video] (Electromecanica/Electricidad) — Factor de Potencia Explicado - La Pérdida en su Factura de Electricidad - YouTube — https://www.youtube.com/watch?v=wpubuxVCJtE
+- FAV-499 — [video] (Electromecanica/Electronica) — Diodos Explicados - YouTube — https://www.youtube.com/watch?v=aPY3I8pG478
+- FAV-500 — [video] (Electromecanica/Electronica) — Capacitores Explicados - Los fundamentos funcionan los condensadores. Principio de funcionamiento - YouTube — https://www.youtube.com/watch?v=h_m6qFRNITU
+- FAV-501 — [video] (Electromecanica/Electronica) — Inductores Explicados - YouTube — https://www.youtube.com/watch?v=Gckb8cS1h5g
+- FAV-502 — [video] (Electromecanica/Electronica) — Transistor Explicado - Cómo Funcionan los Transistores - YouTube — https://www.youtube.com/watch?v=zh7PeHAZRLY
+- FAV-503 — [video] (Electromecanica/Electronica) — Cómo Funciona un MOSFET- Guía completa, entiéndelo como un PRO - YouTube — https://www.youtube.com/watch?v=4Dnx5YR9k-8&t=569s
+- FAV-504 — [video] (Electromecanica/Proyectos) — Fuente Capacitiva sin Transformador - Cálculos y Pruebas - YouTube — https://www.youtube.com/watch?v=jI3v-zjCesw
+- FAV-505 — [video] (Electromecanica/Proyectos) — Cargador Bateria con FUENTE DE COMPUTADORA! - YouTube — https://www.youtube.com/watch?v=hHH62ej2Bvc
+- FAV-506 — [video] (Electromecanica/Proyectos) — Fuente capacitiva — https://www.youtube.com/watch?v=yBCiz6xEB-4&t=760s
+- FAV-507 — [video] (Electromecanica/Proyectos) — Proyectos de electrónica con el transistor Bc547 - YouTube — https://www.youtube.com/watch?v=je-M9xYXjhg
+- FAV-508 — [video] (Electromecanica/Proyectos) — 25 Projects Using Transistor BC547 - YouTube — https://www.youtube.com/watch?v=Z2AGyuwoqVg&t=779s
+- FAV-509 — [video] (Electromecanica/Proyectos) — 6 Simple BC547 circuit - YouTube — https://www.youtube.com/watch?v=HzmM468w7eo
+- FAV-510 — [video] (Electromecanica/Proyectos) — 4 proyectos más útiles para reparadores de electrónica - YouTube — https://www.youtube.com/watch?v=KkAakh_cyQE
+- FAV-511 — [short] (Electromecanica/Proyectos) — Fotocelula a 220 con pocos componentes — https://www.youtube.com/shorts/jefSiaDgryo
+- FAV-512 — [video] (Electromecanica/Proyectos) — (594) Como hacer un DETECTOR DE METALES PI. Pirata Ruso Placa de PCBWAY - YouTube — https://www.youtube.com/watch?v=P6Yo4xhDs9k
+- FAV-513 — [video] (Electromecanica/Proyectos) — (594) CONSTRUYO un PLATO de DETECTOR de Metales - ¡VLF así Funcionan! - YouTube — https://www.youtube.com/watch?v=39f9RJkPJNk
+- FAV-514 — [video] (Electromecanica/Proyectos) — (594) ¿Por qué 'pitan' los arcos de seguridad? - YouTube — https://www.youtube.com/watch?v=COqjxrG9aJc
+- FAV-515 — [video] (Electromecanica/Proyectos) — (594) DIY Metal Detector | Russian metal detector circuit | Pirate - YouTube — https://www.youtube.com/watch?v=7QJrI-9CCIw
+- FAV-516 — [video] (Electromecanica/Proyectos) — (594) DIY powerful metal detector | Find elusive fine gold, everywhere - YouTube — https://www.youtube.com/watch?v=pMartoyR28U
+- FAV-517 — [video] (Electromecanica/Proyectos) — (594) DIY deep metal detector with distance indicator light (audience suggestion) - YouTube — https://www.youtube.com/watch?v=PP9lmebXGMc
+- FAV-518 — [video] (Electromecanica/Proyectos) — (594) PROYECTO: DETECTOR DE METALES DE ALTA GAMA CASERO (pi polones) - YouTube — https://www.youtube.com/watch?v=KbE5qQztaBA
+- FAV-519 — [video] (Electromecanica/Proyectos) — (594) Cómo hacer un detector de metales usando un multímetro - YouTube — https://www.youtube.com/watch?v=NQWCHglTDqg
+- FAV-520 — [video] (Electromecanica/Energias Renovables) — Cómo Funcionan Realmente las Turbinas Eólicas: Los Secretos Ocultos - YouTube — https://www.youtube.com/watch?v=Uk4LlN7qIaA
+- FAV-521 — [video] (Electromecanica/Energias Renovables) — Paneles Solares Explicados - ¡Descubre los Misterios del Funcionamiento de los Paneles Solares! - YouTube — https://www.youtube.com/watch?v=Mhvm9keeM5o
+- FAV-522 — [video] (Electromecanica/Energias Renovables) — El fraude de los paneles solares - YouTube — https://www.youtube.com/watch?v=PruvGT6pzIY
+- FAV-523 — [video] (Electromecanica/Energias Renovables) — Controlador de Carga Solar PWM y MPPT ¿DIFERENCIAS Y CUAL CONVIENE? SRNE Vs Chinos - YouTube — https://www.youtube.com/watch?v=TNuNPWx3n9U
+- FAV-524 — [video] (Electromecanica/Energias Renovables) — Inversor para placas solares: ¿Cuál es el MEJOR para mi casa o negocio? - YouTube — https://www.youtube.com/watch?v=laDPoN9HZlo
+- FAV-525 — [video] (Electromecanica/Energias Renovables) — (3668) MPPT - ¿Qué es y Como Funciona? - YouTube — https://www.youtube.com/watch?v=0Z52-wReNfY
+- FAV-526 — [video] (Electromecanica/Energias Renovables) — Entiendo Energía Solar: ¿Que es el MPPT de los inversores, como extraer lo maximo del inversor? - YouTube — https://www.youtube.com/watch?v=S3F_7JHVOx0
+- FAV-527 — [video] (Electromecanica/Energias Renovables) — Mono vs Policristalino - Diferencia en paneles solares - YouTube — https://www.youtube.com/watch?v=Q6HNV_-jlsc
+- FAV-528 — [video] (Electromecanica/Energias Renovables) — Importancia de la Tierra Eléctrica - Instalaciones Eléctricas y Solares - YouTube — https://www.youtube.com/watch?v=TKj60D7CPT8
+- FAV-529 — [video] (Electromecanica/Energias Renovables) — Serie o Paralelo ➡️ Evita estos errores comunes en las conexiones de los paneles solares - YouTube — https://www.youtube.com/watch?v=Wr08jWeee4Y
+- FAV-530 — [video] (Electromecanica/Energias Renovables) — El verdadero problema de los paneles solares - YouTube — https://www.youtube.com/watch?v=SK3eadxZ9Qo
+- FAV-531 — [video] (Electromecanica/Energias Renovables) — El VOLANTE De Inercia Que Hace La Energiá Solar 90% Más Barata | ¿Por Qué Puede Durar Para Siempre? - YouTube — https://www.youtube.com/watch?v=VwUYgcmTNc0
+- FAV-532 — [video] (Electromecanica/Energias Renovables) — (805) El Espejismo Verde La realidad escondida detrás de los autos eléctricos - YouTube — https://www.youtube.com/watch?v=3Zcmz5n19as
+- FAV-533 — [video] (Electromecanica/Energias Renovables) — (927) REGULADOR de VOLTAJE CASERO para EQUIPO SOLAR - YouTube — https://www.youtube.com/watch?v=m7oZseAx6r8
+- FAV-534 — [video] (Electromecanica/Energias Renovables) — (927) Kit Solar para cortes de Luz - Bajo Costo - Bateria de Gel 12V y USB | Sponsor LCSC - YouTube — https://www.youtube.com/watch?v=12CNQP9LSLc
+- FAV-535 — [video] (Electromecanica/Energias Renovables) — (927) ✅Cual es la Diferencia entre controlador PWM y MPPT #2022 #solarenergy - YouTube — https://www.youtube.com/watch?v=w5mOt0ramn4
+- FAV-536 — [web] (Electromecanica/Energias Renovables) — Como hacer un seguidor solar casero con Arduino — https://www.wexterhome.com/proyectos-con-arduino/seguidor-solar-casero/
+- FAV-537 — [playlist] (Electromecanica/Energias Renovables) — (927) 🪵🪓 CÓMO HACER MÁQUINA PARA HACER BRIQUETAS - YouTube — https://www.youtube.com/playlist?list=PLDKIpoNvzGd90MxvYFAJ3mif7IEARAv5F
+- FAV-538 — [video] (Electromecanica/Otros) — ¿Qué es la Electrolisis? - YouTube — https://www.youtube.com/watch?v=LabUSWql5mc
+- FAV-539 — [video] (Electromecanica/Otros) — Niquelado casero - como hacer electrolito para NIQUELAR metales, casero con pocos elementos, como niquelar metales - YouTube — https://www.youtube.com/watch?v=4dzl2E5fJD4
+- FAV-540 — [video] (Electromecanica/Otros) — Niquelado casero - Método mejorado - YouTube — https://www.youtube.com/watch?v=0hNqim8l8aQ
+- FAV-541 — [video] (Electromecanica) — Por que mi cautín no suelda? - YouTube — https://www.youtube.com/watch?v=NoaLWJ6qsdA
+- FAV-542 — [video] (Electromecanica) — Repara o modifica tu cautín. ¡Este no es un vídeo más! - YouTube — https://www.youtube.com/watch?v=uyFW6-19NDo
+- FAV-543 — [video] (Electromecanica) — (241) Cómo Identificar un Transistor NPN - PNP - YouTube — https://www.youtube.com/watch?v=OakNLWQRBQQ&list=PLbwo_Ft3k3pgRiRi0BH2BynKb09RMeJjd&index=8
+- FAV-544 — [video] (Electromecanica) — (356) ⚡ LDmicro Cap_10 micro PLC Ladder con Arduino Nano, como grabar con AVRDUDES - YouTube — https://www.youtube.com/watch?v=ieUgc414Et4
+- FAV-545 — [video] (Electromecanica) — (356) Primeros pasos en ld micro - YouTube — https://www.youtube.com/watch?v=hj08CY_HIII&list=PLLULTIz2rWZMwUTcd1_FBIU7sK5fmrYpa
+- FAV-546 — [video] (Electromecanica) — (356) TUTORIAL | Cargar programa en lenguaje escalera en Arduino con LD Micro y XLoader - YouTube — https://www.youtube.com/watch?v=5bnanIe51QE
+- FAV-547 — [video] (Electromecanica) — (365) Leyes de Kirchhoff (mallas y nodos) Ejercicio Resuelto Paso a Paso + Teoría Resolución de Circuitos - YouTube — https://www.youtube.com/watch?v=EwY13yT1tSo
+- FAV-548 — [video] (Electromecanica) — Circuitos ELÉCTRICOS: Leyes de Kirchhoff y Resistencias Equivalentes - YouTube — https://www.youtube.com/watch?v=btrxWydp4ag
+- FAV-549 — [video] (Electromecanica) — (413) Generador Eolico Casero, Reciclando Ventilador Roto - YouTube — https://www.youtube.com/watch?v=wwaFaeprHAA

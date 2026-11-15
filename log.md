@@ -2359,3 +2359,7 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] lint aplicado | fusión modelos-llm-locales/ -> ia-local/
 - Dominio `modelos-llm-locales/` (22 fuentes: modelos pequeños, Gemma 4/Qwen/LFM, entidades bartowski/frognano) fusionado en `ia-local/` por decisión del usuario tras lint (solapamiento herramientas↔modelos). Sin colisiones de nombres; index.md reescrito (n rutas); entrada de dominio marcada como fusionada en dominios.md.
+
+## [2026-11-15] dominio nuevo | electromecanica/ (ventana Electromecanica T5)
+- Dominio `wiki/electromecanica/` creado por confirmación expresa del usuario (2026-11-15) para la carpeta Docencia/Material Didactico Varios (FAV-490..549, ~60 fuentes: PLC, Electricidad, Electronica, Proyectos, Energias Renovables, Otros + sueltos). Registrado en `wiki/dominios.md`. Alcanze: PLCs, instalaciones/energía, proyectos caseros y teoría de base electromecánica.
+- Relevo 1 (worker): sonda de salida OK — egress cambió de WARP 104.28.199.112 a Proton UE 45.239.32.215 (no mid-tramo; validado hoy contra fetch de prueba; salidas.md actualizado). Pacing 85-90 s.
