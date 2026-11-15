@@ -2052,3 +2052,31 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] relevo 4 T4 — FAV-426..430 COMPLETO 5/5 (líneas 16-20, IDs verificados contra vs-docencia-lista.txt)
 - FAV-426 VS Code curso completo (HolaMundo, Ei1y51K8jQk, 210ad187) · FAV-427 playlist pura IGNORADA definitivo (precedente FAV-401/404/421, marcada en línea 17, incluida en commit de FAV-426) · FAV-428 VS Code tutorial MoureDev (7f26f3de) · FAV-429 Git curso HolaMundo (28385df3) · FAV-430 historia Git fatdev (55269f5f). 4/5 PROCESADAS con ciclo completo (raw/informatica/ + wiki/informatica/), 1 IGNORADA. 0×429; salida WARP; 4 fetches OK gated (sleeps 87-88 s), 0 meta-fail, 0 NO-SUBS, 0 duplicados. Umbrales nuevos para consolidación diferida: clúster VSCode 2 fuentes (FAV-426/428), clúster Git 2 fuentes (FAV-429/430, con cruce potencial a historia-informatica). Sin concepto/entidad nuevas (todo deferido). El relevo siguiente continúa en la línea 21 (FAV-431).
+
+## [2026-11-15] ingesta | FAV-431 — Cómo un Ingeniero Creó a los Developers — C (fatdev)
+- Fuente: https://www.youtube.com/watch?v=C2OMJXfRNnI → raw/informatica/2026-11-15-dennis-ritchie-lenguaje-c-fatdev.md
+- Resumen: wiki/informatica/resumen-FAV-431-dennis-ritchie-lenguaje-c-fatdev.md
+- Fuente de INFORMÁTICA (Informatica/Transversal) — directo en informatica/. Canal fatdev: 2.ª fuente (FAV-430) → entidad candidata, deferida. Cruces: FAV-430, dominio historia-informatica (Unix/Bell Labs/K&R).
+
+## [2026-11-15] ingesta | FAV-432 — 4+6 Cosas que puedes hacer con un Router Viejo sin Internet (elmondigital)
+- Fuente: https://www.youtube.com/watch?v=JnzMXLeI1AI → raw/informatica/2026-11-15-router-viejo-sin-internet-elmondigital.md
+- Resumen: wiki/informatica/resumen-FAV-432-router-viejo-sin-internet-elmondigital.md
+- Fuente de INFORMÁTICA (redes domésticas) — directo en informatica/, no electronica-practica. Cruces: DHCP (DORA/lease), OpenWRT/domótica local, clúster homelab.
+
+## [2026-11-15] ingesta | FAV-433 — Big O explicado con ejemplos de la vida real (Torti Code)
+- Fuente: https://www.youtube.com/watch?v=EhS3Q5XvyBY → raw/informatica/2026-11-15-big-o-vida-real-torti-code.md
+- Resumen: wiki/informatica/resumen-FAV-433-big-o-vida-real-torti-code.md
+- Fuente de INFORMÁTICA (Informatica/Transversal) — directo en informatica/. Canal Torti Code: 2.ª fuente en la wiki (concurrencia vs paralelismo en informatica-teoria) → entidad candidata, deferida. Cruce: estructuras de datos/algoritmos (Codist).
+
+## [2026-11-15] ingesta | FAV-434 — si programás con IA, sos un bolud* (otro más de sistemas)
+- Fuente: https://www.youtube.com/watch?v=zuLt9uU_86Q → raw/informatica/2026-11-15-vibe-coding-cinco-agujeros-otro-mas-de-sistemas.md
+- Resumen: wiki/informatica/resumen-FAV-434-vibe-coding-cinco-agujeros-otro-mas-de-sistemas.md
+- Fuente de INFORMÁTICA (Informatica/Transversal) — directo en informatica/. Umbral nuevo para consolidación: clúster vibe coding con IA 2 fuentes (FAV-434/435). Cruce: testing (Torti Code).
+
+## [2026-11-15] ingesta | FAV-435 — Empieza a hacer apps sin saber programar (podcast Lunaticoin × Alan Buscaglia)
+- Fuente: https://www.youtube.com/watch?v=5Ts_EX73o1Y → raw/informatica/2026-11-15-podcast-lunaticoin-alan-buscaglia-apps-sin-programar.md
+- Resumen: wiki/informatica/resumen-FAV-435-podcast-lunaticoin-alan-buscaglia.md
+- Fuente de INFORMÁTICA (Informatica/Transversal) — directo en informatica/. Umbral cerrado: vibe coding con IA 2 fuentes (FAV-434/435) → página de concepto candidata. Entidad candidata 1.ª fuente: Gentleman Programming/Alan Buscaglia (Gentle-AI, Pi, harnesses) — deferida. Cruces: FAV-426/428 (entornos agentes), FAV-419 (IA local/privacidad).
+
+## [2026-11-15] relevo 5 T4 — FAV-431..435 COMPLETO 5/5 (líneas 21-25, IDs verificados contra vs-docencia-lista.txt)
+- FAV-431 C/Dennis Ritchie fatdev (·) · FAV-432 router viejo elmondigital · FAV-433 Big O Torti Code · FAV-434 vibe coding otro más de sistemas · FAV-435 podcast Lunaticoin/Buscaglia. 5/5 PROCESADAS con ciclo completo (raw/informatica/ + wiki/informatica/), 0 playlists puras, 0 webs, 0 duplicados en el rango. 0×429; salida WARP; 5 fetches OK gated (sleeps ~87-88 s), 0 meta-fail, 0 NO-SUBS. Umbrales para consolidación diferida: clúster vibe coding con IA 2 (FAV-434/435), canal fatdev 2 (FAV-430/431), canal Torti Code 2 (incl. FAV informatica-teoria); entidad candidata 1.ª fuente Gentleman Programming. Sin concepto/entidad nuevas (todo deferido). El relevo siguiente continúa en la línea 26 (FAV-436).
