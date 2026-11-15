@@ -19,7 +19,7 @@
 19|IOT Gral|📢 "¡NO Uses MICROCONTROLADORES en la INDUSTRIA! ¡No sirven!" ¿MITO O REALIDAD?" 😱 - YouTube|https://www.youtube.com/watch?v=kgdIz0SuABI
 20|IOT Gral|Sensores industriales 4–20 mA con ESP32 (SIN PLC) - YouTube|https://www.youtube.com/watch?v=XkdxKrvYVnc&t=175s  # DUPLICADO de FAV-354 (mismo video, ts distinto) — procesado como FAV-354
 21|IOT Gral|(189) [RELAY] 7 FORMAS de ARRUINAR tus DISEÑOS - YouTube|https://www.youtube.com/watch?v=IlfEYTcdfHE
-22|IOT Gral|Como Soldar Correctamente las Tiras Pin del arduino. - YouTube|https://www.youtube.com/watch?v=dhnkp762hfQ
+22|IOT Gral|Como Soldar Correctamente las Tiras Pin del arduino. - YouTube|https://www.youtube.com/watch?v=dhnkp762hfQ  # SKIP .NO-SUBS definitivo (subtítulos deshabilitados, 2026-11-15)
 23|IOT Gral|(208) Cómo hacer que tus proyectos IoT duren AÑOS: powerTimer (Consumo Cero) - YouTube|https://www.youtube.com/watch?v=sy0iTkA_p64
 24|IOT Gral|Arduino desde cero en Español - Capítulo 62 - Fuente de Protoboard Arduino y electrónica MB102 - YouTube|https://www.youtube.com/watch?v=tznNsm4ep8k
 25|IOT Gral|(241) Arduino desde cero en Español - Capítulo 1 - Introducción Arduino e inicio del Curso - YouTube|https://www.youtube.com/watch?v=eBVvD85Ml2c&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2
