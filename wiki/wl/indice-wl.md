@@ -227,3 +227,13 @@ Notas del tramo: 5/5 útiles exactos (WL-191..WL-195), 2 SKIP definitivos sin su
 | WL-200 | Verbatim: ¿por qué fracasó el gigante de los disquetes? (`WHwIah-LmC8`) | Archivo Tecnológico | general (historia de la tecnología — garantía de 5 años como salvación y trampa, Kodak/Mitsubishi/CMC; cruces WL-117 Autodesk) | Resumen en `tramo-26/` |
 
 Notas del tramo: 5/5 útiles exactos (WL-196..WL-200), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L22: **47/50 útiles**.
+
+## Tramo 27 — cierre del pedido L22 (WL-201..WL-203)
+
+| # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
+|---|--------|--------|------------------|---------|
+| WL-201 | Lo que Argentina Oculta en sus Provincias — 25 Datos (`YNq6QK2I2wI`) | MUNDO INSÓLITO | general o general/sociedad-argentina (divulgación geográfica listicle — 25 datos por provincia; sin citas primarias, señalado) | Resumen en `tramo-27/` |
+| WL-202 | Argentina: 20 Secretos Geográficos Que Parecen Mentira (`iC7MSnz1n24`) | Planeta al Descubierto | general o general/sociedad-argentina (divulgación geográfica — 20 datos; SOLAPA FUERTE con WL-201, candidato a concepto único; discrepancia Campo del Cielo a armonizar) | Resumen en `tramo-27/` |
+| WL-203 | Claude Opus 5.5: La revolución en la creación de videos (`sHfxp_AVRlw`) | Melina Blanco | ia-uso-practico/agentes-de-codigo (demo skills + Claude Code para video; marco comercial de comunidad de pago, señalado; cruces WL-153/WL-165/WL-178) | Resumen en `tramo-27/` |
+
+Notas del tramo: 3/3 útiles exactos (WL-201..WL-203), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin cuarto ciclo (TRAMO FINAL del pedido L22). Salida 45.239.32.215 (Proton UE, validada hoy), 3 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). **PEDIDO L22 CERRADO: 50/50 útiles.**
