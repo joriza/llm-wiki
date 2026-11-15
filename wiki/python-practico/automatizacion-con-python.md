@@ -22,6 +22,7 @@ Automatizar tareas repetitivas de oficina — limpiar planillas, extraer datos d
 - Pandas no siempre alcanza: con >100.000 filas, migrar el procesamiento a Polars.
 - Selenium quedó superado por Playwright para scraping con login/JS.
 - «Un API que solo responde cuando lo llamas no es verdadera automatización»: sin el paso de programación (Schedule), falta el producto.
+- Alternativa serverless (2021-02-24, Paradigma Digital): las tareas programadas también pueden correr como **funciones FaaS con schedule events** (Lambda/Azure Functions/Cloud Functions vía Serverless Framework) — pago por uso sin VPS, a cambio de cold start, lock-in y timeout; ver [[resumen-introduccion-a-serverless-con-python]].
 - Los clientes pagan por documentos entregables, no por CSVs crudos.
 
 ## Estado en la wiki
