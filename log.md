@@ -2245,3 +2245,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=VcrODftwUFc. Canal marco cruz, 2018-10-15, 03:32, ES subs automáticos.
 - **Raw**: raw/electronica-practica/2026-11-15-cargar-programa-arduino-ldmicro-xloader-marco-cruz.md
 - **Resumen**: wiki/electronica-practica/resumen-FAV-473-cargar-programa-arduino-ldmicro-xloader-marco-cruz.md
+
+## [2026-11-15] ingesta | Repetidor WiFi ESP32 extensor de alcance (Computadoras y Sensores) — FAV-474
+- **Fuente**: https://www.youtube.com/watch?v=naJQhnYYlak. Canal Computadoras y Sensores, 2023-01-14, 10:18, ES subs automáticos.
+- **Raw**: raw/electronica-practica/2026-11-15-repetidor-wifi-esp32-extensor-alcance-computadoras-y-sensores.md
+- **Resumen**: wiki/electronica-practica/resumen-FAV-474-repetidor-wifi-esp32-extensor-alcance-computadoras-y-sensores.md
