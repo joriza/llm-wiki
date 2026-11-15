@@ -1981,3 +1981,8 @@ Web https://tableconvert.com/markdown-to-excel — herramienta trivial de conver
 
 ## [2026-11-15] ingesta | FAV-415 — Atacando redes Wi-Fi con NodeMCU ESP32 Deauther (Alto Evolucionario)
 YouTube hJBYvOV51QQ (ES, subs automáticos, 21:05, 2024-02-29). Raw: raw/electronica-practica/2026-11-15-deauther-wifi-esp32-nodemcu.md. Resumen: wiki/electronica-practica/resumen-FAV-415-deauther-wifi-esp32-alto-evolucionario.md. Cruces: FAV-412 (Spacehuhn Deauther ESP8266), FAV-357/358/359/360 (ESP32/ESP8266). Descarga gated OK (sleep 87 s, salida WARP).
+
+## [2026-11-15] ingesta | FAV-416 — Atacando redes Wi-Fi con Wi-PWN ESP8266 NodeMCU (Alto Evolucionario)
+- Fuente: https://www.youtube.com/watch?v=HJ2jhVcDb5E → raw/electronica-practica/2026-11-15-deauther-wifi-wipwn-esp8266-nodemcu.md
+- Resumen: wiki/electronica-practica/resumen-FAV-416-wipwn-deauther-esp8266-alto-evolucionario.md
+- Cruces: FAV-412 (Spacehuhn Deauther, proyecto sucesor), FAV-415 (misma serie del canal, versión ESP32), FAV-357 (NodeMCU). Descarga gated OK (sleep 88 s, salida WARP).
