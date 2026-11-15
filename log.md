@@ -2111,3 +2111,4 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 ## [2026-11-15] relevo 7 T4 — FAV-441..445 (líneas 31-35, IDs verificados contra vs-docencia-lista.txt)
 - FAV-441 programar 10X más rápido Torti Code (este commit)
 · FAV-442 TypeRacer web sin raw (0e079856) · FAV-443 liberar espacio Disco C La Mano Tecno (este commit)
+· FAV-444 protección escritura USB Recoverit (este commit)
