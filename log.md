@@ -2659,3 +2659,6 @@ Fuente 27/37 de la playlist Python (h8Tn0ITRoQs, MoureDev TV 2023-11-30, ES-ASR,
 
 ## [2026-11-15] ingesta | ReactPy Tutorial - Aplicaciones Frontend creadas con Python
 Fuente 28/37 de la playlist Python (EE3wnE0nb4U, Fazt Code 2023-06-27, ES-ASR, 38:31). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-reactpy-tutorial-aplicaciones-frontend-creadas-con-python.md con cruces a la fuente Reflex, primer FastAPI y [[mapa-del-ecosistema-python]]. Nota de contenido: segunda fuente todo-Python-para-web del dominio (con Reflex); biblioteca inmadura en 2023, nota de época señalada.
+
+## [2026-11-15] ingesta | FastHTML: El nuevo framework para crear webs con Python
+Fuente 29/37 de la playlist Python (wzyriWPkh8U, MoureDev TV 2024-08-07, ES-ASR, 05:43, video de noticia). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-fasthtml-el-nuevo-framework-para-crear-webs-con-python.md con cruces a Reflex, ReactPy, [[mapa-del-ecosistema-python]] y primer FastAPI. Nota de contenido: tercera fuente del hilo frontend todo-Python; tramo final de autopromoción del curso de JS excluido de la síntesis.
