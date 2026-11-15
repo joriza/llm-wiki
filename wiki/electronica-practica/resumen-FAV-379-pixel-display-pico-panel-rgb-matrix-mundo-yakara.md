@@ -18,3 +18,5 @@ Proyecto del canal (saga de 10 proyectos con Raspberry Pi Pico): panel LED RGB H
 
 - ASR normalizado solo aquí: «rasberry/rasb pipico» = Raspberry Pi Pico, «2040 feeder/feeder 2040» = Feather 2040, «rp 20400» = RP2040, «Matrix portal» correcto, «spray/spray sheets» = sprite/sprite sheets, «mujen» = MUGEN, «piskel/pisket App/Pixel app» = Piskel, «nest sprites» = NES sprites, «lede» = LED, «quedaría hasta acá» etc.
 - Cruces: línea Raspberry Pi Pico del dominio ([[resumen-FAV-348-pico-curso-micropython]] y siguientes de la saga Pico; panel en serpiente con WS2812B de [[resumen-FAV-375-tira-led-pantalla-16x16-ws2812b-profe-garcia]] y [[resumen-FAV-377-ws2812-strips-fastled-marios-ideas]] — contraste HUB75 con driver vs LED direccionables); inyección de 5 V por corriente insuficiente repite el patrón de alimentación de [[resumen-FAV-375-tira-led-pantalla-16x16-ws2812b-profe-garcia]]; sprites de consolas retro conectan con el marcador de pádel del 7 segmentos gigante ([[resumen-FAV-376-7-segmentos-gigante-ws2812b-profe-garcia]]).
+
+- **Consolidación (2026-11-15): fuente de la entidad [[mundo-yakara]].

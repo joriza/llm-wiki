@@ -24,3 +24,5 @@ Proyecto completo de una barra de tiras LED direccionables (WS2812/WS2812B, "Neo
 
 - Mismo canal: [[resumen-FAV-375-tira-led-pantalla-16x16-ws2812b-profe-garcia|pantalla 16×16 WS2812B]] (FAV-375), [[resumen-FAV-398-cubo-led-conexion-pic-profe-garcia|cubo LED al PIC]] (FAV-398), [[resumen-FAV-386-protocolo-i2c-maestro-esclavos-profe-garcia|I2C]] (FAV-386).
 - Tiras direccionables: [[resumen-FAV-393-controlador-led-ws2812-universal-esp32-c3-marios-ideas|controlador WS2812 universal]] (FAV-393).
+
+- **Consolidación (2026-11-15): fuente de la entidad [[el-profe-garcia]].

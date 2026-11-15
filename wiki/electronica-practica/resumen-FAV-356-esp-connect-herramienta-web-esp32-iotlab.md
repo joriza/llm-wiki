@@ -23,3 +23,5 @@ El autor advierte que es una primera versión sin todas las variantes de ESP32 p
 - "SP Connect" / "eded memory" del ASR = ESP Connect / embedded memory.
 - Cruces: flujo de trabajo con ESP32 — [[resumen-FAV-353-esp-now-conectar-esp32-iotlab]] (mismo canal, IoT Lab: conectividad ESP32), [[resumen-FAV-355-freertos-multitarea-core-esp32-profe-garcia]] y [[resumen-FAV-348-pico-curso-micropython]] (ecosistemas de programación de microcontroladores).
 - **Umbral para consolidación**: canal IoT Lab alcanza 2 fuentes (FAV-353 + FAV-356) → candidata a entidad en la próxima consolidación.
+
+- **Consolidación (2026-11-15): la entidad IoT Lab existe — [[iot-lab]] (umbral superado).

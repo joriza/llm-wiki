@@ -18,4 +18,4 @@ Canal didáctico en español de **electrónica práctica** (tutoriales cortos de
 
 - Nombre del canal reconstruido desde el ASR («Canal de diatonic» / «diatonic» = Ideatronic) — consistente en las cuatro fuentes.
 - En FAV-314 el presentador llama al LM386 «amplificador operacional»: es un **amplificador de potencia de audio** de bajo consumo — error del canal, corregido en el resumen.
-- Otros canales del dominio con 1 fuente (El profe García ×2 tiene fuentes pero sin página, Cienciabit, Electrotube tv ×2, Electgpl, Del 0 al 1, makordoba, Jericho Uno, Amiyoled, Fredy Restrepo, Terrazocultor, ElectroTutoriales, Kriss Electronics ×2, TodoElectronica21, IngE Darwin): **aplazados por umbral** — Kriss Electronics (2 fuentes, FAV-319/321) es el candidato más próximo.
+- El profe García tiene página propia desde el 2026-11-15 (15 fuentes: [[el-profe-garcia]], entidad en `wiki/entidades/`); Kriss Electronics ×2 (FAV-319/321) sigue aplazado por umbral, junto a Cienciabit, Electrotube tv ×2, Electgpl, Del 0 al 1, makordoba, Jericho Uno, Amiyoled, Fredy Restrepo, Terrazocultor, ElectroTutoriales, TodoElectronica21, IngE Darwin.

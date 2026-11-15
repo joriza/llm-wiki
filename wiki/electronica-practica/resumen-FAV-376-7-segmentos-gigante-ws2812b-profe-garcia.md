@@ -17,3 +17,5 @@ Construcción de un display de 7 segmentos ~10× más grande que el clásico de 
 
 - ASR normalizado solo aquí: «Tinkercat» = Tinkercad, «Chag/CH GPT» = ChatGPT, «dinastatecnologica» = dinastiatecnologica.com (proveedor de tiras mencionado), «JLCspcB» = JLCPCB, «LR o fotorresistencias» = LDR.
 - Cruces: misma técnica de tiras direccionables WS2812B que [[resumen-FAV-375-tira-led-pantalla-16x16-ws2812b-profe-garcia]] (protocolo de un cable, DIN→DOUT, LED fantasma también por ruido); mismo canal y línea de curso que [[resumen-FAV-351-que-es-un-fpga-profe-garcia]], [[resumen-FAV-352-rtc-timbre-colegio-profe-garcia]] y [[resumen-FAV-355-freertos-multitarea-core-esp32-profe-garcia]]; fabricación de PCB vía servicio externo (JLCPCB) en contraste con la fabricación casera de [[resumen-FAV-312-circuito-impreso-metodo-del-planchado-ideatronic]] y las herramientas de diseño de [[diseno-pcb-herramientas]].
+
+- **Consolidación (2026-11-15): fuente de la entidad [[el-profe-garcia]].

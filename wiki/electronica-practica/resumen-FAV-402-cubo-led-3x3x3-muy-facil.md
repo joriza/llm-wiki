@@ -20,3 +20,5 @@ Montaje completo de un cubo LED 3×3×3 (27 LEDs, 3 niveles de 3×3) en dos prot
 
 - Clúster cubos LED: [[resumen-FAV-398-cubo-led-conexion-pic-profe-garcia|cubo 4×4×4 al PIC]] (FAV-398 — mismo multiplexado columnas×niveles con 2N2222A), FAV-399/400 (8×8×8, SKIP montajes musicales).
 - Transistores como conmutadores: [[transistor-bjt]].
+
+- **Consolidación (2026-11-15): fuente del concepto [[cubos-matrices-led]].

@@ -20,3 +20,5 @@ Los 7 errores clásicos al incorporar relés (activación de potencia) en diseñ
 
 - ASR: «trebola» = TR3BOL, «ad mea 328p» = ATmega328P, «sp32/SP 32» = ESP32, «caladura» = caladura/slot de aislación; normalizado solo aquí.
 - Cruces: los strapping pins y high-on-boot detallan el semáforo de [[resumen-FAV-361-que-pines-usar-esp32-tr3bol]]; corriente fuente/sumidero del GPIO conecta con la arquitectura del [[resumen-FAV-362-arquitectura-esp32-bit-micro-lab]]; el transistor como amplificador enlaza con [[transistor-bjt]]; el mismo criterio de fiabilidad por diseño de PCB aparece en [[resumen-FAV-364-microcontroladores-industria-mito-tr3bol]]. Mismo canal: [[resumen-FAV-354-sensores-4-20ma-esp32-tr3bol]].
+
+- **Consolidación (2026-11-15): fuente de la entidad [[tr3bol-argentina]].

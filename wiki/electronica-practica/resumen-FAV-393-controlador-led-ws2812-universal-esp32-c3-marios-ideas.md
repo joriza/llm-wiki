@@ -25,3 +25,5 @@ Construcción de una placa controladora universal de LEDs direccionables WS2812 
 - LEDs direccionables WS2812 cruzan con [[resumen-FAV-375-tira-led-pantalla-16x16-ws2812b-profe-garcia|tira/matriz LED 16×16 WS2812B]] (FAV-375).
 - LDR conecta con [[resumen-FAV-004-fotoresistencia-ldr-cienciabit|LDR fotorresistencia]] (FAV-004) y el [[resumen-FAV-003-montaje-detector-de-luz|detector de luz]] (FAV-003).
 - Fabricación de PCB casera con Fritzing + PCBWay conecta con el clúster diseño-pcb-herramientas/fabricacion-casera-pcb ([[resumen-FAV-317-tutorial-basico-kicad|FAV-317]] y afines).
+
+- **Consolidación (2026-11-15): fuente de la entidad [[marios-ideas]]; cruce de [[cubos-matrices-led]].

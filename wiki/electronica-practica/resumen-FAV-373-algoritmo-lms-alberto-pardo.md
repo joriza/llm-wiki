@@ -18,3 +18,5 @@ Clase con simulación (MATLAB/Octave) del filtro adaptativo LMS (Least-Mean-Squa
 - ASR normalizado solo aquí: «notable 1» = MATLAB, «seno y dar» = senoidal, «valor mu / valor muy / valor de mundo» = μ, «radiante» = gradiente.
 - Nota de temática: es DSP/procesamiento de señales, más cercano a teoría que al resto del dominio; se mantiene en electronica-practica/ por ser la ubicación de la ventana (regla de membresía física única; los cruces hacen el resto).
 - Cruces: la cancelación adaptativa de ruido empalma con el repositorio SoundShieldANC de [[resumen-FAV-374-soundshieldanc-github]] (cancelación adaptativa aplicada a superficies ruidosas); el problema de ruido inducido en señales reales conecta con las fuentes de ruido EMC del dominio ([[resumen-FAV-372-nrf24-problemas-soluciones-electronoobs]]).
+
+- **Consolidación (2026-11-15): fuente principal del concepto [[cancelacion-adaptativa-ruido]].

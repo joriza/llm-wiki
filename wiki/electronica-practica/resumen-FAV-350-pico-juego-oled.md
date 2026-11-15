@@ -18,3 +18,5 @@ Tutorial en MicroPython sobre Raspberry Pi Pico: instalar la librería de la **p
 ## Relacionado
 
 - Misma serie de favoritos: [[resumen-FAV-348-pico-curso-micropython]] (curso MicroPython) · [[resumen-FAV-349-pico-vs-arduino-nano]] (comparativa Pico/Nano).
+
+- **Consolidación (2026-11-15): este resumen es fuente del concepto [[pantallas-oled]] (también [[i2c]]) y de la entidad [[el-profe-garcia]].

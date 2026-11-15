@@ -16,3 +16,5 @@ Proyecto open source (fase de idea/exploración, con petición explícita de ayu
 
 - Cruces directos con [[resumen-FAV-373-algoritmo-lms-alberto-pardo]] — el video explica exactamente el algoritmo LMS que este repo propone como núcleo. El ESP32 y el micrófono I2S conectan con la línea ESP32/Arduino del dominio ([[resumen-FAV-358-programar-esp32-arduino-electronicspot]], [[resumen-FAV-359-de-arduino-a-esp32-iotlab]]); Pico aparece también en [[resumen-FAV-348-pico-curso-micropython]].
 - Umbral: «cancelación adaptativa de ruido» suma su segunda fuente (FAV-373 + FAV-374) → concepto candidato deferido para consolidación (no se crea página aún, umbral anotado).
+
+- **Consolidación (2026-11-15): el concepto existe — [[cancelacion-adaptativa-ruido]] (umbral FAV-373+374 resuelto).

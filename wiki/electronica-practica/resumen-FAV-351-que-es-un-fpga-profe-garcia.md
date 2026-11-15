@@ -28,3 +28,5 @@ Explicación didáctica de las FPGA (arreglos de puertas lógicas programables):
 ## Cruces
 
 - Contexto de hardware educativo y clúster de microcontroladores del dominio; complementa las comparativas de placas ([[resumen-FAV-349-pico-vs-arduino-nano]]) y la serie ESP32 del dominio.
+
+- **Consolidación (2026-11-15): fuente de la entidad [[el-profe-garcia]].

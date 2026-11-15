@@ -23,3 +23,5 @@ Tutorial de iniciación a la pantalla OLED monocroma 128×64 con controlador **S
 - Contraste con TFT a color por SPI: [[resumen-FAV-371-arduino-desde-cero-cap54-tft-ili9341-bitwise-ar|TFT ILI9341]] (FAV-371) — más pines, más consumo, colores en vez de monocromo.
 - Tema I2C recurrente en la wiki (umbral ya registrado para consolidación).
 - Plantillas/animación de OLED se profundiza en [[resumen-FAV-384-dibujos-plantillas-pantalla-oled]] (FAV-384).
+
+- **Consolidación (2026-11-15): fuente de los conceptos [[pantallas-oled]] y [[i2c]].

@@ -17,3 +17,5 @@ Segunda parte del panel LED matrix del canal: marquesina de 2 paneles HUB75 32×
 
 - ASR normalizado solo aquí: «rasberry p02/p 02/berry p02» = Raspberry Pi Zero 2 W, «p01» = Pi Zero 1, «raspy dogs/raspy darts/raspy ars/raspar» = raspy-darts (proyecto francés), «echer vanela/balena decher» = balenaEtcher, «notepad gu Plus» = Notepad++, «b ssid/b mod de pas/sk» = SSID/psk, «chac» = jack, «inpack» = fuente pixel mencionada, «Jet laac» = opción de hora, «mundo cara/mundo acara» = Mundo Yakara.
 - Cruces: continuación directa de [[resumen-FAV-379-pixel-display-pico-panel-rgb-matrix-mundo-yakara]] (mismo canal; Pico+soldadura punto a punto vs Zero 2 W+hat comercial; ahí sí hizo falta fuente externa y aquí no — medición con amperímetro); contraste con controladores dedicados MAX7219 ([[resumen-FAV-378-scroll-matriz-max7219-bluetooth-electronicspot]]) y LED direccionables WS2812B ([[resumen-FAV-375-tira-led-pantalla-16x16-ws2812b-profe-garcia]], [[resumen-FAV-377-ws2812-strips-fastled-marios-ideas]]).
+
+- **Consolidación (2026-11-15): fuente de la entidad [[mundo-yakara]].

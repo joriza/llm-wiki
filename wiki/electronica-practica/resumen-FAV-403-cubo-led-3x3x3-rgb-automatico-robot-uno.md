@@ -22,3 +22,5 @@ Montaje de un cubo LED 3×3×3 **sin microcontrolador**: usa LEDs RGB de color d
 
 - Clúster cubos LED: [[resumen-FAV-402-cubo-led-3x3x3-muy-facil|cubo 3×3×3 con Arduino]] (FAV-402 — misma estructura columnas×capas, pero con multiplexado activo), [[resumen-FAV-398-cubo-led-conexion-pic-profe-garcia|cubo 4×4×4 al PIC]] (FAV-398).
 - LED RGB controlado: cruce con [[resumen-FAV-393-controlador-led-ws2812-universal-esp32-c3-marios-ideas|WS2812]] (FAV-393 — LED direccionable con CI interno, análogo moderno de estos RGB automáticos).
+
+- **Consolidación (2026-11-15): fuente del concepto [[cubos-matrices-led]].

@@ -22,3 +22,5 @@ Comparativa práctica OLED vs LCD 16×2 y primer tutorial de programación con l
 - Tutorial complementario con la misma pantalla y librerías: [[resumen-FAV-382-oled-ssd1306-arduino-labuhardilla|OLED SSD1306 con Arduino (La Buhardilla del Loco)]] (FAV-382) — mismo gotcha de dirección I2C 0x3C/0x3D y misma llamada `display()` obligatoria.
 - La pantalla en MicroPython: [[resumen-FAV-350-pico-juego-oled|juego OLED en Pico]] (FAV-350).
 - Continuación directa del canal: [[resumen-FAV-384-dibujos-plantillas-pantalla-oled|dibujos y plantillas OLED]] (FAV-384), que cubre el logotipo y las plantillas que aquí quedan prometidos.
+
+- **Consolidación (2026-11-15): fuente de [[pantallas-oled]] y [[i2c]], y de la entidad [[el-profe-garcia]].

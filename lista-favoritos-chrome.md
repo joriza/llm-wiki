@@ -368,3 +368,15 @@ Contadores ventana z-tmp: 10 videos YT + 7 fuentes web curables + 1 entidad + 1 
 ### Cierre ventana z-tmp (2026-11-15)
 
 **22 bookmarks**: 10 PROCESADAS con ciclo completo (FAV-329/330/331/332/333/340/341/342/343/344/345 = 11 fuentes incl. webs) · 6 NO-SUBS definitivos x2 rutas (FAV-328/334/336/337/338/339) · 2 SKIP web (FAV-323/326) · 1 Meet no procesable (FAV-324) · 1 old-releases índice trivial sin curar (FAV-325) · 1 entidad nichonauta (FAV-335). Descargas: 2 fallas de encoding cp1252 (emoji) → re-pass UTF-8 OK, fix aplicado a fetch_yt.py. Los 6 no-subs + 2 skips + 1 Meet = 9 bookmarks candidatos a eliminación desde la interfaz de Chrome (decisión del usuario).
+
+## Ventana IOT Gral (2026-11-15) — CIERRE
+
+65/65 resueltas (FAV-346..410). **Todos los 65 bookmarks de la carpeta `Gral/IOT Gral` (+ subcarpetas ESP32 y NODE MCU 8266) son candidatos a eliminación manual desde Chrome**, por categoría:
+
+- **58 PROCESADAS con ciclo completo** (resumen en `wiki/electronica-practica/`): FAV-346..350, 351..355, 356..360, 361..364, 366, 368..376, 377..378, 379..380, 381..385, 386..390, 391..394, 396..398, 402, 403, 405..410.
+- **2 .NO-SUBS definitivos**: FAV-367 (dhnkp762hfQ, soldar tiras pin), FAV-395 (8orOU6iogtw, Short AC).
+- **2 SKIP musicales** (sin narración): FAV-399 (AEyY17chb0A), FAV-400 (mN5JWQUfrxY).
+- **2 playlists IGNORADAS** (orden del usuario 2026-11-15): FAV-401 (PLiJv_3SD9kXCoQHHFSjaHIyzp5p6fC60v), FAV-404 (PLlck5hCWxDJ_pK7QKY7rY01lz73mbEg79).
+- **1 DUPLICADO**: FAV-365 (XkdxKrvYVnc t=175s — mismo video que FAV-354, procesado).
+
+Nota: la eliminación es SIEMPRE manual desde la interfaz de Chrome (el sync de Google revierte ediciones del archivo local).

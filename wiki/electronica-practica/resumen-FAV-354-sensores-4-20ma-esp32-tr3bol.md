@@ -19,3 +19,5 @@ Cómo leer sensores industriales con lazo de corriente **4–20 mA** (transducto
 
 - Línea ESP32 del dominio: conecta con [[resumen-FAV-353-esp-now-conectar-esp32-iotlab]] (conectividad) y FAV-355 (FreeRTOS, mismo ecosistema).
 - I2C vuelve como bus de expansión (ADS1115/TCA9548A) — mismo patrón que el OLED I2C de [[resumen-FAV-350-pico-juego-oled]].
+
+- **Consolidación (2026-11-15): fuente de la entidad [[tr3bol-argentina]] y cruce del concepto [[i2c]] (ADS1115/TCA9548A).

@@ -24,3 +24,5 @@ Segunda parte del tutorial OLED del canal: cómo **dibujar diseños propios** (p
 - Parte anterior del mismo tutorial: [[resumen-FAV-383-oled-vs-lcd-profe-garcia|OLED vs LCD, profe García]] (FAV-383).
 - El mismo flujo bitmap + PROGMEM en detalle: [[resumen-FAV-382-oled-ssd1306-arduino-labuhardilla|OLED SSD1306 con Arduino]] (FAV-382, logo del canal con image2cpp).
 - La colaboradora María Paula también hizo el Excel del mapeo de la [[resumen-FAV-375-tira-led-pantalla-16x16-ws2812b-profe-garcia|pantalla 16×16 WS2812B]] (FAV-375): mismo enfoque píxel-a-matriz.
+
+- **Consolidación (2026-11-15): fuente de [[pantallas-oled]] y de la entidad [[el-profe-garcia]].

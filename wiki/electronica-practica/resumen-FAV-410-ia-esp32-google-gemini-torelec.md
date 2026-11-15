@@ -27,3 +27,5 @@ Tutorial práctico para que un **ESP32** consulte a **Google Gemini** vía su AP
 - [[resumen-FAV-382-oled-ssd1306-arduino-labuhardilla]] y [[resumen-FAV-386-protocolo-i2c-maestro-esclavos-profe-garcia]] — la OLED SSD1306 por I2C del montaje.
 - [[resumen-FAV-409-walter-placa-iot-definitiva-ia]] — contrapunto de arquitectura: aquí la IA vive en la nube vía API; Walter ejecuta inferencia en el borde con el ESP32-S3.
 - [[resumen-FAV-359-de-arduino-a-esp32-iotlab]] — por qué el ESP32 (Wi-Fi integrado) es la elección natural para clientes HTTP.
+
+- **Consolidación (2026-11-15): fuente del concepto [[ia-en-mcu]] (lado API en la nube); cruce de [[pantallas-oled]] y [[i2c]].

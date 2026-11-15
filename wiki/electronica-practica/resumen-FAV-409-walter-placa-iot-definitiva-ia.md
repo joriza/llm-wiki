@@ -38,3 +38,5 @@ Plataformas como Walter están diseñadas para producción en masa: la certifica
 - [[resumen-FAV-362-arquitectura-esp32-bit-micro-lab]] y [[resumen-FAV-363-pinout-esp32-s3-bit-micro-lab]] — el ESP32-S3 en detalle; Walter lo envuelve con conectividad celular.
 - [[resumen-FAV-353-esp-now-conectar-esp32-iotlab]] — contraste de alcance: ESP-NOW es corto alcance sin red; Walter apunta a cobertura mundial celular.
 - [[resumen-FAV-355-freertos-multitarea-core-esp32-profe-garcia]] — los dos núcleos del S3 que PlatformIO permite controlar.
+
+- **Consolidación (2026-11-15): fuente del concepto [[ia-en-mcu]] (lado edge AI).

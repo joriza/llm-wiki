@@ -23,3 +23,5 @@ Comparación práctica de las dos interfaces para pantallas OLED pequeñas (SSD1
 - Quinta fuente del clúster OLED y **cuarta sobre I2C** (umbral ≥2 ya registrado): [[resumen-FAV-386-protocolo-i2c-maestro-esclavos-profe-garcia|Protocolo I2C maestro/esclavos]] (FAV-386), [[resumen-FAV-382-oled-ssd1306-arduino-labuhardilla|OLED SSD1306 con Arduino]] (FAV-382), [[resumen-FAV-383-oled-vs-lcd-profe-garcia|OLED vs LCD]] (FAV-383), [[resumen-FAV-387-videos-animaciones-oled-electronica-con-piero|Videos en OLED]] (FAV-387).
 - ESP32-C3 SuperMini como banco de pruebas cruza con [[resumen-FAV-360-esp32-c3-supermini-arduino-ide-surflaweb|ESP32-C3 Super Mini]] (FAV-360).
 - Pantallas TFT SPI (alternativa de color) en [[resumen-FAV-390-tft-22-spi-ili9341-arduinolover|Arduino Uno TFT 2.2" SPI]] (FAV-390).
+
+- **Consolidación (2026-11-15): fuente de [[pantallas-oled]] y [[i2c]], y de la entidad [[marios-ideas]].

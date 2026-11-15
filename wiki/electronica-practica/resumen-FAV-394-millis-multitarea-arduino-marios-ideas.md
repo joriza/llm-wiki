@@ -20,3 +20,5 @@ Reemplazar `delay()` por el patrón **millis()** para lograr tareas temporizadas
 
 - Conecta con [[resumen-FAV-392-esp32-c3-supermini-antena-rssi-marios-ideas|ESP32-C3 SuperMini antena/RSSI]] (FAV-392), donde el mismo canal justifica `millis()` frente a `delay()` para el setup del monitor serie.
 - La multitarea en micros con RTOS como alternativa de peso completo: [[resumen-FAV-355-freertos-multitarea-core-esp32-profe-garcia|FreeRTOS dual-core en ESP32]] (FAV-355).
+
+- **Consolidación (2026-11-15): fuente de la entidad [[marios-ideas]].

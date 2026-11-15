@@ -18,3 +18,5 @@ Tutorial del módulo de reloj de tiempo real (RTC) con Arduino. El título menci
 
 - El protocolo I2C vuelve en varias fuentes del dominio ([[resumen-FAV-350-pico-juego-oled]]: OLED por I2C; FAV-396 pendiente de carpeta ESP32: pantallas I2C vs SPI) — candidato a página de concepto si alcanza el umbral en consolidación.
 - Complementa la línea Arduino/ESP32 del dominio ([[resumen-FAV-349-pico-vs-arduino-nano]]).
+
+- **Consolidación (2026-11-15): fuente de la entidad [[el-profe-garcia]] y del concepto [[i2c]] (el RTC va por I2C, dirección 0x68).

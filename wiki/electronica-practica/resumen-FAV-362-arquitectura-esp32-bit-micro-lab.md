@@ -14,3 +14,5 @@ Periféricos: hasta 45 GPIO en el ESP32-S3, UART, PWM (motores/LED), ADC, tempor
 
 - ASR: «extensa LX7» = Xtensa LX7; normalizado solo aquí.
 - Cruces: el mapa de pines y sus restricciones se desarrolla en [[resumen-FAV-363-pinout-esp32-s3-bit-micro-lab]] y [[resumen-FAV-361-que-pines-usar-esp32-tr3bol]]; dual-core y FreeRTOS en [[resumen-FAV-355-freertos-multitarea-core-esp32-profe-garcia]]; comparativa general Uno vs ESP32 en [[resumen-FAV-359-de-arduino-a-esp32-iotlab]].
+
+- **Consolidación (2026-11-15): fuente de la entidad [[bit-micro-lab]] y cruce de [[ia-en-mcu]] (el S3 como sustrato edge AI).

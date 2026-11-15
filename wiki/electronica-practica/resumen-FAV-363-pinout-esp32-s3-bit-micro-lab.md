@@ -19,3 +19,5 @@ El fabricante de cada placa expone solo los pines seguros; consultar siempre el 
 ## Notas
 
 - Cruces: contrapunto directo con el semáforo de pines del ESP32 clásico de [[resumen-FAV-361-que-pines-usar-esp32-tr3bol]] (strapping distintos: 0/2/5/12/15 vs 0/3/45/46); ADC inaccesible con WiFi refuerza el consejo del ADS1115 externo por I2C de [[resumen-FAV-354-sensores-4-20ma-esp32-tr3bol]].
+
+- **Consolidación (2026-11-15): fuente de la entidad [[bit-micro-lab]] y cruce de [[ia-en-mcu]].

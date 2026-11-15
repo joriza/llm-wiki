@@ -20,3 +20,5 @@ Introducción a **FreeRTOS** (el RTOS que viene integrado en el núcleo Arduino-
 
 - Línea ESP32 del dominio: conecta con [[resumen-FAV-353-esp-now-conectar-esp32-iotlab]] y [[resumen-FAV-354-sensores-4-20ma-esp32-tr3bol]].
 - El problema del delay/blink contrasta con la alternativa MicroPython de la línea Pico ([[resumen-FAV-350-pico-juego-oled]]).
+
+- **Consolidación (2026-11-15): fuente de la entidad [[el-profe-garcia]].

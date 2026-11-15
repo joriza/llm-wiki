@@ -32,3 +32,5 @@ Emisor con pulsador + receptor con LED (GPIO17): estructura `message` con estado
 
 - Línea ESP32 del dominio (será el tema dominante de la ventana: ver [[resumen-FAV-354]] y FAV-355, 4-20 mA y FreeRTOS).
 - Complementa el clúster MicroPython/Pico ([[resumen-FAV-350-pico-juego-oled]]) como contraste de ecosistemas.
+
+- **Consolidación (2026-11-15): fuente de la entidad [[iot-lab]].

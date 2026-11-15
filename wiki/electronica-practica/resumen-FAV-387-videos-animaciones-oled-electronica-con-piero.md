@@ -22,3 +22,5 @@ Cómo reproducir **videos cortos animados en una OLED 128×64** con Arduino, con
 ## Cruces
 
 - Clúster OLED (ahora 5 fuentes, consolidación deferida): [[resumen-FAV-382-oled-ssd1306-arduino-labuhardilla|OLED SSD1306 con Arduino]] (mismo pipeline image2cpp + PROGMEM para imágenes estáticas), [[resumen-FAV-384-dibujos-plantillas-pantalla-oled|Dibujos y plantillas OLED]] (image2cpp frame a frame estático vs aquí animado), [[resumen-FAV-383-oled-vs-lcd-profe-garcia|OLED vs LCD]] y [[resumen-FAV-350-pico-juego-oled|juego en OLED con Pico]]. La animación en displays conecta con [[resumen-FAV-380-raspy2dmd-panel-led-matrix-mundo-yakara|Raspy2DMD]] (GIFs en panel LED, con más memoria).
+
+- **Consolidación (2026-11-15): fuente del concepto [[pantallas-oled]].

@@ -18,3 +18,5 @@ Tercero de la serie de LED del canal: introducción a la tira direccionable WS28
 
 - ASR normalizado solo aquí: «nail pixel/no pixel» = NeoPixel, «DIIN» = DIN, «microsconds/microcond» = µs, «millies» = millis(), «CHSV» correcto.
 - Cruces: misma familia de LED direccionables que [[resumen-FAV-375-tira-led-pantalla-16x16-ws2812b-profe-garcia]] (NeoPixel, serpiente de matriz, condensadores de estabilidad) y [[resumen-FAV-376-7-segmentos-gigante-ws2812b-profe-garcia]] (el 7 segmentos con WS2812 que este video menciona como idea propia tiene aquí y en FAV-376 su desarrollo); temporización no bloqueante con `millis()` en la línea del capítulo de millis (línea 49 de la cola, aún pendiente); misma placa de referencia ([[resumen-FAV-370-arduino-desde-cero-cap1-intro-bitwise-ar]]).
+
+- **Consolidación (2026-11-15): fuente de la entidad [[marios-ideas]] (quinta fuente, hallada en la revisión de umbrales).

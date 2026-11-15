@@ -17,3 +17,5 @@ Proyecto del profe García: cortar tiras LED direccionables WS2812B de 300 LED (
 
 - ASR normalizado solo aquí: «de iu» = DIN, «khaled» = cascada (contexto), «dinastía tecnológica» = proveedor de la tira mencionado, «arduino 1/18» = Arduino Uno, «archivo de maria paula» = archivo de figuras del ejemplo.
 - Cruces: mismo canal y línea de curso que [[resumen-FAV-351-que-es-un-fpga-profe-garcia]], [[resumen-FAV-352-rtc-timbre-colegio-profe-garcia]] y [[resumen-FAV-355-freertos-multitarea-core-esp32-profe-garcia]]; los LED inteligentes direccionables se diferencian de los LED pasivos de [[resumen-FAV-370-arduino-desde-cero-cap1-intro-bitwise-ar]] (PWM básico) y de los focos LED con SMPS ([[resumen-FAV-009-foco-led-fuente-conmutada-bp2861-electrotube]] línea de bombillas); la recomendación del condensador de desacoplo y alimentación estable repite el patrón del NRF24 ([[resumen-FAV-372-nrf24-problemas-soluciones-electronoobs]]).
+
+- **Consolidación (2026-11-15): fuente de la entidad [[el-profe-garcia]]; cruce de [[cubos-matrices-led]] (contraste LED direccionable vs multiplexado).

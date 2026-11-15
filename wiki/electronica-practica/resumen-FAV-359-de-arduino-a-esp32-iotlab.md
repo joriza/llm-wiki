@@ -21,3 +21,5 @@ Guía de migración desde Arduino hacia el **ESP32**, con comparativa y fundamen
 
 - ASR: "Expressive"/"Explif" = Espressif; "DWDQ6" (chip), "SPN/ese pena" = ESP-NOW; "beginin" = `WiFi.begin()`; normalizado solo aquí.
 - Cruces: [[resumen-FAV-353-esp-now-conectar-esp32-iotlab]] (ESP-NOW en profundidad, mismo canal), [[resumen-FAV-358-programar-esp32-arduino-electronicspot]] (instalación del paquete ESP32 paso a paso), [[resumen-FAV-356-esp-connect-herramienta-web-esp32-iotlab]] (mismo canal), [[resumen-FAV-349-pico-vs-arduino-nano]] (comparativa de placas de bajo costo), [[resumen-FAV-355-freertos-multitarea-core-esp32-profe-garcia]] (aprovechar el dual-core).
+
+- **Consolidación (2026-11-15): fuente de la entidad [[iot-lab]].

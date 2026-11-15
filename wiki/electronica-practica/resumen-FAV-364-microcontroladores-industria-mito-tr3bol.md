@@ -16,3 +16,5 @@ Desmonte del mito «los microcontroladores (ESP32, ESP8266, Arduino, STM32, PIC)
 
 - ASR: «sp32/sp82 66» = ESP32/ESP8266, «pls» = PLC, «izan» = Siemens(?); normalizado solo aquí.
 - Cruces: complementa la parte práctica industrial del mismo canal en [[resumen-FAV-354-sensores-4-20ma-esp32-tr3bol]] (lazos 4–20 mA sin PLC) y [[resumen-FAV-361-que-pines-usar-esp32-tr3bol]] (buenas prácticas de pines); diseño de PCB profesional conecta con [[diseno-pcb-herramientas]].
+
+- **Consolidación (2026-11-15): fuente de la entidad [[tr3bol-argentina]].

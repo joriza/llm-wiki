@@ -24,3 +24,5 @@ Cómo usar cualquier salida de un circuito (p. ej. el pulso de una salida del 55
 
 - Mismo canal: [[resumen-FAV-398-cubo-led-conexion-pic-profe-garcia|cubo LED al PIC]] (FAV-398), [[resumen-FAV-402-cubo-led-3x3x3-muy-facil|cubo 3×3×3]] (FAV-402) — transistor como conmutador de cargas.
 - Transistores: [[transistor-bjt]].
+
+- **Consolidación (2026-11-15): fuente de la entidad [[el-profe-garcia]].

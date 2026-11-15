@@ -27,3 +27,5 @@ Capítulo del curso Arduino desde cero de deMMake dedicado a las pantallas OLED:
 
 - Clúster OLED (ahora 7 fuentes): [[resumen-FAV-382-oled-ssd1306-arduino-labuhardilla|OLED SSD1306 Arduino]] (FAV-382), [[resumen-FAV-383-oled-vs-lcd-profe-garcia|OLED vs LCD]] (FAV-383), [[resumen-FAV-384-dibujos-plantillas-pantalla-oled|dibujos/plantillas OLED]] (FAV-384), [[resumen-FAV-387-videos-animaciones-oled-electronica-con-piero|animaciones OLED]] (FAV-387), [[resumen-FAV-391-oled-i2c-vs-spi-marios-ideas|I2C vs SPI]] (FAV-391).
 - Bus I2C y dirección del display (I2C scanner) conecta con [[resumen-FAV-386-protocolo-i2c-maestro-esclavos-profe-garcia|Protocolo I2C]] (FAV-386).
+
+- **Consolidación (2026-11-15): fuente de [[pantallas-oled]] y [[i2c]], y de la entidad [[demmake]].

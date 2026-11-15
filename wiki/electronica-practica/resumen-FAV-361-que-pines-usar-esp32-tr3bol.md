@@ -18,3 +18,5 @@ Casos prácticos: un LED nuevo que rompe todo → probablemente en un strapping 
 
 - ASR: «SP32/SP 32» = ESP32, «W 0/WER serial» = UART, «i cuadrado C» = I2C; normalizado solo aquí.
 - Cruces: pinout del ESP32-S3 con restricciones propias en [[resumen-FAV-363-pinout-esp32-s3-bit-micro-lab]]; strapping y arranque conectan con la arquitectura interna de [[resumen-FAV-362-arquitectura-esp32-bit-micro-lab]] y con el uso práctico del botón BOOT de [[resumen-FAV-358-programar-esp32-arduino-electronicspot]]; GPIO 34–39 input-only refuerza la advertencia del ADC del [[resumen-FAV-359-de-arduino-a-esp32-iotlab]]. Mismo canal: [[resumen-FAV-354-sensores-4-20ma-esp32-tr3bol]] y [[resumen-FAV-364-microcontroladores-industria-mito-tr3bol]].
+
+- **Consolidación (2026-11-15): fuente de la entidad [[tr3bol-argentina]].

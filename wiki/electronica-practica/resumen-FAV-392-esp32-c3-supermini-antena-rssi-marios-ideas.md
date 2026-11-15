@@ -24,3 +24,5 @@ Segunda parte del video de tips del ESP32-C3 SuperMini del mismo canal: revisa l
 - Misma placa y banco de pruebas que [[resumen-FAV-360-esp32-c3-supermini-arduino-ide-surflaweb|ESP32-C3 Super Mini]] (FAV-360) y [[resumen-FAV-391-oled-i2c-vs-spi-marios-ideas|OLED I²C vs SPI]] (FAV-391, mismo canal Mario's Ideas y usa OLED I2C para medir).
 - OLED por I2C como instrumento conecta con el clúster OLED ([[resumen-FAV-382-oled-ssd1306-arduino-labuhardilla|FAV-382]], [[resumen-FAV-386-protocolo-i2c-maestro-esclavos-profe-garcia|FAV-386]]).
 - La recomendación de usar `millis()` en vez de `delay()` anticapa el tema de [[resumen-FAV-394-millis-multitarea-arduinolover|millis() multitarea]] (FAV-394).
+
+- **Consolidación (2026-11-15): fuente de la entidad [[marios-ideas]].

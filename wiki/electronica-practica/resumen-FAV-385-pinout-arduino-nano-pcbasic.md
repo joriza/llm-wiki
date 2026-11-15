@@ -25,3 +25,5 @@ Artículo de referencia del fabricante de PCB PCBasic: mapa completo de los 30 p
 - Alimentación VIN/regulador cruza con la [[resumen-FAV-369-fuente-protoboard-mb102-bitwise-ar|fuente de protoboard MB102]] (FAV-369).
 - El HC-05 por SoftwareSerial se usó en el [[resumen-FAV-378-scroll-matriz-max7219-bluetooth-electronicspot|scroll MAX7219 con Bluetooth]] (FAV-378).
 - Nota de contexto: la fuente es un fabricante de PCB/PCBA (PCBasic) y el artículo sirve a su blog comercial — el contenido técnico es genérico y correcto para el Nano clásico.
+
+- **Consolidación (2026-11-15): cruce del concepto [[i2c]] (pines A4/A5).

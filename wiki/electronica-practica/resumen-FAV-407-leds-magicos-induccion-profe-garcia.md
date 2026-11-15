@@ -22,3 +22,5 @@ Revela el "secreto" de los LEDs mágicos comerciales (~20 USD): **inducción ele
 
 - Mismo canal: [[resumen-FAV-398-cubo-led-conexion-pic-profe-garcia|cubo LED al PIC]] (FAV-398), [[resumen-FAV-405-conectar-100-leds-una-salida-profe-garcia|100 LEDs a una salida]] (FAV-405 — 2N2222A conmutador), [[resumen-FAV-406-tira-led-ritmo-musica|tira LED música]] (FAV-406).
 - Transistores: [[transistor-bjt]].
+
+- **Consolidación (2026-11-15): fuente de la entidad [[el-profe-garcia]].

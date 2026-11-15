@@ -21,3 +21,5 @@ Tutorial del bus **I2C** ("inter-integrated circuit", también llamado protocolo
 - Cuarta fuente sobre I2C (umbral ya ≥2 desde antes): OLED por I2C en [[resumen-FAV-382-oled-ssd1306-arduino-labuhardilla|OLED SSD1306 con Arduino]] y [[resumen-FAV-383-oled-vs-lcd-profe-garcia|OLED vs LCD]] (FAV-382/383); pines A4/A5 del Nano en [[resumen-FAV-385-pinout-arduino-nano-pcbasic|Pinout Arduino Nano]] (FAV-385).
 - Mismo canal y autor de los tutoriales de pantallas: [[resumen-FAV-384-dibujos-plantillas-pantalla-oled|Dibujos y plantillas OLED]] (FAV-384).
 - LCD 16x2 por I2C conecta con [[resumen-FAV-383-oled-vs-lcd-profe-garcia|OLED vs LCD]] (comparación con LCD).
+
+- **Consolidación (2026-11-15): fuente principal de [[i2c]], además de [[pantallas-oled]] y la entidad [[el-profe-garcia]].
