@@ -2764,3 +2764,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-10/2026-10-29-el-fin-de-google-drive-descubri-una-nube-infinita-y-gratuita.md` (`yMFouvbvd4w`, Compucenter33, 2026-10-29, 09:03).
 - **Resumen**: `wiki/wl/tramo-10/resumen-WL113-el-fin-de-google-drive-descubri-una-nube-infinita-y-gratuita.md`.
 - **Decisiones**: dominio destino `general` (herramienta de almacenamiento; S4 sin dominios nuevos); límites verificados en uso real (2 GB/archivo, streaming lento, sin compartir); sin patrocinio. Consolidación diferida (L12).
+
+## [2026-11-15] ingesta WL | tramo 10, fuente WL-114 — El arranque de los PC retro (PC Clásico)
+
+- **Fuente**: `raw/wl/tramo-10/2026-10-31-todo-lo-que-pasa-hasta-c-el-epico-arranque-de-los-pc-retro.md` (`a1csv05WWdM`, PC Clásico, 2026-10-31, 13:24).
+- **Resumen**: `wiki/wl/tramo-10/resumen-WL114-todo-lo-que-pasa-hasta-c-el-epico-arranque-de-los-pc-retro.md`.
+- **Decisiones**: dominio destino `general` (retrocomputing/hardware; S4 sin dominios nuevos); bloque de miembros excluido; sin patrocinio. Consolidación diferida (L12).
