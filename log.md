@@ -2889,3 +2889,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Fuente: `pimDRIsdq40` (Naturaleza Insólita, 2026-10-23, 12:36). Raw espejado a `raw/wl/tramo-14/2026-10-23-los-sapos-desaparecieron-en-silencio-y-la-gente-empezo-a-enfermar.md`; resumen en `wiki/wl/tramo-14/resumen-WL133-los-sapos-desaparecieron-en-silencio.md`.
 - Colapso de anfibios por quitridio (500+ especies caídas, ~90 extintas, dispersión vía comercio global) y su efecto indirecto sobre la malaria: donde desaparecen los sapos, suben los mosquitos y la enfermedad.
 - Dominio destino previsto (pendiente consolidación, S4): `general/` (ecología).
+
+## [2026-11-15] ingesta | WL-134 — ¿Por Qué Ya No Ves Luciérnagas?
+
+- Fuente: `G1Ouqo4UflQ` (Naturaleza Insólita, 2026-10-13, 10:51). Raw espejado a `raw/wl/tramo-14/2026-10-13-por-que-ya-no-ves-luciernagas.md`; resumen en `wiki/wl/tramo-14/resumen-WL134-por-que-ya-no-ves-luciernagas.md`.
+- Declive de las luciérnagas: luz como lenguaje (requiere oscuridad), caza industrial de ~100 millones para luciferina (San Luis, 1960-1995) y causas jerarquizadas por expertos (hábitat > lumínica > pesticidas). Compañero temático del WL-133 (mismo canal) — cruce candidato en consolidación.
+- Dominio destino previsto (pendiente consolidación, S4): `general/` (ecología).
