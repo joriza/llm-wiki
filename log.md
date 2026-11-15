@@ -1929,3 +1929,6 @@ YouTube mN5JWQUfrxY (Tapendra Mandal, 2020). SKIP definitivo: montaje musical si
 
 ## [2026-11-15] ingesta | Cubo LED 3x3x3 muy fácil de hacer (FAV-402)
 YouTube rw2tA0LZgwY (Muy Fácil De Hacer, ES, 2015). El bookmark traía `list=` — ignorada por S4. Raw: raw/electronica-practica/2015-09-12-cubo-led-3x3x3-muy-facil.md. Resumen: wiki/electronica-practica/resumen-FAV-402-cubo-led-3x3x3-muy-facil.md. Cruces: FAV-398 (mismo multiplexado columnas×niveles con 2N2222A), [[transistor-bjt]]. Nota: lineas 56 y 59 (FAV-401 playlist cubo LED, FAV-404 playlist propeller clock) quedan PENDIENTE-DECISION del usuario (2026-11-15) — no se procesan.
+
+## [2026-11-15] ingesta | Cubo LED 3x3x3 RGB automático (FAV-403)
+YouTube tItvqXAkzBk (Robot UNO, ES, 2021). El bookmark traía `list=` — ignorada por S4. Raw: raw/electronica-practica/2021-02-04-cubo-led-3x3x3-rgb-automatico-robot-uno.md. Resumen: wiki/electronica-practica/resumen-FAV-403-cubo-led-3x3x3-rgb-automatico-robot-uno.md. Cruces: FAV-402 (misma estructura, con Arduino), FAV-398, FAV-393 (WS2812 como análogo direccionable). Sin Arduino: LEDs RGB automáticos alimentados directo.
