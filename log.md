@@ -2758,3 +2758,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-10/2026-11-01-milei-trump-y-la-fuga-de-bolsonaro-el-papelon-internacional-pais-de-boludos-pdb.md` (`v4hYfc-gUCA`, PDB, 2026-11-01, 31:25).
 - **Resumen**: `wiki/wl/tramo-10/resumen-WL112-milei-trump-y-la-fuga-de-bolsonaro-el-papelon-internacional.md`.
 - **Decisiones**: raw ya descargado en scratch (procesado primero, sin re-descargar); dominio destino `general / sociedad-argentina` (política exterior argentina; S4 sin dominios nuevos); sesgo satírico-opositor señalado en triage; bloque de suscripción y sección de comentarios excluidos. Consolidación diferida (L12).
+
+## [2026-11-15] ingesta WL | tramo 10, fuente WL-113 — ¿El fin de Google Drive? (TeleDrive sobre Telegram)
+
+- **Fuente**: `raw/wl/tramo-10/2026-10-29-el-fin-de-google-drive-descubri-una-nube-infinita-y-gratuita.md` (`yMFouvbvd4w`, Compucenter33, 2026-10-29, 09:03).
+- **Resumen**: `wiki/wl/tramo-10/resumen-WL113-el-fin-de-google-drive-descubri-una-nube-infinita-y-gratuita.md`.
+- **Decisiones**: dominio destino `general` (herramienta de almacenamiento; S4 sin dominios nuevos); límites verificados en uso real (2 GB/archivo, streaming lento, sin compartir); sin patrocinio. Consolidación diferida (L12).
