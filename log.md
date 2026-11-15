@@ -2608,3 +2608,6 @@ Fuente 8/37 de la playlist Python (NtobWmD1A0w, CodinEric 2020-07-12, ES-ASR 12:
 
 ## [2026-11-15] ingesta | 28. ¿Qué es Pandas? — Introducción a Pandas en Python
 Fuente 9/37 de la playlist Python (Mm1L4Bde6_w, La Cartilla 2020-04-23, ES-ASR 07:45). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-28-que-es-pandas-introduccion-a-pandas.md con cruces a [[resumen-podras-contra-este-ejercicio-avanzado-de-python]], [[duckdb]], [[polars]], [[mapa-del-ecosistema-python]]. Nota de contenido: tutorial casi enteramente teórico (1 de 3 sobre pandas en el curso original); fundamenta el ejercicio aplicado de pandas de la fuente 7.
+
+## [2026-11-15] ingesta | 3. Cómo usar el IDE Spyder para programar en Python 3
+Fuente 10/37 de la playlist Python (m6Ij39K-TPc, La Cartilla 2020-01-19, ES-ASR 10:28). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-3-como-usar-el-ide-spyder.md con cruces a [[resumen-podras-contra-este-ejercicio-avanzado-de-python]] y [[resumen-FAV-333-uv-reemplaza-pip]]. Nota ASR normalizada solo en el resumen («spider»→Spyder, «consola de mike tyson»→IPython, «con da update olt»→conda update --all, «ceibas»→Save as). Nota de contenido: el asistente Kite (destacado del video) fue descontinuado — registro histórico, señalado en el resumen. Cierre del Relevo 2 (5/5 útiles).
