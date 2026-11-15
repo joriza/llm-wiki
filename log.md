@@ -2114,3 +2114,11 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 · FAV-444 protección escritura USB Recoverit (este commit)
 · FAV-445 UWF filtro de escritura Fernando Branca (este commit). 5/5 PROCESADAS con ciclo completo (4 YT con raw/informatica/ + 1 web sin raw). 0×429; 4 fetches OK gated (~88 s), 0 meta-fail, 0 NO-SUBS, 0 duplicados, 0 playlists puras en el rango.
 - Umbrales nuevos para consolidación diferida: **congelamiento/filtros de escritura 2 fuentes** (FAV-444 protección USB + FAV-445 UWF del sistema — mismo mecanismo en dos escalas) y **mantenimiento Windows** incipiente (FAV-443). Canal Torti Code ahora **5 fuentes** (FAV-433/439/440/441 + informatica-teoria). Sin concepto/entidad nuevas (todo deferido). El relevo siguiente continúa en la línea 36 (FAV-446).
+
+## [2026-11-15] ingesta | FAV-446 — Por qué es IMPOSIBLE matar a COBOL (fatdev)
+- **Fuente**: https://www.youtube.com/watch?v=IMnwlfGqeCU. Canal fatdev, 2026-07-08, 18:49, ES subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-por-que-es-imposible-matar-cobol-fatdev.md
+- **Resumen**: wiki/informatica/resumen-FAV-446-cobol-imposible-de-matar-fatdev.md
+
+## [2026-11-15] relevo 8 T4 — FAV-446..450 (líneas 36-40, IDs verificados contra vs-docencia-lista.txt)
+- FAV-446 COBOL fatdev (este commit) — fuentes de esta ventana marcadas al volar; ver entradas siguientes.
