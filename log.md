@@ -1932,3 +1932,6 @@ YouTube rw2tA0LZgwY (Muy Fácil De Hacer, ES, 2015). El bookmark traía `list=` 
 
 ## [2026-11-15] ingesta | Cubo LED 3x3x3 RGB automático (FAV-403)
 YouTube tItvqXAkzBk (Robot UNO, ES, 2021). El bookmark traía `list=` — ignorada por S4. Raw: raw/electronica-practica/2021-02-04-cubo-led-3x3x3-rgb-automatico-robot-uno.md. Resumen: wiki/electronica-practica/resumen-FAV-403-cubo-led-3x3x3-rgb-automatico-robot-uno.md. Cruces: FAV-402 (misma estructura, con Arduino), FAV-398, FAV-393 (WS2812 como análogo direccionable). Sin Arduino: LEDs RGB automáticos alimentados directo.
+
+## [2026-11-15] ingesta | Conectar 100 LEDs a una salida (FAV-405)
+YouTube CtJqhg5Y6DA (El profe García, ES-419, 2013, subs manuales). El bookmark traía `list=` — ignorada por S4. Raw: raw/electronica-practica/2013-11-20-conectar-100-leds-una-salida-profe-garcia.md. Resumen: wiki/electronica-practica/resumen-FAV-405-conectar-100-leds-una-salida-profe-garcia.md. Cruces: FAV-398/402 (transistor conmutador), [[transistor-bjt]].
