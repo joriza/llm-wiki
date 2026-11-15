@@ -51,7 +51,7 @@
 51|IOT Gral|(279) Pantallas Oled con Arduino Librerias y Ejemplos - deMMake - YouTube|https://www.youtube.com/watch?v=XYBcr1KpN3Y
 52|IOT Gral|(279) 👾 Matriz LED Sin Controlador - Arduino - Conexion y Codigo - deMMake - YouTube|https://www.youtube.com/watch?v=_vqPmitnlxA
 53|IOT Gral|(279) ✅ Cubo LED, Como armarlo paso a paso (LED Cube) - YouTube|https://www.youtube.com/watch?v=Ia3viImc_KM&list=PLnwu2s7SIakSeKex9vSigQR7nlRmJ56jL&index=2
-54|IOT Gral|(279) How to make a Big LED Cube at Home 8x8x8 LED Cube - YouTube|https://www.youtube.com/watch?v=AEyY17chb0A
+54|IOT Gral|(279) How to make a Big LED Cube at Home 8x8x8 LED Cube - YouTube|https://www.youtube.com/watch?v=AEyY17chb0A [.SKIP 2026-11-15: video montaje musical sin narración — ASR sin habla aprovechable (FAV-399)]
 55|IOT Gral|(279) How to make a 8x8x8 LED Cube at Home - YouTube|https://www.youtube.com/watch?v=mN5JWQUfrxY
 56|IOT Gral|(280) 🏆 Cómo HACER un CUBO LED con ARDUINO? ⛳ - YouTube|https://www.youtube.com/playlist?list=PLiJv_3SD9kXCoQHHFSjaHIyzp5p6fC60v
 57|IOT Gral|(280) Cómo Hacer Cubo De LED 3x3x3 (muy fácil de hacer) - YouTube|https://www.youtube.com/watch?v=rw2tA0LZgwY

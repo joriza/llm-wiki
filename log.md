@@ -1918,3 +1918,7 @@ YouTube _vqPmitnlxA (deMMake, ES, 2019). Raw: raw/electronica-practica/2019-02-2
 ## [2026-11-15] ingesta | Cubo LED: conexión al PIC (FAV-398)
 
 YouTube Ia3viImc_KM (El profe García, ES, 2014). El bookmark traia `list=` de playlist ajena — ignorada por S4. Raw: raw/electronica-practica/2014-03-26-cubo-led-conexion-pic-profe-garcia.md. Resumen: wiki/electronica-practica/resumen-FAV-398-cubo-led-conexion-pic-profe-garcia.md. Cruces: FAV-397 (multiplexado matriz), FAV-399/400 (cubos LED), FAV-351/352/375/383/384/386 (canal profe García), [[transistor-bjt]].
+
+## [2026-11-15] skip | Big LED Cube at Home 8x8x8 (FAV-399)
+
+YouTube AEyY17chb0A (Saptarshi Sikder, 2021). SKIP definitivo: montaje musical sin narración — los subtítulos automáticos (detectados en uk) contienen solo marcadores [музика], sin habla aprovechable para sintetizar. Ni raw ni resumen. Fila 54 de iot-gral-lista.txt marcada.
