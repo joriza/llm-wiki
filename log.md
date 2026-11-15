@@ -2883,3 +2883,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Fuente: `2BicjJgRkms` (Jorge Marfil, 2026-10-29, 33:37). Raw espejado a `raw/wl/tramo-14/2026-10-29-es-el-fin-de-los-llm-ncm.md`; resumen en `wiki/wl/tramo-14/resumen-WL132-es-el-fin-de-los-llm-ncm.md`.
 - Desmontaje del hype del NCM de Stanford: generación por niveles (no token a token), 31× solo contra modelos de difusión, gana en resúmenes/Sudoku y pierde en traducción, escala mínima y publicación incompleta (placeholder de 5 bytes); la ventaja de escritura paralela es del usuario local (batch=1), no de los datacenters. Regla del canal: «compra por ancho de banda y vigila el cálculo».
 - Dominio destino previsto (pendiente consolidación, S4): `ia-critica-y-fronteras` o `ia-uso-practico/hardware-ia-local`. Cruce natural: [[jorge-marfil]], hardware para IA local.
+
+## [2026-11-15] ingesta | WL-133 — Los Sapos Desaparecieron en Silencio… y la Gente Empezó a Enfermar
+
+- Fuente: `pimDRIsdq40` (Naturaleza Insólita, 2026-10-23, 12:36). Raw espejado a `raw/wl/tramo-14/2026-10-23-los-sapos-desaparecieron-en-silencio-y-la-gente-empezo-a-enfermar.md`; resumen en `wiki/wl/tramo-14/resumen-WL133-los-sapos-desaparecieron-en-silencio.md`.
+- Colapso de anfibios por quitridio (500+ especies caídas, ~90 extintas, dispersión vía comercio global) y su efecto indirecto sobre la malaria: donde desaparecen los sapos, suben los mosquitos y la enfermedad.
+- Dominio destino previsto (pendiente consolidación, S4): `general/` (ecología).
