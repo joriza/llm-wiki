@@ -2680,3 +2680,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-l
 
 ## [2026-11-15] ingesta | Sistema de Inventario en Python con POO (Código Espinoza, relevo 6, fuente 35/37)
 Descarga OK (45.239.32.215, sin 429; presupuesto estimado relanzado 45→55 tras BUDGET-REACHED — regla «presupuesto estimado»). Resumen en `wiki/python-practico/resumen-sistema-de-inventario-en-python-con-poo.md`; cruce a dunder methods y ejercicio avanzado; señalado como único proyecto POO / puente al CRUD web. index.md y log.md actualizados. Commit por archivo.
+
+## [2026-11-15] ingesta | La Estrategia de PYTHON para Freelance MILLONARIA del 2026 (Código Espinoza, relevo 6, fuente 36/37)
+Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-la-estrategia-de-python-para-freelance-millonaria.md`; cruces: [[polars]]/[[duckdb]], script freelance con FastAPI, puente a ia-local (RAG/LoRA solo encuadrado, sin duplicar). Señalado: voz de IA + cifras sin fuente. index.md y log.md actualizados. Commit por archivo.
