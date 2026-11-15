@@ -2015,3 +2015,8 @@ URL de playlist pura (list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS, sin v=). IGNORADA
 - Fuente: https://www.youtube.com/watch?v=RFInJeuhiFk → raw/electronica-practica/2026-11-15-pip-uv-gestor-paquetes-python.md
 - Resumen: wiki/electronica-practica/resumen-FAV-423-pip-vs-uv-codigo-espinoza.md
 - Fuente de INFORMÁTICA — **candidata a dominio informatica**. Umbral Informatica/Python: 3 fuentes (FAV-422/423/424) — anotado, sin páginas. Cruces: FAV-422, FAV-424, [[ia-en-mcu]]. Descarga gated OK (sleep 88 s, salida WARP).
+
+## [2026-11-15] ingesta | FAV-424 — APIs gratuitas de Python (Código Espinoza)
+- Fuente: https://www.youtube.com/watch?v=CNCUtZ9BiHI → raw/electronica-practica/2026-11-15-apis-gratuitas-python.md
+- Resumen: wiki/electronica-practica/resumen-FAV-424-apis-gratuitas-python-codigo-espinoza.md
+- Fuente de INFORMÁTICA — **candidata a dominio informatica**. Umbral canal Código Espinoza 2 fuentes (FAV-423/424) — entidad candidata deferida. Cruces: FAV-422/423, FAV-420. Descarga gated OK (sleep ~85 s, salida WARP).
