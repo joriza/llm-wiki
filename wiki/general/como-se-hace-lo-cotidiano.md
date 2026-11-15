@@ -3,7 +3,7 @@
 - **Tipo**: página de concepto.
 - **Dominio**: `general`.
 - **Creada**: 2026-11-14 (consolidación diferida del tramo 7 del backlog «Ver más tarde»; tema-candidato registrado en el cierre del tramo 7 con umbral ya alcanzado).
-- **Fuentes**: [[resumen-WL098-cata-colon-selecto]] (WL-98, Matías Jurisich — la definición legal de «vino» vs bebida aromatizada), [[resumen-WL099-grido-fabrica]] (WL-99, Clarín — la fábrica de Grido y el concentrador propio), [[resumen-WL084-radios-bandas-am-fm-sw]] (WL-84, Tito López — bandas de radio y propagación) y [[resumen-WL081-videojuegos-sin-procesador]] (WL-81, Herschel González — Pong sin CPU).
+- **Fuentes**: [[resumen-WL098-cata-colon-selecto]] (WL-98, Matías Jurisich — la definición legal de «vino» vs bebida aromatizada), [[resumen-WL099-grido-fabrica]] (WL-99, Clarín — la fábrica de Grido y el concentrador propio), [[resumen-WL084-radios-bandas-am-fm-sw]] (WL-84, Tito López — bandas de radio y propagación), [[resumen-WL081-videojuegos-sin-procesador]] (WL-81, Herschel González — Pong sin CPU) y, desde la consolidación del dominio `electronica-practica` (2026-11-14): [[resumen-FAV-003-montaje-detector-de-luz]] (la fotocélula del alumbrado público como montaje de protoboard) y [[resumen-FAV-007-condensador-luis-carlos-galan]] (el condensador que almacena energía letal incluso desconectado — conocimiento de todo reparador).
 - **Ver también**: [[reglas-cableadas-vs-programadas]] · [[vino-y-nuevos-consumidores]].
 
 ## El concepto
@@ -16,5 +16,7 @@ Género divulgativo transversal del corpus: **el dato técnico debajo de los pro
 | WL-99 | Grido | Único heladero de LatAm con concentrador propio de leche (280.000 L/día; sin leche en polvo); cadena de frío -25/-18/-17 |
 | WL-84 | La radio multibanda | Modulación ≠ banda; onda superficial vs rebote ionosférico (SW cruza continentes); FM se pierde tras la montaña |
 | WL-81 | Pong | Sin CPU: las reglas del juego viven en la topología de los circuitos (contadores sincronizados con el barrido CRT; colisión = coincidencia de señales) |
+| FAV-003 | El alumbrado público automático | Una LDR en un divisor polariza un 2N2222A: al oscurecer conduce y enciende el LED — la fotocélula de la calle es este montaje |
+| FAV-007 | La chispa al reparar fuentes | Los condensadores grandes almacenan energía letal incluso desconectados — τ = R·C mide también la descarga |
 
 **Nota de riesgo de fuente**: WL-99 es contenido de marca (no responde su propio título clickbait: sin costos/márgenes/overrun); WL-98 y WL-84 son divulgación con datos estándar correctos; WL-81 sin fuentes en pantalla (historia canónica).
