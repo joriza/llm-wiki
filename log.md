@@ -1709,3 +1709,23 @@ Registro cronológico de solo adición.
 ## [2026-11-14] curación favoritos | cierre ventana Electronica y TV — eliminación de bookmarks
 
 - **VENTANA COMPLETA**: 19/19 fuentes contabilizadas — 13 procesadas con ciclo completo + 4 privados (eliminación silenciosa, decisión del usuario T2.5-bis) + 3 .no-subs definitivos (FAV-304/305/308, re-fallado ×3, también eliminados del navegador por el usuario al curar) + 4 no-YouTube conservados (pasada posterior). **Eliminación de bookmarks ejecutada en dos fases**: (1) borrado programático local REVERTIDO por la sincronización de Chrome al reabrir (lección: con bookmark-sync activo, el borrado debe hacerse desde la UI de Chrome); (2) borrado manual por el usuario desde el Administrador de favoritos — verificado contra lectura fresh del JSON: 0 de los 19 objetivos vivos, carpeta reducida a los 4 no-YouTube. Backup local: `Bookmarks.backup-2026-11-14`. Salida WARP 104.28.199.112 durante toda la ventana, 0×429. Umbrales para la consolidación post-curacion: fuente-conmutada-led (3), diodo-zener (2), diseño-pcb-herramientas (5), fabricacion-casera-pcb (2), entidad Ideatronic (4). Pendiente siguiente: carpeta raíz de favoritos (~17), Docencia (~13), Electromecánica (6), y consolidación al cierre total de favoritos.
+
+## [2026-11-15] ingesta favoritos | FAV-329 — Proxmox VE Post Install (fuente web)
+
+- **FAV-329** (`https://community-scripts.github.io/ProxmoxVE/scripts?id=post-pve-install`): página del script `post-pve-install.sh` de Community Scripts — gestión de repositorios (Enterprise off, No-Subscription/Test on), corrección de fuentes PVE, desactivación del nag de suscripción, update + reboot. Nota del catálogo: responder «y» a todas las opciones. Sin raw (fuente web no-YouTube, no se archiva en raw/). — Dominio: general/ — resumen `wiki/general/resumen-FAV-329-proxmox-post-pve-install.md`.
+
+## [2026-11-15] ingesta favoritos | FAV-331 — Community Scripts / ProxmoxVE (repo GitHub, fuente web)
+
+- **FAV-331** (`https://github.com/community-scripts/ProxmoxVE`): repositorio canónico de scripts de instalación en un comando para Proxmox VE — 700+ aplicaciones (home automation, media, networking, DBs, monitorización, dev tooling), motor compartido `community-scripts/core`, soporte Incus, requisitos PVE 8.0–9.2, advertencia de root (leer el script antes de pegarlo). Sin raw (fuente web). — Dominio: general/ — resumen `wiki/general/resumen-FAV-331-proxmoxve-community-scripts.md`.
+
+## [2026-11-15] ingesta favoritos | FAV-340 — MCP Market, directorio MCP developer-tools (fuente web)
+
+- **FAV-340** (`https://mcpmarket.com/es/search?category_slug=developer-tools`): directorio/mercado MCP Market en español, categoría developer-tools — listado de servidores de herramientas de desarrollo para agentes (ChromeDevTools, Playwright/Microsoft, GitHub, penpot, getzep, mindsdb, trycua, topoteretes…). Sin raw (fuente web). — Dominio: ia-uso-practico/ — resumen `wiki/ia-uso-practico/resumen-FAV-340-mcp-market-developer-tools.md`.
+
+## [2026-11-15] ingesta favoritos | FAV-343 — servidor MCP fetch oficial (fuente web)
+
+- **FAV-343** (`https://github.com/modelcontextprotocol/servers/blob/main/src/fetch/README.md`): servidor MCP de referencia que da a los LLM lectura de la web con conversión HTML→markdown — herramienta `fetch` (max_length 5000, start_index para paginar, raw, timeout), guardia por defecto contra IPs privadas/loopback/metadatos cloud (revisada en cada redirect; `--allow-private-ips` la apaga), límite de respuesta 5 MiB (gzip/deflate), robots.txt respetado, instalación uvx/pip, ambos eras del protocolo por stdio. Sin raw (fuente web). — Dominio: ia-uso-practico/ — resumen `wiki/ia-uso-practico/resumen-FAV-343-servidor-mcp-fetch.md`.
+
+## [2026-11-15] ingesta favoritos | FAV-326 — SKIP definitivo: página Lubuntu/PreviousReleases inexistente
+
+- **FAV-326** (`https://help.ubuntu.com/community/Lubuntu/PreviousReleases`): **SKIP con motivo** — la página no existe con contenido en ninguna variante: help.ubuntu.com la sirve como título vacío (wgCurRevisionId 0, «create the page», redlink), wiki.ubuntu.com/Lubuntu/PreviousReleases responde «does not exist», y Wayback Machine no tiene snapshots archivados de la URL. Sin contenido vivo ni archivado → sin ingesta; bookmark candidato a eliminación por el usuario.
