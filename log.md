@@ -2721,3 +2721,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-9/2026-10-26-viale-vs-samid-cronologia-de-la-pelea-mas-historica-de-la-tv-argentina-dos-chica.md` (`__hi27gOnbQ`, GELATINA, 2026-10-26, 28:38).
 - **Resumen**: `wiki/wl/tramo-9/resumen-WL107-viale-vs-samid-cronologia-pelea-tv-argentina.md` (formato dominio, fila en index.md con subcarpeta tramo-9).
 - **Decisiones**: dominio destino `general/sociedad-argentina` (histórico televisivo + debate económico argentino) — consolidación diferida (L12); sin dominios nuevos (S4).
+
+## [2026-11-15] ingesta WL | tramo 9, fuente WL-108 — La habilidad más importante de un Ingeniero no es programar
+
+- **Fuente**: `raw/wl/tramo-9/2026-11-01-la-habilidad-mas-importante-de-un-ingeniero-no-es-programar.md` (`vl6LOZNku1U`, BettaTech, 2026-11-01, 26:58).
+- **Resumen**: `wiki/wl/tramo-9/resumen-WL108-la-habilidad-mas-importante-de-un-ingeniero-no-es-programar.md`.
+- **Decisiones**: dominio destino `ia-uso-practico/agentes-de-codigo` (Claude Code, ventanas rotas con agentes en paralelo, comentarios para IA) con cruces a literatura de ingeniería (Pragmatic Programmer, Chip Huyen) — consolidación diferida (L12); sin dominios nuevos (S4).
