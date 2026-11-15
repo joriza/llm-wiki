@@ -3093,3 +3093,6 @@ Tramo 23, fuente 1. Panorama del quiebre de octubre 2026 del software: REA (MCP 
 
 ## [2026-11-15] ingesta | WL-182 · Manaos: La Gaseosa más polémica de Argentina (Andru - Impetu)
 Tramo 23, fuente 2. Caso de estrategia de segunda marca argentina: Cañido, Sao, ataque por flanco al almacén de barrio, marketing de memes, allanamientos AFIP/ARCA y retiro ANMAT. Raw espejado en `raw/wl/tramo-23/2026-09-22-manaos-la-gaseosa-mas-polemica-de-argentina.md`; resumen en `wiki/wl/tramo-23/resumen-WL182-manaos-la-gaseosa-mas-polemica-de-argentina.md`. Dominio previsto: general/sociedad-argentina (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
+
+## [2026-11-15] ingesta | WL-183 · La Traición que DESTRUYÓ a Anonymous para siempre (Historias De Hackers)
+Tramo 23, fuente 3. Docudrama del ciclo LulzSec 2011 y la traición de Sabu: HBGary, AntiSec, chat operado por el FBI, Hammond/Stratfor y sentencias. Raw espejado en `raw/wl/tramo-23/2026-07-12-la-traicion-que-destruyo-a-anonymous-para-siempre.md`; resumen en `wiki/wl/tramo-23/resumen-WL183-la-traicion-que-destruyo-a-anonymous.md`. Dominio previsto: general o ia-critica-y-fronteras (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
