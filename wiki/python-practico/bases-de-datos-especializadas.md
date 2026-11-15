@@ -2,8 +2,8 @@
 
 - **Tipo**: página de concepto.
 - **Dominio**: `python-practico/`.
-- **Actualizado**: 2026-11-11 (fuente 6/7 del lote python-practico).
-- **Fuentes**: [[resumen-tutorial-duckdb-la-bbdd-rapida-y-ligera-ideal-para-analitica-etl-scripting-micro]].
+- **Actualizado**: 2026-11-15 (fuente 1/37 de la playlist Python).
+- **Fuentes**: [[resumen-tutorial-duckdb-la-bbdd-rapida-y-ligera-ideal-para-analitica-etl-scripting-micro]] · [[resumen-mongodb-crash-course-with-python-2022]].
 
 ## La tesis: la «guerra de bases de datos» se gana por especialización
 
