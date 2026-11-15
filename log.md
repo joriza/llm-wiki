@@ -2715,3 +2715,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **5/5 fuentes ingestadas y committed** (WL-102..WL-106), 0 meta-fail, 0 skip, pre-flight dedupe limpio (623→627 ids en raw/). Commits por fuente: WL-102 `5cbc9adb`, WL-103 `5d500716`, WL-104 `dbb4b9ee`, WL-105 `1841ccd8`, WL-106 `20d1a6ac`. Salida **45.239.32.215** (Proton UE, validada hoy) — 5 descargas timedtext consecutivas sin 429, presupuesto suave 100 nunca alcanzado (L13). Estructura tramo (L12): `raw/wl/tramo-8/` + `wiki/wl/tramo-8/`, filas de index.md con subcarpeta.
 - Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-102 ia-uso-practico/agentes-de-codigo (cruces [[hardware-para-ia-local]], [[qwen]], [[llama-cpp]]); WL-103 ia-critica-y-fronteras (cifras sin fuente primaria etiquetadas); WL-104 general (autoayuda-académica); WL-105 general/sociedad-argentina; WL-106 general — compilación viral, candidata a baja en triage del usuario (Baja de fuente, protocolo ítem 17).
 - Cierre registrado en hub `wiki/wl/indice-wl.md` (sección tramo 8, 5 filas) y en `odd/tasks/ingesta-ver-mas-tarde.md` (T8 COMPLETADO). Próximo: tramo 9 (WL-107..WL-111, relevo 2); consolidación de tramos 8-10 diferida según flujo L12.
+
+## [2026-11-15] ingesta WL | tramo 9, fuente WL-107 — Viale vs Samid: cronología de la pelea más histórica de la TV argentina
+
+- **Fuente**: `raw/wl/tramo-9/2026-10-26-viale-vs-samid-cronologia-de-la-pelea-mas-historica-de-la-tv-argentina-dos-chica.md` (`__hi27gOnbQ`, GELATINA, 2026-10-26, 28:38).
+- **Resumen**: `wiki/wl/tramo-9/resumen-WL107-viale-vs-samid-cronologia-pelea-tv-argentina.md` (formato dominio, fila en index.md con subcarpeta tramo-9).
+- **Decisiones**: dominio destino `general/sociedad-argentina` (histórico televisivo + debate económico argentino) — consolidación diferida (L12); sin dominios nuevos (S4).
