@@ -238,6 +238,17 @@ Notas del tramo: 5/5 útiles exactos (WL-196..WL-200), 0 skips, 0 meta-fail, sin
 
 Notas del tramo: 3/3 útiles exactos (WL-201..WL-203), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin cuarto ciclo (TRAMO FINAL del pedido L22). Salida 45.239.32.215 (Proton UE, validada hoy), 3 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). **PEDIDO L22 CERRADO: 50/50 útiles.**
 
+## Tramo 37 — relevo 30 (WL-254..WL-257, TRAMO FINAL del pedido L23)
+
+| # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
+|---|--------|--------|------------------|---------|
+| WL-254 | ¿16 GB de VRAM alcanzan para un máster en Derecho con IA LOCAL? (`OFO-Uo-O6Mk`) | Cognix | ia-uso-practico/ia-local (réplica al video viral «16 GB alcanza»: los pesos entran (GSQ-Arco 11,8 GB) pero la caché KV crece ~64 KB/token — 64k contexto en 5060 Ti vs 262k en 5090; ~47k→110k tokens con dos ajustes; reseñas 3-70 tok/s por desborde/ancho de banda/MTP; veredicto: nube o dos placas de gama media para agentes largos; cruces WL-253/WL-240/WL-239/WL-228/WL-122, [[cognix]]; concepto candidato «presupuesto de contexto») | Resumen en `tramo-37/` |
+| WL-255 | ¿El mayor TIMO de la informática? (Y2K) (`KfC_gkjZewM`) | LinuxChad | general (documental Y2K — origen 2 dígitos, Greenspan culpable, Bemer ignorado, pánico «armas oro y grano», ventanas y −28 años, 100.000 M$, noche tranquila con fallos reales (Sheffield Down) y parche que cegó Fort Belvoir; veredicto: éxito invisible, no timo; coda ventanas 2020 + efecto 2038 + COBOL en pandemia; cruces WL-162/WL-166/WL-200/WL-117; concepto candidato «deuda técnica del legado») | Resumen en `tramo-37/` |
+| WL-256 | Por qué dejamos de comprar tarjetas de sonido (`2wMvLuSbaE0`) | Archivo del Futuro | general (historia hardware — Sound Blaster 1989, jumpers/SET BLASTER, Live/EAX 400 M unidades, juicio Aureal comprada en quiebra, muerte por AC'97/HD Audio + Vista sin DirectSound hardware; lección: la compra desaparece cuando lo integrado cubre la expectativa; ventas auto-reportadas — señaladas; cruces WL-200/WL-114/WL-162/WL-117; concepto candidato «comoditización del hardware») | Resumen en `tramo-37/` |
+| WL-257 | Stack Overflow 2026: el 33 % de los devs es infeliz y cada vez más trabajan solos (`aYdGJcMGIsw`) | Fazt Code | ia-uso-practico/agentes-de-codigo o general (comentario encuesta SO 2026 — 33 % infeliz, un dev = un equipo con agentes/vibe coding (self-employment 3,9→10,5 %), confianza en IA selectiva por fuentes citables, SQLite 2ª BD por IA, declive de Stack Overflow, 63 %: información incompleta como barrera; datos de 2ª mano a verificar contra la encuesta — señalado; cruces WL-228/WL-232/WL-241/WL-252) | Resumen en `tramo-37/` |
+
+Notas del tramo: **4/4 útiles EXACTOS con contador explícito — TRAMO FINAL, sin quinto `--one`**. 0 skips, 0 meta-fail, sin 429. Salida 45.239.32.215 (Proton UE, validada hoy), 4 descargas timedtext consecutivas, presupuesto suave 400 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L23: **50/50 útiles — PEDIDO L23 COMPLETADO**. Tema de tramo: historia de la tecnología ×2 (WL-255/256) y recursos que pierden su rol cuando otro canal cubre la necesidad (Stack Overflow/IA en WL-257, tarjeta de sonido/integrado en WL-256).
+
 ## Tramo 36 — relevo 29 (WL-249..WL-253)
 
 | # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
