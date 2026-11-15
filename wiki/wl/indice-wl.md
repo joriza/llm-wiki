@@ -238,6 +238,18 @@ Notas del tramo: 5/5 útiles exactos (WL-196..WL-200), 0 skips, 0 meta-fail, sin
 
 Notas del tramo: 3/3 útiles exactos (WL-201..WL-203), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin cuarto ciclo (TRAMO FINAL del pedido L22). Salida 45.239.32.215 (Proton UE, validada hoy), 3 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). **PEDIDO L22 CERRADO: 50/50 útiles.**
 
+## Tramo 29 — relevo 22 (WL-209..WL-213)
+
+| # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
+|---|--------|--------|------------------|---------|
+| WL-209 | NVIDIA elimina la RTX 5090… ¿Qué GPU deberías comprar AHORA? (`SpPYUVjVaTg`) | Cognix | ia-uso-practico/ia-local o general (análisis de compra — fin de la 5090 no confirmado, 7.443 USD vs lista 1.999, benchmarks citados Qwen 3 27B, memoria según contexto, alternativas de 32 GB, amortización 31 años; cruces WL-192/WL-189/WL-122, [[hardware-para-ia-local]], entidad Cognix) | Resumen en `tramo-29/` |
+| WL-210 | Historia de la IA: Cronología Completa 1943–2026 (`qYkcLYHxh2g`) | El Próximo Framework en Ingeniería | ia-critica-y-fronteras o general (documental 83 años — inviernos, retropropagación, AlexNet, transformers, carrera 2023-26 DeepSeek/Claude/GPT/Grok; episodios 2025-26 no verificables, señalado; cruces [[deepseek-harness]], Anthropic WL-12/21/23, WL-117/WL-162/WL-200, WL-209) | Resumen en `tramo-29/` |
+| WL-211 | Spec-Driven Development vs vibe coding (`k83I32V0IFg`) | Torti Code | ia-uso-practico/agentes-de-codigo (SDD: especificación versionada, requisitos verificables, escenarios de aceptación, TDD, deriva de especificación, cuándo no conviene; cruces [[agentes-de-codigo]], [[odd-metodologia]], WL-153/WL-185/WL-203; candidato a concepto SDD) | Resumen en `tramo-29/` |
+| WL-212 | ¿Cómo Descubrieron Los Humanos el Aluminio? (`Mn0BNi9mqDI`) | Fosil Metal | general (historia de la tecnología/materiales — aluminio: invisible por afinidad con oxígeno, alumbre, lujo Napoleón III, Hall-Héroult 1886, Bayer 1888; moraleja valor=dificultad de extracción, paralelo WL-209; reciclaje 5 %) | Resumen en `tramo-29/` |
+| WL-213 | Dormir bien te salva la vida (`GEqNOpLOn6I`) | Santiago Bilinkis | general (salud/divulgación — autoevaluación del sueño falla, efectos medibles, terceros en riesgo, limpieza glinfática y REM, mitos, sueño bifásico, crisis adolescente; cruces cluster salud WL-164/WL-172/WL-139/WL-186) | Resumen en `tramo-29/` |
+
+Notas del tramo: 5/5 útiles exactos, 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L23: **10/50 útiles**.
+
 ## Tramo 28 — relevo 21 (WL-204..WL-208)
 
 | # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
