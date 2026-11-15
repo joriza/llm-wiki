@@ -2010,3 +2010,8 @@ URL de playlist pura (list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS, sin v=). IGNORADA
 - Fuente: https://docs.python.org/es/dev/tutorial/introduction.html — web leída directo, SIN raw.
 - Resumen: wiki/electronica-practica/resumen-FAV-422-introduccion-informal-python-docs.md
 - Fuente de INFORMÁTICA — **candidata a dominio informatica** (se suma a FAV-413/419/420). Cruces: FAV-423/424 (Python en la cola), FAV-419/420 (Python para IA).
+
+## [2026-11-15] ingesta | FAV-423 — pip vs uv, gestor de paquetes Python (Código Espinoza)
+- Fuente: https://www.youtube.com/watch?v=RFInJeuhiFk → raw/electronica-practica/2026-11-15-pip-uv-gestor-paquetes-python.md
+- Resumen: wiki/electronica-practica/resumen-FAV-423-pip-vs-uv-codigo-espinoza.md
+- Fuente de INFORMÁTICA — **candidata a dominio informatica**. Umbral Informatica/Python: 3 fuentes (FAV-422/423/424) — anotado, sin páginas. Cruces: FAV-422, FAV-424, [[ia-en-mcu]]. Descarga gated OK (sleep 88 s, salida WARP).
