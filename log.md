@@ -2088,3 +2088,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=cwZc_5WrYP4 (list= ajena ignorada, S4). Canal Gilada, 2026-07-04, 28:05, ES-419 subs manuales.
 - **Raw**: raw/informatica/2026-11-15-por-que-tantos-lenguajes-de-programacion-gilada.md
 - **Resumen**: wiki/informatica/resumen-FAV-437-tantos-lenguajes-de-programacion-gilada.md
+
+## [2026-11-15] ingesta | FAV-438 — ¿Qué es realmente internet? (Gilada)
+- **Fuente**: https://www.youtube.com/watch?v=JhuiIzA5E2s (list= ajena ignorada, S4). Canal Gilada, 2026-07-11, 18:25, ES-419 subs manuales.
+- **Raw**: raw/informatica/2026-11-15-que-es-realmente-internet-gilada.md
+- **Resumen**: wiki/informatica/resumen-FAV-438-que-es-realmente-internet-gilada.md
