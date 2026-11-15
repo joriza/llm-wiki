@@ -1851,3 +1851,19 @@ Registro cronológico de solo adición.
 ## [2026-11-15] ingesta | WLED — Documentación oficial del proyecto (FAV-381)
 
 Web (kno.wled.ge), sin raw. Resumen: wiki/electronica-practica/resumen-FAV-381-wled-documentacion-kno-wled-ge.md. Cruces con el clúster WS2812B/HUB75 (FAV-375/377/379/380).
+
+## [2026-11-15] ingesta | Pantalla OLED SSD1306 con Arduino (FAV-382)
+
+YouTube cWgWvNhWg-A (La Buhardilla del Loco). Raw: raw/electronica-practica/2026-11-15-pantalla-oled-ssd1306-arduino.md. Resumen: wiki/electronica-practica/resumen-FAV-382-oled-ssd1306-arduino-labuhardilla.md. Cruces: FAV-350 (OLED/Pico), FAV-371 (TFT).
+
+## [2026-11-15] ingesta | Pantallas OLED, el fin de las LCD (FAV-383)
+
+YouTube a-p9uYt_Kp4 (El profe Garcia). Raw: raw/electronica-practica/2026-11-15-pantallas-oled-fin-de-lcd.md. Resumen: wiki/electronica-practica/resumen-FAV-383-oled-vs-lcd-profe-garcia.md. Cruces: FAV-350, FAV-382, FAV-384.
+
+## [2026-11-15] ingesta | Dibujos y plantillas en pantalla OLED (FAV-384)
+
+YouTube QJcN89AFxV0 (El profe Garcia). Raw: raw/electronica-practica/2026-11-15-dibujos-plantillas-pantalla-oled.md. Resumen: wiki/electronica-practica/resumen-FAV-384-dibujos-plantillas-pantalla-oled.md. Cruces: FAV-375 (misma colaboradora), FAV-382/383.
+
+## [2026-11-15] ingesta | Pinout de Arduino Nano, guia para principiantes (FAV-385)
+
+Web PCBASIC (sin raw). Resumen: wiki/electronica-practica/resumen-FAV-385-pinout-arduino-nano-pcbasic.md. Cruces: FAV-361/363 (pinouts), FAV-369 (alimentacion), FAV-382/383 (I2C OLED), FAV-378 (HC-05).
