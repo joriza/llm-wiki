@@ -2566,3 +2566,6 @@ Fuente 6/11 (qc8mkWtwY9c, Pelado Nerd 2019-06-21, ES-ASR 06:46). Raw intacto a r
 
 ## [2026-11-15] ingesta | So, you want to start self-hosting? Part 1 - Proxmox y hardware
 Fuente 7/11 (zngSuqCM4d8, Tailscale 2025-05-21, EN 20:13). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-6. Serie oficial de Tailscale, parte 1 de instalación.
+
+## [2026-11-15] ingesta | The cloud is over-engineered and overpriced
+Fuente 8/11 (jFrGhodqC08, Tom Delalande 2024-04-25, EN-ASR 14:39). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-7. Pieza de crítica de la nube + demo de despliegue self-hosted.
