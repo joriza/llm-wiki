@@ -2703,3 +2703,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 ## [2026-11-15] ingesta | tramo 8 — WL-104: Si no entendés esto, no vas a recibirte NUNCA (Franco Pisso, 2026-10-29, otMZ3SKi9wo)
 
 - Estación wl (L12): raw espejado en `raw/wl/tramo-8/2026-10-29-si-no-entendes-esto-no-vas-a-recibirte-nunca.md`, resumen en `wiki/wl/tramo-8/resumen-WL104-si-no-entendes-esto-no-vas-a-recibirte.md`. Dominio destino previsto: general (autoayuda-académica). Salida 45.239.32.215, sin 429.
+## [2026-11-15] ingesta | tramo 8 — WL-105: Tren bala argentino: US$ 4.000 millones y ni un metro de vía (Quien Mueve el Mundo, 2026-11-02, jsIZS6WhqcQ)
+
+- Estación wl (L12): raw espejado en `raw/wl/tramo-8/2026-11-02-tren-bala-argentino-us-4-000-millones-y-ni-un-metro-de-via.md`, resumen en `wiki/wl/tramo-8/resumen-WL105-tren-bala-argentino.md`. Dominio destino previsto: general / sociedad-argentina (infraestructura) — pendiente consolidación. Salida 45.239.32.215, sin 429.
