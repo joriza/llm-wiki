@@ -2954,3 +2954,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Salida **45.239.32.215** (Proton UE, validada hoy) — 5 descargas timedtext consecutivas sin 429, presupuesto suave 100 nunca alcanzado (regla L13).
 - Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-138 general (industria automotriz — desarmes BYD), WL-139 general (psicología — inteligencia mecánica), WL-140 general (ciclismo/crítica de industria — 1x vs 2x), WL-141 general/sociedad-argentina (streaming/cultura digital — opinión, NO factual, señalado en triage), WL-142 general (infraestructura/ferrocarriles).
 - Última fuente del tramo: **WL-142** (`xjyKyQUHl7E`). Próximo: T16 (WL-143..WL-147, relevo 9); consolidación de tramos 8-15 diferida (L12).
+
+## [2026-11-15] ingesta | Por qué la televisión decidió borrar por completo a Raúl Portal (WL-143, tramo 16)
+- Canal Ecos del Pasado Argentino: Recuerdo con nostalgia, 13:14, subtítulos manuales, `P7I-FSOmuSA`. Raw espejado en `raw/wl/tramo-16/2026-10-28-por-que-la-television-decidio-borrar-por-completo-a-raul-portal.md`; resumen en `wiki/wl/tramo-16/resumen-WL143-...md`. Dominio previsto: general/sociedad-argentina (cultura pop/televisión, marco docudrama señalado en triage). Consolidación diferida (L12).
