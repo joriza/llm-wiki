@@ -22,8 +22,8 @@ Transcripción ASR utilizable. Errores: «diatonic» = **Ideatronic**; «light w
 
 ## CRUCES
 
-- Segunda voz del **concepto-candidato diseño-pcb-herramientas** (con [[resumen-FAV-317-tutorial-basico-kicad]]: contraste netlist/conversión manual en KiCad vs conversión automática LiveWire→PCB Wizard; y con EasyEDA FAV-320..322, relevo siguiente). Concepto: página única en la próxima consolidación.
-- **Entidad Ideatronic**: 3.ª fuente del canal en esta ventana ([[resumen-FAV-312-circuito-impreso-metodo-del-planchado-ideatronic]], [[resumen-FAV-313-serigrafia-casera-pcb-ideatronic]]) — refuerza su página de entidad.
+- **[[diseno-pcb-herramientas]]** (2/5): página de concepto creada en la consolidación (2026-11-14) — aquí va el contraste netlist/conversión manual en KiCad ([[resumen-FAV-317-tutorial-basico-kicad]]) vs conversión automática LiveWire→PCB Wizard, y con EasyEDA [[resumen-FAV-320-diseno-placa-pcb-easyeda]]/[[resumen-FAV-321-crear-circuitos-impresos-easyeda]].
+- **[[ideatronic]]**: página de entidad creada en la consolidación (2026-11-14) — 4 fuentes del canal (con [[resumen-FAV-312-circuito-impreso-metodo-del-planchado-ideatronic]], [[resumen-FAV-313-serigrafia-casera-pcb-ideatronic]], [[resumen-FAV-314-amplificador-audio-casero-ideatronic]]).
 - El flujo de impresión sobre papel fotográfico es el mismo del método del planchado (FAV-312) y la serigrafía (FAV-313).
 
 ## Dominio

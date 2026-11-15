@@ -23,7 +23,7 @@ Transcripción ASR sin puntuar, calidad media. Detalles: «isic de edad / silled
 
 ## CRUCES
 
-- Quinta voz del **concepto diseño-pcb-herramientas** y tercera EasyEDA-del-clúster (con [[resumen-FAV-320-diseno-placa-pcb-easyeda]], [[resumen-FAV-317-tutorial-basico-kicad]], [[resumen-FAV-318-livewire-pcb-wizard-ideatronic]], [[resumen-FAV-319-crear-componentes-pcb-wizard]]) → página única de concepto en la próxima consolidación.
+- **[[diseno-pcb-herramientas]]** (5/5 → página de concepto creada en la consolidación, 2026-11-14): con [[resumen-FAV-320-diseno-placa-pcb-easyeda]], [[resumen-FAV-317-tutorial-basico-kicad]], [[resumen-FAV-318-livewire-pcb-wizard-ideatronic]], [[resumen-FAV-319-crear-componentes-pcb-wizard]].
 - El oscilador astable a transistores con LEDs conecta temáticamente con el clúster de [[resumen-FAV-005-como-funciona-un-transistor-del0al1]].
 - Fabricación a fábrica (vs. casera): contraste con [[resumen-FAV-312-circuito-impreso-metodo-del-planchado-ideatronic]] y [[resumen-FAV-313-serigrafia-casera-pcb-ideatronic]].
 

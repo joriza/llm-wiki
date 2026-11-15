@@ -24,7 +24,7 @@ Transcripción ASR utilizable pero con muchos nombres propios deformados: «kit 
 
 ## CRUCES
 
-- Primera voz del **concepto-candidato diseño-pcb-herramientas** (con PCB Wizard/LiveWire FAV-318/319 y EasyEDA FAV-320..322): contraste directo Eagle vs KiCad (licencia, límites, sincronización esquemático-layout, creación de librerías) — página de concepto en la próxima consolidación.
+- **[[diseno-pcb-herramientas]]** (1/5): página de concepto creada en la consolidación (2026-11-14) con PCB Wizard/LiveWire (FAV-318/319) y EasyEDA (FAV-320/321) — aquí va el contraste Eagle vs KiCad (licencia, límites, sincronización esquemático-layout, creación de librerías).
 - La impresión espejada con «marca pequeña» conecta con el método de planchado ([[resumen-FAV-312-circuito-impreso-metodo-del-planchado-ideatronic]]) y la serigrafía ([[resumen-FAV-313-serigrafia-casera-pcb-ideatronic]]) del mismo dominio de fabricación casera de PCB.
 - La zona de cobre a masa y las reglas de diseño (ancho de pista, DRC) son conceptos transversales a cualquier herramienta de diseño PCB.
 

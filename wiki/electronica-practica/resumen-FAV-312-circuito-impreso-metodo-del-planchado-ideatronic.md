@@ -27,8 +27,8 @@ Transcripción ASR es utilizable. Errores de reconocimiento notables: «Canal de
 ## CRUCES
 
 - **[[resumen-FAV-313-serigrafia-casera-pcb-ideatronic]]**: mismo canal y flujo de trabajo — esta placa (pistas) es la base a la que ese video le añade la serigrafía (máscara de componentes); ambos citan PCB Wizard, impresora láser, papel fotográfico y planchado.
-- **Entidad-candidata: canal Ideatronic** (2/2 fuentes de esta ventana; canal didáctico en español de electrónica práctica — subir a página de entidad en la próxima consolidación).
-- Tema-candidato: **fabricacion-casera-pcb** (1/2).
+- **[[ideatronic]]**: página de entidad creada en la consolidación (2026-11-14) — 4 fuentes del canal (con FAV-313/314/318).
+- **[[fabricacion-casera-pcb]]** (1/2): página de concepto creada en la consolidación (2026-11-14) junto a FAV-313.
 
 ## Dominio
 

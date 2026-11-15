@@ -23,7 +23,7 @@ Transcripción ASR de buena calidad (con puntuación). Detalles: «patika/patica
 
 ## CRUCES
 
-- **Cuarta voz de la entidad Ideatronic** en esta ventana (con [[resumen-FAV-312-circuito-impreso-metodo-del-planchado-ideatronic]], [[resumen-FAV-313-serigrafia-casera-pcb-ideatronic]], [[resumen-FAV-318-livewire-pcb-wizard-ideatronic]]) → página de entidad en la próxima consolidación.
+- **[[ideatronic]]**: página de entidad creada en la consolidación (2026-11-14) — cuarta voz del canal (con [[resumen-FAV-312-circuito-impreso-metodo-del-planchado-ideatronic]], [[resumen-FAV-313-serigrafia-casera-pcb-ideatronic]], [[resumen-FAV-318-livewire-pcb-wizard-ideatronic]]).
 - El condensador de acoplo de salida conecta con [[resumen-FAV-007-condensador-luis-carlos-galan]]; el punto a punto es la alternativa de montaje previa a la fabricación de un PCB.
 
 ## Dominio

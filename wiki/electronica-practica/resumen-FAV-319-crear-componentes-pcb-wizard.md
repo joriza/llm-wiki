@@ -24,7 +24,7 @@ Transcripción ASR de buena calidad (con puntuación). Detalles: «exección pun
 
 ## CRUCES
 
-- Tercera voz del **concepto-candidato diseño-pcb-herramientas** (con [[resumen-FAV-317-tutorial-basico-kicad]] — creación de símbolo/librería en KiCad es el paralelo directo — y [[resumen-FAV-318-livewire-pcb-wizard-ideatronic]]; EasyEDA FAV-320..322 en el relevo siguiente). Página única de concepto en la próxima consolidación.
+- **[[diseno-pcb-herramientas]]** (3/5): página de concepto creada en la consolidación (2026-11-14) — la creación de símbolo/librería en KiCad ([[resumen-FAV-317-tutorial-basico-kicad]]) es el paralelo directo; EasyEDA en [[resumen-FAV-320-diseno-placa-pcb-easyeda]] y [[resumen-FAV-321-crear-circuitos-impresos-easyeda]].
 - La capa silk screen y su impresión con mirror conectan con [[resumen-FAV-313-serigrafia-casera-pcb-ideatronic]] (serigrafía casera de PCB).
 
 ## Dominio

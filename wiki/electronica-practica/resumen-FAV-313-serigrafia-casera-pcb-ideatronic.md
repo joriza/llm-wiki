@@ -26,8 +26,8 @@ Transcripción ASR es utilizable. Errores de reconocimiento notables: «Canal de
 ## CRUCES
 
 - **[[resumen-FAV-312-circuito-impreso-metodo-del-planchado-ideatronic]]**: misma técnica de planchado (tóner + láser + papel fotográfico) aplicada a la silk screen; flujo de trabajo y herramientas idénticos (PCB Wizard, ácido férrico aparte).
-- **Entidad-candidata: canal Ideatronic** (2/2 fuentes de esta ventana — canal didáctico en español de electrónica práctica; subir a página de entidad en la próxima consolidación).
-- Tema-candidato: **fabricacion-casera-pcb** (2/2 → umbral alcanzado; página de concepto en la próxima consolidación).
+- **[[ideatronic]]**: página de entidad creada en la consolidación (2026-11-14) — 4 fuentes del canal (con FAV-312/314/318).
+- **[[fabricacion-casera-pcb]]** (2/2 → página de concepto creada en la consolidación, 2026-11-14 junto a FAV-312).
 
 ## Dominio
 

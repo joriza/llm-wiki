@@ -24,7 +24,7 @@ Transcripción ASR sin puntuar, calidad media. Detalles: «AC eda / aca.com» = 
 
 ## CRUCES
 
-- Cuarta y quinta voz del **concepto diseño-pcb-herramientas** (KiCad [[resumen-FAV-317-tutorial-basico-kicad]], PCB Wizard [[resumen-FAV-318-livewire-pcb-wizard-ideatronic]] y [[resumen-FAV-319-crear-componentes-pcb-wizard]], EasyEDA [[resumen-FAV-321-crear-circuitos-impresos-easyeda]]) → página única de concepto en la próxima consolidación.
+- **[[diseno-pcb-herramientas]]** (4/5): página de concepto creada en la consolidación (2026-11-14) — KiCad [[resumen-FAV-317-tutorial-basico-kicad]], PCB Wizard [[resumen-FAV-318-livewire-pcb-wizard-ideatronic]] y [[resumen-FAV-319-crear-componentes-pcb-wizard]], EasyEDA [[resumen-FAV-321-crear-circuitos-impresos-easyeda]].
 - El uso del LM386 conecta con [[resumen-FAV-314-amplificador-audio-casero-ideatronic]]; los Gerber para fabricación en casa con [[resumen-FAV-312-circuito-impreso-metodo-del-planchado-ideatronic]] y la serigrafía del artwork con [[resumen-FAV-313-serigrafia-casera-pcb-ideatronic]].
 
 ## Dominio
