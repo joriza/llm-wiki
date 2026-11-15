@@ -2221,3 +2221,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=GUuWgk3dXd0 (list= de playlist propia ignorada por S4). Canal Bitwise Ar, 2017-02-19, 15:36, ES subs automáticos.
 - **Raw**: raw/electronica-practica/2026-11-15-arduino-desde-cero-cap2-instalacion-ide-bitwise-ar.md
 - **Resumen**: wiki/electronica-practica/resumen-FAV-468-arduino-desde-cero-cap2-instalacion-ide-bitwise-ar.md
+
+## [2026-11-15] ingesta | Simulador para Arduino: UnoArduSim (Cefuve) — FAV-469
+- **Fuente**: https://www.youtube.com/watch?v=ph0tcXAkOrQ (list= de playlist propia ignorada por S4). Canal Cefuve, 2019-12-06, 09:41, ES subs automáticos (ASR muy degradado, normalizado solo en el resumen).
+- **Raw**: raw/electronica-practica/2026-11-15-simulador-unoardusim-cefuve.md
+- **Resumen**: wiki/electronica-practica/resumen-FAV-469-simulador-unoardusim-cefuve.md
