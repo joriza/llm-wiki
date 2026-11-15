@@ -2963,3 +2963,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 
 ## [2026-11-15] ingesta | ¿Podrían 2 personas repoblar la Tierra? (WL-145, tramo 16)
 - Canal Fosil Metal, 18:27, ASR es, `qhZcvJLBvcI`. Raw espejado en `raw/wl/tramo-16/2026-10-27-podrian-2-personas-repoblar-la-tierra-la-respuesta-te-sorprendera.md`; resumen en `wiki/wl/tramo-16/resumen-WL145-podrian-2-personas-repoblar-la-tierra.md`. Dominio previsto: general (divulgación genética/demografía; bien referenciada, controversias señaladas). Consolidación diferida (L12).
+
+## [2026-11-15] ingesta | 1 MARXISTA vs 5 LIBERTARIOS — reacción (WL-146, tramo 16)
+- Canal Dos Dager, 187:17, ASR es, `BRd-oFpYYKY`. Raw espejado en `raw/wl/tramo-16/2026-10-28-1-marxista-vs-5-libertarios-reaccion.md`; resumen en `wiki/wl/tramo-16/resumen-WL146-1-marxista-vs-5-libertarios-reaccion.md` (lectura por secciones muestreadas — fuente de 3 h). Dominio previsto: general/sociedad-argentina (documento del clima político-intelectual, NO fuente factual, señalado en triage). Consolidación diferida (L12).
