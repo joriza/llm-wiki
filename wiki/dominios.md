@@ -35,7 +35,6 @@ Detalle en `log.md`.
 | `casa-calefaccion/` | Calefacción, refrigeración y confort térmico del hogar: estufas y diseño térmico, solar pasivo, baterías térmicas, ventilación y energía casera (playlist Casa/Calefacción de Jorge J. Izaguirre). |
 | `python-practico/` | Librerías, herramientas y proyectos prácticos de Python: logging (Loguru), automatización, DuckDB, librerías para analítica y micro-SaaS (playlist Python práctico). |
 | `ia-local/` | **Inferencia local de LLMs**: motores (llama.cpp, Strata, LM Studio, Ollama), hardware y cuantización general, economía del uso local (cloud gratis, Mac Studio vs suscripción), páginas-hub y canales técnicos del banco de pruebas (Nichonauta, CodeSimple, Jorge Marfil, Cognix, atareao, Apasoft); las familias de modelos se segregaron a `modelos-llm-locales/` (reestructuración aprobada por el usuario, 2026-11-12). |
-| `modelos-llm-locales/` | **Familias de LLM locales y sus comparativas**: Qwen, Gemma, LFM, Ornith, FrogNano, BitNet/Ternary Bonsai; retos 2B, fine-tunes y cuantización extrema por modelo (reestructuración aprobada por el usuario, 2026-11-12). |
 | `agentes-de-codigo/` | **Agentes de código y sus arneses**: Pi, MinAgent, DeepSeek Harness, OpenCode, Kilo Code, Herdr/multiplexores, metodologías (ODD, Gentle AI). |
 | `ia-uso-practico/` | **IA práctica general**: agregación de APIs y proveedores gratis, evaluación de LLMs (Promptfoo/Ragas), herramientas open source, productividad, asistentes (Odysseus), canales transversales (Alejavi Rivera, Xavier Mitjana, Fazt, La Hora Maker…). |
 | `ia-media-generativa/` | Imagen, voz y video generativos: generación local y sin censura, clonación de voz, marcas de agua (Flux, ComfyUI, Midjourney, HyperFrames…). |
@@ -53,3 +52,5 @@ Detalle en `log.md`.
 | `salud-fitness/` | **Salud y fitness en video**: ejercicio y movilidad (fuerza 40+/60+, isométricos, estiramientos), grasa corporal y metabólico, nutrición deportiva y sueño (playlist «Salud», 2026-11-13); el clúster fitness-senior de `general/` queda cruzado, no movido. |
 | `cocina/` | Cocina casera y recetas en video: panadería/pizzas, licores, carnes, técnicas culinarias; eje argentino/rioplatense (playlist del usuario, 2026-11-12). |
 | `informatica/` | **Informática y desarrollo de software**: lenguajes y ecosistemas (Python, Node/Express), herramientas de dev (pip/uv, APIs), IA aplicada a software (LLM frontends, RAG, proxies de IA). Creado por decisión del usuario (2026-11-15) al curar `Docencia/Informatica` (46 fuentes en cola) + 7 ya procesadas desde la ventana Vs+Docencia. |
+
+| ~~`modelos-llm-locales/`~~ | **Fusionado en `ia-local/`** (2026-11-15, decisión del usuario tras lint: solapamiento muy alto herramientas/modelos locales; 22 fuentes migradas sin colisiones). |

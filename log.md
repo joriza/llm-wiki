@@ -2356,3 +2356,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] lint aplicado | historia de informatica/ -> historia-informatica/
 - Migrados 8 resúmenes históricos (FAV-430/431/446/452/453/454/457/461) + concepto [[historia-software-corporativa]] de `informatica/` a `historia-informatica/` (decisión del usuario tras lint: eliminar la duplicación de función histórica). index.md actualizado; slugs [[...]] intactos (no requieren reescritura).
+
+## [2026-11-15] lint aplicado | fusión modelos-llm-locales/ -> ia-local/
+- Dominio `modelos-llm-locales/` (22 fuentes: modelos pequeños, Gemma 4/Qwen/LFM, entidades bartowski/frognano) fusionado en `ia-local/` por decisión del usuario tras lint (solapamiento herramientas↔modelos). Sin colisiones de nombres; index.md reescrito (n rutas); entrada de dominio marcada como fusionada en dominios.md.
