@@ -28,3 +28,8 @@ La informática es un reflejo de necesidades humanas contra limitaciones de la m
 - Historia de la informática narrada: [[resumen-FAV-430-historia-git-linus-torvalds-fatdev]] (historia Git) y [[resumen-FAV-431-dennis-ritchie-lenguaje-c-fatdev]] (el origen en C que este video da por conocido).
 - Clúster **lenguajes**: PHP/Perl/web conecta con [[resumen-FAV-425-express-js-10-minutos-carlos-gonzalez]] (el ecosistema JS de servidor); SQL cruza con [[resumen-FAV-433-big-o-vida-real-torti-code]] (índices de BD como árboles).
 - Canal **Gilada**: 1.ª fuente en la wiki — candidata a entidad si reaparece (umbral ≥2, deferida).
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[gilada]].

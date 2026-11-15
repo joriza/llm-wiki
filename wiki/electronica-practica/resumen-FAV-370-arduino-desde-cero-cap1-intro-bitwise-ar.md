@@ -17,3 +17,8 @@ Capítulo de apertura del curso «Arduino desde cero en Español» (Bitwise Ar):
 - ASR: «un cero una pantalla» = un servo, una pantalla; «modelo 1o» = Uno; normalizado solo aquí.
 - Regla S4: el bookmark traía `list=` de la playlist del curso, ignorada — procesado solo este video.
 - Cruces: mismo canal, curso al que pertenece el cap. 62 de [[resumen-FAV-369-fuente-protoboard-mb102-bitwise-ar]]; PWM relays/motores anticipan el control de potencia de [[resumen-FAV-366-reles-7-errores-diseno-tr3bol]]; la familia Uno/ATmega328P aparece en [[resumen-FAV-364-microcontroladores-industria-mito-tr3bol]]; introducción comparable a la migración Arduino→ESP32 de [[resumen-FAV-359-de-arduino-a-esp32-iotlab]].
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[bitwise-ar]].

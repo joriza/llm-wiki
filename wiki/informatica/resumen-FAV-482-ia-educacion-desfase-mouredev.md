@@ -23,3 +23,8 @@ Ni «la universidad es una estafa» ni «todo se aprende gratis en YouTube»: la
 ## Cruces
 
 Canal **MoureDev 2 fuentes** ([[resumen-FAV-428-vscode-tutorial-principiantes-mouredev]] + esta) — umbral de entidad cumplido, deferido a consolidación. Conectable con la línea IA y educación de [[santiago-bilinkis]] (dominio general/) y con el clúster de crítica a la IA ([[ia-en-mcu]] no aplica; mejor [[resumen-FAV-434-vibe-coding-cinco-agujeros-otro-mas-de-sistemas]] como contra-punto sobre código generado por IA sin revisión).
+
+
+## Consolidación (2026-11-15)
+
+- Concepto y canal consolidados: [[ia-educacion-desfase]] · entidad [[mouredev]].

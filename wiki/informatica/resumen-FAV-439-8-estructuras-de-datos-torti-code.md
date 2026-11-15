@@ -23,3 +23,8 @@ Dos códigos idénticos en resultado: 3 s vs 3 ms — la diferencia es la estruc
 - Canal **Torti Code**: 3.ª fuente en la wiki (umbral ≥2 ya superado, entidad candidata deferida en Log): [[resumen-FAV-433-big-o-vida-real-torti-code]] (el Big O es la métrica con la que este video justifica cada estructura — índices de BD como árboles logarítmicos, mismo ejemplo).
 - Clúster **estructuras de datos/algoritmos**: el resumen previo de Codist (25+ algoritmos) y estructuras en informatica-teoria.
 - B-trees/índices y hash tables cruzan con [[resumen-FAV-438-que-es-realmente-internet-gilada]] (capas de infraestructura) solo tangencialmente; el cruce fuerte es el clúster algorítmico.
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[torti-code]] (14 fuentes).

@@ -37,3 +37,8 @@ Anécdota-estudio de caso sobre **calidad de datos y diseño de BD**: complement
 
 - CTA de suscripción/canal y patrocinio interno excluidos de la síntesis; el video es narración de anécdota enviada por un suscriptor, con marco de humor («se puso violento», «microdesmayo del gerente»).
 - ASR razonable; «Todo co»/«todo code» = TodoCode; «de tocoacademy» = todocodeacademy.
+
+
+## Consolidación (2026-11-15)
+
+- Clúster y canal consolidados: [[bases-de-datos]] · entidad [[tocode]].

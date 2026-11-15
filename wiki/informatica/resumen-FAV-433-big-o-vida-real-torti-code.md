@@ -37,3 +37,8 @@ Meta resumida en la gráfica de curvas: **quedarse abajo** (constante/log/lineal
 
 - Canal **Torti Code**: 2.ª fuente en la wiki (concurrencia vs paralelismo, FAV en informatica-teoria) → entidad candidata para consolidación.
 - Clúster **estructuras de datos/algoritmos**: el mismo canal cierra el video derivando a su video de 8 estructuras de datos; cruza con el resumen de Codist (25+ algoritmos) y estructuras de datos en informatica-teoria.
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[torti-code]] (14 fuentes).

@@ -21,3 +21,8 @@ Firmware open source para **ESP8266** que convierte la placa en una herramienta 
 
 - Tutorial en video del mismo tipo de herramienta sobre ESP32: [[resumen-FAV-415-deauther-wifi-esp32-alto-evolucionario]].
 - NodeMCU ESP8266 programado desde Arduino IDE: [[resumen-FAV-357-nodemcu-esp8266-arduino-beeggle]].
+
+
+## Consolidación (2026-11-15)
+
+- Clúster consolidado: [[deauther-wifi-ofensivo]].

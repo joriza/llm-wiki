@@ -25,3 +25,8 @@ Fórmula tradicional de **restauración y acabado de madera** con tres ingredien
 ## Relacionado
 
 - Par del mismo canal sobre metal: [[resumen-FAV-417-acido-tanico-conversion-oxido-raices-prohibidas]] (misma serie «Raíces Prohibidas», mismas cautelas de marco narrativo).
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[raices-prohibidas]].

@@ -18,3 +18,8 @@ Demo de 33 s de un **deauther WiFi de doble banda** basado en **ESP32-C5** — n
 ## Valor
 
 Actualización del clúster deauther del dominio ([[resumen-FAV-412-esp8266-deauther-spacehuhn]], [[resumen-FAV-415-deauther-wifi-esp32-alto-evolucionario]], [[resumen-FAV-478-nodemcu-exact-password-evil-twin-techchip]]): primera fuente con banda 5 GHz (ESP32-C5) e interfaz puramente CLI. Video mínimo (33 s, sin explicación): valor de catálogo, no de tutorial. Canal theBitnest: 1 fuente (umbral no alcanzado).
+
+
+## Consolidación (2026-11-15)
+
+- Clúster consolidado: [[deauther-wifi-ofensivo]].

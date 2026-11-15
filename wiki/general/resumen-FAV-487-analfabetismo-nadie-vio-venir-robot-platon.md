@@ -21,3 +21,8 @@ Mismo error que «no aprendas a leer, para eso están los audiolibros». La IA c
 ## Cruces
 
 Complemento directo del par lectura/analfabetismo: [FAV-481 Por qué dejamos de leer](resumen-FAV-481-por-que-dejamos-de-leer-platzi.md) (colapso de la lectura tradicional) vs esta fuente (nueva alfabetización: código) — par de **alfabetizaciones** con umbral ≥2 cumplido para consolidación. Línea IA y educación: [[ia-educacion-desfase]] (FAV-482). Canal El Robot de Platón: 1 fuente (umbral no alcanzado).
+
+
+## Consolidación (2026-11-15)
+
+- Tríptico consolidado: [[alfabetizacion-comprension]] · [[delegacion-cognitiva-ia]].

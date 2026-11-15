@@ -29,3 +29,8 @@ Capítulo 2 del mismo curso [[resumen-FAV-370-arduino-desde-cero-cap1-intro-bitw
 ## Notas
 
 - ASR: «pin Mode»/«digital Wi» = pinMode/digitalWrite; «pin 133» = pin 13; «Genuino» es la marca hermana histórica de Arduino.
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[bitwise-ar]].

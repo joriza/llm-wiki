@@ -21,3 +21,8 @@ El autor insiste en que la demo se hace **en entorno controlado, sobre su propia
 ## Valor
 
 Encaja en el clúster WiFi-ofensivo/ESP8266 del dominio junto a los deauthers ya procesados ([[resumen-FAV-412-esp8266-deauther-spacehuhn]], Spacehuhn; [[resumen-FAV-415-deauther-wifi-esp32-alto-evolucionario]]): aporta la variante Evil Twin/captura de credenciales, complementaria al jamming por desautenticación. Canal TechChip: 1 fuente (umbral no alcanzado).
+
+
+## Consolidación (2026-11-15)
+
+- Clúster consolidado: [[deauther-wifi-ofensivo]].

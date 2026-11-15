@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (canal).
 - **Dominio**: `informatica-teoria`.
 - **Creada**: 2026-11-14 (consolidación de los tramos 5-6 del backlog «Ver más tarde»).
-- **Fuentes**: 2 resúmenes — [[resumen-WL069-clarion-generador-aplicaciones]] (WL-69, Clarion) y [[resumen-WL079-logo-tortuga-escuela]] (WL-79, Logo).
+- **Fuentes**: 2 resúmenes — [[resumen-WL069-clarion-generador-aplicaciones]] (WL-69, Clarion) y [[resumen-WL079-logo-tortuga-escuela]] (WL-79, Logo). +3 de la ventana Vs + Docencia T4 (2026-11-15): **total 5 fuentes**.
 
 ## Identidad
 
@@ -24,3 +24,11 @@ ASR con garbeos sistemáticos de nombres propios (Feurzeig, Seelig, TortugArte) 
 - [[reglas-cableadas-vs-programadas]] — Clarion como el péndulo generador.
 - Dominio `historia-informatica/` — el clúster de historia de la computación de playlist propia.
 - [[gentleman-programming]] — el ecosistema Gentle AI como la variante agéntica contemporánea de las mismas preguntas.
+
+## Fuentes de la ventana Vs + Docencia (2026-11-15)
+
+- [[resumen-FAV-452-sql-server-historia-sybase-archivo-del-futuro]] (SQL Server/Sybase — el efecto de plataforma).
+- [[resumen-FAV-453-office-vs-wordperfect-archivo-del-futuro]] (WordPerfect vs Office — la unidad de compra).
+- [[resumen-FAV-461-susan-kare-iconos-mac-archivo-del-futuro]] (Susan Kare — el lenguaje visual del Mac).
+
+Las tres alimentan el eje consolidado [[historia-software-corporativa]] y mantienen el método documental del canal (corregir la memoria pública con cronologías y expedientes).

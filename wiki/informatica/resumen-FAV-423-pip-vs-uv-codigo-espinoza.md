@@ -32,3 +32,8 @@ En 2026 la comunidad de Python adoptó **uv** (Astral, escrito en Rust, lanzado 
 
 - [[ia-en-mcu]]/FAV-419: el ecosistema Python de IA (LangChain, FastAPI, ChromaDB) es el caso típico de proyecto con muchas dependencias donde la velocidad de uv importa.
 - FAV-422 (tutorial oficial Python), FAV-424 (APIs de Python): clúster Informatica/Python, ya 3 fuentes — umbral anotado en Log sin páginas nuevas.
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[codigo-espinoza]].

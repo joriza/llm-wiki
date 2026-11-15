@@ -18,3 +18,8 @@ Capítulo 54 del curso «Arduino desde cero» de Bitwise Ar: uso de una pantalla
 
 - ASR normalizado solo aquí: «tfc» = TFT, «ovas esp» = bus SPI, «y 93 41 / lily 93 41» = ILI9341, «x pt 2046» = XPT2046, «de hht 11» = DHT11, «se de mushing» = MOSI.
 - Cruces: mismo curso y canal que [[resumen-FAV-370-arduino-desde-cero-cap1-intro-bitwise-ar]] y [[resumen-FAV-369-fuente-protoboard-mb102-bitwise-ar]]; la referencia al bus SPI del cap. 37 y a la OLED del cap. 47 empalma con la línea de pantallas del dominio; el divisor resistivo 47k/10k para adaptar 5 V→3,3 V es la misma técnica de acondicionamiento vista en las fuentes de sensores (p. ej. [[resumen-FAV-354-sensores-4-20ma-esp32-tr3bol]] para lectura acondicionada con ADC).
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[bitwise-ar]].

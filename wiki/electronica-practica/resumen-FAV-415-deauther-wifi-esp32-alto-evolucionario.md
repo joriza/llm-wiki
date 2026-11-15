@@ -18,3 +18,8 @@ Tutorial paso a paso en español para convertir una placa **NodeMCU ESP32 (DuIT 
 
 - Documentación del proyecto hermano sobre ESP8266: [[resumen-FAV-412-esp8266-deauther-spacehuhn]] (el tutorial hace referencia explícita a su «WiPa» basada en ese firmware).
 - Programación del ESP32 desde Arduino IDE como alternativa al IDF: [[resumen-FAV-358-programar-esp32-arduino-electronicspot]]; migración Arduino→ESP32: [[resumen-FAV-359-de-arduino-a-esp32-iotlab]]; placa ESP32-C3 SuperMini: [[resumen-FAV-360-esp32-c3-supermini-arduino-ide-surflaweb]].
+
+
+## Consolidación (2026-11-15)
+
+- Clúster y canal consolidados: [[deauther-wifi-ofensivo]] · entidad [[alto-evolucionario]].

@@ -23,3 +23,8 @@ Contra el modelo antiguo de «curso de 100 horas»: hoy hay información de sobr
 - **Vibe coding supervisado**: replica el human-in-the-loop de [[resumen-FAV-434-vibe-coding-cinco-agujeros-otro-mas-de-sistemas]] (sostener lo que la IA genera) y [[resumen-FAV-440-solid-en-5-minutos-torti-code]] («la IA teclea, el arquitecto revisa»); el hack del commit es la versión operativa de ese criterio.
 - Selección de stack por demanda del mercado conecta con [[resumen-FAV-435-podcast-lunaticoin-alan-buscaglia]] (herramientas/criterio para el mercado de apps sin programar).
 - Estructuras de datos y Big O como parte de los «cimientos»: [[resumen-FAV-439-8-estructuras-de-datos-torti-code]], [[resumen-FAV-433-big-o-vida-real-torti-code]].
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[torti-code]] (14 fuentes).

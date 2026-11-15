@@ -39,3 +39,8 @@ Historia de diseño con buena higiene anti-mito: distingue con precisión qué i
 
 - Canal (Archivo del Futuro) con autopromoción/CTA de suscripción intercalados en la transcripción; excluidos de la síntesis.
 - ASR con errores sistemáticos de nombres: «Susan Care/Ker/Sanker» = Susan Kare; «Mcppaint» = MacPaint; «Zox» = Xerox; «Minintos/Mintosh/Mcint» = Macintosh.
+
+
+## Consolidación (2026-11-15)
+
+- Eje y canal consolidados (cruce): [[historia-software-corporativa]] · [[archivo-del-futuro]].

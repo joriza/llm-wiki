@@ -25,3 +25,8 @@ Un **router/extensor NAT** con ESP32: traducción de direcciones de red (enmasca
 ## Valor
 
 Segunda toma del canal sobre el tema, complementaria a FAV-474: otro firmware (con erase previo y puesta a punto distinta) y comparativa de flasheo Linux vs Windows dentro del clúster ESP32-WiFi del dominio. Canal Computadoras y Sensores: 2 fuentes (FAV-474/480) → entidad candidata para consolidación diferida (umbral ≥2 cumplido, deferida).
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[computadoras-y-sensores]].

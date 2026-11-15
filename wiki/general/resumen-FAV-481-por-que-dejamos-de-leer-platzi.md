@@ -24,3 +24,8 @@ Leer lo que dé gusto (el ejemplo deliberado: *Fourth Wing*, fantasía romántic
 ## Cruces
 
 Sin páginas afines aún en `general/`; tema conectable con la línea educativa de [[santiago-bilinkis]] (IA y trabajo/educación). Canal Platzi: 1 fuente (umbral no alcanzado). Par temático potencial con FAV-487 «El analfabetismo que nadie vio venir» (aún no procesada) — umbral a vigilar en consolidación.
+
+
+## Consolidación (2026-11-15)
+
+- Tríptico consolidado: [[alfabetizacion-comprension]].

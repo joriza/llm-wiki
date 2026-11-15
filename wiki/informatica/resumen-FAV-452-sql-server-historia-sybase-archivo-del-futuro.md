@@ -24,3 +24,8 @@ Historia de software bien documentada que corrige el mito «Microsoft lo invent�
 
 - Eje **historia de software corporativa**: familia de [[resumen-FAV-430-historia-git-linus-torvalds-fatdev]], [[resumen-FAV-431-dennis-ritchie-lenguaje-c-fatdev]] y [[resumen-FAV-446-cobol-imposible-de-matar-fatdev]] (sistemas veteranos que sostienen banca/finanzas — ASE comparte ese perfil de supervivencia).
 - [[resumen-FAV-440-solid-en-5-minutos-torti-code]] / [[resumen-FAV-448-monolito-vs-microservicios-thedebugduck]] como el resto del eje arquitectura/ingeniería de software del clúster.
+
+
+## Consolidación (2026-11-15)
+
+- Clústeres y canal consolidados: [[bases-de-datos]] · [[historia-software-corporativa]] · [[archivo-del-futuro]].

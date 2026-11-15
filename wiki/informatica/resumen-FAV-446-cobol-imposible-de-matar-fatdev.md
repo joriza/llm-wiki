@@ -24,3 +24,8 @@ Historia motivacional sobre deuda técnica y el coste real de reescribir sistema
 - Canal **fatdev**: 3.ª fuente (FAV-430 Git, FAV-431 Ritchie/C) — misma serie narrativa histórica; entidad candidata ya registrada para consolidación.
 - Clúster **historia-informatica**: Hopper/COBOL cruza con Unix/C (FAV-431) y FORTRAN (el dominio historia-informatica); concepto `historia-informatica` → umbral ya cumplido, deferido.
 - Contraste con [[resumen-FAV-437-tantos-lenguajes-de-programacion-gilada]] (por qué hay tantos lenguajes) y [[resumen-FAV-439-8-estructuras-de-datos-torti-code]] como panorama de fundamento.
+
+
+## Consolidación (2026-11-15)
+
+- Eje y canal consolidados: [[historia-software-corporativa]] · entidad [[fatdev]].

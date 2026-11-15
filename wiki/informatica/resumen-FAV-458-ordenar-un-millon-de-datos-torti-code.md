@@ -28,3 +28,8 @@ La diferencia entre 1 segundo y 10 minutos sobre el mismo arreglo y la misma má
 
 - Canal **Torti Code**: 6.ª fuente — [[resumen-FAV-433-big-o-vida-real-torti-code]] (Big O, directo), [[resumen-FAV-439-8-estructuras-de-datos-torti-code]], [[resumen-FAV-440-solid-en-5-minutos-torti-code]], [[resumen-FAV-441-programar-10x-mas-rapido-torti-code]] (+ informatica-teoria). Entidad deferida.
 - **Rendimiento por elección de estructura/algoritmo** ↔ [[resumen-FAV-449-janet-jackson-rhythm-nation-hdd]] no aplica; el contraste natural es con el 1 s vs 10 min del propio título y con las estructuras de datos del canal (la diferencia entre 3 s y 3 ms es la estructura, no el lenguaje).
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[torti-code]] (14 fuentes).

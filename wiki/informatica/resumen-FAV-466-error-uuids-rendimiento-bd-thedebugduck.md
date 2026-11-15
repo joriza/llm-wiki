@@ -47,3 +47,8 @@ Cierre técnico y coherente del clúster [[resumen-FAV-463-anecdota-bd-sin-relac
 ## Notas
 
 - ASR: «big serial» = bigserial; «taquilla» consistente; resoplidos marcados; CTA final excluido de la síntesis.
+
+
+## Consolidación (2026-11-15)
+
+- Clúster y canal consolidados: [[bases-de-datos]] · [[thedebugduck]].

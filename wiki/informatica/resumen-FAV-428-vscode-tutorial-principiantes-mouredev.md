@@ -26,3 +26,8 @@ Panorama en ~10 minutos, menos práctico y más conceptual que el curso de HolaM
 
 - Clúster **VSCode**: FAV-426 (curso completo HolaMundo) — 2 fuentes, umbral ≥2 cumplido, candidata a página de concepto en consolidación.
 - Clúster informatica: [[resumen-FAV-425-express-js-10-minutos-carlos-gonzalez]] (JS), FAV-422/423/424 (Python y su extensión en VS Code), FAV-429/430 (Git).
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[mouredev]].

@@ -29,3 +29,8 @@ Una sola librería (`requests`) cubre todas: armar URL con parámetros → petic
 - FAV-422 (tutorial Python), FAV-423 (pip/uv): clúster **Informatica/Python ahora 3 fuentes** — umbral anotado en Log sin páginas nuevas.
 - Canal **Código Espinoza 2 fuentes** (FAV-423/424) — candidata a entidad (umbral ≥2, deferida).
 - FAV-420 (FreeLLM API): mismo tema «consumir APIs con plan gratuito», en el ecosistema de IA.
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[codigo-espinoza]].

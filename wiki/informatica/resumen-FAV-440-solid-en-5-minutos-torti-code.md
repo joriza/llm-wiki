@@ -22,3 +22,8 @@ Pregunta obligada de entrevista técnica para senior. Respuesta al «si la IA ya
 - Canal **Torti Code**: 4.ª fuente — entidad candidata deferida. Serie didáctica misma línea: [[resumen-FAV-439-8-estructuras-de-datos-torti-code]] (estructuras) y [[resumen-FAV-433-big-o-vida-real-torti-code]] (Big O); hay una 4.ª fuente en `informatica-teoria/` (concurrencia vs paralelismo).
 - **Vibe coding con IA** (umbral ya anotado, FAV-434/435): el argumento «la IA teclea, el arquitecto revisa» replica el human-in-the-loop del podcast Buscaglia y la advertencia de sostener lo que la IA genera de [[resumen-FAV-434-vibe-coding-cinco-agujeros-otro-mas-de-sistemas]].
 - SOLID/OOP conecta con la historia de Simula/Smalltalk→C++/Java de [[resumen-FAV-437-tantos-lenguajes-de-programacion-gilada]] (de dónde salió la herencia que Liskov regula).
+
+
+## Consolidación (2026-11-15)
+
+- Clúster y canal consolidados: [[arquitectura-software]] · entidad [[torti-code]].

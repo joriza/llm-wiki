@@ -380,3 +380,14 @@ Contadores ventana z-tmp: 10 videos YT + 7 fuentes web curables + 1 entidad + 1 
 - **1 DUPLICADO**: FAV-365 (XkdxKrvYVnc t=175s — mismo video que FAV-354, procesado).
 
 Nota: la eliminación es SIEMPRE manual desde la interfaz de Chrome (el sync de Google revierte ediciones del archivo local).
+
+## Ventana Vs + Docencia Material Didáctico (2026-11-15) — CIERRE
+
+79/79 resueltas (FAV-411..489; Electromecánica EXCLUIDA por orden del usuario). **Todos los 79 bookmarks de `Gral/tmp-02/Vs` + `Docencia/Material Didactico Varios` (Informatica/Arduino/Transversal) son candidatos a eliminación manual desde Chrome**, por categoría:
+
+- **68 PROCESADAS** con ciclo completo (resumen en wiki/informatica/, wiki/electronica-practica/ o wiki/general/): FAV-412/413/415..445, 448..450, 452..460, 463..465, 467..474, 477..482, 484..485, 486..489.
+- **6 DUPLICADOS** (mismo video ya procesado): FAV-436 (=IA-Recursos), FAV-451 (=informatica-teoria), FAV-462 (=461), FAV-475/476 (=474), FAV-483 (=general Bilinkis).
+- **3 PLAYLISTS IGNORADAS** (orden del usuario: no procesar playlists completas): FAV-421 (n8n Skills), FAV-427 (VSCode Tips), FAV-447 (Arquitectura e IA).
+- **2 SKIP webs** sin material: FAV-411 (n8n muro de registro), FAV-414 (TableConvert trivial).
+
+Nota: eliminación SIEMPRE manual desde la interfaz de Chrome (el sync revierte ediciones del archivo local).

@@ -25,3 +25,8 @@ Historia de la informática útil como contexto motivacional para FAV-429: expli
 - Clúster **Git**: FAV-429 (curso práctico completo) — 2 fuentes, umbral ≥2, candidata a página de concepto en consolidación.
 - Clúster **historia-informatica**: BitKeeper/Subversion/CVS y Samba (Tridgell) — posible cruce si el dominio historia-informatica acumula fuentes del mismo período.
 - FAV-426 (VS Code): el flujo Git+GitHub que ambos videos presuponen.
+
+
+## Consolidación (2026-11-15)
+
+- Eje y canal consolidados: [[historia-software-corporativa]] · entidad [[fatdev]].

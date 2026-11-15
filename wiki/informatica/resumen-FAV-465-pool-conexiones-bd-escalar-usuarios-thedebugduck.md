@@ -42,3 +42,8 @@ Didáctico y preciso sobre **escalabilidad y池 de conexiones** — el contra-pu
 
 - ASR: «PG bouncer» = PgBouncer; «pool leak» correcto; «lluvia de errores 500» del cierre vs 504 del desarrollo — inconsistencia menor del guion.
 - CTA final excluido de la síntesis.
+
+
+## Consolidación (2026-11-15)
+
+- Clúster y canal consolidados: [[bases-de-datos]] · [[thedebugduck]].

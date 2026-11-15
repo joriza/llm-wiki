@@ -25,3 +25,8 @@ La IA suelta tiende a entregar «un castillo»: capas, abstracciones y opciones 
 - Canal **Torti Code**: 7.ª fuente — par directo con [[resumen-FAV-440-solid-en-5-minutos-torti-code]] (el «set completo»), [[resumen-FAV-433-big-o-vida-real-torti-code]], [[resumen-FAV-439-8-estructuras-de-datos-torti-code]], [[resumen-FAV-441-programar-10x-mas-rapido-torti-code]].
 - **Acoplamiento/microservicios por contratos** ↔ [[resumen-FAV-448-monolito-vs-microservicios-thedebugduck]] (los contratos son lo que hace viable el microservicio — y lo que el monolito modular emula).
 - **YAGNI/MVP y simplicidad** cruza con el clúster vibe coding ([[resumen-FAV-434-vibe-coding-cinco-agujeros-otro-mas-de-sistemas]]): la IA amplifica la sobreingeniería cuando nadie la frena.
+
+
+## Consolidación (2026-11-15)
+
+- Clúster y canal consolidados: [[arquitectura-software]] · entidad [[torti-code]].

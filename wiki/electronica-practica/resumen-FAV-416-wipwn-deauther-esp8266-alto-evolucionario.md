@@ -24,3 +24,8 @@ Tutorial paso a paso para instalar, configurar y usar **Wi-PWN**, el firmware an
 
 - Documentación del proyecto sucesor: [[resumen-FAV-412-esp8266-deauther-spacehuhn]]; versión ESP32 con PMKID/handshake del mismo canal: [[resumen-FAV-415-deauther-wifi-esp32-alto-evolucionario]] (Wi-PWN es el antecesor directo del Deauther de Spacehuhn).
 - Placa NodeMCU ESP8266: [[resumen-FAV-357-nodemcu-esp8266-arduino-beeggle]].
+
+
+## Consolidación (2026-11-15)
+
+- Clúster y canal consolidados: [[deauther-wifi-ofensivo]] · entidad [[alto-evolucionario]].

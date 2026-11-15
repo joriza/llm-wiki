@@ -25,3 +25,8 @@ Divulgación del **ácido tánico** como **convertidor de óxido** casero: no el
 ## Relacionado
 
 - Tema de mantenimiento de herramientas y metal en el dominio; sin páginas de concepto asociadas aún (umbral 1/2).
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[raices-prohibidas]].

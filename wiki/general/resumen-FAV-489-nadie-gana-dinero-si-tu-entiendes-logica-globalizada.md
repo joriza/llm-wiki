@@ -21,3 +21,8 @@ Finlandia/Dinamarca mejoraron protegiendo a los de abajo — «nunca fue una pel
 ## Cruces
 
 Tríptico de comprensión lectora con [FAV-481 Por qué dejamos de leer](resumen-FAV-481-por-que-dejamos-de-leer-platzi.md) — **mismos datos PISA/OCDE y misma tesis de divergencia/desigualdad por fuentes independientes** (par PISA/lectura ahora 2 fuentes + analfabetismo FAV-487); línea IA-educación: [[ia-educacion-desfase]] (FAV-482) y FAV-487 (delegación y alfabetización). Canal Lógica Globalizada: 1 fuente (umbral no alcanzado).
+
+
+## Consolidación (2026-11-15)
+
+- Tríptico consolidado: [[alfabetizacion-comprension]] · [[delegacion-cognitiva-ia]].

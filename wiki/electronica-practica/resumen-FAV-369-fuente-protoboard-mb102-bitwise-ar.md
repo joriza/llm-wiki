@@ -17,3 +17,8 @@ Análisis del módulo fuente MB102 para protoboard (cap. 62 del curso «Arduino 
 
 - ASR: «700.000 jumper / mil jumper» = 700 mA / mA, «33 volts» = 3,3 V, «proto guard» = protoboard, «sounders» = jumpers; normalizado solo aquí.
 - Cruces: los reguladores lineales y su disipación complementan las fuentes conmutadas de [[resumen-FAV-008-foco-led-fuente-conmutada-jwb1981-electrotube]], [[resumen-FAV-009-foco-led-fuente-conmutada-bp2861-electrotube]] y [[resumen-FAV-316-fuente-conmutada-oscilando]]; alimentación de un Arduino suma contexto al curso de Arduino ([[resumen-FAV-364-microcontroladores-industria-mito-tr3bol]] discute Uno/Nano como misma familia ATmega328P). Curso del mismo canal: el cap. 1 (FAV-370, fila siguiente de la cola).
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[bitwise-ar]].

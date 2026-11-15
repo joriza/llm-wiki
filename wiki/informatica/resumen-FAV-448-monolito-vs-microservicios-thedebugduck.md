@@ -24,3 +24,8 @@ Guía de decisión de arquitectura con casos públicos verificables (Prime Video
 
 - [[resumen-FAV-440-solid-en-5-minutos-torti-code]] / [[resumen-FAV-441-programar-10x-mas-rapido-torti-code]]: diseño y prácticas de código — misma línea «arquitectura al servicio del equipo, no de la moda».
 - Clúster **arquitectura-software**: FAV-448 + FAV-440 (SOLID) — umbral ≥2 alcanzable, candidato a concepto en consolidación (deferido).
+
+
+## Consolidación (2026-11-15)
+
+- Clúster consolidado: [[arquitectura-software]] · entidad [[thedebugduck]].

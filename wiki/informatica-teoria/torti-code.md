@@ -31,6 +31,18 @@ Canal de divulgación de desarrollo de software en español. Cada video toma un 
 - [[resumen-que-es-kafka-para-que-sirve-y-como-funciona-torti-code]] (2026-10-03).
 - [[resumen-como-escribir-documentacion-util-y-cuando-no-hacerlo-torti-code]] (2026-10-05).
 
+### Ventana Vs + Docencia T4 (2026-11-15, 7 fuentes más en `informatica/`)
+
+- [[resumen-FAV-433-big-o-vida-real-torti-code]] (Big O con ejemplos de la vida real).
+- [[resumen-FAV-439-8-estructuras-de-datos-torti-code]] (8 estructuras de datos).
+- [[resumen-FAV-440-solid-en-5-minutos-torti-code]] (SOLID en 5 minutos).
+- [[resumen-FAV-441-programar-10x-mas-rapido-torti-code]] (programar 10× más rápido).
+- [[resumen-FAV-458-ordenar-un-millon-de-datos-torti-code]] (ordenar 1 millón de datos).
+- [[resumen-FAV-459-sabes-solid-te-faltan-4-principios-torti-code]] (DRY/KISS/YAGNI/acoplamiento).
+- [[resumen-FAV-460-map-filter-reduce-torti-code]] (map/filter/reduce).
+
+**Total: 14 fuentes** — sigue siendo el canal dominante de la wiki. Los conceptos SOLID+DRY/KISS/YAGNI/acoblo y monolito-vs-micro se consolidaron en [[arquitectura-software]].
+
 ## Véase también
 
 - [[documentacion-diataxis]] — concepto consolidado a partir de su fuente sobre documentación.

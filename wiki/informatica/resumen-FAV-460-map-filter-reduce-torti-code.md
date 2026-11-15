@@ -24,3 +24,8 @@
 
 - Canal **Torti Code**: 8.ª fuente — [[resumen-FAV-439-8-estructuras-de-datos-torti-code]] (las estructuras que estos tríos recorren), [[resumen-FAV-433-big-o-vida-real-torti-code]], [[resumen-FAV-440-solid-en-5-minutos-torti-code]] / [[resumen-FAV-459-sabes-solid-te-faltan-4-principios-torti-code]] (OO vs funcional: dos caminos de orden), [[resumen-FAV-441-programar-10x-mas-rapido-torti-code]], [[resumen-FAV-458-ordenar-un-millon-de-datos-torti-code]].
 - **Inmutabilidad/estado compartido** conecta con el argumento anti-bug-fantasma del canal y con el big data: Spark hace en clúster lo que el sorting de [[resumen-FAV-458-ordenar-un-millon-de-datos-torti-code]] hace sobre un arreglo.
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[torti-code]] (14 fuentes).

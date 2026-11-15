@@ -43,3 +43,8 @@ Análisis honesto del mercado laboral tech junior post-burbuja, con distinciones
 
 - CTA de curso propio, Discord y dinámica de comentarios excluidos de la síntesis.
 - ASR con errores: «Mark Sackenberg» = Mark Zuckerberg; «Springbood» = Spring Boot; «BC de seguridad» = bug de seguridad; «Mercadolibbre/Global» = Mercado Libre/Globant.
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[tocode]].

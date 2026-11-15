@@ -30,3 +30,8 @@ Cuando una app global se cae no «se rompió internet»: falló un engranaje pri
 - Canal **Gilada**: 2.ª fuente (FAV-437 lenguajes) → **umbral de entidad ≥2 cumplido**, candidata a entidad en consolidación (deferida — ver Log).
 - Infraestructura/red: conecta con [[resumen-FAV-432-router-viejo-sin-internet-elmondigital]] (el router casero como nodo de red, DHCP/DNS/OpenWRT — mismo tema de capas, lado doméstico) y [[resumen-FAV-412-esp8266-deauther-spacehuhn]] (otra capa: la red Wi-Fi local).
 - Serie divulgativa «enfoque de barrio» del mismo canal: [[resumen-FAV-437-tantos-lenguajes-de-programacion-gilada]].
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[gilada]].

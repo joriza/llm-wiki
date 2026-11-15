@@ -26,3 +26,8 @@ Caso práctico de la vertiente WiFi del clúster ESP32 del dominio: complementa 
 ## Notas
 
 - Mismo bookmark repetido tres veces en la cola con timestamps distintos (FAV-474/475/476): FAV-475 marcado DUPLICADO en este relevo; FAV-476 queda para el siguiente.
+
+
+## Consolidación (2026-11-15)
+
+- Canal consolidado: entidad [[computadoras-y-sensores]].

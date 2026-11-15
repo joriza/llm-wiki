@@ -24,3 +24,8 @@ Historia de software con la lección central de que la definición de calidad ca
 
 - **Efecto de plataforma como mecanismo de mercado**: tesis idéntica a la de [[resumen-FAV-452-sql-server-historia-sybase-archivo-del-futuro]] (mismo canal, episodio hermano) — motor excelente perdiendo contra plataforma; Sybase/WordPerfect como los dos «vencidos con tecnología superviviente».
 - Eje historia de software corporativa: [[resumen-FAV-430-historia-git-linus-torvalds-fatdev]], [[resumen-FAV-446-cobol-imposible-de-matar-fatdev]] (software veterano que sobrevive en nichos — WordPerfect comparte el patrón jurídico).
+
+
+## Consolidación (2026-11-15)
+
+- Eje y canal consolidados: [[historia-software-corporativa]] · [[archivo-del-futuro]].

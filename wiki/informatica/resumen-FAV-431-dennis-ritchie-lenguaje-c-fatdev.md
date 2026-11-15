@@ -25,3 +25,8 @@ Historia motivacional que explica el PORQUÉ de la gramática mental común de c
 - Canal **fatdev**: 2.ª fuente (FAV-430 Git) → umbral ≥2, entidad candidata para consolidación.
 - Clúster **historia-informatica**: Unix/Bell Labs/AT&T/K&R — cruza con el dominio historia-informatica (von Neumann, Backus/FORTRAN); posible traslado o página de concepto en consolidación.
 - FAV-430: el gancho final del video («el chaval finlandés que programó Linux en C») es exactamente el tema de fatdev sobre Linux/Git.
+
+
+## Consolidación (2026-11-15)
+
+- Eje y canal consolidados: [[historia-software-corporativa]] · entidad [[fatdev]].
