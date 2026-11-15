@@ -2858,3 +2858,7 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 ## [2026-11-15] ingesta | WL-128 — ROBOCOP: Todos los secretos (Baul de la Nostalgia)
 
 - Tramo 13 (relevo 6), fuente 2. Raw espejado en `raw/wl/tramo-13/2026-10-09-robocop-todos-los-secretos-del-guion-rechazado-a-la-estatua-de-detroit-el-docume.md`; resumen en `wiki/wl/tramo-13/resumen-WL128-robocop-todos-los-secretos-del-guion-rechazado-a-la-estatua-de-detroit-el-documental.md`. Documental sobre RoboCop (1987): guion rechazado, Verhoeven, traje de Bottin, rodaje en Dallas, taquilla/premios, saga y serie Prime Video 2026. Dominio destino previsto: general (S4, sin dominios nuevos).
+
+## [2026-11-15] ingesta | WL-129 — Voyager 1 está haciendo algo que debería ser IMPOSIBLE (Abismo Cósmico)
+
+- Tramo 13 (relevo 6), fuente 3. Raw espejado en `raw/wl/tramo-13/2026-10-28-voyager-1-esta-haciendo-algo-que-deberia-ser-imposible-pero-esta-sucediendo.md`; resumen en `wiki/wl/tramo-13/resumen-WL129-voyager-1-esta-haciendo-algo-que-deberia-ser-imposible.md`. Estado de Voyager 1 a las puertas del día luz (18-11-2026): rescates históricos, desmantelamiento controlado, punto azul pálido, disco de oro. Dominio destino previsto: general (S4, sin dominios nuevos).
