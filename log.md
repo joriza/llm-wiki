@@ -2976,3 +2976,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Salida **45.239.32.215** (Proton UE, validada hoy) — 5 descargas timedtext consecutivas sin 429, presupuesto suave 100 nunca alcanzado (regla L13). Registro en `.atl/salidas.md`.
 - Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-143 general/sociedad-argentina (cultura pop/televisión, marco docudrama), WL-144 general (industria automotriz; cifras sin verificación independiente — señalado), WL-145 general (divulgación genética/demografía), WL-146 general/sociedad-argentina (debate político — opinión, NO fuente factual), WL-147 ia-uso-practico/ia-local (seguridad; cruce con WL-132).
 - Última fuente del tramo: **WL-147** (`NTO8_1b4LXk`). Siguiente: T17 (WL-148..WL-151, relevo 10 — tramo final de los 50 pedidos en L21); consolidación de tramos 8-16 diferida (L12).
+## [2026-11-15] ingesta | ¿Qué pasó con Jenna Ortega después de Merlina? (WL-148, tramo 17)
+
+- Canal Dieck Docs, 2026-10-27, 42:50. Documental biográfico: inicios (rechazos por rasgos latinos), Jane la Virgen, Disney, You, Scream, Merlina (Tim Burton), Beetlejuice; polémicas de identidad latina y su cambio físico (2026, sin causas confirmadas — tratado con cautela). Marco docudrama; monólogo de identidad latina = opinión del autor, señalado.
+- Raw: `raw/wl/tramo-17/2026-10-28-que-paso-con-jenna-ortega-despues-de-merlina-documental.md` · Resumen: `wiki/wl/tramo-17/resumen-WL148-que-paso-con-jenna-ortega.md`
+- Dominio previsto (consolidación diferida): general (biografía/cultura pop).
+
