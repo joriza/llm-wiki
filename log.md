@@ -2916,3 +2916,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Salida **45.239.32.215** (Proton UE, validada hoy) — 5 descargas consecutivas sin 429, presupuesto suave 100 nunca alcanzado (regla L13).
 - Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-132 ia-critica-y-fronteras (o ia-uso-practico/hardware-ia-local); WL-133 y WL-134 general (ecología, mismo canal — cruce candidato entre sí); WL-135 ia-critica-y-fronteras o agentes-de-codigo (preprint del MIT sin peer-review, señalado); WL-137 ia-uso-practico/agentes-de-codigo (fuente interna de Gentle Shell, señalada en triage).
 - Última fuente del tramo: **WL-137** (`NiqsTBKIQo0`). Próximo: T15 (WL-138..WL-142, relevo 8); consolidación de tramos 8-14 diferida (L12).
+
+## [2026-11-15] ingesta | WL-138 — Ingenieros Argentinos Desmontaron Un Coche Chino
+
+- Fuente: `mNl2bE5ya6o` (Visión Automotor, 2026-10-16, 22:57, subtítulos automáticos). Raw espejado a `raw/wl/tramo-15/2026-10-16-ingenieros-argentinos-desmontaron-un-coche-chino-esto-es-lo-que-encontraron-dent.md`; resumen en `wiki/wl/tramo-15/resumen-WL138-ingenieros-argentinos-desmontaron-un-coche-chino.md`.
+- Desarmes de BYD (Japón/Detroit/Argentina): ventaja estructural por integración (menos piezas, 8-en-1 en tracción, batería Blade estructural, ~¾ de componentes propios); UBS −15 % vs Tesla, −25 % vs Europa; contrapartidas en reparabilidad, reciclado, seguros y repuestos a largo plazo.
+- Dominio destino previsto (pendiente consolidación, S4): `general/` (industria automotriz/tecnología).
