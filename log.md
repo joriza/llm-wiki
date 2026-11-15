@@ -2381,3 +2381,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Arranque estrella-triángulo con PLC LOGO! en Cade Simu (FAV-496, relevo 2 Electromecanica)
 - FAV-496 cYQZbnc1BNQ «Arranque estrella triangulo con PLC LOGO en cade simu. paso a paso.» — Aprendiendo Electricidad Industrial, ES-ASR 17:49. Resumen: wiki/electromecanica/resumen-FAV-496-arranque-estrella-triangulo-cade-simu.md; raw: raw/electromecanica/2026-11-15-arranque-estrella-triangulo-cade-simu.md. Umbral: estrella-triángulo ya 3 fuentes (494/496/497) y Cade Simu 2+ — deferidos.
+
+## [2026-11-15] ingesta | Práctica 3.5 estrella-triángulo con inversión de giro (FAV-497, relevo 2 Electromecanica)
+- FAV-497 OaqSaC__qnU «PRÁCTICA 3.5 LOGO RS Arranque estrella triángulo con inversión de giro» — José Miguel Pantoja Solano, ES-ASR 35:40. Resumen: wiki/electromecanica/resumen-FAV-497-practica-estrella-triangulo-inversion-logo.md; raw: raw/electromecanica/2026-11-15-practica-35-logo-rs-estrella-triangulo-inversion.md. Umbral: estrella-triángulo 3 fuentes (494/496/497) → concepto candidato al cierre.
