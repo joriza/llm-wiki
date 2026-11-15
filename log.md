@@ -2662,3 +2662,6 @@ Fuente 28/37 de la playlist Python (EE3wnE0nb4U, Fazt Code 2023-06-27, ES-ASR, 3
 
 ## [2026-11-15] ingesta | FastHTML: El nuevo framework para crear webs con Python
 Fuente 29/37 de la playlist Python (wzyriWPkh8U, MoureDev TV 2024-08-07, ES-ASR, 05:43, video de noticia). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-fasthtml-el-nuevo-framework-para-crear-webs-con-python.md con cruces a Reflex, ReactPy, [[mapa-del-ecosistema-python]] y primer FastAPI. Nota de contenido: tercera fuente del hilo frontend todo-Python; tramo final de autopromoción del curso de JS excluido de la síntesis.
+
+## [2026-11-15] ingesta | Curso COMPLETO de PYTHON desde CERO para BACKEND (MoureDev, relevo 6, fuente 30/37)
+Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-curso-completo-de-python-desde-cero-para-backend.md`; cruce a [[fastapi]] (nueva sección «curso integral»). index.md y log.md actualizados. Commit por archivo.
