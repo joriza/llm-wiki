@@ -2375,3 +2375,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Arranque estrella-triángulo en PLC LOGO! (FAV-494, relevo 1 Electromecanica)
 - FAV-494 zo-dp7Wk3QM «Arranque Estrella Triangulo en PLC logo SIEMENS» — Antonio Delg, ES-ASR 20:44. Resumen: wiki/electromecanica/resumen-FAV-494-arranque-estrella-triangulo-plc-logo.md; raw: raw/electromecanica/2026-11-15-arranque-estrella-triangulo-plc-logo.md. Umbral deferido: arranque estrella-triángulo (FAV-494/496/497); Cade Simu (491/493/496/497).
+
+## [2026-11-15] ingesta | Sensor analógico 4–20 mA en PLC LOGO! (FAV-495, relevo 2 Electromecanica)
+- FAV-495 oK0rGYagn8s «Cómo LEER un SENSOR ANALÓGICO (autosen - AP016) de 4–20 mA en PLC LOGO!» — AV Smart Solutions, ES-ASR 11:19. Resumen: wiki/electromecanica/resumen-FAV-495-sensor-4-20ma-plc-logo.md; raw: raw/electromecanica/2026-11-15-sensor-analogico-4-20ma-plc-logo.md. Umbral deferido: 4–20 mA / analógicas industriales 2ª fuente (FAV-354 electronica-practica + esta) → concepto candidato.
