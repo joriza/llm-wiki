@@ -2154,3 +2154,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=sdrGJF0MUqs. Canal Archivo del Futuro, 2026-09-03, 27:23, ES subs automáticos.
 - **Raw**: raw/informatica/2026-11-15-sql-server-historia-sybase-archivo-del-futuro.md
 - **Resumen**: wiki/informatica/resumen-FAV-452-sql-server-historia-sybase-archivo-del-futuro.md
+
+## [2026-11-15] ingesta | FAV-453 — Microsoft Office vs. WordPerfect (Archivo del Futuro)
+- **Fuente**: https://www.youtube.com/watch?v=BxR7-vLVgPw. Canal Archivo del Futuro, 2026-08-27, 26:22, ES subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-office-vs-wordperfect-caida-imperio-archivo-del-futuro.md
+- **Resumen**: wiki/informatica/resumen-FAV-453-office-vs-wordperfect-archivo-del-futuro.md
