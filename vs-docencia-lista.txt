@@ -23,7 +23,7 @@ FAV-432|Informatica/Transversal|(943) 4+6 Cosas que puedes hacer con un Router V
 FAV-433|Informatica/Transversal|(153) Las 5 complejidades de Big O con analogías que no se te olvidan - YouTube|https://www.youtube.com/watch?v=EhS3Q5XvyBY ; PROCESADA 2026-11-15
 FAV-434|Informatica/Transversal|(178) si programás con IA, sos un bolud* - YouTube|https://www.youtube.com/watch?v=zuLt9uU_86Q ; PROCESADA 2026-11-15
 FAV-435|Informatica/Transversal|(458) Empieza a hacer apps sin saber programar con Alan Buscaglia, el Gentleman de la programación - YouTube|https://www.youtube.com/watch?v=5Ts_EX73o1Y ; PROCESADA 2026-11-15
-FAV-436|Informatica|(211) Google crea tu PROFESOR PARTICULAR con IA (y es GRATIS) - YouTube|https://www.youtube.com/watch?v=IH__GK4XBbU
+https://www.youtube.com/watch?v=IH__GK4XBbU ; DUPLICADO 2026-11-15: ya procesada en la playlist IA-Recursos (raw/ia-critica-y-fronteras/2026-07-19-google-crea-tu-profesor-particular-con-ia-y-es-gratis.md, mismo video)
 FAV-437|Informatica|(211) ¿Realmente Necesitamos Tantos Lenguajes de Programación? - YouTube|https://www.youtube.com/watch?v=cwZc_5WrYP4&list=PL1xxJ0WcomPmIQp70j3rjPAZG5c7nqo36&index=3
 FAV-438|Informatica|(211) ¿Qué es realmente internet? ¿Qué lo hace funcionar o caerse? - YouTube|https://www.youtube.com/watch?v=JhuiIzA5E2s&list=PL1xxJ0WcomPmIQp70j3rjPAZG5c7nqo36
 FAV-439|Informatica|(238) Las 8 Estructuras de Datos que TODO Programador Usa (Pero Nadie Explica Bien) - YouTube|https://www.youtube.com/watch?v=9ifwAPFxpu0
