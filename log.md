@@ -2832,3 +2832,7 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Resumen**: `wiki/wl/tramo-12/resumen-WL123-llegar-a-fin-de-mes-danann-y-presto-destrozan-a-milei.md`.
 - **Decisiones**: NO fuente factual (streaming de opinión militante con ataques personales sin evidencia, mismo criterio que WL-119); dominio destino previsto `general/sociedad-argentina` (S4 sin dominios nuevos); cruce con WL-119 diferido; garbiñeos ASR normalizados solo en resumen. Consolidación diferida (L12).
 
+- **Fuente**: `raw/wl/tramo-12/2026-10-04-karina-es-mas-despiadada-que-javier-victoria-de-masi-revela-los-secretos-de-kari.md` (`7HUeDzJLUZk`, El Presto, 2026-10-04, 69:13).
+- **Resumen**: `wiki/wl/tramo-12/resumen-WL124-karina-es-mas-despiadada-que-javier-victoria-de-masi-revela-los-secretos-de-karina-milei.md`.
+- **Decisiones**: perfil periodístico-opini con afirmaciones de investigación no verificables desde la fuente; dominio destino previsto `general/sociedad-argentina` (S4 sin dominios nuevos); cruces con WL-119/WL-123 (clima político) y WL-121 (tech-estado) diferidos; garbiñeos ASR (Espagnolo=Spagnuolo, Arante=Ámbito, etc.) normalizados solo en resumen, nombres dudosos señalados. Consolidación diferida (L12).
+
