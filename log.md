@@ -2866,3 +2866,7 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 ## [2026-11-15] ingesta | WL-130 — Lo que se sabe hasta ahora del hack a Binance (Pelado Nerd)
 
 - Tramo 13 (relevo 6), fuente 4. Raw espejado en `raw/wl/tramo-13/2026-10-30-lo-que-se-sabe-hasta-ahora-del-hack-a-binance.md`; resumen en `wiki/wl/tramo-13/resumen-WL130-lo-que-se-sabe-hasta-ahora-del-hack-a-binance.md`. Hack de 6.400 M$ (29-10-2026) atribuido a TraderTraitor: didáctica de congelables vs. no congelables, self-custody. Info preliminar al 30-10 (puede desactualizarse). Dominio destino previsto: general (S4, sin dominios nuevos).
+
+## [2026-11-15] ingesta | WL-131 — La vergüenza se te va si entendés esto (Franco Pisso)
+
+- Tramo 13 (relevo 6), fuente 5 (última de la ventana). Raw espejado en `raw/wl/tramo-13/2026-10-26-la-verguenza-se-te-va-si-entendes-esto.md`; resumen en `wiki/wl/tramo-13/resumen-WL131-la-verguenza-se-te-va-si-entendes-esto.md`. Ansiedad social: efecto foco, miedos mayor/menor, ejercicio de entrada. Dominio destino previsto: general (S4, sin dominios nuevos).
