@@ -2854,3 +2854,7 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 ## [2026-11-15] ingesta | WL-127 — TODO lo que te enseñaron sobre el Asado… ¿Es Mentira? (Locos X el Asado)
 
 - Tramo 13 (relevo 6), fuente 1. Raw espejado en `raw/wl/tramo-13/2026-08-14-todo-lo-que-te-ensenaron-sobre-el-asado-es-mentira-locos-x-el-asado.md`; resumen en `wiki/wl/tramo-13/resumen-WL127-todo-lo-que-te-ensenaron-sobre-el-asado-es-mentira-locos-x-el-asado.md`. Cuatro mitos del asado puestos a prueba: reposo (clave en vacío, innecesario en entraña), precalentado de parrilla (solo ahorra tiempo), salado 12 h antes (no seca, sal más pareja), marear/pinchar (sin efecto notable). Dominio destino previsto: general (S4, sin dominios nuevos).
+
+## [2026-11-15] ingesta | WL-128 — ROBOCOP: Todos los secretos (Baul de la Nostalgia)
+
+- Tramo 13 (relevo 6), fuente 2. Raw espejado en `raw/wl/tramo-13/2026-10-09-robocop-todos-los-secretos-del-guion-rechazado-a-la-estatua-de-detroit-el-docume.md`; resumen en `wiki/wl/tramo-13/resumen-WL128-robocop-todos-los-secretos-del-guion-rechazado-a-la-estatua-de-detroit-el-documental.md`. Documental sobre RoboCop (1987): guion rechazado, Verhoeven, traje de Bottin, rodaje en Dallas, taquilla/premios, saga y serie Prime Video 2026. Dominio destino previsto: general (S4, sin dominios nuevos).
