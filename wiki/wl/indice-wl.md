@@ -237,3 +237,15 @@ Notas del tramo: 5/5 útiles exactos (WL-196..WL-200), 0 skips, 0 meta-fail, sin
 | WL-203 | Claude Opus 5.5: La revolución en la creación de videos (`sHfxp_AVRlw`) | Melina Blanco | ia-uso-practico/agentes-de-codigo (demo skills + Claude Code para video; marco comercial de comunidad de pago, señalado; cruces WL-153/WL-165/WL-178) | Resumen en `tramo-27/` |
 
 Notas del tramo: 3/3 útiles exactos (WL-201..WL-203), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin cuarto ciclo (TRAMO FINAL del pedido L22). Salida 45.239.32.215 (Proton UE, validada hoy), 3 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). **PEDIDO L22 CERRADO: 50/50 útiles.**
+
+## Tramo 28 — relevo 21 (WL-204..WL-208)
+
+| # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
+|---|--------|--------|------------------|---------|
+| WL-204 | La solución de $0,50 para que duren 4 veces más — lámparas LED automotrices (`Hibdwr8SOLI`) | MICROTECNICA | general (electrónica/automotriz DIY — testeo instrumental LED: 12,5 W reales vs 36 W, reforma diodos 1N5408; cruces WL-175/WL-114, obsolescencia) | Resumen en `tramo-28/` |
+| WL-205 | La IA nos hace más rápidos. Pero no más RICOS (`W2kN5MvOi0g`) | Arnau Ramió \| Learning Heroes | ia-critica-y-fronteras o general (economía IA — Banco de Corea/PwC/Fed Atlanta, parábola electricidad Solow/Paul David, caso Uber; cruces WL-132/WL-189, WL-116/WL-117/WL-200; cierre promocional excluido) | Resumen en `tramo-28/` |
+| WL-206 | Ya No Necesitas Una GPU Enorme (Qwen 3.8 Flash Next) (`dOodDUDYd0U`) | Jorge Marfil | ia-uso-practico/ia-local (arquitectura Qwen 3.8: 125 B activos + 51 B tabla embeddings fuera de VRAM, 4 innovaciones, ecosistema Strata/llama.cpp; cruces [[qwen]], [[hardware-para-ia-local]], WL-147/WL-132/WL-154) | Resumen en `tramo-28/` |
+| WL-207 | ¿Cómo Recablear Bien un Depto? Paso a Paso (`nVPV-5aKfTY`) | Electricista y Gasista Matriculado GB | general (hogar/oficios — recableado completo, tablero, límite 10 A, Cablecanal, verificación tester; cruces WL-169/WL-186, WL-175/WL-204) | Resumen en `tramo-28/` |
+| WL-208 | ¿Y SI TE MINTIERON? — vivienda y créditos hipotecarios Argentina (`sb4cZOGxb7w`) | Santiago Magnin | general/sociedad-argentina (lectura informe González Rouco/OFAVA — inquilinos con más ingreso, Nación 90%→52%, licitaciones ANSES; marco comercial inmobiliario señalado; cruces WL-163/WL-195) | Resumen en `tramo-28/` |
+
+Notas del tramo: 5/5 útiles exactos + 1 SKIP definitivo sin subtítulos (WL-204a `uGQ5aJt7RZU`, video eliminado en YouTube — `.no-subs`, no cuenta como útil), 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), presupuesto suave 200 nunca alcanzado (L13). Inicio del pedido L23 (50 útiles, tramos 28-37): contador 5/50.
