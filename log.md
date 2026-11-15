@@ -1751,3 +1751,7 @@ Registro cronológico de solo adición.
 ## [2026-11-15] consolidacion | Ventana z-tmp de favoritos
 
 - **Consolidación diferida de la ventana z-tmp**: concepto [[proxmox-homelab]] (4 fuentes, general/) y concepto [[servidores-mcp]] (5 fuentes, ia-uso-practico/, transversal con agentes-de-codigo [[hardware-agentico-mcp-first]]); back-links cableados en los 9 resúmenes; hilo 17 en `wiki/overview.md` y línea de estado en `wiki/sintesis.md`. 6 videos NO-SUBS definitivos (decisión del usuario: ignorados, sin otros medios); bookmarks candidatos a eliminación listados en `lista-favoritos-chrome.md` (cierre de ventana).
+
+## [2026-11-15] ingesta | Ventana IOT Gral — FAV-346 — upyOS repo GitHub (fuente web)
+
+- **FAV-346** (`https://github.com/rbenrax/upyOS`): repo oficial de upyOS — sistema operativo flash modular tipo POSIX para microcontroladores basado en MicroPython: estructura Unix-like (`/bin`, `/etc/init.sh`, `.board`), 60+ comandos (ls, grep, ps, wifi, gpio…), shell con scripting (if, goto, redirección, variables), hilos con `&` y asyncio, WiFi + servidores Telnet/FTP/HTTP (interfaz web «upyOS Desktop»), NTP, OTA desde GitHub (`upgrade`), autenticación cifrada (`setauth`), módem ESP-AT por UART para MCUs sin WiFi (RP2040); hardware ESP32/C3/S3, RP2040, ESP8266, NodeMCU. Instalación vía `mpremote` con MicroPython ya cargado. Flexibilidad y facilidad por sobre rendimiento. Sin raw (fuente web). — Dominio: electronica-practica/ — resumen `wiki/electronica-practica/resumen-FAV-346-upyos-github.md`.
