@@ -1972,3 +1972,6 @@ Web https://society.eskailet.com/.../listado-de-skills-y-plugins-seleccionados/ 
 
 ## [2026-11-15] ingesta | FAV-412 — ESP8266 Deauther (Spacehuhn docs)
 Web https://docs.spacehuhn.com/deauther/ sin raw. Resumen: wiki/electronica-practica/resumen-FAV-412-esp8266-deauther-spacehuhn.md. Cruces: FAV-415 (ESP32 Deauther, herramienta hermana), FAV-357 (NodeMCU ESP8266).
+
+## [2026-11-15] ingesta | FAV-413 — SillyTavern: frontend de LLM para power users (docs)
+Web https://docs.sillytavern.app/ sin raw. Fuente claramente de INFORMÁTICA/IA local — resumida igualmente en electronica-practica/, **candidata a dominio informatica** (decisión del usuario en la consolidación). Resumen: wiki/electronica-practica/resumen-FAV-413-sillytavern-frontend-llm.md. Cruces: [[ia-en-mcu]].
