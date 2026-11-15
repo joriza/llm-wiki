@@ -38,11 +38,11 @@
 - FAV-527 — [video] (Electromecanica/Energias Renovables) — Mono vs Policristalino - Diferencia en paneles solares - YouTube — https://www.youtube.com/watch?v=Q6HNV_-jlsc ; PROCESADA 2026-11-15 relevo 8
 - FAV-528 — [video] (Electromecanica/Energias Renovables) — Importancia de la Tierra Eléctrica - Instalaciones Eléctricas y Solares - YouTube — https://www.youtube.com/watch?v=TKj60D7CPT8 ; PROCESADA 2026-11-15 relevo 8
 - FAV-529 — [video] (Electromecanica/Energias Renovables) — Serie o Paralelo ➡️ Evita estos errores comunes en las conexiones de los paneles solares - YouTube — https://www.youtube.com/watch?v=Wr08jWeee4Y ; PROCESADA 2026-11-15 relevo 8
-- FAV-530 — [video] (Electromecanica/Energias Renovables) — El verdadero problema de los paneles solares - YouTube — https://www.youtube.com/watch?v=SK3eadxZ9Qo
-- FAV-531 — [video] (Electromecanica/Energias Renovables) — El VOLANTE De Inercia Que Hace La Energiá Solar 90% Más Barata | ¿Por Qué Puede Durar Para Siempre? - YouTube — https://www.youtube.com/watch?v=VwUYgcmTNc0
-- FAV-532 — [video] (Electromecanica/Energias Renovables) — (805) El Espejismo Verde La realidad escondida detrás de los autos eléctricos - YouTube — https://www.youtube.com/watch?v=3Zcmz5n19as
-- FAV-533 — [video] (Electromecanica/Energias Renovables) — (927) REGULADOR de VOLTAJE CASERO para EQUIPO SOLAR - YouTube — https://www.youtube.com/watch?v=m7oZseAx6r8
-- FAV-534 — [video] (Electromecanica/Energias Renovables) — (927) Kit Solar para cortes de Luz - Bajo Costo - Bateria de Gel 12V y USB | Sponsor LCSC - YouTube — https://www.youtube.com/watch?v=12CNQP9LSLc
+- FAV-530 — [video] (Electromecanica/Energias Renovables) — El verdadero problema de los paneles solares - YouTube — https://www.youtube.com/watch?v=SK3eadxZ9Qo ; PROCESADA 2026-11-15 relevo 9
+- FAV-531 — [video] (Electromecanica/Energias Renovables) — El VOLANTE De Inercia Que Hace La Energiá Solar 90% Más Barata | ¿Por Qué Puede Durar Para Siempre? - YouTube — https://www.youtube.com/watch?v=VwUYgcmTNc0 ; PROCESADA 2026-11-15 relevo 9
+- FAV-532 — [video] (Electromecanica/Energias Renovables) — (805) El Espejismo Verde La realidad escondida detrás de los autos eléctricos - YouTube — https://www.youtube.com/watch?v=3Zcmz5n19as ; PROCESADA 2026-11-15 relevo 9
+- FAV-533 — [video] (Electromecanica/Energias Renovables) — (927) REGULADOR de VOLTAJE CASERO para EQUIPO SOLAR - YouTube — https://www.youtube.com/watch?v=m7oZseAx6r8 ; PROCESADA 2026-11-15 relevo 9 (subs manuales)
+- FAV-534 — [video] (Electromecanica/Energias Renovables) — (927) Kit Solar para cortes de Luz - Bajo Costo - Bateria de Gel 12V y USB | Sponsor LCSC - YouTube — https://www.youtube.com/watch?v=12CNQP9LSLc ; PROCESADA 2026-11-15 relevo 9 (sponsor LCSC declarado)
 - FAV-535 — [video] (Electromecanica/Energias Renovables) — (927) ✅Cual es la Diferencia entre controlador PWM y MPPT #2022 #solarenergy - YouTube — https://www.youtube.com/watch?v=w5mOt0ramn4
 - FAV-536 — [web] (Electromecanica/Energias Renovables) — Como hacer un seguidor solar casero con Arduino — https://www.wexterhome.com/proyectos-con-arduino/seguidor-solar-casero/
 - FAV-537 — [playlist] (Electromecanica/Energias Renovables) — (927) 🪵🪓 CÓMO HACER MÁQUINA PARA HACER BRIQUETAS - YouTube — https://www.youtube.com/playlist?list=PLDKIpoNvzGd90MxvYFAJ3mif7IEARAv5F

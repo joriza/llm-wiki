@@ -2473,3 +2473,18 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Serie o paralelo paneles solares (FAV-529, relevo 8 Electromecanica)
 - FAV-529 Wr08jWeee4Y «Serie o Paralelo — errores comunes» — Energía Solar Lab, ES-ASR 08:58. Resumen: wiki/electromecanica/resumen-FAV-529-serie-o-paralelo-paneles-solares.md; raw: raw/electromecanica/2026-11-15-serie-o-paralelo-paneles-solares.md. **Umbral clúster Energías Renovables ahora 10 fuentes (FAV-520..529) — concepto candidata firme para consolidación**; subtemas: MPPT (FAV-523/525/526, 3 fuentes), tipos de celda (FAV-521/527), conexión (FAV-521/529).
+
+## [2026-11-15] ingesta | El verdadero problema de los paneles solares (FAV-530, relevo 9 Electromecanica)
+- FAV-530 SK3eadxZ9Qo «El verdadero problema de los paneles solares» — Visual Tech, ES-ASR 13:46. Resumen: wiki/electromecanica/resumen-FAV-530-verdadero-problema-paneles-solares.md; raw: raw/electromecanica/2026-11-15-verdadero-problema-paneles-solares.md. Clúster renovables 11ª fuente (versión divulgativa del techo del silicio).
+
+## [2026-11-15] ingesta | Volante de inercia (FAV-531, relevo 9 Electromecanica)
+- FAV-531 VwUYgcmTNc0 «El VOLANTE De Inercia...» — Legado de Construcción N, ES-ASR 19:05. Resumen: wiki/electromecanica/resumen-FAV-531-volante-inercia-almacenamiento.md; raw: raw/electromecanica/2026-11-15-volante-inercia-almacenamiento.md. Tema nuevo en el clúster: **almacenamiento cinético** (contrapunto del litio).
+
+## [2026-11-15] ingesta | El espejismo verde (FAV-532, relevo 9 Electromecanica)
+- FAV-532 3Zcmz5n19as «El Espejismo Verde» — MundoTech2050, ES-ASR 07:41. Resumen: wiki/electromecanica/resumen-FAV-532-espejismo-verde-autos-electricos.md; raw: raw/electromecanica/2026-11-15-espejismo-verde-autos-electricos.md. Vista crítica de demanda (auto eléctrico) — posible cruce transversal en consolidación.
+
+## [2026-11-15] ingesta | Regulador de voltaje casero (FAV-533, relevo 9 Electromecanica)
+- FAV-533 m7oZseAx6r8 «REGULADOR de VOLTAJE CASERO para EQUIPO SOLAR» — JCA Ecosistemas, ES-manual 19:45. Resumen: wiki/electromecanica/resumen-FAV-533-regulador-voltaje-casero-solar.md; raw: raw/electromecanica/2026-11-15-regulador-voltaje-casero-solar.md. Subclúster reguladores: casero de corte (FAV-533) vs PWM/MPPT (FAV-523/525/526).
+
+## [2026-11-15] ingesta | Kit solar cortes de luz (FAV-534, relevo 9 Electromecanica)
+- FAV-534 12CNQP9LSLc «Kit Solar para cortes de Luz» — Electgpl, ES-ASR 15:17 (sponsor LCSC declarado). Resumen: wiki/electromecanica/resumen-FAV-534-kit-solar-cortes-luz.md; raw: raw/electromecanica/2026-11-15-kit-solar-cortes-luz.md. **Electgpl 2ª fuente (FAV-504 + 534) → entidad candidata.** Umbral clúster renovables ahora **15 fuentes (FAV-520..534)** — candidata firme para consolidación.
