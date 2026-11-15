@@ -1926,3 +1926,6 @@ YouTube AEyY17chb0A (Saptarshi Sikder, 2021). SKIP definitivo: montaje musical s
 ## [2026-11-15] skip | How to make a 8x8x8 LED Cube at Home (FAV-400)
 
 YouTube mN5JWQUfrxY (Tapendra Mandal, 2020). SKIP definitivo: montaje musical sin narración — subtítulos automáticos (en) con solo [Music]/[Applause], sin habla aprovechable. Ni raw ni resumen. Fila 55 de iot-gral-lista.txt marcada.
+
+## [2026-11-15] ingesta | Cubo LED 3x3x3 muy fácil de hacer (FAV-402)
+YouTube rw2tA0LZgwY (Muy Fácil De Hacer, ES, 2015). El bookmark traía `list=` — ignorada por S4. Raw: raw/electronica-practica/2015-09-12-cubo-led-3x3x3-muy-facil.md. Resumen: wiki/electronica-practica/resumen-FAV-402-cubo-led-3x3x3-muy-facil.md. Cruces: FAV-398 (mismo multiplexado columnas×niveles con 2N2222A), [[transistor-bjt]]. Nota: lineas 56 y 59 (FAV-401 playlist cubo LED, FAV-404 playlist propeller clock) quedan PENDIENTE-DECISION del usuario (2026-11-15) — no se procesan.
