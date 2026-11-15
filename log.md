@@ -2402,3 +2402,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Cómo funciona un MOSFET (FAV-503, relevo 3 Electromecanica)
 - FAV-503 4Dnx5YR9k-8 «Cómo Funciona un MOSFET» — Engineering Mindset, ES-ASR 18:49 (&t=569s ignorado por S4). Resumen: wiki/electromecanica/resumen-FAV-503-como-funciona-un-mosfet.md; raw: raw/electromecanica/2026-11-15-como-funciona-un-mosfet.md. Canal 7ª fuente de la ventana; serie 5 componentes completa → concepto candidato al cierre.
+
+## [2026-11-15] ingesta | Fuente capacitiva sin transformador (FAV-504, relevo 3 Electromecanica)
+- FAV-504 jI3v-zjCesw «Fuente Capacitiva sin Transformador - Cálculos y Pruebas» — Electgpl, ES-ASR 17:07. Resumen: wiki/electromecanica/resumen-FAV-504-fuente-capacitiva-sin-transformador.md; raw: raw/electromecanica/2026-11-15-fuente-capacitiva-sin-transformador.md. Umbral: fuente capacitiva/sin transformador (FAV-504 + FAV-506 pendiente) → concepto candidato al cierre. Cruces: FAV-498/499/500.
