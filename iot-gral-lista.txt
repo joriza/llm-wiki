@@ -61,5 +61,5 @@
 61|IOT Gral|(281) ✅ Tira LED al Ritmo de la Música, muy fácil de hacer en casa - YouTube|https://www.youtube.com/watch?v=ZsMuX1fI0Fs&list=PLnwu2s7SIakSbbRh-3ulVT5_6aSczA7VE&index=19 # procesado 2026-11-15 (FAV-406)
 62|IOT Gral|(281) ✅LED Mágicos, el secreto revelado y construcción desde cero - YouTube|https://www.youtube.com/watch?v=-zV_KVFG-iY&list=PLnwu2s7SIakSbbRh-3ulVT5_6aSczA7VE&index=21
 63|IOT Gral|(281) AMPLIFICADOR SENCILLO DE AUDIO CON UN TRANSISTOR 13003 - YouTube|https://www.youtube.com/watch?v=GgRRr-RMiws # procesado 2026-11-15 (FAV-408)
-64|IOT Gral|(684) Walter: La Placa IoT Definitiva con IA - YouTube|https://www.youtube.com/watch?v=Q1hAE8VwkZY
+64|IOT Gral|(684) Walter: La Placa IoT Definitiva con IA - YouTube|https://www.youtube.com/watch?v=Q1hAE8VwkZY # procesado 2026-11-15 (FAV-409)
 65|IOT Gral|(943) Inteligencia Artificial en ESP32: Conectando Google Gemini paso a paso - YouTube|https://www.youtube.com/watch?v=IVtlDjU4wbs

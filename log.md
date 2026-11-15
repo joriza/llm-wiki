@@ -1955,3 +1955,7 @@ URL de playlist pura (list=PLlck5hCWxDJ...). IGNORADA definitivamente por orden 
 - Fuente: https://www.youtube.com/watch?v=Q1hAE8VwkZY → raw/electronica-practica/2026-11-15-walter-placa-iot-definitiva-con-ia.md
 - Resumen: wiki/electronica-practica/resumen-FAV-409-walter-placa-iot-definitiva-ia.md
 - Cruces: [[resumen-FAV-362-arquitectura-esp32-bit-micro-lab]], [[resumen-FAV-363-pinout-esp32-s3-bit-micro-lab]], [[resumen-FAV-353-esp-now-conectar-esp32-iotlab]], [[resumen-FAV-355-freertos-multitarea-core-esp32-profe-garcia]]
+## [2026-11-15] ingesta | FAV-410 — IA en ESP32: conectando Google Gemini (Torelec)
+- Fuente: https://www.youtube.com/watch?v=IVtlDjU4wbs → raw/electronica-practica/2026-11-15-ia-esp32-google-gemini.md
+- Resumen: wiki/electronica-practica/resumen-FAV-410-ia-esp32-google-gemini-torelec.md
+- Cruces: [[resumen-FAV-382-oled-ssd1306-arduino-labuhardilla]], [[resumen-FAV-386-protocolo-i2c-maestro-esclavos-profe-garcia]], [[resumen-FAV-409-walter-placa-iot-definitiva-ia]], [[resumen-FAV-359-de-arduino-a-esp32-iotlab]]
