@@ -18,7 +18,7 @@ Circuito casero, barato y fiable para **medir el voltaje real de diodos zener** 
 ## CRUCES
 
 - **[[resumen-FAV-307-cargador-movil-5v-a-fuente-12v-amiyoled]]**: la conversión de un cargador 5 V→12 V exige conocer el voltaje del zener de referencia; el video del canal Amiyoled remite a este tester para ese paso.
-- Tema-candidato: **diodo-zener** (1/2 — sube si el re-pass de este video produce contenido).
+- **[[diodo-zener]]** (1/2): página de concepto creada en la consolidación (2026-11-14) junto a FAV-307 — esta figura como **fuente de baja confianza** en la página (transcripción inutilizable).
 
 ## Dominio
 

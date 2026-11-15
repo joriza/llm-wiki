@@ -25,8 +25,8 @@ Anatomía de la fuente conmutada de una bombilla LED alrededor del integrado **B
 
 ## CRUCES
 
-- Tema **fuente-conmutada-led** (2/3): segunda voz del clúster con FAV-008 (JWB1981: mismo esquema pero con puente rectificador interno y current sense de 20 Ω vs 1,8 Ω aquí; diferencias de pines entre integrados) y FAV-010 (LEDs a 220 V sin transformador) — umbral casi alcanzado.
-- Tema **condensador-rc** (3/3 vía FAV-007): filtro de 400 V + condensador de salida suavizando oscilaciones = misma física de carga/descarga RC.
+- **[[fuente-conmutada-led]]** (2/3): página de concepto creada en la consolidación (2026-11-14) — segunda voz del clúster con FAV-008 (JWB1981: mismo esquema pero con puente rectificador interno y current sense de 20 Ω vs 1,8 Ω aquí; diferencias de pines entre integrados) y FAV-010 (LEDs a 220 V sin transformador).
+- **[[condensador-rc]]** (vía FAV-007): filtro de 400 V + condensador de salida suavizando oscilaciones = misma física de carga/descarga RC.
 - **[[como-se-hace-lo-cotidiano]]**: por qué fallan y cómo se reparan las bombillas LED del hogar; el parpadeo invisible como fenómeno cotidiano oculto.
 
 ## ADVERTENCIA

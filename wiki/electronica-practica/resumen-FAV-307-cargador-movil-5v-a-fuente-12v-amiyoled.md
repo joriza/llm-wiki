@@ -28,7 +28,7 @@ Reutilización de cargadores de móvil viejos (5 V / 200-300 mA) convirtiéndolo
 
 - **[[resumen-FAV-306-zener-diode-tester-jericho-uno]]**: el propio video remite a un tester de zener para identificar el voltaje del diodo antes de sustituirlo.
 - **fuente-conmutada (tema en consolidación)**: tercero de los ángulos prácticos sobre pequeñas fuentes — FAV-008/009 (fuentes SMPS de bombillas LED) y FAV-010 (fuente capacitiva sin transformador) tratan la electrónica de fuentes desde el análisis; este la reutiliza a nivel de módulo (solo se cambia la referencia de tensión y el filtro). El zener como referencia también aparece como mejora en FAV-010.
-- Tema-candidato: **diodo-zener** (2/2 → umbral alcanzado junto a FAV-306) y reutilización/reciclaje electrónico.
+- **[[diodo-zener]]** (2/2 → página de concepto creada en la consolidación, 2026-11-14 junto a FAV-306) y reutilización/reciclaje electrónico.
 - **[[como-se-hace-lo-cotidiano]]**: ejemplo canónico de economía doméstica aplicada — no tirar cargadores viejos, convertirlos en fuentes de taller.
 
 ## ADVERTENCIA

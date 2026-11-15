@@ -25,8 +25,8 @@ Diseño completo **con cálculos** de una fuente capacitiva (sin transformador) 
 
 ## CRUCES
 
-- Tema **fuente-conmutada-led** (3/3 → umbral alcanzado): tercera voz del clúster de alimentación de LED desde la red — con FAV-008/009 (fuente conmutada con integrado dedicado como evolución industrial de este esquema artesanal) → página de concepto en la próxima consolidación.
-- Tema **condensador-rc** (4/4 vía FAV-007): reactancia capacitiva, filtro y carga/descarga del capacitor — la teoría RC aplicada al cálculo real.
+- **[[fuente-conmutada-led]]** (3/3 → página de concepto creada en la consolidación, 2026-11-14): tercera voz del clúster de alimentación de LED desde la red — con FAV-008/009 (fuente conmutada con integrado dedicado como evolución industrial de este esquema artesanal).
+- **[[condensador-rc]]** (página creada con FAV-007 como fuente principal): reactancia capacitiva, filtro y carga/descarga del capacitor — la teoría RC aplicada al cálculo real.
 - Con [[resumen-FAV-002-analisis-de-mallas-con-kirchhoff-y-ohm]]: la ley de Ohm en uso (cálculo de la resistencia/capacitancia limitadora).
 - **[[como-se-hace-lo-cotidiano]]**: cómo se alimentan realmente las luminarias LED baratas sin transformador.
 

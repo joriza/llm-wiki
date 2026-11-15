@@ -24,8 +24,8 @@ Anatomía de la fuente conmutada de una bombilla LED típica alrededor del integ
 
 ## CRUCES
 
-- Tema **fuente-conmutada-led** (1/3): con FAV-009 (misma bombilla, fuente conmutada, versión alternativa) y FAV-010 (LEDs 220 V sin transformador) forma el clúster de alimentación de LED desde la red → página de concepto probable en la próxima consolidación.
-- Tema **condensador-rc** (2/3 vía FAV-007): el capacitor de filtro de 400 V y la resistencia de 1 MΩ de descarga son exactamente el condensador y su descarga de FAV-007 aplicados a una fuente real.
+- **[[fuente-conmutada-led]]** (1/3): página de concepto creada en la consolidación (2026-11-14) junto a FAV-009 y FAV-010.
+- **[[condensador-rc]]** (vía FAV-007): el capacitor de filtro de 400 V y la resistencia de 1 MΩ de descarga son exactamente el condensador y su descarga de FAV-007 aplicados a una fuente real.
 - **[[como-se-hace-lo-cotidiano]]**: la bombilla LED del hogar explicada por dentro, con el truco práctico de alargar la vida de los LED bajando su corriente.
 
 ## ADVERTENCIA
