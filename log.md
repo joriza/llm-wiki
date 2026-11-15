@@ -2353,3 +2353,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] lint | Revisión general y análisis de dominios
 - Lint ejecutado (solo lectura + auditoría de wikilinks sobre todo wiki/): 16 dead-links detectadas (6 reales prospectivas FAV-354/364/468 + 4 de gemma-4 FAV-334..339 + 2 de documental + 4 meta/ruido), 16 huérfanas sin backlinks en T3/T4, análisis de fusión/división entregado al orquestador. Sin cambios estructurales: fusión/división requiere confirmación del usuario (regla AGENTS.md). Informe en la conversación del 2026-11-15.
+
+## [2026-11-15] lint aplicado | historia de informatica/ -> historia-informatica/
+- Migrados 8 resúmenes históricos (FAV-430/431/446/452/453/454/457/461) + concepto [[historia-software-corporativa]] de `informatica/` a `historia-informatica/` (decisión del usuario tras lint: eliminar la duplicación de función histórica). index.md actualizado; slugs [[...]] intactos (no requieren reescritura).
