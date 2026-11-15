@@ -9,7 +9,7 @@
 - FAV-498 — [video] (Electromecanica/Electricidad) — Factor de Potencia Explicado - La Pérdida en su Factura de Electricidad - YouTube — https://www.youtube.com/watch?v=wpubuxVCJtE ; PROCESADA 2026-11-15 relevo 2
 - FAV-499 — [video] (Electromecanica/Electronica) — Diodos Explicados - YouTube — https://www.youtube.com/watch?v=aPY3I8pG478 ; PROCESADA 2026-11-15 relevo 2
 - FAV-500 — [video] (Electromecanica/Electronica) — Capacitores Explicados - Los fundamentos funcionan los condensadores. Principio de funcionamiento - YouTube — https://www.youtube.com/watch?v=h_m6qFRNITU ; PROCESADA 2026-11-15 relevo 3
-- FAV-501 — [video] (Electromecanica/Electronica) — Inductores Explicados - YouTube — https://www.youtube.com/watch?v=Gckb8cS1h5g
+- FAV-501 — [video] (Electromecanica/Electronica) — Inductores Explicados - YouTube — https://www.youtube.com/watch?v=Gckb8cS1h5g ; PROCESADA 2026-11-15 relevo 3
 - FAV-502 — [video] (Electromecanica/Electronica) — Transistor Explicado - Cómo Funcionan los Transistores - YouTube — https://www.youtube.com/watch?v=zh7PeHAZRLY
 - FAV-503 — [video] (Electromecanica/Electronica) — Cómo Funciona un MOSFET- Guía completa, entiéndelo como un PRO - YouTube — https://www.youtube.com/watch?v=4Dnx5YR9k-8&t=569s
 - FAV-504 — [video] (Electromecanica/Proyectos) — Fuente Capacitiva sin Transformador - Cálculos y Pruebas - YouTube — https://www.youtube.com/watch?v=jI3v-zjCesw
