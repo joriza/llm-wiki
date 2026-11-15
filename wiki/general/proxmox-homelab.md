@@ -4,7 +4,7 @@
 - **Dominio**: `general` (infraestructura de laboratorio casero; candidato a dominio propio si entra más material).
 - **Creada**: 2026-11-15 (consolidación diferida de la ventana z-tmp de favoritos; clúster de 4 fuentes).
 - **Fuentes**: [[resumen-FAV-331-proxmoxve-community-scripts]] (el repo: 700+ scripts de instalación de un comando) · [[resumen-FAV-329-proxmox-post-pve-install]] (el script post-instalación: repos, fuentes, nag, update) · [[resumen-FAV-332-proxmox-vmware-instalacion]] (instalación virtualizada con virtualización anidada) · [[resumen-FAV-330-contenedores-lxc-proxmox]] (los 12 LXC imprescindibles vía Helper Scripts).
-- **Ver también**: [[bateria-de-arena]] (dominio `casa-calefaccion` — otro pilar del homelab DIY).
+- **Ver también**: [[bateria-de-arena]] (dominio `casa-calefaccion` — otro pilar del homelab DIY). **Dominio `self-hosting/`** (consolidación 2026-11-15): las apps que Helper Scripts instala con un comando son las mismas piezas del dominio — véanse [[self-hosting]] (hub), [[docker-homelab]], [[pi-hole]], [[casaos]] y [[virtualizationhowto]] (canal del ecosistema Proxmox).
 
 ## El concepto
 
