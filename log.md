@@ -2149,3 +2149,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] duplicado | FAV-451 — ¡Todas las estructuras de datos explicadas en 25 minutos! (Codist)
 - **Fuente**: https://www.youtube.com/watch?v=vVL6NFzr0Rg — mismo ID ya presente en raw/informatica-teoria/2026-04-17-every-data-structure-simply-explained-in-25-minutes.md (procesado el 2026-11-11, resumen wiki/informatica-teoria/resumen-every-data-structure-simply-explained-in-25-minutes-codist.md). Sin fetch nuevo. Fila 41 marcada.
+
+## [2026-11-15] ingesta | FAV-452 — Microsoft no creó SQL Server desde cero… Sybase (Archivo del Futuro)
+- **Fuente**: https://www.youtube.com/watch?v=sdrGJF0MUqs. Canal Archivo del Futuro, 2026-09-03, 27:23, ES subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-sql-server-historia-sybase-archivo-del-futuro.md
+- **Resumen**: wiki/informatica/resumen-FAV-452-sql-server-historia-sybase-archivo-del-futuro.md
