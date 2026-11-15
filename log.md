@@ -2263,3 +2263,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=VeMaF27B0nA. Canal TechChip, 2024-08-18, 10:00, HI subs automáticos (resumen interpretado al español, nombres según ASR con incertidumbre).
 - **Raw**: raw/electronica-practica/2026-11-15-nodemcu-exact-password-hindi.md
 - **Resumen**: wiki/electronica-practica/resumen-FAV-478-nodemcu-exact-password-evil-twin-techchip.md
+
+## [2026-11-15] ingesta | Deauther dual band ESP32-C5, Ghost ESP (theBitnest, Short) — FAV-479
+- **Fuente**: https://www.youtube.com/shorts/NOH1t-q8KP8. Canal theBitnest, 2025-06-21, 00:33, EN subs automáticos.
+- **Raw**: raw/electronica-practica/2026-11-15-esp32c5-dual-band-deauther-short.md
+- **Resumen**: wiki/electronica-practica/resumen-FAV-479-esp32c5-deauther-dual-band-short-thebitnest.md
