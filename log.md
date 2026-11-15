@@ -1914,3 +1914,7 @@ YouTube XYBcr1KpN3Y (deMMake, ES, 2019). Raw: raw/electronica-practica/2019-05-3
 ## [2026-11-15] ingesta | Matriz LED sin controlador con Arduino (FAV-397)
 
 YouTube _vqPmitnlxA (deMMake, ES, 2019). Raw: raw/electronica-practica/2019-02-20-matriz-led-sin-controlador-arduino-demmake.md. Resumen: wiki/electronica-practica/resumen-FAV-397-matriz-led-sin-controlador-arduino-demmake.md. Cruces: FAV-396 (mismo canal), FAV-393/375 (WS2812/con controlador), FAV-398/399/400 (cubos LED, multiplexado). deMMake 2.a fuente; cruza con el clúster displays/cubos LED.
+
+## [2026-11-15] ingesta | Cubo LED: conexión al PIC (FAV-398)
+
+YouTube Ia3viImc_KM (El profe García, ES, 2014). El bookmark traia `list=` de playlist ajena — ignorada por S4. Raw: raw/electronica-practica/2014-03-26-cubo-led-conexion-pic-profe-garcia.md. Resumen: wiki/electronica-practica/resumen-FAV-398-cubo-led-conexion-pic-profe-garcia.md. Cruces: FAV-397 (multiplexado matriz), FAV-399/400 (cubos LED), FAV-351/352/375/383/384/386 (canal profe García), [[transistor-bjt]].
