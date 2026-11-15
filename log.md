@@ -2733,3 +2733,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-9/2026-10-06-los-seres-vivos-estan-empezando-a-comerse-nuestra-basura-plastica.md` (`iTd93ZngVgc`, Astrovía, 2026-10-06, 24:07).
 - **Resumen**: `wiki/wl/tramo-9/resumen-WL109-los-seres-vivos-estan-empezando-a-comerse-nuestra-basura-plastica.md`.
 - **Decisiones**: dominio destino `general` (ecología/ambiente sin dominio propio — S4, no crear dominio autónomamente); cruce menor con IA (diseño de Fast-PETase con ML). Consolidación diferida (L12).
+
+## [2026-11-15] ingesta WL | tramo 9, fuente WL-110 — 50 curiosidades de Les Luthiers
+
+- **Fuente**: `raw/wl/tramo-9/2026-10-30-50-curiosidades-de-les-luthiers.md` (`eeuv_gca0G8`, Capitán Milanesa, 2026-10-30, 24:00).
+- **Resumen**: `wiki/wl/tramo-9/resumen-WL110-50-curiosidades-de-les-luthiers.md`.
+- **Decisiones**: dominio destino `general` (cultura argentina; S4 sin dominios nuevos); patrocinio Temu excluido de la síntesis. Consolidación diferida (L12).
