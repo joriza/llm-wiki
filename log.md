@@ -2137,3 +2137,12 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/shorts/hdhQg63Meoo. Short, canal La Chica de Sistemas, 2026-08-21, 01:28, ES subs automáticos.
 - **Raw**: raw/informatica/2026-11-15-janet-jackson-rhythm-nation-hdd-la-chica-de-sistemas.md
 - **Resumen**: wiki/informatica/resumen-FAV-449-janet-jackson-rhythm-nation-hdd.md
+
+## [2026-11-15] ingesta | FAV-450 — Samba 4 como Active Directory en Debian 13 (VM & Cloud Master)
+- **Fuente**: https://www.youtube.com/watch?v=k8Dl9RVYNLA. Canal VM & Cloud Master, 2026-08-17, 19:38, ES subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-samba4-active-directory-debian13.md
+- **Resumen**: wiki/informatica/resumen-FAV-450-samba4-active-directory-debian13.md
+
+## [2026-11-15] relevo 8 T4 — FAV-446..450 COMPLETO 5/5 (líneas 36-40, IDs verificados contra vs-docencia-lista.txt — coinciden con el encargo)
+- FAV-446 COBOL fatdev (16d6860a) · FAV-447 playlist pura **IGNORADA** definitivo (3d5525dc, precedente FAV-401/404) · FAV-448 microservicios TheDebugDuck (ec57526b) · FAV-449 Janet Jackson HDD short (da6aa73c) · FAV-450 Samba 4 AD (este commit). 4/5 PROCESADAS con ciclo completo (raw/informatica/ + wiki/informatica/), 1 IGNORADA. 0×429; salida WARP 104.28.199.112; 4 fetches OK gated (~87-90 s), 0 meta-fail, 0 NO-SUBS, 0 duplicados en el rango.
+- Umbrales nuevos para consolidación diferida: canal **fatdev ahora 3 fuentes** (FAV-430/431/446 — entidad candidata ya deferida); clúster **arquitectura-software** incipiente (FAV-440 SOLID + FAV-448 microservicios, umbral ≥2 alcanzado → concepto candidato, deferido); canal La Chica de Sistemas 1 fuente, VM & Cloud Master 1 fuente. Sin concepto/entidad nuevas (todo deferido). El relevo siguiente continúa en la línea 41 (FAV-451).
