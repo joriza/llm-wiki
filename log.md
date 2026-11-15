@@ -2739,3 +2739,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-9/2026-10-30-50-curiosidades-de-les-luthiers.md` (`eeuv_gca0G8`, Capitán Milanesa, 2026-10-30, 24:00).
 - **Resumen**: `wiki/wl/tramo-9/resumen-WL110-50-curiosidades-de-les-luthiers.md`.
 - **Decisiones**: dominio destino `general` (cultura argentina; S4 sin dominios nuevos); patrocinio Temu excluido de la síntesis. Consolidación diferida (L12).
+
+## [2026-11-15] ingesta WL | tramo 9, fuente WL-111 — Internet nunca volverá a ser como antes
+
+- **Fuente**: `raw/wl/tramo-9/2026-11-01-internet-nunca-volvera-a-ser-como-antes.md` (`VqsmMAVeHco`, Finanzas para todos, 2026-11-01, 21:38).
+- **Resumen**: `wiki/wl/tramo-9/resumen-WL111-internet-nunca-volvera-a-ser-como-antes.md`.
+- **Decisiones**: dominio destino `ia-critica-y-fronteras` (impacto económico de la IA sobre la web abierta); cruces con fuentes AI-mode/SEO de tramos anteriores (consolidación diferida, L12); S4 sin dominios nuevos.
