@@ -2706,3 +2706,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 ## [2026-11-15] ingesta | tramo 8 — WL-105: Tren bala argentino: US$ 4.000 millones y ni un metro de vía (Quien Mueve el Mundo, 2026-11-02, jsIZS6WhqcQ)
 
 - Estación wl (L12): raw espejado en `raw/wl/tramo-8/2026-11-02-tren-bala-argentino-us-4-000-millones-y-ni-un-metro-de-via.md`, resumen en `wiki/wl/tramo-8/resumen-WL105-tren-bala-argentino.md`. Dominio destino previsto: general / sociedad-argentina (infraestructura) — pendiente consolidación. Salida 45.239.32.215, sin 429.
+## [2026-11-15] ingesta | tramo 8 — WL-106: No se detuvieron ante las protestas (SORPRENDENTE, 2026-10-28, --wYmLW7mtA)
+
+- Estación wl (L12): raw espejado en `raw/wl/tramo-8/2026-10-28-no-se-detuvieron-ante-las-protestas.md`, resumen en `wiki/wl/tramo-8/resumen-WL106-no-se-detuvieron-ante-las-protestas.md`. Dominio destino previsto: general (compilación viral; candidata a baja en triage). Salida 45.239.32.215, sin 429.
