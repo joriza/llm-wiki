@@ -2173,3 +2173,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 ## [2026-11-15] relevo 9 T4 — FAV-451..455 COMPLETO 5/5 (líneas 41-45, IDs verificados contra vs-docencia-lista.txt — coinciden con el encargo)
 - FAV-451 estructuras de datos Codist = **DUPLICADO** (b61604dd; mismo v= ya en raw/informatica-teoria/2026-04-17-every-data-structure-simply-explained-in-25-minutes.md, sin fetch) · FAV-452 SQL Server/Sybase Archivo del Futuro (ef4f8f8f) · FAV-453 Office vs WordPerfect Archivo del Futuro (bc77d1ba) · FAV-454 Lotus 1-2-3 ShellDredd, ASR degradado (939ae7cc) · FAV-455 archivo .env Adriano AOli, PT (este commit). 4/5 PROCESADAS con ciclo completo (raw/informatica/ + wiki/informatica/), 1 DUPLICADA. 0×429; salida WARP 104.28.199.112; 3 fetches OK gated (~87 s), 0 meta-fail, 0 NO-SUBS en el rango.
 - Umbrales nuevos para consolidación diferida: canal **Archivo del Futuro 2 fuentes** (FAV-452/453, episodios hermanos con tesis compartida de efecto plataforma — entidad candidata, umbral ≥2 cumplido, deferida); eje **historia de software corporativa** ahora 5 fuentes (FAV-430/431/446 + 452/453; +454 Lotus como cruce → concepto candidato a la consolidación); saga suites ofimáticas 3 (452/453/454). Sin concepto/entidad nuevas (todo deferido). El relevo siguiente continúa en la línea 46 (FAV-456).
+
+## [2026-11-15] ingesta | FAV-456 — OpenAI perdió control de un modelo (Platzi)
+- **Fuente**: https://www.youtube.com/watch?v=o4NStEgIEjo. Canal Platzi, 2026-09-05, 21:49, ES subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-openai-agentes-hackean-huggingface-platzi.md
+- **Resumen**: wiki/informatica/resumen-FAV-456-openai-agentes-hackean-huggingface-platzi.md

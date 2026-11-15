@@ -43,7 +43,7 @@ FAV-452|Informatica|(307) Microsoft No Creó SQL Server Desde Cero… Sybase Ter
 FAV-453|Informatica|(307) Microsoft Office vs. WordPerfect: Cómo Cayó un Imperio de 1.400 Millones - YouTube|https://www.youtube.com/watch?v=BxR7-vLVgPw
 FAV-454|Informatica|(307) LOTUS 123 El software que cambió el mundo de la informática - YouTube|https://www.youtube.com/watch?v=vVC6XNASuvM
 FAV-455|Informatica|(342) Arquivo .env: boas práticas, segurança e erros comuns - YouTube|https://www.youtube.com/watch?v=u1sWHiMBQL0
-FAV-456|Informatica|(342) OpenAI perdió control de un modelo - YouTube|https://www.youtube.com/watch?v=o4NStEgIEjo
+FAV-456|Informatica|(342) OpenAI perdió control de un modelo - YouTube|https://www.youtube.com/watch?v=o4NStEgIEjo ; PROCESADA 2026-11-15 (relevo 10)
 FAV-457|Informatica|(343) 35 años de Linux: 35 curiosidades que cambiaron la informática - YouTube|https://www.youtube.com/watch?v=0l0yP227KRc
 FAV-458|Informatica|(358) Ordenar 1 millón de datos: 1 segundo o 10 minutos - YouTube|https://www.youtube.com/watch?v=TTIA7LlI3rk
 FAV-459|Informatica|(358) Sabes SOLID pero te faltan estos 4 principios - YouTube|https://www.youtube.com/watch?v=ZjfopQLBH1E
