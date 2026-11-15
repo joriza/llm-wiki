@@ -1879,3 +1879,7 @@ YouTube AXo3sLMQ89o (Electronica Con Piero). Raw: raw/electronica-practica/2021-
 
 YouTube 67RFm2RMjC4 (Super Make Something, EN con subs auto). Raw: raw/electronica-practica/2022-08-14-open-source-mini-video-player-super-make-something.md. Resumen: wiki/electronica-practica/resumen-FAV-388-mini-video-player-esp32-super-make-something.md. Cruces: FAV-387 (video en micro), FAV-389/371 (ST7735/ILI9341), FAV-358/362 (ESP32).
 
+## [2026-11-15] ingesta | Photo frame digital con Nano y TFT ST7735 (FAV-389)
+
+YouTube X8syt55ITUo (educ8s.tv, EN subs manuales). Raw: raw/electronica-practica/2016-05-28-photo-frame-st7735-arduino-nano-educ8s.md. Resumen: wiki/electronica-practica/resumen-FAV-389-photo-frame-st7735-arduino-nano.md. Cruces: FAV-388 (misma ST7735 con slot SD), FAV-371 (TFT SPI), FAV-382/384 (pipeline bitmap).
+
