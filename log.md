@@ -1847,3 +1847,7 @@ Registro cronológico de solo adición.
 ## [2026-11-15] ingesta | Ventana IOT Gral — relevo 7 (FAV-376..380) — cierre
 
 - Relevo 7 COMPLETO: FAV-376 7 segmentos gigante WS2812B profe García (1de8ea9e) · FAV-377 WS2812/FastLED Mario's Ideas (67abc61a) · FAV-378 MAX7219 scroll Bluetooth ElectronicSpot (db6d6c3f) · FAV-379 Pico panel RGB matrix Mundo Yakara (52dce071) · FAV-380 Raspy2DMD Mundo Yakara (este commit). IDs verificados contra lectura fresh de Bookmarks (Default; índices globales 76-80 = 5ª semana del rango IOT Gral). 0×429; salida WARP 104.28.199.112; 5 fetches OK gated (~88-90 s), 0 meta-fail, 0 NO-SUBS, 0 duplicados en el rango. **CORRECCIÓN al encargo del relevo**: decía que línea 31 era docs WLED y línea 35 el pinout Arduino Nano (PCBASIC), pero en `iot-gral-lista.txt` real WLED está en la línea 36 y PCBASIC en la 40 — las líneas 31-35 son las 5 fuentes YouTube aquí procesadas; WLED y PCBASIC quedan para el relevo 8. Sin concepto/entidad nuevas (todo deferido; clúster displays LED crece: WS2812B ahora 4 fuentes + MAX7219 + HUB75 ×2). Rango de la ventana procesado hasta la línea 35 de `iot-gral-lista.txt`; el relevo siguiente continúa en la línea 36 (FAV-381, docs WLED).
+
+## [2026-11-15] ingesta | WLED — Documentación oficial del proyecto (FAV-381)
+
+Web (kno.wled.ge), sin raw. Resumen: wiki/electronica-practica/resumen-FAV-381-wled-documentacion-kno-wled-ge.md. Cruces con el clúster WS2812B/HUB75 (FAV-375/377/379/380).
