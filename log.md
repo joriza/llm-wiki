@@ -3114,3 +3114,6 @@ Tramo 24, fuente 2. Mini-divulgación del Tap Code (tabla 5×5, golpes fila+colu
 
 ## [2026-11-15] ingesta | WL-188 · Automatic Water Tank Filler Using 555 Timer (Wirecora)
 Tramo 24, fuente 3. Short de 6 s, demo visual de un llenador automático de tanque con 555; transcripción automática vacía de contenido (no aplica `.no-subs`), contada como útil con contenido mínimo — candidata a baja por triage (ítem 17). Raw espejado en `raw/wl/tramo-24/2026-10-13-automatic-water-tank-filler-using-555-timer.md`; resumen en `wiki/wl/tramo-24/resumen-WL188-automatic-water-tank-filler-555-timer.md`. Dominio previsto: general (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
+
+## [2026-11-15] ingesta | WL-189 · ¿Es el Final de los LLMs? (NCM) (Marfil Lab)
+Tramo 24, fuente 4. Análisis crítico de NCM (Stanford, next-scale prediction) y Hybrid Reasoning Agents (pensamiento latente), con recálculo de coste propio del autor; cifras de preprints señaladas como de laboratorio. Raw espejado en `raw/wl/tramo-24/2026-10-22-es-el-final-de-los-llms-ncm.md`; resumen en `wiki/wl/tramo-24/resumen-WL189-es-el-final-de-los-llms-ncm.md`. Dominios previstos: ia-uso-practico o ia-critica-y-fronteras; cruces WL-132/WL-122 (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
