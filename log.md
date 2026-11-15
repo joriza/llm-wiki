@@ -2966,3 +2966,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 
 ## [2026-11-15] ingesta | 1 MARXISTA vs 5 LIBERTARIOS — reacción (WL-146, tramo 16)
 - Canal Dos Dager, 187:17, ASR es, `BRd-oFpYYKY`. Raw espejado en `raw/wl/tramo-16/2026-10-28-1-marxista-vs-5-libertarios-reaccion.md`; resumen en `wiki/wl/tramo-16/resumen-WL146-1-marxista-vs-5-libertarios-reaccion.md` (lectura por secciones muestreadas — fuente de 3 h). Dominio previsto: general/sociedad-argentina (documento del clima político-intelectual, NO fuente factual, señalado en triage). Consolidación diferida (L12).
+
+## [2026-11-15] ingesta | Tu IA local no es tan privada como crees (WL-147, tramo 16)
+- Canal Jorge Marfil, 37:13, ASR es, `NTO8_1b4LXk`. Raw espejado en `raw/wl/tramo-16/2026-10-28-tu-ia-local-no-es-tan-privada-como-crees.md`; resumen en `wiki/wl/tramo-16/resumen-WL147-tu-ia-local-no-es-tan-privada-como-crees.md`. Dominio previsto: ia-uso-practico/ia-local (seguridad de montajes locales; cruce con WL-132 mismo canal y con el hilo ia-local del repo). Consolidación diferida (L12).
