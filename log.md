@@ -2828,3 +2828,7 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Resumen**: `wiki/wl/tramo-12/resumen-WL122-podria-google-vencer-a-nvidia-en-chips-de-ia-tpu-vs-gpu-explicado.md`.
 - **Decisiones**: dominio destino previsto `general` (hardware/industria IA; S4 sin dominios nuevos); cruces con WL-120 (costo energético IA) y fuentes Anthropic/CUDA diferidos; garbiñeos ASR (Cloud=Claude, Iron Bud=Ironwood, Grok=Groq) normalizados solo en resumen. Consolidación diferida (L12).
 
+- **Fuente**: `raw/wl/tramo-12/2026-10-29-llegar-a-fin-de-mes-danann-y-presto-destrozan-a-milei.md` (`EoJU8y6g5oQ`, Canal EY! | Streaming, 2026-10-29, 34:41).
+- **Resumen**: `wiki/wl/tramo-12/resumen-WL123-llegar-a-fin-de-mes-danann-y-presto-destrozan-a-milei.md`.
+- **Decisiones**: NO fuente factual (streaming de opinión militante con ataques personales sin evidencia, mismo criterio que WL-119); dominio destino previsto `general/sociedad-argentina` (S4 sin dominios nuevos); cruce con WL-119 diferido; garbiñeos ASR normalizados solo en resumen. Consolidación diferida (L12).
+
