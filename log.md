@@ -2870,3 +2870,10 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 ## [2026-11-15] ingesta | WL-131 — La vergüenza se te va si entendés esto (Franco Pisso)
 
 - Tramo 13 (relevo 6), fuente 5 (última de la ventana). Raw espejado en `raw/wl/tramo-13/2026-10-26-la-verguenza-se-te-va-si-entendes-esto.md`; resumen en `wiki/wl/tramo-13/resumen-WL131-la-verguenza-se-te-va-si-entendes-esto.md`. Ansiedad social: efecto foco, miedos mayor/menor, ejercicio de entrada. Dominio destino previsto: general (S4, sin dominios nuevos).
+
+### CIERRE TRAMO 13 (2026-11-15, relevo 6 de gentle-ai-worker)
+
+- **5/5 fuentes ingestadas y committed** (WL-127..WL-131), 0 meta-fail, 0 skip, pre-flight dedupe limpio (648→653 ids en raw/). Commits por fuente: WL-127 dbed268c, WL-128 f9e0f898, WL-129 a1f82c61, WL-130 3a236719, WL-131 503e0bf4. Salida **45.239.32.215** (Proton UE, validada hoy) — 5 descargas timedtext consecutivas sin 429, presupuesto suave 100 nunca alcanzado (L13).
+- Estructura tramo (L12): `raw/wl/tramo-13/` + `wiki/wl/tramo-13/resumen-WL<NNN>-<slug>.md`, index.md con subcarpeta, hub indice-wl.md actualizado (sección tramo 13).
+- Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-127 general (gastronomía experimental); WL-128 general (historia del cine/cultura pop); WL-129 general (divulgación espacial — ojo, fecha del hito día luz 18-11-2026, verificar luego contra NASA); WL-130 general (cripto/seguridad — info preliminar al 30-10-2026, puede desactualizarse); WL-131 general (comunicación/ansiedad social).
+- Última fuente del tramo: **WL-131** (`1uupD1vZkyM`). Próximo: T14 (WL-132..WL-136, relevo 7); consolidación de tramos 8-13 diferida según flujo L12.

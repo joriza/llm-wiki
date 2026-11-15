@@ -63,6 +63,16 @@ Contenido (2026-11-15, cierre del tramo 10): **15 resúmenes en la estación** �
 | WL-125 | Los taxistas se arrepienten de votar a Milei (`J_QnzOqL6xY`) | Arruinados x Milei | general / sociedad-argentina (vox populi, encuadre sesgado declarado) | Resumen en `tramo-12/` |
 | WL-126 | Tren Urquiza: 7 cosas que NO SABES y el proyecto que NO fue (`49QT0KNgonA`) | Ojo Urbano | general (transporte/infraestructura urbana) | Resumen en `tramo-12/` |
 
+### Tramo 13 (2026-11-15, relevo 6 — WL-127..WL-131, pendiente consolidación)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-127 | TODO lo que te enseñaron sobre el Asado… ¿Es Mentira? (`14vD09SPQTI`) | Locos X el Asado | general (gastronomía experimental) | Resumen en `tramo-13/` |
+| WL-128 | ROBOCOP: Todos los secretos, del guion rechazado a la estatua de Detroit (`2tWLB_MDvd4`) | Baul de la Nostalgia | general (historia del cine/cultura pop) | Resumen en `tramo-13/` |
+| WL-129 | Voyager 1 está haciendo algo que debería ser IMPOSIBLE (`EB7Q0RZ48QY`) | Abismo Cósmico | general (divulgación espacial) | Resumen en `tramo-13/` |
+| WL-130 | Lo que se sabe hasta ahora del hack a Binance (`aAMOi9cDa8g`) | Pelado Nerd | general (cripto/seguridad, info preliminar al 30-10) | Resumen en `tramo-13/` |
+| WL-131 | La vergüenza se te va si entendés esto (`1uupD1vZkyM`) | Franco Pisso | general (comunicación/ansiedad social) | Resumen en `tramo-13/` |
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
