@@ -238,6 +238,19 @@ Notas del tramo: 5/5 útiles exactos (WL-196..WL-200), 0 skips, 0 meta-fail, sin
 
 Notas del tramo: 3/3 útiles exactos (WL-201..WL-203), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin cuarto ciclo (TRAMO FINAL del pedido L22). Salida 45.239.32.215 (Proton UE, validada hoy), 3 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). **PEDIDO L22 CERRADO: 50/50 útiles.**
 
+## Tramo 34 — relevo 27 (WL-235..WL-240)
+
+| # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
+|---|--------|--------|------------------|---------|
+| WL-235 | 🍈 ¡Me ROBARON la cuenta para comprar MELONES! (`eeiarbg6fg0`) | hdeleon.net | general (seguridad digital consumidor — micro-video 1:48: credenciales filtradas + sin 2FA + pagos PayPal autorizados; consejo: revocar pagos automáticos tras comprar; testimonio sin cifras — señalado; cruces WL-150/WL-130/WL-183) | Resumen en `tramo-34/` |
+| WL-236 | ¿Argentina perdió US$1.000 M con el oro? (`9tpxlK7dKiI`) | Sé diferente | general/sociedad-argentina (divulgación económica 1:35 — pérdidas AGN eran derivados de cobertura ante suba del oro ~60 %; cobertura ≠ especulación; ganancia neta USD 2.500 M SIN fuente citada — verificar; cruces WL-163/WL-182) | Resumen en `tramo-34/` |
+| WL-237 | El código del Apolo 11 es open source (`FK7EyEWMQUs`) | Neurika | SKIP-DUPLICATE — ya procesada en `historia-informatica` antes de entrar a la numeración WL (no cuenta como útil, sin contacto con YouTube) | Resumen previo en `historia-informatica/` |
+| WL-238 | Olvida las Tierras Raras: Éste es el procesador del futuro, y China lo está acaparando (`dwhxNA0KyCc`) | NovaGea | general (divulgación semiconductores 31 min — carburo de silicio: muro térmico del silicio, interponedores IA, física (fonones ~500 W/m·K, banda 3,26 eV), PVT 2.400 °C, chips NASA 500 °C, comportamiento neuronal a milikelvin (Nature Communications), geopolítica China ~50 % obleas y guerra de precios; sin fuentes enlazadas — señalado; cruces WL-220/WL-122/WL-144) | Resumen en `tramo-34/` |
+| WL-239 | El secreto detrás de ChatGPT: ¿qué es un motor de inferencia? (`HwNaAPvs31I`) | CodeSimple | ia-uso-practico/ia-local o general (divulgación infraestructura de inferencia 12 min — 4 motores: llama.cpp (cuantización+mmap), vLLM (PagedAttention 60-80 % memoria desperdiciada + continuous batching), SGLang (prefix caching 6,4× condicional), TensorRT-LLM (integración vertical); papers sin enlaces — señalado; cruces [[llama-cpp]]/[[hardware-para-ia-local]]/WL-228/WL-214) | Resumen en `tramo-34/` |
+| WL-240 | Esta nueva CACHÉ hace que la IA local sea 2 VECES más rápida (`Ac_imYXldYo`) | Cognix | ia-uso-practico/ia-local (hot expert cache MoE de llama.cpp — VRAM como caché LRU por capa, localidad temporal 67-81 % hits, benchmarks 1,62×-2,2× (67,8 tok/s RTX 5090), fork multi-GPU 2,5×; límites bien señalados; tesis jerarquía de memoria SSD→RAM→VRAM; sin enlaces a PRs — verificar; cruces [[llama-cpp]]/[[hardware-para-ia-local]]/[[cognix]]/WL-154/WL-239) | Resumen en `tramo-34/` |
+
+Notas del tramo: 5/5 útiles EXACTOS con contador explícito (sin sexto ciclo), ciclo completo por fuente. 1 SKIP-DUPLICATE (WL-237, ya procesada en historia-informatica — no cuenta como útil). 0 meta-fail, sin 429. Salida 45.239.32.215 (Proton UE, validada hoy), 4 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L23: **36/50 útiles** (restan 14). Tema de tramo: IA local/inferencia ×2 (WL-239/240) — cruces fuertes con entidades llama-cpp y hardware-para-ia-local en consolidación.
+
 ## Tramo 33 — relevo 26 (WL-230..WL-234)
 
 | # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
