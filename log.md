@@ -2554,3 +2554,6 @@ Fuente 2/11 (hwaho9SAMco, Pocho Labs 2025-04-28). Raw intacto a raw/self-hosting
 
 ## [2026-11-15] ingesta | He CLONADO Google Fotos, Dropbox y ChatGPT en Local (Geekom IT12)
 Fuente 3/11 (00ENzG5SCMM, Enreta Domótica 2025-11-23). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-2. Video con equipo enviado por la marca (declarado).
+
+## [2026-11-15] ingesta | Mi Servidor Casero Todo en Uno: CasaOS, Docker, Pi-hole, n8n, File Browser y Cloudflare
+Fuente 4/11 (5Wq4DTyp944, Felipe M. 2025-07-21). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-3.
