@@ -118,3 +118,13 @@ Contenido (2026-11-15, cierre del tramo 10): **15 resúmenes en la estación** �
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
 - **Estado «Meta-fail»**: descarga fallida de metadatos (bot-check ×2, regla del tramo 1); sin raw ni resumen; acumulado en re-pass.
 - Las filas «Pendiente consolidación» se retiraron al migrar cada fuente con `git mv` a su dominio definitivo (tramos 1-2: 2026-11-13; tramos 5-6 y 3-4-7: 2026-11-14). Los futuros tramos WL se ingestan directamente en `wl/` y esta tabla vuelve a crecer con el próximo tramo.
+
+### Tramo 18 (2026-11-15, relevo 11 — 5 fuentes útiles desde la cabeza, pendiente consolidación)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-152 | EL ACOSO fue PEOR de lo que PENSABAN — Caso Bullying Catamarca (`7eI3D54Raig`) | LeanRiccio | general/sociedad-argentina (análisis jurídico de caso social) | Resumen en `tramo-18/` |
+| WL-153 | Hoy les vuelo la peluca (`_Ex50pLRnXY`) | Gentleman Programming Vods | ia-uso-practico/agentes-de-codigo (ecosistema Gentle Shell — fuente interna) | Resumen en `tramo-18/` |
+| WL-154 | Espié a mi IA local… y descubrí algo INESPERADO (`WdOLEwGuEN8`) | Cognix | ia-uso-practico/ia-local (seguridad; cruces WL-147/WL-132/WL-150) | Resumen en `tramo-18/` |
+| WL-155 | Los 7 lenguajes de programación MÁS RAROS (`ZlfY3tF3qBY`) | LinuxChad | general (historia/cultura de la programación) | Resumen en `tramo-18/` |
+| WL-156 | Florencia vs Lizy: la verdad incómoda que nadie se anima a decir (`w5DnMsCZ4K4`) | Themateoteo | general/sociedad-argentina (NO fuente factual, señalado) | Resumen en `tramo-18/` |
