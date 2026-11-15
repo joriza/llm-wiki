@@ -2812,3 +2812,15 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-11/2026-10-29-el-futuro-de-las-empresas-de-la-ia-a-los-criterios-esg.md` (`5F49Op3IMwU`, GSG Business Hub, 2026-10-29, 15:50).
 - **Resumen**: `wiki/wl/tramo-11/resumen-WL120-el-futuro-de-las-empresas-de-la-ia-a-los-criterios-esg.md`.
 - **Decisiones**: episodio con conflicto de interés (promoción de la herramienta del invitado) señalado en triage; nombre de la herramienta ambiguo por ASR (Bombo/Bombu/Bongo — «Bombu» elegida); dominio destino `general` (negocios/sostenibilidad; S4 sin dominios nuevos); cruce con fuentes de costo energético de IA diferido. Consolidación diferida (L12).
+
+## [2026-11-15] ingesta WL | tramo 11, fuente WL-121 — Los multimillonarios de Silicon Valley que quieren gobernar el mundo (Roxana Kreimer)
+
+- **Fuente**: `raw/wl/tramo-11/2026-10-31-los-multimillonarios-de-silicon-valley-que-quieren-gobernar-el-mundo.md` (`Kg7TQr1lXYE`, Roxana Kreimer, 2026-10-31, 57:23).
+- **Resumen**: `wiki/wl/tramo-11/resumen-WL121-los-multimillonarios-de-silicon-valley-que-quieren-gobernar-el-mundo.md`.
+- **Decisiones**: dominio destino previsto `ia-critica-y-fronteras` (S4 sin dominios nuevos); cruces con WL-111/WL-103 (crítica IA / tech-estado) y conexión argentina Thiel–Milei–RIGI (WL-119 menciona «Super RIGI») diferidos a consolidación. Nombres garbiñados por ASR (Vance, Yarvin, Tlon, Steorts) normalizados solo en el resumen. Consolidación diferida (L12).
+
+### CIERRE TRAMO 11 (2026-11-15, relevo 4 de gentle-ai-worker)
+
+- **5/5 fuentes ingestadas y committed** (WL-117..WL-121), 0 meta-fail, 0 skip, pre-flight dedupe limpio (638→643 ids en raw/). Commits por fuente: WL-117 89a6cdfb/026e82c8/13814fc5/42222481, WL-118 d01ad2d6/4638770e/3321761e/c89d1181, WL-119 56c0ebbf/d529692c/c3d6d31c/3fe776cc, WL-120 cd7e3e23/2e423e10/3550123a/33a3faaf, WL-121 (ver git log; raw+resumen+index+log). Salida **45.239.32.215** (Proton UE, validada hoy) — 5 descargas consecutivas sin 429, presupuesto suave 100 nunca alcanzado (L13). Estructura tramo (L12): `raw/wl/tramo-11/` + `wiki/wl/tramo-11/resumen-WL<NNN>-<slug>.md`, index.md con subcarpeta.
+- Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-117 general (historia de la tecnología/software — Autodesk); WL-118 general (sociedad/infraestructura española — accidente de Urda); WL-119 general/sociedad-argentina (opinión militante, NO fuente factual — Cúneo/Canosa); WL-120 general (negocios/sostenibilidad — episodio con autopromoción del invitado); WL-121 ia-critica-y-fronteras (neorreacción/Ilustración Oscura, Thiel–Milei).
+- Última fuente del tramo: **WL-121** (`Kg7TQr1lXYE`). Próximo: T12 (WL-122..WL-126, relevo 5); consolidación de tramos 8-11 diferida según flujo L12.
