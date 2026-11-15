@@ -2235,3 +2235,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=ESoZxL9RTUA (list= de playlist propia ignorada por S4). Canal Editronikx, 2014-11-22, 07:32, ES subs automáticos.
 - **Raw**: raw/electronica-practica/2026-11-15-pines-analogicos-como-digitales-editronikx.md
 - **Resumen**: wiki/electronica-practica/resumen-FAV-471-pines-analogicos-como-digitales-editronikx.md
+
+## [2026-11-15] ingesta | 7 simuladores de Arduino para 2026 (ToP Projects Compilation) — FAV-472
+- **Fuente**: https://www.youtube.com/watch?v=FFQk0DiTtPE. Canal ToP Projects Compilation, 2025-10-03, 24:38, EN subs automáticos (nombres de productos según ASR, señalados).
+- **Raw**: raw/electronica-practica/2026-11-15-7-simuladores-arduino-2026-top-projects.md
+- **Resumen**: wiki/electronica-practica/resumen-FAV-472-siete-simuladores-arduino-2026-top-projects.md
