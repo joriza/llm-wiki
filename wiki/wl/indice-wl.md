@@ -104,6 +104,15 @@ Contenido (2026-11-15, cierre del tramo 10): **15 resúmenes en la estación** �
 | WL-146 | 1 MARXISTA vs 5 LIBERTARIOS — Reacción (`BRd-oFpYYKY`) | Dos Dager | general/sociedad-argentina (debate político — opinión, NO factual) | Resumen en `tramo-16/` |
 | WL-147 | Tu IA Local No Es Tan Privada Como Crees (`NTO8_1b4LXk`) | Jorge Marfil | ia-uso-practico/ia-local (seguridad; cruce con WL-132) | Resumen en `tramo-16/` |
 
+### Tramo 17 (2026-11-15, relevo 10 — WL-148..WL-151, tramo final del pedido de 50, pendiente consolidación)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-148 | ¿Qué pasó con Jenna Ortega después de Merlina? (`w2ehTs7pinc`) | Dieck Docs | general (biografía/cultura pop — marco docudrama) | Resumen en `tramo-17/` |
+| WL-149 | Estamos vivos de puro c*lo 2 (`Ic-qgq6KTWM`) | Pablo Molinari | general/sociedad-argentina (humor nostálgico — NO fuente factual) | Resumen en `tramo-17/` |
+| WL-150 | Le pidió a una IA que HACKEARA su TV (`MK5ZPTC9gRg`) | Crossover | general (tecnología/privacidad — negocio del hardware conectado) | Resumen en `tramo-17/` |
+| WL-151 | Algo está FALLANDO a la vez en los TRENES y las CARRETERAS de ESPAÑA (`a8764s81INI`) | VisualPolitik | general (infraestructura/transporte — caso España; cruces WL-118/WL-142/WL-126) | Resumen en `tramo-17/` |
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
