@@ -2895,3 +2895,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Fuente: `G1Ouqo4UflQ` (Naturaleza Insólita, 2026-10-13, 10:51). Raw espejado a `raw/wl/tramo-14/2026-10-13-por-que-ya-no-ves-luciernagas.md`; resumen en `wiki/wl/tramo-14/resumen-WL134-por-que-ya-no-ves-luciernagas.md`.
 - Declive de las luciérnagas: luz como lenguaje (requiere oscuridad), caza industrial de ~100 millones para luciferina (San Luis, 1960-1995) y causas jerarquizadas por expertos (hábitat > lumínica > pesticidas). Compañero temático del WL-133 (mismo canal) — cruce candidato en consolidación.
 - Dominio destino previsto (pendiente consolidación, S4): `general/` (ecología).
+
+## [2026-11-15] ingesta | WL-135 — El MIT dejó una IA sola en una isla. Esto es lo que hizo
+
+- Fuente: `RPsQMBIjF58` (SinergIA, 2026-10-28, 14:14, subtítulos manuales). Raw espejado a `raw/wl/tramo-14/2026-10-28-el-mit-dejo-una-ia-sola-en-una-isla-esto-es-lo-que-hizo.md`; resumen en `wiki/wl/tramo-14/resumen-WL135-el-mit-dejo-una-ia-sola-en-una-isla.md`.
+- Experimento Eko del MIT (preprint, sin peer-review — señalado en triage): agente Claude Code sin tarea, memoria efímera; descubre regla física no programada (isla generada por Codex), autcorrrección honesta de récord falso, y la memoria como habilidad (borrar línea = borrar destreza; creencia falsa apuntada = degradación).
+- Dominio destino previsto (pendiente consolidación, S4): `ia-critica-y-fronteras` o `ia-uso-practico/agentes-de-codigo`. Cruces naturales: [[anthropic]], agentes autónomos.
