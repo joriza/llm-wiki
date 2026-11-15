@@ -2709,3 +2709,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 ## [2026-11-15] ingesta | tramo 8 — WL-106: No se detuvieron ante las protestas (SORPRENDENTE, 2026-10-28, --wYmLW7mtA)
 
 - Estación wl (L12): raw espejado en `raw/wl/tramo-8/2026-10-28-no-se-detuvieron-ante-las-protestas.md`, resumen en `wiki/wl/tramo-8/resumen-WL106-no-se-detuvieron-ante-las-protestas.md`. Dominio destino previsto: general (compilación viral; candidata a baja en triage). Salida 45.239.32.215, sin 429.
+
+### CIERRE TRAMO 8 (2026-11-15, relevo 1 de gentle-ai-worker)
+
+- **5/5 fuentes ingestadas y committed** (WL-102..WL-106), 0 meta-fail, 0 skip, pre-flight dedupe limpio (623→627 ids en raw/). Commits por fuente: WL-102 `5cbc9adb`, WL-103 `5d500716`, WL-104 `dbb4b9ee`, WL-105 `1841ccd8`, WL-106 `20d1a6ac`. Salida **45.239.32.215** (Proton UE, validada hoy) — 5 descargas timedtext consecutivas sin 429, presupuesto suave 100 nunca alcanzado (L13). Estructura tramo (L12): `raw/wl/tramo-8/` + `wiki/wl/tramo-8/`, filas de index.md con subcarpeta.
+- Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-102 ia-uso-practico/agentes-de-codigo (cruces [[hardware-para-ia-local]], [[qwen]], [[llama-cpp]]); WL-103 ia-critica-y-fronteras (cifras sin fuente primaria etiquetadas); WL-104 general (autoayuda-académica); WL-105 general/sociedad-argentina; WL-106 general — compilación viral, candidata a baja en triage del usuario (Baja de fuente, protocolo ítem 17).
+- Cierre registrado en hub `wiki/wl/indice-wl.md` (sección tramo 8, 5 filas) y en `odd/tasks/ingesta-ver-mas-tarde.md` (T8 COMPLETADO). Próximo: tramo 9 (WL-107..WL-111, relevo 2); consolidación de tramos 8-10 diferida según flujo L12.
