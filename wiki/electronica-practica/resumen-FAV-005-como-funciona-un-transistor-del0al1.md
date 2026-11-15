@@ -25,7 +25,7 @@ Tutorial de introducción al **transistor** (BJT), de la física interna al prim
 
 - **Base conceptual del dominio**: sustenta FAV-003 (detector de luz con 2N2222A como interruptor) y anticipa FAV-005 (NPN vs PNP, anuncio explícito al final del video) y FAV-006 (condensador).
 - **[[como-se-hace-lo-cotidiano]]**: «toda la tecnología moderna (computadoras, celulares, autos, satélites) existe gracias al transistor» — el componente invisible detrás de lo cotidiano; su versión a escala de miles de millones es la base de los procesadores (puente futuro con informatica-teoria/).
-- Tema-candidato: **transistor-bjt** (umbral 1/2; con FAV-005 alcanza 2).
+- **[[transistor-bjt]]**: página de concepto creada en la consolidación (2026-11-14) junto a FAV-006 — esta es su fuente de física interna.
 
 ## ADVERTENCIA
 

@@ -23,7 +23,7 @@ Subtítulos manuales (es, buena calidad): «light dependant resistor» (grafía 
 
 ## CRUCES
 
-- **Segunda voz del tema** **ldr-fotorresistencia** (con FAV-003, detector de luz del mismo clúster): umbral ≥2 alcanzado → **candidato a página de concepto en la próxima consolidación** del dominio.
+- **[[ldr-fotorresistencia]]**: página de concepto creada en la consolidación (2026-11-14) — monografía del componente, con FAV-003 como su fuente de montaje aplicado.
 - **[[como-se-hace-lo-cotidiano]]**: alumbrado público automático y sensores de luz ambiental — física de semiconductores detrás de un mecanismo cotidiano.
 - Diferencia de roles con FAV-003: aquí la LDR está en serie con el LED (control directo de corriente); en FAV-003 alimenta el divisor que polariza un transistor — dos topologías de uso del mismo sensor.
 

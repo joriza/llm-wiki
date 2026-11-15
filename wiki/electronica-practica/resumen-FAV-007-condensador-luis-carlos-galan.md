@@ -24,7 +24,7 @@ El condensador (capacitor) de la construcción al comportamiento dinámico, con 
 
 ## CRUCES
 
-- Tema **condensador-rc** (1/2): primera fuente del tema; complementa naturalmente con las fuentes de fuente conmutada/LEDs 220V (FAV-008..010) donde aparecen condensadores de filtrado y carga — subirán el umbral.
+- **[[condensador-rc]]**: página de concepto creada en la consolidación (2026-11-14) con esta como fuente principal — las fuentes de fuentes conmutadas/LEDs 220 V (FAV-008..010) subieron el umbral como usos reales.
 - Con [[resumen-FAV-005-como-funciona-un-transistor-del0al1]]: mismo estilo demostración-medida (Montaje + instrumento); el τ=R·C explica el pull-down y temporizadores.
 - **[[como-se-hace-lo-cotidiano]]**: la descarga con chispa y la advertencia de seguridad (condensadores grandes almacenan energía letal incluso desconectados) es conocimiento cotidiano de todo reparador de fuentes.
 

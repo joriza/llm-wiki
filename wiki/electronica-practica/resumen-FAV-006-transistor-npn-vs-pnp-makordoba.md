@@ -24,7 +24,7 @@ Método intuitivo para **conectar sin equivocarse** un transistor NPN o PNP en *
 
 ## CRUCES
 
-- **Segunda voz del tema** **transistor-bjt** (con FAV-005, Del 0 al 1: física interna + 2N2222A): umbral ≥2 alcanzado → **candidato a página de concepto en la próxima consolidación** del dominio (el concepto uniría física interna, receta de conexión NPN/PNP y usos interruptor/amplificador).
+- **[[transistor-bjt]]**: página de concepto creada en la consolidación (2026-11-14) — segunda voz del tema con FAV-005 (física interna + 2N2222A); la página une física interna, receta de conexión NPN/PNP y usos interruptor/amplificador.
 - Cableado con [[resumen-FAV-003-montaje-detector-de-luz]]: el 2N2222A NPN del detector es exactamente el caso "base gobernada por polo positivo, emisor a negativo" que esta fuente formaliza.
 - **[[como-se-hace-lo-cotidiano]]**: la regla "polaridad disponible → tipo de transistor" es la decisión diaria de quien diseña cualquier driver de carga (relés, LEDs, motores).
 

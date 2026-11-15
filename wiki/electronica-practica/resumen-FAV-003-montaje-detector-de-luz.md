@@ -24,7 +24,7 @@ Montaje práctico en **protoboard** de un detector de ausencia de luz que encien
 
 - **[[como-se-hace-lo-cotidiano]]**: el montaje replica el fotocélula del alumbrado público y los encendidos automáticos de luces domésticas — electrónica básica detrás de un mecanismo cotidiano.
 - Cableado al dominio: segunda fuente de `electronica-practica/`; complementa [[resumen-FAV-002-analisis-de-mallas-con-kirchhoff-y-ohm]] (teoría) con un montaje físico, y anticipa la fuente dedicada a la **LDR** (FAV-004) y la de **transistores** (FAV-005).
-- Tema-candidato: **ldr-fotorresistencia** (umbral 1/2, con FAV-004 pasa a página de concepto en consolidación).
+- **[[ldr-fotorresistencia]]** (1/2): página de concepto creada en la consolidación (2026-11-14) junto a FAV-004 — esta es su fuente de montaje aplicado.
 
 ## ADVERTENCIA
 
