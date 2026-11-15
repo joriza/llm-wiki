@@ -8,7 +8,7 @@ FAV-417|Vs|Líquido de $3: ELIMINA TODO el óxido PARA SIEMPRE, por eso quieren 
 FAV-418|Vs|La Madera Será Como Nueva Para Siempre: El Aceite De $1, Que Intentaron Enterrar Desde 1932! - YouTube|https://www.youtube.com/watch?v=a047yopYSxw ; PROCESADA 2026-11-15
 FAV-419|Vs|(30) Cómo generar un LLM a partir de tus documentos (fácil y rápido) - YouTube|https://www.youtube.com/watch?v=j_R3Do3WwgU ; PROCESADA 2026-11-15
 FAV-420|Vs|(574) ¡FreeLLMAPI acaba de Romper las Suscripciones de IA! TODO GRATIS y SIN límites - YouTube|https://www.youtube.com/watch?v=7Oez8kmknOA ; PROCESADA 2026-11-15
-FAV-421|Informatica/Python|(3668) Curso Python desde 0. - YouTube|https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
+FAV-421|Informatica/Python|(3668) Curso Python desde 0. - YouTube|https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS ; IGNORADA 2026-11-15: playlist pura (sin v=), precedente FAV-401/404
 FAV-422|Informatica/Python|3. Una introducción informal a Python — documentación de Python - 3.15.0a7|https://docs.python.org/es/dev/tutorial/introduction.html
 FAV-423|Informatica/Python|(432) Si sigues usando pip, estás perdiendo horas de tu vida - YouTube|https://www.youtube.com/watch?v=RFInJeuhiFk
 FAV-424|Informatica/Python|(432) Todo sobre las API Gratuitas de Python Explicado en 10 Minutos - YouTube|https://www.youtube.com/watch?v=CNCUtZ9BiHI

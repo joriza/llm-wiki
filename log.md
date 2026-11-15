@@ -2002,3 +2002,6 @@ YouTube hJBYvOV51QQ (ES, subs automáticos, 21:05, 2024-02-29). Raw: raw/electro
 ## [2026-11-15] ingesta | FAV-420 — FreeLLM API, proxy de IA gratuita (Alejavi Rivera)
 - Fuente: https://www.youtube.com/watch?v=7Oez8kmknOA → raw/electronica-practica/2026-11-15-freellmapi-proxy-ia-gratis.md
 - Resumen: wiki/electronica-practica/resumen-FAV-420-freellmapi-proxy-ia-gratis.md. Fuente de INFORMÁTICA/IA — **candidata a dominio informatica**. Cruces: [[ia-en-mcu]], FAV-419, FAV-413. Descarga gated OK (sleep 88 s, salida WARP).
+
+## [2026-11-15] ignored | Playlist «Curso Python desde 0» (FAV-421, línea 11)
+URL de playlist pura (list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS, sin v=). IGNORADA definitivamente por regla de ventana (precedente FAV-401/404, orden del usuario 2026-11-15: «ignore ambas listas»). No se procesa ni se marca SKIP. Fila 11 de vs-docencia-lista.txt marcada.
