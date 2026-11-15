@@ -2694,3 +2694,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Lagunas abiertas**: Django REST Framework, testing Flask, GUI clásica (Tkinter/PyQt), CI/GitHub Actions, backtesting riguroso.
 - **Fix estructural**: enlace roto `[[informatica-teoria/cognix]]` en overview.md → `[[ia-local/cognix|cognix]]`; `[[hambruna-global-1877]]` en sintesis.md → ruta correcta `ciencias-tierra/hambruna-global-de-1877`. overview.md (fila python-practico) y sintesis.md (hilo 8) actualizados con el estado final del playlist.
 - **Pendiente**: push bajo orden del usuario.
+## [2026-11-15] ingesta | tramo 8 — WL-102: Cuantización de LLM explicada: la trampa de calidad del Q4 (Jorge Marfil, 2026-11-03, IK-mFMiTvK8)
+
+- Estación wl (regla L12): raw espejado en `raw/wl/tramo-8/2026-11-03-cuantizacion-de-llm-explicada-la-trampa-de-calidad-del-q4.md`, resumen en `wiki/wl/tramo-8/resumen-WL102-cuantizacion-llm-trampa-calidad-q4.md`. Salida 45.239.32.215 PROBE-OK (validada hoy). Dominio destino previsto: ia-uso-practico / agentes-de-codigo (cuantización+hardware) — pendiente consolidación. Cruces señalados: [[hardware-para-ia-local]], [[qwen]], [[llama-cpp]].
