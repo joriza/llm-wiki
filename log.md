@@ -2112,3 +2112,5 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - FAV-441 programar 10X más rápido Torti Code (este commit)
 · FAV-442 TypeRacer web sin raw (0e079856) · FAV-443 liberar espacio Disco C La Mano Tecno (este commit)
 · FAV-444 protección escritura USB Recoverit (este commit)
+· FAV-445 UWF filtro de escritura Fernando Branca (este commit). 5/5 PROCESADAS con ciclo completo (4 YT con raw/informatica/ + 1 web sin raw). 0×429; 4 fetches OK gated (~88 s), 0 meta-fail, 0 NO-SUBS, 0 duplicados, 0 playlists puras en el rango.
+- Umbrales nuevos para consolidación diferida: **congelamiento/filtros de escritura 2 fuentes** (FAV-444 protección USB + FAV-445 UWF del sistema — mismo mecanismo en dos escalas) y **mantenimiento Windows** incipiente (FAV-443). Canal Torti Code ahora **5 fuentes** (FAV-433/439/440/441 + informatica-teoria). Sin concepto/entidad nuevas (todo deferido). El relevo siguiente continúa en la línea 36 (FAV-446).
