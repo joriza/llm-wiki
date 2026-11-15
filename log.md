@@ -2727,3 +2727,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-9/2026-11-01-la-habilidad-mas-importante-de-un-ingeniero-no-es-programar.md` (`vl6LOZNku1U`, BettaTech, 2026-11-01, 26:58).
 - **Resumen**: `wiki/wl/tramo-9/resumen-WL108-la-habilidad-mas-importante-de-un-ingeniero-no-es-programar.md`.
 - **Decisiones**: dominio destino `ia-uso-practico/agentes-de-codigo` (Claude Code, ventanas rotas con agentes en paralelo, comentarios para IA) con cruces a literatura de ingeniería (Pragmatic Programmer, Chip Huyen) — consolidación diferida (L12); sin dominios nuevos (S4).
+
+## [2026-11-15] ingesta WL | tramo 9, fuente WL-109 — Los seres vivos están empezando a comerse nuestra basura plástica
+
+- **Fuente**: `raw/wl/tramo-9/2026-10-06-los-seres-vivos-estan-empezando-a-comerse-nuestra-basura-plastica.md` (`iTd93ZngVgc`, Astrovía, 2026-10-06, 24:07).
+- **Resumen**: `wiki/wl/tramo-9/resumen-WL109-los-seres-vivos-estan-empezando-a-comerse-nuestra-basura-plastica.md`.
+- **Decisiones**: dominio destino `general` (ecología/ambiente sin dominio propio — S4, no crear dominio autónomamente); cruce menor con IA (diseño de Fast-PETase con ML). Consolidación diferida (L12).
