@@ -107,3 +107,7 @@ Modifica: reemplaza el «pacing externo ≥50 s» del ítem 2 y la decisión «i
 - Sonda OK: salida `45.239.32.215` (Proton UE) validada 2026-11-15; estado en `.atl/scratch/self-hosting/estado.json` (11 seeded).
 - **Motivo de la pausa**: el runtime gentle-pi bloqueó el writer en subagente (regla de admisión: exige Spec ODD, backstop de contexto, o 2+ writers disjuntos). Decisión del usuario: detener y resolver la configuración antes de seguir.
 - **Reanudación**: (1) resolver la admisión del writer o confirmar modo inline; (2) procesar el raw de scratch; (3) relanzar el runner `--one --budget 5` con relevo cada 5; (4) al cierre: consolidación + overview/sintesis + push.
+
+## Modo subagente bajo ODD (vigente desde 2026-11-15)
+
+La admisión del runtime gentle-pi exige que un writer corra bajo un documento de feature ODD (`Spec: odd/tasks/<feature>.md, T<n>`). Para cada lista nueva: copiar `odd/tasks/_plantilla-ingesta-playlist.md` a `odd/tasks/ingesta-<nombre>.md` (completar S/T con los datos de la lista y dominio) y lanzar cada relevo como `Spec: odd/tasks/ingesta-<nombre>.md, T<n>` a `gentle-ai-worker` (esfuerzo low), con `## Allowed edit surfaces` del dominio destino. Un subagente por tramo, relevo cada 5, como establece este protocolo; la plantilla es el único paso extra. Primera aplicación completa: ingesta self-hosting 2026-11-15 (11/11 con T1-T3).
