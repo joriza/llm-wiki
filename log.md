@@ -2216,3 +2216,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=EEKMPT_YcTI (list= de playlist propia ignorada por S4). Canal Johann Perez E, 2021-02-05, 13:16, ES subs manuales.
 - **Raw**: raw/electronica-practica/2026-11-15-programar-arduino-uno-desde-cero-cap2-johann-perez.md
 - **Resumen**: wiki/electronica-practica/resumen-FAV-467-programar-arduino-uno-desde-cero-cap2-johann-perez.md
+
+## [2026-11-15] ingesta | Arduino desde cero en Español - Capítulo 2: primer programa e IDE (Bitwise Ar) — FAV-468
+- **Fuente**: https://www.youtube.com/watch?v=GUuWgk3dXd0 (list= de playlist propia ignorada por S4). Canal Bitwise Ar, 2017-02-19, 15:36, ES subs automáticos.
+- **Raw**: raw/electronica-practica/2026-11-15-arduino-desde-cero-cap2-instalacion-ide-bitwise-ar.md
+- **Resumen**: wiki/electronica-practica/resumen-FAV-468-arduino-desde-cero-cap2-instalacion-ide-bitwise-ar.md
