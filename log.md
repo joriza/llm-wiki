@@ -1951,3 +1951,7 @@ URL de playlist pura (list=PLlck5hCWxDJ...). IGNORADA definitivamente por orden 
 - Fuente: https://www.youtube.com/watch?v=GgRRr-RMiws → raw/electronica-practica/2026-11-15-amplificador-audio-transistor-13003.md
 - Resumen: wiki/electronica-practica/resumen-FAV-408-amplificador-audio-transistor-13003-tokio-electronic.md
 - Cruces: [[transistor-bjt]], [[resumen-FAV-364-microcontroladores-industria-mito-tr3bol]]
+## [2026-11-15] ingesta | FAV-409 — Walter: la placa IoT definitiva con IA (El Próximo Framework en Ingeniería)
+- Fuente: https://www.youtube.com/watch?v=Q1hAE8VwkZY → raw/electronica-practica/2026-11-15-walter-placa-iot-definitiva-con-ia.md
+- Resumen: wiki/electronica-practica/resumen-FAV-409-walter-placa-iot-definitiva-ia.md
+- Cruces: [[resumen-FAV-362-arquitectura-esp32-bit-micro-lab]], [[resumen-FAV-363-pinout-esp32-s3-bit-micro-lab]], [[resumen-FAV-353-esp-now-conectar-esp32-iotlab]], [[resumen-FAV-355-freertos-multitarea-core-esp32-profe-garcia]]
