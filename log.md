@@ -1922,3 +1922,7 @@ YouTube Ia3viImc_KM (El profe García, ES, 2014). El bookmark traia `list=` de p
 ## [2026-11-15] skip | Big LED Cube at Home 8x8x8 (FAV-399)
 
 YouTube AEyY17chb0A (Saptarshi Sikder, 2021). SKIP definitivo: montaje musical sin narración — los subtítulos automáticos (detectados en uk) contienen solo marcadores [музика], sin habla aprovechable para sintetizar. Ni raw ni resumen. Fila 54 de iot-gral-lista.txt marcada.
+
+## [2026-11-15] skip | How to make a 8x8x8 LED Cube at Home (FAV-400)
+
+YouTube mN5JWQUfrxY (Tapendra Mandal, 2020). SKIP definitivo: montaje musical sin narración — subtítulos automáticos (en) con solo [Music]/[Applause], sin habla aprovechable. Ni raw ni resumen. Fila 55 de iot-gral-lista.txt marcada.
