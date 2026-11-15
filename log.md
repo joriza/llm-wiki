@@ -2369,3 +2369,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Cableado PLC LOGO! 12/24RCE (FAV-491, relevo 1 Electromecanica)
 - FAV-491 0gEZE2ubCZE «COMO REALIZAR EL CABLEADO DE PLC LOGO 12/24RCE EXPLICADO» — Automatizando Ideas, ES-ASR 19:42. Resumen: wiki/electromecanica/resumen-FAV-491-cableado-plc-logo.md; raw: raw/electromecanica/2026-11-15-cableado-plc-logo-1224rce.md. Umbral deferido: Cade Simu (referencias acumulando).
+
+## [2026-11-15] ignored | FAV-492/493 playlists puras (relevo 1 Electromecanica)
+- FAV-492 (CURSO PLC LOGO! SIEMENS, PL04XX6UHHXqhJUByekClZgM2Akq0oolPI) y FAV-493 (LOGO! en CADESIMU, PL04XX6UHHXqhm5zIXlCC3uD2XAiuZzDIb): IGNORADAS definitivas — playlists puras, precedente FAV-401/404/421/427/447 (orden del usuario 2026-11-15). Sin fetch, sin presupuesto, sin contacto con YouTube.

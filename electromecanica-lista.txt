@@ -1,7 +1,7 @@
 - FAV-490 — [video] (Electromecanica/PLC) — Conceptos Básicos del Controlador de Lógica Programable - YouTube — https://www.youtube.com/watch?v=NPsepHRSCls ; PROCESADA 2026-11-15 relevo 1
 - FAV-491 — [video] (Electromecanica/PLC) — (300) COMO REALIZAR EL CABLEADO DE PLC LOGO 12/24RCE EXPLICADO - YouTube — https://www.youtube.com/watch?v=0gEZE2ubCZE ; PROCESADA 2026-11-15 relevo 1
-- FAV-492 — [playlist] (Electromecanica/PLC) — (189) CURSO PLC LOGO! de SIEMENS desde CERO - YouTube — https://www.youtube.com/playlist?list=PL04XX6UHHXqhJUByekClZgM2Akq0oolPI
-- FAV-493 — [playlist] (Electromecanica/PLC) — (189) LOGO! en CADESIMU - YouTube — https://www.youtube.com/playlist?list=PL04XX6UHHXqhm5zIXlCC3uD2XAiuZzDIb
+- FAV-492 — [playlist] (Electromecanica/PLC) — (189) CURSO PLC LOGO! de SIEMENS desde CERO - YouTube — https://www.youtube.com/playlist?list=PL04XX6UHHXqhJUByekClZgM2Akq0oolPI ; IGNORADA 2026-11-15 relevo 1 (playlist pura, precedente FAV-401/404)
+- FAV-493 — [playlist] (Electromecanica/PLC) — (189) LOGO! en CADESIMU - YouTube — https://www.youtube.com/playlist?list=PL04XX6UHHXqhm5zIXlCC3uD2XAiuZzDIb ; IGNORADA 2026-11-15 relevo 1 (playlist pura, precedente FAV-401/404)
 - FAV-494 — [video] (Electromecanica/PLC) — (189) Arranque Estrella Triangulo en PLC logo SIEMENS - YouTube — https://www.youtube.com/watch?v=zo-dp7Wk3QM
 - FAV-495 — [video] (Electromecanica/PLC) — (189) Cómo LEER un SENSOR ANALÓGICO (autosen - AP016) de 4–20 mA en PLC LOGO! - YouTube — https://www.youtube.com/watch?v=oK0rGYagn8s
 - FAV-496 — [video] (Electromecanica/PLC) — (189) Arranque estrella triangulo con PLC LOGO en cade simu. paso a paso. - YouTube — https://www.youtube.com/watch?v=cYQZbnc1BNQ
