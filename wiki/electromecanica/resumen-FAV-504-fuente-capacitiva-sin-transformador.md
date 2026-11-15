@@ -26,3 +26,7 @@ Proyecto y cálculo completo de una **fuente sin transformador** («transformerl
 - Contenido con patrocinio PCBWay (bloque largo a mitad del video) — excluido de la síntesis.
 - ASR con garbiñeos («cener/senner/zer» por zener, «X2» OK); normalizado solo aquí.
 - Canal Electgpl: 1 fuente. Umbral: **fuente capacitiva/sin transformador** ya tiene par en la lista (FAV-506 «Fuente capacitiva» siguiente) → concepto candidato al cierre. Cruces naturales: FAV-499/500/498.
+
+## Cruces
+
+- Pareja del umbral **fuente sin transformador** con [[resumen-FAV-506-fuente-capacitiva-aprenda-electronica]] (120 V, ~100 mA, zener + descarga 560 kΩ): mismo principio de reactancia capacitiva en dos redes y escalas → concepto candidato en la próxima consolidación. Contraste con [[resumen-FAV-505-cargador-baterias-fuente-pc]]: poca corriente vs fuente ATX de 16 A.

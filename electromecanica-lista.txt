@@ -13,11 +13,11 @@
 - FAV-502 — [video] (Electromecanica/Electronica) — Transistor Explicado - Cómo Funcionan los Transistores - YouTube — https://www.youtube.com/watch?v=zh7PeHAZRLY ; PROCESADA 2026-11-15 relevo 3
 - FAV-503 — [video] (Electromecanica/Electronica) — Cómo Funciona un MOSFET- Guía completa, entiéndelo como un PRO - YouTube — https://www.youtube.com/watch?v=4Dnx5YR9k-8&t=569s ; PROCESADA 2026-11-15 relevo 3
 - FAV-504 — [video] (Electromecanica/Proyectos) — Fuente Capacitiva sin Transformador - Cálculos y Pruebas - YouTube — https://www.youtube.com/watch?v=jI3v-zjCesw ; PROCESADA 2026-11-15 relevo 3
-- FAV-505 — [video] (Electromecanica/Proyectos) — Cargador Bateria con FUENTE DE COMPUTADORA! - YouTube — https://www.youtube.com/watch?v=hHH62ej2Bvc
-- FAV-506 — [video] (Electromecanica/Proyectos) — Fuente capacitiva — https://www.youtube.com/watch?v=yBCiz6xEB-4&t=760s
-- FAV-507 — [video] (Electromecanica/Proyectos) — Proyectos de electrónica con el transistor Bc547 - YouTube — https://www.youtube.com/watch?v=je-M9xYXjhg
-- FAV-508 — [video] (Electromecanica/Proyectos) — 25 Projects Using Transistor BC547 - YouTube — https://www.youtube.com/watch?v=Z2AGyuwoqVg&t=779s
-- FAV-509 — [video] (Electromecanica/Proyectos) — 6 Simple BC547 circuit - YouTube — https://www.youtube.com/watch?v=HzmM468w7eo
+- FAV-505 — [video] (Electromecanica/Proyectos) — Cargador Bateria con FUENTE DE COMPUTADORA! - YouTube — https://www.youtube.com/watch?v=hHH62ej2Bvc ; PROCESADA 2026-11-15 relevo 4
+- FAV-506 — [video] (Electromecanica/Proyectos) — Fuente capacitiva — https://www.youtube.com/watch?v=yBCiz6xEB-4&t=760s ; PROCESADA 2026-11-15 relevo 4 (&t ignorado por S4)
+- FAV-507 — [video] (Electromecanica/Proyectos) — Proyectos de electrónica con el transistor Bc547 - YouTube — https://www.youtube.com/watch?v=je-M9xYXjhg ; NO-SUBS 2026-11-15 relevo 4 (ASR solo [Música], video sin narración)
+- FAV-508 — [video] (Electromecanica/Proyectos) — 25 Projects Using Transistor BC547 - YouTube — https://www.youtube.com/watch?v=Z2AGyuwoqVg&t=779s ; NO-SUBS 2026-11-15 relevo 4 (meta-fail ×2 TranscriptsDisabled)
+- FAV-509 — [video] (Electromecanica/Proyectos) — 6 Simple BC547 circuit - YouTube — https://www.youtube.com/watch?v=HzmM468w7eo ; NO-SUBS 2026-11-15 relevo 4 (ASR solo [Música], video sin narración)
 - FAV-510 — [video] (Electromecanica/Proyectos) — 4 proyectos más útiles para reparadores de electrónica - YouTube — https://www.youtube.com/watch?v=KkAakh_cyQE
 - FAV-511 — [short] (Electromecanica/Proyectos) — Fotocelula a 220 con pocos componentes — https://www.youtube.com/shorts/jefSiaDgryo
 - FAV-512 — [video] (Electromecanica/Proyectos) — (594) Como hacer un DETECTOR DE METALES PI. Pirata Ruso Placa de PCBWAY - YouTube — https://www.youtube.com/watch?v=P6Yo4xhDs9k

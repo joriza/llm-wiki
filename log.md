@@ -2405,3 +2405,15 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Fuente capacitiva sin transformador (FAV-504, relevo 3 Electromecanica)
 - FAV-504 jI3v-zjCesw «Fuente Capacitiva sin Transformador - Cálculos y Pruebas» — Electgpl, ES-ASR 17:07. Resumen: wiki/electromecanica/resumen-FAV-504-fuente-capacitiva-sin-transformador.md; raw: raw/electromecanica/2026-11-15-fuente-capacitiva-sin-transformador.md. Umbral: fuente capacitiva/sin transformador (FAV-504 + FAV-506 pendiente) → concepto candidato al cierre. Cruces: FAV-498/499/500.
+
+## [2026-11-15] ingesta | Cargador de baterías desde fuente ATX (FAV-505, relevo 4 Electromecanica)
+- FAV-505 hHH62ej2Bvc «CONVIERTE TU FUENTE DE COMPUTADOR EN UN CARGADOR DE BATERIAS!» — Tecnologia y Soluciones, ES-ASR 33:16. Resumen: wiki/electromecanica/resumen-FAV-505-cargador-baterias-fuente-pc.md; raw: raw/electromecanica/2026-11-15-cargador-baterias-fuente-pc.md. Cruces: FAV-504 (contraste poca vs alta corriente), FAV-500/502.
+
+## [2026-11-15] ingesta | Fuente capacitiva 120 V (FAV-506, relevo 4 Electromecanica)
+- FAV-506 yBCiz6xEB-4 «DILE ADIOS A LAS FUENTES CON TRANSFORMADOR...» — Aprenda Electronica, ES-ASR 17:39 (&t=760s ignorado por S4). Resumen: wiki/electromecanica/resumen-FAV-506-fuente-capacitiva-aprenda-electronica.md; raw: raw/electromecanica/2026-11-15-fuente-capacitiva-aprenda-electronica.md. Umbral CUMPLIDO: **fuente sin transformador** (FAV-504 + 506) → concepto candidato en la próxima consolidación.
+
+## [2026-11-15] ingesta | NO-SUBS definitivos relevo 4 Electromecanica (FAV-507/508/509)
+- FAV-507 je-M9xYXjhg «Top 5 Electronics Projects with BC547» — ZAFER YILDIZ: fetch OK pero ASR solo [Música] (video sin narración) → NO-SUBS definitivo.
+- FAV-508 Z2AGyuwoqVg «25 Projects Using Transistor BC547» — meta-fail ×2 (TranscriptsDisabled, intento + re-pass) → NO-SUBS definitivo.
+- FAV-509 HzmM468w7eo «6 Simple BC547 circuit» — Tech Ideas: fetch OK pero ASR solo [Música] → NO-SUBS definitivo.
+- Ninguno produjo raw/resumen. Nota: los tres son del clúster BC547 — si el usuario pide re-pass con otro método (descarga de audio + ASR externo), FAV-507/509 son recuperables en principio.
