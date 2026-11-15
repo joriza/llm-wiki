@@ -27,7 +27,7 @@ Reducir el delay hasta encontrar el «número mágico» donde el ojo ya no perci
 
 ## Valor
 
-Curso introductorio correcto y didáctico: útil como referencia de vocabulario de placa (digital vs analógico, camelCase, setup/loop). Complementa el clúster Arduino del dominio (p. ej. [[resumen-FAV-364-microcontroladores-industria-mito-tr3bol]] como contraste conceptual) y precede a [[resumen-FAV-468-arduino-desde-cero-cap2-primer-programa-ide]] (otro «capítulo 2» de otro curso, superponible — nota de contraste en ese resumen). Canal Johann Perez E: 1 fuente (umbral no alcanzado).
+Curso introductorio correcto y didáctico: útil como referencia de vocabulario de placa (digital vs analógico, camelCase, setup/loop). Complementa el clúster Arduino del dominio (p. ej. [[resumen-FAV-364-microcontroladores-industria-mito-tr3bol]] como contraste conceptual) y precede a [[resumen-FAV-468-arduino-desde-cero-cap2-instalacion-ide-bitwise-ar]] (otro «capítulo 2» de otro curso, superponible — nota de contraste en ese resumen). Canal Johann Perez E: 1 fuente (umbral no alcanzado).
 
 ## Notas
 

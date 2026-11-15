@@ -39,7 +39,7 @@ Anthropic presentó el **27/8/2026 el Model Hardware Standard (MHS)** — un est
 
 ## Cruces
 
-- **Dominio destino previsto: `agentes-de-codigo/`** (hardware-agéntico/MCP — junto a [[hardware-agentico-mcp-first]], [[gentle-dot-asistente]] familia) o ia-uso-practico; decidir en consolidación.
+- **Dominio destino previsto: `agentes-de-codigo/`** (hardware-agéntico/MCP — junto a [[hardware-agentico-mcp-first]], [[resumen-WL082-gentle-dot-asistente]] familia) o ia-uso-practico; decidir en consolidación.
 - **[[hardware-agentico-mcp-first]] (WL-67/58/59…)**: actualización directa del clúster — MHS es el eslabón físico del mismo patrón MCP-first; cruza bidireccional en consolidación.
 - **[[reglas-cableadas-vs-programadas]] (WL-81)**: el «script determinista abajo, IA arriba» es exactamente el péndulo de WL-81 en su resolución moderna — cruce fuerte (el controlador rápido determinista ≈ el circuito cableado del Pong; la IA ≈ el software).
 - **WL-89 (MIT, IA op sobre pesos)**: tercer caso del tema «IA que genera lo determinista» (aquí: IA escribe el controlador; allí: IA repara pesos; ambos con «letter pequeña» honesta).

@@ -25,7 +25,7 @@ Tutorial de introducción a **Trivy**, escáner de vulnerabilidades open source 
 
 - **[[hardware-agentico-mcp-first]] / agentes**: no directo — cruce débil, omitir.
 - **Clúster seguridad/infraestructura**: primera fuente del corpus con el tema **seguridad de contenedores**; relacionado temáticamente con `informatica-teoria/` (redes, SSH/DNS) por su insistencia en buenas prácticas de configuración y exposición. Tema-candidato nuevo: **seguridad-contenedores-scan** (umbral 1/2 — pendiente de segunda fuente).
-- **Cruce conceptual con [[critica-tecnologica]]**: el mensaje «publicar servicios a internet directo = riesgo brutal, usar VPN» coincide con la postura operativa de este proyecto (acceso VPN, no puertos abiertos).
+- **Cruce conceptual con `critica-tecnologica/`**: el mensaje «publicar servicios a internet directo = riesgo brutal, usar VPN» coincide con la postura operativa de este proyecto (acceso VPN, no puertos abiertos).
 - Origen del video en el curso gratuito de Docker de 2 horas del mismo canal (referenciado en el video, no ingestado).
 
 ## Dominio

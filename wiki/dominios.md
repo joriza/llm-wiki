@@ -13,7 +13,7 @@ Análisis primigenio del usuario: los dominios `*-argentina` comparten el sujeto
 5. **Migraciones globales solo por dolor, no por lógica**: los renombres masivos se ejecutan cuando el costo operativo los justifica, no por coherencia estética — los invariants (enlaces por nombre, cruces, log) sobreviven cualquier reorganización.
 
 **Propuestas pendientes de decisión del usuario (registradas 2026-11-14, NO ejecutar sin confirmación)**:
-- (a) Unificar los 3 dominios `*-argentina` en un dominio único `argentina/` con sub-temas (`historia/`, `sociedad/`, `economia/`) y página-hub `[[argentina]]` — resuelve la multimembresía por país y debilita la sub-pregunta temporal de clasificación; alternativa liviana: renombrar con prefijo (`argentina-historia/` etc.). Costo: migración de 38 resúmenes + raws + índices.
+- (a) Unificar los 3 dominios `*-argentina` en un dominio único `argentina/` con sub-temas (`historia/`, `sociedad/`, `economia/`) y página-hub `argentina` (hub propuesto, no creado) — resuelve la multimembresía por país y debilita la sub-pregunta temporal de clasificación; alternativa liviana: renombrar con prefijo (`argentina-historia/` etc.). Costo: migración de 38 resúmenes + raws + índices.
 - (b) `economia-argentina/` es frágil (4 fuentes, 1 página, solapamiento natural con sociedad-argentina) — candidato a absorción si no acumula fuentes propias en próximos tramos (disparador 4.3).
 - (c) `sociedad-argentina/` vigilar umbral de ~30 fuentes (creció 11→22 en una pasada): candidato a división futuro (actualidad-política vs cultura-mediática).
 

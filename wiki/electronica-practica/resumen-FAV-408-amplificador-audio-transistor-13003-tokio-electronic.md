@@ -26,4 +26,4 @@ Construcción de un amplificador de audio minimalista de un solo transistor usan
 ## Cruces
 
 - [[transistor-bjt]] — el 13003 es un NPN bipolar; este es el primer uso del clúster como amplificador de señal (los resúmenes previos lo usaban como conmutador).
-- [[resumen-FAV-364-micros-industria-mito-tr3bol]] — contrapunto: en industria se argumenta que los microcontroladores sustituyen a estas soluciones discretas analógicas.
+- [[resumen-FAV-364-microcontroladores-industria-mito-tr3bol]] — contrapunto: en industria se argumenta que los microcontroladores sustituyen a estas soluciones discretas analógicas.

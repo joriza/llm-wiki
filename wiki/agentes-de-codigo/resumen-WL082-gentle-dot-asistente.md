@@ -29,7 +29,7 @@
 
 ## Cruces
 
-- **Dominio destino previsto: `agentes-de-codigo/`** — fuente central del eje Gentle AI. Cablear bidireccional con [[gentle-ai]], [[odd]], páginas de Engram si existen; probable **página de entidad `gentleman-programming`** (2+ fuentes en el corpus: WL-78 lo cita, WL-25 menciona DeepSeek; esta es la primera fuente SUYA).
+- **Dominio destino previsto: `agentes-de-codigo/`** — fuente central del eje Gentle AI. Cablear bidireccional con gentle-ai, odd, páginas de Engram si existen (páginas aún no creadas); probable **página de entidad `gentleman-programming`** (2+ fuentes en el corpus: WL-78 lo cita, WL-25 menciona DeepSeek; esta es la primera fuente SUYA).
 - **Cruce principal con WL-78** (Eric Risco sobre SDD/ODD): Risco describió ODD de oídas y lo criticó por la clasificación; este video es la contraparte — ODD «bitácora de capitán» usada para construir el producto. Par docu: **la misma metodología vista desde fuera y desde dentro** — candidato directo a página de concepto «ecosistema gentle-ai» o «reglas fuera del agente».
 - **Cruce de seguridad**: el principio «la regla fuera del agente» ↔ WL-68 (supervisión humana insostenible) y ↔ el patrón del eje: permisos, botón de pánico, PIN invisible = implementación concreta de «el agente no puede decidir sobre sí mismo» (también WL-80: «YOU ARE WRONG» — ownership de decisiones).
 - **Autoreferencia documental**: este mismo proyecto wiki corre sobre ese ecosistema (ODD, Engram, Pi) — registrar en la consolidación que la fuente describe la infraestructura con que se escribió el propio resumen.
