@@ -2569,3 +2569,6 @@ Fuente 7/11 (zngSuqCM4d8, Tailscale 2025-05-21, EN 20:13). Raw intacto a raw/sel
 
 ## [2026-11-15] ingesta | The cloud is over-engineered and overpriced
 Fuente 8/11 (jFrGhodqC08, Tom Delalande 2024-04-25, EN-ASR 14:39). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-7. Pieza de crítica de la nube + demo de despliegue self-hosted.
+
+## [2026-11-15] ingesta | Things I Stopped Self-Hosting (And Why Cloud Won in My Home Lab)
+Fuente 9/11 (-W-ayVXtFQs, VirtualizationHowto 2026-01-09, EN-ASR 15:03). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-8. Contrapunto directo de la fuente 8 (crítica de la nube).
