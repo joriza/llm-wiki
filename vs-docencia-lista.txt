@@ -28,8 +28,8 @@ FAV-437|Informatica|(211) ¿Realmente Necesitamos Tantos Lenguajes de Programaci
 FAV-438|Informatica|(211) ¿Qué es realmente internet? ¿Qué lo hace funcionar o caerse? - YouTube|https://www.youtube.com/watch?v=JhuiIzA5E2s&list=PL1xxJ0WcomPmIQp70j3rjPAZG5c7nqo36
 FAV-439|Informatica|(238) Las 8 Estructuras de Datos que TODO Programador Usa (Pero Nadie Explica Bien) - YouTube|https://www.youtube.com/watch?v=9ifwAPFxpu0
 FAV-440|Informatica|(238) Aprende SOLID en 5 minutos (explicado fácil) - YouTube|https://www.youtube.com/watch?v=vHDgTolPMGM
-FAV-441|Informatica|(238) Aprende a Programar 10X Más Rápido (Nadie Te Lo Dice) - YouTube|https://www.youtube.com/watch?v=4uIdvfwiEhc
-FAV-442|Informatica|TypeRacer - Learn to type in Spanish (Español)|https://play.typeracer.com/?universe=lang_es
+FAV-441|Informatica|(238) Aprende a Programar 10X Más Rápido (Nadie Te Lo Dice) - YouTube|https://www.youtube.com/watch?v=4uIdvfwiEhc ; PROCESADA 2026-11-15 (relevo 7)
+FAV-442|Informatica|TypeRacer - Learn to type in Spanish (Español)|https://play.typeracer.com/?universe=lang_es ; PROCESADA 2026-11-15 (relevo 7, web sin raw)
 FAV-443|Informatica|(396) ✅ Liberar espacio en Disco "C" | optimizar PC Windows 7,8,10, 11 (2025) - YouTube|https://www.youtube.com/watch?v=QjzAA-vRCp0
 FAV-444|Informatica|(396) ¿Cómo Quitar Protección Contra Escritura de Una USB en Windows? - YouTube|https://www.youtube.com/watch?v=NsaSKp2Lwaw&t=66s
 FAV-445|Informatica|Deep Freeze GRATIS? UWF: Filtro de Escritura Unificado / Activacion y configuracion básica amateur - YouTube|https://www.youtube.com/watch?v=lH82Nx3dHM4
