@@ -2164,3 +2164,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=vVC6XNASuvM. Canal ShellDredd Informática, 2023-07-04, 07:26, ES subs automáticos (ASR degradado).
 - **Raw**: raw/informatica/2026-11-15-lotus-123-shelddredd.md
 - **Resumen**: wiki/informatica/resumen-FAV-454-lotus-123-shelddredd.md
+
+## [2026-11-15] ingesta | FAV-455 — Arquivo .env: boas práticas, segurança (Adriano AOli - Tech)
+- **Fuente**: https://www.youtube.com/watch?v=u1sWHiMBQL0. Canal Adriano AOli - Tech, 2026-05-18, 26:10, PT subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-arquivo-env-boas-praticas-adriano-aoli.md
+- **Resumen**: wiki/informatica/resumen-FAV-455-arquivo-env-boas-praticas-adriano-aoli.md
