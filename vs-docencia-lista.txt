@@ -53,11 +53,11 @@ FAV-462 [DUPLICADO de FAV-461 — mismo video ucnV6Ib5wCA, procesada una sola ve
 FAV-463|Informatica|(458) ANÉCDOTA: Base de datos SIN RELACIONES y sin PK ☠️🔥Story Time - YouTube|https://www.youtube.com/watch?v=gNAQL-4hxUw
 FAV-464|Informatica|(459) ESTO es lo que pasó con los JUNIORS💣 - YouTube|https://www.youtube.com/watch?v=hlHJ8mqgo9E
 FAV-465|Informatica|(459) El secreto para que tu Base de Datos soporte miles de usuarios - YouTube|https://www.youtube.com/watch?v=UJnsiQk11Dc
-FAV-466 [PROCESADA 2026-11-15, relevo 12 T4]|Informatica|(459) El error con UUIDs que destruye el rendimiento de tu Base de Datos - YouTube|https://www.youtube.com/watch?v=KiuZT8XYYdw
-FAV-467 [PROCESADA 2026-11-15, relevo 12 T4]|Arduino|(3443) 💡Cómo PROGRAMAR arduino UNO desde CERO【 2021 】 - Capítulo #02🔋 - YouTube|https://www.youtube.com/watch?v=EEKMPT_YcTI&list=PLyLh25DppBIe40j3VBAslnVfs4Pz-B3ZB&index=3
-FAV-468 [PROCESADA 2026-11-15, relevo 12 T4]|Arduino|(3443) Arduino desde cero en Español - Capítulo 2 - Primer programa e Instalación del IDE de Arduino - YouTube|https://www.youtube.com/watch?v=GUuWgk3dXd0&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2&index=2
-FAV-469 [PROCESADA 2026-11-15, relevo 12 T4]|Arduino|(3443) #2.2 Simulador para Arduino [ UnoArduSim ] - Curso Arduino 💻 - YouTube|https://www.youtube.com/watch?v=ph0tcXAkOrQ&list=PLaOwYHXnu18u0p8888L_DiQNCE5Mcpp92&index=4
-FAV-470 [PROCESADA 2026-11-15, relevo 12 T4]|Arduino|(3443) CAP #15►👉 Sensor de DISTANCIA 👈| HC-SR04 - [Curso Arduino Español desde cero] - YouTube|https://www.youtube.com/watch?v=Oq2r66TLxZs&list=PLEzmH7aN82FEh2JjYuNCvFu6wFolHai32&index=15
+FAV-466|Informatica|(459) El error con UUIDs que destruye el rendimiento de tu Base de Datos - YouTube|https://www.youtube.com/watch?v=KiuZT8XYYdw ; PROCESADA 2026-11-15 (relevo 12 T4)
+FAV-467|Arduino|(3443) 💡Cómo PROGRAMAR arduino UNO desde CERO【 2021 】 - Capítulo #02🔋 - YouTube|https://www.youtube.com/watch?v=EEKMPT_YcTI&list=PLyLh25DppBIe40j3VBAslnVfs4Pz-B3ZB&index=3 ; PROCESADA 2026-11-15 (relevo 12 T4)
+FAV-468|Arduino|(3443) Arduino desde cero en Español - Capítulo 2 - Primer programa e Instalación del IDE de Arduino - YouTube|https://www.youtube.com/watch?v=GUuWgk3dXd0&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2&index=2 ; PROCESADA 2026-11-15 (relevo 12 T4)
+FAV-469|Arduino|(3443) #2.2 Simulador para Arduino [ UnoArduSim ] - Curso Arduino 💻 - YouTube|https://www.youtube.com/watch?v=ph0tcXAkOrQ&list=PLaOwYHXnu18u0p8888L_DiQNCE5Mcpp92&index=4 ; PROCESADA 2026-11-15 (relevo 12 T4)
+FAV-470|Arduino|(3443) CAP #15►👉 Sensor de DISTANCIA 👈| HC-SR04 - [Curso Arduino Español desde cero] - YouTube|https://www.youtube.com/watch?v=Oq2r66TLxZs&list=PLEzmH7aN82FEh2JjYuNCvFu6wFolHai32&index=15 ; PROCESADA 2026-11-15 (relevo 12 T4)
 FAV-471|Arduino|(3443) Curso de Arduino desde cero en Español - Capítulo 12 | pines analógicos como digitales - YouTube|https://www.youtube.com/watch?v=ESoZxL9RTUA&list=PLNipMBg3MF-ajxURuPcOtzeRpMjiyDqkj&index=14
 FAV-472|Arduino|(3448) ¡7 fantásticos simuladores de Arduino para 2026! - YouTube|https://www.youtube.com/watch?v=FFQk0DiTtPE
 FAV-473|Arduino|(356) Como cargar un programa en Arduino utilizando LD Micro y Xloader - YouTube|https://www.youtube.com/watch?v=VcrODftwUFc
