@@ -2782,3 +2782,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-10/2026-10-31-la-increible-ingenieria-detras-de-la-fibra-optica.md` (`TWGxp6Okogw`, Veritasium en español, 2026-10-31, 33:05).
 - **Resumen**: `wiki/wl/tramo-10/resumen-WL116-la-increible-ingenieria-detras-de-la-fibra-optica.md`.
 - **Decisiones**: dominio destino `general` (historia de la tecnología/infraestructura de red; S4 sin dominios nuevos); cruce con WL-111 (internet) diferido; bloque final de equipo/doblaje excluido. Consolidación diferida (L12).
+
+### CIERRE TRAMO 10 (2026-11-15, relevo 3 de gentle-ai-worker)
+
+- **5/5 fuentes ingestadas y committed** (WL-112..WL-116), 0 meta-fail, 0 skip, pre-flight dedupe limpio (633→638 ids en raw/). Commits por fuente: WL-112 `bd29524c`, WL-113 `ce04c543` (+ fila index correctiva `fda887f6`), WL-114 `16c526d5`, WL-115 `ee3900a0`, WL-116 `137e4eab`. Salida **45.239.32.215** (Proton UE, validada hoy) — 4 descargas consecutivas sin 429 (WL-112 ya estaba descargada en scratch), presupuesto suave 100 nunca alcanzado (L13). Estructura tramo (L12): `raw/wl/tramo-10/` + `wiki/wl/tramo-10/resumen-WL<NNN>-<slug>.md`, index.md con subcarpeta.
+- Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-112 general/sociedad-argentina (política exterior; sesgo satírico-opositor señalado); WL-113 general (herramienta cloud, límites 2 GB/archivo); WL-114 general (retrocomputing, arranque MS-DOS); WL-115 general (humor político — sketch 100 % ficcional, NO fuente informativa, cruce con WL-112); WL-116 general (historia de la tecnología, fibra óptica, cruce con WL-111).
+- Cierre registrado en hub `wiki/wl/indice-wl.md` (sección tramo 10, nota WL-112 de scratch retirada) y en `odd/tasks/ingesta-ver-mas-tarde.md` (T10 COMPLETADO). Última fuente del tramo: **WL-116** (`TWGxp6Okogw`). Próximo: T11 (WL-117..WL-121, relevo 4); consolidación de tramos 8-10 diferida según flujo L12.

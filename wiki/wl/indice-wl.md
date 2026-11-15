@@ -2,7 +2,7 @@
 
 Hub de lectura humana de la estación provisional `wl/`. Cada tramo del backlog «Ver más tarde» de YouTube se ingesta aquí y, en su consolidación por tramo, las fuentes migran a su dominio temático definitivo (reestructuración aprobada por el usuario, 2026-11-12). Los futuros tramos WL se ingestan directamente en `wl/`, organizados en subcarpetas por tramo con prefijo WL (regla del 2026-11-14, decisión del usuario): `wiki/wl/tramo-N/` y raws espejados en `raw/wl/tramo-N/` (ver `log.md`; flujo documentado en `odd/tasks/ingesta-ver-mas-tarde.md`).
 
-Contenido (2026-11-15, cierre del tramo 9): **10 resúmenes en la estación** — `wiki/wl/tramo-8/` (WL-102..WL-106, relevo 1) y `wiki/wl/tramo-9/` (WL-107..WL-111, relevo 2; raws espejados en `raw/wl/tramo-N/`). Historial de migraciones (detalle WL → dominio en `log.md`, bloques CONSOLIDACIÓN WL; las filas migradas viven en el historial git): los 25 pares de los tramos 1-2 migraron el 2026-11-13, los 25 pares de los tramos 5-6 el 2026-11-14 y los **60 pares de los tramos 3, 4 y 7 (WL-31..45, WL-46..60, WL-87..101) el 2026-11-14**, todos con `git mv` a sus dominios definitivos. Quedan **4 bajas definitivas (raws eliminados por decisión del usuario, 2026-11-13 — el registro permanece aquí y en `log.md` para el dedupe pre-flight)** (WL-1, WL-6, WL-9, WL-19) y **1 meta-fail sin fuente** (WL-13, re-pass); **1 SKIP definitivo sin subtítulos del tramo 6** (WL-83 `vKsjYdEAmNI` «Inki», marcador `.no-subs`).
+Contenido (2026-11-15, cierre del tramo 10): **15 resúmenes en la estación** — `wiki/wl/tramo-8/` (WL-102..WL-106, relevo 1), `wiki/wl/tramo-9/` (WL-107..WL-111, relevo 2) y `wiki/wl/tramo-10/` (WL-112..WL-116, relevo 3; raws espejados en `raw/wl/tramo-N/`). Historial de migraciones (detalle WL → dominio en `log.md`, bloques CONSOLIDACIÓN WL; las filas migradas viven en el historial git): los 25 pares de los tramos 1-2 migraron el 2026-11-13, los 25 pares de los tramos 5-6 el 2026-11-14 y los **60 pares de los tramos 3, 4 y 7 (WL-31..45, WL-46..60, WL-87..101) el 2026-11-14**, todos con `git mv` a sus dominios definitivos. Quedan **4 bajas definitivas (raws eliminados por decisión del usuario, 2026-11-13 — el registro permanece aquí y en `log.md` para el dedupe pre-flight)** (WL-1, WL-6, WL-9, WL-19) y **1 meta-fail sin fuente** (WL-13, re-pass); **1 SKIP definitivo sin subtítulos del tramo 6** (WL-83 `vKsjYdEAmNI` «Inki», marcador `.no-subs`).
 
 | WL | Título | Canal | Dominio destino previsto | Tramo | Estado |
 | --- | --- | --- | --- | --- | --- |
@@ -31,7 +31,17 @@ Contenido (2026-11-15, cierre del tramo 9): **10 resúmenes en la estación** �
 | WL-109 | Los seres vivos están empezando a comerse nuestra basura plástica (`iTd93ZngVgc`) | Astrovía | general (ecología/ambiente) | Resumen en `tramo-9/` |
 | WL-110 | 50 curiosidades de Les Luthiers (`eeuv_gca0G8`) | Capitán Milanesa | general (cultura argentina) | Resumen en `tramo-9/` |
 | WL-111 | Internet nunca volverá a ser como antes (`VqsmMAVeHco`) | Finanzas para todos | ia-critica-y-fronteras | Resumen en `tramo-9/` |
-| WL-112 | Milei, Trump y la fuga de Bolsonaro: el papelón internacional (`v4hYfc-gUCA`) | PDB | general / sociedad-argentina | RAW DESCARGADO en scratch, pendiente tramo 10 (cabeza de la ventana) |
+| WL-112 | Milei, Trump y la fuga de Bolsonaro: el papelón internacional (`v4hYfc-gUCA`) | PDB | general / sociedad-argentina | Resumen en `tramo-10/` |
+
+### Tramo 10 (2026-11-15, relevo 3 — WL-112..WL-116, pendiente consolidación)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-112 | Milei, Trump y la fuga de Bolsonaro: el papelón internacional (`v4hYfc-gUCA`) | PDB | general / sociedad-argentina | Resumen en `tramo-10/` |
+| WL-113 | ¿El fin de Google Drive? Descubrí una nube infinita y gratuita! (`yMFouvbvd4w`) | Compucenter33 | general (herramienta cloud) | Resumen en `tramo-10/` |
+| WL-114 | TODO lo que pasa HASTA C:\ \|\| El ÉPICO arranque de los PC retro (`a1csv05WWdM`) | PC Clásico | general (retrocomputing) | Resumen en `tramo-10/` |
+| WL-115 | CAFÉ CON JAVO: ¿Ayudó a Bolsonaro? ¿Lo golpearon en CATAMARCA? (`6MLzI2Pgl0s`) | PDB | general (humor político, ficción) | Resumen en `tramo-10/` |
+| WL-116 | La Increíble Ingeniería Detrás de la Fibra Óptica (`TWGxp6Okogw`) | Veritasium en español | general (historia de la tecnología) | Resumen en `tramo-10/` |
 
 ## Cómo leer esta tabla
 
