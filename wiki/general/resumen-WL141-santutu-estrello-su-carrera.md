@@ -29,3 +29,4 @@ Análisis de la implosión pública del streamer argentino Santutu (Santiago Rod
 - [23:00] «Si fuera la primera vez te la compro, pero cuando ya hay antecedentes… no es un accidente, es una consecuencia».
 
 ---
+- **Entidad**: [[themateoteo]] — canal creado como entidad en la consolidación T39 (2026-11-15); esta es la fuente precedente (WL-141) del clúster WL-156/158/159/161.

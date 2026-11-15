@@ -2,7 +2,7 @@
 
 Hub de lectura humana de la estación provisional `wl/`. Cada tramo del backlog «Ver más tarde» de YouTube se ingesta aquí y, en su consolidación por tramo, las fuentes migran a su dominio temático definitivo (reestructuración aprobada por el usuario, 2026-11-12). Los futuros tramos WL se ingestan directamente en `wl/`, organizados en subcarpetas por tramo con prefijo WL (regla del 2026-11-14, decisión del usuario): `wiki/wl/tramo-N/` y raws espejados en `raw/wl/tramo-N/` (ver `log.md`; flujo documentado en `odd/tasks/ingesta-ver-mas-tarde.md`).
 
-Contenido (2026-11-15, consolidación de los tramos 8-17): **0 resúmenes en la estación**. Historial de migraciones (detalle WL → dominio en `log.md`, bloques CONSOLIDACIÓN WL; las filas migradas viven en el historial git): los 25 pares de los tramos 1-2 migraron el 2026-11-13, los 25 pares de los tramos 5-6 el 2026-11-14, los **60 pares de los tramos 3, 4 y 7 (WL-31..45, WL-46..60, WL-87..101) el 2026-11-14** y los **49 pares útiles de los tramos 8-17 (WL-102..WL-151; 1 SKIP `.no-subs` WL-136) el 2026-11-15**, todos con `git mv` a sus dominios definitivos. Quedan **4 bajas definitivas (raws eliminados por decisión del usuario, 2026-11-13 — el registro permanece aquí y en `log.md` para el dedupe pre-flight)** (WL-1, WL-6, WL-9, WL-19), **1 meta-fail sin fuente** (WL-13, re-pass), **1 SKIP definitivo sin subtítulos del tramo 6** (WL-83 `vKsjYdEAmNI` «Inki», marcador `.no-subs`) y **1 SKIP definitivo sin subtítulos del tramo 14** (WL-136 `fh8f3UdpWzU`, GP Vods, marcador `.no-subs`). Los tramos 8-17 figuran como **consolidados**; las secciones de los tramos 18-37 siguen pendientes de consolidación (T39-T40).
+Contenido (2026-11-15, consolidación de los tramos 8-17): **0 resúmenes en la estación**. Historial de migraciones (detalle WL → dominio en `log.md`, bloques CONSOLIDACIÓN WL; las filas migradas viven en el historial git): los 25 pares de los tramos 1-2 migraron el 2026-11-13, los 25 pares de los tramos 5-6 el 2026-11-14, los **60 pares de los tramos 3, 4 y 7 (WL-31..45, WL-46..60, WL-87..101) el 2026-11-14** los **49 pares útiles de los tramos 8-17 (WL-102..WL-151; 1 SKIP `.no-subs` WL-136) el 2026-11-15** y los **51 pares útiles de los tramos 18-27 (WL-152..WL-203; 5 SKIP `.no-subs`: WL-157 y 4 videos eliminados sin número) el 2026-11-15 (T39)**, todos con `git mv` a sus dominios definitivos. Quedan **4 bajas definitivas (raws eliminados por decisión del usuario, 2026-11-13 — el registro permanece aquí y en `log.md` para el dedupe pre-flight)** (WL-1, WL-6, WL-9, WL-19), **1 meta-fail sin fuente** (WL-13, re-pass), **1 SKIP definitivo sin subtítulos del tramo 6** (WL-83 `vKsjYdEAmNI` «Inki», marcador `.no-subs`) y **1 SKIP definitivo sin subtítulos del tramo 14** (WL-136 `fh8f3UdpWzU`, GP Vods, marcador `.no-subs`). Los tramos 8-27 figuran como **consolidados**; las secciones de los tramos 28-37 siguen pendientes de consolidación (T40).
 
 | WL | Título | Canal | Dominio destino previsto | Tramo | Estado |
 | --- | --- | --- | --- | --- | --- |
@@ -16,126 +16,7 @@ Contenido (2026-11-15, consolidación de los tramos 8-17): **0 resúmenes en la 
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
 - **Estado «Meta-fail»**: descarga fallida de metadatos (bot-check ×2, regla del tramo 1); sin raw ni resumen; acumulado en re-pass.
-- Las filas «Pendiente consolidación» se retiraron al migrar cada fuente con `git mv` a su dominio definitivo (tramos 1-2: 2026-11-13; tramos 5-6 y 3-4-7: 2026-11-14). Los futuros tramos WL se ingestan directamente en `wl/` y esta tabla vuelve a crecer con el próximo tramo.
-
-### Tramo 18 (2026-11-15, relevo 11 — 5 fuentes útiles desde la cabeza, pendiente consolidación)
-
-| WL | Título | Canal | Dominio destino previsto | Estado |
-| --- | --- | --- | --- | --- |
-| WL-152 | EL ACOSO fue PEOR de lo que PENSABAN — Caso Bullying Catamarca (`7eI3D54Raig`) | LeanRiccio | general/sociedad-argentina (análisis jurídico de caso social) | Resumen en `tramo-18/` |
-| WL-153 | Hoy les vuelo la peluca (`_Ex50pLRnXY`) | Gentleman Programming Vods | ia-uso-practico/agentes-de-codigo (ecosistema Gentle Shell — fuente interna) | Resumen en `tramo-18/` |
-| WL-154 | Espié a mi IA local… y descubrí algo INESPERADO (`WdOLEwGuEN8`) | Cognix | ia-uso-practico/ia-local (seguridad; cruces WL-147/WL-132/WL-150) | Resumen en `tramo-18/` |
-| WL-155 | Los 7 lenguajes de programación MÁS RAROS (`ZlfY3tF3qBY`) | LinuxChad | general (historia/cultura de la programación) | Resumen en `tramo-18/` |
-| WL-156 | Florencia vs Lizy: la verdad incómoda que nadie se anima a decir (`w5DnMsCZ4K4`) | Themateoteo | general/sociedad-argentina (NO fuente factual, señalado) | Resumen en `tramo-18/` |
-
-### Tramo 19 (2026-11-15, relevo 12 — 5 fuentes útiles desde la cabeza, pendiente consolidación)
-
-| WL | Título | Canal | Dominio destino previsto | Estado |
-| --- | --- | --- | --- | --- |
-| WL-158 | Martín Cirio Rompió con Todo (`xrXEI_AUYic`) | Themateoteo | general/sociedad-argentina (NO fuente factual, señalado) | Resumen en `tramo-19/` |
-| WL-159 | INFLUENCERS de cocina vs COCINAR de verdad (`sp1f6LMU_s4`) | Themateoteo | general/sociedad-argentina (NO fuente factual, señalado) | Resumen en `tramo-19/` |
-| WL-160 | TODAS las HERRAMIENTAS DevOps en 24 minutos (`vQ4OOw63svs`) | TecnoCroquis | ia-uso-practico/agentes-de-codigo o general (herramientas dev) | Resumen en `tramo-19/` |
-| WL-161 | ¡SE LE ACABÓ EL SHOW A VIVIANA CANOSA! (`1owxolZN1QQ`) | Themateoteo | general/sociedad-argentina (NO fuente factual, señalado; cruce WL-156) | Resumen en `tramo-19/` |
-| WL-162 | Lo que va a reemplazar a tu laptop ya está en tu bolsillo (`lgC7MZS_R30`) | Titanes Tecnológicos | general (historia de la tecnología/industria; cruces WL-138/WL-122) | Resumen en `tramo-19/` |
-
-Notas del tramo: WL-157 (`npVBnrL-y-4`, El Presto) SKIP definitivo `.no-subs`; el tramo queda encabezado por la cuádruple presencia de Themateoteo (WL-158/159/161 + precedente WL-156) — candidata a entidad de canal en consolidación.
-
-### Tramo 20 (2026-11-15, relevo 13 — ventana de 5 útiles desde la cabeza; se procesaron 7 útiles por sobregiro reportado, pendiente consolidación)
-
-| WL | Título | Canal | Dominio destino previsto | Estado |
-| --- | --- | --- | --- | --- |
-| WL-163 | ¿ARGENTINA es de los países más POBRES de LATINOAMÉRICA? (`Z-2AmgbpHe4`) | Ciudadano news | general/sociedad-argentina (entrevista Schteingart/Fundar — opinión del entrevistado señalada) | Resumen en `tramo-20/` |
-| WL-164 | Lo Que Nadie Te Cuenta Sobre Tu Cuerpo Después de los 50 (`PV7vWFZDHEU`) | Somos Mente en Calma | general (salud/longevidad — divulgación sin citas, señalado) | Resumen en `tramo-20/` |
-| WL-165 | Google Harness 2: Cómo Crear Agentes de IA que Aprenden Solos (`Rrwnak3RRIw`) | InzideTech | ia-uso-practico/agentes-de-codigo (fuente secundaria; cruces [[deepseek-harness]], WL-153, WL-132) | Resumen en `tramo-20/` |
-| WL-166 | VirtualDJ 2026: El software que NADIE respetaba ahora sorprende a todos (`wTZkkpN70g0`) | Portal DJ | general (historia del software/industria DJ; cruces WL-162/WL-158) | Resumen en `tramo-20/` |
-| WL-167 | «La mitad de la memoria que tengo debe ser un don que me dio Dios»: Alejandro Gardinetti (`FWSgULNMHSQ`) | Urbana Play 104.3 FM | general/sociedad-argentina (humor — NO fuente factual; cruce WL-149) | Resumen en `tramo-20/` |
-| WL-168 | Fenómeno pañal: Milei se desgració (`go8Yx612mhs`) | Emanuel Rodríguez (Peroncho Delivery) | general/sociedad-argentina (opinión militante — NO fuente factual; cruces WL-125/WL-146) | Resumen en `tramo-20/` |
-| WL-169 | Cómo Hacer una Ducha Caliente Sin usar Gas ni Electricidad (`Jq2ghiA6ncI`) | El Profeturo | general (bricolaje/energía — tecno-folklore NO verificado, señalado) | Resumen en `tramo-20/` |
-
-Notas del tramo: ventana completa (WL-163..WL-167) cerrada en WL-167; WL-168 y WL-169 procesadas por sobregiro del bucle (error de conteo del relevo, reportado al orquestador). 0 meta-fail, 0 skip, sin 429. WL-169 es candidato a baja (triage del usuario, regla de baja de fuente).
-
-### Tramo 21 (2026-11-15, relevo 14 — ventana de 5 útiles desde la cabeza, cerrada exactamente en frontera)
-
-| WL | Título | Canal | Dominio destino previsto | Estado |
-| --- | --- | --- | --- | --- |
-| WL-170 | Mejora tu flujo de trabajo en la terminal con estas 10 CLI (`8VKy05wcZW4`) | CodeSimple | ia-uso-practico/agentes-de-codigo o general (herramientas dev; cruces LM Fit ↔ [[hardware-para-ia-local]], Worktrunk ↔ [[agentes-de-codigo]]) | Resumen en `tramo-21/` |
-| WL-171 | Ray Dalio ADVIERTE: «Se ACERCA algo PEOR que un COLAPSO económico» (`XTbg8rxy_V8`) | Arte de invertir | general (finanzas/inversión — NO fuente primaria, marco promocional del canal, señalado) | Resumen en `tramo-21/` |
-| WL-172 | ¿Flema Pegada que NO sale? No es Moco, es PEPSINA (`xjJRmH1V_Rs`) | Dr. Alberto Sanagustín | general (salud/divulgación médica) | Resumen en `tramo-21/` |
-| WL-173 | ¿Llegará una ERA GLACIAL tras el MONSTRUOSO EL NIÑO? (`GJF8sZC2hsc`) | AstroTim Español | general (divulgación científica/clima — título clickbait desalineado, señalado) | Resumen en `tramo-21/` |
-| WL-174 | Windows 11 + Linux + Android en 1 Solo Sistema \| WinUX 11 LTSC (`3-mwREsdKfQ`) | Soy David PC Tech | general (tecnología/software) o ia-uso-practico (herramientas) | Resumen en `tramo-21/` |
-| WL-175 | Viejo amplificador frente al LM386: ¿qué ha cambiado? \|\| TAA611 (`hPqKNT5P02A`) | En Clave de Retro | general (electrónica/retrocomputing; cruce WL-114) | Resumen en `tramo-21/` |
-
-Notas del tramo: 5/5 útiles exactos (WL-170..WL-175), 0 meta-fail, 0 skip, sin 429 — cierre en frontera sin sobregiro (corrección del error de conteo de T20). Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas. Consolidación diferida (L12).
-
-### Tramo 22 (2026-11-15, relevo 15 — ventana de 5 útiles desde la cabeza, cerrada exactamente en frontera)
-
-| WL | Título | Canal | Dominio destino previsto | Estado |
-| --- | --- | --- | --- | --- |
-| WL-176 | La estupidez humana no reconoce límites (y yo tengo pruebas) (`dKBqYYXaZB0`) | Roxana Kreimer | general (humor/ensayo — NO fuente factual, señalado; cruce WL-121 misma autora) | Resumen en `tramo-22/` |
-| WL-177 | Por qué el hackeo a PHP es el fin del internet abierto (`F3EmYmJjIoQ`) | Platzi | general o ia-critica-y-fronteras (seguridad/ciber — fuente secundaria, marco comercial Platzi y afirmaciones sin verificación señalados; cruces WL-147/WL-132, [[deepseek-harness]]) | Resumen en `tramo-22/` |
-| WL-178 | Así se programa con agentes de IA en 2026 (`wrhTDWv66kQ`) | Eric Risco \| Inteligencia Artificial | ia-uso-practico/agentes-de-codigo (primera mano, autopromoción señalada; cruces [[agentes-de-codigo]], [[obsidian-memoria-agentes]], WL-147) | Resumen en `tramo-22/` |
-| WL-179 | 15 Sistemas de Organización Que te Elevan del Caos al Top 1% Mundial (`uTlJlozyoNw`) | InvernovAH - Álvaro H. Jarque | general (productividad — patrocinio HubSpot excluido, título clickbait señalado; cruces [[obsidian-memoria-agentes]], [[odd-metodologia]], WL-178) | Resumen en `tramo-22/` |
-| WL-180 | Programar con agentes ya no basta: monta tu Software Factory (`p6nnqerea7w`) | Eric Risco \| Inteligencia Artificial | ia-uso-practico/agentes-de-codigo (continuación WL-178; autopromoción y cifras sin verificar señaladas; cruces [[agentes-de-codigo]], WL-165, WL-177) | Resumen en `tramo-22/` |
-
-Notas del tramo: 5/5 útiles exactos (WL-176..WL-180), 0 meta-fail, 0 skip, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas. Eric Risco ×2 en la ventana (WL-178/180) — candidata a entidad de canal en consolidación. Consolidación diferida (L12).
-
-## Tramo 23 (2026-11-15, relevo 16)
-
-| # | Título | Fuente | Dominio previsto | Resumen |
-|---|--------|--------|------------------|---------|
-| WL-181 | SE ACABÓ EL SOFTWARE (`NNWfRubvM5o`) | DotTech-ES | ia-critica-y-fronteras o general (industria software/IA; cruces WL-177, WL-165, [[agentes-de-codigo]]) | Resumen en `tramo-23/` |
-| WL-182 | Manaos: La Gaseosa mas polémica de Argentina (`8_OsOsEnidQ`) | Andru - Impetu | general/sociedad-argentina (historia empresarial; marco dramatizado señalado; cruce WL-110) | Resumen en `tramo-23/` |
-| WL-183 | La Traición que DESTRUYÓ a Anonymous para siempre (`IDdFTlLXnz0`) | Historias De Hackers | general o ia-critica-y-fronteras (ciberseguridad; docudrama señalado; cruces WL-177/WL-150, WL-128) | Resumen en `tramo-23/` |
-| WL-184 | ¿El Peronismo en su Crisis Terminal? De Trabajadores a Femboys (`KOFb3PqAjc4`) | Los Herederos de Alberdi | general/sociedad-argentina (opinión militante — NO fuente factual, señalado en triage; cruces WL-119/WL-123/WL-146) | Resumen en `tramo-23/` |
-| WL-185 | Me equivoqué, NO uses Spec Driven Development (`5JjuF1zpNbI`) | HolaMundo | ia-uso-practico/agentes-de-codigo (primera mano; cruces [[agentes-de-codigo]], [[odd-metodologia]], WL-178/WL-180/WL-165) | Resumen en `tramo-23/` |
-
-Notas del tramo: 5/5 útiles exactos (WL-181..WL-185), 1 SKIP definitivo sin subtítulos (video eliminado `PK0qQyd4QqA`), 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas + 1 skip. Consolidación diferida (L12).
-
-## Tramo 24 (2026-11-15, relevo 17)
-
-| # | Título | Fuente | Dominio previsto | Resumen |
-|---|--------|--------|------------------|---------|
-| WL-186 | 20 Trucos de Cocina que Descubrí Demasiado Tarde! (`kV_5yDtDWnA`) | Astiavo | general (vida diaria; afirmaciones sin verificación señaladas en triage) | Resumen en `tramo-24/` |
-| WL-187 | Código Morse 2 antes de GTA 6 (`L_up4wNCoNI`) | Eze Martínez | general (criptografía ligera/cultura pop; título meme, contenido correcto en lo esencial) | Resumen en `tramo-24/` |
-| WL-188 | Automatic Water Tank Filler Using 555 Timer (`T7Jy082bmz4`) | Wirecora | general (electrónica/diy; Short de 6 s sin narración — candidata a baja por triage, ítem 17) | Resumen en `tramo-24/` |
-| WL-189 | ¿Es el Final de los LLMs? (NCM) (`LKBe_Z2A0fU`) | Marfil Lab | ia-uso-practico o ia-critica-y-fronteras (análisis de preprints con verificación propia; cruces WL-132/WL-122) | Resumen en `tramo-24/` |
-| WL-190 | Por qué ser solo "BUENA PERSONA" te condena al fracaso (Teoría de Juegos) (`hBYxZP38kRE`) | No es Posible | general (teoría de juegos/economía del comportamiento; título clickbait señalado; cruces concepto dilema del prisionero) | Resumen en `tramo-24/` |
-
-Notas del tramo: 5/5 útiles exactos (WL-186..WL-190), 1 SKIP definitivo sin subtítulos (`y3Y5VJ4BzKs`, Parallel Parking), 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas + 1 skip, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12).
-
-## Tramo 25 (2026-11-15, relevo 18)
-
-| # | Título | Fuente | Dominio previsto | Resumen |
-|---|--------|--------|------------------|---------|
-| WL-191 | Cancún: torres de $50 millones se quedan sin playa — y México no va a salvarlas (`XtZJxqdDBjU`) | Cimientos de Lujo | general (infraestructura/costas; marco editorial fuerte, cifras sin fuente primaria señaladas; cruces WL-118/WL-142/WL-126, WL-173) | Resumen en `tramo-25/` |
-| WL-192 | El Chip De IBM De 12 Nm Ridiculiza A Nvidia De 4 Nm (`aGFaZF81Fz8`) | Marfil Lab | ia-uso-practico o general (hardware IA — NorthPole, memoria-cálculo integrados; cruces WL-189/WL-122/WL-144, [[hardware-para-ia-local]]) | Resumen en `tramo-25/` |
-| WL-193 | Escándalo por el oro: ex-asesora de Javier Milei DESTROZA a Toto Caputo (`dugJVQSmwt8`) | Canal EY! \| Streaming | general/sociedad-argentina (opinión militante — NO fuente factual, señalado en triage; cruces WL-123/WL-146/WL-184) | Resumen en `tramo-25/` |
-| WL-194 | IA evaluación de aprendizajes, Ana Henriquez Orrego (`ONachuv2f0k`) | Ana Henriquez Orrego (webinar UDLA) | general (educación/IA) o ia-critica-y-fronteras (evaluación resiliente a la IA; cruces WL-31, [[odd-metodologia]], [[agentes-de-codigo]]) | Resumen en `tramo-25/` |
-| WL-195 | Mayra Arena con Romina Manguel: pobreza, marginalidad y la nueva realidad social (`tCsMElWO_NQ`) | Splendid AM 990 | general/sociedad-argentina (análisis social con testimonio; cifras sin fuente exacta señaladas; cruces WL-163, cluster videoensayos sociales) | Resumen en `tramo-25/` |
-
-Notas del tramo: 5/5 útiles exactos (WL-191..WL-195), 2 SKIP definitivos sin subtítulos (videos eliminados `lmoryhSH6zA` y `pIBI6AYFQWY`, marcadores .no-subs), 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas + 2 skips, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L22: 42/50 útiles.
-
-## Tramo 26 (2026-11-15, relevo 19)
-
-| # | Título | Fuente | Dominio previsto | Resumen |
-|---|--------|--------|------------------|---------|
-| WL-196 | ¿Por qué una coreana preferiría vivir en Argentina que en Seúl? (`jc3zF3hyZaQ`) | La 100 | general/sociedad-argentina (entrevista biográfico-cultural Shini — llegada consular por azar, almacén familiar, ISER; sin datos duros, señalado en triage) | Resumen en `tramo-26/` |
-| WL-197 | Cómo un barco burló a 42 navíos y cientos de cañones (`SIj9VZCfUQY`) | Веер Империй | general (historia pirata/docudrama — Bartholomew Roberts, Bahía de Todos os Santos 1719, traición de Kennedy; marco narrativo dramatizado señalado) | Resumen en `tramo-26/` |
-| WL-198 | La Física Cuántica: la explicación completa (`SCESF9Ie38Q`) | Ciencia Explicada | general (divulgación científica — cuerpo negro, Einstein, Born, mitos desmontados, interpretaciones abiertas; sin citas primarias señalado; cruces WL-132/WL-189 cluster IA-crítica) | Resumen en `tramo-26/` |
-| WL-199 | Nos quieren hacer creer que esto es progreso (`Bi5zxQihVhQ`) | Puchito Cine | general/sociedad-argentina (videoensayo trabajo y cine — seis películas, derechos como conquista, tecnofeudalismo; NO fuente factual, señalado en triage) | Resumen en `tramo-26/` |
-| WL-200 | Verbatim: ¿por qué fracasó el gigante de los disquetes? (`WHwIah-LmC8`) | Archivo Tecnológico | general (historia de la tecnología — garantía de 5 años como salvación y trampa, Kodak/Mitsubishi/CMC; cruces WL-117 Autodesk) | Resumen en `tramo-26/` |
-
-Notas del tramo: 5/5 útiles exactos (WL-196..WL-200), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L22: **47/50 útiles**.
-
-## Tramo 27 — cierre del pedido L22 (WL-201..WL-203)
-
-| # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
-|---|--------|--------|------------------|---------|
-| WL-201 | Lo que Argentina Oculta en sus Provincias — 25 Datos (`YNq6QK2I2wI`) | MUNDO INSÓLITO | general o general/sociedad-argentina (divulgación geográfica listicle — 25 datos por provincia; sin citas primarias, señalado) | Resumen en `tramo-27/` |
-| WL-202 | Argentina: 20 Secretos Geográficos Que Parecen Mentira (`iC7MSnz1n24`) | Planeta al Descubierto | general o general/sociedad-argentina (divulgación geográfica — 20 datos; SOLAPA FUERTE con WL-201, candidato a concepto único; discrepancia Campo del Cielo a armonizar) | Resumen en `tramo-27/` |
-| WL-203 | Claude Opus 5.5: La revolución en la creación de videos (`sHfxp_AVRlw`) | Melina Blanco | ia-uso-practico/agentes-de-codigo (demo skills + Claude Code para video; marco comercial de comunidad de pago, señalado; cruces WL-153/WL-165/WL-178) | Resumen en `tramo-27/` |
-
-Notas del tramo: 3/3 útiles exactos (WL-201..WL-203), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin cuarto ciclo (TRAMO FINAL del pedido L22). Salida 45.239.32.215 (Proton UE, validada hoy), 3 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). **PEDIDO L22 CERRADO: 50/50 útiles.**
+- Las filas «Pendiente consolidación» se retiraron al migrar cada fuente con `git mv` a su dominio definitivo (tramos 1-2: 2026-11-13; tramos 5-6 y 3-4-7: 2026-11-14; tramos 8-27: 2026-11-15). Los futuros tramos WL se ingestan directamente en `wl/` y esta tabla vuelve a crecer con el próximo tramo.
 
 ## Tramo 37 — relevo 30 (WL-254..WL-257, TRAMO FINAL del pedido L23)
 

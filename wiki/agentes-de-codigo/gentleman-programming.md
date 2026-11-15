@@ -38,3 +38,5 @@ Su argumento de fondo: los LLM son probabilísticos, así que el valor del arné
 - [[ambiguedad-rellenada-por-el-sistema]] — «reglas fuera del agente» como respuesta al hueco de spec.
 - [[hardware-agentico-mcp-first]] — el proxy MCP de Gentle Dot como frontera de permisos.
 - Externa: [[resumen-WL078-ninguna-metodologia-correcta]] (Eric Risco, en tránsito tramo 6) describe y critica ODD de oídas — par docu «la misma metodología vista desde fuera y desde dentro».
+
+Consolidación T39 (2026-11-15): **WL-153** ([[resumen-WL153-hoy-les-vuelo-la-peluca-gentle-design-stream]], stream Vods de 2 h) — **Gentle Design**: diseño agéntico con cualquier proveedor, system design automático, modo comentario, integración ODD, nueva landing + open data (~70 M ejecuciones sin verificar, señalado), seguridad del streamer (cookies en partición virtual extraíble) y terminal pi customizada de una colaborada; fuente interna de primera mano del ecosistema, pareja de WL-82 (Gentle Dot) y WL-137 (Gentle Shell 4).

@@ -2,13 +2,17 @@
 
 - **Tipo**: página de concepto (clúster transversal).
 - **Dominio**: `general/` (creada en la consolidación de los tramos 8-17, 2026-11-15).
-- **Fuentes (3, umbral ≥2)**: [[resumen-WL114-todo-lo-que-pasa-hasta-c-el-epico-arranque-de-los-pc-retro]] (WL-114, PC Clásico) · [[resumen-WL116-la-increible-ingenieria-detras-de-la-fibra-optica]] (WL-116, Veritasium) · [[resumen-WL117-la-historia-de-autodesk-la-empresa-que-llevo-el-dieno-de-ingenieria-al-pc]] (WL-117, Reliquias Tecnológicas).
+- **Fuentes (6, umbral ≥2)**: [[resumen-WL114-todo-lo-que-pasa-hasta-c-el-epico-arranque-de-los-pc-retro]] (WL-114, PC Clásico) · [[resumen-WL116-la-increible-ingenieria-detras-de-la-fibra-optica]] (WL-116, Veritasium) · [[resumen-WL117-la-historia-de-autodesk-la-empresa-que-llevo-el-dieno-de-ingenieria-al-pc]] (WL-117, Reliquias Tecnológicas) · [[resumen-WL162-lo-que-va-a-reemplazar-a-tu-laptop]] (WL-162, Titanes Tecnológicos) · [[resumen-WL166-virtualdj-2026-software-infravalorado]] (WL-166, Portal DJ) · [[resumen-WL200-verbatim-disquetes]] (WL-200, Archivo Tecnológico) — últimas tres añadidas en la consolidación T39 (2026-11-15).
 
 El clúster reúne las fuentes divulgativas que reconstruyen **cómo se apiló la tecnología moderna**, cada una en una capa distinta de la misma pila:
 
 - **Capa física** (WL-116): la fibra óptica — del límite del cobre (efecto pelicular, Shannon-Hartley) a la apuesta de Kao contra la sabiduría de la época, Corning 1970 y el primer cable transatlántico (1988); la infraestructura que hizo posible todo lo demás.
 - **Capa de arranque/software de sistema** (WL-114): qué pasa exactamente entre el pulso de encendido y el prompt de MS-DOS — BIOS/POST, sector de arranque, MBR, la tríada IO.SYS/MSDOS.SYS/COMMAND.COM; el ritual que cada PC retro repite.
 - **Capa de aplicación/industria** (WL-117): AutoCAD y Autodesk — del delineante a la mesa de dibujo al PC, la disputa de autoría (Interact de Mike Riddle), DXF/AutoLISP como apertura estratégica y el IPO de 1985 sin VC.
+
+**Capa de producto/mercado** (añadida en T39): tres fuentes sobre lo que pasa DESPUÉS de que la tecnología se convierte en producto — **WL-200**: Verbatim, el gigante de los disquetes que no sobrevivió a la commoditización del formato que él mismo estandarizó (licencia IBM 1973, garantía de 5 años, venta a Kodak/Mitsubishi/CMC); **WL-166**: VirtualDJ, el software infravalorado que remontó el estigma (Atomix MP3 → stems IA 2021, 2 años de ventaja) pese a las barreras comerciales del ecosistema DJ; **WL-162**: la laptop como nueva BlackBerry — un dispositivo no muere por una versión mejor de sí mismo sino cuando otro «se traga» su función (chips de móvil en laptops, MacBook Neo con A18 Pro, Gartner: segmento <500 $ desaparece hacia 2028).
+
+**Hilo añadido**: el patrón cambia de escala en la capa de producto — la hazaña de ingeniería (capa física/aplicación) es la parte fácil; sobrevivir a la estandarización, la piratería y el reemplazo generacional es donde fracasan las empresas (Verbatim, BlackBerry) o remontan contra el estigma (VirtualDJ).
 
 **Hilo transversal**: en las tres capas el patrón se repite — una idea que los contemporáneos dan por imposible o innecesaria (vidas ultra-transparentes, dibujar sin mesa, arrancar desde un disquete), un puñado de ingenieros que la resuelven con detalle, y la estandarización posterior (DWG, ATX/BIOS, G.652) que convierte la hazaña en infraestructura invisible.
 
