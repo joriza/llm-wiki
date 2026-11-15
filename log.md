@@ -2044,3 +2044,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - Fuente: https://www.youtube.com/watch?v=VdGzPZ31ts8 → raw/informatica/2026-11-15-git-curso-completo-holamundo.md
 - Resumen: wiki/informatica/resumen-FAV-429-git-curso-completo-holamundo.md
 - Fuente de INFORMÁTICA (Informatica/Transversal) — directo en informatica/. Umbral clúster Git: 2 fuentes (FAV-429/430) — candidata a concepto, deferida. Cruces: FAV-430, FAV-426 (Git integrado en VS Code), FAV-425 (node_modules/.env).
+
+## [2026-11-15] ingesta | FAV-430 — Cómo un Solo Developer Humilló a Toda la Industria con Git (fatdev)
+- Fuente: https://www.youtube.com/watch?v=fi4YiZvbLXU → raw/informatica/2026-11-15-como-linus-creo-git-fatdev.md
+- Resumen: wiki/informatica/resumen-FAV-430-historia-git-linus-torvalds-fatdev.md
+- Fuente de INFORMÁTICA (Informatica/Transversal) — directo en informatica/. Clúster Git cerrado: 2 fuentes (FAV-429/430) + posible cruce con historia-informatica (BitKeeper/Samba/Tridgell) para la consolidación. Umbral clúster VSCode también cerrado en esta pasada (FAV-426/428). Umbrales anotados sin crear páginas (regla ≥2 deferida).
