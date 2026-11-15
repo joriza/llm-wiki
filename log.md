@@ -2752,3 +2752,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-107 general/sociedad-argentina (historia televisiva + debate económico); WL-108 ia-uso-practico/agentes-de-codigo (Claude Code, ventanas rotas con agentes en paralelo); WL-109 general (ecología/ambiente, sin dominio propio); WL-110 general (cultura argentina, patrocinio Temu excluido); WL-111 ia-critica-y-fronteras (impacto económico del AI Mode sobre la web).
 - **WL-112** (`v4hYfc-gUCA`, PDB «Milei, Trump y la fuga de Bolsonaro») quedó **descargada en scratch** al probar el sexto `--one` (frontera committed respetada): cabeza de la ventana del tramo 10 — procesarla primero al reanudar.
 - Cierre registrado en hub `wiki/wl/indice-wl.md` (sección tramo 9, 5 filas + nota WL-112) y en `odd/tasks/ingesta-ver-mas-tarde.md` (T9 COMPLETADO). Última fuente del tramo: **WL-111** (`VqsmMAVeHco`). Próximo: tramo 10 (WL-112..WL-116, relevo 3); consolidación de tramos 8-9 diferida según flujo L12.
+
+## [2026-11-15] ingesta WL | tramo 10, fuente WL-112 — Milei, Trump y la fuga de Bolsonaro (PDB)
+
+- **Fuente**: `raw/wl/tramo-10/2026-11-01-milei-trump-y-la-fuga-de-bolsonaro-el-papelon-internacional-pais-de-boludos-pdb.md` (`v4hYfc-gUCA`, PDB, 2026-11-01, 31:25).
+- **Resumen**: `wiki/wl/tramo-10/resumen-WL112-milei-trump-y-la-fuga-de-bolsonaro-el-papelon-internacional.md`.
+- **Decisiones**: raw ya descargado en scratch (procesado primero, sin re-descargar); dominio destino `general / sociedad-argentina` (política exterior argentina; S4 sin dominios nuevos); sesgo satírico-opositor señalado en triage; bloque de suscripción y sección de comentarios excluidos. Consolidación diferida (L12).
