@@ -13,9 +13,9 @@ FAV-422|Informatica/Python|3. Una introducción informal a Python — documentac
 FAV-423|Informatica/Python|(432) Si sigues usando pip, estás perdiendo horas de tu vida - YouTube|https://www.youtube.com/watch?v=RFInJeuhiFk
 FAV-424|Informatica/Python|(432) Todo sobre las API Gratuitas de Python Explicado en 10 Minutos - YouTube|https://www.youtube.com/watch?v=CNCUtZ9BiHI
 FAV-425|Informatica/web|(1730) Aprende Express js en 10 minutos - YouTube|https://www.youtube.com/watch?v=6uDgb9hHz7I
-FAV-426|Informatica/VSCode|Aprende VS Code ahora! | curso completo de VSCode desde CERO - YouTube|https://www.youtube.com/watch?v=Ei1y51K8jQk
-FAV-427|Informatica/VSCode|Visual Studio Code: Tips para programar - YouTube|https://www.youtube.com/playlist?list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf
-FAV-428|Informatica/VSCode|VISUAL STUDIO CODE: Tutorial para principiantes - YouTube|https://www.youtube.com/watch?v=CxF3ykWP1H4
+FAV-426|Informatica/VSCode|Aprende VS Code ahora! | curso completo de VSCode desde CERO - YouTube|https://www.youtube.com/watch?v=Ei1y51K8jQk ; PROCESADA 2026-11-15
+FAV-427|Informatica/VSCode|Visual Studio Code: Tips para programar - YouTube|https://www.youtube.com/playlist?list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf ; IGNORADA 2026-11-15: playlist pura (sin v=), precedente FAV-401/404/421
+FAV-428|Informatica/VSCode|VISUAL STUDIO CODE: Tutorial para principiantes - YouTube|https://www.youtube.com/watch?v=CxF3ykWP1H4 ; PROCESADA 2026-11-15
 FAV-429|Informatica/Transversal|Aprende GIT ahora! curso completo GRATIS desde cero - YouTube|https://www.youtube.com/watch?v=VdGzPZ31ts8
 FAV-430|Informatica/Transversal|(52) Cómo un Solo Developer Humilló a Toda la Industria con Git - YouTube|https://www.youtube.com/watch?v=fi4YiZvbLXU
 FAV-431|Informatica/Transversal|(546) Cómo un Ingeniero Creó a los Developers — C - YouTube|https://www.youtube.com/watch?v=C2OMJXfRNnI

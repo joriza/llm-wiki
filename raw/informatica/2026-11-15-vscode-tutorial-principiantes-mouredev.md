@@ -1,0 +1,58 @@
+# VISUAL STUDIO CODE: Tutorial para principiantes
+
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=CxF3ykWP1H4)
+- **Canal**: MoureDev by Brais Moure
+- **Publicado**: 2023-10-13
+- **Recopilado**: 2026-11-15
+- **Idioma**: es (subtítulos automáticos es (auto), transcripción literal)
+- **Duración**: 09:32
+
+> Transcripción a partir de los subtítulos automáticos del vídeo, sin normalizar; puede contener errores de reconocimiento. Las marcas de tiempo indican el inicio aproximado de cada bloque.
+
+---
+
+[00:00] existe un gran número de editores de código para ayudarnos a programar Pero hay uno que destaca por encima de resto su nombre es visual Studio code y se ha ganado el título de editor más utilizado en todo el mundo por eso es muy posible que se convierta en una de tus herramientas de trabajo principales Y en este tutorial desde cero aprenderás en solo unos minutos sus características principales Y cómo utilizarlo así que comenzamos a picar Bienvenidos a mour deb by bry moure tutoriales de programación y
+
+[00:26] desarrollo de App iOS y Android Mi nombre es br moure Soy ingeniero de software desde hace más de 13 años visual Studio code es el editor de código más utilizado en todo el mundo y no lo digo yo lo dicen todas las encuestas entre la que podemos destacar la de stack overflow una de las más grandes del sector en la que se nos cuenta que un 74 por de los programadores a nivel profesional utilizan este editor seguido por otros como visual Studio o Intel ej con unas cifras que rondan el 28 por. tan
+
+[00:52] importante como aprender el lenguaje de programación es conocer la herramienta desde el que lo programamos pero igual de esencial es aprender inglés para mejorar en programación Permíteme solo un minuto para hablarte del colaborador de este vídeo cambly es la plataforma que pone a nuestra disposición profesores nativos para aprender inglés de la mejor manera hablándolo Simplemente tienes que filtrar por tus intereses y elegir el día la hora y el tiempo de duración de la clase tendrás
+
+[01:13] que conectarte a ella con vídeo y audio como verás a continuación You are from Spain Of course cool Nice to meet you You Work computer programming Yes I am s engineer me record in the Camera to speak Yes I know know I film When I waser I filmed like a few videos and you can go Over The lessons and talk about things here well br Great to meet you see you around saber inglés puede cambiar radicalmente tu carrera profesional y como programadores acceder a más recursos y trabajar con empresas de todo el mundo
+
+[01:55] para ayudarnos cambly ha creado el descuento más grande del año un 5% si utilizas el cupón que ves en pantalla Recuerda que tienes toda la información en la descripción del vídeo Muchísimas gracias a cambly por colaborar Y a ti por cederme este espacio de tiempo que me permite seguir creando contenido y ahora sí Comencemos a aprender visual Studio code como ya te he dicho vs code es un editor de código aparece en 2015 y es desarrollado inicialmente por Microsoft pero con una gran
+
+[02:19] diferenciación que es lo que de verdad lo convierte en el más utilizado del mundo es un editor de código abierto y extensible lo que permite añadirle prácticamente infinitas herramientas y el soporte para ejecutar prácticamente cualquier lenguaje de programación el apoyo de la comunidad a este editor es impresionante tanto que si entramos en su repositorio de github veremos que es uno de los más apoyados de toda la plataforma con más de 150,000 estrellas y casi 2000 contribuidores en estos
+
+[02:43] momentos este apoyo lo han convertido en uno de los editores de código principales de lenguajes tan potentes como python o javascript casi podemos decir que es su editor de código oficial pero no debes de confundirlo con el editor visual Studio también creado por Microsoft pero que su concepto es totalmente distinto su web oficial es code.visualstudio.com allí encontrarás Cómo descargarlo y toda su documentación como te he dicho soporta prácticamente todos los lenguajes utilizados en la
+
+[03:08] actualidad así como los sistemas operativos Incluso si entras en vscode.dev podrás acceder a su versión online y así trabajar en la nube con tus proyectos una vez instalado y ejecutado podrás descubrir que su interfaz gráfica es muy simple pero también muy potente podrás Acceder al listado de archivos que tengas abiertos realizar búsquedas trabajar con un control de código desde dentro del editor como puede ser git realizar tarea de depuración instalar una infinidad de extensiones Y por
+
+[03:33] supuesto testear tu código puedes abrir un proyecto clonar un repositorio o simplemente crear uno desde cero yo he creado una carpeta en el escritorio que se llama Hello vc code y que simplemente voy a abrir desde el editor aparte de las opciones principales tendremos lo que se llama el área de edición donde aparecerán los diferentes directorios y elementos de nuestro proyecto que ahora mismo se encuentra vacío en la propia área de edición tendremos la posibilidad de crear ficheros o carpetas en la parte
+
+[03:57] superior tendremos la barra de menú un acceso mucho mucho más completo a todas las características de visual Studio code y donde podremos Mostrar otra área muy importante del editor que inicialmente se sitúa en la parte inferior un lugar donde acceder a la terminal a la consola de depuración a la salida estándar o directamente al listado de problemas de nuestro directorio sobra decir que todas estas áreas del editor las puedes recolocar como tú quieras con visual Studio code
+
+[04:20] podremos prácticamente crear cualquier tipo de proyecto y ejecutar cualquier lenguaje vamos a verlo muy rápido voy a crear un fichero en python creo un nuevo fichero y le doy la extensión punp aquí creo una línea para imprimir por consola y simplemente ejecuto el código viendo por terminal el resultado vamos a hacer lo mismo pero con un fichero javascript donde también voy a crear una línea para ejecutar un hola mundo y lanzarlo desde vs code viendo por terminal cómo se ejecuta sin ningún problema Por supuesto
+
+[04:45] vs code es un editor de código muy potente nos va a ayudar durante nuestra codificación si Existe algún error nos lo va a Resaltar Y por supuesto contará con funciones de autocompletado para escribir más rápido también contaremos con opciones de visualización para ayudarnos en nuestra codificación pero si uss code se caracteriza por por algo es por sus extensiones existen miles de personas y compañías desarrollando nuevas utilidades para esta herramienta simplemente Vete a la sección de
+
+[05:07] extensiones y allí podrás descubrir algunas de las destacadas ya te adelanto Que prácticamente tienes para todo lo que Tú imagines Esto es lo que verdaderamente hace a vc code un editor tan potente inicialmente nosotros no podremos ejecutar en vc code por ejemplo código python Pero si yo me voy a las extensiones y escribo la palabra python encontraré lo siguiente como la propia Microsoft ha creado una Ascensión para ayudarnos con esta tarea con el autocompletado la ejecución y el
+
+[05:30] debugging en caso de no tenerla instalada simplemente tendrás que instalarla y Desde este momento Ya tendrás activadas todas las capacidades de python en el editor el tipo de extensiones es muy variada el más que conocido gith Pilot la ia para ayudarnos a programar creada por github packs de iconos para ayudar a personalizar cada uno de nuestros directorios y ficheros temas gráficos para los colores del editor clientes para invocar a appy Rest la posibilidad de acceder y visualizar
+
+[05:54] bases de datos desde vc code y hasta podemos tener nuestra propia mascota Y esto es solo el principio dedícate a a leer y Buscar las mejores extensiones que complementan tu trabajo en el stack Tecnológico en el que te centras y no nos olvidemos de la posibilidad de depurar nuestro código como podremos Añadir puntos de interrupción en cada línea de nuestro código y realizar una ejecución en modo de Back esta ejecución se realizará paso a paso y nosotros tendremos total control sobre ella para
+
+[06:18] entre muchas otras cosas ir inspeccionando el valor de cada una de nuestras instrucciones y así entender mejor el comportamiento de nuestro código o solucionar errores la sección de deback en vs code nos dará información muy relevante las posibilidades de vs code a nivel de edición son muy grandes por supuesto podremos renombrar ficheros moverlos o refactorizar el código podrás acceder a prácticamente todas las acciones principales desde el menú superior pero creo que algo que también te puede
+
+[06:42] ayudar es conocer sus atajos de teclado en esta web que estás viendo encontrarás los listados para todos los sistemas operativos simplemente selecciónalo y visualiza el listado en realidad existen bastantes pero te voy a hablar del más importante la llamada paleta de comandos una utilidad que posee visual Studio code que te permitirá acceder prácticamente a tod todas sus características Quiero crear un nuevo fichero lo podrás hacer desde aquí Quiero cambiar el tema de colores del
+
+[07:05] editor también podrás lanzar acciones de git Por supuesto que también es posible por lo que te recomiendo que el atajo de la paleta de comando sea el primero que te aprendas a medida que te vayas desplazando por visual Studio code y por cada uno de sus ficheros también encontrarás información complementaria en la parte inferior codificación lenguaje versiones y accesos a diferentes plugins habitualmente sueles tener todo a un clic por lo que te recomiendo que también te dediques a
+
+[07:27] explorar la interfaz a medida que vas utilizando de vscode como te decía la capacidad de personalización y configuración de vscode es prácticamente ilimitada podremos incluso configurar que cada proyecto que tengamos abierto funcione de una manera distinta tanto a nivel de ejecución como a nivel visual las opciones principales las vas a encontrar en settings por ejemplo la fuente que usas o el tamaño de letra y así con una infinidad de opciones No te asustes ya que según lo instalamos vc
+
+[07:50] code está listo para utilizar pero también te recomendaría que poco a poco vayas conociendo las diferentes capas de personalización opciones de configuración que también podremos editar en ficher o Jason ya que no todas serán únicamente accesibles desde la capa gráfica con este repaso hemos aprendido las principales características de vc code es un editor que aunque lo veas por primera vez nos suele intimidar mucho ya que creo que realmente está muy bien distribuido y estructurado y unido a todo el apoyo de
+
+[08:14] la comunidad hace que sus opciones prácticamente sean ilimitadas también quiero aclarar que que vc code sea el editor más utilizado a nivel mundial no significa que sea el único Por ejemplo yo como desarrollador Mobile utilizo excode y Android Studio editores de código pensados para especializar en esos sistemas y donde realmente vc code no puede llegar como siempre lo mejor es conocer las diferentes opciones y utilizar las que mejor se adaptan a nuestras necesidades Espero que este
+
+[08:38] pequeño tutorial te haya gustado déjame en comentarios Qué te ha parecido y si quieres que haga más vídeos sobre vs si quieres apoyarme y no perderte el contenido semanal suscríbete al Canal y activa la campanita Recuerda que puedes encontrar todas mis redes sociales en moure.drapp.com.ar una manera de ayudarme a seguir creando contenido y acceder a pequeñas recompensas Muchísimas gracias Como cada semana a toda la gente que ha renovado la suscripción o se ha suscrito por primera vez te dejo a continuación con
+
+[09:09] más tutoriales que pueden ayudarte hasta [Música] [Música] luego than

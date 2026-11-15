@@ -2034,3 +2034,8 @@ URL de playlist pura (list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS, sin v=). IGNORADA
 - Fuente de INFORMÁTICA (Informatica/VSCode) — ingesta DIRECTO en informatica/ (regla del 2026-11-15). Umbral clúster VSCode: 2 fuentes (FAV-426/428) — candidata a concepto, deferida. Cruces: FAV-428, FAV-429/430 (Git integrado), FAV-425.
 ## [2026-11-15] ignored | Playlist «VSCode Tips para programar» (FAV-427, línea 17)
 URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA definitivamente por regla de ventana (precedente FAV-401/404/421). Fila 17 de vs-docencia-lista.txt marcada.
+
+## [2026-11-15] ingesta | FAV-428 — Visual Studio Code: Tutorial para principiantes (MoureDev)
+- Fuente: https://www.youtube.com/watch?v=CxF3ykWP1H4 → raw/informatica/2026-11-15-vscode-tutorial-principiantes-mouredev.md
+- Resumen: wiki/informatica/resumen-FAV-428-vscode-tutorial-principiantes-mouredev.md
+- Fuente de INFORMÁTICA (Informatica/VSCode) — directo en informatica/. Umbral clúster VSCode alcanzado: 2 fuentes (FAV-426/428) — página de concepto candidata para la consolidación del cierre. Cruces: FAV-426, FAV-429/430.
