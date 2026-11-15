@@ -1966,3 +1966,9 @@ URL de playlist pura (list=PLlck5hCWxDJ...). IGNORADA definitivamente por orden 
 - Creadas 12 páginas: 5 conceptos en `wiki/electronica-practica/` ([[pantallas-oled]], [[i2c]], [[cubos-matrices-led]], [[cancelacion-adaptativa-ruido]], [[ia-en-mcu]]) y 7 entidades en `wiki/entidades/` ([[el-profe-garcia]], [[marios-ideas]], [[tr3bol-argentina]], [[iot-lab]], [[bit-micro-lab]], [[mundo-yakara]], [[demmake]]).
 - Cableado bidireccional en 41 resúmenes del dominio (línea «Consolidación (2026-11-15)»); actualizada la nota de canales de [[ideatronic]]; 12 filas nuevas en index.md; hilo 18 en overview.md y línea de estado en sintesis.md.
 - Umbrales NO alcanzados (deferidos): TFT SPI 3-4 fuentes (FAV-371/388/389/390 — fuera del encargo de esta consolidación), WS2812B como concepto propio (4 fuentes, vive como cruces de [[cubos-matrices-led]]), MAX7219 (FAV-378 + cruces), Sin touch de bookmarks de Chrome ni .obsidian/.
+
+## [2026-11-15] skip | FAV-411 — Listado de Skills y Plugins Seleccionados (Society Eskailet)
+Web https://society.eskailet.com/.../listado-de-skills-y-plugins-seleccionados/ — contenido del módulo tras muro de registro de Society; la página pública solo muestra el índice del curso (98 contenidos, n8n/Claude Code). SKIP con motivo: sin material resumible. Tema informática (automatización/IA) — si se procesa alguna vez, candidata a dominio informatica.
+
+## [2026-11-15] ingesta | FAV-412 — ESP8266 Deauther (Spacehuhn docs)
+Web https://docs.spacehuhn.com/deauther/ sin raw. Resumen: wiki/electronica-practica/resumen-FAV-412-esp8266-deauther-spacehuhn.md. Cruces: FAV-415 (ESP32 Deauther, herramienta hermana), FAV-357 (NodeMCU ESP8266).

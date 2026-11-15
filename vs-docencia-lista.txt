@@ -1,7 +1,7 @@
-FAV-411|Vs|Listado de Skills y Plugins Seleccionados · Society Eskailet|https://society.eskailet.com/mi-area/modulo/automatizaciones-n8n-paso-a-paso/listado-de-skills-y-plugins-seleccionados/
+FAV-411|Vs|Listado de Skills y Plugins Seleccionados · Society Eskailet|https://society.eskailet.com/mi-area/modulo/automatizaciones-n8n-paso-a-paso/listado-de-skills-y-plugins-seleccionados/ ; SKIP 2026-11-15: contenido tras muro de registro (solo índice público), sin material resumible
 FAV-412|Vs|Desautenticador ESP8266 | Documentación de Spacehuhn|https://docs.spacehuhn.com/deauther/
 FAV-413|Vs|SillyTavern Documentation|https://docs.sillytavern.app/
-FAV-414|Vs|Convert Markdown Table to Excel Online - Table Convert|https://tableconvert.com/markdown-to-excel
+FAV-414|Vs|Convert Markdown Table to Excel Online - Table Convert|https://tableconvert.com/markdown-to-excel ; SKIP 2026-11-15: herramienta trivial de conversión, sin contenido útil para la wiki
 FAV-415|Vs|(396) Atacando Redes Wi-Fi con NodeMCU ESP32 Deauther PMKID WPA2 Handshake ESP-IDF VS Code PASO A PASO!!! - YouTube|https://www.youtube.com/watch?v=hJBYvOV51QQ
 FAV-416|Vs|(396) Atacando Redes Wi-Fi con Wi-PWN ESP8266 NodeMCU TROLLEA MÁS, VIVÍ MEJOR!!! - YouTube|https://www.youtube.com/watch?v=HJ2jhVcDb5E
 FAV-417|Vs|Líquido de $3: ELIMINA TODO el óxido PARA SIEMPRE, por eso quieren ocultarlo! - YouTube|https://www.youtube.com/watch?v=ywWdMOfVRSw
