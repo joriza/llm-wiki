@@ -1910,3 +1910,7 @@ YouTube Short 8orOU6iogtw. SKIP definitivo .NO-SUBS: video sin pistas de subtít
 ## [2026-11-15] ingesta | Pantallas OLED con Arduino: librerías y ejemplos (FAV-396)
 
 YouTube XYBcr1KpN3Y (deMMake, ES, 2019). Raw: raw/electronica-practica/2019-05-30-pantallas-oled-arduino-librerias-ejemplos-demmake.md. Resumen: wiki/electronica-practica/resumen-FAV-396-pantallas-oled-arduino-librerias-demmake.md. Cruces: clúster OLED (FAV-382/383/384/387/391) y FAV-386 (I2C). Clúster OLED llega a 7 fuentes; deMMake 1.a fuente.
+
+## [2026-11-15] ingesta | Matriz LED sin controlador con Arduino (FAV-397)
+
+YouTube _vqPmitnlxA (deMMake, ES, 2019). Raw: raw/electronica-practica/2019-02-20-matriz-led-sin-controlador-arduino-demmake.md. Resumen: wiki/electronica-practica/resumen-FAV-397-matriz-led-sin-controlador-arduino-demmake.md. Cruces: FAV-396 (mismo canal), FAV-393/375 (WS2812/con controlador), FAV-398/399/400 (cubos LED, multiplexado). deMMake 2.a fuente; cruza con el clúster displays/cubos LED.
