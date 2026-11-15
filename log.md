@@ -2697,3 +2697,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 ## [2026-11-15] ingesta | tramo 8 — WL-102: Cuantización de LLM explicada: la trampa de calidad del Q4 (Jorge Marfil, 2026-11-03, IK-mFMiTvK8)
 
 - Estación wl (regla L12): raw espejado en `raw/wl/tramo-8/2026-11-03-cuantizacion-de-llm-explicada-la-trampa-de-calidad-del-q4.md`, resumen en `wiki/wl/tramo-8/resumen-WL102-cuantizacion-llm-trampa-calidad-q4.md`. Salida 45.239.32.215 PROBE-OK (validada hoy). Dominio destino previsto: ia-uso-practico / agentes-de-codigo (cuantización+hardware) — pendiente consolidación. Cruces señalados: [[hardware-para-ia-local]], [[qwen]], [[llama-cpp]].
+## [2026-11-15] ingesta | tramo 8 — WL-103: La IA no está salvando a nadie. DirecTV y Tinder en problemas (Lógicamente Aclarado, 2026-10-24, EbohAJufhnE)
+
+- Estación wl (L12): raw espejado en `raw/wl/tramo-8/2026-10-24-la-ia-no-esta-salvando-a-nadie-directv-y-tinder-en-problemas-recopilacion.md`, resumen en `wiki/wl/tramo-8/resumen-WL103-la-ia-no-esta-salvando-a-nadie-directv-tinder.md`. Dominio destino previsto: ia-critica-y-fronteras (recopilación tech-estado; cifras sin fuente primaria etiquetadas). Salida 45.239.32.215, sin 429.
