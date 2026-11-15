@@ -2384,3 +2384,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Práctica 3.5 estrella-triángulo con inversión de giro (FAV-497, relevo 2 Electromecanica)
 - FAV-497 OaqSaC__qnU «PRÁCTICA 3.5 LOGO RS Arranque estrella triángulo con inversión de giro» — José Miguel Pantoja Solano, ES-ASR 35:40. Resumen: wiki/electromecanica/resumen-FAV-497-practica-estrella-triangulo-inversion-logo.md; raw: raw/electromecanica/2026-11-15-practica-35-logo-rs-estrella-triangulo-inversion.md. Umbral: estrella-triángulo 3 fuentes (494/496/497) → concepto candidato al cierre.
+
+## [2026-11-15] ingesta | Factor de potencia explicado (FAV-498, relevo 2 Electromecanica)
+- FAV-498 wpubuxVCJtE «Factor de Potencia Explicado» — Engineering Mindset, ES-ASR 15:01. Resumen: wiki/electromecanica/resumen-FAV-498-factor-de-potencia.md; raw: raw/electromecanica/2026-11-15-factor-de-potencia-explicado.md. Umbral: canal Engineering Mindset 2ª fuente de la ventana (490+498; ya 2 en electronica-practica) → entidad candidata reforzada.

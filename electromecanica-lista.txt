@@ -6,7 +6,7 @@
 - FAV-495 — [video] (Electromecanica/PLC) — (189) Cómo LEER un SENSOR ANALÓGICO (autosen - AP016) de 4–20 mA en PLC LOGO! - YouTube — https://www.youtube.com/watch?v=oK0rGYagn8s ; PROCESADA 2026-11-15 relevo 2
 - FAV-496 — [video] (Electromecanica/PLC) — (189) Arranque estrella triangulo con PLC LOGO en cade simu. paso a paso. - YouTube — https://www.youtube.com/watch?v=cYQZbnc1BNQ ; PROCESADA 2026-11-15 relevo 2
 - FAV-497 — [video] (Electromecanica/PLC) — (189) PRÁCTICA 3.5 LOGO RS Arranque estrella triángulo con inversión de giro de un motor trifásico. - YouTube — https://www.youtube.com/watch?v=OaqSaC__qnU ; PROCESADA 2026-11-15 relevo 2
-- FAV-498 — [video] (Electromecanica/Electricidad) — Factor de Potencia Explicado - La Pérdida en su Factura de Electricidad - YouTube — https://www.youtube.com/watch?v=wpubuxVCJtE
+- FAV-498 — [video] (Electromecanica/Electricidad) — Factor de Potencia Explicado - La Pérdida en su Factura de Electricidad - YouTube — https://www.youtube.com/watch?v=wpubuxVCJtE ; PROCESADA 2026-11-15 relevo 2
 - FAV-499 — [video] (Electromecanica/Electronica) — Diodos Explicados - YouTube — https://www.youtube.com/watch?v=aPY3I8pG478
 - FAV-500 — [video] (Electromecanica/Electronica) — Capacitores Explicados - Los fundamentos funcionan los condensadores. Principio de funcionamiento - YouTube — https://www.youtube.com/watch?v=h_m6qFRNITU
 - FAV-501 — [video] (Electromecanica/Electronica) — Inductores Explicados - YouTube — https://www.youtube.com/watch?v=Gckb8cS1h5g
