@@ -1871,3 +1871,7 @@ Web PCBASIC (sin raw). Resumen: wiki/electronica-practica/resumen-FAV-385-pinout
 
 YouTube 9gfZnNPBlVg (El profe Garcia). Raw: raw/electronica-practica/2026-11-15-protocolo-i2c-maestro-esclavos-profe-garcia.md. Resumen: wiki/electronica-practica/resumen-FAV-386-protocolo-i2c-maestro-esclavos-profe-garcia.md. Cruces: FAV-382/383 (OLED por I2C), FAV-385 (pines A4/A5 Nano). Umbral I2C: esta es la 4.a fuente (consolidacion deferida).
 
+## [2026-11-15] ingesta | Videos y animaciones en OLED con Arduino (FAV-387)
+
+YouTube AXo3sLMQ89o (Electronica Con Piero). Raw: raw/electronica-practica/2021-04-22-videos-animaciones-oled-arduino-electronica-con-piero.md. Resumen: wiki/electronica-practica/resumen-FAV-387-videos-animaciones-oled-electronica-con-piero.md. Cruces: cluster OLED (FAV-350/382/383/384, ahora 5 fuentes, consolidacion deferida), FAV-380 (animacion en panel LED).
+
