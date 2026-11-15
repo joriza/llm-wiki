@@ -2982,3 +2982,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Raw: `raw/wl/tramo-17/2026-10-28-que-paso-con-jenna-ortega-despues-de-merlina-documental.md` · Resumen: `wiki/wl/tramo-17/resumen-WL148-que-paso-con-jenna-ortega.md`
 - Dominio previsto (consolidación diferida): general (biografía/cultura pop).
 
+## [2026-11-15] ingesta | Estamos vivos de puro c*lo 2 (WL-149, tramo 17)
+
+- Canal Pablo Molinari (Perdón Centennials), 2026-10-28, 25:27. Monólogo de stand-up nostálgico: diez prácticas infantiles peligrosas de los 80-2000 argentinas contrastadas con la crianza actual; cierre sobre el peligro que migró de la plaza a la pantalla. NO fuente factual (humor); pocos datos citados sin verificación, señalados.
+- Raw: `raw/wl/tramo-17/2026-10-28-estamos-vivos-de-puro-c-lo-2-otras-10-cosas-peligrosas-de-nuestra-infancia.md` · Resumen: `wiki/wl/tramo-17/resumen-WL149-estamos-vivos-de-puro-culo-2.md`
+- Dominio previsto (consolidación diferida): general/sociedad-argentina (humor nostálgico).
+
