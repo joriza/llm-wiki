@@ -2800,3 +2800,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-11/2026-10-28-el-ave-iba-directo-hacia-un-tren-parado-y-en-atocha-lo-sabian.md` (`qshiBxuVbg0`, NOTYX, 2026-10-28, 21:05).
 - **Resumen**: `wiki/wl/tramo-11/resumen-WL118-el-ave-iba-directo-hacia-un-tren-parado-y-en-atocha-lo-sabian.md`.
 - **Decisiones**: dominio destino `general` (sociedad/infraestructura española; S4 sin dominios nuevos); cruce con WL-116 (infraestructura) diferido. Glosario ASR inconsistente (BSL/BCL/VSL) normalizado solo en el resumen; investigación en curso señalada en triage. Consolidación diferida (L12).
+
+## [2026-11-15] ingesta WL | tramo 11, fuente WL-119 — Cuneo revela secretos que nunca contó de Milei (Politica Argentina)
+
+- **Fuente**: `raw/wl/tramo-11/2026-10-30-cuneo-revela-secretos-que-nunca-conto-de-milei-cuneo-santiago-javier-karina-vivi.md` (`rtm31LMjJdo`, Politica Argentina, 2026-10-30, 39:19).
+- **Resumen**: `wiki/wl/tramo-11/resumen-WL119-cuneo-revela-secretos-que-nunca-conto-de-milei.md`.
+- **Decisiones**: contenido de OPINIÓN militante sin evidencia — archivado como documento del clima político argentino, NO como fuente factual (advirtido en triage y en index); dominio destino `general/sociedad-argentina` (S4 sin dominios nuevos); cruces con WL-112 y WL-115 (mismo ciclo Bolsonaro) diferidos a consolidación. Consolidación diferida (L12).
