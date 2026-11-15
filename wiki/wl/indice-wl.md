@@ -238,6 +238,18 @@ Notas del tramo: 5/5 útiles exactos (WL-196..WL-200), 0 skips, 0 meta-fail, sin
 
 Notas del tramo: 3/3 útiles exactos (WL-201..WL-203), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin cuarto ciclo (TRAMO FINAL del pedido L22). Salida 45.239.32.215 (Proton UE, validada hoy), 3 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). **PEDIDO L22 CERRADO: 50/50 útiles.**
 
+## Tramo 33 — relevo 26 (WL-230..WL-234)
+
+| # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
+|---|--------|--------|------------------|---------|
+| WL-230 | Así creo skills de IA que realmente uso todos los días (7 tips) (`oZTXrgHRi-k`) | Fazt | ia-uso-practico/agentes-de-codigo (guía práctica de skills propios: simples y legibles, modulares + orquestador, automatizar por demostración, herramientas (FFmpeg/MCP), plantillas en assets/, restricciones por skill, versionado en dotfiles; patrocinio Sinut excluido; cruces [[agentes-de-codigo]]/WL-153/178/180/185/203) | Resumen en `tramo-33/` |
+| WL-231 | GPT-6 Astra convierte fotos en un mundo 3D que puedes recorrer (`9a5eJ3nkB54`) | Fazt | general o futuro ia-media-generativa (demo de producto — generación 3D sobre Abacus AI: casa Zillow navegable, videojuegos en un prompt, PC desmontable, anatomía por capas; formato promocional del sponsor, claims sin fuente primaria — señalado; cruces WL-230) | Resumen en `tramo-33/` |
+| WL-232 | OpManager: El Panel que Todo DevOps Debería Usar (`OZ3MNPZV6xc`) | Fazt | general (infraestructura/DevOps — monitorización centralizada con OpManager (ManageEngine): SNMP/Docker, alta de dispositivos, alarmas/notificaciones, demo con contenedores simulados vía Claude en permisos amplios; producto sin contraste de alternativas, prácticas demo no-producción — señalado; cruces WL-160/WL-102) | Resumen en `tramo-33/` |
+| WL-233 | ¡Por fin! Conecta Odoo a la IA con Claude MCP (`Wznzbz4rbtA`) | Fazt | ia-uso-practico/agentes-de-codigo o general (integración MCP agente↔ERP: módulo «Servidor MCP e IA», API key, activación granular de herramientas 5→13, casos CRM/calendario con manejo de errores, skill para flujos aprendidos; claims del fabricante sin contraste — señalado; cruces [[agentes-de-codigo]]/WL-230/WL-232/WL-234) | Resumen en `tramo-33/` |
+| WL-234 | 7 pasos para programar mejor con coding agents (`dhkiC4Iq1eM`) | return(GiS); | ia-uso-practico/agentes-de-codigo (metodología: preparar entorno, AGENTS.md conciso con definition of done, planificar con modelo capaz, implementar con otro/declegando, revisión local pre-push, PR revisable con 4 bloques, nueva tarea = nueva sesión; bonus instrucciones a nivel usuario; cruces [[agentes-de-codigo]]/[[odd-metodologia]]/WL-153/178/180/185/203/228) | Resumen en `tramo-33/` |
+
+Notas del tramo: 5/5 útiles exactos, 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo (contador explícito). Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L23: **31/50 útiles**. Tema de tramo: canal Fazt ×4 (WL-230/231/232/233) — candidato a entidad de canal en consolidación.
+
 ## Tramo 32 — relevo 25 (WL-225..WL-229)
 
 | # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
