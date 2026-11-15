@@ -1,0 +1,79 @@
+FAV-411|Vs|Listado de Skills y Plugins Seleccionados · Society Eskailet|https://society.eskailet.com/mi-area/modulo/automatizaciones-n8n-paso-a-paso/listado-de-skills-y-plugins-seleccionados/
+FAV-412|Vs|Desautenticador ESP8266 | Documentación de Spacehuhn|https://docs.spacehuhn.com/deauther/
+FAV-413|Vs|SillyTavern Documentation|https://docs.sillytavern.app/
+FAV-414|Vs|Convert Markdown Table to Excel Online - Table Convert|https://tableconvert.com/markdown-to-excel
+FAV-415|Vs|(396) Atacando Redes Wi-Fi con NodeMCU ESP32 Deauther PMKID WPA2 Handshake ESP-IDF VS Code PASO A PASO!!! - YouTube|https://www.youtube.com/watch?v=hJBYvOV51QQ
+FAV-416|Vs|(396) Atacando Redes Wi-Fi con Wi-PWN ESP8266 NodeMCU TROLLEA MÁS, VIVÍ MEJOR!!! - YouTube|https://www.youtube.com/watch?v=HJ2jhVcDb5E
+FAV-417|Vs|Líquido de $3: ELIMINA TODO el óxido PARA SIEMPRE, por eso quieren ocultarlo! - YouTube|https://www.youtube.com/watch?v=ywWdMOfVRSw
+FAV-418|Vs|La Madera Será Como Nueva Para Siempre: El Aceite De $1, Que Intentaron Enterrar Desde 1932! - YouTube|https://www.youtube.com/watch?v=a047yopYSxw
+FAV-419|Vs|(30) Cómo generar un LLM a partir de tus documentos (fácil y rápido) - YouTube|https://www.youtube.com/watch?v=j_R3Do3WwgU
+FAV-420|Vs|(574) ¡FreeLLMAPI acaba de Romper las Suscripciones de IA! TODO GRATIS y SIN límites - YouTube|https://www.youtube.com/watch?v=7Oez8kmknOA
+FAV-421|Informatica/Python|(3668) Curso Python desde 0. - YouTube|https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
+FAV-422|Informatica/Python|3. Una introducción informal a Python — documentación de Python - 3.15.0a7|https://docs.python.org/es/dev/tutorial/introduction.html
+FAV-423|Informatica/Python|(432) Si sigues usando pip, estás perdiendo horas de tu vida - YouTube|https://www.youtube.com/watch?v=RFInJeuhiFk
+FAV-424|Informatica/Python|(432) Todo sobre las API Gratuitas de Python Explicado en 10 Minutos - YouTube|https://www.youtube.com/watch?v=CNCUtZ9BiHI
+FAV-425|Informatica/web|(1730) Aprende Express js en 10 minutos - YouTube|https://www.youtube.com/watch?v=6uDgb9hHz7I
+FAV-426|Informatica/VSCode|Aprende VS Code ahora! | curso completo de VSCode desde CERO - YouTube|https://www.youtube.com/watch?v=Ei1y51K8jQk
+FAV-427|Informatica/VSCode|Visual Studio Code: Tips para programar - YouTube|https://www.youtube.com/playlist?list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf
+FAV-428|Informatica/VSCode|VISUAL STUDIO CODE: Tutorial para principiantes - YouTube|https://www.youtube.com/watch?v=CxF3ykWP1H4
+FAV-429|Informatica/Transversal|Aprende GIT ahora! curso completo GRATIS desde cero - YouTube|https://www.youtube.com/watch?v=VdGzPZ31ts8
+FAV-430|Informatica/Transversal|(52) Cómo un Solo Developer Humilló a Toda la Industria con Git - YouTube|https://www.youtube.com/watch?v=fi4YiZvbLXU
+FAV-431|Informatica/Transversal|(546) Cómo un Ingeniero Creó a los Developers — C - YouTube|https://www.youtube.com/watch?v=C2OMJXfRNnI
+FAV-432|Informatica/Transversal|(943) 4+6 Cosas que puedes hacer con un Router Viejo sin Internet - YouTube|https://www.youtube.com/watch?v=JnzMXLeI1AI
+FAV-433|Informatica/Transversal|(153) Las 5 complejidades de Big O con analogías que no se te olvidan - YouTube|https://www.youtube.com/watch?v=EhS3Q5XvyBY
+FAV-434|Informatica/Transversal|(178) si programás con IA, sos un bolud* - YouTube|https://www.youtube.com/watch?v=zuLt9uU_86Q
+FAV-435|Informatica/Transversal|(458) Empieza a hacer apps sin saber programar con Alan Buscaglia, el Gentleman de la programación - YouTube|https://www.youtube.com/watch?v=5Ts_EX73o1Y
+FAV-436|Informatica|(211) Google crea tu PROFESOR PARTICULAR con IA (y es GRATIS) - YouTube|https://www.youtube.com/watch?v=IH__GK4XBbU
+FAV-437|Informatica|(211) ¿Realmente Necesitamos Tantos Lenguajes de Programación? - YouTube|https://www.youtube.com/watch?v=cwZc_5WrYP4&list=PL1xxJ0WcomPmIQp70j3rjPAZG5c7nqo36&index=3
+FAV-438|Informatica|(211) ¿Qué es realmente internet? ¿Qué lo hace funcionar o caerse? - YouTube|https://www.youtube.com/watch?v=JhuiIzA5E2s&list=PL1xxJ0WcomPmIQp70j3rjPAZG5c7nqo36
+FAV-439|Informatica|(238) Las 8 Estructuras de Datos que TODO Programador Usa (Pero Nadie Explica Bien) - YouTube|https://www.youtube.com/watch?v=9ifwAPFxpu0
+FAV-440|Informatica|(238) Aprende SOLID en 5 minutos (explicado fácil) - YouTube|https://www.youtube.com/watch?v=vHDgTolPMGM
+FAV-441|Informatica|(238) Aprende a Programar 10X Más Rápido (Nadie Te Lo Dice) - YouTube|https://www.youtube.com/watch?v=4uIdvfwiEhc
+FAV-442|Informatica|TypeRacer - Learn to type in Spanish (Español)|https://play.typeracer.com/?universe=lang_es
+FAV-443|Informatica|(396) ✅ Liberar espacio en Disco "C" | optimizar PC Windows 7,8,10, 11 (2025) - YouTube|https://www.youtube.com/watch?v=QjzAA-vRCp0
+FAV-444|Informatica|(396) ¿Cómo Quitar Protección Contra Escritura de Una USB en Windows? - YouTube|https://www.youtube.com/watch?v=NsaSKp2Lwaw&t=66s
+FAV-445|Informatica|Deep Freeze GRATIS? UWF: Filtro de Escritura Unificado / Activacion y configuracion básica amateur - YouTube|https://www.youtube.com/watch?v=lH82Nx3dHM4
+FAV-446|Informatica|(15) Por qué es IMPOSIBLE matar a COBOL - YouTube|https://www.youtube.com/watch?v=IMnwlfGqeCU
+FAV-447|Informatica|(275) Arquitectura de Software e IA - YouTube|https://www.youtube.com/playlist?list=PLT8O-1uuC6R5vtb2GMZr3W5eTNABUUFbr
+FAV-448|Informatica|(707) La MENTIRA de los Microservicios desde el Día 1 (Monolito vs Microservicios) - YouTube|https://www.youtube.com/watch?v=JgrsAyefLFU
+FAV-449|Informatica|(119) Janet Jackson te rompía el Windows XP 🥴🤔 - YouTube|https://www.youtube.com/shorts/hdhQg63Meoo
+FAV-450|Informatica|(123) ¡ADIÓS LICENCIAS! Reemplaza Windows Active Directory con Samba 4 en Debian 13 - YouTube|https://www.youtube.com/watch?v=k8Dl9RVYNLA
+FAV-451|Informatica|(186) ¡Todas las estructuras de datos explicadas de forma sencilla en 25 minutos! - YouTube|https://www.youtube.com/watch?v=vVL6NFzr0Rg
+FAV-452|Informatica|(307) Microsoft No Creó SQL Server Desde Cero… Sybase Terminó Olvidada - YouTube|https://www.youtube.com/watch?v=sdrGJF0MUqs
+FAV-453|Informatica|(307) Microsoft Office vs. WordPerfect: Cómo Cayó un Imperio de 1.400 Millones - YouTube|https://www.youtube.com/watch?v=BxR7-vLVgPw
+FAV-454|Informatica|(307) LOTUS 123 El software que cambió el mundo de la informática - YouTube|https://www.youtube.com/watch?v=vVC6XNASuvM
+FAV-455|Informatica|(342) Arquivo .env: boas práticas, segurança e erros comuns - YouTube|https://www.youtube.com/watch?v=u1sWHiMBQL0
+FAV-456|Informatica|(342) OpenAI perdió control de un modelo - YouTube|https://www.youtube.com/watch?v=o4NStEgIEjo
+FAV-457|Informatica|(343) 35 años de Linux: 35 curiosidades que cambiaron la informática - YouTube|https://www.youtube.com/watch?v=0l0yP227KRc
+FAV-458|Informatica|(358) Ordenar 1 millón de datos: 1 segundo o 10 minutos - YouTube|https://www.youtube.com/watch?v=TTIA7LlI3rk
+FAV-459|Informatica|(358) Sabes SOLID pero te faltan estos 4 principios - YouTube|https://www.youtube.com/watch?v=ZjfopQLBH1E
+FAV-460|Informatica|(358) map, filter y reduce: el fin de los bucles for - YouTube|https://www.youtube.com/watch?v=Jj0OWJe5Ixw
+FAV-461|Informatica|(403) La artista que enseñó a las computadoras a hacerse entender | Susan Kare - YouTube|https://www.youtube.com/watch?v=ucnV6Ib5wCA
+FAV-462|Informatica|(403) La artista que enseñó a las computadoras a hacerse entender | Susan Kare - YouTube|https://www.youtube.com/watch?v=ucnV6Ib5wCA
+FAV-463|Informatica|(458) ANÉCDOTA: Base de datos SIN RELACIONES y sin PK ☠️🔥Story Time - YouTube|https://www.youtube.com/watch?v=gNAQL-4hxUw
+FAV-464|Informatica|(459) ESTO es lo que pasó con los JUNIORS💣 - YouTube|https://www.youtube.com/watch?v=hlHJ8mqgo9E
+FAV-465|Informatica|(459) El secreto para que tu Base de Datos soporte miles de usuarios - YouTube|https://www.youtube.com/watch?v=UJnsiQk11Dc
+FAV-466|Informatica|(459) El error con UUIDs que destruye el rendimiento de tu Base de Datos - YouTube|https://www.youtube.com/watch?v=KiuZT8XYYdw
+FAV-467|Arduino|(3443) 💡Cómo PROGRAMAR arduino UNO desde CERO【 2021 】 - Capítulo #02🔋 - YouTube|https://www.youtube.com/watch?v=EEKMPT_YcTI&list=PLyLh25DppBIe40j3VBAslnVfs4Pz-B3ZB&index=3
+FAV-468|Arduino|(3443) Arduino desde cero en Español - Capítulo 2 - Primer programa e Instalación del IDE de Arduino - YouTube|https://www.youtube.com/watch?v=GUuWgk3dXd0&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2&index=2
+FAV-469|Arduino|(3443) #2.2 Simulador para Arduino [ UnoArduSim ] - Curso Arduino 💻 - YouTube|https://www.youtube.com/watch?v=ph0tcXAkOrQ&list=PLaOwYHXnu18u0p8888L_DiQNCE5Mcpp92&index=4
+FAV-470|Arduino|(3443) CAP #15►👉 Sensor de DISTANCIA 👈| HC-SR04 - [Curso Arduino Español desde cero] - YouTube|https://www.youtube.com/watch?v=Oq2r66TLxZs&list=PLEzmH7aN82FEh2JjYuNCvFu6wFolHai32&index=15
+FAV-471|Arduino|(3443) Curso de Arduino desde cero en Español - Capítulo 12 | pines analógicos como digitales - YouTube|https://www.youtube.com/watch?v=ESoZxL9RTUA&list=PLNipMBg3MF-ajxURuPcOtzeRpMjiyDqkj&index=14
+FAV-472|Arduino|(3448) ¡7 fantásticos simuladores de Arduino para 2026! - YouTube|https://www.youtube.com/watch?v=FFQk0DiTtPE
+FAV-473|Arduino|(356) Como cargar un programa en Arduino utilizando LD Micro y Xloader - YouTube|https://www.youtube.com/watch?v=VcrODftwUFc
+FAV-474|Arduino|(398) Repetidor WiFi ESP32 Extensor de alcance - Internet donde antes no llegaba - YouTube|https://www.youtube.com/watch?v=naJQhnYYlak
+FAV-475|Arduino|(397) Repetidor WiFi ESP32 Extensor de alcance - Internet donde antes no llegaba - YouTube|https://www.youtube.com/watch?v=naJQhnYYlak&t=200s
+FAV-476|Arduino|(398) Repetidor WiFi ESP32 Extensor de alcance - Internet donde antes no llegaba - YouTube|https://www.youtube.com/watch?v=naJQhnYYlak&t=240s
+FAV-477|Arduino|(398) SERIE ESP32 #19: WIFIMANAGER Gestiona tus redes WIFI Dinámicamente - YouTube|https://www.youtube.com/watch?v=RSKU4f5l9SA
+FAV-478|Arduino|(398) Easy to get exact password using NodeMCU [Hindi] - YouTube|https://www.youtube.com/watch?v=VeMaF27B0nA
+FAV-479|Arduino|(398) WiFi Hacking Device : Dual Band ESP32C5 Deauther - YouTube|https://www.youtube.com/shorts/NOH1t-q8KP8
+FAV-480|Arduino|(397) ESP32 como NAT y repetidor WiFi para mejorar el alcance. Fácil y económico - YouTube|https://www.youtube.com/watch?v=1vbkmLB4Tr8
+FAV-481|Transversal|(3653) Por qué dejamos de leer - YouTube|https://www.youtube.com/watch?v=5X26m52lMwU
+FAV-482|Transversal|(487) La IA va más rápido que la educación… y esto es un problema - YouTube|https://www.youtube.com/watch?v=_HEC-ioPY6I&list=WL&index=15
+FAV-483|Transversal|(546) Por qué el talento ya no te sirve para conseguir trabajo - YouTube|https://www.youtube.com/watch?v=bAAjgX6hBu4&t=405s
+FAV-484|Transversal|(550) LENGUAJE INCLUSIVO 🔴 ¿Tiene sentido lingüístico? - YouTube|https://www.youtube.com/watch?v=gJ9hDjZW3WM
+FAV-485|Transversal|(564) La Mentira de las Pirámides: Estas Piedras NUNCA Fueron Transportadas - YouTube|https://www.youtube.com/watch?v=SVM6pbiaWdM
+FAV-486|Transversal|(668) Intenté buscar trabajo y está feo. - YouTube|https://www.youtube.com/watch?v=U8TTljf4hWk
+FAV-487|Transversal|(15) El Analfabetismo que NADIE Vio Venir - YouTube|https://www.youtube.com/watch?v=CqotNt4ij2A
+FAV-488|Transversal|(178) ¿HACIA UNA GENERACIÓN DE INÚTILES? El temible caso de opositores que van a reclamar con sus padres - YouTube|https://www.youtube.com/watch?v=nVzidt0Zz3w
+FAV-489|Transversal|(349) Nadie Gana Dinero Si Tú Entiendes - YouTube|https://www.youtube.com/watch?v=4t9FjjTiRzE
