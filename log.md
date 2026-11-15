@@ -2587,3 +2587,6 @@ Fuente 1/37 de la playlist Python (qWYx5neOh2s, Patrick Loeber 2021-05-12, EN-AS
 
 ## [2026-11-15] ingesta | Introducción a Serverless con Python
 Fuente 2/37 de la playlist Python (1bLWSsocsxI, Paradigma Digital 2021-02-24, ES-ASR 40:55). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-introduccion-a-serverless-con-python.md con cruces a [[automatizacion-con-python]] y [[fastapi]]. Nota ASR pesada normalizada solo en el resumen («ser verles»→serverless, «bouquet/banquete»→bucket, «lnd/landas»→lambda, «jam»→IAM).
+
+## [2026-11-15] ingesta | Compartir datos en hilos — 13 — Python Avanzado
+Fuente 3/37 de la playlist Python (cFED4bHaK9I, nicosiored 2021-03-05, ES-ASR 09:17). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-compartir-datos-en-hilos-13-python-avanzado.md con cruce a [[dramatiq]]. Nota ASR: «freud»→thread, «reid»→race condition, «time punto es libre»→time.sleep (normalizado solo en el resumen). Lección 13 de serie; la solución (sección crítica) queda en la lección 14.
