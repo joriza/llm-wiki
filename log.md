@@ -2005,3 +2005,8 @@ YouTube hJBYvOV51QQ (ES, subs automáticos, 21:05, 2024-02-29). Raw: raw/electro
 
 ## [2026-11-15] ignored | Playlist «Curso Python desde 0» (FAV-421, línea 11)
 URL de playlist pura (list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS, sin v=). IGNORADA definitivamente por regla de ventana (precedente FAV-401/404, orden del usuario 2026-11-15: «ignore ambas listas»). No se procesa ni se marca SKIP. Fila 11 de vs-docencia-lista.txt marcada.
+
+## [2026-11-15] ingesta | FAV-422 — Una introducción informal a Python (documentación oficial)
+- Fuente: https://docs.python.org/es/dev/tutorial/introduction.html — web leída directo, SIN raw.
+- Resumen: wiki/electronica-practica/resumen-FAV-422-introduccion-informal-python-docs.md
+- Fuente de INFORMÁTICA — **candidata a dominio informatica** (se suma a FAV-413/419/420). Cruces: FAV-423/424 (Python en la cola), FAV-419/420 (Python para IA).
