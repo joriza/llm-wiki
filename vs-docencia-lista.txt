@@ -62,7 +62,7 @@ FAV-471|Arduino|(3443) Curso de Arduino desde cero en Español - Capítulo 12 | 
 FAV-472|Arduino|(3448) ¡7 fantásticos simuladores de Arduino para 2026! - YouTube|https://www.youtube.com/watch?v=FFQk0DiTtPE
 FAV-473|Arduino|(356) Como cargar un programa en Arduino utilizando LD Micro y Xloader - YouTube|https://www.youtube.com/watch?v=VcrODftwUFc
 FAV-474|Arduino|(398) Repetidor WiFi ESP32 Extensor de alcance - Internet donde antes no llegaba - YouTube|https://www.youtube.com/watch?v=naJQhnYYlak
-FAV-475|Arduino|(397) Repetidor WiFi ESP32 Extensor de alcance - Internet donde antes no llegaba - YouTube|https://www.youtube.com/watch?v=naJQhnYYlak&t=200s
+FAV-475|Arduino|(397) Repetidor WiFi ESP32 Extensor de alcance - Internet donde antes no llegaba - YouTube|https://www.youtube.com/watch?v=naJQhnYYlak&t=200s ; DUPLICADO de FAV-474 (mismo video, 2026-11-15 relevo 13 T4)
 FAV-476|Arduino|(398) Repetidor WiFi ESP32 Extensor de alcance - Internet donde antes no llegaba - YouTube|https://www.youtube.com/watch?v=naJQhnYYlak&t=240s
 FAV-477|Arduino|(398) SERIE ESP32 #19: WIFIMANAGER Gestiona tus redes WIFI Dinámicamente - YouTube|https://www.youtube.com/watch?v=RSKU4f5l9SA
 FAV-478|Arduino|(398) Easy to get exact password using NodeMCU [Hindi] - YouTube|https://www.youtube.com/watch?v=VeMaF27B0nA
