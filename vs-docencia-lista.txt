@@ -65,7 +65,7 @@ FAV-474|Arduino|(398) Repetidor WiFi ESP32 Extensor de alcance - Internet donde 
 FAV-475|Arduino|(397) Repetidor WiFi ESP32 Extensor de alcance - Internet donde antes no llegaba - YouTube|https://www.youtube.com/watch?v=naJQhnYYlak&t=200s ; DUPLICADO de FAV-474 (mismo video, 2026-11-15 relevo 13 T4)
 FAV-476|Arduino|(398) Repetidor WiFi ESP32 Extensor de alcance - Internet donde antes no llegaba - YouTube|https://www.youtube.com/watch?v=naJQhnYYlak&t=240s ; DUPLICADO de FAV-474 (mismo video, 2026-11-15 relevo 14 T4)
 FAV-477|Arduino|(398) SERIE ESP32 #19: WIFIMANAGER Gestiona tus redes WIFI Dinámicamente - YouTube|https://www.youtube.com/watch?v=RSKU4f5l9SA ; PROCESADA 2026-11-15 (relevo 14 T4)
-FAV-478|Arduino|(398) Easy to get exact password using NodeMCU [Hindi] - YouTube|https://www.youtube.com/watch?v=VeMaF27B0nA
+FAV-478|Arduino|(398) Easy to get exact password using NodeMCU [Hindi] - YouTube|https://www.youtube.com/watch?v=VeMaF27B0nA ; PROCESADA 2026-11-15 (relevo 14 T4)
 FAV-479|Arduino|(398) WiFi Hacking Device : Dual Band ESP32C5 Deauther - YouTube|https://www.youtube.com/shorts/NOH1t-q8KP8
 FAV-480|Arduino|(397) ESP32 como NAT y repetidor WiFi para mejorar el alcance. Fácil y económico - YouTube|https://www.youtube.com/watch?v=1vbkmLB4Tr8
 FAV-481|Transversal|(3653) Por qué dejamos de leer - YouTube|https://www.youtube.com/watch?v=5X26m52lMwU

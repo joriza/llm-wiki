@@ -2258,3 +2258,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=RSKU4f5l9SA. Canal Jadsa Tech, 2023-03-20, 09:59, ES subs automáticos.
 - **Raw**: raw/electronica-practica/2026-11-15-esp32-wifimanager-redes-dinamicas.md
 - **Resumen**: wiki/electronica-practica/resumen-FAV-477-esp32-wifimanager-redes-dinamicas-jadsa-tech.md
+
+## [2026-11-15] ingesta | Contraseña exacta con NodeMCU: Evil Twin (TechChip, hindi) — FAV-478
+- **Fuente**: https://www.youtube.com/watch?v=VeMaF27B0nA. Canal TechChip, 2024-08-18, 10:00, HI subs automáticos (resumen interpretado al español, nombres según ASR con incertidumbre).
+- **Raw**: raw/electronica-practica/2026-11-15-nodemcu-exact-password-hindi.md
+- **Resumen**: wiki/electronica-practica/resumen-FAV-478-nodemcu-exact-password-evil-twin-techchip.md
