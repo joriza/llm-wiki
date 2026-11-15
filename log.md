@@ -2862,3 +2862,7 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 ## [2026-11-15] ingesta | WL-129 — Voyager 1 está haciendo algo que debería ser IMPOSIBLE (Abismo Cósmico)
 
 - Tramo 13 (relevo 6), fuente 3. Raw espejado en `raw/wl/tramo-13/2026-10-28-voyager-1-esta-haciendo-algo-que-deberia-ser-imposible-pero-esta-sucediendo.md`; resumen en `wiki/wl/tramo-13/resumen-WL129-voyager-1-esta-haciendo-algo-que-deberia-ser-imposible.md`. Estado de Voyager 1 a las puertas del día luz (18-11-2026): rescates históricos, desmantelamiento controlado, punto azul pálido, disco de oro. Dominio destino previsto: general (S4, sin dominios nuevos).
+
+## [2026-11-15] ingesta | WL-130 — Lo que se sabe hasta ahora del hack a Binance (Pelado Nerd)
+
+- Tramo 13 (relevo 6), fuente 4. Raw espejado en `raw/wl/tramo-13/2026-10-30-lo-que-se-sabe-hasta-ahora-del-hack-a-binance.md`; resumen en `wiki/wl/tramo-13/resumen-WL130-lo-que-se-sabe-hasta-ahora-del-hack-a-binance.md`. Hack de 6.400 M$ (29-10-2026) atribuido a TraderTraitor: didáctica de congelables vs. no congelables, self-custody. Info preliminar al 30-10 (puede desactualizarse). Dominio destino previsto: general (S4, sin dominios nuevos).
