@@ -34,7 +34,7 @@ FAV-443|Informatica|(396) ✅ Liberar espacio en Disco "C" | optimizar PC Window
 FAV-444|Informatica|(396) ¿Cómo Quitar Protección Contra Escritura de Una USB en Windows? - YouTube|https://www.youtube.com/watch?v=NsaSKp2Lwaw&t=66s ; PROCESADA 2026-11-15 (relevo 7)
 FAV-445|Informatica|Deep Freeze GRATIS? UWF: Filtro de Escritura Unificado / Activacion y configuracion básica amateur - YouTube|https://www.youtube.com/watch?v=lH82Nx3dHM4 ; PROCESADA 2026-11-15 (relevo 7)
 FAV-446|Informatica|(15) Por qué es IMPOSIBLE matar a COBOL - YouTube|https://www.youtube.com/watch?v=IMnwlfGqeCU ; PROCESADA 2026-11-15 (relevo 8)
-FAV-447|Informatica|(275) Arquitectura de Software e IA - YouTube|https://www.youtube.com/playlist?list=PLT8O-1uuC6R5vtb2GMZr3W5eTNABUUFbr
+FAV-447|Informatica|(275) Arquitectura de Software e IA - YouTube|https://www.youtube.com/playlist?list=PLT8O-1uuC6R5vtb2GMZr3W5eTNABUUFbr ; IGNORADA 2026-11-15 (relevo 8, playlist pura sin v=, precedente FAV-401/404)
 FAV-448|Informatica|(707) La MENTIRA de los Microservicios desde el Día 1 (Monolito vs Microservicios) - YouTube|https://www.youtube.com/watch?v=JgrsAyefLFU
 FAV-449|Informatica|(119) Janet Jackson te rompía el Windows XP 🥴🤔 - YouTube|https://www.youtube.com/shorts/hdhQg63Meoo
 FAV-450|Informatica|(123) ¡ADIÓS LICENCIAS! Reemplaza Windows Active Directory con Samba 4 en Debian 13 - YouTube|https://www.youtube.com/watch?v=k8Dl9RVYNLA

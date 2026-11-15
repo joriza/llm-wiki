@@ -2122,3 +2122,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] relevo 8 T4 — FAV-446..450 (líneas 36-40, IDs verificados contra vs-docencia-lista.txt)
 - FAV-446 COBOL fatdev (este commit) — fuentes de esta ventana marcadas al volar; ver entradas siguientes.
+
+## [2026-11-15] ignored | FAV-447 — Arquitectura de Software e IA (playlist pura)
+- **Fuente**: https://www.youtube.com/playlist?list=PLT8O-1uuC6R5vtb2GMZr3W5eTNABUUFbr — playlist sin `v=` → IGNORADA definitivo (precedente FAV-401/404). Fila 37 marcada.
