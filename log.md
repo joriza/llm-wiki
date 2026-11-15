@@ -2545,3 +2545,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] dominio nuevo | self-hosting/
 Creación del dominio `self-hosting/` (wiki/ y raw/) por decisión del usuario al iniciar la ingesta de la playlist PLqe2XRWDm9REb1UoHx_OJi9mf1ZFXivVz (11 entradas únicas, todas homelab/self-hosting: Pi-hole, CasaOS, Proxmox, Docker, Tailscale, Dokploy, crítica de la nube). Registrado en dominios.md. Modo: subagente único con relevo cada 5 fuentes.
+
+## [2026-11-15] ingesta | He Cancelado Todos mis Servicios de Streaming… Esto Es lo Que Hago Ahora
+Fuente 1/11 (8qxX43V2GCE, GCtech 2025-12-12). Raw intacto a raw/self-hosting/; resumen con cruce a [[proxmox-homelab]]. Relanzado runner v2 (--one --budget 5) para fuentes 2-5.
