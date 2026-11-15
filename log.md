@@ -2027,3 +2027,10 @@ URL de playlist pura (list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS, sin v=). IGNORADA
 - Fuente de INFORMÁTICA (Informatica/web) — **candidata a dominio informatica**. Clúster Informatica de la ventana: 7 fuentes (FAV-413, 419, 420, 422-425). Cruces: FAV-419/420. Descarga gated OK (sleep ~85 s, salida WARP).
 ## [2026-11-15] dominio nuevo | informatica/
 - Confirmado por el usuario en la ventana Vs+Docencia (T4): 7 fuentes acumuladas (FAV-413/419/420/422-425) migradas de `electronica-practica/` a `informatica/`; index.md actualizado. Las siguientes fuentes de Informatica se ingestan directo en este dominio.
+
+## [2026-11-15] ingesta | FAV-426 — Aprende VS Code ahora! curso completo (HolaMundo)
+- Fuente: https://www.youtube.com/watch?v=Ei1y51K8jQk → raw/informatica/2026-11-15-vscode-curso-holamundo.md
+- Resumen: wiki/informatica/resumen-FAV-426-vscode-curso-completo-holamundo.md
+- Fuente de INFORMÁTICA (Informatica/VSCode) — ingesta DIRECTO en informatica/ (regla del 2026-11-15). Umbral clúster VSCode: 2 fuentes (FAV-426/428) — candidata a concepto, deferida. Cruces: FAV-428, FAV-429/430 (Git integrado), FAV-425.
+## [2026-11-15] ignored | Playlist «VSCode Tips para programar» (FAV-427, línea 17)
+URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA definitivamente por regla de ventana (precedente FAV-401/404/421). Fila 17 de vs-docencia-lista.txt marcada.
