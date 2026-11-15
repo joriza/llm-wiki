@@ -2641,3 +2641,6 @@ Fuente 21/37 de la playlist Python (4pHDA85H6pw, MICHEL DAVALOS BOITES 2021-11-0
 
 ## [2026-11-15] ingesta | CURSO DE KIVY CON PYTHON - Hola mundo
 Fuente 22/37 de la playlist Python (tleQtdMcUTI, Promise | Dev — Brian de Vitta 2021-09-30, ES-ASR 07:19). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-curso-de-kivy-con-python-hola-mundo.md con cruce a [[resumen-clase-de-recorridos-de-grafos-en-python]]. Nota ASR pesada normalizada solo en el resumen («kiwi/kylie/kim»→Kivy, «wins/weeks»→Wheels, «ley bold»→Label, «pib»→pip). Nota de contenido: primera fuente GUI del dominio; instalación desactualizada (hoy Kivy tiene wheels en PyPI); patrón App+build()+run() sigue vigente.
+
+## [2026-11-15] ingesta | Como crear aplicaciones móviles con Python de forma rápida y sencilla con Kivy
+Fuente 23/37 de la playlist Python (vjTdtBW3CtE, Argonauta digital 2021-08-21, ES — subtítulos manuales, sin garbiñeos). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-como-crear-aplicaciones-moviles-con-python-con-kivy.md con cruces a [[resumen-curso-de-kivy-con-python-hola-mundo]] y [[resumen-tutorial-flask-framework-de-python-para-aplicaciones-web-desde-cero]]. Nota de contenido: segunda fuente Kivy; aporta el lenguaje KV y la exportación móvil; serie con KivyMD y APK como capítulos no incluidos en la playlist.
