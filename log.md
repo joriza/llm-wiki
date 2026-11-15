@@ -2593,3 +2593,6 @@ Fuente 3/37 de la playlist Python (cFED4bHaK9I, nicosiored 2021-03-05, ES-ASR 09
 
 ## [2026-11-15] ingesta | Cómo hacer WEB SCRAPING con Python
 Fuente 4/37 de la playlist Python (rhnMvvmfBFI, Errodringer 2018-09-25 — el título dice «2020» pero la fecha del canal manda—, ES-ASR 11:55). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-como-hacer-web-scraping-con-python.md con cruces a [[playwright]], [[automatizacion-con-python]], [[polars]], [[duckdb]]. Nota ASR: «rick est»→requests, «jordi full sur/believe el psuv»→BeautifulSoup, «bandas»→pandas (normalizado solo en el resumen).
+
+## [2026-11-15] ingesta | Videotutorial 18 — Introducción al Web Scraping
+Fuente 5/37 de la playlist Python (77XkXOInk1k, César Cancino 2020-08-30, ES-ASR 26:56). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-videotutorial-18-taller-practico-introduccion-al-web-scraping.md con cruces a [[playwright]], [[automatizacion-con-python]], [[micro-saas-con-python]]. Nota ASR: «reyes/reik»→requests, «webs craving/crafting»→web scraping, «chopeo»→pricing/shopping (normalizado solo en el resumen). Nota de contenido: hace la extracción con módulo re (no BeautifulSoup) — contraste útil con fuente 4. Cierre del Relevo 1 (5/5).
