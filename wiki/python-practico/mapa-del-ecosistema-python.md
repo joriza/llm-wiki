@@ -23,7 +23,7 @@ No se aprenden «500.000 bibliotecas»: se entiende **para qué sirve cada una y
 | ML clásico | scikit-learn | Predicción sobre patrones históricos; la puerta de entrada al ML |
 | Deep learning | TensorFlow, PyTorch, Keras | Fábrica industrial (Google) vs taller flexible de investigación (Meta); Keras da los bloques prefabricados |
 | Visión y lenguaje | OpenCV, NLTK | Ojos (imágenes, OCR de recibos) y oídos (tono/sentimiento de texto) |
-| Frameworks web | Django, Flask, **[[fastapi|FastAPI]]** | Edificio prefabricado vs ladrillos sueltos vs API rápida con docs automáticas |
+| Frameworks web | Django, Flask, **[[fastapi|FastAPI]]**, [[resumen-como-crear-una-web-con-python-desde-cero\|Reflex]] | Edificio prefabricado vs ladrillos sueltos vs API rápida con docs automáticas vs frontend+backend 100 % Python |
 | Concurrencia | Asyncio | «El mesero eficiente»: no esperar ocioso mientras otra petición procesa |
 | Persistencia liviana | SQLite | Una base de datos entera en un archivo, sin instalación |
 | UI y juegos | Kivy, Pygame, Pyglet | Interfaces móviles multiplataforma; juegos 2D; multimedia pesada/3D |
