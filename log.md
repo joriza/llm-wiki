@@ -2211,3 +2211,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=KiuZT8XYYdw. Canal TheDebugDuck, 2026-09-12, 17:40, ES subs automáticos.
 - **Raw**: raw/informatica/2026-11-15-error-uuids-rendimiento-bd-thedebugduck.md
 - **Resumen**: wiki/informatica/resumen-FAV-466-error-uuids-rendimiento-bd-thedebugduck.md
+
+## [2026-11-15] ingesta | Cómo PROGRAMAR arduino UNO desde CERO - Capítulo #02 (Johann Perez E) — FAV-467
+- **Fuente**: https://www.youtube.com/watch?v=EEKMPT_YcTI (list= de playlist propia ignorada por S4). Canal Johann Perez E, 2021-02-05, 13:16, ES subs manuales.
+- **Raw**: raw/electronica-practica/2026-11-15-programar-arduino-uno-desde-cero-cap2-johann-perez.md
+- **Resumen**: wiki/electronica-practica/resumen-FAV-467-programar-arduino-uno-desde-cero-cap2-johann-perez.md
