@@ -21,3 +21,7 @@ Conexión y **escalamiento de un sensor de presión de 2 hilos con salida 4–20
 
 - ASR con garbiñeos («420 mamp», «milán pére» por mA); normalizado solo aquí.
 - Umbral deferido: **4–20 mA / señales analógicas industriales** — esta es la 2ª fuente del tema en la wiki (FAV-354 en electronica-practica, FAV-495 aquí) → cruce candidato a concepto en consolidación. Canal AV Smart Solutions: 1 fuente.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[plc-relays-a-ladder]].

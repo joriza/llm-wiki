@@ -23,3 +23,7 @@ Revisión práctica (con sesgo de marca evidente: video apoyado por SRNE) de un 
 - Clúster Energías Renovables: desarrolla el «controlador de carga» de [[resumen-FAV-521-paneles-solares-explicados]] (PWM vs MPPT) y la función inversora de [[resumen-FAV-524-inversores-solares-tipos]]; la corazonada comercial conecta con [[resumen-FAV-522-fraude-paneles-solares]].
 - Nota de marco: video con apoyo de marca (SRNE) — las cifras de eficiencia y la recomendación favorecen al patrocinador.
 - Bases: [[resumen-FAV-503-como-funciona-un-mosfet]] (conmutación del inversor), [[resumen-FAV-500-capacitores-explicados]].
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], [[reguladores-carga-solar]], entidad [[el-angelito]].

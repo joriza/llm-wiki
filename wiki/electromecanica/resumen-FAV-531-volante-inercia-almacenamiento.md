@@ -21,3 +21,7 @@ Historia y física del **almacenamiento cinético en volante de inercia** como a
 
 - Clúster renovables: contrapunto de almacenamiento físico frente al banco de baterías de [[resumen-FAV-522-fraude-paneles-solares]] (misma conclusión: baterías como eslabón débil) y el apagón/híbrido de [[resumen-FAV-524-inversores-solares-tipos]]; marco de «lo que el sistema sabe vender» compartido con [[resumen-FAV-532-espejismo-verde-autos-electricos]].
 - Bases: [[resumen-FAV-501-inductores-explicados]] (motor/generador), electromagnetismo de [[resumen-FAV-513-plato-detector-vlf-como-funciona]] (campos sin contacto).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]].

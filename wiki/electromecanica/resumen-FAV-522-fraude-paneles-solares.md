@@ -21,3 +21,7 @@ Análisis económico (contexto España, 2023) comparando dos arquitecturas de au
 
 - Clúster Energías Renovables: aplica los conceptos de [[resumen-FAV-521-paneles-solares-explicados]] (medición neta, excedentes) y la familia híbrida de [[resumen-FAV-524-inversores-solares-tipos]].
 - **Nota de marco**: canal especializado en baterías de segunda vida — el argumento favorece su producto; los números de amortización dependen de tarifas locales y son de España 2023.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]].

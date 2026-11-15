@@ -19,3 +19,7 @@ Montaje completo de un **detector de metales de profundidad con indicador de dis
 
 - Clúster detectores de metales (4ª fuente): variante con **salida visual por LEDs** frente a la tonal de [[resumen-FAV-512-detector-metales-pi-pirata-ruso]] y la fase de [[resumen-FAV-513-plato-detector-vlf-como-funciona]]; el ajuste al punto de silencio repite la receta de FAV-512 y [[resumen-FAV-518-detector-pi-polones-casero]].
 - Método de PCB casero: cruza con el clúster fabricacion-casera-pcb (FAV-312/313, dominio electronica-practica) y [[diseno-pcb-herramientas]].
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[detectores-de-metales]].

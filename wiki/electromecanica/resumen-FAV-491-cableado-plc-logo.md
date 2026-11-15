@@ -22,3 +22,7 @@ Lección práctica de **cableado del Siemens LOGO! 12/24RCE** construida en el s
 
 - ASR con garbiñeos («peces» por PLC, «acá decimos» por Cade Simu, «cadecimos»); normalizado solo en este resumen.
 - Umbral deferido: **Cade Simu** ya acumula referencias (FAV-493 lista relacionada, FAV-496/497 prácticas en Cade Simu) — candidato a página de concepto/entidad en consolidación. Canal Automatizando Ideas: 1 fuente en la ventana.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[plc-relays-a-ladder]].

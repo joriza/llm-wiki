@@ -24,3 +24,7 @@ Fundamentos del **condensador/capacitor** (álbum de la serie de componentes de 
 
 - Canal Engineering Mindset **4ª fuente de la ventana** (490/498/499/500) — entidad candidata firme para consolidación.
 - Cruces: [[condensador-rc]] (electronica-practica), [[resumen-FAV-498-factor-de-potencia]], [[resumen-FAV-499-diodos-explicados]].
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[serie-componentes-basicos]], [[reguladores-carga-solar]], entidad [[mentalidad-de-ingenieria]].

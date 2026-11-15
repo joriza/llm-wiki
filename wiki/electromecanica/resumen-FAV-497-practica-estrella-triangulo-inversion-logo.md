@@ -23,3 +23,7 @@ Práctica formativa (formato «PRÁCTICA 3.5», apunte de curso) que combina las
 
 - ASR con garbiñeos («sime» por Siemens, bornes garbiñeados); normalizado solo aquí.
 - Umbral consolidado: **arranque estrella-triángulo 3 fuentes** (FAV-494/496/497 — la última con inversión de giro) → página de concepto candidata para la consolidación al cierre de la ventana. Canal José Miguel Pantoja Solano: 1 fuente.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[plc-relays-a-ladder]].

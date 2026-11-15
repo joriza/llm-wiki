@@ -20,3 +20,7 @@ Receta casera de **electrolito de niquelado electrolítico** con elementos de co
 
 - **Umbral nuevo: electrólisis** (FAV-538 teoría + 539 práctica) → concepto transversal candidato a consolidación (podría crecer si aparecen más fuentes de restauración/electroquímica en la carpeta Otros).
 - Bases: [[resumen-FAV-499-diodos-explicados]] no directo; restauración como tema paralelo al clúster Raíces Prohibidas (dominio general).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[electrolisis-niquelado]].

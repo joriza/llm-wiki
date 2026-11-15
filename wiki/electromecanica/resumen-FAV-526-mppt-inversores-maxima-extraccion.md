@@ -23,3 +23,7 @@ El MPPT desde el lado de los **inversores interconectados** (no controladores de
 - Clúster renovables: el MPPT «de producto» visto por dentro, junto a [[resumen-FAV-525-mppt-que-es-como-funciona]] (algoritmo DIY) y [[resumen-FAV-523-controlador-carga-pwm-mppt-srne]] (controlador de carga); el multi-MPPT justifica las decisiones serie/paralelo de [[resumen-FAV-529-serie-o-paralelo-paneles-solares]]; la arquitectura DC-AC completa en [[resumen-FAV-524-inversores-solares-tipos]].
 - Canal CIAE: 1ª fuente del canal (FAV-526/527/528 de la misma ventana → **entidad candidata firme, 3 fuentes**).
 - Bases: [[resumen-FAV-503-como-funciona-un-mosfet]] (IGBT), [[resumen-FAV-498-factor-de-potencia]] (RMS), [[resumen-FAV-499-diodos-explicados]].
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], [[reguladores-carga-solar]], entidad [[ciae]].

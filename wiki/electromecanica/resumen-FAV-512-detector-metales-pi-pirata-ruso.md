@@ -22,3 +22,7 @@ Construcción completa del clásico detector de metales **PI (Pulse Induction) �
 
 - Clúster detectores de metales: principio **PI** (pulsos) aquí vs **VLF** (dos bobinas TX/RX equilibradas) en [[resumen-FAV-513-plato-detector-vlf-como-funciona]] y aplicación cotidiana en [[resumen-FAV-514-arcos-seguridad-detector-metales]].
 - Componentes: [[resumen-FAV-502-transistor-explicado]] (BJT), [[resumen-FAV-503-como-funciona-un-mosfet]] (IRF840), [[resumen-FAV-500-capacitores-explicados]], [[resumen-FAV-501-inductores-explicados]] (bobina).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[detectores-de-metales]].

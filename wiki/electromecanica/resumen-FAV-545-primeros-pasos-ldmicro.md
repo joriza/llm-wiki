@@ -23,3 +23,7 @@ Introducción al **lenguaje ladder** desde LDmicro, orientada a quien viene de P
 
 - **Umbral LDmicro/ladder ya con 4 fuentes** (FAV-544/545/546 + serie El Profe Zurco) + clúster PLC industrial (FAV-490..497) → concepto **PLC: industrial vs ladder-hobby** candidato firme para consolidación.
 - Bases: [[resumen-FAV-490-conceptos-basicos-plc]] (ciclo de escaneo, entradas/salidas), FAV-494/496/497 (ladder LOGO! con las mismas estructuras).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[plc-relays-a-ladder]].

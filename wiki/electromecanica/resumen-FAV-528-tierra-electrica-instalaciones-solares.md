@@ -21,3 +21,7 @@ Fundamento y función de la **puesta a tierra** en instalaciones eléctricas y s
 - Clúster renovables: la pieza de seguridad que las demás fuentes no cubren — aplica a los sistemas de [[resumen-FAV-521-paneles-solares-explicados]], [[resumen-FAV-523-controlador-carga-pwm-mppt-srne]], [[resumen-FAV-524-inversores-solares-tipos]].
 - Canal CIAE: 3ª fuente en la ventana (FAV-526/527/528) → **entidad CIAE candidata firme** (umbral ≥2 ampliamiente cumplido).
 - Concepto transversal con [[resumen-FAV-498-factor-de-potencia]] y la seguridad de redes de [[resumen-FAV-504-fuente-capacitiva-sin-transformador]] (ambas tratan de retorno y aislación).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], entidad [[ciae]].

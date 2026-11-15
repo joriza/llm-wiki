@@ -19,3 +19,7 @@ Micro-lección de electroquímica: **electrólisis del agua** como base teórica
 
 - Clúster renovables/Otros: fundamento directo del niquelado electrolítico de [[resumen-FAV-539-niquelado-casero-electrolito]] (mismos ánodo/cátodo, depósito inverso: el metal viaja al cátodo); abre posible concepto transversal **electrolisis** (umbral 2 con FAV-539 → candidato a consolidación).
 - Bases: [[resumen-FAV-501-inductores-explicados]] no aplica aquí; conexión débil con [[resumen-FAV-499-diodos-explicados]] (química de semiconductores, distinto mecanismo).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[electrolisis-niquelado]].

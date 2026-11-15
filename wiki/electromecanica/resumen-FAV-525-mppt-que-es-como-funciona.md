@@ -22,3 +22,7 @@ Explicación técnica (nivel electrónico, con demo en fuente de laboratorio y r
 - Clúster renovables: fundamenta el PWM/MPPT de [[resumen-FAV-523-controlador-carga-pwm-mppt-srne]] y el MPPT interno de inversores de [[resumen-FAV-526-mppt-inversores-maxima-extraccion]]; la misma regla serie=+V en [[resumen-FAV-529-serie-o-paralelo-paneles-solares]].
 - Canal ELECTRONOOBS: 2ª fuente (FAV-372 NRF24 en electronica-practica + esta) → entidad candidata.
 - Bases: [[resumen-FAV-503-como-funciona-un-mosfet]]/IGBT, [[resumen-FAV-500-capacitores-explicados]], curva I-V de [[resumen-FAV-521-paneles-solares-explicados]].
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], [[reguladores-carga-solar]], entidad [[electronoobs]].

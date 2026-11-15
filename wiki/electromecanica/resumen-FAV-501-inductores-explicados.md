@@ -22,3 +22,7 @@ Fundamentos del **inductor** — tercero de la serie de componentes del canal en
 
 - ASR con garbiñeos («frame/feng» por FEM); normalizado solo aquí.
 - Canal Engineering Mindset **5ª fuente de la ventana** (490/498/499/500/501) — entidad candidata firme. Serie componentes diodo/capacitor/inductor/transistor casi completa (falta FAV-502/503 en esta ventana) → candidata a página de concepto serie al cierre. Cruce con [[condensador-rc]] (contraste capacitor/inductor).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[serie-componentes-basicos]], [[detectores-de-metales]], entidad [[mentalidad-de-ingenieria]].

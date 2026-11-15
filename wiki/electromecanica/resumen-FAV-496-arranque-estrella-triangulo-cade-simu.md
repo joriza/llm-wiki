@@ -23,3 +23,7 @@ Montaje completo en **Cade Simu** de un arranque estrella-triángulo comandado p
 
 - ASR con garbiñeos («Catim/Catimu» por Cade Simu, «lader» por ladder, «estería» por estrella); normalizado solo aquí.
 - Umbral acumulado: **arranque estrella-triángulo 3 fuentes** (FAV-494/496 + FAV-497 próxima) y **Cade Simu 2+** — consolidación diferida. Canal Aprendiendo Electricidad Industrial: 1 fuente (emite también para el grupo «Ingeniería Eléctrica de Geosas»).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[plc-relays-a-ladder]].

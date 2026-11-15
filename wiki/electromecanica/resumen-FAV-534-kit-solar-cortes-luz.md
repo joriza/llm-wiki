@@ -23,3 +23,7 @@ Kit solar de emergencia **sin conocimientos de electrónica**: panel de 10 W + m
 - Clúster renovables: el kit mínimo de emergencia frente a los sistemas dimensionados de [[resumen-FAV-521-paneles-solares-explicados]] y [[resumen-FAV-524-inversores-solares-tipos]]; la protección de batería (14,4 V + diodo) es la versión analógica del corte de [[resumen-FAV-533-regulador-voltaje-casero-solar]]; regla de eficiencia buck coincide con el «subir voltaje para bajar corriente» de [[resumen-FAV-525-mppt-que-es-como-funciona]].
 - Canal Electgpl: 2ª fuente (FAV-504 + 534) → entidad candidata.
 - Bases: [[resumen-FAV-499-diodos-explicados]] (Schottky), [[resumen-FAV-503-como-funciona-un-mosfet]] (conmutación del buck).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], entidad [[electgpl]].

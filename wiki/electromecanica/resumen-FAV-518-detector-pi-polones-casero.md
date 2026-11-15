@@ -20,3 +20,7 @@ Réplica con componentes **reciclados** del detector PI conocido como **«PI Pol
 
 - Clúster detectores (5ª fuente): familia PI junto a [[resumen-FAV-512-detector-metales-pi-pirata-ruso]] (mismo linaje «ruso/polaco», bobina y ajuste casi iguales) y la salida por LEDs de [[resumen-FAV-517-detector-profundo-indicador-distancia]]; contraste VLF en [[resumen-FAV-513-plato-detector-vlf-como-funciona]].
 - La prueba «a partir de qué distancia detecta cada metal» da un referente práctico que el VLF resuelve con el ID de fase.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[detectores-de-metales]].

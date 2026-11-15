@@ -18,3 +18,7 @@ Criterio práctico de **elección PWM vs MPPT con un ejemplo numérico** — la 
 ## Cruces
 
 - Clúster renovables — subtema reguladores ahora con **4 fuentes** (FAV-523/525/526/535): la regla «panel grande→MPPT» complementa el umbral de arranque de [[resumen-FAV-529-serie-o-paralelo-paneles-solares]] y la matemática de [[resumen-FAV-525-mppt-que-es-como-funciona]]; contraste con el corte simple de [[resumen-FAV-533-regulador-voltaje-casero-solar]].
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], [[reguladores-carga-solar]].

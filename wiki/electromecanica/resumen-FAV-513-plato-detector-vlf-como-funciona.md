@@ -21,3 +21,7 @@ Experimento demostrativo del principio **VLF (Very Low Frequency)** de los detec
 
 - Clúster detectores: principio **VLF** (equilibrio de dos bobinas + fase) vs **PI** (pulsos, un solo bobina) en [[resumen-FAV-512-detector-metales-pi-pirata-ruso]]; principio genérico de campo perturbado en [[resumen-FAV-514-arcos-seguridad-detector-metales]].
 - Base física: [[resumen-FAV-501-inductores-explicados]] (circuito LC resonante), [[resumen-FAV-500-capacitores-explicados]].
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[detectores-de-metales]].

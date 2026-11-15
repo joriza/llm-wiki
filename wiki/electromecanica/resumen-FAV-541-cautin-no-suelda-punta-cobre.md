@@ -19,3 +19,7 @@ Solución barata al clásico problema de la **punta negrada que no moja estaño*
 
 - Clúster cautines (2 fuentes: FAV-541 + [[resumen-FAV-542-reparar-modificar-cautin]]): punta de emergencia aquí vs re-cálculo completo del elemento allí → **umbral cautines/mantenimiento cumplido**, concepto candidato a consolidación.
 - Cruce natural con [[resumen-FAV-540-niquelado-metodo-mejorado]] (el cobre desnudo se oxidaría menos niquelado — sin cruce explícito en las fuentes, anotado como hipótesis).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[cautines-mantenimiento]].

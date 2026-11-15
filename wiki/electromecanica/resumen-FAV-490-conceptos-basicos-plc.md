@@ -29,3 +29,7 @@ Video de introducción al **PLC (Controlador Lógico Programable)**: qué es, de
 - Contenido con patrocinio (Telegärtner/«telecontrol» al inicio) — excluido de la síntesis.
 - ASR con garbiñeos típicos («celestes/rehenes» por relés, «pit» por PID, «peces» por PLC); normalizado solo aquí, no en el raw.
 - Concepto transversal futuro: el ciclo entrada→lógica→salida es la base del tema PLC que domina esta carpeta. Umbral de canal anotado (Engineering Mindset, 1 fuente en la ventana; el canal ya aparece en electronica-practica con los drivers de LED FAV-008/009 → candidata a entidad en consolidación).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[plc-relays-a-ladder]], [[serie-componentes-basicos]], [[energias-renovables]], entidad [[mentalidad-de-ingenieria]].

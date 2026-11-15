@@ -29,3 +29,7 @@ Hack completo para reutilizar una **fuente ATX de PC** (350 W, 3,3/5/12 V) como 
 - Contraste directo con [[resumen-FAV-504-fuente-capacitiva-sin-transformador]] (poca corriente + aislación nula vs. mucha corriente + aislación nula): la elección depende de la carga.
 - Bases de componentes en [[resumen-FAV-500-capacitores-explicados]] (capacitores primarios de entrada, electrolíticos de salida) y [[resumen-FAV-502-transistor-explicado]] (etapas de conmutación internas de la fuente).
 - Carga de baterías: rango 13–14 V coincide con la práctica estándar de baterías de plomo.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[serie-componentes-basicos]], [[fuente-sin-transformador]].

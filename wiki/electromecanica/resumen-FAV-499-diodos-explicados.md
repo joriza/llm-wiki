@@ -23,3 +23,7 @@ Tutorial de fundamentos del **diodo**: qué es, cómo funciona internamente (uni
 
 - ASR con garbiñeos («diodo cenero» por zener, «cea/cc» por CA/CC, «automóvil» por átomo vecino); normalizado solo aquí.
 - **Canal Engineering Mindset 3ª fuente de la ventana** (490/498/499) — entidad candidata firme para la consolidación (ya con 2 fuentes previas en electronica-practica). Cruce natural con [[diodo-zener]] (electronica-practica): el video lo menciona como variante sin desarrollarlo. Umbral: **diodo P-N como componente** — par teórico con la serie 500/501/502 del mismo canal.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[serie-componentes-basicos]], entidad [[mentalidad-de-ingenieria]].

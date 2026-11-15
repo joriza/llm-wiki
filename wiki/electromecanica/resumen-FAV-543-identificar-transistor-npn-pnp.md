@@ -21,3 +21,7 @@ Método práctico con **multímetro en modo diodo** para identificar tipo (NPN/P
 
 - Práctica directa de [[resumen-FAV-502-transistor-explicado]] (BJT, unión P-N) y [[resumen-FAV-499-diodos-explicados]] (la caída de diodo de la unión base-emisor/colector); los transistores identificados aparecen en [[resumen-FAV-503-como-funciona-un-mosfet]] (2N3055 en etapas de potencia) y el clúster detectores (BC547/BC557, FAV-512).
 - Canal Humberto Higinio: 1ª fuente → candidato a entidad si reaparece.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[serie-componentes-basicos]].

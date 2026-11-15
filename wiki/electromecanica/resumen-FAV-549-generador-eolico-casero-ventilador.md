@@ -22,3 +22,7 @@ Construcción de un **aerogenerador casero** reciclando un ventilador de pie rot
 
 - **Clúster renovables — 18ª fuente y cierre práctico de la carpeta Energías Renovables**: aplica el concepto «cola de orientación» de [[resumen-FAV-520-turbinas-eolicas-secretos]], la rectificación de [[resumen-FAV-499-diodos-explicados]] (puente) y el alisado de [[resumen-FAV-500-capacitores-explicados]]; mismo canal que FAV-523 (2ª fuente → entidad EL ANGELITO candidata).
 - Paralelo casero con el generador de PC de [[resumen-FAV-505-cargador-baterias-fuente-pc]] (otra conversión de chatarra a fuente).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], entidad [[el-angelito]].

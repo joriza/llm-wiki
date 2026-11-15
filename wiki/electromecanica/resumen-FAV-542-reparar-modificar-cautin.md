@@ -20,3 +20,7 @@ Reparación de un cautín de 35 W con **método estructurado y cálculos** (ley 
 
 - Clúster cautines 2ª fuente → **umbral cumplido**: emergencia (FAV-541) vs rediseño calculado (este) → concepto candidato a consolidación.
 - La ley de Ohm aplicada al calor conecta con [[resumen-FAV-498-factor-de-potencia]] (pérdidas I²R) y con la regla «subir voltaje para bajar corriente» de [[resumen-FAV-525-mppt-que-es-como-funciona]] (aquí al revés: subir V para poder usar más hilo).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[cautines-mantenimiento]].

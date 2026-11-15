@@ -22,3 +22,7 @@ Construcción y explicación paso a paso de una **fuente capacitiva** (sin trans
 
 - Umbral cumplido con [[resumen-FAV-504-fuente-capacitiva-sin-transformador]] → página de concepto **fuente-sin-transformador** candidata en la próxima consolidación (2 fuentes, escalas distintas: 27–55 mA @ 220 V vs ~100 mA @ 120 V).
 - Fundamentos: [[resumen-FAV-500-capacitores-explicados]] (reactancia, alisado), [[resumen-FAV-499-diodos-explicados]] (puente, zener), [[resumen-FAV-498-factor-de-potencia]] (carga reactiva pura).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[fuente-sin-transformador]].

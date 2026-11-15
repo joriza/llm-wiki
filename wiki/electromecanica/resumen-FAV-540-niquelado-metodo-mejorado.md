@@ -22,3 +22,7 @@ Versión mejorada del niquelado casero — tercero del subclúster electrólisis
 - Subclúster electrólisis/niquelado 3ª fuente → **umbral cumplido** (538 teoría + 539 receta básica + 540 método industrializado-casero) → concepto candidato firme para consolidación.
 - Canal Haciendo Cosas Raras: 1ª fuente → candidato a entidad si reaparece.
 - Bases: [[resumen-FAV-499-diodos-explicados]] no directo; [[resumen-FAV-533-regulador-voltaje-casero-solar]] comparte la didáctica de control de corriente con potenciómetro.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[electrolisis-niquelado]].

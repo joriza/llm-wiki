@@ -24,3 +24,7 @@ Anatomía y física completa de las **turbinas eólicas**: de un motor DC con as
 
 - Apertura del clúster Energías Renovables: complementa [[resumen-FAV-521-paneles-solares-explicados]] (el video mismo sugiere eólica+solar como par renovable) y la cadena de potencia de [[resumen-FAV-524-inversores-solares-tipos]].
 - Bases: [[resumen-FAV-501-inductores-explicados]] (generador), engranajes, [[resumen-FAV-502-transistor-explicado]]/[[resumen-FAV-503-como-funciona-un-mosfet]] (electrónica del controlador).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], entidad [[mentalidad-de-ingenieria]].

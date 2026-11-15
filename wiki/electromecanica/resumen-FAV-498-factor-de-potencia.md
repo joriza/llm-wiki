@@ -26,3 +26,7 @@ Explicación de **factor de potencia**: qué es, por qué genera penalizaciones 
 - Contenido con autopromoción (hojas de Excel, tazas merchandising) — excluido de la síntesis.
 - ASR con garbiñeos («120 Vampa» por VA, «Wivo», «fucolt» por Foucault); normalizado solo aquí.
 - Canal **Engineering Mindset 2ª fuente de la ventana** (FAV-490 + FAV-498; ya 2 en electronica-practica FAV-008/009) → entidad candidata reforzada para la consolidación. Umbral: **factor de potencia / corrección reactiva** tema nuevo, 1 fuente.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[serie-componentes-basicos]], [[energias-renovables]], entidad [[mentalidad-de-ingenieria]].

@@ -21,3 +21,7 @@ Taxonomía completa de **inversores fotovoltaicos** y criterios de elección par
 
 - Clúster Energías Renovables: cerrar la cadena [[resumen-FAV-521-paneles-solares-explicados]] → [[resumen-FAV-523-controlador-carga-pwm-mppt-srne]] (regulación DC) → este (conversión AC y arquitectura del sistema); justificación económica en [[resumen-FAV-522-fraude-paneles-solares]].
 - Bases: [[resumen-FAV-503-como-funciona-un-mosfet]] (conmutación), [[resumen-FAV-498-factor-de-potencia]] (AC).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], [[reguladores-carga-solar]].

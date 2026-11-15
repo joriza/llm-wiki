@@ -19,3 +19,7 @@ Explicación divulgativa breve del fundamento físico de los **arcos detectores 
 
 - Clúster detectores de metales: el principio «campo uniforme perturbado por metal» es la versión de escala humana del equilibrio VLF de [[resumen-FAV-513-plato-detector-vlf-como-funciona]]; construcción práctica en [[resumen-FAV-512-detector-metales-pi-pirata-ruso]].
 - Inducción magnética: [[resumen-FAV-501-inductores-explicados]].
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[detectores-de-metales]].

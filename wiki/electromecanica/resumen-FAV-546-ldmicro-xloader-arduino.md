@@ -19,3 +19,7 @@ Flujo completo **LDmicro → hex → XLoader → Arduino** — el «cómo se sub
 
 - **Umbral LDmicro/ladder** — tercera fuente del subclúster (FAV-544 bootloader, 545 teoría, 546 flujo de carga) junto al clúster PLC industrial (FAV-490..497) → concepto **PLC industrial vs ladder-hobby** candidato firme para consolidación.
 - Bases: [[resumen-FAV-490-conceptos-basicos-plc]] (I/O y ciclo de escaneo que LDmicro implementa en el ATmega).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[plc-relays-a-ladder]].

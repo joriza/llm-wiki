@@ -20,3 +20,7 @@ Divulgación histórica y física del **techo de eficiencia del silicio** — ve
 
 - Clúster renovables: misma física pero más divulgativa que [[resumen-FAV-521-paneles-solares-explicados]] y [[resumen-FAV-527-mono-vs-policristalino]] (los números de pérdidas coinciden en orden de magnitud); el almacenamiento como respuesta en [[resumen-FAV-531-volante-inercia-almacenamiento]]; perspectiva crítica paralela en [[resumen-FAV-532-espejismo-verde-autos-electricos]].
 - Bases: [[resumen-FAV-499-diodos-explicados]] (unión P-N).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]].

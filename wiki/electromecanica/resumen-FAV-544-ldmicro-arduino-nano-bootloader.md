@@ -21,3 +21,7 @@ Capítulo 10 de la serie **LDmicro** (ladder → microcontrolador): cómo grabar
 - **Umbral LDmicro/PLC-ladder** (FAV-544 + la serie del canal + el clúster PLC LOGO!/Cade Simu FAV-490..497): enlaza la familia PLC comercial con la versión hobby en Arduino → concepto candidato (PLC: industrial vs LDmicro) para consolidación.
 - Canal El Profe Zurco: 1ª fuente (serie LDmicro en curso) → candidato a entidad firme si reaparece (es una serie completa).
 - Bases: [[resumen-FAV-490-conceptos-basicos-plc]] (ciclo de escaneo que LDmicro implementa).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[plc-relays-a-ladder]].

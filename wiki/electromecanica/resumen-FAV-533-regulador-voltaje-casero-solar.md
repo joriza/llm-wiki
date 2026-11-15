@@ -21,3 +21,7 @@ Circuito didáctico de **regulador de corte simple** (on/off) para panel solar, 
 
 - Clúster renovables: contrapunto casero de los reguladores comerciales de [[resumen-FAV-523-controlador-carga-pwm-mppt-srne]] y [[resumen-FAV-525-mppt-que-es-como-funciona]] (mismos conceptos PWM/MPPT explicados con otros ojos); la protección de la batería repite la del kit de [[resumen-FAV-534-kit-solar-cortes-luz]].
 - Bases: [[resumen-FAV-499-diodos-explicados]] (zener, flyback), [[resumen-FAV-502-transistor-explicado]] (llave), [[resumen-FAV-501-inductores-explicados]] (bobina del relé).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], [[reguladores-carga-solar]].

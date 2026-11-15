@@ -23,3 +23,7 @@ Física y sistemas completos del **panel solar fotovoltaico**: del fotón a la r
 
 - Clúster Energías Renovables: el «par renovable» con [[resumen-FAV-520-turbinas-eolicas-secretos]]; regulador e inversor se desarrollan en [[resumen-FAV-523-controlador-carga-pwm-mppt-srne]] y [[resumen-FAV-524-inversores-solares-tipos]]; rentabilidad real en [[resumen-FAV-522-fraude-paneles-solares]].
 - Bases: [[resumen-FAV-499-diodos-explicados]] (unión P-N), [[resumen-FAV-500-capacitores-explicados]], LED (dualidad emisor/fotocelda).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], [[reguladores-carga-solar]], entidad [[mentalidad-de-ingenieria]].

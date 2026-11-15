@@ -20,3 +20,7 @@ Análisis de ciclo de vida completo del auto eléctrico con marco crítico («es
 
 - Clúster renovables: contrapeso crítico con el mismo espíritu «exchange de daños» que [[resumen-FAV-530-verdadero-problema-paneles-solares]] (techo del silicio) y [[resumen-FAV-522-fraude-paneles-solares]] (marketing vs números); marco «lo que el sistema sabe vender» compartido con [[resumen-FAV-531-volante-inercia-almacenamiento]].
 - Interés transversal con conceptos generales de energía y política (posible cruce futuro en consolidación).
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]].

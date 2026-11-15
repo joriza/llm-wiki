@@ -22,3 +22,7 @@ Comparativa técnica de tecnologías de módulo de silicio con foco en **eficien
 
 - Clúster renovables: desarrolla los tipos de celda de [[resumen-FAV-521-paneles-solares-explicados]]; la pérdida por calor conecta con el I²R de [[resumen-FAV-498-factor-de-potencia]] y con la regla «subir voltaje para bajar corriente» de [[resumen-FAV-525-mppt-que-es-como-funciona]].
 - Canal CIAE: 2ª fuente (con FAV-526 y FAV-528) → entidad candidata firme.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], entidad [[ciae]].

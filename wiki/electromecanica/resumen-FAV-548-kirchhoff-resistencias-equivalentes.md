@@ -20,3 +20,7 @@ Clase 2 de un curso de teoría de circuitos: **deducción (no memorización)** d
 
 - **Umbral Kirchhoff: única fuente procesada del subtema** (FAV-547 NO-SUBS) — teoría base que unifica la carpeta: reactancia de [[resumen-FAV-504-fuente-capacitiva-sin-transformador]], divisor del TL494 de [[resumen-FAV-505-cargador-baterias-fuente-pc]], regla serie/paralelo de [[resumen-FAV-529-serie-o-paralelo-paneles-solares]], caída de tensión de [[resumen-FAV-498-factor-de-potencia]].
 - Canal El Traductor de Ingeniería: 1ª fuente (curso de 6 clases) → candidato a entidad si reaparece.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[serie-componentes-basicos]], [[energias-renovables]].

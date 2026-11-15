@@ -23,3 +23,7 @@ Fundamentos del **transistor bipolar (BJT)** — cuarto de la serie de component
 
 - ASR con garbiñeos («nn/pnp» por NPN/PNP, «10.000 amperes» por 100 mA, «yen pére» por mA); normalizado solo aquí.
 - Canal Engineering Mindset **6ª fuente de la ventana** (490/498/499/500/501/502) — entidad candidata firme. Serie de componentes completa (diodo/capacitor/inductor/transistor) + MOSFET FAV-503 siguiente → página de concepto serie al cierre. Cruces: [[transistor-bjt]], FAV-503.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[serie-componentes-basicos]], [[detectores-de-metales]], entidad [[mentalidad-de-ingenieria]].

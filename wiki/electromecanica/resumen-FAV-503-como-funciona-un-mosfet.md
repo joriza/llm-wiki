@@ -23,3 +23,7 @@ Guía completa del **MOSFET** — quinto de la serie de componentes del canal en
 - ASR con garbiñeos («peña corriente», «orificio pasante» por through-hole); normalizado solo aquí.
 - Contenido con autopromoción (tazas, tutoriales enlazados) — excluido de la síntesis.
 - Canal Engineering Mindset **7ª fuente de la ventana** (490/498/499/500/501/502/503) — entidad candidata firme; serie de 5 componentes completa → página de concepto serie al cierre.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[serie-componentes-basicos]], [[detectores-de-metales]], [[reguladores-carga-solar]], entidad [[mentalidad-de-ingenieria]].

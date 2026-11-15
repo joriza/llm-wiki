@@ -21,3 +21,7 @@ Guía práctica de **configuración de paneles** (serie/paralelo/2s2p) con núme
 
 - Clúster renovables: aplica la regla serie/paralelo de [[resumen-FAV-521-paneles-solares-explicados]] con números y la conecta con la elección string/micro de [[resumen-FAV-524-inversores-solares-tipos]] y los umbrales de voltaje del MPPT de [[resumen-FAV-525-mppt-que-es-como-funciona]]; el efecto sombra = máximos locales falsos de [[resumen-FAV-526-mppt-inversores-maxima-extraccion]].
 - Canal Energía Solar Lab: 1ª fuente → candidato a entidad si reaparece.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[energias-renovables]], [[reguladores-carga-solar]].

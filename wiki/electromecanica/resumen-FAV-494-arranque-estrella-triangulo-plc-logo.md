@@ -21,3 +21,7 @@ Programación **en el propio equipo LOGO! de Siemens** (desde su pantalla y boto
 
 - ASR con garbiñeos («lachin relay» por latching relay, «Star/Stock» por Start/Stop); normalizado solo aquí.
 - Umbral deferido: **arranque estrella-triángulo** como concepto acumula esta fuente + FAV-496/497 (prácticas siguientes de la carpeta). Canal Antonio Delg: 1 fuente.
+
+## Consolidación (2026-11-15)
+
+- Cableado a páginas de concepto/entidad creadas en la consolidación de la ventana: [[plc-relays-a-ladder]].
