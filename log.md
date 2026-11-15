@@ -1795,3 +1795,7 @@ Registro cronológico de solo adición.
 ## [2026-11-15] ingesta | Ventana IOT Gral — relevo 2 (FAV-351..355) — cierre
 
 - Relevo 2 COMPLETO: 5/5 procesadas con ciclo completo (FAV-351 FPGA 98ca6072, FAV-352 RTC ba45a899, FAV-353 ESP-NOW a46f2e80, FAV-354 4-20 mA e96ab4db, FAV-355 FreeRTOS este commit). 0×429; salida WARP 104.28.199.112; pacing ~85-90 s vía puerta; 5 fetches OK (ningún meta-fail ni NO-SUBS). Pendiente registrado para el relevo 3: FAV-365 (4-20 mA, t=175s) es DUPLICADO de FAV-354 (mismo video XkdxKrvYVnc, timestamp distinto) — marcarlo como duplicado, no re-procesar.
+
+## [2026-11-15] ingesta | Ventana IOT Gral — relevo 3 (FAV-356..360)
+
+- **FAV-356** (`https://www.youtube.com/watch?v=lnS9YQuderI`): «Si NO USAS esta Herramienta, estás PERDIENDO TIEMPO con tu ESP32» — IoT Lab (13:26, español, subs auto) — ESP Connect, herramienta web open source vía Web Serial: identificación de chip/variante/PSRAM/flash, mapa de particiones (memoria sin uso), backup por partición o volcado completo, clonado de placas por .bin, explorador de SPIFFS/LittleFS/FAT con subida de archivos y MP3, monitor serie. Transcripción en `raw/electronica-practica/2025-12-21-esp-connect-herramienta-web-esp32-iotlab.md`. — Dominio: electronica-practica/ — resumen `wiki/electronica-practica/resumen-FAV-356-esp-connect-herramienta-web-esp32-iotlab.md`. Nota para consolidación: canal IoT Lab alcanza 2 fuentes (FAV-353 + FAV-356) → candidata a entidad.
