@@ -2988,3 +2988,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Raw: `raw/wl/tramo-17/2026-10-28-estamos-vivos-de-puro-c-lo-2-otras-10-cosas-peligrosas-de-nuestra-infancia.md` · Resumen: `wiki/wl/tramo-17/resumen-WL149-estamos-vivos-de-puro-culo-2.md`
 - Dominio previsto (consolidación diferida): general/sociedad-argentina (humor nostálgico).
 
+## [2026-11-15] ingesta | Le pidió a una IA que HACKEARA su TV (WL-150, tramo 17)
+
+- Canal Crossover, 2026-10-28, 20:57. Del caso Gatin (IA des-bloateando una Xiaomi TV) a la economía de la tele barata: ACR (demanda de Texas a Samsung/LG/Sony/Hisense/TCL), Vizio-FTC 2014, cita Baxter «necesito cubrir costes», Roku 26:1, Walmart-Vizio 2.300 M$, GM/nevera Samsung/Telly, enshittification, amenaza desde abajo (puerta de desarrollador Android TV + IA) y contrarespuesta (Vega OS, desarrolladores verificados). Editorialización/predicciones señaladas como opinión; datos con fuente citada.
+- Raw: `raw/wl/tramo-17/2026-10-28-le-pidio-a-una-ia-que-hackeara-su-tv-lo-que-quito-explica-tu-tele.md` · Resumen: `wiki/wl/tramo-17/resumen-WL150-le-pidio-a-una-ia-que-hackeara-su-tv.md`
+- Dominio previsto (consolidación diferida): general (tecnología/privacidad); cruces con WL-147/WL-132 (seguridad local, Jorge Marfil) y crítica tecnológica.
+
