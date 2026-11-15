@@ -2283,3 +2283,9 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Raw**: raw/general/2026-11-15-por-que-dejamos-de-leer-platzi.md
 - **Resumen**: wiki/general/resumen-FAV-481-por-que-dejamos-de-leer-platzi.md
 - **Dominio**: general/ — transversal sin dominio claro (educación/lectura; decisión de consolidación).
+
+## [2026-11-15] ingesta | La IA va más rápido que la educación (MoureDev) — FAV-482
+- **Fuente**: https://www.youtube.com/watch?v=_HEC-ioPY6I (list=WL ignorado, S4). Canal MoureDev by Brais Moure, 2026-04-22, 12:22, ES subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-ia-va-mas-rapido-que-la-educacion-mouredev.md
+- **Resumen**: wiki/informatica/resumen-FAV-482-ia-educacion-desfase-mouredev.md
+- **Dominio**: informatica/ por contenido (formación de programadores) — transversal sin dominio claro (pedagogía) para consolidación. Umbral: canal MoureDev 2 fuentes (FAV-428/482), entidad candidata deferida.

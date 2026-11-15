@@ -69,7 +69,7 @@ FAV-478|Arduino|(398) Easy to get exact password using NodeMCU [Hindi] - YouTube
 FAV-479|Arduino|(398) WiFi Hacking Device : Dual Band ESP32C5 Deauther - YouTube|https://www.youtube.com/shorts/NOH1t-q8KP8 ; PROCESADA 2026-11-15 (relevo 14 T4)
 FAV-480|Arduino|(397) ESP32 como NAT y repetidor WiFi para mejorar el alcance. Fácil y económico - YouTube|https://www.youtube.com/watch?v=1vbkmLB4Tr8 ; PROCESADA 2026-11-15 (relevo 14 T4)
 FAV-481|Transversal|(3653) Por qué dejamos de leer - YouTube|https://www.youtube.com/watch?v=5X26m52lMwU ; PROCESADA 2026-11-15 (relevo 15 T4)
-FAV-482|Transversal|(487) La IA va más rápido que la educación… y esto es un problema - YouTube|https://www.youtube.com/watch?v=_HEC-ioPY6I&list=WL&index=15
+FAV-482|Transversal|(487) La IA va más rápido que la educación… y esto es un problema - YouTube|https://www.youtube.com/watch?v=_HEC-ioPY6I&list=WL&index=15 ; PROCESADA 2026-11-15 (relevo 15 T4)
 FAV-483|Transversal|(546) Por qué el talento ya no te sirve para conseguir trabajo - YouTube|https://www.youtube.com/watch?v=bAAjgX6hBu4&t=405s
 FAV-484|Transversal|(550) LENGUAJE INCLUSIVO 🔴 ¿Tiene sentido lingüístico? - YouTube|https://www.youtube.com/watch?v=gJ9hDjZW3WM
 FAV-485|Transversal|(564) La Mentira de las Pirámides: Estas Piedras NUNCA Fueron Transportadas - YouTube|https://www.youtube.com/watch?v=SVM6pbiaWdM
