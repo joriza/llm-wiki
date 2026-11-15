@@ -2277,3 +2277,9 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 ## [2026-11-15] relevo 14 T4 — FAV-476..480 COMPLETO 5/5 (líneas 66-70, IDs verificados contra vs-docencia-lista.txt — coinciden con el encargo)
 - FAV-476 DUPLICADO (naJQhnYYlak&t=240s = FAV-474, sin fetch, 0bedc475) · FAV-477 WiFiManager ESP32/ESP8266, Jadsa Tech (53046e7d) · FAV-478 Evil Twin NodeMCU, TechChip hindi (043d7e57) · FAV-479 deauther dual band ESP32-C5 Short, theBitnest (38c4a4b1) · FAV-480 ESP32 NAT repetidor, Computadoras y Sensores (este commit). 4 PROCESADAS + 1 DUPLICADO, 5/5 resueltas. 0×429; salida WARP 104.28.199.112; 4 fetches OK gated (~88 s vía .atl/fetch_yt.py), 0 meta-fail, 0 NO-SUBS, 0 playlists puras en el rango.
 - Umbrales nuevos para consolidación diferida: canal **Computadoras y Sensores 2 fuentes** (FAV-474/480, ambos repetidor NAT ESP32 — entidad candidata deferida); **clúster deauther/WiFi-ofensivo ampliado** (FAV-412/415/416 + FAV-478 Evil Twin + FAV-479 primer soporte 5 GHz con ESP32-C5). Clúster repetidor/NAT ESP32 ahora 3 fuentes (FAV-474/480 + WiFiManager FAV-477 como pieza conexa). Sin concepto/entidad nuevas (todo deferido). El relevo siguiente continúa en la línea 71 (FAV-481, subcarpeta Transversal).
+
+## [2026-11-15] ingesta | Por qué dejamos de leer (Platzi) — FAV-481
+- **Fuente**: https://www.youtube.com/watch?v=5X26m52lMwU. Canal Platzi (Freddy Vega), 2026-04-03, 16:48, ES subs automáticos.
+- **Raw**: raw/general/2026-11-15-por-que-dejamos-de-leer-platzi.md
+- **Resumen**: wiki/general/resumen-FAV-481-por-que-dejamos-de-leer-platzi.md
+- **Dominio**: general/ — transversal sin dominio claro (educación/lectura; decisión de consolidación).
