@@ -2188,3 +2188,7 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=ZjfopQLBH1E. Canal Torti Code, 2026-07-13, 14:41, ES subs automáticos.
 - **Raw**: raw/informatica/2026-11-15-sabes-solid-te-faltan-4-principios-torti-code.md
 - **Resumen**: wiki/informatica/resumen-FAV-459-sabes-solid-te-faltan-4-principios-torti-code.md
+
+## [2026-11-15] relevo 10 T4 — FAV-456..460 COMPLETO 5/5 (líneas 46-50, IDs verificados contra vs-docencia-lista.txt — coinciden con el encargo)
+- FAV-456 OpenAI agentes hackean Hugging Face, Platzi (b63f7e87) · FAV-457 35 años de Linux, La Chica de Sistemas (453b805f + 25510de0 por fila de index tardía) · FAV-458 ordenar 1M de datos, Torti Code (9fecdfd7) · FAV-459 DRY/KISS/YAGNI/acoplamiento, Torti Code (c1eff563) · FAV-460 map/filter/reduce, Torti Code (este commit). 5/5 PROCESADAS con ciclo completo. 0×429; salida WARP 104.28.199.112; 5 fetches OK gated (~87 s), 0 meta-fail, 0 NO-SUBS, 0 duplicados, 0 playlists puras en el rango.
+- Umbrales nuevos para consolidación diferida: canal **Torti Code ahora 8 fuentes** (FAV-433/439/440/441 + 458/459/460 + informatica-teoria); canal **La Chica de Sistemas 2 fuentes** (FAV-449/457 — entidad candidata, umbral ≥2 cumplido, deferida); clúster **principios de diseño de software** (FAV-440 SOLID + 459 DRY/KISS/YAGNI/acoplamiento, par directo); eje historia-software-corporativa a 6 fuentes (FAV-430/431/446/452/453 + 457 Linux). Sin concepto/entidad nuevas (todo deferido). El relevo siguiente continúa en la línea 51 (FAV-461).
