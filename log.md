@@ -2776,3 +2776,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-10/2026-10-31-cafe-con-javo-ayudo-a-bolsonaro-lo-golpearon-en-catamarca.md` (`6MLzI2Pgl0s`, PDB, 2026-10-31, 17:04).
 - **Resumen**: `wiki/wl/tramo-10/resumen-WL115-cafe-con-javo-ayudo-a-bolsonaro-lo-golpearon-en-catamarca.md`.
 - **Decisiones**: contenido 100 % satírico/ficcional — archivado como humor político, no fuente informativa (advirtido en triage); dominio destino `general` (cultura argentina / humor político; S4 sin dominios nuevos); cruce con WL-112 diferido. ASR muy ruidoso, normalizado solo en el resumen (L12).
+
+## [2026-11-15] ingesta WL | tramo 10, fuente WL-116 — La ingeniería detrás de la fibra óptica (Veritasium)
+
+- **Fuente**: `raw/wl/tramo-10/2026-10-31-la-increible-ingenieria-detras-de-la-fibra-optica.md` (`TWGxp6Okogw`, Veritasium en español, 2026-10-31, 33:05).
+- **Resumen**: `wiki/wl/tramo-10/resumen-WL116-la-increible-ingenieria-detras-de-la-fibra-optica.md`.
+- **Decisiones**: dominio destino `general` (historia de la tecnología/infraestructura de red; S4 sin dominios nuevos); cruce con WL-111 (internet) diferido; bloque final de equipo/doblaje excluido. Consolidación diferida (L12).
