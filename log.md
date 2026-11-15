@@ -2560,3 +2560,6 @@ Fuente 4/11 (5Wq4DTyp944, Felipe M. 2025-07-21). Raw intacto a raw/self-hosting/
 
 ## [2026-11-15] ingesta | How to install Pi-hole on Casa OS
 Fuente 5/11 (uOvB0CIhb5k, BigBearTechWorld 2023-09-22, en inglés). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 3-4. Última del relevo 1.
+
+## [2026-11-15] ingesta | BLOQUEA ADS y MALWARE en TODOS tus dispositivos - PI-HOLE
+Fuente 6/11 (qc8mkWtwY9c, Pelado Nerd 2019-06-21, ES-ASR 06:46). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-5. Antecedente temprano (2019) de Pi-hole.
