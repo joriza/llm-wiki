@@ -3096,3 +3096,6 @@ Tramo 23, fuente 2. Caso de estrategia de segunda marca argentina: Cañido, Sao,
 
 ## [2026-11-15] ingesta | WL-183 · La Traición que DESTRUYÓ a Anonymous para siempre (Historias De Hackers)
 Tramo 23, fuente 3. Docudrama del ciclo LulzSec 2011 y la traición de Sabu: HBGary, AntiSec, chat operado por el FBI, Hammond/Stratfor y sentencias. Raw espejado en `raw/wl/tramo-23/2026-07-12-la-traicion-que-destruyo-a-anonymous-para-siempre.md`; resumen en `wiki/wl/tramo-23/resumen-WL183-la-traicion-que-destruyo-a-anonymous.md`. Dominio previsto: general o ia-critica-y-fronteras (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
+
+## [2026-11-15] ingesta | WL-184 · ¿El Peronismo en su Crisis Terminal? (Los Herederos de Alberdi)
+Tramo 23, fuente 4. Compilación satírico-crítica de la crisis peronista post-2025; NO fuente factual, encuadre militante señalado en triage e index. Raw espejado en `raw/wl/tramo-23/2026-10-22-el-peronismo-en-su-crisis-terminal-de-trabajadores-a-femboys.md`; resumen en `wiki/wl/tramo-23/resumen-WL184-el-peronismo-en-su-crisis-terminal.md`. Dominio previsto: general/sociedad-argentina (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
