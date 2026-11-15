@@ -32,3 +32,4 @@ Ficha práctica de una herramienta del ecosistema Arduino, útil como alternativ
 ## Notas
 
 - ASR severamente degradado (p. ej. «un hogar to sing» = UnoArduSim; «muriendo y cardús» = buscando en Google): nombres propios y comandos normalizados aquí SOLO en el resumen, jamás en el raw. Música de fondo sin contenido; CTA excluido.
+- Ver también (simulación): [[resumen-FAV-472-siete-simuladores-arduino-2026-top-projects]].

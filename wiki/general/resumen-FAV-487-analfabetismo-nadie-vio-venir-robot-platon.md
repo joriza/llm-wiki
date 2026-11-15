@@ -26,3 +26,4 @@ Complemento directo del par lectura/analfabetismo: [FAV-481 Por qué dejamos de 
 ## Consolidación (2026-11-15)
 
 - Tríptico consolidado: [[alfabetizacion-comprension]] · [[delegacion-cognitiva-ia]].
+- Ver también (eje lectura/educación): [[resumen-FAV-484-lenguaje-inclusivo-linguriosa]], [[resumen-FAV-485-piramides-piedra-geopolimero-murat-can-cilli]], [[resumen-FAV-488-generacion-inutiles-opositores-padres-negocios-tv]].

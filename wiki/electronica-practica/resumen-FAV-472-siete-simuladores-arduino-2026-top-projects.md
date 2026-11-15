@@ -22,3 +22,4 @@ Panorama útil y actual (2025-2026) del ecosistema de simulación Arduino, con e
 
 - El título promete 7 herramientas; el conteo del recorrido es difuso (una sección parece compartida entre dos simuladores de escritorio). Los nombres «Simole IDE», «Oaki» y «UnoSim» provienen del ASR en inglés y pueden variar respecto a la grafía real de los productos.
 - Video tipo compilación sin autoría experta evidente; tratado como catálogo, no como análisis profundo.
+- Ver también: [[resumen-FAV-471-pines-analogicos-como-digitales-editronikx]] (práctica de pines).

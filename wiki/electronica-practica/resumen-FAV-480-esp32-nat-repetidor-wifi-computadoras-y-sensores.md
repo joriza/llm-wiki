@@ -30,3 +30,4 @@ Segunda toma del canal sobre el tema, complementaria a FAV-474: otro firmware (c
 ## Consolidación (2026-11-15)
 
 - Canal consolidado: entidad [[computadoras-y-sensores]].
+- Ver también (configuración Wi-Fi): [[resumen-FAV-477-esp32-wifimanager-redes-dinamicas-jadsa-tech]].

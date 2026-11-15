@@ -23,3 +23,4 @@ Divulgación útil y práctica; consejo transversal repetido: cambiar siempre la
 ## Cruces
 
 - Clúster **redes**: DHCP (FAV-374 DORA/lease en informatica-teoria), OpenWRT/domótica local (cruza con el clúster Proxmox homelab y con la línea ESP32/IOT de electronica-practica), privacidad local vs nube (FAV-419 RAG local).
+- Ver también (redes caseras avanzadas): [[resumen-FAV-450-samba4-active-directory-debian13]].

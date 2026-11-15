@@ -18,3 +18,4 @@ Tutorial de construcción de un **RAG (Retrieval-Augmented Generation) con agent
 
 - [[ia-en-mcu]] — contraste de arquitecturas (inferencia local vs nube) desde la escala MCU; aquí el mismo eje local/nube a escala de PC.
 - Dominio ia-local de la wiki (Ollama, modelos locales) — si se crea el dominio informatica, esta fuente migraría ahí junto con FAV-413.
+- Ver también (self-hosting LLM): [[resumen-FAV-413-sillytavern-frontend-llm]], [[resumen-FAV-420-freellmapi-proxy-ia-gratis]].

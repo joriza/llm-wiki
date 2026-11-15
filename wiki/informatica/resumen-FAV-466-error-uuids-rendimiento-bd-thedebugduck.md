@@ -52,3 +52,4 @@ Cierre técnico y coherente del clúster [[resumen-FAV-463-anecdota-bd-sin-relac
 ## Consolidación (2026-11-15)
 
 - Clúster y canal consolidados: [[bases-de-datos]] · [[thedebugduck]].
+- Ver también (buenas prácticas dev): [[resumen-FAV-455-arquivo-env-boas-praticas-adriano-aoli]], [[resumen-FAV-456-openai-agentes-hackean-huggingface-platzi]] (seguridad).

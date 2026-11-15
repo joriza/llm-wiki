@@ -28,3 +28,4 @@ Contra el modelo antiguo de «curso de 100 horas»: hoy hay información de sobr
 ## Consolidación (2026-11-15)
 
 - Canal consolidado: entidad [[torti-code]] (14 fuentes).
+- Ver también: [[resumen-FAV-442-typeracer-mecanografia]] — práctica deliberada de mecanografía como habilidad complementaria.

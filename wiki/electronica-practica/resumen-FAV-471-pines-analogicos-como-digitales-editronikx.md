@@ -25,3 +25,4 @@ Tutorial corto y pragmático que resuelve un problema recurrente (falta de pines
 ## Notas
 
 - Subtítulos automáticos de 2014 con ASR mediocre («uino», «acer», «meja»); normalizado solo aquí.
+- Ver también: [[resumen-FAV-470-sensor-distancia-hc-sr04-edgar-pons]], [[resumen-FAV-473-cargar-programa-arduino-ldmicro-xloader-marco-cruz]].

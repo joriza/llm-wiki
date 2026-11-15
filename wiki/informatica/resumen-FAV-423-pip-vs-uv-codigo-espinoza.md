@@ -37,3 +37,4 @@ En 2026 la comunidad de Python adoptó **uv** (Astral, escrito en Rust, lanzado 
 ## Consolidación (2026-11-15)
 
 - Canal consolidado: entidad [[codigo-espinoza]].
+- Ver también (ecosistema Python): [[resumen-FAV-422-introduccion-informal-python-docs]].
