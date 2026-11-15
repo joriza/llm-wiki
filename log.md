@@ -2665,3 +2665,6 @@ Fuente 29/37 de la playlist Python (wzyriWPkh8U, MoureDev TV 2024-08-07, ES-ASR,
 
 ## [2026-11-15] ingesta | Curso COMPLETO de PYTHON desde CERO para BACKEND (MoureDev, relevo 6, fuente 30/37)
 Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-curso-completo-de-python-desde-cero-para-backend.md`; cruce a [[fastapi]] (nueva sección «curso integral»). index.md y log.md actualizados. Commit por archivo.
+
+## [2026-11-15] ingesta | Descubre las Mejores Librerías Python en 15 Minutos (Codificando 01, relevo 6, fuente 31/37)
+Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-descubre-las-mejores-librerias-python-en-15-minutos.md`; sin cruces a páginas existentes (tercera fuente «mapa del ecosistema» señalada para consolidación). index.md y log.md actualizados. Commit por archivo.
