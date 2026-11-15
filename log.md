@@ -2020,3 +2020,8 @@ URL de playlist pura (list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS, sin v=). IGNORADA
 - Fuente: https://www.youtube.com/watch?v=CNCUtZ9BiHI → raw/electronica-practica/2026-11-15-apis-gratuitas-python.md
 - Resumen: wiki/electronica-practica/resumen-FAV-424-apis-gratuitas-python-codigo-espinoza.md
 - Fuente de INFORMÁTICA — **candidata a dominio informatica**. Umbral canal Código Espinoza 2 fuentes (FAV-423/424) — entidad candidata deferida. Cruces: FAV-422/423, FAV-420. Descarga gated OK (sleep ~85 s, salida WARP).
+
+## [2026-11-15] ingesta | FAV-425 — Express.js en 10 minutos (Carlos González)
+- Fuente: https://www.youtube.com/watch?v=6uDgb9hHz7I → raw/electronica-practica/2026-11-15-express-js-10-minutos.md
+- Resumen: wiki/electronica-practica/resumen-FAV-425-express-js-10-minutos-carlos-gonzalez.md
+- Fuente de INFORMÁTICA (Informatica/web) — **candidata a dominio informatica**. Clúster Informatica de la ventana: 7 fuentes (FAV-413, 419, 420, 422-425). Cruces: FAV-419/420. Descarga gated OK (sleep ~85 s, salida WARP).
