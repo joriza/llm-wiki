@@ -2551,3 +2551,6 @@ Fuente 1/11 (8qxX43V2GCE, GCtech 2025-12-12). Raw intacto a raw/self-hosting/; r
 
 ## [2026-11-15] ingesta | Home Servers en 2025: Todo lo que tenes que saber para comenzar!
 Fuente 2/11 (hwaho9SAMco, Pocho Labs 2025-04-28). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuente 1.
+
+## [2026-11-15] ingesta | He CLONADO Google Fotos, Dropbox y ChatGPT en Local (Geekom IT12)
+Fuente 3/11 (00ENzG5SCMM, Enreta Domótica 2025-11-23). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-2. Video con equipo enviado por la marca (declarado).
