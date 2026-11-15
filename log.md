@@ -2503,3 +2503,18 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Niquelado casero (FAV-539, relevo 10 Electromecanica)
 - FAV-539 4dzl2E5fJD4 «Niquelado casero — electrolito» — INVENT AR, ES-ASR 04:40. Resumen: wiki/electromecanica/resumen-FAV-539-niquelado-casero-electrolito.md; raw: raw/electromecanica/2026-11-15-niquelado-casero-electrolito.md. Práctica del umbral electrólisis; restauración como tema paralelo.
+
+## [2026-11-15] ingesta | Niquelado método mejorado (FAV-540, relevo 11 Electromecanica)
+- FAV-540 0hNqim8l8aQ «Niquelado casero - Método mejorado» — Haciendo Cosas Raras, ES-ASR 14:05. Resumen: wiki/electromecanica/resumen-FAV-540-niquelado-metodo-mejorado.md; raw: raw/electromecanica/2026-11-15-niquelado-metodo-mejorado.md. **Umbral electrólisis/niquelado ahora 3 fuentes (FAV-538/539/540) → concepto candidato firme para consolidación.**
+
+## [2026-11-15] ingesta | Punta de cobre casera (FAV-541, relevo 11 Electromecanica)
+- FAV-541 NoaLWJ6qsdA «Por que mi cautín no suelda?» — Electricidad y Algo Mas, ES-ASR 04:21. Resumen: wiki/electromecanica/resumen-FAV-541-cautin-no-suelda-punta-cobre.md; raw: raw/electromecanica/2026-11-15-cautin-no-suelda-punta-cobre.md. Apertura del umbral cautines (2ª fuente con FAV-542).
+
+## [2026-11-15] ingesta | Reparar/modificar cautín (FAV-542, relevo 11 Electromecanica)
+- FAV-542 uyFW6-19NDo «Repara o modifica tu cautín» — A. Electronic, ES-ASR 16:34. Resumen: wiki/electromecanica/resumen-FAV-542-reparar-modificar-cautin.md; raw: raw/electromecanica/2026-11-15-reparar-modificar-cautin.md. **Umbral cautines cumplido (FAV-541+542) → concepto candidato.**
+
+## [2026-11-15] ingesta | Identificar NPN-PNP (FAV-543, relevo 11 Electromecanica)
+- FAV-543 OakNLWQRBQQ «Cómo Identificar un Transistor NPN - PNP» — Humberto Higinio, ES-ASR 11:34 (&list= ajena ignorada por S4). Resumen: wiki/electromecanica/resumen-FAV-543-identificar-transistor-npn-pnp.md; raw: raw/electromecanica/2026-11-15-identificar-transistor-npn-pnp.md. Complemento práctico del transistor BJT (FAV-502).
+
+## [2026-11-15] ingesta | LDmicro Arduino Nano (FAV-544, relevo 11 Electromecanica)
+- FAV-544 ieUgc414Et4 «LDmicro Cap_10» — El Profe Zurco, ES-ASR 11:05. Resumen: wiki/electromecanica/resumen-FAV-544-ldmicro-arduino-nano-bootloader.md; raw: raw/electromecanica/2026-11-15-ldmicro-arduino-nano-bootloader.md. **Umbral PLC-ladder: clúster PLC LOGO!/Cade Simu (FAV-490..497) + LDmicro hobby → concepto PLC industrial-vs-hobby candidato a consolidación.**

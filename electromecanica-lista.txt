@@ -48,11 +48,11 @@
 - FAV-537 — [playlist] (Electromecanica/Energias Renovables) — (927) 🪵🪓 CÓMO HACER MÁQUINA PARA HACER BRIQUETAS - YouTube — https://www.youtube.com/playlist?list=PLDKIpoNvzGd90MxvYFAJ3mif7IEARAv5F ; IGNORADA 2026-11-15 relevo 10 (playlist pura, precedente FAV-401/404/492/493)
 - FAV-538 — [video] (Electromecanica/Otros) — ¿Qué es la Electrolisis? - YouTube — https://www.youtube.com/watch?v=LabUSWql5mc ; PROCESADA 2026-11-15 relevo 10
 - FAV-539 — [video] (Electromecanica/Otros) — Niquelado casero - como hacer electrolito para NIQUELAR metales, casero con pocos elementos, como niquelar metales - YouTube — https://www.youtube.com/watch?v=4dzl2E5fJD4 ; PROCESADA 2026-11-15 relevo 10
-- FAV-540 — [video] (Electromecanica/Otros) — Niquelado casero - Método mejorado - YouTube — https://www.youtube.com/watch?v=0hNqim8l8aQ
-- FAV-541 — [video] (Electromecanica) — Por que mi cautín no suelda? - YouTube — https://www.youtube.com/watch?v=NoaLWJ6qsdA
-- FAV-542 — [video] (Electromecanica) — Repara o modifica tu cautín. ¡Este no es un vídeo más! - YouTube — https://www.youtube.com/watch?v=uyFW6-19NDo
-- FAV-543 — [video] (Electromecanica) — (241) Cómo Identificar un Transistor NPN - PNP - YouTube — https://www.youtube.com/watch?v=OakNLWQRBQQ&list=PLbwo_Ft3k3pgRiRi0BH2BynKb09RMeJjd&index=8
-- FAV-544 — [video] (Electromecanica) — (356) ⚡ LDmicro Cap_10 micro PLC Ladder con Arduino Nano, como grabar con AVRDUDES - YouTube — https://www.youtube.com/watch?v=ieUgc414Et4
+- FAV-540 — [video] (Electromecanica/Otros) — Niquelado casero - Método mejorado - YouTube — https://www.youtube.com/watch?v=0hNqim8l8aQ ; PROCESADA 2026-11-15 relevo 11
+- FAV-541 — [video] (Electromecanica) — Por que mi cautín no suelda? - YouTube — https://www.youtube.com/watch?v=NoaLWJ6qsdA ; PROCESADA 2026-11-15 relevo 11
+- FAV-542 — [video] (Electromecanica) — Repara o modifica tu cautín. ¡Este no es un vídeo más! - YouTube — https://www.youtube.com/watch?v=uyFW6-19NDo ; PROCESADA 2026-11-15 relevo 11
+- FAV-543 — [video] (Electromecanica) — (241) Cómo Identificar un Transistor NPN - PNP - YouTube — https://www.youtube.com/watch?v=OakNLWQRBQQ&list=PLbwo_Ft3k3pgRiRi0BH2BynKb09RMeJjd&index=8 ; PROCESADA 2026-11-15 relevo 11 (&list= ajena ignorada por S4)
+- FAV-544 — [video] (Electromecanica) — (356) ⚡ LDmicro Cap_10 micro PLC Ladder con Arduino Nano, como grabar con AVRDUDES - YouTube — https://www.youtube.com/watch?v=ieUgc414Et4 ; PROCESADA 2026-11-15 relevo 11
 - FAV-545 — [video] (Electromecanica) — (356) Primeros pasos en ld micro - YouTube — https://www.youtube.com/watch?v=hj08CY_HIII&list=PLLULTIz2rWZMwUTcd1_FBIU7sK5fmrYpa
 - FAV-546 — [video] (Electromecanica) — (356) TUTORIAL | Cargar programa en lenguaje escalera en Arduino con LD Micro y XLoader - YouTube — https://www.youtube.com/watch?v=5bnanIe51QE
 - FAV-547 — [video] (Electromecanica) — (365) Leyes de Kirchhoff (mallas y nodos) Ejercicio Resuelto Paso a Paso + Teoría Resolución de Circuitos - YouTube — https://www.youtube.com/watch?v=EwY13yT1tSo
