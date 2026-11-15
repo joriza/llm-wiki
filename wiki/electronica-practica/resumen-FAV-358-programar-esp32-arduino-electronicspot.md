@@ -16,4 +16,4 @@ Guía completa de puesta en marcha de una placa de desarrollo **ESP32 de 38 pine
 ## Notas
 
 - ASR con errores reconocibles: "expressive" = Espressif, "uasp" = USB, "celicon labs" = Silicon Labs; normalizado solo aquí.
-- Cruces: ecosistema Arduino+ESP32 — [[resumen-FAV-357-nodemcu-esp8266-arduino-beeggle]] (misma mecánica de paquete de placas para ESP8266), [[resumen-FAV-359-de-arduino-a-esp32-migracion]] (mismo tema de arranque con ESP32), [[resumen-FAV-355-freertos-multitarea-core-esp32-profe-garcia]].
+- Cruces: ecosistema Arduino+ESP32 — [[resumen-FAV-357-nodemcu-esp8266-arduino-beeggle]] (misma mecánica de paquete de placas para ESP8266), [[resumen-FAV-359-de-arduino-a-esp32-iotlab]] (mismo tema de arranque con ESP32), [[resumen-FAV-355-freertos-multitarea-core-esp32-profe-garcia]].
