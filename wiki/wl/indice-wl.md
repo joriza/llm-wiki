@@ -154,3 +154,16 @@ Notas del tramo: WL-157 (`npVBnrL-y-4`, El Presto) SKIP definitivo `.no-subs`; e
 | WL-169 | Cómo Hacer una Ducha Caliente Sin usar Gas ni Electricidad (`Jq2ghiA6ncI`) | El Profeturo | general (bricolaje/energía — tecno-folklore NO verificado, señalado) | Resumen en `tramo-20/` |
 
 Notas del tramo: ventana completa (WL-163..WL-167) cerrada en WL-167; WL-168 y WL-169 procesadas por sobregiro del bucle (error de conteo del relevo, reportado al orquestador). 0 meta-fail, 0 skip, sin 429. WL-169 es candidato a baja (triage del usuario, regla de baja de fuente).
+
+### Tramo 21 (2026-11-15, relevo 14 — ventana de 5 útiles desde la cabeza, cerrada exactamente en frontera)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-170 | Mejora tu flujo de trabajo en la terminal con estas 10 CLI (`8VKy05wcZW4`) | CodeSimple | ia-uso-practico/agentes-de-codigo o general (herramientas dev; cruces LM Fit ↔ [[hardware-para-ia-local]], Worktrunk ↔ [[agentes-de-codigo]]) | Resumen en `tramo-21/` |
+| WL-171 | Ray Dalio ADVIERTE: «Se ACERCA algo PEOR que un COLAPSO económico» (`XTbg8rxy_V8`) | Arte de invertir | general (finanzas/inversión — NO fuente primaria, marco promocional del canal, señalado) | Resumen en `tramo-21/` |
+| WL-172 | ¿Flema Pegada que NO sale? No es Moco, es PEPSINA (`xjJRmH1V_Rs`) | Dr. Alberto Sanagustín | general (salud/divulgación médica) | Resumen en `tramo-21/` |
+| WL-173 | ¿Llegará una ERA GLACIAL tras el MONSTRUOSO EL NIÑO? (`GJF8sZC2hsc`) | AstroTim Español | general (divulgación científica/clima — título clickbait desalineado, señalado) | Resumen en `tramo-21/` |
+| WL-174 | Windows 11 + Linux + Android en 1 Solo Sistema | WinUX 11 LTSC (`3-mwREsdKfQ`) | Soy David PC Tech | general (tecnología/software) o ia-uso-practico (herramientas) | Resumen en `tramo-21/` |
+| WL-175 | Viejo amplificador frente al LM386: ¿qué ha cambiado? || TAA611 (`hPqKNT5P02A`) | En Clave de Retro | general (electrónica/retrocomputing; cruce WL-114) | Resumen en `tramo-21/` |
+
+Notas del tramo: 5/5 útiles exactos (WL-170..WL-175), 0 meta-fail, 0 skip, sin 429 — cierre en frontera sin sobregiro (corrección del error de conteo de T20). Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas. Consolidación diferida (L12).
