@@ -2417,3 +2417,17 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - FAV-508 Z2AGyuwoqVg «25 Projects Using Transistor BC547» — meta-fail ×2 (TranscriptsDisabled, intento + re-pass) → NO-SUBS definitivo.
 - FAV-509 HzmM468w7eo «6 Simple BC547 circuit» — Tech Ideas: fetch OK pero ASR solo [Música] → NO-SUBS definitivo.
 - Ninguno produjo raw/resumen. Nota: los tres son del clúster BC547 — si el usuario pide re-pass con otro método (descarga de audio + ASR externo), FAV-507/509 son recuperables en principio.
+
+## [2026-11-15] ingesta | Detector de metales PI Pirata Ruso (FAV-512, relevo 5 Electromecanica)
+- FAV-512 P6Yo4xhDs9k «Como hacer un DETECTOR DE METALES PI. Pirata Ruso» — Espacio de Cesar, ES-ASR 10:01. Resumen: wiki/electromecanica/resumen-FAV-512-detector-metales-pi-pirata-ruso.md; raw: raw/electromecanica/2026-11-15-detector-metales-pi-pirata-ruso.md. Apertura del umbral **detectores de metales** (PI por pulsos). Cruces: FAV-502/503/501.
+
+## [2026-11-15] ingesta | Plato VLF — cómo funciona (FAV-513, relevo 5 Electromecanica)
+- FAV-513 39f9RJkPJNk «CONSTRUYO un PLATO de DETECTOR de Metales - ¡VLF así Funcionan!» — Desenterrado, ES-ASR 10:00. Resumen: wiki/electromecanica/resumen-FAV-513-plato-detector-vlf-como-funciona.md; raw: raw/electromecanica/2026-11-15-plato-detector-vlf-como-funciona.md. Umbral detectores de metales 2ª fuente (VLF equilibrio TX/RX + fase = ID). Cruces: FAV-501/500.
+
+## [2026-11-15] ingesta | Arcos de seguridad (FAV-514, relevo 5 Electromecanica)
+- FAV-514 COqjxrG9aJc «¿Por qué 'pitan' los arcos de seguridad?» — rubenuzumaki87, ES-ASR 03:03. Resumen: wiki/electromecanica/resumen-FAV-514-arcos-seguridad-detector-metales.md; raw: raw/electromecanica/2026-11-15-arcos-seguridad-detector-metales.md. Umbral detectores de metales 3ª fuente → **concepto candidato al cierre** (PI FAV-512 + VLF FAV-513 + arco FAV-514; FAV-515..519 de la misma carpeta siguen en la lista y reforzarán el clúster).
+
+## [2026-11-15] ingesta | NO-SUBS definitivos relevo 5 Electromecanica (FAV-510/511)
+- FAV-510 KkAakh_cyQE «Top 4 Useful Projects for Electronics Repairers» — Astro Electric: fetch OK pero ASR basura (solo [Música]/«Heat», sin narración) → NO-SUBS definitivo.
+- FAV-511 jefSiaDgryo «Fotocelula a 220» (short) — meta-fail ×2 (TranscriptsDisabled, intento + re-pass) → NO-SUBS definitivo.
+- Ninguno produjo raw/resumen.

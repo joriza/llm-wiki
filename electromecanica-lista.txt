@@ -18,11 +18,11 @@
 - FAV-507 — [video] (Electromecanica/Proyectos) — Proyectos de electrónica con el transistor Bc547 - YouTube — https://www.youtube.com/watch?v=je-M9xYXjhg ; NO-SUBS 2026-11-15 relevo 4 (ASR solo [Música], video sin narración)
 - FAV-508 — [video] (Electromecanica/Proyectos) — 25 Projects Using Transistor BC547 - YouTube — https://www.youtube.com/watch?v=Z2AGyuwoqVg&t=779s ; NO-SUBS 2026-11-15 relevo 4 (meta-fail ×2 TranscriptsDisabled)
 - FAV-509 — [video] (Electromecanica/Proyectos) — 6 Simple BC547 circuit - YouTube — https://www.youtube.com/watch?v=HzmM468w7eo ; NO-SUBS 2026-11-15 relevo 4 (ASR solo [Música], video sin narración)
-- FAV-510 — [video] (Electromecanica/Proyectos) — 4 proyectos más útiles para reparadores de electrónica - YouTube — https://www.youtube.com/watch?v=KkAakh_cyQE
-- FAV-511 — [short] (Electromecanica/Proyectos) — Fotocelula a 220 con pocos componentes — https://www.youtube.com/shorts/jefSiaDgryo
-- FAV-512 — [video] (Electromecanica/Proyectos) — (594) Como hacer un DETECTOR DE METALES PI. Pirata Ruso Placa de PCBWAY - YouTube — https://www.youtube.com/watch?v=P6Yo4xhDs9k
-- FAV-513 — [video] (Electromecanica/Proyectos) — (594) CONSTRUYO un PLATO de DETECTOR de Metales - ¡VLF así Funcionan! - YouTube — https://www.youtube.com/watch?v=39f9RJkPJNk
-- FAV-514 — [video] (Electromecanica/Proyectos) — (594) ¿Por qué 'pitan' los arcos de seguridad? - YouTube — https://www.youtube.com/watch?v=COqjxrG9aJc
+- FAV-510 — [video] (Electromecanica/Proyectos) — 4 proyectos más útiles para reparadores de electrónica - YouTube — https://www.youtube.com/watch?v=KkAakh_cyQE ; NO-SUBS 2026-11-15 relevo 5 (ASR basura solo [Música/Heat], sin narración útil)
+- FAV-511 — [short] (Electromecanica/Proyectos) — Fotocelula a 220 con pocos componentes — https://www.youtube.com/shorts/jefSiaDgryo ; NO-SUBS 2026-11-15 relevo 5 (meta-fail ×2 TranscriptsDisabled)
+- FAV-512 — [video] (Electromecanica/Proyectos) — (594) Como hacer un DETECTOR DE METALES PI. Pirata Ruso Placa de PCBWAY - YouTube — https://www.youtube.com/watch?v=P6Yo4xhDs9k ; PROCESADA 2026-11-15 relevo 5
+- FAV-513 — [video] (Electromecanica/Proyectos) — (594) CONSTRUYO un PLATO de DETECTOR de Metales - ¡VLF así Funcionan! - YouTube — https://www.youtube.com/watch?v=39f9RJkPJNk ; PROCESADA 2026-11-15 relevo 5
+- FAV-514 — [video] (Electromecanica/Proyectos) — (594) ¿Por qué 'pitan' los arcos de seguridad? - YouTube — https://www.youtube.com/watch?v=COqjxrG9aJc ; PROCESADA 2026-11-15 relevo 5
 - FAV-515 — [video] (Electromecanica/Proyectos) — (594) DIY Metal Detector | Russian metal detector circuit | Pirate - YouTube — https://www.youtube.com/watch?v=7QJrI-9CCIw
 - FAV-516 — [video] (Electromecanica/Proyectos) — (594) DIY powerful metal detector | Find elusive fine gold, everywhere - YouTube — https://www.youtube.com/watch?v=pMartoyR28U
 - FAV-517 — [video] (Electromecanica/Proyectos) — (594) DIY deep metal detector with distance indicator light (audience suggestion) - YouTube — https://www.youtube.com/watch?v=PP9lmebXGMc
