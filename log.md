@@ -2960,3 +2960,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 
 ## [2026-11-15] ingesta | Canadá revela motor sin imanes — Enedem North Star (WL-144, tramo 16)
 - Canal Laboratorio de Inventos, 28:46, ASR es, `yDrc9Y-bx44`. Raw espejado en `raw/wl/tramo-16/2026-10-24-canada-acaba-de-revelar-el-motor-secreto-que-destruira-a-tesla-byd-y-a-toda-la-i.md`; resumen en `wiki/wl/tramo-16/resumen-WL144-canada-revela-motor-sin-imanes-que-destruira-a-tesla-byd.md`. Dominio previsto: general (industria automotriz/tecnología; cruce con WL-138; cifras de fabricante sin verificación independiente — señalado en triage). Consolidación diferida (L12).
+
+## [2026-11-15] ingesta | ¿Podrían 2 personas repoblar la Tierra? (WL-145, tramo 16)
+- Canal Fosil Metal, 18:27, ASR es, `qhZcvJLBvcI`. Raw espejado en `raw/wl/tramo-16/2026-10-27-podrian-2-personas-repoblar-la-tierra-la-respuesta-te-sorprendera.md`; resumen en `wiki/wl/tramo-16/resumen-WL145-podrian-2-personas-repoblar-la-tierra.md`. Dominio previsto: general (divulgación genética/demografía; bien referenciada, controversias señaladas). Consolidación diferida (L12).
