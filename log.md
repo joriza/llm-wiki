@@ -2431,3 +2431,15 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - FAV-510 KkAakh_cyQE «Top 4 Useful Projects for Electronics Repairers» — Astro Electric: fetch OK pero ASR basura (solo [Música]/«Heat», sin narración) → NO-SUBS definitivo.
 - FAV-511 jefSiaDgryo «Fotocelula a 220» (short) — meta-fail ×2 (TranscriptsDisabled, intento + re-pass) → NO-SUBS definitivo.
 - Ninguno produjo raw/resumen.
+
+## [2026-11-15] ingesta | Detector profundo con indicador de distancia (FAV-517, relevo 6 Electromecanica)
+- FAV-517 PP9lmebXGMc «DIY deep metal detector with distance indicator light» — DHT Project, EN-ASR escaso 14:57 (video de montaje; advertencia registrada en el resumen). Resumen: wiki/electromecanica/resumen-FAV-517-detector-profundo-indicador-distancia.md; raw: raw/electromecanica/2026-11-15-detector-profundo-indicador-distancia.md. Clúster detectores de metales 4ª fuente. Cruce extra con fabricacion-casera-pcb (transferencia láser + percloruro).
+
+## [2026-11-15] ingesta | Detector PI Polonés casero (FAV-518, relevo 6 Electromecanica)
+- FAV-518 KbE5qQztaBA «PROYECTO: DETECTOR DE METALES DE ALTA GAMA CASERO (pi polones)» — Karl Slion, ES-ASR 07:45. Resumen: wiki/electromecanica/resumen-FAV-518-detector-pi-polones-casero.md; raw: raw/electromecanica/2026-11-15-detector-pi-polones-casero.md. Clúster detectores de metales 5ª fuente (familia PI junto a FAV-512). **Umbral consolidado: detectores-de-metales ya tiene 5 fuentes (512/513/514/517/518) → página de concepto candidata firme en la próxima consolidación.**
+
+## [2026-11-15] ingesta | NO-SUBS definitivos relevo 6 Electromecanica (FAV-515/516/519)
+- FAV-515 7QJrI-9CCIw «DIY Metal Detector | Russian Pirate» — meta-fail ×2 (TranscriptsDisabled) → NO-SUBS definitivo.
+- FAV-516 pMartoyR28U «DIY powerful metal detector | fine gold» — Analog98: ASR solo [Música] (video de montaje sin narración; BOM completo en descripción) → NO-SUBS definitivo.
+- FAV-519 NQWCHglTDqg «detector de metales usando un multímetro» — meta-fail ×2 (TranscriptsDisabled) → NO-SUBS definitivo.
+- Ninguno produjo raw/resumen. Nota: FAV-516 tiene BOM completo en descripción — recuperable en principio con re-pass manual si el usuario lo pide.

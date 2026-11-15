@@ -23,11 +23,11 @@
 - FAV-512 — [video] (Electromecanica/Proyectos) — (594) Como hacer un DETECTOR DE METALES PI. Pirata Ruso Placa de PCBWAY - YouTube — https://www.youtube.com/watch?v=P6Yo4xhDs9k ; PROCESADA 2026-11-15 relevo 5
 - FAV-513 — [video] (Electromecanica/Proyectos) — (594) CONSTRUYO un PLATO de DETECTOR de Metales - ¡VLF así Funcionan! - YouTube — https://www.youtube.com/watch?v=39f9RJkPJNk ; PROCESADA 2026-11-15 relevo 5
 - FAV-514 — [video] (Electromecanica/Proyectos) — (594) ¿Por qué 'pitan' los arcos de seguridad? - YouTube — https://www.youtube.com/watch?v=COqjxrG9aJc ; PROCESADA 2026-11-15 relevo 5
-- FAV-515 — [video] (Electromecanica/Proyectos) — (594) DIY Metal Detector | Russian metal detector circuit | Pirate - YouTube — https://www.youtube.com/watch?v=7QJrI-9CCIw
-- FAV-516 — [video] (Electromecanica/Proyectos) — (594) DIY powerful metal detector | Find elusive fine gold, everywhere - YouTube — https://www.youtube.com/watch?v=pMartoyR28U
-- FAV-517 — [video] (Electromecanica/Proyectos) — (594) DIY deep metal detector with distance indicator light (audience suggestion) - YouTube — https://www.youtube.com/watch?v=PP9lmebXGMc
-- FAV-518 — [video] (Electromecanica/Proyectos) — (594) PROYECTO: DETECTOR DE METALES DE ALTA GAMA CASERO (pi polones) - YouTube — https://www.youtube.com/watch?v=KbE5qQztaBA
-- FAV-519 — [video] (Electromecanica/Proyectos) — (594) Cómo hacer un detector de metales usando un multímetro - YouTube — https://www.youtube.com/watch?v=NQWCHglTDqg
+- FAV-515 — [video] (Electromecanica/Proyectos) — (594) DIY Metal Detector | Russian metal detector circuit | Pirate - YouTube — https://www.youtube.com/watch?v=7QJrI-9CCIw ; NO-SUBS 2026-11-15 relevo 6 (meta-fail ×2 TranscriptsDisabled)
+- FAV-516 — [video] (Electromecanica/Proyectos) — DIY powerful metal detector | Find elusive fine gold, everywhere - YouTube — https://www.youtube.com/watch?v=pMartoyR28U ; NO-SUBS 2026-11-15 relevo 6 (ASR solo [Música], video de montaje sin narración; BOM completo en descripción)
+- FAV-517 — [video] (Electromecanica/Proyectos) — (594) DIY deep metal detector with distance indicator light (audience suggestion) - YouTube — https://www.youtube.com/watch?v=PP9lmebXGMc ; PROCESADA 2026-11-15 relevo 6 (EN-ASR escaso, advertida)
+- FAV-518 — [video] (Electromecanica/Proyectos) — (594) PROYECTO: DETECTOR DE METALES DE ALTA GAMA CASERO (pi polones) - YouTube — https://www.youtube.com/watch?v=KbE5qQztaBA ; PROCESADA 2026-11-15 relevo 6
+- FAV-519 — [video] (Electromecanica/Proyectos) — (594) Cómo hacer un detector de metales usando un multímetro - YouTube — https://www.youtube.com/watch?v=NQWCHglTDqg ; NO-SUBS 2026-11-15 relevo 6 (meta-fail ×2 TranscriptsDisabled)
 - FAV-520 — [video] (Electromecanica/Energias Renovables) — Cómo Funcionan Realmente las Turbinas Eólicas: Los Secretos Ocultos - YouTube — https://www.youtube.com/watch?v=Uk4LlN7qIaA
 - FAV-521 — [video] (Electromecanica/Energias Renovables) — Paneles Solares Explicados - ¡Descubre los Misterios del Funcionamiento de los Paneles Solares! - YouTube — https://www.youtube.com/watch?v=Mhvm9keeM5o
 - FAV-522 — [video] (Electromecanica/Energias Renovables) — El fraude de los paneles solares - YouTube — https://www.youtube.com/watch?v=PruvGT6pzIY
