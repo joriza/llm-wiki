@@ -17,7 +17,7 @@
 17|IOT Gral/ESP32|(241) Arquitectura del ESP32 - YouTube|https://www.youtube.com/watch?v=j3V70WSTgiE&t=240s
 18|IOT Gral/ESP32|(241) Pinout ESP32-S3 - YouTube|https://www.youtube.com/watch?v=TeSy1EyjZPM&list=PL_-EHaDBuPfN8DZD19veHdeTc5LUOlBgy&index=2
 19|IOT Gral|📢 "¡NO Uses MICROCONTROLADORES en la INDUSTRIA! ¡No sirven!" ¿MITO O REALIDAD?" 😱 - YouTube|https://www.youtube.com/watch?v=kgdIz0SuABI
-20|IOT Gral|Sensores industriales 4–20 mA con ESP32 (SIN PLC) - YouTube|https://www.youtube.com/watch?v=XkdxKrvYVnc&t=175s
+20|IOT Gral|Sensores industriales 4–20 mA con ESP32 (SIN PLC) - YouTube|https://www.youtube.com/watch?v=XkdxKrvYVnc&t=175s  # DUPLICADO de FAV-354 (mismo video, ts distinto) — procesado como FAV-354
 21|IOT Gral|(189) [RELAY] 7 FORMAS de ARRUINAR tus DISEÑOS - YouTube|https://www.youtube.com/watch?v=IlfEYTcdfHE
 22|IOT Gral|Como Soldar Correctamente las Tiras Pin del arduino. - YouTube|https://www.youtube.com/watch?v=dhnkp762hfQ
 23|IOT Gral|(208) Cómo hacer que tus proyectos IoT duren AÑOS: powerTimer (Consumo Cero) - YouTube|https://www.youtube.com/watch?v=sy0iTkA_p64
