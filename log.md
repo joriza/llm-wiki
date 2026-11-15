@@ -2590,3 +2590,6 @@ Fuente 2/37 de la playlist Python (1bLWSsocsxI, Paradigma Digital 2021-02-24, ES
 
 ## [2026-11-15] ingesta | Compartir datos en hilos — 13 — Python Avanzado
 Fuente 3/37 de la playlist Python (cFED4bHaK9I, nicosiored 2021-03-05, ES-ASR 09:17). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-compartir-datos-en-hilos-13-python-avanzado.md con cruce a [[dramatiq]]. Nota ASR: «freud»→thread, «reid»→race condition, «time punto es libre»→time.sleep (normalizado solo en el resumen). Lección 13 de serie; la solución (sección crítica) queda en la lección 14.
+
+## [2026-11-15] ingesta | Cómo hacer WEB SCRAPING con Python
+Fuente 4/37 de la playlist Python (rhnMvvmfBFI, Errodringer 2018-09-25 — el título dice «2020» pero la fecha del canal manda—, ES-ASR 11:55). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-como-hacer-web-scraping-con-python.md con cruces a [[playwright]], [[automatizacion-con-python]], [[polars]], [[duckdb]]. Nota ASR: «rick est»→requests, «jordi full sur/believe el psuv»→BeautifulSoup, «bandas»→pandas (normalizado solo en el resumen).
