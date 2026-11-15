@@ -2363,3 +2363,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 ## [2026-11-15] dominio nuevo | electromecanica/ (ventana Electromecanica T5)
 - Dominio `wiki/electromecanica/` creado por confirmación expresa del usuario (2026-11-15) para la carpeta Docencia/Material Didactico Varios (FAV-490..549, ~60 fuentes: PLC, Electricidad, Electronica, Proyectos, Energias Renovables, Otros + sueltos). Registrado en `wiki/dominios.md`. Alcanze: PLCs, instalaciones/energía, proyectos caseros y teoría de base electromecánica.
 - Relevo 1 (worker): sonda de salida OK — egress cambió de WARP 104.28.199.112 a Proton UE 45.239.32.215 (no mid-tramo; validado hoy contra fetch de prueba; salidas.md actualizado). Pacing 85-90 s.
+
+## [2026-11-15] ingesta | Conceptos Básicos del PLC (FAV-490, relevo 1 Electromecanica)
+- FAV-490 NPsepHRSCls «Conceptos Básicos del Controlador de Lógica Programable» — Engineering Mindset, ES-ASR 15:11. Resumen: wiki/electromecanica/resumen-FAV-490-conceptos-basicos-plc.md; raw: raw/electromecanica/2026-11-15-conceptos-basicos-plc.md. Umbral deferido: canal Engineering Mindset (ya con fuentes en electronica-practica FAV-008/009).
