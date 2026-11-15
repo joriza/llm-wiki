@@ -19,7 +19,7 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 | `ia-uso-practico/` | **reducido** (APIs gratis, evaluación, productividad, Odysseus) | **7** | **10** | ~25 | Activo (agregación de APIs, herramientas) |
 | `informatica-teoria/` | 10+ | 8 | 2 | 10+ | Activo (algoritmos, POO, testing, redes) |
 | `historia-informatica/` | 12+ | 4 | 10 | 12+ | Estable |
-| `python-practico/` | 7 (lote completo) | 6 | 17 | 7 | ✅ Consolidado |
+| `python-practico/` | **40** (lista Python 37/37 completa: 33 committed + 2 SKIP + lote previo; consolidación final 2026-11-15) | **10** | **19** | **33** | ✅ **Consolidado** (web ×6, scraping ×3, GUI ×3, trading ×3) |
 
 **Total general**: ~238 fuentes (incl. lista mixta 1-24), 61+ conceptos, 106+ entidades, ~238 resúmenes.
 
@@ -42,7 +42,7 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 | **Cuantización / hardware** | [[hardware-para-ia-local]] (VRAM vs RAM, iGPU 40 GB, MoE en CPU, Mac Studio M5, EXL3/NF4/MLX), TurboQuant | 4, 21, 22, 23, 25, 28, 30, 35 |
 | **Agentes / arneses** | [[pi-agent]] (Custom Provider TS), [[deepseek-harness]] (Ollama + preset optimizado 6× tokens), [[proxy-atomico]] (Atomic AI depth 1-3, reinicio al cambiar), [[opencode]], [[desarrollo-con-modelos-locales]] (workflow GPU 100%, MCPs) | 13, 15, 17, 24, 25, 26, 31, 33 |
 | **Ecosistema local** | [[ia-local-texto]] (Ollama/LM Studio runners), [[por-que-ia-local]] (Odysseus híbrido, veredicto 30 días), [[panorama-herramientas-open-source-ia]] (20+ tools) | 1, 7, 19, 20 |
-| **Canales dominantes** | [[nichonauta]] (21 fuentes), [[informatica-teoria/cognix]] (5 fuentes: pila inferencia, Mac Studio, TimesFM, Qwen 4-bits), **atareao** (botiquín 8 GB), **Apasoft Training** (Ollama Modelfile) | 2-37 |
+| **Canales dominantes** | [[nichonauta]] (21 fuentes), [[ia-local/cognix|cognix]] (5 fuentes: pila inferencia, Mac Studio, TimesFM, Qwen 4-bits), **atareao** (botiquín 8 GB), **Apasoft Training** (Ollama Modelfile) | 2-37 |
 
 ### Decisiones de arquitectura consolidadas
 

@@ -2686,3 +2686,11 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-l
 
 ## [2026-11-15] ingesta | FastAPI: De un Script a Microservicios en 5 Etapas (Código Espinoza, relevo 6, fuente 37/37)
 Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-fastapi-de-un-script-a-microservicios-en-5-etapas.md`; cruce a [[fastapi]]; LISTA COMPLETADA (37/37: 33 committed + 2 skip definitivos + 2 skip ya procesados antes). index.md y log.md actualizados. Commit por archivo.
+
+## [2026-11-15] consolidación | Lote playlist Python (37/37) — cierre final
+- **Fuentes**: playlist completa (37/37: 33 committed + 2 SKIP definitivos). Conceptos nuevos: [[frameworks-web-python]] (absorbe Flask×3, FastAPI×5, Reflex/ReactPy/FastHTML, Django×1; contrastes MVC/MTV, despliegue ×3 variantes), [[web-scraping-con-python]] (regex→BeautifulSoup→Scrapy), [[interfaces-graficas-python]] (Kivy vs Flet), [[trading-y-analisis-quant-python]] (pandas manual→TA-Lib→QuantStats). Entidades nuevas: [[flask]], [[django]]. [[fastapi]] ampliada con 2 fuentes del tramo 6.
+- **Dominio nuevo**: no propuesto — todo encaja en `python-practico/` (freelance/negocio ×2 queda como hilo incipiente anotado en sintesis, sin página).
+- **Contradicciones señaladas**: «Python es lento para web» (mito desmentido en fuente 30); cifras sin fuente de la fuente 36 (voz IA) etiquetadas en su resumen; sesgo de época pro-FastAPI del corpus.
+- **Lagunas abiertas**: Django REST Framework, testing Flask, GUI clásica (Tkinter/PyQt), CI/GitHub Actions, backtesting riguroso.
+- **Fix estructural**: enlace roto `[[informatica-teoria/cognix]]` en overview.md → `[[ia-local/cognix|cognix]]`; `[[hambruna-global-1877]]` en sintesis.md → ruta correcta `ciencias-tierra/hambruna-global-de-1877`. overview.md (fila python-practico) y sintesis.md (hilo 8) actualizados con el estado final del playlist.
+- **Pendiente**: push bajo orden del usuario.

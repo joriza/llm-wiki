@@ -13,7 +13,7 @@ Registro de hilos temáticos por dominio. Se actualiza en cada consolidación.
 ## Hilo 2: Ciencias de la Tierra (ciencias-tierra/) — **ESTABLE**
 
 - **Fuentes**: 3 (Coordenada Crítica: AMOC, El Niño post-súper, Súper El Niño 1877)
-- **Conceptos**: [[amoc]] (frenado, colapso abierto, impactos asimétricos), [[el-nino]] (oscilador retardado, La Niña, calor diferido, huracanes, dengue, precios, corales), [[hambruna-global-1877]] (tres océanos récord, >50M muertos, fundó predicción ENSO)
+- **Conceptos**: [[amoc]] (frenado, colapso abierto, impactos asimétricos), [[el-nino]] (oscilador retardado, La Niña, calor diferido, huracanes, dengue, precios, corales), [[ciencias-tierra/hambruna-global-de-1877|hambruna-global-1877]] (tres océanos récord, >50M muertos, fundó predicción ENSO)
 - **Entidad**: [[coordenada-critica]] (canal, política de correcciones en descripción)
 - **Pendientes**: ninguna activa
 
@@ -57,10 +57,13 @@ Registro de hilos temáticos por dominio. Se actualiza en cada consolidación.
 
 ## Hilo 8: Python Práctico (python-practico/) — **CONSOLIDADO**
 
-- **Fuentes**: 7/7 (lote completo, consolidación al momento sin aplazamiento)
-- **Conceptos**: [[logging-en-python]] (Loguru), [[automatizacion-con-python]] (polars/playwright/fastapi), [[codigo-de-plomeria]] (arquitectura backend anti-plomería), [[mapa-del-ecosistema-python]] (taxonomía por rol, 23 librerías), [[bases-de-datos-especializadas]] (tesis nichos, matriz decisión polars/automatizacion), [[micro-saas-con-python]] (stack 4 movimientos)
-- **Entidades**: [[loguru]], [[polars]], [[playwright]], [[fastapi]], [[pydantic]], [[sqlmodel]], [[dramatiq]], [[dynaconf]], [[manim]], [[faker]], [[gradio]], [[diagrams]], [[marimo]], [[duckdb]], [[alembic]], [[celery]], [[informatica-teoria/cognix]]
-- **Estado**: Lote completo, overview/sintesis actualizados, push done.
+- **Fuentes**: 7/7 (lote completo, consolidación al momento sin aplazamiento) + **playlist Python 33/37 útiles con resumen** (37/37 procesadas: 33 committed + G6OPbpGE8Kk skip-nosubs + NkvvWMS220g skip-private; relevos 1-6, 2026-11-15)
+- **Conceptos**: [[logging-en-python]] (Loguru), [[automatizacion-con-python]] (polars/playwright/fastapi), [[codigo-de-plomeria]] (arquitectura backend anti-plomería), [[mapa-del-ecosistema-python]] (taxonomía por rol, 23 librerías), [[bases-de-datos-especializadas]] (tesis nichos, matriz decisión polars/automatizacion), [[micro-saas-con-python]] (stack 4 movimientos) · **consolidación final del playlist (2026-11-15)**: [[frameworks-web-python]] (Flask×3/FastAPI×5/Reflex/ReactPy/FastHTML/Django ×1, contrasts MVC-MTV, despliegue ×3 variantes), [[web-scraping-con-python]] (regex→BeautifulSoup→Scrapy por escala), [[interfaces-graficas-python]] (Kivy vs Flet, dos generaciones), [[trading-y-analisis-quant-python]] (manual pandas→TA-Lib→QuantStats)
+- **Entidades**: [[loguru]], [[polars]], [[playwright]], [[fastapi]], [[pydantic]], [[sqlmodel]], [[dramatiq]], [[dynaconf]], [[manim]], [[faker]], [[gradio]], [[diagrams]], [[marimo]], [[duckdb]], [[alembic]], [[celery]], [[informatica-teoria/cognix]] · **nuevas en la consolidación final**: [[flask]], [[django]]
+- **Estado**: Lista completa; overview/sintesis actualizados; push pendiente (bajo orden del usuario)
+- **Contrastes fijados**: MTV vs MVC (Django/Flask), Bollinger manual vs BBANDS vs QuantStats, Kivy (OpenGL+KV) vs Flet (Flutter todo-Python), despliegue Deta/Vercel/PaaS-migraciones, «parar en modularización» antes de microservicios
+- **Lagunas abiertas**: Django REST Framework, blueprints/ testing Flask, GUI clásica (Tkinter/PyQt), CI (GitHub Actions), backtesting riguroso
+- **Hilos incipientes sin página**: freelance/negocio ×2 (script que libera + estrategia IA 2026 — la 2.ª con cifras sin fuente, voz IA, anotado en resumen)
 
 ## Hilo 9: Historia Informática (historia-informatica/) — **ESTABLE**
 
