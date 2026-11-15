@@ -2390,3 +2390,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Diodos explicados (FAV-499, relevo 2 Electromecanica)
 - FAV-499 aPY3I8pG478 «Diodos Explicados» — Engineering Mindset, ES-ASR 11:32. Resumen: wiki/electromecanica/resumen-FAV-499-diodos-explicados.md; raw: raw/electromecanica/2026-11-15-diodos-explicados.md. Canal Engineering Mindset 3ª fuente de la ventana (490/498/499) → entidad candidata firme. Cruce con [[diodo-zener]] anotado.
+
+## [2026-11-15] ingesta | Capacitores explicados (FAV-500, relevo 3 Electromecanica)
+- FAV-500 h_m6qFRNITU «Capacitores Explicados» — Engineering Mindset, ES-**manual** 08:42 (sin ASR). Resumen: wiki/electromecanica/resumen-FAV-500-capacitores-explicados.md; raw: raw/electromecanica/2026-11-15-capacitores-explicados.md. Canal 4ª fuente de la ventana (490/498/499/500). Cruces: [[condensador-rc]], FAV-498, FAV-499.
