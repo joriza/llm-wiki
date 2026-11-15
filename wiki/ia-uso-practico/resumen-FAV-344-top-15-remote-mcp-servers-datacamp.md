@@ -36,3 +36,5 @@ La evolución de los servidores MCP (de stdio local a **instancias remotas en la
 ## Comentario
 
 Buena foto de la ola **remote-MCP con OAuth de 2026** (el argumento «se acabó pegar API keys en configs» es la novedad real). Solapa fuertemente con el listado de Ayautomate ([[resumen-FAV-345-mejores-servidores-mcp-2026-ayautomate]]): GitHub, Supabase, Figma, Notion y el eje fetch/búsqueda coinciden; DataCamp es más «agente generalista» (memoria, razonamiento) y Ayautomate más «dev stack» (Playwright, Cloudflare, Terraform).
+
+Concepto: [[servidores-mcp]].

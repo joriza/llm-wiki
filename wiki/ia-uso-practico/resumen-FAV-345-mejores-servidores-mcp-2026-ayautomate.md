@@ -30,3 +30,5 @@ Los 16 mejores servidores MCP «que los builders usan de verdad» en 2026: convi
 ## Solapamiento con DataCamp (FAV-344)
 
 Cruce con [[resumen-FAV-344-top-15-remote-mcp-servers-datacamp]]: coinciden **GitHub, Supabase, Figma, Notion** y el eje de búsqueda/fetch (DataCamp incluye Tavily/Exa/Fetch/DeepWiki; Ayautomate no lista servidores de búsqueda, es más dev-stack con Playwright, Chrome DevTools, Cloudflare, Terraform, Sentry). DataCamp enfatiza la ola **remote-OAuth**; Ayautomate cubre ambos modos (self-hosted stdio vs hosted) y añade los 4 picks de septiembre 2026 declarando que esos no fueron testeados en mano (solo docs de los fabricantes). Context7 ya aparece en el corpus vía las fuentes de OpenCode de Nichonauta.
+
+Concepto: [[servidores-mcp]].

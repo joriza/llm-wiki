@@ -31,3 +31,5 @@ Servidor MCP de la librería de componentes de diseño basada en shadcn (ver tam
 - El Knowledge Graph/Memory de este video es la versión local de lo que DataCamp cubre con **Mem0** (memoria de agentes).
 - La orientación «instalar y configurar a mano con JSON» contrasta con la tesis de [[resumen-FAV-345-mejores-servidores-mcp-2026-ayautomate]] y FAV-344: la ola 2026 de **remote MCP con OAuth** que elimina la configuración local de API keys; este video (mayo 2025) es justo el momento previo a esa transición.
 - El servidor genérico de fetch se documenta aparte en [[resumen-FAV-343-servidor-mcp-fetch]].
+
+Concepto: [[servidores-mcp]].

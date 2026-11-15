@@ -42,3 +42,5 @@ Recorrido del canal **Barmine Tech** (guía para principiantes de Proxmox) por l
 1. Todo se despliega con los **Helper Scripts** (instalación de un comando), no a mano — por eso el post-install de [[resumen-FAV-329-proxmox-post-pve-install]] es el paso previo natural.
 2. Patrones de red recurrentes: sinkhole (Pi-hole) + monitoreo (MySpeed, Uptime Kuma, Beszel) + proxy inverso con SSL (NPM) + túnel de salida (Cloudflared).
 3. LXC vs Docker: el autor corre casi todo como LXC, con excepciones puntuales que todavía mantiene en Docker (Overseerr antes de migrar).
+
+Concepto: [[proxmox-homelab]].

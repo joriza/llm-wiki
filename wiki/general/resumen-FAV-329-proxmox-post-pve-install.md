@@ -21,3 +21,5 @@ Notas del propio catálogo: ejecutar desde la shell de Proxmox; se recomienda re
 ## Contexto
 
 Es la rutina de post-instalación canónica del ecosistema (la variante equivalente para Proxmox Datacenter Manager, `pdm`, corrige también las fuentes Debian y gestiona `pdm-enterprise`/`pdm-no-subscription`/`pdm-test`). El catálogo completo se describe en [[resumen-FAV-331-proxmoxve-community-scripts]] y la base teórica de virtualización/contenedores vive en informatica-teoria/.
+
+Concepto: [[proxmox-homelab]].

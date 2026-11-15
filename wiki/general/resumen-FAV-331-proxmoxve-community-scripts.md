@@ -22,3 +22,5 @@ Repositorio canónico de **scripts de instalación en un comando** para servicio
 3. Cada contenedor queda con un comando `update` interno que actualiza la aplicación (los scripts de VM no: usan el gestor de paquetes del invitado).
 
 Requisitos: Proxmox VE 8.0–8.4 o 9.0–9.2, acceso root al host. Los comandos corren como root: el propio README recomienda leer el script fuente (todo es legible y cada página enlaza a su origen) antes de pegarlo.
+
+Concepto: [[proxmox-homelab]].

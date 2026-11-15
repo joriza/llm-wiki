@@ -25,3 +25,5 @@ Recomendado con **uv/uvx** (`uvx mcp-server-fetch`, sin instalación previa) o p
 ## Contexto
 
 Es la implementación de referencia del patrón «el modelo lee la web» — el mismo patrón que usan los directorios como MCP Market ([[resumen-FAV-340-mcp-market-developer-tools]]) para catalogar servidores de terceros.
+
+Concepto: [[servidores-mcp]].

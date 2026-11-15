@@ -15,3 +15,5 @@ Listado de servidores de herramientas para desarrolladores, entre los visibles: 
 ## Contexto
 
 Dirección complementaria al repositorio oficial de servidores ([[resumen-FAV-343-servidor-mcp-fetch]]): el directorio es el descubrimiento, el repo oficial la referencia de implementación. Útil para explorar qué herramientas MCP existen antes de instalarlas en el propio flujo de trabajo con agentes.
+
+Concepto: [[servidores-mcp]].
