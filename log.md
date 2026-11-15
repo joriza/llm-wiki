@@ -2928,3 +2928,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Fuente: `VJ1E2xp0bdg` (Claridad Mental, 2026-10-22, 14:53, subtítulos automáticos). Raw espejado a `raw/wl/tramo-15/2026-10-23-psicologia-de-la-inteligencia-mecanica-por-que-algunas-personas-pueden-arreglar-.md`; resumen en `wiki/wl/tramo-15/resumen-WL139-psicologia-de-la-inteligencia-mecanica.md`.
 - Inteligencia mecánica como modelo mental ejecutable (Thorndike, Craik, Hegarty, Rasmussen); tres señales del reparador; entrenabilidad (meta-análisis 217 estudios) y tres principios prácticos de diagnóstico.
 - Dominio destino previsto (pendiente consolidación, S4): `general/` (psicología/divulgación).
+
+## [2026-11-15] ingesta | WL-140 — 1x vs. 2x: Lo que la industria no quiere que sepas
+
+- Fuente: `PdrpkqDWRNg` (Modo Ciclista, 2026-09-11, 24:59, subtítulos automáticos). Raw espejado a `raw/wl/tramo-15/2026-09-11-1x-vs-2x-lo-que-la-industria-no-quiere-que-sepas.md`; resumen en `wiki/wl/tramo-15/resumen-WL140-1x-vs-2x-lo-que-la-industria-no-quiere-que-sepas.md`.
+- Plato único: ingeniería genuina de la montaña (2012) vendida a carretera/gravel sin necesidad; coste oculto de desgaste y estándares propietarios como reubicación (no simplificación) de complejidad; veredicto por caso de uso.
+- Dominio destino previsto (pendiente consolidación, S4): `general/` (ciclismo/tecnología, crítica de industria).
