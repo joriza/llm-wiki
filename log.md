@@ -2295,3 +2295,13 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Raw**: raw/general/2026-11-15-lenguaje-inclusivo-sentido-linguistico-linguriosa.md
 - **Resumen**: wiki/general/resumen-FAV-484-lenguaje-inclusivo-linguriosa.md
 - **Dominio**: general/ — transversal sin dominio claro (lingüística; decisión de consolidación).
+
+## [2026-11-15] ingesta | La Mentira de las Pirámides: piedra geopolímero (Murat Can Çilli) — FAV-485
+- **Fuente**: https://www.youtube.com/watch?v=SVM6pbiaWdM. Canal Murat Can Çilli, 2026-03-11, 19:11, ES subs manuales (video original turco).
+- **Raw**: raw/general/2026-11-15-piramides-piedra-geopolimero-murat-can-cilli.md
+- **Resumen**: wiki/general/resumen-FAV-485-piramides-piedra-geopolimero-murat-can-cilli.md
+- **Dominio**: general/ — transversal sin dominio claro (historia/arqueología alternativa; decisión de consolidación). Narrativa anti-academia señalizada en el resumen.
+
+## [2026-11-15] relevo 15 T4 — FAV-481..485 COMPLETO 5/5 (líneas 71-75, IDs verificados contra vs-docencia-lista.txt — coinciden con el encargo, subcarpeta Transversal)
+- FAV-481 Por qué dejamos de leer, Platzi/Freddy Vega (a754fba1) · FAV-482 IA vs educación, MoureDev (ba74f28d) · **FAV-483 DUPLICADO** (bAAjgX6hBu4&t=405s ya en raw/general/UNKNOWN-fecha-el-talento… + resumen wiki/general/…, Bilinkis, sin fetch; commit de cierre) · FAV-484 lenguaje inclusivo, Linguriosa (72872579) · FAV-485 pirámides geopolímero, Murat Can Çilli (este commit). 4 PROCESADAS + 1 DUPLICADO, 5/5 resueltas. 0×429; salida WARP 104.28.199.112; 4 fetches OK gated (~90 s vía .atl/fetch_yt.py, PYTHONIOENCODING=utf-8), 0 meta-fail, 0 NO-SUBS, 0 playlists puras en el rango (FAV-482 llevaba list=WL — ignorado por S4).
+- Dominios: FAV-482 → informatica/ por contenido (formación de programadores); FAV-481/484/485 → general/ — **transversal sin dominio claro** (educación/lectura, lingüística, arqueología alternativa) para decisión en consolidación. Umbrales nuevos para consolidación diferida: canal **MoureDev 2 fuentes** (FAV-428/482, entidad candidata deferida); par temático potencial lectura/analfabetismo (FAV-481 + FAV-487 aún sin procesar). Sin concepto/entidad nuevas (todo deferido). El relevo siguiente continúa en la línea 76 (FAV-486) — FIN DEL RANGO DE ESTE RELEVO.
