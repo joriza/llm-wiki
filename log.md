@@ -2671,3 +2671,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-d
 
 ## [2026-11-15] ingesta | ¿Cómo Analizar Empresas usando Python? Tutorial QuantStats (PythonIA, relevo 6, fuente 32/37)
 Descarga OK (45.239.32.215, sin 429; puerta con espera 19 s). Resumen en `wiki/python-practico/resumen-como-analizar-empresas-usando-python-tutorial-quantstats.md`; cruces por búsqueda en wiki/ a porfolio cripto y trading TA-Lib (hilo trading/quant — señalado para consolidación). index.md y log.md actualizados. Commit por archivo.
+
+## [2026-11-15] ingesta | Flet + Python: Build a Cross-Platform App (Code with Josh, relevo 6, fuente 33/37)
+Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-flet-python-build-a-cross-platform-app.md`; cruces señalados: primera fuente de Flet, amplía hilo GUI (Kivy×2) y hila con Reflex/ReactPy/FastHTML; patrocinio propio del canal excluido. index.md y log.md actualizados. Commit por archivo.
