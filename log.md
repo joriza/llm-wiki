@@ -2922,3 +2922,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Fuente: `mNl2bE5ya6o` (Visión Automotor, 2026-10-16, 22:57, subtítulos automáticos). Raw espejado a `raw/wl/tramo-15/2026-10-16-ingenieros-argentinos-desmontaron-un-coche-chino-esto-es-lo-que-encontraron-dent.md`; resumen en `wiki/wl/tramo-15/resumen-WL138-ingenieros-argentinos-desmontaron-un-coche-chino.md`.
 - Desarmes de BYD (Japón/Detroit/Argentina): ventaja estructural por integración (menos piezas, 8-en-1 en tracción, batería Blade estructural, ~¾ de componentes propios); UBS −15 % vs Tesla, −25 % vs Europa; contrapartidas en reparabilidad, reciclado, seguros y repuestos a largo plazo.
 - Dominio destino previsto (pendiente consolidación, S4): `general/` (industria automotriz/tecnología).
+
+## [2026-11-15] ingesta | WL-139 — Psicología de la Inteligencia Mecánica
+
+- Fuente: `VJ1E2xp0bdg` (Claridad Mental, 2026-10-22, 14:53, subtítulos automáticos). Raw espejado a `raw/wl/tramo-15/2026-10-23-psicologia-de-la-inteligencia-mecanica-por-que-algunas-personas-pueden-arreglar-.md`; resumen en `wiki/wl/tramo-15/resumen-WL139-psicologia-de-la-inteligencia-mecanica.md`.
+- Inteligencia mecánica como modelo mental ejecutable (Thorndike, Craik, Hegarty, Rasmussen); tres señales del reparador; entrenabilidad (meta-análisis 217 estudios) y tres principios prácticos de diagnóstico.
+- Dominio destino previsto (pendiente consolidación, S4): `general/` (psicología/divulgación).
