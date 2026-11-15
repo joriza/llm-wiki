@@ -2387,3 +2387,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Factor de potencia explicado (FAV-498, relevo 2 Electromecanica)
 - FAV-498 wpubuxVCJtE «Factor de Potencia Explicado» — Engineering Mindset, ES-ASR 15:01. Resumen: wiki/electromecanica/resumen-FAV-498-factor-de-potencia.md; raw: raw/electromecanica/2026-11-15-factor-de-potencia-explicado.md. Umbral: canal Engineering Mindset 2ª fuente de la ventana (490+498; ya 2 en electronica-practica) → entidad candidata reforzada.
+
+## [2026-11-15] ingesta | Diodos explicados (FAV-499, relevo 2 Electromecanica)
+- FAV-499 aPY3I8pG478 «Diodos Explicados» — Engineering Mindset, ES-ASR 11:32. Resumen: wiki/electromecanica/resumen-FAV-499-diodos-explicados.md; raw: raw/electromecanica/2026-11-15-diodos-explicados.md. Canal Engineering Mindset 3ª fuente de la ventana (490/498/499) → entidad candidata firme. Cruce con [[diodo-zener]] anotado.
