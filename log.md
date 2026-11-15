@@ -2934,3 +2934,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Fuente: `PdrpkqDWRNg` (Modo Ciclista, 2026-09-11, 24:59, subtítulos automáticos). Raw espejado a `raw/wl/tramo-15/2026-09-11-1x-vs-2x-lo-que-la-industria-no-quiere-que-sepas.md`; resumen en `wiki/wl/tramo-15/resumen-WL140-1x-vs-2x-lo-que-la-industria-no-quiere-que-sepas.md`.
 - Plato único: ingeniería genuina de la montaña (2012) vendida a carretera/gravel sin necesidad; coste oculto de desgaste y estándares propietarios como reubicación (no simplificación) de complejidad; veredicto por caso de uso.
 - Dominio destino previsto (pendiente consolidación, S4): `general/` (ciclismo/tecnología, crítica de industria).
+
+## [2026-11-15] ingesta | WL-141 — BURLARSE de la gente le salió CARO (Santutu)
+
+- Fuente: `BQiFdcxMPOk` (Themateoteo, 2026-02-10, 24:39, subtítulos automáticos). Raw espejado a `raw/wl/tramo-15/2026-02-10-burlarse-de-la-gente-le-salio-caro-asi-santutu-estrello-su-carrera.md`; resumen en `wiki/wl/tramo-15/resumen-WL141-santutu-estrello-su-carrera.md`.
+- Videoensayo de opinión (NO fuente factual, señalado en triage): implosión del streamer Santutu — economía del streaming de casino (Kick/Stake), escándalo Bestia y patrón vs exabrupto.
+- Dominio destino previsto (pendiente consolidación, S4): `general/sociedad-argentina` (cultura digital/streaming) — opinión, no factual.
