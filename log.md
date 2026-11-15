@@ -1867,3 +1867,7 @@ YouTube QJcN89AFxV0 (El profe Garcia). Raw: raw/electronica-practica/2026-11-15-
 ## [2026-11-15] ingesta | Pinout de Arduino Nano, guia para principiantes (FAV-385)
 
 Web PCBASIC (sin raw). Resumen: wiki/electronica-practica/resumen-FAV-385-pinout-arduino-nano-pcbasic.md. Cruces: FAV-361/363 (pinouts), FAV-369 (alimentacion), FAV-382/383 (I2C OLED), FAV-378 (HC-05).
+## [2026-11-15] ingesta | Protocolo I2C: maestro y esclavos con dos cables (FAV-386)
+
+YouTube 9gfZnNPBlVg (El profe Garcia). Raw: raw/electronica-practica/2026-11-15-protocolo-i2c-maestro-esclavos-profe-garcia.md. Resumen: wiki/electronica-practica/resumen-FAV-386-protocolo-i2c-maestro-esclavos-profe-garcia.md. Cruces: FAV-382/383 (OLED por I2C), FAV-385 (pines A4/A5 Nano). Umbral I2C: esta es la 4.a fuente (consolidacion deferida).
+
