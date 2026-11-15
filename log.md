@@ -2399,3 +2399,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Transistor explicado BJT (FAV-502, relevo 3 Electromecanica)
 - FAV-502 zh7PeHAZRLY «Transistor Explicado» — Engineering Mindset, ES-ASR 18:19. Resumen: wiki/electromecanica/resumen-FAV-502-transistor-explicado.md; raw: raw/electromecanica/2026-11-15-transistor-explicado.md. Canal 6ª fuente de la ventana; serie de componentes completa → concepto candidato. Cruces: [[transistor-bjt]], FAV-503.
+
+## [2026-11-15] ingesta | Cómo funciona un MOSFET (FAV-503, relevo 3 Electromecanica)
+- FAV-503 4Dnx5YR9k-8 «Cómo Funciona un MOSFET» — Engineering Mindset, ES-ASR 18:49 (&t=569s ignorado por S4). Resumen: wiki/electromecanica/resumen-FAV-503-como-funciona-un-mosfet.md; raw: raw/electromecanica/2026-11-15-como-funciona-un-mosfet.md. Canal 7ª fuente de la ventana; serie 5 componentes completa → concepto candidato al cierre.

@@ -11,7 +11,7 @@
 - FAV-500 — [video] (Electromecanica/Electronica) — Capacitores Explicados - Los fundamentos funcionan los condensadores. Principio de funcionamiento - YouTube — https://www.youtube.com/watch?v=h_m6qFRNITU ; PROCESADA 2026-11-15 relevo 3
 - FAV-501 — [video] (Electromecanica/Electronica) — Inductores Explicados - YouTube — https://www.youtube.com/watch?v=Gckb8cS1h5g ; PROCESADA 2026-11-15 relevo 3
 - FAV-502 — [video] (Electromecanica/Electronica) — Transistor Explicado - Cómo Funcionan los Transistores - YouTube — https://www.youtube.com/watch?v=zh7PeHAZRLY ; PROCESADA 2026-11-15 relevo 3
-- FAV-503 — [video] (Electromecanica/Electronica) — Cómo Funciona un MOSFET- Guía completa, entiéndelo como un PRO - YouTube — https://www.youtube.com/watch?v=4Dnx5YR9k-8&t=569s
+- FAV-503 — [video] (Electromecanica/Electronica) — Cómo Funciona un MOSFET- Guía completa, entiéndelo como un PRO - YouTube — https://www.youtube.com/watch?v=4Dnx5YR9k-8&t=569s ; PROCESADA 2026-11-15 relevo 3
 - FAV-504 — [video] (Electromecanica/Proyectos) — Fuente Capacitiva sin Transformador - Cálculos y Pruebas - YouTube — https://www.youtube.com/watch?v=jI3v-zjCesw
 - FAV-505 — [video] (Electromecanica/Proyectos) — Cargador Bateria con FUENTE DE COMPUTADORA! - YouTube — https://www.youtube.com/watch?v=hHH62ej2Bvc
 - FAV-506 — [video] (Electromecanica/Proyectos) — Fuente capacitiva — https://www.youtube.com/watch?v=yBCiz6xEB-4&t=760s
