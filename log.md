@@ -2366,3 +2366,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Conceptos Básicos del PLC (FAV-490, relevo 1 Electromecanica)
 - FAV-490 NPsepHRSCls «Conceptos Básicos del Controlador de Lógica Programable» — Engineering Mindset, ES-ASR 15:11. Resumen: wiki/electromecanica/resumen-FAV-490-conceptos-basicos-plc.md; raw: raw/electromecanica/2026-11-15-conceptos-basicos-plc.md. Umbral deferido: canal Engineering Mindset (ya con fuentes en electronica-practica FAV-008/009).
+
+## [2026-11-15] ingesta | Cableado PLC LOGO! 12/24RCE (FAV-491, relevo 1 Electromecanica)
+- FAV-491 0gEZE2ubCZE «COMO REALIZAR EL CABLEADO DE PLC LOGO 12/24RCE EXPLICADO» — Automatizando Ideas, ES-ASR 19:42. Resumen: wiki/electromecanica/resumen-FAV-491-cableado-plc-logo.md; raw: raw/electromecanica/2026-11-15-cableado-plc-logo-1224rce.md. Umbral deferido: Cade Simu (referencias acumulando).
