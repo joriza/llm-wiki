@@ -2994,3 +2994,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Raw: `raw/wl/tramo-17/2026-10-28-le-pidio-a-una-ia-que-hackeara-su-tv-lo-que-quito-explica-tu-tele.md` · Resumen: `wiki/wl/tramo-17/resumen-WL150-le-pidio-a-una-ia-que-hackeara-su-tv.md`
 - Dominio previsto (consolidación diferida): general (tecnología/privacidad); cruces con WL-147/WL-132 (seguridad local, Jorge Marfil) y crítica tecnológica.
 
+## [2026-11-15] ingesta | Algo está FALLANDO en los trenes y carreteras de España (WL-151, tramo 17)
+
+- Canal VisualPolitik, 2026-10-28, 23:48. Análisis publicado horas tras el choque de Los Yébenes (Toledo): segundo accidente grave de la LAV Madrid–Andalucía en 9 meses (Adamuz, 46 muertos, carril/soldadura 1989). Tesis estructural: inaugurar da votos, mantener no — cifras citadas (AIReF, FEDEA, TCE 2018, CNMC, AEC, Fundación BBVA); fuerte editorialización anti-gobierno señalada como opinión del canal; datos a verificar en consolidación. Cruces: WL-118 (Urda), WL-142, WL-126.
+- Raw: `raw/wl/tramo-17/2026-10-28-algo-esta-fallando-a-la-vez-en-los-trenes-y-las-carreteras-de-espana-visualpolit.md` · Resumen: `wiki/wl/tramo-17/resumen-WL151-algo-esta-fallando-trenes-carreteras-espana.md`
+- Dominio previsto (consolidación diferida): general (infraestructura/transporte — caso España).
+
