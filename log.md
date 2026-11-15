@@ -2378,3 +2378,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Sensor analógico 4–20 mA en PLC LOGO! (FAV-495, relevo 2 Electromecanica)
 - FAV-495 oK0rGYagn8s «Cómo LEER un SENSOR ANALÓGICO (autosen - AP016) de 4–20 mA en PLC LOGO!» — AV Smart Solutions, ES-ASR 11:19. Resumen: wiki/electromecanica/resumen-FAV-495-sensor-4-20ma-plc-logo.md; raw: raw/electromecanica/2026-11-15-sensor-analogico-4-20ma-plc-logo.md. Umbral deferido: 4–20 mA / analógicas industriales 2ª fuente (FAV-354 electronica-practica + esta) → concepto candidato.
+
+## [2026-11-15] ingesta | Arranque estrella-triángulo con PLC LOGO! en Cade Simu (FAV-496, relevo 2 Electromecanica)
+- FAV-496 cYQZbnc1BNQ «Arranque estrella triangulo con PLC LOGO en cade simu. paso a paso.» — Aprendiendo Electricidad Industrial, ES-ASR 17:49. Resumen: wiki/electromecanica/resumen-FAV-496-arranque-estrella-triangulo-cade-simu.md; raw: raw/electromecanica/2026-11-15-arranque-estrella-triangulo-cade-simu.md. Umbral: estrella-triángulo ya 3 fuentes (494/496/497) y Cade Simu 2+ — deferidos.
