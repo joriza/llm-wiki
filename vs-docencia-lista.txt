@@ -18,11 +18,11 @@ FAV-427|Informatica/VSCode|Visual Studio Code: Tips para programar - YouTube|htt
 FAV-428|Informatica/VSCode|VISUAL STUDIO CODE: Tutorial para principiantes - YouTube|https://www.youtube.com/watch?v=CxF3ykWP1H4 ; PROCESADA 2026-11-15
 FAV-429|Informatica/Transversal|Aprende GIT ahora! curso completo GRATIS desde cero - YouTube|https://www.youtube.com/watch?v=VdGzPZ31ts8 ; PROCESADA 2026-11-15
 FAV-430|Informatica/Transversal|(52) Cómo un Solo Developer Humilló a Toda la Industria con Git - YouTube|https://www.youtube.com/watch?v=fi4YiZvbLXU ; PROCESADA 2026-11-15
-FAV-431|Informatica/Transversal|(546) Cómo un Ingeniero Creó a los Developers — C - YouTube|https://www.youtube.com/watch?v=C2OMJXfRNnI
-FAV-432|Informatica/Transversal|(943) 4+6 Cosas que puedes hacer con un Router Viejo sin Internet - YouTube|https://www.youtube.com/watch?v=JnzMXLeI1AI
-FAV-433|Informatica/Transversal|(153) Las 5 complejidades de Big O con analogías que no se te olvidan - YouTube|https://www.youtube.com/watch?v=EhS3Q5XvyBY
-FAV-434|Informatica/Transversal|(178) si programás con IA, sos un bolud* - YouTube|https://www.youtube.com/watch?v=zuLt9uU_86Q
-FAV-435|Informatica/Transversal|(458) Empieza a hacer apps sin saber programar con Alan Buscaglia, el Gentleman de la programación - YouTube|https://www.youtube.com/watch?v=5Ts_EX73o1Y
+FAV-431|Informatica/Transversal|(546) Cómo un Ingeniero Creó a los Developers — C - YouTube|https://www.youtube.com/watch?v=C2OMJXfRNnI ; PROCESADA 2026-11-15
+FAV-432|Informatica/Transversal|(943) 4+6 Cosas que puedes hacer con un Router Viejo sin Internet - YouTube|https://www.youtube.com/watch?v=JnzMXLeI1AI ; PROCESADA 2026-11-15
+FAV-433|Informatica/Transversal|(153) Las 5 complejidades de Big O con analogías que no se te olvidan - YouTube|https://www.youtube.com/watch?v=EhS3Q5XvyBY ; PROCESADA 2026-11-15
+FAV-434|Informatica/Transversal|(178) si programás con IA, sos un bolud* - YouTube|https://www.youtube.com/watch?v=zuLt9uU_86Q ; PROCESADA 2026-11-15
+FAV-435|Informatica/Transversal|(458) Empieza a hacer apps sin saber programar con Alan Buscaglia, el Gentleman de la programación - YouTube|https://www.youtube.com/watch?v=5Ts_EX73o1Y ; PROCESADA 2026-11-15
 FAV-436|Informatica|(211) Google crea tu PROFESOR PARTICULAR con IA (y es GRATIS) - YouTube|https://www.youtube.com/watch?v=IH__GK4XBbU
 FAV-437|Informatica|(211) ¿Realmente Necesitamos Tantos Lenguajes de Programación? - YouTube|https://www.youtube.com/watch?v=cwZc_5WrYP4&list=PL1xxJ0WcomPmIQp70j3rjPAZG5c7nqo36&index=3
 FAV-438|Informatica|(211) ¿Qué es realmente internet? ¿Qué lo hace funcionar o caerse? - YouTube|https://www.youtube.com/watch?v=JhuiIzA5E2s&list=PL1xxJ0WcomPmIQp70j3rjPAZG5c7nqo36
