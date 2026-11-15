@@ -179,3 +179,15 @@ Notas del tramo: 5/5 útiles exactos (WL-170..WL-175), 0 meta-fail, 0 skip, sin 
 | WL-180 | Programar con agentes ya no basta: monta tu Software Factory (`p6nnqerea7w`) | Eric Risco \| Inteligencia Artificial | ia-uso-practico/agentes-de-codigo (continuación WL-178; autopromoción y cifras sin verificar señaladas; cruces [[agentes-de-codigo]], WL-165, WL-177) | Resumen en `tramo-22/` |
 
 Notas del tramo: 5/5 útiles exactos (WL-176..WL-180), 0 meta-fail, 0 skip, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas. Eric Risco ×2 en la ventana (WL-178/180) — candidata a entidad de canal en consolidación. Consolidación diferida (L12).
+
+## Tramo 23 (2026-11-15, relevo 16)
+
+| # | Título | Fuente | Dominio previsto | Resumen |
+|---|--------|--------|------------------|---------|
+| WL-181 | SE ACABÓ EL SOFTWARE (`NNWfRubvM5o`) | DotTech-ES | ia-critica-y-fronteras o general (industria software/IA; cruces WL-177, WL-165, [[agentes-de-codigo]]) | Resumen en `tramo-23/` |
+| WL-182 | Manaos: La Gaseosa mas polémica de Argentina (`8_OsOsEnidQ`) | Andru - Impetu | general/sociedad-argentina (historia empresarial; marco dramatizado señalado; cruce WL-110) | Resumen en `tramo-23/` |
+| WL-183 | La Traición que DESTRUYÓ a Anonymous para siempre (`IDdFTlLXnz0`) | Historias De Hackers | general o ia-critica-y-fronteras (ciberseguridad; docudrama señalado; cruces WL-177/WL-150, WL-128) | Resumen en `tramo-23/` |
+| WL-184 | ¿El Peronismo en su Crisis Terminal? De Trabajadores a Femboys (`KOFb3PqAjc4`) | Los Herederos de Alberdi | general/sociedad-argentina (opinión militante — NO fuente factual, señalado en triage; cruces WL-119/WL-123/WL-146) | Resumen en `tramo-23/` |
+| WL-185 | Me equivoqué, NO uses Spec Driven Development (`5JjuF1zpNbI`) | HolaMundo | ia-uso-practico/agentes-de-codigo (primera mano; cruces [[agentes-de-codigo]], [[odd-metodologia]], WL-178/WL-180/WL-165) | Resumen en `tramo-23/` |
+
+Notas del tramo: 5/5 útiles exactos (WL-181..WL-185), 1 SKIP definitivo sin subtítulos (video eliminado `PK0qQyd4QqA`), 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas + 1 skip. Consolidación diferida (L12).
