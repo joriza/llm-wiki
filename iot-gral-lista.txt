@@ -47,7 +47,7 @@
 47|IOT Gral|(276) Seguimiento del ESP32-C3 Super Mini: Modificaciones de antena, pruebas RSSI y análisis del espect... - YouTube|https://www.youtube.com/watch?v=Vnm7jtjf0T4
 48|IOT Gral|(276) Construcción de un controlador LED universal WS2812 con ESP32-C3 - YouTube|https://www.youtube.com/watch?v=wHnuPH63Hng
 49|IOT Gral|(278) How to use millis() function to multitask in arduino code. - YouTube|https://www.youtube.com/watch?v=dCku8BabPx4
-50|IOT Gral|(279) Amazing Idea | Find AC Current As Magically #experiment #electronics #shorts - YouTube|https://www.youtube.com/shorts/8orOU6iogtw
+50|IOT Gral|(279) Amazing Idea | Find AC Current As Magically #experiment #electronics #shorts - YouTube|https://www.youtube.com/shorts/8orOU6iogtw [.NO-SUBS definitivo 2026-11-15: sin subtítulos (meta-fail ×2, FAV-395)]
 51|IOT Gral|(279) Pantallas Oled con Arduino Librerias y Ejemplos - deMMake - YouTube|https://www.youtube.com/watch?v=XYBcr1KpN3Y
 52|IOT Gral|(279) 👾 Matriz LED Sin Controlador - Arduino - Conexion y Codigo - deMMake - YouTube|https://www.youtube.com/watch?v=_vqPmitnlxA
 53|IOT Gral|(279) ✅ Cubo LED, Como armarlo paso a paso (LED Cube) - YouTube|https://www.youtube.com/watch?v=Ia3viImc_KM&list=PLnwu2s7SIakSeKex9vSigQR7nlRmJ56jL&index=2

@@ -1887,3 +1887,22 @@ YouTube X8syt55ITUo (educ8s.tv, EN subs manuales). Raw: raw/electronica-practica
 
 YouTube L3uvcPo682k (ARDUINOLOVER). Raw: raw/electronica-practica/2018-07-13-arduino-uno-tft-22-spi-arduinolover.md. Resumen: wiki/electronica-practica/resumen-FAV-390-tft-22-spi-ili9341-arduinolover.md. Cruces: FAV-371 (ILI9341), FAV-389 (ST7735 SPI+SD), FAV-384 (bitmaps). CLUSTER TFT/SPI displays ahora 3 fuentes (FAV-371/388/389/390) + ST7735 2 fuentes (FAV-388/389) — umbrales para consolidacion deferida.
 
+## [2026-11-15] ingesta | OLED: I2C vs SPI para Arduino y ESP32 (FAV-391)
+
+YouTube ICXznCN3NOI (Mario's Ideas, EN). Raw: raw/electronica-practica/2026-02-28-oled-i2c-vs-spi-marios-ideas.md. Resumen: wiki/electronica-practica/resumen-FAV-391-oled-i2c-vs-spi-marios-ideas.md. Cruces: FAV-386 (I2C, ahora 5.a fuente), FAV-382/383/387 (cluster OLED, ahora 6.a), FAV-360 (ESP32-C3), FAV-390 (TFT SPI). Umbral nuevo: canal Mario's Ideas 1.a fuente (solo si llega a 2).
+
+## [2026-11-15] ingesta | ESP32-C3 SuperMini: antena y RSSI (FAV-392)
+
+YouTube Vnm7jtjf0T4 (Mario's Ideas, EN). Raw: raw/electronica-practica/2026-01-23-esp32-c3-supermini-antena-rssi-marios-ideas.md. Resumen: wiki/electronica-practica/resumen-FAV-392-esp32-c3-supermini-antena-rssi-marios-ideas.md. Cruces: FAV-360 (SuperMini), FAV-391 (mismo canal), FAV-394 (millis vs delay). Mario's Ideas 2.a fuente (umbral entidad >=2 cumplido, deferido a consolidacion).
+
+## [2026-11-15] ingesta | Controlador LED WS2812 universal con ESP32-C3 (FAV-393)
+
+YouTube wHnuPH63Hng (Mario's Ideas, EN). Raw: raw/electronica-practica/2025-11-26-controlador-led-ws2812-universal-esp32-c3-marios-ideas.md. Resumen: wiki/electronica-practica/resumen-FAV-393-controlador-led-ws2812-universal-esp32-c3-marios-ideas.md. Cruces: FAV-360/391/392 (serie ESP32-C3 del canal), FAV-386 (I2C), FAV-375 (WS2812B), FAV-003/004 (LDR), FAV-317 (fabricacion PCB). Mario's Ideas 3.a fuente.
+
+## [2026-11-15] ingesta | millis() para multitarea en Arduino (FAV-394)
+
+YouTube dCku8BabPx4 (Mario's Ideas, ES-US). Raw: raw/electronica-practica/2020-10-16-millis-multitarea-arduino-marios-ideas.md. Resumen: wiki/electronica-practica/resumen-FAV-394-millis-multitarea-arduino-marios-ideas.md. Cruces: FAV-392 (millis vs delay), FAV-355 (FreeRTOS). Mario's Ideas 4.a fuente.
+
+## [2026-11-15] skip-no-subs | Short deteccion AC "magica" (FAV-395)
+
+YouTube Short 8orOU6iogtw. SKIP definitivo .NO-SUBS: video sin pistas de subtítulos (meta-fail x2: youtube-transcript-api "Subtitles are disabled" + yt-dlp todos los clientes fallidos). Fila 50 de iot-gral-lista.txt marcada. Ni raw ni resumen. Ademas, material de ~60 s tipo short hubiera caido bajo el criterio SKIP de FAV-323/326 (contenido trivial).
