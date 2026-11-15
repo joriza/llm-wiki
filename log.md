@@ -1938,3 +1938,12 @@ YouTube CtJqhg5Y6DA (El profe García, ES-419, 2013, subs manuales). El bookmark
 
 ## [2026-11-15] ingesta | Tira LED al ritmo de la música (FAV-406)
 YouTube ZsMuX1fI0Fs (El profe García, ES, 2021). El bookmark traía `list=` — ignorada por S4. Raw: raw/electronica-practica/2021-01-20-tira-led-ritmo-musica-profe-garcia.md. Resumen: wiki/electronica-practica/resumen-FAV-406-tira-led-ritmo-musica-profe-garcia.md. Cruces: FAV-375 (pantalla 16x16 WS2812B, mismo canal), FAV-393 (WS2812), FAV-398/402 (clúster LED).
+
+## [2026-11-15] ingesta | LEDs mágicos, construcción desde cero (FAV-407)
+YouTube -zV_KVFG-iY (El profe García, ES, 2022). El bookmark traía `list=` — ignorada por S4. Raw: raw/electronica-practica/2022-05-18-leds-magicos-induccion-profe-garcia.md. Resumen: wiki/electronica-practica/resumen-FAV-407-leds-magicos-induccion-profe-garcia.md. Cruces: FAV-398/405/406 (mismo canal, 2N2222A), [[transistor-bjt]].
+
+## [2026-11-15] ignored | Playlist cubo LED con Arduino (FAV-401, línea 56)
+URL de playlist pura (list=PLiJv_3SD9kX...). Decisión del usuario 2026-11-15: «ignore ambas listas» — IGNORADA definitivamente junto con FAV-404. No se procesa ni se marca SKIP.
+
+## [2026-11-15] ignored | Playlist Arduino propeller clock (FAV-404, línea 59)
+URL de playlist pura (list=PLlck5hCWxDJ...). IGNORADA definitivamente por orden del usuario 2026-11-15 («ignore ambas listas»).

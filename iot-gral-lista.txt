@@ -53,12 +53,12 @@
 53|IOT Gral|(279) ✅ Cubo LED, Como armarlo paso a paso (LED Cube) - YouTube|https://www.youtube.com/watch?v=Ia3viImc_KM&list=PLnwu2s7SIakSeKex9vSigQR7nlRmJ56jL&index=2
 54|IOT Gral|(279) How to make a Big LED Cube at Home 8x8x8 LED Cube - YouTube|https://www.youtube.com/watch?v=AEyY17chb0A [.SKIP 2026-11-15: video montaje musical sin narración — ASR sin habla aprovechable (FAV-399)]
 55|IOT Gral|(279) How to make a 8x8x8 LED Cube at Home - YouTube|https://www.youtube.com/watch?v=mN5JWQUfrxY [.SKIP 2026-11-15: video montaje musical sin narración — ASR sin habla aprovechable (FAV-400)]
-56|IOT Gral|(280) 🏆 Cómo HACER un CUBO LED con ARDUINO? ⛳ - YouTube|https://www.youtube.com/playlist?list=PLiJv_3SD9kXCoQHHFSjaHIyzp5p6fC60v
+56|IOT Gral|(280) 🏆 Cómo HACER un CUBO LED con ARDUINO? ⛳ - YouTube|https://www.youtube.com/playlist?list=PLiJv_3SD9kXCoQHHFSjaHIyzp5p6fC60v # IGNORED definitivo 2026-11-15 (FAV-401): usuario ignora ambas playlists puras («ignore ambas listas»)
 57|IOT Gral|(280) Cómo Hacer Cubo De LED 3x3x3 (muy fácil de hacer) - YouTube|https://www.youtube.com/watch?v=rw2tA0LZgwY # procesado 2026-11-15 (FAV-402)
 58|IOT Gral|(280) CUBO LED 3x3x3 muy facil de hacer || Leds RGB automáticos || [Explicado paso a paso] - YouTube|https://www.youtube.com/watch?v=tItvqXAkzBk # procesado 2026-11-15 (FAV-403)
-59|IOT Gral|(280) Arduino propeller clock - YouTube|https://www.youtube.com/playlist?list=PLlck5hCWxDJ_pK7QKY7rY01lz73mbEg79
+59|IOT Gral|(280) Arduino propeller clock - YouTube|https://www.youtube.com/playlist?list=PLlck5hCWxDJ_pK7QKY7rY01lz73mbEg79 # IGNORED definitivo 2026-11-15 (FAV-404): ídem
 60|IOT Gral|(281) Como Conectar 100 LEDs a una Salida (Circuito) - YouTube|https://www.youtube.com/watch?v=CtJqhg5Y6DA&list=PLnwu2s7SIakSbbRh-3ulVT5_6aSczA7VE&index=11 # procesado 2026-11-15 (FAV-405)
-61|IOT Gral|(281) ✅ Tira LED al Ritmo de la Música, muy fácil de hacer en casa - YouTube|https://www.youtube.com/watch?v=ZsMuX1fI0Fs&list=PLnwu2s7SIakSbbRh-3ulVT5_6aSczA7VE&index=19
+61|IOT Gral|(281) ✅ Tira LED al Ritmo de la Música, muy fácil de hacer en casa - YouTube|https://www.youtube.com/watch?v=ZsMuX1fI0Fs&list=PLnwu2s7SIakSbbRh-3ulVT5_6aSczA7VE&index=19 # procesado 2026-11-15 (FAV-406)
 62|IOT Gral|(281) ✅LED Mágicos, el secreto revelado y construcción desde cero - YouTube|https://www.youtube.com/watch?v=-zV_KVFG-iY&list=PLnwu2s7SIakSbbRh-3ulVT5_6aSczA7VE&index=21
 63|IOT Gral|(281) AMPLIFICADOR SENCILLO DE AUDIO CON UN TRANSISTOR 13003 - YouTube|https://www.youtube.com/watch?v=GgRRr-RMiws
 64|IOT Gral|(684) Walter: La Placa IoT Definitiva con IA - YouTube|https://www.youtube.com/watch?v=Q1hAE8VwkZY
