@@ -2563,3 +2563,6 @@ Fuente 5/11 (uOvB0CIhb5k, BigBearTechWorld 2023-09-22, en inglés). Raw intacto 
 
 ## [2026-11-15] ingesta | BLOQUEA ADS y MALWARE en TODOS tus dispositivos - PI-HOLE
 Fuente 6/11 (qc8mkWtwY9c, Pelado Nerd 2019-06-21, ES-ASR 06:46). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-5. Antecedente temprano (2019) de Pi-hole.
+
+## [2026-11-15] ingesta | So, you want to start self-hosting? Part 1 - Proxmox y hardware
+Fuente 7/11 (zngSuqCM4d8, Tailscale 2025-05-21, EN 20:13). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-6. Serie oficial de Tailscale, parte 1 de instalación.
