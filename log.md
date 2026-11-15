@@ -2107,3 +2107,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 ## [2026-11-15] relevo 6 T4 — FAV-436..440 COMPLETO (líneas 26-30, IDs verificados contra vs-docencia-lista.txt)
 - FAV-436 Google profesor particular Migue Baena IA = **DUPLICADO** (ya procesada en la playlist IA-Recursos; raw ia-critica-y-fronteras; fila 26 marcada, commit 7b3b7bba) · FAV-437 tantos lenguajes Gilada (42858b6b) · FAV-438 qué es internet Gilada (f4b7482d) · FAV-439 8 estructuras de datos Torti Code (ecc59f2e) · FAV-440 SOLID Torti Code (este commit). 4/5 PROCESADAS con ciclo completo (raw/informatica/ + wiki/informatica/), 1 DUPLICADO, 0 playlists puras, 0 webs, 0 SKIP/NO-SUBS. FAV-437/438 con `list=` ajena ignorada por S4. 0×429; salida WARP; 4 fetches OK gated (~85-90 s), 0 meta-fail, 0 duplicados adicionales.
 - Umbrales nuevos para consolidación diferida: **canal Gilada 2 fuentes** (FAV-437/438) y **canal Torti Code 4 fuentes** (FAV-439/440 + FAV-433 + informatica-teoria) → entidades candidatas (umbral ≥2 cumplido, deferidas). Sin concepto/entidad nuevas (todo deferido). El relevo siguiente continúa en la línea 31 (FAV-441).
+
+## [2026-11-15] relevo 7 T4 — FAV-441..445 (líneas 31-35, IDs verificados contra vs-docencia-lista.txt)
+- FAV-441 programar 10X más rápido Torti Code (este commit)
