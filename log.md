@@ -3108,3 +3108,6 @@ Ventana de 5 fuentes ÚTILES desde la cabeza cerrada EXACTAMENTE en frontera, si
 
 ## [2026-11-15] ingesta | WL-186 · 20 Trucos de Cocina que Descubrí Demasiado Tarde! (Astiavo)
 Tramo 24, fuente 1. Lista de 20 trucos de cocina estilo vida diaria, sin verificación de mecanismos (señalado en triage). Raw espejado en `raw/wl/tramo-24/2026-01-12-20-trucos-de-cocina-que-descubri-demasiado-tarde.md`; resumen en `wiki/wl/tramo-24/resumen-WL186-20-trucos-de-cocina.md`. Dominio previsto: general (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
+
+## [2026-11-15] ingesta | WL-187 · Código Morse 2 antes de GTA 6 (Eze Martínez)
+Tramo 24, fuente 2. Mini-divulgación del Tap Code (tabla 5×5, golpes fila+columna, prisioneros de Vietnam). 1 SKIP definitivo antes de esta fuente: `y3Y5VJ4BzKs` (Parallel Parking) — marcador `.no-subs`, no cuenta como útil. Raw espejado en `raw/wl/tramo-24/2026-05-24-codigo-morse-2-antes-de-gta-6.md`; resumen en `wiki/wl/tramo-24/resumen-WL187-codigo-morse-2-antes-de-gta-6.md`. Dominio previsto: general (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
