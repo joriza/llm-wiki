@@ -128,3 +128,15 @@ Contenido (2026-11-15, cierre del tramo 10): **15 resúmenes en la estación** �
 | WL-154 | Espié a mi IA local… y descubrí algo INESPERADO (`WdOLEwGuEN8`) | Cognix | ia-uso-practico/ia-local (seguridad; cruces WL-147/WL-132/WL-150) | Resumen en `tramo-18/` |
 | WL-155 | Los 7 lenguajes de programación MÁS RAROS (`ZlfY3tF3qBY`) | LinuxChad | general (historia/cultura de la programación) | Resumen en `tramo-18/` |
 | WL-156 | Florencia vs Lizy: la verdad incómoda que nadie se anima a decir (`w5DnMsCZ4K4`) | Themateoteo | general/sociedad-argentina (NO fuente factual, señalado) | Resumen en `tramo-18/` |
+
+### Tramo 19 (2026-11-15, relevo 12 — 5 fuentes útiles desde la cabeza, pendiente consolidación)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-158 | Martín Cirio Rompió con Todo (`xrXEI_AUYic`) | Themateoteo | general/sociedad-argentina (NO fuente factual, señalado) | Resumen en `tramo-19/` |
+| WL-159 | INFLUENCERS de cocina vs COCINAR de verdad (`sp1f6LMU_s4`) | Themateoteo | general/sociedad-argentina (NO fuente factual, señalado) | Resumen en `tramo-19/` |
+| WL-160 | TODAS las HERRAMIENTAS DevOps en 24 minutos (`vQ4OOw63svs`) | TecnoCroquis | ia-uso-practico/agentes-de-codigo o general (herramientas dev) | Resumen en `tramo-19/` |
+| WL-161 | ¡SE LE ACABÓ EL SHOW A VIVIANA CANOSA! (`1owxolZN1QQ`) | Themateoteo | general/sociedad-argentina (NO fuente factual, señalado; cruce WL-156) | Resumen en `tramo-19/` |
+| WL-162 | Lo que va a reemplazar a tu laptop ya está en tu bolsillo (`lgC7MZS_R30`) | Titanes Tecnológicos | general (historia de la tecnología/industria; cruces WL-138/WL-122) | Resumen en `tramo-19/` |
+
+Notas del tramo: WL-157 (`npVBnrL-y-4`, El Presto) SKIP definitivo `.no-subs`; el tramo queda encabezado por la cuádruple presencia de Themateoteo (WL-158/159/161 + precedente WL-156) — candidata a entidad de canal en consolidación.
