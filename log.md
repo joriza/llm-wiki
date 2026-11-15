@@ -2196,3 +2196,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - FAV-462 (línea 52) = **DUPLICADO** de FAV-461 (misma URL, video ucnV6Ib5wCA, Susan Kare): procesada UNA sola vez, fila marcada, sin fetch ni resumen nuevo. Commit de marca incluido en el cierre del relevo.
 ## [2026-11-15] ingesta | ANÉCDOTA: Base de datos SIN RELACIONES y sin PK (TodoCode) — FAV-463
 - Fuente: raw/informatica/2026-11-15-anecdota-bd-sin-relaciones-tocode.md · resumen: wiki/informatica/resumen-FAV-463-anecdota-bd-sin-relaciones-sin-pk-tocode.md
+## [2026-11-15] ingesta | ESTO es lo que pasó con los JUNIORS (TodoCode) — FAV-464
+- Fuente: raw/informatica/2026-11-15-que-paso-con-los-juniors-tocode.md · resumen: wiki/informatica/resumen-FAV-464-que-paso-con-los-juniors-tocode.md
+- Umbral anotado: canal TodoCode 2 fuentes (FAV-463/464) → entidad candidata deferida.
