@@ -2957,3 +2957,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 
 ## [2026-11-15] ingesta | Por qué la televisión decidió borrar por completo a Raúl Portal (WL-143, tramo 16)
 - Canal Ecos del Pasado Argentino: Recuerdo con nostalgia, 13:14, subtítulos manuales, `P7I-FSOmuSA`. Raw espejado en `raw/wl/tramo-16/2026-10-28-por-que-la-television-decidio-borrar-por-completo-a-raul-portal.md`; resumen en `wiki/wl/tramo-16/resumen-WL143-...md`. Dominio previsto: general/sociedad-argentina (cultura pop/televisión, marco docudrama señalado en triage). Consolidación diferida (L12).
+
+## [2026-11-15] ingesta | Canadá revela motor sin imanes — Enedem North Star (WL-144, tramo 16)
+- Canal Laboratorio de Inventos, 28:46, ASR es, `yDrc9Y-bx44`. Raw espejado en `raw/wl/tramo-16/2026-10-24-canada-acaba-de-revelar-el-motor-secreto-que-destruira-a-tesla-byd-y-a-toda-la-i.md`; resumen en `wiki/wl/tramo-16/resumen-WL144-canada-revela-motor-sin-imanes-que-destruira-a-tesla-byd.md`. Dominio previsto: general (industria automotriz/tecnología; cruce con WL-138; cifras de fabricante sin verificación independiente — señalado en triage). Consolidación diferida (L12).
