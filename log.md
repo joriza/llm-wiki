@@ -2700,3 +2700,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 ## [2026-11-15] ingesta | tramo 8 — WL-103: La IA no está salvando a nadie. DirecTV y Tinder en problemas (Lógicamente Aclarado, 2026-10-24, EbohAJufhnE)
 
 - Estación wl (L12): raw espejado en `raw/wl/tramo-8/2026-10-24-la-ia-no-esta-salvando-a-nadie-directv-y-tinder-en-problemas-recopilacion.md`, resumen en `wiki/wl/tramo-8/resumen-WL103-la-ia-no-esta-salvando-a-nadie-directv-tinder.md`. Dominio destino previsto: ia-critica-y-fronteras (recopilación tech-estado; cifras sin fuente primaria etiquetadas). Salida 45.239.32.215, sin 429.
+## [2026-11-15] ingesta | tramo 8 — WL-104: Si no entendés esto, no vas a recibirte NUNCA (Franco Pisso, 2026-10-29, otMZ3SKi9wo)
+
+- Estación wl (L12): raw espejado en `raw/wl/tramo-8/2026-10-29-si-no-entendes-esto-no-vas-a-recibirte-nunca.md`, resumen en `wiki/wl/tramo-8/resumen-WL104-si-no-entendes-esto-no-vas-a-recibirte.md`. Dominio destino previsto: general (autoayuda-académica). Salida 45.239.32.215, sin 429.
