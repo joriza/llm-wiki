@@ -2584,3 +2584,6 @@ Consolidación diferida de la playlist self-hosting (11/11). Páginas de CONCEPT
 
 ## [2026-11-15] ingesta | MongoDB Crash Course With Python 2022
 Fuente 1/37 de la playlist Python (qWYx5neOh2s, Patrick Loeber 2021-05-12, EN-ASR 38:20). Runner v2 salida 45.239.32.215 (sonda OK hoy; presupuesto ajustado a 16 por uso acumulado de la salida — regla «presupuesto estimado»). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-mongodb-crash-course-with-python-2022.md con cruces a [[bases-de-datos-especializadas]], [[duckdb]], [[fastapi]]. Nota ASR: «pi mongo/buy»→PyMongo, «remove one»→delete_one, «onset»→unset (normalizado solo en el resumen).
+
+## [2026-11-15] ingesta | Introducción a Serverless con Python
+Fuente 2/37 de la playlist Python (1bLWSsocsxI, Paradigma Digital 2021-02-24, ES-ASR 40:55). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-introduccion-a-serverless-con-python.md con cruces a [[automatizacion-con-python]] y [[fastapi]]. Nota ASR pesada normalizada solo en el resumen («ser verles»→serverless, «bouquet/banquete»→bucket, «lnd/landas»→lambda, «jam»→IAM).
