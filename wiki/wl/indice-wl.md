@@ -53,6 +53,16 @@ Contenido (2026-11-15, cierre del tramo 10): **15 resúmenes en la estación** �
 | WL-120 | El Futuro de las Empresas: De la IA a los Criterios ESG (`5F49Op3IMwU`) | GSG Business Hub | general (negocios/sostenibilidad; autopromoción) | Resumen en `tramo-11/` |
 | WL-121 | Los multimillonarios de Silicon Valley que quieren gobernar el mundo (`Kg7TQr1lXYE`) | Roxana Kreimer | ia-critica-y-fronteras | Resumen en `tramo-11/` |
 
+### Tramo 12 (2026-11-15, relevo 5 — WL-122..WL-126, pendiente consolidación)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-122 | ¿Podría Google vencer a Nvidia en Chips de IA? TPU vs GPU Explicado (`rpjIeRUCwpE`) | Marfil Lab | general (hardware/industria IA) | Resumen en `tramo-12/` |
+| WL-123 | "Llegar a fin de mes": Danann y Presto DESTROZAN a Milei (`EoJU8y6g5oQ`) | Canal EY! (Danann) | general / sociedad-argentina (opinión militante, NO factual) | Resumen en `tramo-12/` |
+| WL-124 | "Karina es más despiadada que Javier" — Victoria de Masi (`7HUeDzJLUZk`) | El Presto | general / sociedad-argentina (perfil periodístico-opini) | Resumen en `tramo-12/` |
+| WL-125 | Los taxistas se arrepienten de votar a Milei (`J_QnzOqL6xY`) | Arruinados x Milei | general / sociedad-argentina (vox populi, encuadre sesgado declarado) | Resumen en `tramo-12/` |
+| WL-126 | Tren Urquiza: 7 cosas que NO SABES y el proyecto que NO fue (`49QT0KNgonA`) | Ojo Urbano | general (transporte/infraestructura urbana) | Resumen en `tramo-12/` |
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).

@@ -2844,3 +2844,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Resumen**: `wiki/wl/tramo-12/resumen-WL126-tren-urquiza-7-cosas-que-no-sabes-y-el-proyecto-que-no-fue.md`.
 - **Decisiones**: dominio destino previsto `general` (transporte/infraestructura urbana; S4 sin dominios nuevos); cifra de satisfacción es de encuesta del propio operador (señalada); cruce con WL-118 diferido. Consolidación diferida (L12).
 
+
+### CIERRE TRAMO 12 (2026-11-15, relevo 5 de gentle-ai-worker)
+
+- **5/5 fuentes ingestadas y committed** (WL-122..WL-126), 0 meta-fail, 0 skip, pre-flight dedupe limpio (643→648 ids en raw/). Commits por fuente: WL-122 (raw+index 4551165e, resumen 4b4f1321), WL-123 9deb02fa/9e1eb7c3/982bfa46/(resumen), WL-124 04b4514e/fe33e04c/c937e634/aab84436, WL-125 01d65245/44045027/60f45108/1e487907, WL-126 e5cf4da1/c04ab43a/983ca1de/02429314. Salida **45.239.32.215** (Proton UE, validada hoy) — 5 descargas timedtext consecutivas sin 429, presupuesto suave 100 nunca alcanzado (L13). Estructura tramo (L12): `raw/wl/tramo-12/` + `wiki/wl/tramo-12/resumen-WL<NNN>-<slug>.md`, index.md con subcarpeta, hub indice-wl.md actualizado (sección tramo 12).
+- Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-122 general (hardware/industria IA — TPU vs GPU); WL-123 general/sociedad-argentina (streaming de opinión militante, NO fuente factual); WL-124 general/sociedad-argentina (perfil periodístico-opini sobre Karina Milei, afirmaciones no verificables); WL-125 general/sociedad-argentina (vox populi con encuadre sesgado declarado); WL-126 general (transporte/infraestructura urbana).
+- Última fuente del tramo: **WL-126** (`49QT0KNgonA`). Próximo: T13 (WL-127..WL-131, relevo 6); consolidación de tramos 8-12 diferida según flujo L12.
