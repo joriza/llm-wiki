@@ -191,3 +191,15 @@ Notas del tramo: 5/5 útiles exactos (WL-176..WL-180), 0 meta-fail, 0 skip, sin 
 | WL-185 | Me equivoqué, NO uses Spec Driven Development (`5JjuF1zpNbI`) | HolaMundo | ia-uso-practico/agentes-de-codigo (primera mano; cruces [[agentes-de-codigo]], [[odd-metodologia]], WL-178/WL-180/WL-165) | Resumen en `tramo-23/` |
 
 Notas del tramo: 5/5 útiles exactos (WL-181..WL-185), 1 SKIP definitivo sin subtítulos (video eliminado `PK0qQyd4QqA`), 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas + 1 skip. Consolidación diferida (L12).
+
+## Tramo 24 (2026-11-15, relevo 17)
+
+| # | Título | Fuente | Dominio previsto | Resumen |
+|---|--------|--------|------------------|---------|
+| WL-186 | 20 Trucos de Cocina que Descubrí Demasiado Tarde! (`kV_5yDtDWnA`) | Astiavo | general (vida diaria; afirmaciones sin verificación señaladas en triage) | Resumen en `tramo-24/` |
+| WL-187 | Código Morse 2 antes de GTA 6 (`L_up4wNCoNI`) | Eze Martínez | general (criptografía ligera/cultura pop; título meme, contenido correcto en lo esencial) | Resumen en `tramo-24/` |
+| WL-188 | Automatic Water Tank Filler Using 555 Timer (`T7Jy082bmz4`) | Wirecora | general (electrónica/diy; Short de 6 s sin narración — candidata a baja por triage, ítem 17) | Resumen en `tramo-24/` |
+| WL-189 | ¿Es el Final de los LLMs? (NCM) (`LKBe_Z2A0fU`) | Marfil Lab | ia-uso-practico o ia-critica-y-fronteras (análisis de preprints con verificación propia; cruces WL-132/WL-122) | Resumen en `tramo-24/` |
+| WL-190 | Por qué ser solo "BUENA PERSONA" te condena al fracaso (Teoría de Juegos) (`hBYxZP38kRE`) | No es Posible | general (teoría de juegos/economía del comportamiento; título clickbait señalado; cruces concepto dilema del prisionero) | Resumen en `tramo-24/` |
+
+Notas del tramo: 5/5 útiles exactos (WL-186..WL-190), 1 SKIP definitivo sin subtítulos (`y3Y5VJ4BzKs`, Parallel Parking), 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas + 1 skip, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12).
