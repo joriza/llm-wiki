@@ -2668,3 +2668,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-c
 
 ## [2026-11-15] ingesta | Descubre las Mejores Librerías Python en 15 Minutos (Codificando 01, relevo 6, fuente 31/37)
 Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-descubre-las-mejores-librerias-python-en-15-minutos.md`; sin cruces a páginas existentes (tercera fuente «mapa del ecosistema» señalada para consolidación). index.md y log.md actualizados. Commit por archivo.
+
+## [2026-11-15] ingesta | ¿Cómo Analizar Empresas usando Python? Tutorial QuantStats (PythonIA, relevo 6, fuente 32/37)
+Descarga OK (45.239.32.215, sin 429; puerta con espera 19 s). Resumen en `wiki/python-practico/resumen-como-analizar-empresas-usando-python-tutorial-quantstats.md`; cruces por búsqueda en wiki/ a porfolio cripto y trading TA-Lib (hilo trading/quant — señalado para consolidación). index.md y log.md actualizados. Commit por archivo.
