@@ -238,6 +238,19 @@ Notas del tramo: 5/5 útiles exactos (WL-196..WL-200), 0 skips, 0 meta-fail, sin
 
 Notas del tramo: 3/3 útiles exactos (WL-201..WL-203), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin cuarto ciclo (TRAMO FINAL del pedido L22). Salida 45.239.32.215 (Proton UE, validada hoy), 3 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). **PEDIDO L22 CERRADO: 50/50 útiles.**
 
+## Tramo 30 — relevo 23 (WL-214..WL-219)
+
+| # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
+|---|--------|--------|------------------|---------|
+| WL-214 | Cómo usar REA para CLONAR Apps con IA (`1yUWkR32QXQ`) | Martín Toledo \| IA & Automatización | ia-uso-practico/agentes-de-codigo (REA «Reverse Engineer Anything» ~230k estrellas en 2 semanas no verificado — MCP hacia Ghidra/IDA/Hopper; 5 piezas del flujo; observado/deducido/desconocido; demo clon visual TypeLess; tesis «¿muerte del SaaS?» iceberg; cruces [[agentes-de-codigo]], WL-153/WL-185/WL-203/WL-211, WL-165) | Resumen en `tramo-30/` |
+| WL-215 | Los peligros de tomar UN POCO de ALCOHOL (`u6921bn9vf0`) | Roxana Kreimer | general (salud/filosofía de la ciencia — OMS «sin nivel seguro» como problema epistemológico; metaanálisis 2023/Imperial 2021/IARC 2023 citados de 2ª mano; dado 100→95 caras, riesgo poblacional vs decisión individual; precaución vs utilidad esperada; recta sin umbral desmonta el justo medio aristotélico; cruces cluster salud WL-213/WL-164, WL-190; entidad canal candidata) | Resumen en `tramo-30/` |
+| WL-216 | Benchmark de lenguajes de programación: ¿cuál gana? (`y3Fjr2LGW_w`) | CodeSimple | general (programación/rendimiento — reto comunitario VPS 12 USD: Rust y C++ empatados a 64.000 usuarios concurrentes, p99 224 vs 910 ms; PHP 750→40.000 con Swoole, Fortran 38.000; 5 trucos repetidos; «el diseño pesa más que el lenguaje»; asterisco C++ sin fsync; cifras no verificadas; cruces [[lenguaje-rust]], WL-108/WL-160) | Resumen en `tramo-30/` |
+| WL-217 | El Lenguaje Latinoamericano Que Supera A Python (`VW9WXSZ7HfE`) | Tirando Código | general (programación — Águila, lenguaje en español de Emerson Espinosa: sintaxis Python+JS, Rust+VM+JIT; origen en la barrera del idioma; benchmark casero Fibonacci n=40 ~1 s vs Python 13-28 s vs Rust 0,3-0,5 s; título clickbait señalado; cruces WL-216/WL-155, [[lenguaje-rust]], WL-14) | Resumen en `tramo-30/` |
+| WL-218 | Todo lo que la IA descubrió sola y nadie sabe explicar (`Be-nO6yOOLQ`) | Cómo Funciona El Mundo | ia-critica-y-fronteras o general (divulgación compilatoria — 6 casos de resultados sin explicación: AlphaGo jugada 37, Nazca +303, halicin MIT, AlphaFold sin camino de plegado, demo Navier-Stokes OpenAI «no escrita para humanos», ART de Anthropic hallado 1 de 11 veces; cifras de 2ª mano sin verificación; cruces WL-132/WL-189/WL-121; concepto candidato «caja negra de la IA») | Resumen en `tramo-30/` |
+| WL-219 | Experto En Comunicación… \| Fernando Miralles (`b5VTu29RTIk`) | Adrián Sáenz | general (comunicación/desarrollo personal — potestas/auctoritas, escuchar más, protocolo padrino, nervios tipo 1/2, corporalidad, «discusión se gana perdiéndola», persuadir=manipular, manual del comunicador autoritario, religión como sistema comunicativo; técnicas sin base empírica citada; sección política española = opinión NO factual, señalada; cruces WL-131/WL-190/WL-119) | Resumen en `tramo-30/` |
+
+Notas del tramo: 5/5 útiles exactos, 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L23: **15/50 útiles**. Tema de tramo: programación/lenguajes ×2 (WL-216/217) — vecinos en consolidación.
+
 ## Tramo 29 — relevo 22 (WL-209..WL-213)
 
 | # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
