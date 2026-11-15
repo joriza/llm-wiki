@@ -2605,3 +2605,6 @@ Fuente 7/37 de la playlist Python (ckjUa76F9Vg, Dimas 2021-11-23, ES-ASR ~63 min
 
 ## [2026-11-15] ingesta | ¿Programar bien? PEP8, Linters, Formatters y Git Hooks
 Fuente 8/37 de la playlist Python (NtobWmD1A0w, CodinEric 2020-07-12, ES-ASR 12:33). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-programar-bien-pep8-linters-formatters-y-git-hooks.md con cruces a [[codigo-de-plomeria]] y [[mapa-del-ecosistema-python]]. Nota ASR normalizada solo en el resumen («Pepo/Pep ocho»→PEP 8, «promit»→pre-commit, «fake 8/flaco»→flake8, «p project tumel»→pyproject.toml, «tortita»→emoji 🥞 de black). Nota de contenido: cierra con gancho hacia GitHub Actions (video siguiente, fuera de esta fuente) — laguna de CI abierta en el dominio.
+
+## [2026-11-15] ingesta | 28. ¿Qué es Pandas? — Introducción a Pandas en Python
+Fuente 9/37 de la playlist Python (Mm1L4Bde6_w, La Cartilla 2020-04-23, ES-ASR 07:45). Raw intacto a raw/python-practico/; resumen en wiki/python-practico/resumen-28-que-es-pandas-introduccion-a-pandas.md con cruces a [[resumen-podras-contra-este-ejercicio-avanzado-de-python]], [[duckdb]], [[polars]], [[mapa-del-ecosistema-python]]. Nota de contenido: tutorial casi enteramente teórico (1 de 3 sobre pandas en el curso original); fundamenta el ejercicio aplicado de pandas de la fuente 7.
