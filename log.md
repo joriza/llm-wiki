@@ -1990,3 +1990,7 @@ YouTube hJBYvOV51QQ (ES, subs automáticos, 21:05, 2024-02-29). Raw: raw/electro
 ## [2026-11-15] ingesta | FAV-417 — El ácido tánico como convertidor de óxido (Raíces Prohibidas)
 - Fuente: https://www.youtube.com/watch?v=ywWdMOfVRSw → raw/electronica-practica/2026-11-15-acido-tanico-conversion-oxido.md
 - Resumen: wiki/electronica-practica/resumen-FAV-417-acido-tanico-conversion-oxido-raices-prohibidas.md (marco clickbait señalado, precedentes fuentes 20/21). Descarga gated OK (sleep 88 s, salida WARP).
+
+## [2026-11-15] ingesta | FAV-418 — Restaurar madera con aceite de linaza (Raíces Prohibidas)
+- Fuente: https://www.youtube.com/watch?v=a047yopYSxw → raw/electronica-practica/2026-11-15-acabado-madera-aceite-linaza.md
+- Resumen: wiki/electronica-practica/resumen-FAV-418-madera-aceite-linaza-raices-prohibidas.md. Cruces: FAV-417 (misma serie del canal). Descarga gated OK (sleep 88 s, salida WARP).
