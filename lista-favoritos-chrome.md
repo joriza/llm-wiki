@@ -334,3 +334,32 @@ Fuente: archivo local de Chrome `Bookmarks` (Default), **lectura fresh completa 
 Procesadas: 6 (FAV-001 Trivy + FAV-002..006 de la ventana 1) · Pendiente relevo (ventana 1, fuentes 7-10): 5 · Duplicadas WL: 1 · No-YouTube a decisión del usuario: 4 (Electronica y TV) · Playlists-ajena anotadas: 22 · Pendientes YT/shorts: 289 · Total filas: 327.
 
 **Discrepancia observada (v2)**: `Electronica y TV/` contiene **19 videos YT + 4 no-YouTube** en la lectura fresh (la spec S5 estimaba 25 videos; los 6 de diferencia quedan sin verificar — posible conteo previo sobre otra foto del archivo). El clúster real de electrónica/IoT en favoritos es bastante mayor que el estimado de ~41 (hay ~100 filas entre `Gral/IOT Gral`, `Electronica y TV` y `Electromecanica`).
+
+
+## v3 (2026-11-15) — refresh post-reorganización del usuario + ventana z-tmp
+
+Lectura fresh (530 entradas; sync activo). El usuario reorganizó favoritos y creó `Gral/z-tmp` con 5 subcarpetas (Proxmox, Proxmox/Apps, Python, Nichobauta, MCP, Electronica y TV) — 22 bookmarks. El usuario ordenó procesar **todos los procesables, incluidos los no-YouTube** (decisión pendiente de FAV-323..326 resuelta parcialmente: se curan los que tengan contenido real). Numeración nueva FAV-328+ en orden de lectura fresh. Los 4 de Electronica y TV conservan sus IDs FAV-323..326 (ya inventariados en v2). Bookmark de canal (@nichonauta) NO es video: página de entidad, sin ingesta de fuente.
+
+### Inventario z-tmp (v3)
+
+- FAV-328 — Guía paso a paso para crear tu servidor desde cero (PC) — `SOh-0m-A8UQ` — pendiente (Proxmox/ — playlist ajena anotada `PL5LXSDCW5qwaCHLgayyhZN8MWh-I9tZyn`)
+- FAV-329 — Proxmox VE Helper-Scripts — no-YouTube: `https://community-scripts.github.io/ProxmoxVE/scripts?id=post-pve-install` — pendiente (fuente web)
+- FAV-330 — NECESITAS estos contenedores LXC en Proxmox — `oyhDFjplC18` — pendiente (Proxmox/Apps)
+- FAV-331 — community-scripts/ProxmoxVE (GitHub) — no-YouTube: `https://github.com/community-scripts/ProxmoxVE` — pendiente (fuente web)
+- FAV-332 — Instalación de Proxmox v7 en VMWARE Workstation 16 PRO — `qaWpaNX_rL8` — pendiente (Proxmox/ — playlist ajena anotada)
+- FAV-333 — ¡No Uses Más Pip! UV es 100 Veces Más Rápido — `yre97f8owHE` — pendiente (Python/)
+- FAV-334 — Esta IA monetiza muy BIEN - Gemma 4 — `WTYkns3r7h8` — pendiente (Nichobauta/)
+- FAV-335 — Nichonauta (canal @nichonauta) — canal YT `https://www.youtube.com/@nichonauta/streams` — ENTIDAD (sin ingesta de fuente)
+- FAV-336 — Haciendo BILLETE con GEMMA 4 — `SCKzuHLg50M` — pendiente (Nichobauta/)
+- FAV-337 — Gemma 4: Esta IA sí lo CAMBIA TODO — `uIUFv_SMA5M` — pendiente (Nichobauta/)
+- FAV-338 — Regalo canales de YT — `ciTvw-Bx8II` — pendiente (Nichobauta/)
+- FAV-339 — Curso de programación con IA Local Abierta [GRATIS] — `ta4Usocx5Us` — pendiente (Nichobauta/)
+- FAV-340 — MCP Market (developer-tools) — no-YouTube: `https://mcpmarket.com/es/search?category_slug=developer-tools` — pendiente (fuente web)
+- FAV-341 — Video Text (MagicUI docs) — no-YouTube: `https://magicui.design/docs/components/video-text` — pendiente (fuente web)
+- FAV-342 — 5 Servidores MCP para Vibe Coding Estructurado — `I9lF7bjxLlQ` — pendiente (MCP/)
+- FAV-343 — modelcontextprotocol/servers: fetch README — no-YouTube: `https://github.com/modelcontextprotocol/servers/blob/main/src/fetch/README.md` — pendiente (fuente web)
+- FAV-344 — Top 15 Remote MCP Servers (DataCamp) — no-YouTube: `https://www.datacamp.com/blog/top-remote-mcp-servers` — pendiente (fuente web)
+- FAV-345 — Los mejores servidores MCP de 2026 (Ayautomate) — no-YouTube: `https://www.ayautomate.com/blog/best-mcp-servers-2026` — pendiente (fuente web)
+- FAV-323..326 — (Electronica y TV/, ya en v2) — 3 curables como fuente web + Meet link NO procesable (se descarta con nota)
+
+Contadores ventana z-tmp: 10 videos YT + 7 fuentes web curables + 1 entidad + 1 Meet descartable = ventana de ~18 fuentes. Relevo de worker cada 5.
