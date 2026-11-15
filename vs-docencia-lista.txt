@@ -49,7 +49,7 @@ FAV-458|Informatica|(358) Ordenar 1 millón de datos: 1 segundo o 10 minutos - Y
 FAV-459|Informatica|(358) Sabes SOLID pero te faltan estos 4 principios - YouTube|https://www.youtube.com/watch?v=ZjfopQLBH1E ; PROCESADA 2026-11-15 (relevo 10)
 FAV-460|Informatica|(358) map, filter y reduce: el fin de los bucles for - YouTube|https://www.youtube.com/watch?v=Jj0OWJe5Ixw ; PROCESADA 2026-11-15 (relevo 10)
 FAV-461|Informatica|(403) La artista que enseñó a las computadoras a hacerse entender | Susan Kare - YouTube|https://www.youtube.com/watch?v=ucnV6Ib5wCA
-FAV-462|Informatica|(403) La artista que enseñó a las computadoras a hacerse entender | Susan Kare - YouTube|https://www.youtube.com/watch?v=ucnV6Ib5wCA
+FAV-462 [DUPLICADO de FAV-461 — mismo video ucnV6Ib5wCA, procesada una sola vez]|Informatica|(403) La artista que enseñó a las computadoras a hacerse entender | Susan Kare - YouTube|https://www.youtube.com/watch?v=ucnV6Ib5wCA
 FAV-463|Informatica|(458) ANÉCDOTA: Base de datos SIN RELACIONES y sin PK ☠️🔥Story Time - YouTube|https://www.youtube.com/watch?v=gNAQL-4hxUw
 FAV-464|Informatica|(459) ESTO es lo que pasó con los JUNIORS💣 - YouTube|https://www.youtube.com/watch?v=hlHJ8mqgo9E
 FAV-465|Informatica|(459) El secreto para que tu Base de Datos soporte miles de usuarios - YouTube|https://www.youtube.com/watch?v=UJnsiQk11Dc
