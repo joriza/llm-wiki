@@ -2794,3 +2794,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-11/2026-10-16-la-historia-de-autodesk-la-empresa-que-llevo-el-dieno-de-ingenieria-al-pc.md` (`bTCw5Dd6UMU`, Reliquias Tecnológicas, 2026-10-16, 42:54).
 - **Resumen**: `wiki/wl/tramo-11/resumen-WL117-la-historia-de-autodesk-la-empresa-que-llevo-el-dieno-de-ingenieria-al-pc.md`.
 - **Decisiones**: dominio destino `general` (historia de la tecnología/software; S4 sin dominios nuevos); cruce con WL-114 (retrocomputing) e historia de la informática diferido a consolidación; llamadas a comentarios/suscripción y teaser excluidos; «DIEÑO» del título (error del canal/ASR) normalizado solo en el resumen. Consolidación diferida (L12).
+
+## [2026-11-15] ingesta WL | tramo 11, fuente WL-118 — El AVE iba directo hacia un tren parado (NOTYX)
+
+- **Fuente**: `raw/wl/tramo-11/2026-10-28-el-ave-iba-directo-hacia-un-tren-parado-y-en-atocha-lo-sabian.md` (`qshiBxuVbg0`, NOTYX, 2026-10-28, 21:05).
+- **Resumen**: `wiki/wl/tramo-11/resumen-WL118-el-ave-iba-directo-hacia-un-tren-parado-y-en-atocha-lo-sabian.md`.
+- **Decisiones**: dominio destino `general` (sociedad/infraestructura española; S4 sin dominios nuevos); cruce con WL-116 (infraestructura) diferido. Glosario ASR inconsistente (BSL/BCL/VSL) normalizado solo en el resumen; investigación en curso señalada en triage. Consolidación diferida (L12).
