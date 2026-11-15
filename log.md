@@ -3117,3 +3117,6 @@ Tramo 24, fuente 3. Short de 6 s, demo visual de un llenador automático de tanq
 
 ## [2026-11-15] ingesta | WL-189 · ¿Es el Final de los LLMs? (NCM) (Marfil Lab)
 Tramo 24, fuente 4. Análisis crítico de NCM (Stanford, next-scale prediction) y Hybrid Reasoning Agents (pensamiento latente), con recálculo de coste propio del autor; cifras de preprints señaladas como de laboratorio. Raw espejado en `raw/wl/tramo-24/2026-10-22-es-el-final-de-los-llms-ncm.md`; resumen en `wiki/wl/tramo-24/resumen-WL189-es-el-final-de-los-llms-ncm.md`. Dominios previstos: ia-uso-practico o ia-critica-y-fronteras; cruces WL-132/WL-122 (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
+
+## [2026-11-15] ingesta | WL-190 · Por qué ser solo "BUENA PERSONA" te condena al fracaso (Teoría de Juegos) (No es Posible)
+Tramo 24, fuente 5 (última útil). Divulgación de teoría de juegos: dilema del prisionero, langostas de Maine, Axelrod/Tit for Tat, estudio de Golden Balls (Thaler); título clickbait señalado. Raw espejado en `raw/wl/tramo-24/2026-10-18-por-que-ser-solo-buena-persona-te-condena-al-fracaso-teoria-de-juegos.md`; resumen en `wiki/wl/tramo-24/resumen-WL190-buena-persona-teoria-de-juegos.md`. Dominio previsto: general (consolidación diferida, L12). Salida 45.239.32.215, sin 429.
