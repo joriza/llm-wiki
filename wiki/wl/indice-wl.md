@@ -203,3 +203,15 @@ Notas del tramo: 5/5 útiles exactos (WL-181..WL-185), 1 SKIP definitivo sin sub
 | WL-190 | Por qué ser solo "BUENA PERSONA" te condena al fracaso (Teoría de Juegos) (`hBYxZP38kRE`) | No es Posible | general (teoría de juegos/economía del comportamiento; título clickbait señalado; cruces concepto dilema del prisionero) | Resumen en `tramo-24/` |
 
 Notas del tramo: 5/5 útiles exactos (WL-186..WL-190), 1 SKIP definitivo sin subtítulos (`y3Y5VJ4BzKs`, Parallel Parking), 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas + 1 skip, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12).
+
+## Tramo 25 (2026-11-15, relevo 18)
+
+| # | Título | Fuente | Dominio previsto | Resumen |
+|---|--------|--------|------------------|---------|
+| WL-191 | Cancún: torres de $50 millones se quedan sin playa — y México no va a salvarlas (`XtZJxqdDBjU`) | Cimientos de Lujo | general (infraestructura/costas; marco editorial fuerte, cifras sin fuente primaria señaladas; cruces WL-118/WL-142/WL-126, WL-173) | Resumen en `tramo-25/` |
+| WL-192 | El Chip De IBM De 12 Nm Ridiculiza A Nvidia De 4 Nm (`aGFaZF81Fz8`) | Marfil Lab | ia-uso-practico o general (hardware IA — NorthPole, memoria-cálculo integrados; cruces WL-189/WL-122/WL-144, [[hardware-para-ia-local]]) | Resumen en `tramo-25/` |
+| WL-193 | Escándalo por el oro: ex-asesora de Javier Milei DESTROZA a Toto Caputo (`dugJVQSmwt8`) | Canal EY! \| Streaming | general/sociedad-argentina (opinión militante — NO fuente factual, señalado en triage; cruces WL-123/WL-146/WL-184) | Resumen en `tramo-25/` |
+| WL-194 | IA evaluación de aprendizajes, Ana Henriquez Orrego (`ONachuv2f0k`) | Ana Henriquez Orrego (webinar UDLA) | general (educación/IA) o ia-critica-y-fronteras (evaluación resiliente a la IA; cruces WL-31, [[odd-metodologia]], [[agentes-de-codigo]]) | Resumen en `tramo-25/` |
+| WL-195 | Mayra Arena con Romina Manguel: pobreza, marginalidad y la nueva realidad social (`tCsMElWO_NQ`) | Splendid AM 990 | general/sociedad-argentina (análisis social con testimonio; cifras sin fuente exacta señaladas; cruces WL-163, cluster videoensayos sociales) | Resumen en `tramo-25/` |
+
+Notas del tramo: 5/5 útiles exactos (WL-191..WL-195), 2 SKIP definitivos sin subtítulos (videos eliminados `lmoryhSH6zA` y `pIBI6AYFQWY`, marcadores .no-subs), 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas + 2 skips, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L22: 42/50 útiles.
