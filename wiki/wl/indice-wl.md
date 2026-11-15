@@ -43,6 +43,16 @@ Contenido (2026-11-15, cierre del tramo 10): **15 resúmenes en la estación** �
 | WL-115 | CAFÉ CON JAVO: ¿Ayudó a Bolsonaro? ¿Lo golpearon en CATAMARCA? (`6MLzI2Pgl0s`) | PDB | general (humor político, ficción) | Resumen en `tramo-10/` |
 | WL-116 | La Increíble Ingeniería Detrás de la Fibra Óptica (`TWGxp6Okogw`) | Veritasium en español | general (historia de la tecnología) | Resumen en `tramo-10/` |
 
+### Tramo 11 (2026-11-15, relevo 4 — WL-117..WL-121, pendiente consolidación)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-117 | La Historia De AUTODESK (`bTCw5Dd6UMU`) | Reliquias Tecnológicas | general (historia de la tecnología/software) | Resumen en `tramo-11/` |
+| WL-118 | El AVE iba directo hacia un tren parado. Y en Atocha lo sabían (`qshiBxuVbg0`) | NOTYX | general (sociedad/infraestructura española) | Resumen en `tramo-11/` |
+| WL-119 | Cuneo revela secretos que nunca contó de Milei (`rtm31LMjJdo`) | Politica Argentina (Canosa) | general / sociedad-argentina (opinión militante, NO factual) | Resumen en `tramo-11/` |
+| WL-120 | El Futuro de las Empresas: De la IA a los Criterios ESG (`5F49Op3IMwU`) | GSG Business Hub | general (negocios/sostenibilidad; autopromoción) | Resumen en `tramo-11/` |
+| WL-121 | Los multimillonarios de Silicon Valley que quieren gobernar el mundo (`Kg7TQr1lXYE`) | Roxana Kreimer | ia-critica-y-fronteras | Resumen en `tramo-11/` |
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
