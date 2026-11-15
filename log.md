@@ -2443,3 +2443,18 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - FAV-516 pMartoyR28U «DIY powerful metal detector | fine gold» — Analog98: ASR solo [Música] (video de montaje sin narración; BOM completo en descripción) → NO-SUBS definitivo.
 - FAV-519 NQWCHglTDqg «detector de metales usando un multímetro» — meta-fail ×2 (TranscriptsDisabled) → NO-SUBS definitivo.
 - Ninguno produjo raw/resumen. Nota: FAV-516 tiene BOM completo en descripción — recuperable en principio con re-pass manual si el usuario lo pide.
+
+## [2026-11-15] ingesta | Turbinas eólicas (FAV-520, relevo 7 Electromecanica)
+- FAV-520 Uk4LlN7qIaA «Cómo Funcionan Realmente las Turbinas Eólicas» — Mentalidad De Ingeniería, ES-ASR 20:40. Resumen: wiki/electromecanica/resumen-FAV-520-turbinas-eolicas-secretos.md; raw: raw/electromecanica/2026-11-15-turbinas-eolicas-secretos.md. Apertura del subclúster **Energías Renovables** (carpeta Electromecanica/Energias Renovables).
+
+## [2026-11-15] ingesta | Paneles solares explicados (FAV-521, relevo 7 Electromecanica)
+- FAV-521 Mhvm9keeM5o «Paneles Solares Explicados» — Mentalidad De Ingeniería, ES-ASR 22:34. Resumen: wiki/electromecanica/resumen-FAV-521-paneles-solares-explicados.md; raw: raw/electromecanica/2026-11-15-paneles-solares-explicados.md. Clúster renovables 2ª fuente; canal Mentalidad De Ingeniería llega a 2 fuentes en la ventana (FAV-490 + 520/521 en electromecanica — 3ª y 4ª en total de la carpeta) → entidad candidata firme.
+
+## [2026-11-15] ingesta | El fraude de los paneles solares (FAV-522, relevo 7 Electromecanica)
+- FAV-522 PruvGT6pzIY «El fraude de los paneles solares» — Second Life Battery, ES-manual 10:34. Resumen: wiki/electromecanica/resumen-FAV-522-fraude-paneles-solares.md; raw: raw/electromecanica/2026-11-15-fraude-paneles-solares.md. Contrapeso económico (marco de vendedor de baterías declarado en el resumen).
+
+## [2026-11-15] ingesta | PWM vs MPPT + inversor SRNE (FAV-523, relevo 7 Electromecanica)
+- FAV-523 TNuNPWx3n9U «Controlador de Carga Solar PWM y MPPT» — EL ANGELITO, es-419-manual 23:30. Resumen: wiki/electromecanica/resumen-FAV-523-controlador-carga-pwm-mppt-srne.md; raw: raw/electromecanica/2026-11-15-controlador-carga-pwm-mppt-srne.md. Marco de apoyo de marca (SRNE) declarado en el resumen.
+
+## [2026-11-15] ingesta | Inversores solares: tipos (FAV-524, relevo 7 Electromecanica)
+- FAV-524 laDPoN9HZlo «Inversor para placas solares: ¿Cuál es el MEJOR?» — AutoSolar Energy Solutions, ES-ASR 22:09. Resumen: wiki/electromecanica/resumen-FAV-524-inversores-solares-tipos.md; raw: raw/electromecanica/2026-11-15-inversores-solares-tipos.md. **Umbral consolidado: clúster Energías Renovables completo (5/5 fuentes procesadas) → concepto candidato firme en la próxima consolidación** (cadena: física solar FAV-521 + eólica FAV-520 → regulación FAV-523 → inversores/arquitectura FAV-524 → economía FAV-522).

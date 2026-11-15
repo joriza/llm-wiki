@@ -28,11 +28,11 @@
 - FAV-517 — [video] (Electromecanica/Proyectos) — (594) DIY deep metal detector with distance indicator light (audience suggestion) - YouTube — https://www.youtube.com/watch?v=PP9lmebXGMc ; PROCESADA 2026-11-15 relevo 6 (EN-ASR escaso, advertida)
 - FAV-518 — [video] (Electromecanica/Proyectos) — (594) PROYECTO: DETECTOR DE METALES DE ALTA GAMA CASERO (pi polones) - YouTube — https://www.youtube.com/watch?v=KbE5qQztaBA ; PROCESADA 2026-11-15 relevo 6
 - FAV-519 — [video] (Electromecanica/Proyectos) — (594) Cómo hacer un detector de metales usando un multímetro - YouTube — https://www.youtube.com/watch?v=NQWCHglTDqg ; NO-SUBS 2026-11-15 relevo 6 (meta-fail ×2 TranscriptsDisabled)
-- FAV-520 — [video] (Electromecanica/Energias Renovables) — Cómo Funcionan Realmente las Turbinas Eólicas: Los Secretos Ocultos - YouTube — https://www.youtube.com/watch?v=Uk4LlN7qIaA
-- FAV-521 — [video] (Electromecanica/Energias Renovables) — Paneles Solares Explicados - ¡Descubre los Misterios del Funcionamiento de los Paneles Solares! - YouTube — https://www.youtube.com/watch?v=Mhvm9keeM5o
-- FAV-522 — [video] (Electromecanica/Energias Renovables) — El fraude de los paneles solares - YouTube — https://www.youtube.com/watch?v=PruvGT6pzIY
-- FAV-523 — [video] (Electromecanica/Energias Renovables) — Controlador de Carga Solar PWM y MPPT ¿DIFERENCIAS Y CUAL CONVIENE? SRNE Vs Chinos - YouTube — https://www.youtube.com/watch?v=TNuNPWx3n9U
-- FAV-524 — [video] (Electromecanica/Energias Renovables) — Inversor para placas solares: ¿Cuál es el MEJOR para mi casa o negocio? - YouTube — https://www.youtube.com/watch?v=laDPoN9HZlo
+- FAV-520 — [video] (Electromecanica/Energias Renovables) — Cómo Funcionan Realmente las Turbinas Eólicas: Los Secretos Ocultos - YouTube — https://www.youtube.com/watch?v=Uk4LlN7qIaA ; PROCESADA 2026-11-15 relevo 7
+- FAV-521 — [video] (Electromecanica/Energias Renovables) — Paneles Solares Explicados - ¡Descubre los Misterios del Funcionamiento de los Paneles Solares! - YouTube — https://www.youtube.com/watch?v=Mhvm9keeM5o ; PROCESADA 2026-11-15 relevo 7
+- FAV-522 — [video] (Electromecanica/Energias Renovables) — El fraude de los paneles solares - YouTube — https://www.youtube.com/watch?v=PruvGT6pzIY ; PROCESADA 2026-11-15 relevo 7
+- FAV-523 — [video] (Electromecanica/Energias Renovables) — Controlador de Carga Solar PWM y MPPT ¿DIFERENCIAS Y CUAL CONVIENE? SRNE Vs Chinos - YouTube — https://www.youtube.com/watch?v=TNuNPWx3n9U ; PROCESADA 2026-11-15 relevo 7 (subs manuales es-419)
+- FAV-524 — [video] (Electromecanica/Energias Renovables) — Inversor para placas solares: ¿Cuál es el MEJOR para mi casa o negocio? - YouTube — https://www.youtube.com/watch?v=laDPoN9HZlo ; PROCESADA 2026-11-15 relevo 7
 - FAV-525 — [video] (Electromecanica/Energias Renovables) — (3668) MPPT - ¿Qué es y Como Funciona? - YouTube — https://www.youtube.com/watch?v=0Z52-wReNfY
 - FAV-526 — [video] (Electromecanica/Energias Renovables) — Entiendo Energía Solar: ¿Que es el MPPT de los inversores, como extraer lo maximo del inversor? - YouTube — https://www.youtube.com/watch?v=S3F_7JHVOx0
 - FAV-527 — [video] (Electromecanica/Energias Renovables) — Mono vs Policristalino - Diferencia en paneles solares - YouTube — https://www.youtube.com/watch?v=Q6HNV_-jlsc
