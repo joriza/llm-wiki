@@ -2289,3 +2289,9 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Raw**: raw/informatica/2026-11-15-ia-va-mas-rapido-que-la-educacion-mouredev.md
 - **Resumen**: wiki/informatica/resumen-FAV-482-ia-educacion-desfase-mouredev.md
 - **Dominio**: informatica/ por contenido (formación de programadores) — transversal sin dominio claro (pedagogía) para consolidación. Umbral: canal MoureDev 2 fuentes (FAV-428/482), entidad candidata deferida.
+
+## [2026-11-15] ingesta | Lenguaje inclusivo: ¿tiene sentido lingüístico? (Linguriosa) — FAV-484
+- **Fuente**: https://www.youtube.com/watch?v=gJ9hDjZW3WM. Canal Linguriosa, 2022-05-22, 09:33, ES subs manuales.
+- **Raw**: raw/general/2026-11-15-lenguaje-inclusivo-sentido-linguistico-linguriosa.md
+- **Resumen**: wiki/general/resumen-FAV-484-lenguaje-inclusivo-linguriosa.md
+- **Dominio**: general/ — transversal sin dominio claro (lingüística; decisión de consolidación).
