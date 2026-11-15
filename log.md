@@ -2083,3 +2083,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | FAV-436 — DUPLICADO (Google profesor particular / Migue Baena IA)
 - **Estado**: DUPLICADO — mismo video IH__GK4XBbU ya procesado en la playlist IA-Recursos (raw/ia-critica-y-fronteras/2026-07-19-google-crea-tu-profesor-particular-con-ia-y-es-gratis.md; resumen wiki/ia-critica-y-fronteras/resumen-google-crea-tu-profesor-particular-migue-baena-ia.md + [[migue-baena-ia]] + [[notebooklm-ecosistema]]). Sin raw ni resumen nuevos; fila de vs-docencia-lista.txt marcada.
+
+## [2026-11-15] ingesta | FAV-437 — ¿Realmente Necesitamos Tantos Lenguajes de Programación? (Gilada)
+- **Fuente**: https://www.youtube.com/watch?v=cwZc_5WrYP4 (list= ajena ignorada, S4). Canal Gilada, 2026-07-04, 28:05, ES-419 subs manuales.
+- **Raw**: raw/informatica/2026-11-15-por-que-tantos-lenguajes-de-programacion-gilada.md
+- **Resumen**: wiki/informatica/resumen-FAV-437-tantos-lenguajes-de-programacion-gilada.md
