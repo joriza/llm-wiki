@@ -2677,3 +2677,6 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 
 ## [2026-11-15] ingesta | La Masterclass de Python — Django + Git + Producción (Enrique Barros, relevo 6, fuente 34/37)
 Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-la-masterclass-de-python-django-git-produccion.md`; cruces señalados: primera fuente de Django (candidata a página de entidad), refuerza Git, despliegue y web; título clickbait pero contenido denso. index.md y log.md actualizados. Commit por archivo.
+
+## [2026-11-15] ingesta | Sistema de Inventario en Python con POO (Código Espinoza, relevo 6, fuente 35/37)
+Descarga OK (45.239.32.215, sin 429; presupuesto estimado relanzado 45→55 tras BUDGET-REACHED — regla «presupuesto estimado»). Resumen en `wiki/python-practico/resumen-sistema-de-inventario-en-python-con-poo.md`; cruce a dunder methods y ejercicio avanzado; señalado como único proyecto POO / puente al CRUD web. index.md y log.md actualizados. Commit por archivo.
