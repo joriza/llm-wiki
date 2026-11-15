@@ -1883,3 +1883,7 @@ YouTube 67RFm2RMjC4 (Super Make Something, EN con subs auto). Raw: raw/electroni
 
 YouTube X8syt55ITUo (educ8s.tv, EN subs manuales). Raw: raw/electronica-practica/2016-05-28-photo-frame-st7735-arduino-nano-educ8s.md. Resumen: wiki/electronica-practica/resumen-FAV-389-photo-frame-st7735-arduino-nano.md. Cruces: FAV-388 (misma ST7735 con slot SD), FAV-371 (TFT SPI), FAV-382/384 (pipeline bitmap).
 
+## [2026-11-15] ingesta | Arduino Uno y TFT 2.2 SPI 240x320 (FAV-390)
+
+YouTube L3uvcPo682k (ARDUINOLOVER). Raw: raw/electronica-practica/2018-07-13-arduino-uno-tft-22-spi-arduinolover.md. Resumen: wiki/electronica-practica/resumen-FAV-390-tft-22-spi-ili9341-arduinolover.md. Cruces: FAV-371 (ILI9341), FAV-389 (ST7735 SPI+SD), FAV-384 (bitmaps). CLUSTER TFT/SPI displays ahora 3 fuentes (FAV-371/388/389/390) + ST7735 2 fuentes (FAV-388/389) — umbrales para consolidacion deferida.
+
