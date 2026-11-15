@@ -38,7 +38,7 @@ FAV-447|Informatica|(275) Arquitectura de Software e IA - YouTube|https://www.yo
 FAV-448|Informatica|(707) La MENTIRA de los Microservicios desde el Día 1 (Monolito vs Microservicios) - YouTube|https://www.youtube.com/watch?v=JgrsAyefLFU ; PROCESADA 2026-11-15 (relevo 8)
 FAV-449|Informatica|(119) Janet Jackson te rompía el Windows XP 🥴🤔 - YouTube|https://www.youtube.com/shorts/hdhQg63Meoo ; PROCESADA 2026-11-15 (relevo 8)
 FAV-450|Informatica|(123) ¡ADIÓS LICENCIAS! Reemplaza Windows Active Directory con Samba 4 en Debian 13 - YouTube|https://www.youtube.com/watch?v=k8Dl9RVYNLA ; PROCESADA 2026-11-15 (relevo 8)
-FAV-451|Informatica|(186) ¡Todas las estructuras de datos explicadas de forma sencilla en 25 minutos! - YouTube|https://www.youtube.com/watch?v=vVL6NFzr0Rg
+FAV-451|Informatica|(186) ¡Todas las estructuras de datos explicadas de forma sencilla en 25 minutos! - YouTube|https://www.youtube.com/watch?v=vVL6NFzr0Rg  # DUPLICADO de raw/informatica-teoria/2026-04-17-every-data-structure-simply-explained-in-25-minutes (Codist, mismo v=) — procesado como fuente de informatica-teoria
 FAV-452|Informatica|(307) Microsoft No Creó SQL Server Desde Cero… Sybase Terminó Olvidada - YouTube|https://www.youtube.com/watch?v=sdrGJF0MUqs
 FAV-453|Informatica|(307) Microsoft Office vs. WordPerfect: Cómo Cayó un Imperio de 1.400 Millones - YouTube|https://www.youtube.com/watch?v=BxR7-vLVgPw
 FAV-454|Informatica|(307) LOTUS 123 El software que cambió el mundo de la informática - YouTube|https://www.youtube.com/watch?v=vVC6XNASuvM
