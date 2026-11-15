@@ -2317,3 +2317,9 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Raw**: raw/general/2026-11-15-analfabetismo-que-nadie-vio-venir-robot-platon.md
 - **Resumen**: wiki/general/resumen-FAV-487-analfabetismo-nadie-vio-venir-robot-platon.md
 - **Dominio**: general/ — transversal sin dominio claro (divulgación/alfabetización; decisión de consolidación). Completa el par lectura/analfabetismo con FAV-481 (umbral ≥2 para consolidación).
+
+## [2026-11-15] ingesta | ¿HACIA UNA GENERACIÓN DE INÚTILES? (Negocios TV) — FAV-488
+- **Fuente**: https://www.youtube.com/watch?v=nVzidt0Zz3w. Canal Negocios TV, 2026-07-14, 15:40, ES subs automáticos.
+- **Raw**: raw/general/2026-11-15-generacion-inutiles-opositores-padres-negocios-tv.md
+- **Resumen**: wiki/general/resumen-FAV-488-generacion-inutiles-opositores-padres-negocios-tv.md
+- **Dominio**: general/ — transversal sin dominio claro (educación/sociedad; opinión con sesgo señalizada en el resumen).
