@@ -2183,3 +2183,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=TTIA7LlI3rk. Canal Torti Code, 2026-08-07, 17:05, ES subs automáticos.
 - **Raw**: raw/informatica/2026-11-15-ordenar-un-millon-de-datos-torti-code.md
 - **Resumen**: wiki/informatica/resumen-FAV-458-ordenar-un-millon-de-datos-torti-code.md
+
+## [2026-11-15] ingesta | FAV-459 — Sabes SOLID pero te faltan estos 4 principios (Torti Code)
+- **Fuente**: https://www.youtube.com/watch?v=ZjfopQLBH1E. Canal Torti Code, 2026-07-13, 14:41, ES subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-sabes-solid-te-faltan-4-principios-torti-code.md
+- **Resumen**: wiki/informatica/resumen-FAV-459-sabes-solid-te-faltan-4-principios-torti-code.md
