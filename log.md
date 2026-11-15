@@ -2940,3 +2940,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Fuente: `BQiFdcxMPOk` (Themateoteo, 2026-02-10, 24:39, subtítulos automáticos). Raw espejado a `raw/wl/tramo-15/2026-02-10-burlarse-de-la-gente-le-salio-caro-asi-santutu-estrello-su-carrera.md`; resumen en `wiki/wl/tramo-15/resumen-WL141-santutu-estrello-su-carrera.md`.
 - Videoensayo de opinión (NO fuente factual, señalado en triage): implosión del streamer Santutu — economía del streaming de casino (Kick/Stake), escándalo Bestia y patrón vs exabrupto.
 - Dominio destino previsto (pendiente consolidación, S4): `general/sociedad-argentina` (cultura digital/streaming) — opinión, no factual.
+
+## [2026-11-15] ingesta | WL-142 — ¿Por qué los ferrocarriles dejan rieles viejos tirados junto a la vía?
+
+- Fuente: `xjyKyQUHl7E` (Entendiendo Lo Simple, 2026-10-26, 08:06, subtítulos automáticos). Raw espejado a `raw/wl/tramo-15/2026-10-27-por-que-los-ferrocarriles-dejan-rieles-viejos-tirados-junto-a-la-via-no-fue-por-.md`; resumen en `wiki/wl/tramo-15/resumen-WL142-rieles-viejos-junto-a-la-via.md`.
+- El riel al costado de la vía como inventario: soldadura aluminotérmica, rieles tapón, clasificación por desgaste (2 mm), re-inspección tras Iowa 2001 y tercera vida estructural del riel en LATAM.
+- Dominio destino previsto (pendiente consolidación, S4): `general/` (infraestructura/ferrocarriles, historia de la tecnología).
