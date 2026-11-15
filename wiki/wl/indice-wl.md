@@ -167,3 +167,15 @@ Notas del tramo: ventana completa (WL-163..WL-167) cerrada en WL-167; WL-168 y W
 | WL-175 | Viejo amplificador frente al LM386: ¿qué ha cambiado? \|\| TAA611 (`hPqKNT5P02A`) | En Clave de Retro | general (electrónica/retrocomputing; cruce WL-114) | Resumen en `tramo-21/` |
 
 Notas del tramo: 5/5 útiles exactos (WL-170..WL-175), 0 meta-fail, 0 skip, sin 429 — cierre en frontera sin sobregiro (corrección del error de conteo de T20). Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas. Consolidación diferida (L12).
+
+### Tramo 22 (2026-11-15, relevo 15 — ventana de 5 útiles desde la cabeza, cerrada exactamente en frontera)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-176 | La estupidez humana no reconoce límites (y yo tengo pruebas) (`dKBqYYXaZB0`) | Roxana Kreimer | general (humor/ensayo — NO fuente factual, señalado; cruce WL-121 misma autora) | Resumen en `tramo-22/` |
+| WL-177 | Por qué el hackeo a PHP es el fin del internet abierto (`F3EmYmJjIoQ`) | Platzi | general o ia-critica-y-fronteras (seguridad/ciber — fuente secundaria, marco comercial Platzi y afirmaciones sin verificación señalados; cruces WL-147/WL-132, [[deepseek-harness]]) | Resumen en `tramo-22/` |
+| WL-178 | Así se programa con agentes de IA en 2026 (`wrhTDWv66kQ`) | Eric Risco \| Inteligencia Artificial | ia-uso-practico/agentes-de-codigo (primera mano, autopromoción señalada; cruces [[agentes-de-codigo]], [[obsidian-memoria-agentes]], WL-147) | Resumen en `tramo-22/` |
+| WL-179 | 15 Sistemas de Organización Que te Elevan del Caos al Top 1% Mundial (`uTlJlozyoNw`) | InvernovAH - Álvaro H. Jarque | general (productividad — patrocinio HubSpot excluido, título clickbait señalado; cruces [[obsidian-memoria-agentes]], [[odd-metodologia]], WL-178) | Resumen en `tramo-22/` |
+| WL-180 | Programar con agentes ya no basta: monta tu Software Factory (`p6nnqerea7w`) | Eric Risco \| Inteligencia Artificial | ia-uso-practico/agentes-de-codigo (continuación WL-178; autopromoción y cifras sin verificar señaladas; cruces [[agentes-de-codigo]], WL-165, WL-177) | Resumen en `tramo-22/` |
+
+Notas del tramo: 5/5 útiles exactos (WL-176..WL-180), 0 meta-fail, 0 skip, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas. Eric Risco ×2 en la ventana (WL-178/180) — candidata a entidad de canal en consolidación. Consolidación diferida (L12).
