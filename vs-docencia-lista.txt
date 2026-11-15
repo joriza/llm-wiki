@@ -16,7 +16,7 @@ FAV-425|Informatica/web|(1730) Aprende Express js en 10 minutos - YouTube|https:
 FAV-426|Informatica/VSCode|Aprende VS Code ahora! | curso completo de VSCode desde CERO - YouTube|https://www.youtube.com/watch?v=Ei1y51K8jQk ; PROCESADA 2026-11-15
 FAV-427|Informatica/VSCode|Visual Studio Code: Tips para programar - YouTube|https://www.youtube.com/playlist?list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf ; IGNORADA 2026-11-15: playlist pura (sin v=), precedente FAV-401/404/421
 FAV-428|Informatica/VSCode|VISUAL STUDIO CODE: Tutorial para principiantes - YouTube|https://www.youtube.com/watch?v=CxF3ykWP1H4 ; PROCESADA 2026-11-15
-FAV-429|Informatica/Transversal|Aprende GIT ahora! curso completo GRATIS desde cero - YouTube|https://www.youtube.com/watch?v=VdGzPZ31ts8
+FAV-429|Informatica/Transversal|Aprende GIT ahora! curso completo GRATIS desde cero - YouTube|https://www.youtube.com/watch?v=VdGzPZ31ts8 ; PROCESADA 2026-11-15
 FAV-430|Informatica/Transversal|(52) Cómo un Solo Developer Humilló a Toda la Industria con Git - YouTube|https://www.youtube.com/watch?v=fi4YiZvbLXU
 FAV-431|Informatica/Transversal|(546) Cómo un Ingeniero Creó a los Developers — C - YouTube|https://www.youtube.com/watch?v=C2OMJXfRNnI
 FAV-432|Informatica/Transversal|(943) 4+6 Cosas que puedes hacer con un Router Viejo sin Internet - YouTube|https://www.youtube.com/watch?v=JnzMXLeI1AI

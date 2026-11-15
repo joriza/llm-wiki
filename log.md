@@ -2039,3 +2039,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - Fuente: https://www.youtube.com/watch?v=CxF3ykWP1H4 → raw/informatica/2026-11-15-vscode-tutorial-principiantes-mouredev.md
 - Resumen: wiki/informatica/resumen-FAV-428-vscode-tutorial-principiantes-mouredev.md
 - Fuente de INFORMÁTICA (Informatica/VSCode) — directo en informatica/. Umbral clúster VSCode alcanzado: 2 fuentes (FAV-426/428) — página de concepto candidata para la consolidación del cierre. Cruces: FAV-426, FAV-429/430.
+
+## [2026-11-15] ingesta | FAV-429 — Aprende Git ahora! curso completo (HolaMundo)
+- Fuente: https://www.youtube.com/watch?v=VdGzPZ31ts8 → raw/informatica/2026-11-15-git-curso-completo-holamundo.md
+- Resumen: wiki/informatica/resumen-FAV-429-git-curso-completo-holamundo.md
+- Fuente de INFORMÁTICA (Informatica/Transversal) — directo en informatica/. Umbral clúster Git: 2 fuentes (FAV-429/430) — candidata a concepto, deferida. Cruces: FAV-430, FAV-426 (Git integrado en VS Code), FAV-425 (node_modules/.env).
