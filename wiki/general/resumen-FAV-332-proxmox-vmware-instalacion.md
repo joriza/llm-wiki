@@ -34,3 +34,5 @@ Primer vídeo del canal **No Solo Hacking** (Carlos) sobre Proxmox VE: instalaci
 1. Es la base del clúster Proxmox de la wiki: tras instalar, el post-install de repos/actualizaciones está en [[resumen-FAV-329-proxmox-post-pve-install]]; las apps del homelab (LXC) en [[resumen-FAV-330-contenedores-lxc-proxmox]] se despliegan con los scripts de [[resumen-FAV-331-proxmoxve-community-scripts]].
 2. Dos caminos equivalentes: VM virtualizada (ideal para aprender/capturar pantalla) vs mini-PC físico barato; los pasos del asistente son idénticos salvo la preparación de la ISO en USB y la virtualización anidada.
 3. Vídeo de 2022 (Proxmox 7): la interfaz y el asistente siguen siendo recognoscibles en las versiones actuales, pero los requisitos y versiones concretos citados son de esa época.
+
+Concepto: [[proxmox-homelab]].

@@ -11,6 +11,15 @@ Realice copia de seguridad de favoritos.
 Elimine marcadores procesados con exito.
 
 
+He modificado un poco los favoritos. Refresque.
+procese la carpeta "Gral\IOT Gral" y sus subcarpetas.
+Procese todos los marcadores que le sean posible, además de los video de youtube.
+Recuerde procesar en un unico sub-agente.
+con relevo cada 5 fuentes
+
+
+==========================================================================================
+
 he limpiado la wiki manualmente para comenzar de cero.
 
 realice la ingesta de todos los archivos, al finalizar cada archivo 
@@ -65,13 +74,19 @@ Como serían mis pasos correctos para luego de resumit videos de lista "ver mas 
 y no mezclar consolidaciones o repetir procesos de ingestas en videos ya procesados.
 o quitar o consolidar puntualmente videos de "ver mas tarde"
 
----
+
 Procese las  carpetas Electricidad Basica Teorica y Electronica Basica en una sola pasada
 
----
 
 De la carpeta Gral procese el contenidos y las subcarpetas de:
 Proxmox
 Python
 y Nichobauta
+
+---
+
+He modificado un poco los favoritos. Refresque.
+procese la carpeta "Gral\IOT Gral" y sus subcarpetas.
 Procese todos los marcadores que le sean posible, además de los video de youtube.
+Recuerde procesar en un unico sub-agente.
+con relevo cada 5 fuentes

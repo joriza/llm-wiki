@@ -1,0 +1,65 @@
+1|IOT Gral|rbenrax/upyOS: Sistema operativo flash modular tipo POSIX para microcontroladores basado en MicroPython|https://github.com/rbenrax/upyOS
+2|IOT Gral|upyOS en microcontroladores: qué es, cómo funciona y cómo alimentarlo sin cortes|https://www.hwlibre.com/upyos-en-microcontroladores-que-es-como-funciona-y-como-alimentarlo-sin-cortes/
+3|IOT Gral|(3527) Raspberry Pi PICO en Español 🍓 Curso de MICROPYTHON Tutorial 🐍 ➤ ESP [N° 001] - YouTube|https://www.youtube.com/watch?v=2cqeFDw0VLc&list=PLF-qcfymUY4WOMNac4TKCMsccixB91K68
+4|IOT Gral|(3527) ✅ Pi Pico Batalla contra Arduino Nano, $4 el Microcontrolador más barato el Raspberry Pi PICO - YouTube|https://www.youtube.com/watch?v=bAAv7i5TISc
+5|IOT Gral|(3527) ✅ El Primer Juego creado con PICO Raspberry, uso de la pantalla OLED y nuevas Librerías - YouTube|https://www.youtube.com/watch?v=SavAmyic_J4&list=PLnwu2s7SIakSXQJKtaOou1xeM13kR82H0&index=5
+6|IOT Gral|(3527) ✅ Que es un FPGA ? Es el final de Arduino? - YouTube|https://www.youtube.com/watch?v=RYAk5bZtj4U&list=PLnwu2s7SIakTIibbT38DUGhmNgEGdJYEh&index=2
+7|IOT Gral|Proyecto Timbre de un colegio|https://www.youtube.com/watch?v=tYuSah73zxY&list=PLnwu2s7SIakRmg7ZZ6IjTCinHh8JHkXe1
+8|IOT Gral|(3527) Esto cambia TODO lo que sabías sobre conectar ESP32 - YouTube|https://www.youtube.com/watch?v=Mwsj5db-5_I
+9|IOT Gral|(3527) Sensores industriales 4–20 mA con ESP32 (SIN PLC) - YouTube|https://www.youtube.com/watch?v=XkdxKrvYVnc&t=62s
+10|IOT Gral|(3527) ✅ Multi - Tárea en Tiempo Real y en el CORE 2 Esto si es programación del ESP32 - YouTube|https://www.youtube.com/watch?v=3yTW1HPU0pM
+11|IOT Gral|(3527) Si NO USAS esta Herramienta, estás PERDIENDO TIEMPO con tu ESP32 - YouTube|https://www.youtube.com/watch?v=lnS9YQuderI
+12|IOT Gral/NODE MCU 8266|(174) Como programar placa Nodemcu con Esp8266 - YouTube|https://www.youtube.com/watch?v=vJ3Q-m46cgU
+13|IOT Gral/ESP32|(189) Programar ESP32 con Arduino | Instalar Configurar ESP32 en Arduino - YouTube|https://www.youtube.com/watch?v=BQBFJ8qc3z4
+14|IOT Gral/ESP32|(189) De Arduino a ESP32: Como empezar! - YouTube|https://www.youtube.com/watch?v=GFSmj-4rOgM
+15|IOT Gral/ESP32|ESP32-C3 Supermini en Arduino IDE - YouTube|https://www.youtube.com/watch?v=WpXzMHdGwI0
+16|IOT Gral/ESP32|Qué pines usar en ESP32 (y cuáles NO tocar si no querés problemas) - YouTube|https://www.youtube.com/watch?v=hU49p8zBJjU
+17|IOT Gral/ESP32|(241) Arquitectura del ESP32 - YouTube|https://www.youtube.com/watch?v=j3V70WSTgiE&t=240s
+18|IOT Gral/ESP32|(241) Pinout ESP32-S3 - YouTube|https://www.youtube.com/watch?v=TeSy1EyjZPM&list=PL_-EHaDBuPfN8DZD19veHdeTc5LUOlBgy&index=2
+19|IOT Gral|📢 "¡NO Uses MICROCONTROLADORES en la INDUSTRIA! ¡No sirven!" ¿MITO O REALIDAD?" 😱 - YouTube|https://www.youtube.com/watch?v=kgdIz0SuABI
+20|IOT Gral|Sensores industriales 4–20 mA con ESP32 (SIN PLC) - YouTube|https://www.youtube.com/watch?v=XkdxKrvYVnc&t=175s
+21|IOT Gral|(189) [RELAY] 7 FORMAS de ARRUINAR tus DISEÑOS - YouTube|https://www.youtube.com/watch?v=IlfEYTcdfHE
+22|IOT Gral|Como Soldar Correctamente las Tiras Pin del arduino. - YouTube|https://www.youtube.com/watch?v=dhnkp762hfQ
+23|IOT Gral|(208) Cómo hacer que tus proyectos IoT duren AÑOS: powerTimer (Consumo Cero) - YouTube|https://www.youtube.com/watch?v=sy0iTkA_p64
+24|IOT Gral|Arduino desde cero en Español - Capítulo 62 - Fuente de Protoboard Arduino y electrónica MB102 - YouTube|https://www.youtube.com/watch?v=tznNsm4ep8k
+25|IOT Gral|(241) Arduino desde cero en Español - Capítulo 1 - Introducción Arduino e inicio del Curso - YouTube|https://www.youtube.com/watch?v=eBVvD85Ml2c&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2
+26|IOT Gral|Arduino desde cero en Español - Capítulo 54 - Pantalla TFT ILI9341 bus SPI (320 x 240) color - YouTube|https://www.youtube.com/watch?v=F4ZKMscBlIQ&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2&index=54
+27|IOT Gral|(248) Problemas con NRF24 - Soluciones y Mejoras! Antena, Ruido, Alimentación - YouTube|https://www.youtube.com/watch?v=8YIy0IyV4c4
+28|IOT Gral|(254) Explicación y simulación del algoritmo LMS (Least-Mean-Square algorithm) - YouTube|https://www.youtube.com/watch?v=-2ySB6ZNL2A&list=PLa81-rlB8PnIsb6OOMFlWPMA-0HONNCG4&index=4
+29|IOT Gral|ginomcfino/SoundShieldANC: Utiliza un algoritmo de cancelación de ruido adaptativo y coloca los altavoces y micrófonos en superficies ruidosas para lograr un rendimiento óptimo en la reducción del sonido.|https://github.com/ginomcfino/SoundShieldANC
+30|IOT Gral|(255) ✅ Convierta su Tira LED en Pantalla LED de 16x16, usando LEDs inteligentes WS2812B - YouTube|https://www.youtube.com/watch?v=_cXA2WV_Ouo
+31|IOT Gral|(256) ✅ 7 Segmentos Gigante - YouTube|https://www.youtube.com/watch?v=I3Q0RrcN8iY
+32|IOT Gral|(256) LED Strips & Arduino – Control WS2812 LED Strips with Arduino and FastLED - YouTube|https://www.youtube.com/watch?v=YKSFRmvA9A0
+33|IOT Gral|(256) Desplazar Texto en Matriz LED Max7219 Scroll Con Arduino - YouTube|https://www.youtube.com/watch?v=H46f9G4vE0Y
+34|IOT Gral|(256) PIXEL DISPLAY Raspberry Pico En panel RGB matrix - YouTube|https://www.youtube.com/watch?v=heakxsSaNao&t=1824s
+35|IOT Gral|(256) Raspy2DMD ! GIFS VIDEOS Y MAS EN PANEL LED MATRIX - YouTube|https://www.youtube.com/watch?v=eaNmocPyS_k
+36|IOT Gral|Bienvenido a WLED - Proyecto WLED|https://kno.wled.ge/
+37|IOT Gral|(256) 🔴 Como usar la pantalla OLED SSD1306 con ARDUINO (128x64) - YouTube|https://www.youtube.com/watch?v=cWgWvNhWg-A
+38|IOT Gral|(256) ✅ Pantallas OLED ✅ son el Fin para LCD se Quedaron Obsoletas - YouTube|https://www.youtube.com/watch?v=a-p9uYt_Kp4
+39|IOT Gral|(256) ✅ Dibujos en Pantalla OLED, No creerás lo fácil que es crear plantillas para tus proyectos - YouTube|https://www.youtube.com/watch?v=QJcN89AFxV0
+40|IOT Gral|Pinout de Arduino Nano: Guía para principiantes|https://www.pcbasic.com/es/blog/arduino_nano_pinout_2.html
+41|IOT Gral|(257) ✅ Conectar varios Arduinos con solo dos cables, Maestro y Esclavos, aprenderemos el protocolo I2C - YouTube|https://www.youtube.com/watch?v=9gfZnNPBlVg
+42|IOT Gral|(258) Videos y Animaciones en Oled con Arduino 😲😲 - YouTube|https://www.youtube.com/watch?v=AXo3sLMQ89o
+43|IOT Gral|(258) Open Source Mini Video Player (Arduino, ESP32, Electronics, PCB Design)! - YouTube|https://www.youtube.com/watch?v=67RFm2RMjC4
+44|IOT Gral|(258) Arduino Project: 1.8" DIY Photo Frame using an Arduino Nano and a 1.8" ST7735 Color TFT display. - YouTube|https://www.youtube.com/watch?v=X8syt55ITUo
+45|IOT Gral|(258) Arduino Uno y TFT 2.2" SPI 240x320 - YouTube|https://www.youtube.com/watch?v=L3uvcPo682k
+46|IOT Gral|(276) ¡No elijas la pantalla OLED equivocada! Explicación de I²C y SPI para Arduino y ESP32 - YouTube|https://www.youtube.com/watch?v=ICXznCN3NOI
+47|IOT Gral|(276) Seguimiento del ESP32-C3 Super Mini: Modificaciones de antena, pruebas RSSI y análisis del espect... - YouTube|https://www.youtube.com/watch?v=Vnm7jtjf0T4
+48|IOT Gral|(276) Construcción de un controlador LED universal WS2812 con ESP32-C3 - YouTube|https://www.youtube.com/watch?v=wHnuPH63Hng
+49|IOT Gral|(278) How to use millis() function to multitask in arduino code. - YouTube|https://www.youtube.com/watch?v=dCku8BabPx4
+50|IOT Gral|(279) Amazing Idea | Find AC Current As Magically #experiment #electronics #shorts - YouTube|https://www.youtube.com/shorts/8orOU6iogtw
+51|IOT Gral|(279) Pantallas Oled con Arduino Librerias y Ejemplos - deMMake - YouTube|https://www.youtube.com/watch?v=XYBcr1KpN3Y
+52|IOT Gral|(279) 👾 Matriz LED Sin Controlador - Arduino - Conexion y Codigo - deMMake - YouTube|https://www.youtube.com/watch?v=_vqPmitnlxA
+53|IOT Gral|(279) ✅ Cubo LED, Como armarlo paso a paso (LED Cube) - YouTube|https://www.youtube.com/watch?v=Ia3viImc_KM&list=PLnwu2s7SIakSeKex9vSigQR7nlRmJ56jL&index=2
+54|IOT Gral|(279) How to make a Big LED Cube at Home 8x8x8 LED Cube - YouTube|https://www.youtube.com/watch?v=AEyY17chb0A
+55|IOT Gral|(279) How to make a 8x8x8 LED Cube at Home - YouTube|https://www.youtube.com/watch?v=mN5JWQUfrxY
+56|IOT Gral|(280) 🏆 Cómo HACER un CUBO LED con ARDUINO? ⛳ - YouTube|https://www.youtube.com/playlist?list=PLiJv_3SD9kXCoQHHFSjaHIyzp5p6fC60v
+57|IOT Gral|(280) Cómo Hacer Cubo De LED 3x3x3 (muy fácil de hacer) - YouTube|https://www.youtube.com/watch?v=rw2tA0LZgwY
+58|IOT Gral|(280) CUBO LED 3x3x3 muy facil de hacer || Leds RGB automáticos || [Explicado paso a paso] - YouTube|https://www.youtube.com/watch?v=tItvqXAkzBk
+59|IOT Gral|(280) Arduino propeller clock - YouTube|https://www.youtube.com/playlist?list=PLlck5hCWxDJ_pK7QKY7rY01lz73mbEg79
+60|IOT Gral|(281) Como Conectar 100 LEDs a una Salida (Circuito) - YouTube|https://www.youtube.com/watch?v=CtJqhg5Y6DA&list=PLnwu2s7SIakSbbRh-3ulVT5_6aSczA7VE&index=11
+61|IOT Gral|(281) ✅ Tira LED al Ritmo de la Música, muy fácil de hacer en casa - YouTube|https://www.youtube.com/watch?v=ZsMuX1fI0Fs&list=PLnwu2s7SIakSbbRh-3ulVT5_6aSczA7VE&index=19
+62|IOT Gral|(281) ✅LED Mágicos, el secreto revelado y construcción desde cero - YouTube|https://www.youtube.com/watch?v=-zV_KVFG-iY&list=PLnwu2s7SIakSbbRh-3ulVT5_6aSczA7VE&index=21
+63|IOT Gral|(281) AMPLIFICADOR SENCILLO DE AUDIO CON UN TRANSISTOR 13003 - YouTube|https://www.youtube.com/watch?v=GgRRr-RMiws
+64|IOT Gral|(684) Walter: La Placa IoT Definitiva con IA - YouTube|https://www.youtube.com/watch?v=Q1hAE8VwkZY
+65|IOT Gral|(943) Inteligencia Artificial en ESP32: Conectando Google Gemini paso a paso - YouTube|https://www.youtube.com/watch?v=IVtlDjU4wbs
