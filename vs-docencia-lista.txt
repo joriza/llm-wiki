@@ -36,7 +36,7 @@ FAV-445|Informatica|Deep Freeze GRATIS? UWF: Filtro de Escritura Unificado / Act
 FAV-446|Informatica|(15) Por qué es IMPOSIBLE matar a COBOL - YouTube|https://www.youtube.com/watch?v=IMnwlfGqeCU ; PROCESADA 2026-11-15 (relevo 8)
 FAV-447|Informatica|(275) Arquitectura de Software e IA - YouTube|https://www.youtube.com/playlist?list=PLT8O-1uuC6R5vtb2GMZr3W5eTNABUUFbr ; IGNORADA 2026-11-15 (relevo 8, playlist pura sin v=, precedente FAV-401/404)
 FAV-448|Informatica|(707) La MENTIRA de los Microservicios desde el Día 1 (Monolito vs Microservicios) - YouTube|https://www.youtube.com/watch?v=JgrsAyefLFU ; PROCESADA 2026-11-15 (relevo 8)
-FAV-449|Informatica|(119) Janet Jackson te rompía el Windows XP 🥴🤔 - YouTube|https://www.youtube.com/shorts/hdhQg63Meoo
+FAV-449|Informatica|(119) Janet Jackson te rompía el Windows XP 🥴🤔 - YouTube|https://www.youtube.com/shorts/hdhQg63Meoo ; PROCESADA 2026-11-15 (relevo 8)
 FAV-450|Informatica|(123) ¡ADIÓS LICENCIAS! Reemplaza Windows Active Directory con Samba 4 en Debian 13 - YouTube|https://www.youtube.com/watch?v=k8Dl9RVYNLA
 FAV-451|Informatica|(186) ¡Todas las estructuras de datos explicadas de forma sencilla en 25 minutos! - YouTube|https://www.youtube.com/watch?v=vVL6NFzr0Rg
 FAV-452|Informatica|(307) Microsoft No Creó SQL Server Desde Cero… Sybase Terminó Olvidada - YouTube|https://www.youtube.com/watch?v=sdrGJF0MUqs

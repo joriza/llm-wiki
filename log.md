@@ -2132,3 +2132,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Resumen**: wiki/informatica/resumen-FAV-448-monolito-vs-microservicios-thedebugduck.md
 
 ## [2026-11-15] relevo 8 T4 — FAV-447 ignorada (playlist pura, commit 3d5525dc); FAV-448 procesada (este commit)
+
+## [2026-11-15] ingesta | FAV-449 — Janet Jackson te rompía el Windows XP (La Chica de Sistemas)
+- **Fuente**: https://www.youtube.com/shorts/hdhQg63Meoo. Short, canal La Chica de Sistemas, 2026-08-21, 01:28, ES subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-janet-jackson-rhythm-nation-hdd-la-chica-de-sistemas.md
+- **Resumen**: wiki/informatica/resumen-FAV-449-janet-jackson-rhythm-nation-hdd.md
