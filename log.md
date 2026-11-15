@@ -2350,3 +2350,6 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Cableado bidireccional**: bloque «## Consolidación (2026-11-15)» añadido al pie de 40 resúmenes afectados (informatica/ 24, electronica-practica/ 13, general/ 3).
 - Registros complementarios: 17 filas nuevas en index.md (7 conceptos + 10 entidades); hilo 19 en wiki/overview.md y línea de estado en wiki/sintesis.md (incluye dominio informatica/ creado en la ventana con 7+ fuentes migradas y la exclusión de Electromecánica pendiente de tramo futuro).
 - Sin commits ni push (los hace el orquestador). Sin touch de Bookmarks ni .obsidian/. Nota de superficie: la actualización de [[torti-code]] y [[archivo-del-futuro]] tocó 2 archivos en informatica-teoria/ (fuera de las superficies listadas) — exigido por la instrucción «fusiona con páginas existentes, nunca dupliques».
+
+## [2026-11-15] lint | Revisión general y análisis de dominios
+- Lint ejecutado (solo lectura + auditoría de wikilinks sobre todo wiki/): 16 dead-links detectadas (6 reales prospectivas FAV-354/364/468 + 4 de gemma-4 FAV-334..339 + 2 de documental + 4 meta/ruido), 16 huérfanas sin backlinks en T3/T4, análisis de fusión/división entregado al orquestador. Sin cambios estructurales: fusión/división requiere confirmación del usuario (regla AGENTS.md). Informe en la conversación del 2026-11-15.
