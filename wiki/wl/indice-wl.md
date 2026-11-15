@@ -238,6 +238,18 @@ Notas del tramo: 5/5 útiles exactos (WL-196..WL-200), 0 skips, 0 meta-fail, sin
 
 Notas del tramo: 3/3 útiles exactos (WL-201..WL-203), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin cuarto ciclo (TRAMO FINAL del pedido L22). Salida 45.239.32.215 (Proton UE, validada hoy), 3 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). **PEDIDO L22 CERRADO: 50/50 útiles.**
 
+## Tramo 32 — relevo 25 (WL-225..WL-229)
+
+| # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
+|---|--------|--------|------------------|---------|
+| WL-225 | Cómo nos ROBARON el tiempo libre (`Pb0RzrlfkMI`) | Puchito Cine | general/sociedad-argentina o general (videoensayo trabajo/tiempo con cine como hilo: La fiaca, Tiempos Modernos, Office Space, Severance; historia del descanso (otium, jornada 8 h 1929, OIT 1936, decreto 1740/1945, DDHH 1948); paradoja de la productividad; sociedad del cansancio (Byung-Chul Han); simulación ~8 años libres; datos sin fuente primaria — señalado; cruces WL-199 (mismo canal)/WL-163/WL-195/WL-141/WL-158) | Resumen en `tramo-32/` |
+| WL-226 | Este El Niño Acaba de Igualar al de 1877 (`I0U59agWSxo`) | Astrovía | general (clima/historia — Niño 2026 vs Gran Niño 1877: tres sequías (India ~8 M, China 9,5-13 M, sertón ~0,5 M; >50 M total), clave Singh et al. 2018 (La Niña previa + dipolo Índico récord + Atlántico Norte cálido), hambruna política (Lytton, exportaciones, raciones Temple); legado Blanford/Walker/Bjerknes (ENSO) y códigos de hambruna 1880; 2026: monzón al 87 % pero amplificadores tranquilos; datos 2026 sin fuente enlazada — verificar; cruces WL-173/WL-202/WL-201/WL-133) | Resumen en `tramo-32/` |
+| WL-227 | Mejores Herramientas de IA para profesores (`K2Yie8Z5fLc`) | Roxana Falasco | general (educación/herramientas — listicle comercial 6 min: Prezi, Twinkl, Hostinger (patrocinio), Perplexity, DALL·E; precios 2024 desactualizados; candidata a BAJA por triage (ítem 17); cruces WL-194/WL-203) | Resumen en `tramo-32/` |
+| WL-228 | La verdad sobre el autocompact (y tips) (`KeMRKkhLvEw`) | Gentleman Programming | ia-uso-practico/agentes-de-codigo (ventana de contexto = costo por turno; context rot desde 300-400 K (Anthropic); default Codex 272 K antes del escalón de precio; `/autocompact-window` por modelo, 400 K como punto de partida; anatomía del autocompact (buffer, resumen, reinyección); ventanas chicas cuestan más; compactar a mano con foco; citas de 2ª mano señaladas; cruces [[agentes-de-codigo]]/[[gentleman-programming]]/WL-94/WL-165/WL-178/WL-180/WL-185/WL-203/WL-214) | Resumen en `tramo-32/` |
+| WL-229 | ¿Vale la pena pagar cursos en la era de la IA? (`xWSSfrnk_eI`) | Gentleman Programming Vods | general/sociedad-argentina o general (opinión formación tech — la IA no reemplaza mentores ni temarios curados; módulo de calidad: TDD/arquitectura/testing/Sentry; conflicto de interés explícito (profesor del curso defendido); NO fuente factual; autopromoción excluida; cruces [[gentleman-programming]]/WL-227/WL-194/WL-185/WL-203) | Resumen en `tramo-32/` |
+
+Notas del tramo: 5/5 útiles exactos, 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L23: **26/50 útiles**. Tema de tramo: Gentleman Programming ×2 (WL-228/229, canal y vods) — vecinos en consolidación.
+
 ## Tramo 31 — relevo 24 (WL-220..WL-224)
 
 | # | Título (id) | Canal | Dominio previsto (pendiente consolidación, S4) | Dónde |
