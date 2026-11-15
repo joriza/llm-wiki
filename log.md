@@ -2178,3 +2178,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Fuente**: https://www.youtube.com/watch?v=o4NStEgIEjo. Canal Platzi, 2026-09-05, 21:49, ES subs automáticos.
 - **Raw**: raw/informatica/2026-11-15-openai-agentes-hackean-huggingface-platzi.md
 - **Resumen**: wiki/informatica/resumen-FAV-456-openai-agentes-hackean-huggingface-platzi.md
+
+## [2026-11-15] ingesta | FAV-458 — Ordenar 1 millón de datos (Torti Code)
+- **Fuente**: https://www.youtube.com/watch?v=TTIA7LlI3rk. Canal Torti Code, 2026-08-07, 17:05, ES subs automáticos.
+- **Raw**: raw/informatica/2026-11-15-ordenar-un-millon-de-datos-torti-code.md
+- **Resumen**: wiki/informatica/resumen-FAV-458-ordenar-un-millon-de-datos-torti-code.md
