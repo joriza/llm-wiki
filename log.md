@@ -2253,3 +2253,8 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] relevo 14 T4 — FAV-476 = DUPLICADO de FAV-474
 - FAV-476 (línea 66, naJQhnYYlak&t=240s) apunta al mismo video que FAV-474, ya procesada en el relevo 13: marcado DUPLICADO en vs-docencia-lista.txt sin fetch, según aviso previo. Verificado que FAV-477..480 tienen IDs únicos y ausentes de raw/.
+
+## [2026-11-15] ingesta | WiFiManager: gestiona redes WiFi dinámicamente (Jadsa Tech) — FAV-477
+- **Fuente**: https://www.youtube.com/watch?v=RSKU4f5l9SA. Canal Jadsa Tech, 2023-03-20, 09:59, ES subs automáticos.
+- **Raw**: raw/electronica-practica/2026-11-15-esp32-wifimanager-redes-dinamicas.md
+- **Resumen**: wiki/electronica-practica/resumen-FAV-477-esp32-wifimanager-redes-dinamicas-jadsa-tech.md
