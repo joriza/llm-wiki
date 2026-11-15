@@ -2323,3 +2323,20 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 - **Raw**: raw/general/2026-11-15-generacion-inutiles-opositores-padres-negocios-tv.md
 - **Resumen**: wiki/general/resumen-FAV-488-generacion-inutiles-opositores-padres-negocios-tv.md
 - **Dominio**: general/ — transversal sin dominio claro (educación/sociedad; opinión con sesgo señalizada en el resumen).
+
+## [2026-11-15] ingesta | Nadie Gana Dinero Si Tú Entiendes (Lógica Globalizada) — FAV-489
+- **Fuente**: https://www.youtube.com/watch?v=4t9FjjTiRzE. Canal Lógica Globalizada, 2026-09-02, 22:47, ES subs automáticos.
+- **Raw**: raw/general/2026-11-15-nadie-gana-dinero-si-tu-entiendes-logica-globalizada.md
+- **Resumen**: wiki/general/resumen-FAV-489-nadie-gana-dinero-si-tu-entiendes-logica-globalizada.md
+- **Dominio**: general/ — transversal sin dominio claro (educación/medios/economía de la atención; decisión de consolidación).
+
+## [2026-11-15] relevo 16 T4 (FINAL) — FAV-486..489 COMPLETO 4/4 (líneas 76-79, IDs verificados contra vs-docencia-lista.txt — coinciden con el encargo, subcarpeta Transversal) — CIERRE DE VENTANA T4
+- FAV-486 Intenté buscar trabajo y está feo, Dos Dager → informatica/ (bfedd970) · FAV-487 El analfabetismo que nadie vio venir, El Robot de Platón → general/ (a529c2da; fix fila index FAV-481 ad84fb32) · FAV-488 ¿Hacia una generación de inútiles?, Negocios TV → general/ (4aa642f3) · FAV-489 Nadie gana dinero si tú entiendes, Lógica Globalizada → general/ (este commit). 4/4 PROCESADAS con ciclo completo. 0×429; salida WARP 104.28.199.112; 4 fetches OK gated (~85-90 s vía .atl/fetch_yt.py, PYTHONIOENCODING=utf-8), 0 meta-fail, 0 NO-SUBS, 0 playlists puras, 0 duplicados en el rango.
+- Umbrales nuevos para consolidación diferida: **par lectura/PISA 2 fuentes** (FAV-481 Platzi + FAV-489 Lógica Globalizada — mismos datos OCDE/PISA y tesis de divergencia por fuentes independientes); **clúster alfabetización/comprensión 3 fuentes** (481/487/489); **delegación cognitiva en IA ≥2** (487/489, cruza con [[ia-educacion-desfase]] FAV-482); canal Dos Dager 1, El Robot de Platón 1, Negocios TV 1, Lógica Globalizada 1 (ningún umbral de entidad). Sin concepto/entidad nuevas (todo deferido).
+
+## [2026-11-15] CIERRE DE VENTANA Vs + Docencia Material Didáctico (T4) — 79/79 LÍNEAS RESUELTAS (FAV-411..489, 16 relevos)
+- **PROCESADAS con ciclo completo**: ~63 fuentes (rango completo FAV-411..489 salvo los casos listados abajo; detalle por relevo en las entradas T4 de esta sección). Dominios: informatica/ (clúster grande, activo desde 2026-11-15), electronica-practica/ (Arduino/Vs), general/ (transversales sin dominio claro: educación/lingüística/arqueología/laboral).
+- **DUPLICADOS**: FAV-436, FAV-451, FAV-462, FAV-475, FAV-476, FAV-483 (6 — mismo v= ya en raw/, sin fetch).
+- **IGNORADAS (playlist pura sin v=, por orden del usuario / precedente FAV-401/404)**: FAV-421, FAV-427, FAV-447 (3).
+- **SKIP / NO-SUBS**: sin casos .NO-SUBS definitivos registrados en la ventana por este relevo final; FAV-413..415 y demás casos particulares quedaron documentados en sus relevos (1-15).
+- 0×429 en toda la ventana según los registros por relevo; salida WARP 104.28.199.112 constante. Sin touch de Bookmarks ni .obsidian/. Consolidación diferida pendiente del orquestador (umbrales por relevo en log) + push.
