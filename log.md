@@ -2458,3 +2458,18 @@ URL de playlist pura (list=PLCKuOXG0bPi326EPdKsv1UNiGKgXG8SJf, sin v=). IGNORADA
 
 ## [2026-11-15] ingesta | Inversores solares: tipos (FAV-524, relevo 7 Electromecanica)
 - FAV-524 laDPoN9HZlo «Inversor para placas solares: ¿Cuál es el MEJOR?» — AutoSolar Energy Solutions, ES-ASR 22:09. Resumen: wiki/electromecanica/resumen-FAV-524-inversores-solares-tipos.md; raw: raw/electromecanica/2026-11-15-inversores-solares-tipos.md. **Umbral consolidado: clúster Energías Renovables completo (5/5 fuentes procesadas) → concepto candidato firme en la próxima consolidación** (cadena: física solar FAV-521 + eólica FAV-520 → regulación FAV-523 → inversores/arquitectura FAV-524 → economía FAV-522).
+
+## [2026-11-15] ingesta | MPPT qué es y cómo funciona (FAV-525, relevo 8 Electromecanica)
+- FAV-525 0Z52-wReNfY «MPPT - ¿Qué es y Como Funciona?» — ELECTRONOOBS en Español, ES-ASR 25:13 (patrocinio PCBWay declarado). Resumen: wiki/electromecanica/resumen-FAV-525-mppt-que-es-como-funciona.md; raw: raw/electromecanica/2026-11-15-mppt-que-es-como-funciona.md. Canal ELECTRONOOBS 2ª fuente (FAV-372 + esta) → entidad candidata.
+
+## [2026-11-15] ingesta | MPPT de los inversores (FAV-526, relevo 8 Electromecanica)
+- FAV-526 S3F_7JHVOx0 «Entiendo Energía Solar: ¿Que es el MPPT de los inversores» — CIAE, ES-ASR 17:11. Resumen: wiki/electromecanica/resumen-FAV-526-mppt-inversores-maxima-extraccion.md; raw: raw/electromecanica/2026-11-15-mppt-inversores-maxima-extraccion.md. Clúster renovables 7ª fuente.
+
+## [2026-11-15] ingesta | Mono vs Policristalino (FAV-527, relevo 8 Electromecanica)
+- FAV-527 Q6HNV_-jlsc «Mono vs Policristalino» — CIAE, ES-ASR 20:38. Resumen: wiki/electromecanica/resumen-FAV-527-mono-vs-policristalino.md; raw: raw/electromecanica/2026-11-15-mono-vs-policristalino.md. CIAE 2ª fuente.
+
+## [2026-11-15] ingesta | Tierra eléctrica (FAV-528, relevo 8 Electromecanica)
+- FAV-528 TKj60D7CPT8 «Importancia de la Tierra Eléctrica» — CIAE, ES-ASR 22:15. Resumen: wiki/electromecanica/resumen-FAV-528-tierra-electrica-instalaciones-solares.md; raw: raw/electromecanica/2026-11-15-tierra-electrica-instalaciones-solares.md. **CIAE 3ª fuente (FAV-526/527/528) → entidad candidata firme.**
+
+## [2026-11-15] ingesta | Serie o paralelo paneles solares (FAV-529, relevo 8 Electromecanica)
+- FAV-529 Wr08jWeee4Y «Serie o Paralelo — errores comunes» — Energía Solar Lab, ES-ASR 08:58. Resumen: wiki/electromecanica/resumen-FAV-529-serie-o-paralelo-paneles-solares.md; raw: raw/electromecanica/2026-11-15-serie-o-paralelo-paneles-solares.md. **Umbral clúster Energías Renovables ahora 10 fuentes (FAV-520..529) — concepto candidata firme para consolidación**; subtemas: MPPT (FAV-523/525/526, 3 fuentes), tipos de celda (FAV-521/527), conexión (FAV-521/529).
