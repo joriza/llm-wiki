@@ -2806,3 +2806,9 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - **Fuente**: `raw/wl/tramo-11/2026-10-30-cuneo-revela-secretos-que-nunca-conto-de-milei-cuneo-santiago-javier-karina-vivi.md` (`rtm31LMjJdo`, Politica Argentina, 2026-10-30, 39:19).
 - **Resumen**: `wiki/wl/tramo-11/resumen-WL119-cuneo-revela-secretos-que-nunca-conto-de-milei.md`.
 - **Decisiones**: contenido de OPINIÓN militante sin evidencia — archivado como documento del clima político argentino, NO como fuente factual (advirtido en triage y en index); dominio destino `general/sociedad-argentina` (S4 sin dominios nuevos); cruces con WL-112 y WL-115 (mismo ciclo Bolsonaro) diferidos a consolidación. Consolidación diferida (L12).
+
+## [2026-11-15] ingesta WL | tramo 11, fuente WL-120 — El futuro de las empresas: de la IA a los criterios ESG (GSG Business Hub)
+
+- **Fuente**: `raw/wl/tramo-11/2026-10-29-el-futuro-de-las-empresas-de-la-ia-a-los-criterios-esg.md` (`5F49Op3IMwU`, GSG Business Hub, 2026-10-29, 15:50).
+- **Resumen**: `wiki/wl/tramo-11/resumen-WL120-el-futuro-de-las-empresas-de-la-ia-a-los-criterios-esg.md`.
+- **Decisiones**: episodio con conflicto de interés (promoción de la herramienta del invitado) señalado en triage; nombre de la herramienta ambiguo por ASR (Bombo/Bombu/Bongo — «Bombu» elegida); dominio destino `general` (negocios/sostenibilidad; S4 sin dominios nuevos); cruce con fuentes de costo energético de IA diferido. Consolidación diferida (L12).
