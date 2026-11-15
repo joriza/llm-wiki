@@ -2683,3 +2683,6 @@ Descarga OK (45.239.32.215, sin 429; presupuesto estimado relanzado 45→55 tras
 
 ## [2026-11-15] ingesta | La Estrategia de PYTHON para Freelance MILLONARIA del 2026 (Código Espinoza, relevo 6, fuente 36/37)
 Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-la-estrategia-de-python-para-freelance-millonaria.md`; cruces: [[polars]]/[[duckdb]], script freelance con FastAPI, puente a ia-local (RAG/LoRA solo encuadrado, sin duplicar). Señalado: voz de IA + cifras sin fuente. index.md y log.md actualizados. Commit por archivo.
+
+## [2026-11-15] ingesta | FastAPI: De un Script a Microservicios en 5 Etapas (Código Espinoza, relevo 6, fuente 37/37)
+Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-fastapi-de-un-script-a-microservicios-en-5-etapas.md`; cruce a [[fastapi]]; LISTA COMPLETADA (37/37: 33 committed + 2 skip definitivos + 2 skip ya procesados antes). index.md y log.md actualizados. Commit por archivo.
