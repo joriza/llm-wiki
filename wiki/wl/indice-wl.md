@@ -215,3 +215,15 @@ Notas del tramo: 5/5 útiles exactos (WL-186..WL-190), 1 SKIP definitivo sin sub
 | WL-195 | Mayra Arena con Romina Manguel: pobreza, marginalidad y la nueva realidad social (`tCsMElWO_NQ`) | Splendid AM 990 | general/sociedad-argentina (análisis social con testimonio; cifras sin fuente exacta señaladas; cruces WL-163, cluster videoensayos sociales) | Resumen en `tramo-25/` |
 
 Notas del tramo: 5/5 útiles exactos (WL-191..WL-195), 2 SKIP definitivos sin subtítulos (videos eliminados `lmoryhSH6zA` y `pIBI6AYFQWY`, marcadores .no-subs), 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas + 2 skips, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L22: 42/50 útiles.
+
+## Tramo 26 (2026-11-15, relevo 19)
+
+| # | Título | Fuente | Dominio previsto | Resumen |
+|---|--------|--------|------------------|---------|
+| WL-196 | ¿Por qué una coreana preferiría vivir en Argentina que en Seúl? (`jc3zF3hyZaQ`) | La 100 | general/sociedad-argentina (entrevista biográfico-cultural Shini — llegada consular por azar, almacén familiar, ISER; sin datos duros, señalado en triage) | Resumen en `tramo-26/` |
+| WL-197 | Cómo un barco burló a 42 navíos y cientos de cañones (`SIj9VZCfUQY`) | Веер Империй | general (historia pirata/docudrama — Bartholomew Roberts, Bahía de Todos os Santos 1719, traición de Kennedy; marco narrativo dramatizado señalado) | Resumen en `tramo-26/` |
+| WL-198 | La Física Cuántica: la explicación completa (`SCESF9Ie38Q`) | Ciencia Explicada | general (divulgación científica — cuerpo negro, Einstein, Born, mitos desmontados, interpretaciones abiertas; sin citas primarias señalado; cruces WL-132/WL-189 cluster IA-crítica) | Resumen en `tramo-26/` |
+| WL-199 | Nos quieren hacer creer que esto es progreso (`Bi5zxQihVhQ`) | Puchito Cine | general/sociedad-argentina (videoensayo trabajo y cine — seis películas, derechos como conquista, tecnofeudalismo; NO fuente factual, señalado en triage) | Resumen en `tramo-26/` |
+| WL-200 | Verbatim: ¿por qué fracasó el gigante de los disquetes? (`WHwIah-LmC8`) | Archivo Tecnológico | general (historia de la tecnología — garantía de 5 años como salvación y trampa, Kodak/Mitsubishi/CMC; cruces WL-117 Autodesk) | Resumen en `tramo-26/` |
+
+Notas del tramo: 5/5 útiles exactos (WL-196..WL-200), 0 skips, 0 meta-fail, sin 429 — cierre en frontera sin sexto ciclo. Salida 45.239.32.215 (Proton UE, validada hoy), 5 descargas timedtext consecutivas, presupuesto suave 200 nunca alcanzado (L13). Consolidación diferida (L12). Contador del pedido L22: **47/50 útiles**.
