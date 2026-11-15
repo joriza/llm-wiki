@@ -2901,3 +2901,10 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Fuente: `RPsQMBIjF58` (SinergIA, 2026-10-28, 14:14, subtítulos manuales). Raw espejado a `raw/wl/tramo-14/2026-10-28-el-mit-dejo-una-ia-sola-en-una-isla-esto-es-lo-que-hizo.md`; resumen en `wiki/wl/tramo-14/resumen-WL135-el-mit-dejo-una-ia-sola-en-una-isla.md`.
 - Experimento Eko del MIT (preprint, sin peer-review — señalado en triage): agente Claude Code sin tarea, memoria efímera; descubre regla física no programada (isla generada por Codex), autcorrrección honesta de récord falso, y la memoria como habilidad (borrar línea = borrar destreza; creencia falsa apuntada = degradación).
 - Dominio destino previsto (pendiente consolidación, S4): `ia-critica-y-fronteras` o `ia-uso-practico/agentes-de-codigo`. Cruces naturales: [[anthropic]], agentes autónomos.
+
+## [2026-11-15] ingesta | WL-136 (SKIP definitivo) + WL-137 — Todo lo nuevo de Gentle Shell 4
+
+- SKIP definitivo: `fh8f3UdpWzU` «Hoy! Hablamos con el equipo de Maintainers…» (Gentleman Programming Vods) — sin pistas de subtítulos, marcador `.no-subs`; no cuenta como fuente útil.
+- Fuente útil: `NiqsTBKIQo0` (Gentleman Programming Vods, 2026-10-28, 06:24). Raw espejado a `raw/wl/tramo-14/2026-10-28-todo-lo-nuevo-de-gentle-shell-4.md`; resumen en `wiki/wl/tramo-14/resumen-WL137-todo-lo-nuevo-de-gentle-shell-4.md`.
+- Demo de Gentle Shell 4: interfaz renovada, modo Yolo no-destructivo, Claude Bridge multi-modelo por rol, ahorro de tokens, estadísticas y mensajería entre sesiones Pi (en pruebas). Fuente interna/promocional de primera mano (producto del propio entorno), señalado en triage.
+- Dominio destino previsto (pendiente consolidación, S4): `ia-uso-practico/agentes-de-codigo` o entidad [[gentleman-programming]].
