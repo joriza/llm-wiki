@@ -84,6 +84,16 @@ Contenido (2026-11-15, cierre del tramo 10): **15 resúmenes en la estación** �
 | WL-136 | Hoy! Hablamos con el equipo de Maintainers y varias sorpresas! (`fh8f3UdpWzU`) | Gentleman Programming Vods | — | SKIP definitivo (.no-subs) |
 | WL-137 | Todo lo nuevo de Gentle Shell 4 (`NiqsTBKIQo0`) | Gentleman Programming Vods | ia-uso-practico/agentes-de-codigo (fuente interna) | Resumen en `tramo-14/` |
 
+### Tramo 15 (2026-11-15, relevo 8 — WL-138..WL-142, pendiente consolidación)
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-138 | Ingenieros Argentinos Desmontaron Un Coche Chino (`mNl2bE5ya6o`) | Visión Automotor | general (industria automotriz/tecnología) | Resumen en `tramo-15/` |
+| WL-139 | Psicología de la Inteligencia Mecánica (`VJ1E2xp0bdg`) | Claridad Mental | general (psicología/divulgación) | Resumen en `tramo-15/` |
+| WL-140 | 1x vs. 2x: Lo que la industria no quiere que sepas (`PdrpkqDWRNg`) | Modo Ciclista | general (ciclismo/crítica de industria) | Resumen en `tramo-15/` |
+| WL-141 | BURLARSE de la gente le salió CARO — Santutu (`BQiFdcxMPOk`) | Themateoteo | general/sociedad-argentina (cultura digital — opinión, NO factual) | Resumen en `tramo-15/` |
+| WL-142 | ¿Por qué los ferrocarriles dejan rieles viejos tirados junto a la vía? (`xjyKyQUHl7E`) | Entendiendo Lo Simple | general (infraestructura/ferrocarriles) | Resumen en `tramo-15/` |
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).

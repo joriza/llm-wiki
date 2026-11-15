@@ -2946,3 +2946,11 @@ Descarga OK (45.239.32.215, sin 429). Resumen en `wiki/python-practico/resumen-f
 - Fuente: `xjyKyQUHl7E` (Entendiendo Lo Simple, 2026-10-26, 08:06, subtítulos automáticos). Raw espejado a `raw/wl/tramo-15/2026-10-27-por-que-los-ferrocarriles-dejan-rieles-viejos-tirados-junto-a-la-via-no-fue-por-.md`; resumen en `wiki/wl/tramo-15/resumen-WL142-rieles-viejos-junto-a-la-via.md`.
 - El riel al costado de la vía como inventario: soldadura aluminotérmica, rieles tapón, clasificación por desgaste (2 mm), re-inspección tras Iowa 2001 y tercera vida estructural del riel en LATAM.
 - Dominio destino previsto (pendiente consolidación, S4): `general/` (infraestructura/ferrocarriles, historia de la tecnología).
+
+## [2026-11-15] cierre | Tramo 15 WL completado (WL-138..WL-142)
+
+- **5/5 fuentes útiles ingestadas y committed** con ciclo completo por fuente (raw espejado a `raw/wl/tramo-15/` → resumen en `wiki/wl/tramo-15/resumen-WL<NNN>-<slug>.md` → fila index → línea log → commit con git add por archivo). Commits por fuente: WL-138 fcc04298, WL-139 8abd722c, WL-140 64644a5b, WL-141 101dcb27, WL-142 ea72c761.
+- 0 meta-fail, 0 skip; dedupe pre-flight limpio (658→663 ids en raw/). La cabeza marcada `.meta-fail` (VOsd5kxNUqk, WL-13) fue saltada por el runner; primer útil de la ventana: WL-138 (posición 55).
+- Salida **45.239.32.215** (Proton UE, validada hoy) — 5 descargas timedtext consecutivas sin 429, presupuesto suave 100 nunca alcanzado (regla L13).
+- Dominios destino previstos (pendiente consolidación, S4 sin dominios nuevos): WL-138 general (industria automotriz — desarmes BYD), WL-139 general (psicología — inteligencia mecánica), WL-140 general (ciclismo/crítica de industria — 1x vs 2x), WL-141 general/sociedad-argentina (streaming/cultura digital — opinión, NO factual, señalado en triage), WL-142 general (infraestructura/ferrocarriles).
+- Última fuente del tramo: **WL-142** (`xjyKyQUHl7E`). Próximo: T16 (WL-143..WL-147, relevo 9); consolidación de tramos 8-15 diferida (L12).
