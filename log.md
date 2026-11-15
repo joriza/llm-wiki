@@ -2575,3 +2575,6 @@ Fuente 9/11 (-W-ayVXtFQs, VirtualizationHowto 2026-01-09, EN-ASR 15:03). Raw int
 
 ## [2026-11-15] ingesta | 15 Docker Containers That Will Instantly Improve Your Home Lab
 Fuente 10/11 (CaEgrQaPNvQ, VirtualizationHowto 2025-11-21, EN-ASR 13:29). Raw intacto a raw/self-hosting/; resumen con cruces a [[proxmox-homelab]] y fuentes 1-9. 2ª fuente del canal VirtualizationHowto → entidad de canal candidata para T3.
+
+## [2026-11-15] ingesta | Cómo desplegar tus apps con Dokploy | Alternativa open source a Vercel o Netlify
+Canal NextGen (2026-10-22, 06:52, español). Fuente 11/11 de la playlist self-hosting. Resumen: wiki/self-hosting/resumen-desplegar-apps-con-dokploy-nextgen.md; raw: raw/self-hosting/2026-10-22-como-desplegar-tus-apps-con-dokploy-alternativa-open-source-a-vercel-o-netlify.md. Nota ASR: el audio nombra «Dokku» varias veces; la herramienta tratada es Dokploy (normalizado solo en el resumen). Cruces a resúmenes de pila homelab del mismo dominio.
