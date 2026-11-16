@@ -2,6 +2,18 @@
 
 Backlog WL: 4850 entradas (cache `.atl/scratch/playlist-ver-mas-tarde.json`, inventario legible `.atl/scratch/ver-mas-tarde-inventario.md`). Estrategia elegida: ventanas de presupuesto desde la cabeza (más recientes primero). Protección IP: regla v2 de `protocolo-ingesta-youtube.md` (mecánica, en el runner). Profundidad triage: resumen + index + log + commit por fuente; consolidación aplazada al cierre de cada tramo.
 
+## Allowed edit surfaces
+raw/wl/
+wiki/wl/
+raw/
+wiki/
+index.md
+log.md
+.atl/scratch/
+.atl/salidas.md
+odd/tasks/
+protocolo-ingesta-youtube.md
+
 ## Specs
 
 - S1: «Es posible darte acceso a la lista "ver mas tarde"?» — WL accesible vía yt-dlp con cookies de Firefox (verificado: 4850 entradas).
@@ -160,3 +172,5 @@ Backlog WL: 4850 entradas (cache `.atl/scratch/playlist-ver-mas-tarde.json`, inv
 - T60 FINAL (2026-11-16, inline): tramo 60 = WL-375..WL-376 (2 fuentes para completar 60/60). Procesamiento inline final de las 2 fuentes restantes.
 
 - T60 FINAL (2026-11-16, inline): tramo 60 = WL-375..WL-376 del cache fresco de 04:52 (4.584 entradas, sin refresh) — **2/2 fuentes ÚTILES** para completar **60/60 útiles exactos** del pedido L32. Cabeza WL-375 (`aYzPfeaaJqU`, índice 68) verificada contra el cache (WL-374 = índice 67). Ciclo completo por fuente. Fuentes: WL-375 Maxi Fontán (sketch profesores geografía, general), WL-376 Ebm Informática (kit 10 programas USB, electronica-practica). Skips: 0; meta-fails: 0; 429: ninguno (salida 45.239.32.215 todo el pedido, presupuesto 400 nunca alcanzado, contador acumulado ~332 al cierre). **PEDIDO L32 COMPLETADO: 60/60 útiles** (tramos 57-60 inline fallback: T57 5/5, T58 1/1, T59 7/7 excedido, T60 2/2 = total 60). Sin 429, sin TRAMO-CLOSED, única salida 45.239.32.215 (Proton UE) en todo el pedido. Consolidación de tramos 48-60 diferida (L12). Apagado de Windows descartado por L33.
+
+- L34 (2026-11-16): «Procesa 60 fuentes de la lista WL de Youtube / Comienza desde la cabeza. / Recuerda procesar en un unico sub-agente. / con relevo cada 5 fuentes». Pedido nuevo tras L32 (WL-376). Cabeza real: `ahNg1-lLkvQ` (índice 0 del cache fresco de 04:5x re-listado; «¡James Webb acaba de observar Plutón…»). Serie objetivo: WL-377..WL-436 (60 útiles), tramos 61-72, relevo cada 5. Reglas vigentes: S4 sin dominios nuevos, L12 consolidación diferida, L13 sin push salvo orden.
