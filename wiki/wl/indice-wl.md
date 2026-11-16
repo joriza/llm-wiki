@@ -151,3 +151,17 @@ Cabeza futura del backlog: **WL-336** (índice 29 del cache fresco de 04:52).
 | WL-340 | Mi stack real de IA para programar (`tR632IiOxaY`) | Fazt | agentes-de-codigo o ia-uso-practico — patrocinio CodeRabbit excluido; cruces [[multiplexores-agentes]], WL-325/331/332/333; Fazt +1 |
 
 Cabeza futura del backlog: **WL-341** (índice 34 del cache fresco de 04:52).
+
+## Tramo 53 — activo (relevo 6, pedido L32, 2026-11-16)
+
+5 fuentes ÚTILES ingestadas (raw en `raw/wl/tramo-53/`, resúmenes en `wiki/wl/tramo-53/`); sin skips, sin meta-fails; salida 45.239.32.215 sin 429 (L13; presupuesto suave 400 nunca alcanzado). Dominios destino previstos (S4, sin dominios nuevos; consolidación diferida):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| WL-341 | Vim: la imitación gratuita que le ganó al original (`kMn9gZFeuS0`) | Archivo del Futuro | general (historia tecnología) o informatica-teoria — cruces cluster historia WL-328/335/339/313/200/117/323, [[historia-de-la-tecnologia]]; Archivo del Futuro +1 |
+| WL-342 | Qwen 3.6 35B A3B en Pi-Agent: más inteligente y rápido con MoE (`MFf8WPXHESw`) | Nichonauta | ia-uso-practico/ia-local — demo local RTX 3060; cruces WL-333 (mismo modelo), WL-102, [[hardware-para-ia-local]]; Nichonauta +1 |
+| WL-343 | Despliega tu propio Bitly — gratis y open source (`rGwNTdniad0`) | Pelado Nerd | general (herramientas) o self-hosting — patrocinio HostGator excluido; Pelado Nerd +1 |
+| WL-344 | A mi amigo le pagaron $2.500 por arreglar en 20 minutos lo que otro hizo en 3 meses (`x9Du54J0EaE`) | Código Espinoza — Automatiza tu Vida | general (programación/negocio) — caso anecdótico no verificable, señalado; cruces [[bases-de-datos]], WL-343; Código Espinoza 1.ª fuente |
+| WL-345 | La IA está cambiando TODO para los programadores (`3q3WqwxVbXY`) | hdeleon.net | ia-critica-y-fronteras — opinión de 1.ª mano sin datos agregados, señalada; cruces WL-340, WL-325/165, WL-332, [[agentes-de-codigo]] |
+
+Cabeza futura del backlog: **WL-346** (índice 39 del cache fresco de 04:52).
