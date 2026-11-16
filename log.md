@@ -3924,3 +3924,10 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Primer `--one` (16:11, presupuesto 500): DL 1/4473 sobre `9x3TDT3Gyc4` → **429 al minuto** → TRAMO-CLOSED, sin reintentar (regla del encargo). Salida vigente `45.239.32.215`, flaggeada para descargas (registrada en `.atl/salidas.md`).
 - **0 fuentes útiles procesadas, 0 skips, 0 descargas completadas, 0 commits de contenido**; sin cambios en index.md ni raw/. Cabeza futura sin cambios: **WL-477 (`9x3TDT3Gyc4`, índice 0 del cache)** — requiere rotación de salida (playbook 429) antes del re-lanzamiento del relevo 1.
 - Contador: «Pedido L37: **0/15 útiles**» (restan 15; T84/T85 siguen pendientes tras T83).
+
+## [2026-11-16] ingesta WL | tramo 79 — TRAMO-CLOSED por 429 en ruta celular (pedido L37, relevo 1, RE-LANZAMIENTO)
+
+- Segundo intento del relevo 1 (decisión del usuario: fetch de subtítulos por RUTA CELULAR USB, `FYT_SOURCE=192.168.227.45`). Cabeza L36 re-verificada: cache `.atl/scratch/playlist-ver-mas-tarde.json` (4.473 entradas), índice 0 = `9x3TDT3Gyc4` = WL-477 → **coincide, sin re-listado**.
+- El runner rotó la salida a `fyt:192.168.227.45` (EXIT-ROTATED, presupuesto reiniciado) pero la **sonda de salida recibió 429** (PROBE-FAILED, exit 4, 16:17) → **ninguna fuente gastada**. TRAMO-CLOSED sin reintentar (regla: cualquier 429, incluso por ruta celular).
+- **0 fuentes útiles, 0 skips, 0 descargas completadas, 0 commits de contenido**; sin cambios en index.md ni raw/. La ruta celular `192.168.227.45` queda flaggeada para descargas (`.atl/salidas.md`).
+- Cabeza futura sin cambios: **WL-477 (`9x3TDT3Gyc4`, índice 0 del cache)**. Contador: «Pedido L37: **0/15 útiles**» (T84/T85 pendientes). Próximo paso: nueva decisión de salida del usuario (la ruta celular dio 429 en la sonda; verificar asignación de IP/firing de la puerta antes de otro re-lanzamiento).
