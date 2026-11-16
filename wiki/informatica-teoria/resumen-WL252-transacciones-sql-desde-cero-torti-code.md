@@ -1,6 +1,6 @@
 # WL-252 — Transacciones SQL desde cero: lo que necesitas para usarlas
 
-- **Fuente original**: `raw/general/2026-10-11-transacciones-sql-desde-cero-lo-que-necesitas-para-usarlas.md`
+- **Fuente original**: `raw/informatica-teoria/2026-10-11-transacciones-sql-desde-cero-lo-que-necesitas-para-usarlas.md`
 - **Video**: [Transacciones SQL desde cero: lo que necesitas para usarlas](https://www.youtube.com/watch?v=9N-ndDvIzWo)
 - **Canal**: Torti Code · **Publicado**: 2026-10-11 · **Duración**: 12:18 · **Ingesta**: 2026-11-15 (tramo 36)
 

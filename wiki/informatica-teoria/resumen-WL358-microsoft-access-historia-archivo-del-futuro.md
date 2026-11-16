@@ -1,6 +1,6 @@
 # WL-358 — Microsoft Access: el archivo que nadie se anima a tocar
 
-- **Fuente original**: `raw/general/2026-09-16-microsoft-access-el-archivo-que-nadie-se-anima-a-tocar.md` ([vídeo](https://www.youtube.com/watch?v=NllJOVKk9kI))
+- **Fuente original**: `raw/informatica-teoria/2026-09-16-microsoft-access-el-archivo-que-nadie-se-anima-a-tocar.md` ([vídeo](https://www.youtube.com/watch?v=NllJOVKk9kI))
 - **Canal**: Archivo del Futuro
 - **Publicado**: 2026-09-16 · **Duración**: ~23:30 · **Ingesta**: 2026-11-16 (tramo 56)
 - **Tipo**: documental histórico (2.ª mano: prensa de época, crónicas FoxPro, guía O'Reilly, documentación Microsoft — citadas sin enlaces)

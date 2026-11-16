@@ -1,6 +1,6 @@
 # WL-356 — MySQL: vendió su creación y tuvo que clonarla para salvarla
 
-- **Fuente original**: `raw/general/2026-09-16-mysql-vendio-su-creacion-y-tuvo-que-clonarla-para-salvarla.md` ([vídeo](https://www.youtube.com/watch?v=pzeCFyhCuP8))
+- **Fuente original**: `raw/informatica-teoria/2026-09-16-mysql-vendio-su-creacion-y-tuvo-que-clonarla-para-salvarla.md` ([vídeo](https://www.youtube.com/watch?v=pzeCFyhCuP8))
 - **Canal**: Archivo del Futuro
 - **Publicado**: 2026-09-16 · **Duración**: ~21:30 · **Ingesta**: 2026-11-16 (tramo 55)
 - **Tipo**: videoensayo histórico-documental (2.ª mano: fuentes citadas — Axmark 2007, The Register, OS News, Dev Class, Stack Overflow — sin enlaces)

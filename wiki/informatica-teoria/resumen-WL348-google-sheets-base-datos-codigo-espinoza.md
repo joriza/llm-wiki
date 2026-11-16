@@ -1,6 +1,6 @@
 # WL-348 — Google Sheets como base de datos: el momento exacto en que revienta
 
-- **Fuente original**: `raw/general/2026-09-19-google-sheets-como-base-de-datos-el-momento-exacto-en-que-revienta.md` ([vídeo](https://www.youtube.com/watch?v=QKq3pffWbVA))
+- **Fuente original**: `raw/informatica-teoria/2026-09-19-google-sheets-como-base-de-datos-el-momento-exacto-en-que-revienta.md` ([vídeo](https://www.youtube.com/watch?v=QKq3pffWbVA))
 - **Canal**: Código Espinoza - Automatiza tu Vida
 - **Publicado**: 2026-09-19 · **Duración**: 05:33 · **Ingesta**: 2026-11-16 (tramo 54)
 - **Tipo**: divulgación técnica/tutorial (límites reales verificados con demo)

@@ -1,6 +1,6 @@
 # WL-341 · Vim: la imitación gratuita que le ganó al original
 
-- **Fuente**: [`raw/general/2026-09-21-vim-la-imitacion-gratuita-que-le-gano-al-original.md`](../../raw/general/2026-09-21-vim-la-imitacion-gratuita-que-le-gano-al-original.md) — vídeo de YouTube `kMn9gZFeuS0`
+- **Fuente**: [`raw/informatica-teoria/2026-09-21-vim-la-imitacion-gratuita-que-le-gano-al-original.md`](../../raw/general/2026-09-21-vim-la-imitacion-gratuita-que-le-gano-al-original.md) — vídeo de YouTube `kMn9gZFeuS0`
 - **Canal**: Archivo del Futuro
 - **Publicado**: 2026-09-21 · **Duración**: 25:22
 - **Tipo**: divulgación histórica de la tecnología (software)

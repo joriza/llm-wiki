@@ -1,6 +1,6 @@
 # WL-339 · Token Ring: por qué Ethernet le ganó a la red de IBM
 
-- **Fuente**: [`raw/general/2026-09-24-token-ring-por-que-ethernet-le-gano-a-la-red-de-ibm.md`](../../raw/general/2026-09-24-token-ring-por-que-ethernet-le-gano-a-la-red-de-ibm.md) — vídeo de YouTube `FhckjDk-WNU`
+- **Fuente**: [`raw/informatica-teoria/2026-09-24-token-ring-por-que-ethernet-le-gano-a-la-red-de-ibm.md`](../../raw/general/2026-09-24-token-ring-por-que-ethernet-le-gano-a-la-red-de-ibm.md) — vídeo de YouTube `FhckjDk-WNU`
 - **Canal**: ARCHIVO DEL FUTURO
 - **Publicado**: 2026-09-23 · **Duración**: 25:16
 - **Tipo**: divulgación histórica (historia de la tecnología/redes)

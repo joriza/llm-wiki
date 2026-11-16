@@ -1,6 +1,6 @@
 # WL-246 — 8 patrones de API que los desarrolladores SENIOR usan TODO el tiempo
 
-- **Fuente original**: `raw/general/2026-10-06-8-patrones-de-api-que-los-desarrolladores-senior-usan-todo-el-tiempo.md`
+- **Fuente original**: `raw/informatica-teoria/2026-10-06-8-patrones-de-api-que-los-desarrolladores-senior-usan-todo-el-tiempo.md`
 - **Video**: [8 patrones de API que los desarrolladores SENIOR usan TODO el tiempo](https://www.youtube.com/watch?v=Ed94R7RKGq8)
 - **Canal**: Cognix · **Publicado**: 2026-10-06 · **Duración**: 08:16 · **Ingesta**: 2026-11-15 (tramo 35)
 

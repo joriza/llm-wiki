@@ -1,6 +1,6 @@
 # WL-216 · Benchmark de lenguajes de programación: ¿cuál gana?
 
-- **Fuente original**: `raw/general/2026-10-17-benchmark-de-lenguajes-de-programacion-cual-gana.md`
+- **Fuente original**: `raw/informatica-teoria/2026-10-17-benchmark-de-lenguajes-de-programacion-cual-gana.md`
 - **Video**: [Benchmark de lenguajes de programación: ¿cuál gana?](https://www.youtube.com/watch?v=y3Fjr2LGW_w)
 - **Canal**: CodeSimple
 - **Publicado**: 2026-10-17 · **Duración**: 17:58 · **Ingesta**: 2026-11-15 (tramo 30, formato dominio pendiente de consolidación)

@@ -1,6 +1,6 @@
 # WL-217 · El Lenguaje Latinoamericano Que Supera A Python
 
-- **Fuente original**: `raw/general/2026-10-13-el-lenguaje-latinoamericano-que-supera-a-python.md`
+- **Fuente original**: `raw/informatica-teoria/2026-10-13-el-lenguaje-latinoamericano-que-supera-a-python.md`
 - **Video**: [El Lenguaje Latinoamericano Que Supera A Python 🦅🐍](https://www.youtube.com/watch?v=VW9WXSZ7HfE)
 - **Canal**: Tirando Código
 - **Publicado**: 2026-10-13 · **Duración**: 11:44 · **Ingesta**: 2026-11-15 (tramo 30, formato dominio pendiente de consolidación)

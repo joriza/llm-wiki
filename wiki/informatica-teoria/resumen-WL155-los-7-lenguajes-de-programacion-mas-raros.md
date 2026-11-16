@@ -1,9 +1,9 @@
 # WL-155 · Los 7 lenguajes de programación MÁS RAROS
 
-- **Fuente original**: `raw/general/2026-10-25-los-7-lenguajes-de-programacion-mas-raros.md`
+- **Fuente original**: `raw/informatica-teoria/2026-10-25-los-7-lenguajes-de-programacion-mas-raros.md`
 - **Video**: [ZlfY3tF3qBY](https://www.youtube.com/watch?v=ZlfY3tF3qBY)
 - **Canal**: LinuxChad · Publicado 2026-10-25 · Duración 16:00
-- **Dominio previsto** (consolidación diferida): general (historia/cultura de la programación — lenguajes esotéricos)
+- **Dominio previsto** (consolidación diferida): informatica-teoria (historia/cultura de la programación — lenguajes esotéricos)
 
 ## Qué trata
 

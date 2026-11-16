@@ -1,6 +1,6 @@
 # WL-269 — «Todo el machine learning en un solo video: los 6 modelos que usa tu empresa, escritos en Python» (Código Espinoza)
 
-- **Fuente original**: `raw/general/2026-10-07-todo-el-machine-learning-en-un-solo-video-los-6-modelos-que-usa-tu-empresa-escri.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/informatica-teoria/2026-10-07-todo-el-machine-learning-en-un-solo-video-los-6-modelos-que-usa-tu-empresa-escri.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=n_lfGiKs3qQ · Canal Código Espinoza - IA y Machine Learning · Publicado 2026-10-07 · 16:47 · Subtítulos automáticos es
 - **Tramo**: 39, fuente útil 2/5 (posición 81 de 4686; WL-268 = skip `.no-subs`)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): general o ia-uso-practico (educación técnica ML clásico; cruces con el cluster programación/IA)
