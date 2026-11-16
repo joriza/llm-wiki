@@ -1,6 +1,6 @@
 # WL-385 — SI LA IA FUESE UNA PERSONA REAL
 
-- **Fuente original**: `raw/general/2026-09-13-si-la-ia-fuese-una-persona-real.md`
+- **Fuente original**: `raw/ia-media-generativa/2026-09-13-si-la-ia-fuese-una-persona-real.md`
 - **Canal**: Maxi Fontán
 - **Publicado**: 2026-09-13 · **Duración**: 00:27
 - **Video**: [`Me4PCYNZZ-Y`](https://www.youtube.com/watch?v=Me4PCYNZZ-Y) · WL-385 (índice 73 del cache, 4.584 entradas)
