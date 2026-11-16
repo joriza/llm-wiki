@@ -25,3 +25,8 @@ Recorrido en formato listado (50 ítems numerados) por la historia y anécdotas 
 - Formato listado YouTube con cortes de audio/video; patrocinio Temu al inicio (excluido de la síntesis, protocolo ítem 12).
 - Contenido bien verificado en líneas generales, algunas fechas presentadas de oído; valor como colección de anécdotas e historia del grupo en un solo lugar.
 - Dominio destino: general (cultura argentina; consolidación diferida, S4 sin dominios nuevos).
+
+
+## Ver también
+
+- [[el-profe-garcia]]

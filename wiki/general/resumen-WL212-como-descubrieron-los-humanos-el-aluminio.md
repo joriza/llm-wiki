@@ -25,3 +25,9 @@ Historia del aluminio: por qué el metal más abundante de la corteza terrestre 
 - Divulgación histórica de calidad, sin citas: hechos canónicos bien establecidos (Hall-Héroult, Bayer, monumento a Washington); anécdotas señaladas con prudencia por el propio canal. El dato "aluminio = 8 % de la corteza, más que hierro+cobre+plata+oro" es aproximación común de divulgación (verificar en consolidación si se usa).
 - Cruces previstos: historia de la tecnología (WL-117 Autodesk, WL-162 Titanes, WL-200 Verbatim, WL-114 retrocomputing), tema "el valor es dificultad de acceso, no escasez" — paralelo directo con WL-209 (el precio de la 5090 lo fija la dificultad del chip frente a compradores que pagan más; misma lógica económica, señalada en el resumen de WL-209), energía/infraestructura (WL-142/WL-151).
 - Dominio previsto: general (historia de la tecnología/materiales) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]
+- [[meritocracia-y-moral-del-esfuerzo]]

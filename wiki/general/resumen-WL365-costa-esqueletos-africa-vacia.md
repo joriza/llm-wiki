@@ -108,3 +108,9 @@ Explicación geográfica, histórica y económica del **vacío demográfico de 3
 - elefantes-adaptados-desierto / leones-desierto / lobos-marinos-cabo — fauna adaptada.
 - parques-nacionales-costa-sudoeste-africa — cadena continua de protección.
 - [[vacío-demografico-costa-oeste-africa]] — concepto integrador del video.
+
+## Ver también
+
+- [[historia-software-corporativa]]
+- [[seguridad-fuera-del-modelo]]
+- [[vacío-demografico-costa-oeste-africa]]

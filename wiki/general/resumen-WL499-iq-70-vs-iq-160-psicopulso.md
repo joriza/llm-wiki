@@ -38,3 +38,12 @@ De las mejores divulgaciones del tramo: estructura clara, fuentes citadas y mati
 ## Consolidación (T90)
 
 Dominio definitivo: `general/` (divulgación cognitiva). Canal Psicopulso: 1.ª fuente, texto plano (umbral <2; candidata a entidad si acumula). Cruces en texto: [[delegacion-cognitiva-ia]], [[percepcion-de-regresion-de-modelos]] (instrumentos que no miden donde se quiere), WL-139/164/401. Sin contradicciones nuevas; cifras (30.000, 14 %, Flynn) quedan 2.ª mano por verificar.
+
+
+## Ver también
+
+- [[brecha-junior-ia]]
+- [[delegacion-cognitiva-ia]]
+- [[desarrollo-con-modelos-locales]]
+- [[percepcion-de-regresion-de-modelos]]
+- [[seguridad-fuera-del-modelo]]

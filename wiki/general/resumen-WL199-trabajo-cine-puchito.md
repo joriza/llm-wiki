@@ -22,3 +22,8 @@ Videoensayo de Puchito Cine que lee la historia del trabajo moderno a través de
 
 - Videoensayo audiovisual de opinión y crítica de cine: marco histórico correcto en lo general (Chicago 1886, Patagonia trágica, Bayer) pero sin citas ni fuentes verificables y con guion de autor (interpretaciones personales sobre flexibilización, Estado y tecnofeudalismo) — NO fuente factual; sesgo editorial explícito señalado en triage. Posible error de ASR («Elías Bailman» por Elías Barman/Neuman — la novela de referencia es de Elías Neuman según el propio video).
 - Cierre con autopromoción del canal (membresías, redes) excluida de la síntesis.
+
+
+## Ver también
+
+- [[futuro-del-trabajo]]

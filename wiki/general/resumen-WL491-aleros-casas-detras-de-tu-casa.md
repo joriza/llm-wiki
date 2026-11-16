@@ -36,3 +36,8 @@ Divulgación técnica excelente: física explícita, causas ordenadas por peso (
 
 - Migrado a dominio definitivo y cableado:
 - - Patrón «margen de seguridad eliminado por optimización»: [[resumen-WL490-lago-peigneur-global-archive]] (consolidados juntos) · [[resumen-WL151-algo-esta-fallando-trenes-carreteras-espana]] («se inaugura, no se mantiene») · [[resumen-WL126-tren-urquiza-7-cosas-que-no-sabes-y-el-proyecto-que-no-fue]] / [[resumen-WL142-rieles-viejos-junto-a-la-via]] (hogar/infra)
+
+
+## Ver también
+
+- [[futuro-del-trabajo]]

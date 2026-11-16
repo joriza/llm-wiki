@@ -37,3 +37,8 @@ El título se cumple en la conclusión del video: en el norte siempre lucharon �
 - **Dominio destino previsto: `general/`** (historia — junto con WL-37 Verne y WL-71 Einstein en el clúster historia-divulgación de calidad).
 - **WL-66 (Kreimer)**: la tesis «EE. UU. no es solo Trump, es un sistema institucional» tiene aquí su espejo histórico a mil años de distancia — «el imperio como sistema de información y doctrina, no como ejército». Cruce conceptual fuerte para consolidación.
 - Tema-candidato (débil): la expedición de Björn Ironside 859-862 como estudio de caso — probablemente cubierto por esta ficha sola.
+
+
+## Ver también
+
+- [[narrativa-miedo-ia]]

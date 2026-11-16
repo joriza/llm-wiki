@@ -36,3 +36,9 @@
 ## ADVERTENCIA
 
 Contenido de espectáculo con marco ideológico cargado; identidades y resultados no verificados por ASR; no citar casos individuales como hechos sin fuente primaria.
+
+
+## Ver también
+
+- [[el-profe-garcia]]
+- [[realidad-como-espectaculo]]

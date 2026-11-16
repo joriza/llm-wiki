@@ -30,3 +30,8 @@ Biografía documental cerrada por dos escenas espejo: el disparo de 1886 (su sob
 
 - **Dominio destino previsto: `general/`** (biografía/literatura — sin dominio propio de humanidades; primera fuente biográfica no-tecnológica de este tipo desde la bio de Jensen Huang, que sí fue historia-informatica).
 - Tema-candidato a página de concepto en consolidación: **la relación ciencia-ficción ↔ ingeniería real** (Verne→Apolo; el «método Verne» de documentación como técnica de predicción) — conecta con el clúster de divulgación científica WL-35 y con la serie «Forjadores» (canal de biografías «mentes que cambiaron el mundo»).
+
+
+## Ver también
+
+- [[coordenada-critica]]

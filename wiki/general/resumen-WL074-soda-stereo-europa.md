@@ -25,3 +25,8 @@
 
 - **Dominio destino previsto: `historia-argentina/`** o `general/` — historia cultural; complementa el eje dictadura-democracia y el desfase cultural de los 80 (punk censurado, cine atrasado un año, VHS).
 - Cruce potencial con WL-73 (misma era menemista-argentina, distinto ángulo: corrupción vs cultura) solo por dominio compartido; tema-candidato: **«globalización cultural tardía»** (el desfase pre-Internet vs la conquista por YouTube).
+
+
+## Ver también
+
+- [[seguridad-fuera-del-modelo]]

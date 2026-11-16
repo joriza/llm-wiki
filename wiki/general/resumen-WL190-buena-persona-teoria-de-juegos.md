@@ -19,3 +19,8 @@ Videoensayo de divulgación sobre teoría de juegos y cooperación, estructurado
 - Divulgación de calidad con fuentes nombradas (RAND, Axelrod, Acheson, estudio de Thaler, entrevista Radiolab); citas textuales de libros y papers transcritas en el raw.
 - Título clickbait desalineado del contenido (el ensayo no condena a nadie al fracaso; es sobre diseño de incentivos) — señalado en triage.
 - Cruce natural con general (economía/comportamiento) y posibles páginas de concepto (dilema del prisionero, tit-for-tat) en consolidación; patrocinios: ninguno (cierre con autobombo del canal, excluido). Dominio previsto: general (consolidación diferida, L12).
+
+
+## Ver también
+
+- [[castigo-altruista-venganza]]

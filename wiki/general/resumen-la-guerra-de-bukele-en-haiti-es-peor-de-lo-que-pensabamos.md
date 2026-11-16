@@ -27,3 +27,9 @@ Formato VisualPolitik estándar: montaje dramático en el título («PEOR de lo 
 - La tesis editorial («Haití se traga a quien intente poner orden») es un marco interpretativo con apoyo histórico real, pero no una predicción — el propio vídeo deja la pregunta abierta al público.
 - Patrocinio excluido de la síntesis: máster en IA de Visual Business School/UTAM (bloques [03:34-06:04] y [21:24-21:50]) con cifras de mercado laboral (Meta, PwC) propias de la publicidad.
 - Sin dominio propio para geopolítica no argentina: clasificada en general/ por regla de la lista. Cruce: [[visualpolitik]] (entidad del canal — esta es una fuente más de su patrón «es PEOR de lo que pensábamos») y conexión temática con la comparación El Salvador-Argentina de [[resumen-no-es-crisis-es-colapso-educacion-argentina]] (Bukele citado allí como referencia educativa regional).
+
+
+## Ver también
+
+- [[modelo-bukele-haiti]]
+- [[seguridad-fuera-del-modelo]]

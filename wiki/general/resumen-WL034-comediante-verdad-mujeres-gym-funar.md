@@ -38,3 +38,8 @@ El monólogo del comediante **Shane Gillis** como host de Saturday Night Live (c
 - **Dominio destino previsto: `general/`** (guerra cultural / debate de género sin anclaje argentino; no encaja en sociedad-argentina).
 - **[[ia-y-sociedad]] / clúster de crítica social**: el caso reproduce el patrón de inflación de lenguaje y cancelación como debate de ecosistema mediático — primera fuente de la wiki sobre guerra cultural anglo/latam en el gym-paraíso del short-tubo; candidata a concepto «inflación de lenguaje» en consolidación (junto con el patrón «si X entonces nada es X» ya presente en la crítica de WL-31 a los datos de IA en educación).
 - El caso SNL y Sydney Sweeney son eventos de 2026 no cubiertos por otras fuentes de la wiki — laguna declarada.
+
+
+## Ver también
+
+- [[comparacion-social]]

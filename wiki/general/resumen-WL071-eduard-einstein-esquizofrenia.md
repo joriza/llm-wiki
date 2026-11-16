@@ -42,3 +42,8 @@
 - **Dominio destino previsto: `general/`** (biografía/historia — como WL-37 Verne; primera fuente de historia de la medicina/psiquiatría).
 - Tema-candidato: **Mileva Marić** (la científica olvidada + la madre cuidadora — el video la pone en el centro; conectaría con la historiografía sobre Mileva) y **eugenesia en la psiquiatría europea** (Bleuler; «los métodos de los espartanos» de Einstein) — dos candidatos de concepto.
 - Patrón con WL-37/64/69 (historia bien contada con fuentes) — serie de calidad del clúster historia-divulgación.
+
+
+## Ver también
+
+- [[seguridad-fuera-del-modelo]]

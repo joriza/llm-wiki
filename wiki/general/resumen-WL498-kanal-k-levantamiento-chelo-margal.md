@@ -34,3 +34,9 @@ Pieza nostálgica bien hilada que cita sus fuentes (Nielsen, entrevista a Castel
 ## Consolidación (T90)
 
 Dominio definitivo: `general/` (primera opción registrada; historia cultural TV — la variante sociedad-argentina queda registrada como reubicación trivial si se prefiere). Canal Chelo Margal: 1.ª fuente, texto plano. Cruces en texto: WL-143 (Raúl Portal, marco docudrama TV), WL-297 (Mazinger Z en España), WL-149 (Pablo Molinari, humor nostálgico), WL-251 (satírico). Tesis «excusa no causa»: especulación declarada del autor — sin verificación primaria (Nielsen tomo 6 citado, no verificado).
+
+
+## Ver también
+
+- [[ia-local-texto]]
+- [[pablo-molinari]]

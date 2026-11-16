@@ -31,3 +31,8 @@ Thought experiment narrado en segunda persona: quedas atrapado repitiendo el mis
 ## Veredicto de triage
 
 Pieza narrativa de calidad (estructura de guion impecable, pista del final sembrada desde el minuto 1) con didáctica real incrustada; como fuente factual vale poco por diseño, como ensayo especulativo es sólida. Conservar con la marca NO factual.
+
+
+## Ver también
+
+- [[franco-pisso]]

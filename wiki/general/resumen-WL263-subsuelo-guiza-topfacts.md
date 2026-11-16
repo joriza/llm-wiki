@@ -33,3 +33,9 @@ Docu-ensayo (40 min, narración canalizada con clickbait en el título) que reco
 ## Dominio destino sugerido (pendiente de consolidación)
 
 `general` (historia/arqueología) — a decidir en consolidación; candidata a baja si se decide purgar content-farm clickbait.
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]
+- [[verificacion-como-valor]]

@@ -24,3 +24,9 @@ Análisis de la verificación de desarrolladores de Android: desde el 30 de sept
 - Cifra «99 % de apps ya registradas» citada de Google sin fuente independiente; predicción de 2027 global es el plan anunciado por Google, no hecho consumado.
 - Cruces previstos: WL-150 (tecnología/privacidad), WL-174 (Winux 11 LTSC — alternativas de escritorio), WL-113 (herramienta cloud), WL-172/WL-173 (ecosistemas cerrados), concepto candidato «verificación de desarrolladores como puerta de censura». Canal PepoTech queda en texto plano (consolidación T40, 2026-11-15: una sola fuente en el conjunto, bajo el umbral ≥2 — precedente lint).
 - Dominio previsto: general (tecnología/privacidad) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[seguridad-fuera-del-modelo]]

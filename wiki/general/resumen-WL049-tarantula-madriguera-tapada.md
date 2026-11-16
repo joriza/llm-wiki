@@ -30,3 +30,8 @@ Tapar la madriguera de una tarántula con una piedra no la mata ni la atrapa: **
 - **Dominio destino previsto: `general/`** (divulgación científica/biología — sin dominio propio de ciencias naturales).
 - **WL-35 (Dato Oculto)**: patrón compartido de calidad — «metodología con citas verificables» como marcador de canal confiable en la consolidación de divulgación.
 - Tema-candidato (débil): biología de espera/metabolismo extremo como contrapunto al clúster fitness-senior (adaptación al ayuno vs sarcopenia) — cruce menor, probablemente no lo vale.
+
+
+## Ver también
+
+- [[fitness-senior]]

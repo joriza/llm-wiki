@@ -35,3 +35,10 @@ Filosofía aplicada «que se puede usar en la vida real»: la reserva estratégi
 - **Dominio destino previsto: `general/`** (filosofía aplicada; sin dominio propio de humanidades).
 - **[[fitness-senior]] no aplica**; cruce débil por método con WL-35 (Dato Oculto): ambos son divulgación con guion sintético de calidad excepcional para su nicho — el patrón de canal «síntesis + honestidad de limitaciones» como señal de fiabilidad en consolidación.
 - Concepto-candidato: **reserva estratégica vs transparencia** (Gracián → Schopenhauer) como primera fuente de filosofía de la wiki.
+
+
+## Ver también
+
+- [[fitness-senior]]
+- [[ia-local-texto]]
+- [[seguridad-fuera-del-modelo]]

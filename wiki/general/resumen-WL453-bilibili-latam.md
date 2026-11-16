@@ -32,3 +32,8 @@ Análisis para creadores de contenido de la **expansión internacional de Bilibi
 ## Veredicto de triage
 
 Divulgación útil para el tema plataformas; conservar con las señales de 2.ª mano.
+
+
+## Ver también
+
+- [[contratacion-nearshore-latam]]

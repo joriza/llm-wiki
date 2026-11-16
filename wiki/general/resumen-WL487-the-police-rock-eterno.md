@@ -36,3 +36,9 @@ Entretenido y bien estructurado, pero pura historia de 2.ª mano sin verificabil
 
 - Migrado a dominio definitivo y cableado:
 - - Industria del espectáculo + 2.ª mano sin citas: [[resumen-WL486-deadpool-elestark]] · [[resumen-WL128-robocop-todos-los-secretos-del-guion-rechazado-a-la-estatua-de-detroit-el-documental]] · [[resumen-WL297-final-mazinger-z-espana-misterios-retro]] · [[resumen-WL148-que-paso-con-jenna-ortega]] · [[historia-de-la-tecnologia]]
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]
+- [[historia-software-corporativa]]

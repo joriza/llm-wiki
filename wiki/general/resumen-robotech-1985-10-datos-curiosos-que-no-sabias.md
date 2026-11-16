@@ -28,3 +28,8 @@ Divulgación nostálgica con disciplina de fuentes poco común en el género: ca
 - Fechas y recuentos contrastables con las fuentes que el propio video cita (catálogos Tatsunoko, comunicado 2021, bibliografía Titan) — en general bien ancladas; el dato del planeta «Glory» conviene verificar contra el material oficial de Southern Cross (el ASR puede degradar el nombre).
 - ASR: «Macros» = Macros/Macross (el video pronuncia «Macross» y el ASR alterna), «Comilia» = Komilia, «Trick» = Rick, «Mospeada» correcto pero variable, «Jack McKini» = Jack McKinney, «el regente Inbit» según guías del universo Robotech — normalizado solo aquí.
 - El video es trivia divulgativa con voz en off narrativa; no aporta material inédito — su valor es la agregación con fuentes.
+
+
+## Ver también
+
+- [[generacion-local-de-imagenes]]

@@ -21,3 +21,9 @@ Verdaguer (mentor teórico), Tangalanga, La Andorisina (casetes de formación; s
 
 - Entretenimiento puramente conversacional — NO fuente factual: anécdotas autobiográficas sin verificación y dominadas por el material humorístico. Valor de la wiki: cultura popular argentina / tradición del chiste corto (línea Verdaguer→Gardinetti) para entidad de humoristas en consolidación. Cruce natural con WL-149 (Pablo Molinari, humor nostálgico).
 - Dominio previsto (pendiente de consolidación, S4 sin dominios nuevos): general/sociedad-argentina (humor).
+
+
+## Ver también
+
+- [[pablo-molinari]]
+- [[verificacion-como-valor]]

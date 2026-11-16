@@ -22,3 +22,8 @@ Divulgación experimental de calidad: mezcla historia (halita azul, Superfest), 
 
 - Cruces: dominio destino sugerido: general (química/divulgación científica), a migrar en consolidación.
 - Canal Thoisoi ES sin presencia previa en la wiki (1.ª fuente — umbral <2, texto plano; filial hispana del canal ruso Thoisoi).
+
+
+## Ver también
+
+- [[del-plano-al-hierro]]

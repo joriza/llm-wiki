@@ -37,3 +37,8 @@ Listicle divulgativo bien construido: 10 marcos teóricos sobre qué es la grave
 ## Veredicto de triage
 
 Resumen ordenado y honesto sobre el estado de la física; útil como mapa conceptual. Conservar.
+
+
+## Ver también
+
+- [[naturaleza-insolita]]

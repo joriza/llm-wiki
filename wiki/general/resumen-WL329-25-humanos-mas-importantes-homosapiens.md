@@ -22,3 +22,10 @@ Regla única del listado: no fama ni poder, sino contrapunto contrafáctico — 
 
 - [[historia-de-la-tecnologia]] — concepto consolidado; la genealogía Turing→Hinton→IA actual cruza con [[agentes-de-codigo]].
 - WL-162/166/200/313/328 — cluster de historia tecnológica y del software.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[historia-de-la-tecnologia]]
+- [[historia-software-corporativa]]

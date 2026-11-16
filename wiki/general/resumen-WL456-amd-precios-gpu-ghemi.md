@@ -36,3 +36,8 @@ Extracto de directo del youtuber uruguayo Guille Ghemi reaccionando a la compara
 ## Veredicto de triage
 
 Análisis de mercado con datos en vivo y autocorrección honesta; conservar.
+
+
+## Ver también
+
+- [[routing-por-coste]]

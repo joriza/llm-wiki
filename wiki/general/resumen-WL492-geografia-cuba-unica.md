@@ -33,3 +33,8 @@ Tesis transversal: la geografía (tamaño, forma, posición, placas) explica a l
 ## Veredicto de triage
 
 Divulgación geográfica clara, informativa y honesta en lo estructural (los 20 datos existen y el abismo final no es clickbait), pero sin fuentes citadas: útil como mapa mental de Cuba, no como referencia factual. Conservar con la señal.
+
+
+## Ver también
+
+- [[evolucion-humana]]

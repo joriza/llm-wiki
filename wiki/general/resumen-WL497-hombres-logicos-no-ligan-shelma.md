@@ -35,3 +35,11 @@ Contenido breve, coherente y accionable (escucha activa + lectura de señales), 
 ## Consolidación (T90)
 
 Dominio definitivo: `general/` (primera opción registrada; subgénero dating NO factual — el clúster dating consolidado vive aquí: WL-302/303/304 MINDVEIL con entidad [[mindveil]]). Canal Shelma: 1.ª fuente, texto plano (umbral <2). Cruces en texto: WL-131, WL-219. Sin contradicciones.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[brecha-junior-ia]]
+- [[franco-pisso]]
+- [[futuro-del-trabajo]]

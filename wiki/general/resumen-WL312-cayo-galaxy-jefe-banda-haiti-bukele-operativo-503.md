@@ -21,3 +21,10 @@ Estructura económica del poder pandillero: las bandas controlan la mayor parte 
 
 - Dominio previsto: **general** (geopolítica/seguridad internacional — Haití, El Salvador, República Dominicana). NO fuente factual neutra — señalado en el índice.
 - Cruce candidato: modelo salvadoreño de seguridad (general/sociedad-argentina no aplica; tema conecta con la línea de política latinoamericana del dominio general) y el concepto «peajes/carreteras como economía de las bandas» — evaluable en consolidación. Operativo 503 1.ª fuente (texto plano).
+
+
+## Ver también
+
+- [[ia-local-texto]]
+- [[modelo-bukele-haiti]]
+- [[seguridad-fuera-del-modelo]]

@@ -35,3 +35,9 @@ La caída de la fecundidad es un fenómeno estructural conocido hace décadas �
 - La correlación trabajo remoto ↔ fecundidad del estudio Stanford se cita con la condicional «si el trabajo remoto realmente permite» el balance — el propio canal admite que es evidencia inicial, no causalidad probada.
 - Bloque de patrocinio importante (Global66: transferencias internacionales, rendimientos por divisa y código de afiliados del canal) excluido de la síntesis; los rendimientos promocionados (6 % en CLP, 8 % USD, 11 % COP) son marketing de la fintech, no datos del ensayo.
 - Garbiñeos del ASR normalizados solo aquí: «callampas» (chilenismo: hongos — criados «como las callampas» = sin atención), «odiachicos», «firulais» (perro), «gremlin», «Dart/Dark Global» (código de afiliados, grafía incierta), «Global 66» (fintech Global66 — consistente).
+
+
+## Ver también
+
+- [[captura-de-medios-estatales]]
+- [[industria-cultural]]
