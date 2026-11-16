@@ -194,3 +194,10 @@ Cabeza futura del backlog: **WL-352** (índice 45 del cache fresco de 04:52).
 | WL-356 | MySQL: vendió su creación y tuvo que clonarla para salvarla (`pzeCFyhCuP8`) | Archivo del Futuro | general (historia de la tecnología) o informatica-teoria — cruces [[bases-de-datos]], [[historia-de-la-tecnologia]], WL-296/313 |
 
 Tema de tramo: ecosistema de modelos IA ×3 (Jev, harness, abliteration) + mercado/carrera ×2. Cabeza futura del backlog: **WL-357** (índice 50 del cache fresco de 04:52, `AZCDAoOb6lc`).
+| WL-357 | Esfuerzo, estudio, trabajo: NADA ALCANZA — Mayra Arena en #LaCumbre (`AZCDAoOb6lc`) | SE VIENE | sociedad-argentina o general — entrevista de opinión NO factual; cruces WL-251/255/293/311, WL-221/352 |
+| WL-358 | Microsoft Access: el archivo que nadie se anima a tocar (`NllJOVKk9kI`) | Archivo del Futuro | general (historia de la tecnología) o informatica-teoria — cruces WL-356, [[bases-de-datos]], [[historia-de-la-tecnologia]], WL-252/344/348 |
+| WL-359 | El farmeo de aura se salió de control (`Z01olHMHYkg`) | Danann | general (cultura pop) o sociedad-argentina — sátira NO factual; cruces WL-292/251, WL-357 |
+| WL-360 | Simulacro de entrevista técnica para desarrollador junior #5 (`mSApoq5Htxo`) | TodoCode | ia-uso-practico o general (carrera IT) — cruces WL-352, [[bases-de-datos]], [[delegacion-cognitiva-ia]] |
+| WL-361 | Truco para eliminar la obsolescencia programada en focos (`RSR-JaOYROo`) | EL ANGELITO | electromecanica o general (hogar/reparación) — cruces WL-304/207/235, [[historia-de-la-tecnologia]] |
+
+Tema de tramo: sociedad argentina y mercado laboral ×2 (WL-357/360) + historia técnica ×1 (WL-358) + cultura viral ×1 (WL-359) + reparación/hogar ×1 (WL-361). Cabeza futura del backlog: **WL-362** (índice 55 del cache fresco de 04:52, `L2iMZIVYMAg`).
