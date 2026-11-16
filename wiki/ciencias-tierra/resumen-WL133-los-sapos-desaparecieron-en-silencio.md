@@ -1,6 +1,6 @@
 # WL-133 — Los Sapos Desaparecieron en Silencio… y la Gente Empezó a Enfermar
 
-- **Fuente original**: `raw/general/2026-10-23-los-sapos-desaparecieron-en-silencio-y-la-gente-empezo-a-enfermar.md` (`pimDRIsdq40`, [Naturaleza Insólita](https://www.youtube.com/watch?v=pimDRIsdq40), 2026-10-23, 12:36).
+- **Fuente original**: `raw/ciencias-tierra/2026-10-23-los-sapos-desaparecieron-en-silencio-y-la-gente-empezo-a-enfermar.md` (`pimDRIsdq40`, [Naturaleza Insólita](https://www.youtube.com/watch?v=pimDRIsdq40), 2026-10-23, 12:36).
 - **Canal**: Naturaleza Insólita
 - **Publicado**: 2026-10-23
 - **Tipo**: divulgación naturalista/ecología

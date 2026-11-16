@@ -1,6 +1,6 @@
 # WL-305 — ¿Qué sucede cuando una avispa regresa a casa pero su nido ha desaparecido?
 
-- **Fuente original**: `raw/general/2026-10-22-que-sucede-cuando-una-avispa-regresa-a-casa-pero-su-nido-ha-desaparecido.md` (transcripción automática intacta)
+- **Fuente original**: `raw/ciencias-tierra/2026-10-22-que-sucede-cuando-una-avispa-regresa-a-casa-pero-su-nido-ha-desaparecido.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=pK5aUp6ZCSY
 - **Canal**: ExpPorQué · **Publicado**: 2026-10-22 · **Duración**: 16:51 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)

@@ -1,6 +1,6 @@
 # ¿Llegará una ERA GLACIAL tras el MONSTRUOSO EL NIÑO? ¡La corriente del Golfo se ha DESPLAZADO!
 
-- **Fuente original**: `raw/general/2026-10-24-llegara-una-era-glacial-tras-el-monstruoso-el-nino-la-corriente-del-golfo-se-ha-.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=GJF8sZC2hsc))
+- **Fuente original**: `raw/ciencias-tierra/2026-10-24-llegara-una-era-glacial-tras-el-monstruoso-el-nino-la-corriente-del-golfo-se-ha-.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=GJF8sZC2hsc))
 - **Canal**: AstroTim Español
 - **Publicado**: 2026-10-24 · **Duración**: 18:28 · **Idioma**: es (subtítulos automáticos, normalizados en este resumen)
 - **Recopilado**: 2026-11-15 (tramo 21, WL-173)

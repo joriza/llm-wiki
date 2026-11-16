@@ -1,6 +1,6 @@
 # Resumen: Los seres vivos están empezando a comerse nuestra basura plástica
 
-- **Fuente original**: `raw/general/2026-10-06-los-seres-vivos-estan-empezando-a-comerse-nuestra-basura-plastica.md` (WL-109, tramo 9)
+- **Fuente original**: `raw/ciencias-tierra/2026-10-06-los-seres-vivos-estan-empezando-a-comerse-nuestra-basura-plastica.md` (WL-109, tramo 9)
 - **Canal**: Astrovía
 - **Video**: https://www.youtube.com/watch?v=iTd93ZngVgc
 - **Publicado**: 2026-10-06 · **Duración**: 24:07 · **Idioma**: español (ASR)

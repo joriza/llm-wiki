@@ -1,6 +1,6 @@
 # WL-319 — ¿Por Qué las Mujeres Tienen Glúteos Tan Grandes? ¡La Evolución se Volvió Loca!
 
-- **Fuente original**: `raw/general/2026-11-06-por-que-las-mujeres-tienen-gluteos-tan-grandes-la-evolucion-se-volvio-loca.md`
+- **Fuente original**: `raw/ciencias-tierra/2026-11-06-por-que-las-mujeres-tienen-gluteos-tan-grandes-la-evolucion-se-volvio-loca.md`
 - **Video**: [mc-R71_MSP8](https://www.youtube.com/watch?v=mc-R71_MSP8) (28:36, publicado 2026-11-05)
 - **Canal**: ¿Cómo Así (divulgación científica es, subtítulos automáticos es)
 - **Recopilado**: 2026-11-16 (transcripción de subtítulos automáticos, literal; garbiñeos normalizados solo aquí)

@@ -1,9 +1,9 @@
 # WL-392 — ¿Por qué no comemos carne de hipopótamo?
 
-- **Fuente**: `raw/general/2026-09-05-por-que-no-comemos-carne-de-hipopotamo.md` (`GeVX2kwD98Y`, https://www.youtube.com/watch?v=GeVX2kwD98Y)
+- **Fuente**: `raw/ciencias-tierra/2026-09-05-por-que-no-comemos-carne-de-hipopotamo.md` (`GeVX2kwD98Y`, https://www.youtube.com/watch?v=GeVX2kwD98Y)
 - **Canal**: VerdeSecreto (1.ª fuente WL)
 - **Publicado**: 2026-09-05 · **Duración**: 16:30 · **Idioma**: es (subtítulos automáticos)
-- **Dominio previsto**: general (naturaleza/historia — divulgación)
+- **Dominio previsto**: ciencias-tierra (naturaleza/historia — divulgación)
 - **Tramo**: 64 (relevo 4 de 12 del pedido L34)
 
 ## Qué trata

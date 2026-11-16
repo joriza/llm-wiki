@@ -1,6 +1,6 @@
 # WL-134 — ¿Por Qué Ya No Ves Luciérnagas?
 
-- **Fuente original**: `raw/general/2026-10-13-por-que-ya-no-ves-luciernagas.md` (`G1Ouqo4UflQ`, [Naturaleza Insólita](https://www.youtube.com/watch?v=G1Ouqo4UflQ), 2026-10-13, 10:51).
+- **Fuente original**: `raw/ciencias-tierra/2026-10-13-por-que-ya-no-ves-luciernagas.md` (`G1Ouqo4UflQ`, [Naturaleza Insólita](https://www.youtube.com/watch?v=G1Ouqo4UflQ), 2026-10-13, 10:51).
 - **Canal**: Naturaleza Insólita
 - **Publicado**: 2026-10-13
 - **Tipo**: divulgación naturalista/ecología

@@ -1,6 +1,6 @@
 # WL-306 — La Extraña Razón Evolutiva por la que tu Perro Duerme Contigo (No Es Comodidad)
 
-- **Fuente original**: `raw/general/2026-11-12-la-extrana-razon-evolutiva-por-la-que-tu-perro-duerme-contigo-no-es-comodidad.md` (transcripción automática intacta)
+- **Fuente original**: `raw/ciencias-tierra/2026-11-12-la-extrana-razon-evolutiva-por-la-que-tu-perro-duerme-contigo-no-es-comodidad.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=r2jqrLGXv5U
 - **Canal**: Fosil Metal · **Publicado**: 2026-11-12 · **Duración**: 12:25 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)
