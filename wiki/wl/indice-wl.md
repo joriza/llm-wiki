@@ -59,6 +59,20 @@ Ventana de 5 fuentes ÚTILES EXACTAS desde la cabeza (0 skips, 0 meta-fail). Cab
 
 Tema de tramo: MINDVEIL ×3 (desarrollo-personal/seducción — entidad de canal confirmada para la consolidación; WL-303 el más problemático por su marco de género). **Consolidación diferida (L12)**. Salida 45.239.32.215, sin 429; presupuesto suave 400 nunca alcanzado (contador acumulado 246 al lanzar). Última fuente: WL-305 (`pK5aUp6ZCSY`, índice 4 del cache fresco); cabeza futura: WL-306 (índice 5, `r2jqrLGXv5U`).
 
+## Tramo 46 — estación (relevo 39, pedido L30, 2026-11-16)
+
+Ventana de 5 fuentes ÚTILES EXACTAS desde la cabeza (0 skips, 0 meta-fail). Cabeza verificada contra el cache fresco de 02:19 (4.599 entradas): WL-306 = `r2jqrLGXv5U` (índice 5), primera pendiente tras el tramo 45. Resúmenes en `wiki/wl/tramo-46/`, raws espejados en `raw/wl/tramo-46/`.
+
+| WL | Id | Título | Canal | Dominio previsto |
+|---|---|---|---|---|
+| 306 | r2jqrLGXv5U | La Extraña Razón Evolutiva por la que tu Perro Duerme Contigo | Fosil Metal | general (naturaleza) |
+| 307 | 5HemqDqXJDQ | ¿Cómo Duermen Los Camioneros A -50 °C…? | CurioFosil | general (divulgación técnica) |
+| 308 | PD4McdUXXVo | Tú vs un piloto: qué hace cada uno cuando el coche no obedece | boxboxlabs | general (divulgación técnica/automoción) |
+| 309 | LbcyTbM38zQ | 10 herramientas de la terminal que de verdad te sirven en Linux | xeyt | agentes-de-codigo o informatica-teoria |
+| 310 | 7BpAOEqIY18 | ¡SAL Fundida: El Líquido MÁS PELIGROSO! | Thoisoi ES | general (química) |
+
+Tema de tramo: divulgación factual ligera con canales nuevos ×5 (todos 1.ª fuente); cluster divulgación técnica naturaleza/física/química (WL-306/307/310) + conducción (WL-308) + herramientas dev (WL-309). **Consolidación diferida (L12)**. Salida 45.239.32.215, sin 429; presupuesto suave 400 nunca alcanzado (contador acumulado 251 al lanzar; un BUDGET-REACHED previo resuelto por L13). Última fuente: WL-310 (`7BpAOEqIY18`, índice 9 del cache fresco); cabeza futura: WL-311 (índice 10).
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
