@@ -3935,3 +3935,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-16] ingesta WL | WL-477 — ¿Por qué la Antártida Sigue Aterrorizando a los Científicos?
 
 - Fuente heredada de scratch (`.done` `9x3TDT3Gyc4`, índice 0 del cache post-refresh), procesada SIN re-descargar (precedente T9/T61). Raw espejado intacto a `raw/wl/tramo-79/`; resumen `wiki/wl/tramo-79/resumen-WL477-antartida-homosapiens.md`; fila en index.md. Divulgación Homosapiens con desmonte de mitos (Base 211, pirámide Ellsworth, Decepción 1965) y mundo subglacial real (Bedmap3, Vostok vs Whillans). Dominio previsto: general (consolidación diferida L12, sin dominios nuevos S4). 2.ª mano sin enlaces — señalada. «Pedido L37: 1/15 útiles».
+
+## [2026-11-16] ingesta WL | WL-478 — Entraron al Titanic y No Encontraron Ni Un Hueso
+
+- Fuente heredada de scratch (`.done` `WD3e4ZQClmc`, índice 1 del cache), procesada SIN re-descargar. Raw espejado intacto a `raw/wl/tramo-79/`; resumen `wiki/wl/tramo-79/resumen-WL478-titanic-robots-archivo-perdido.md`; fila en index.md. Divulgación Archivo Perdido (subtítulos manuales): robots del Titanic de Ballard a Magellan, explicación de la ausencia de restos, Halomonas titanicae. Dominio previsto: general (L12, S4). 2.ª mano sin citas al pie — señalada. «Pedido L37: 2/15 útiles».
