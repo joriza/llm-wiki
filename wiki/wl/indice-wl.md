@@ -45,6 +45,20 @@ Los 15 pares útiles migraron a sus dominios definitivos (primera opción regist
 
 SKIP sin migrar (no generó resumen): WL-289 `yucBRF3lSaQ` (SKIP-DUPLICATE, ya procesado). Nota de asignación: en los casos con dos opciones se aplicó la primera opción registrada (WL-288/293/298 → ia-uso-practico; WL-290/295 → ia-local, mismo criterio que WL-283 en T48); WL-294 migró a informatica-teoria para consolidar las tres fuentes Torti Code juntas (WL-286/287/294). Producto de la consolidación T49: concepto nuevo [[percepcion-de-regresion-de-modelos]] (ia-uso-practico/, WL-288+WL-290, umbral ≥2) y actualización de [[torti-code]] (a 17 fuentes, canal dominante), [[nichonauta]] (WL-288/290), [[codesimple]] (WL-295, 2.ª fuente), [[alejavi-rivera]] (WL-299), [[fazt]] (WL-293, 13 fuentes), [[gentleman-programming]] (WL-300), conceptos [[inferencia-local]] (WL-290), [[bases-de-datos]] (WL-285/287), [[deepseek-harness]] (WL-295), [[agentes-de-codigo]] (WL-293/300), [[routing-por-coste]] (cruce WL-298). Enlaces resueltos a texto plano por umbral <2: Maxi Accotto (WL-285), Value School (WL-291), Serudda (WL-292), Tobias Simonetti (WL-298), Manuel Cabrera Caballero (WL-296), Misterios Retro (WL-297). Candidatas aplazadas por umbral: entidad Value School, concepto balanceo-alta-disponibilidad (solo WL-294), yo-sociedad-anonima (solo WL-292).
 
+## Tramo 45 — estación (relevo 38, pedido L29, 2026-11-16)
+
+Ventana de 5 fuentes ÚTILES EXACTAS desde la cabeza (0 skips, 0 meta-fail). Cabeza verificada contra el cache fresco de 02:06 (4.615 entradas): la cabeza real del runner fue `ohq0aleAXlg` (índice 0 del cache fresco — añadido por el usuario tras el cierre de T47), NO la `YiSTV99y3Nw` prevista en el doc; numeración correlativa contra el cache fresco. Resúmenes en `wiki/wl/tramo-45/`, raws espejados en `raw/wl/tramo-45/`.
+
+| WL | Id | Título | Canal | Dominio previsto |
+|---|---|---|---|---|
+| 301 | ohq0aleAXlg | Es aburrido pero lo Arregla Todo | BlueGym Animation | salud-fitness |
+| 302 | VC0bAanxHQE | Cómo lograr que una mujer DISFRUTE cada conversación contigo | MINDVEIL | desarrollo-personal |
+| 303 | sFkgND4ngnw | Cómo se COMPORTAN las mujeres ante el hombre que de verdad quieren | MINDVEIL | desarrollo-personal |
+| 304 | 9c1PE6hK-kI | 5 comportamientos «atrevidos» que excitan inconscientemente a las mujeres | MINDVEIL | desarrollo-personal |
+| 305 | pK5aUp6ZCSY | ¿Qué sucede cuando una avispa regresa a casa pero su nido ha desaparecido? | ExpPorQué | general (naturaleza) |
+
+Tema de tramo: MINDVEIL ×3 (desarrollo-personal/seducción — entidad de canal confirmada para la consolidación; WL-303 el más problemático por su marco de género). **Consolidación diferida (L12)**. Salida 45.239.32.215, sin 429; presupuesto suave 400 nunca alcanzado (contador acumulado 246 al lanzar). Última fuente: WL-305 (`pK5aUp6ZCSY`, índice 4 del cache fresco); cabeza futura: WL-306 (índice 5, `r2jqrLGXv5U`).
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
