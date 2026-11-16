@@ -127,3 +127,18 @@ Cruces candidatos: [[evolucion-humana]] (WL-380 con WL-319/306), cluster semicon
 | 386 | Chile cambia las guías de despacho: app de Python PYMEs | Código Espinoza (+1) | python-practico/ |
 
 Señales: WL-383 videoensayo NO factual (hechos 2.ª mano sin enlaces, señalados); WL-385 ficción humorística (señalada); WL-386 pitch comercial (Patreon excluido). Cruces candidatos: [[archivo-del-futuro]] (WL-384, cluster historia-BD con WL-313/356), [[maxi-fontan]] (3.ª fuente, entidad confirmada), [[codigo-espinoza]] (+1), [[bases-de-datos]] (WL-384/386), cluster divulgación-científica (WL-382 con WL-145/198), ia-critica (WL-383 con WL-354/355, [[ia-china]]). Cabeza futura: WL-387 (índice 75 del cache, `t2DE62wxDxA`).
+
+
+## Tramo 63 — estación activa (relevo 3 de 12 del pedido L34, 2026-11-16)
+
+5 fuentes útiles (WL-387..WL-391; 5 descargas `--one` nuevas con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429). Pendientes de consolidación (L12):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| 387 | Ahora TODOS quieren FRENAR la IA... ¿Por qué? | Dot CSV Lab (1.ª fuente WL) | ia-critica-y-fronteras/ |
+| 388 | Llevé código generado por IA a PRODUCCIÓN | hdeleon.net (+1) | ia-uso-practico/ |
+| 389 | ARGENTINA NO APRENDE: ¿QUIÉN DESTRUYÓ LA EDUCACIÓN? | PDB (1.ª fuente) | sociedad-argentina/ |
+| 390 | Taller de Skills para Agentes de IA desde cero | MoureDev (1.ª fuente) | agentes-de-codigo/ |
+| 391 | La IA que sustituye a tu jefe, no a ti ¿funciona? | Joaquín Ruiz — IA para Desarrolladores (1.ª fuente) | ia-uso-practico/ |
+
+Señales: WL-387 NO verificable como hechos (misma cadena que WL-383 con primitivos coincidentes entre fuentes independientes — señalado; ASR distorsiona nombres de producto); WL-388 cifras de memoria señaladas; WL-389 sátira política con esqueleto factual denso (cifras de memoria señaladas); WL-390 marco comercial de cursos excluido; WL-391 higiene de fuentes buena (limitaciones de los datos de despidos señaladas por el propio video). Cruces candidatos: WL-387+383 (misma semana narrada por canales independientes — consolidar juntos), routing-por-coste (WL-388 con WL-298/346/353), [[hdeleon-net]] +1, [[opencode]] +1 (WL-390), skills-publicables (WL-390 con WL-350), spec-driven development (WL-391 con WL-211), [[inferencia-local]] (WL-391), cluster PDB/sátira (WL-389 con WL-251), entidades candidatas: Dot CSV Lab, PDB, MoureDev, Joaquín Ruiz. Cabeza futura: WL-392 (índice 80 del cache, `GeVX2kwD98Y`).
