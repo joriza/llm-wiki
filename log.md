@@ -3563,3 +3563,7 @@ Migración `git mv` de los 15 pares raw+resumen de `raw/wl/tramo-45..47/` y `wik
 - **Consolidación del tramo 54 diferida (L12)**: entidades a actualizar Código Espinoza (2.ª fuente WL, candidata confirmada), Nichonauta no aplica; canales 1.ª fuente (texto plano): return(GiS);, Xavier Mitjana, Oskr León, JuncoTIC; conceptos candidatos: routing-por-coste (WL-346 se suma a WL-274/278/298), aprendizaje asistido (WL-349 con WL-299).
 - Tema de tramo: demos de producto IA ×3 (WL-346/349/350) + herramientas prácticas ×2 (WL-348/351).
 - **Contador «Pedido L32: 35/60 útiles»** (restan 25 — relevos 8-12). Última fuente con id: **WL-351 (`oGZQnexwp44`)**; cabeza futura **WL-352** (índice 45 del cache fresco de 04:52).
+
+## [2026-11-16] ingesta WL | tramo 55 — relevo 8 del pedido L32 (5 fuentes útiles, cache fresco de 04:52 sin refresh)
+
+- WL-352 `1d6Bvo2GuNQ` «¿Cuánto gana un programador en Argentina en 2026? (La realidad)» (Toto Ruffa, 16:47): videoensayo de sueldos dev por seniority (ARS local / USD remoto) con reflexión sobre cambio de empleo; cifras de 2.ª mano señaladas; NO factual en su sección de opinión. Dominios destino: sociedad-argentina (carrera IT) o general. Toto Ruffa 1.ª fuente; cruces WL-221/257.
