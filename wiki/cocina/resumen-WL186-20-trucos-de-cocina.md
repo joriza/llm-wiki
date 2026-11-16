@@ -34,3 +34,8 @@ Recopilación rápida de 20 trucos domésticos de cocina, sin explicación de me
 - ASR con garbiñeos normalizados solo aquí («cájaras»→cáscaras, «aní»→anís, «Haa»→asar).
 - Sin patrocinios; cierre con llamado a seguir al canal (excluido de la síntesis).
 - Tema aislado en la ventana; candidata a general/ (vida diaria). Sin dominio nuevo.
+
+
+## Ver también
+
+- [[aprovechamiento-pollo-entero]]

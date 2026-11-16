@@ -43,3 +43,8 @@
 - Garbles de ASR normalizados solo aquí: «arbejas» (arvejas), «desbavaar» (desvainar), «zapayo/apayitos/apallitos» (zapallo/zapallitos), «papas pay» (papas paja), «alatado» (atado), «ogareña» (hogareña), «vícera» (víscera), «homoage» no aplica; «municiones» es nombre real de pasta sopa argentina, no garble.
 - Párrafos de cierre repetidos en los bloques 21, 11, 5 y 2 (relleno del guion); eliminados del contenido técnico de este resumen.
 - Metadatos de canal, fecha y duración UNKNOWN en el archivo original.
+
+
+## Ver también
+
+- [[aprovechamiento-pollo-entero]]

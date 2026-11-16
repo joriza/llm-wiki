@@ -42,3 +42,9 @@ Excelente para triage: responde exactamente al caso de uso S2 (saber antes de mi
 ## Consolidación (T90)
 
 Dominio definitivo: `cocina/`. Canal Hiroshi Tanabe: 1.ª fuente, texto plano (umbral <2). Cruce en texto: WL-186 (trucos de vida diaria) y el patrón transversal «revisar la costumbre heredada con un método mejor». Sin contradicciones; química simplificada sin citas — señalada.
+
+
+## Ver también
+
+- [[del-plano-al-hierro]]
+- [[historia-software-corporativa]]
