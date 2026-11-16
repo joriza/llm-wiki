@@ -1,6 +1,6 @@
 # WL-337 · Por qué las medialunas de hoy SON UNA PORQUERÍA
 
-- **Fuente**: [`raw/general/2026-09-20-por-que-las-medialunas-de-hoy-son-una-porqueria.md`](../../raw/general/2026-09-20-por-que-las-medialunas-de-hoy-son-una-porqueria.md) — vídeo de YouTube `go62rrp8rEE`
+- **Fuente**: [`raw/cocina/2026-09-20-por-que-las-medialunas-de-hoy-son-una-porqueria.md`](../../raw/general/2026-09-20-por-que-las-medialunas-de-hoy-son-una-porqueria.md) — vídeo de YouTube `go62rrp8rEE`
 - **Canal**: Marcos Di Cesare
 - **Publicado**: 2026-09-20 · **Duración**: 17:44
 - **Tipo**: divulgación gastronómica con opinión de profesional del rubro

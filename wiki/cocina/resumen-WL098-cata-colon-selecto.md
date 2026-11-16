@@ -1,6 +1,6 @@
 # Resumen: Probamos todos los Colón Selecto — cata de la línea «bebida a base de vino»
 
-- **Fuente original**: `raw/general/2026-10-31-probamos-todos-los-colon-selecto.md` (WL-98, tramo 7)
+- **Fuente original**: `raw/cocina/2026-10-31-probamos-todos-los-colon-selecto.md` (WL-98, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=9fjCMothYAY
 - **Canal**: Matías Jurisich
 - **Publicado**: 2026-10-31 · **Duración**: 17:38 · **Idioma**: es (subtítulos automáticos, transcripción literal)

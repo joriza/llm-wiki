@@ -1,6 +1,6 @@
 # WL-127 — TODO lo que te enseñaron sobre el Asado… ¿Es Mentira?
 
-- **Fuente original**: `raw/general/2026-08-14-todo-lo-que-te-ensenaron-sobre-el-asado-es-mentira-locos-x-el-asado.md` (`14vD09SPQTI`, [Locos X el Asado](https://www.youtube.com/watch?v=14vD09SPQTI), 2026-08-14, 25:35).
+- **Fuente original**: `raw/cocina/2026-08-14-todo-lo-que-te-ensenaron-sobre-el-asado-es-mentira-locos-x-el-asado.md` (`14vD09SPQTI`, [Locos X el Asado](https://www.youtube.com/watch?v=14vD09SPQTI), 2026-08-14, 25:35).
 - **Canal**: Locos X el Asado
 - **Publicado**: 2026-08-14
 - **Tipo**: divulgación culinaria experimental (pruebas prácticas de mitos del asado)

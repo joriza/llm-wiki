@@ -1,6 +1,6 @@
 # WL-186 · 20 Trucos de Cocina que Descubrí Demasiado Tarde!
 
-- **Fuente original**: `raw/general/2026-01-12-20-trucos-de-cocina-que-descubri-demasiado-tarde.md` (`kV_5yDtDWnA`)
+- **Fuente original**: `raw/cocina/2026-01-12-20-trucos-de-cocina-que-descubri-demasiado-tarde.md` (`kV_5yDtDWnA`)
 - **Canal**: Astiavo · **Publicado**: 2026-01-12 · **Duración**: ~2:39 · **Idioma**: español (subtítulos automáticos)
 
 ## Qué trata

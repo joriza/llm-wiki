@@ -1,6 +1,6 @@
 # INFLUENCERS de cocina vs COCINAR de verdad...
 
-- **Fuente**: `raw/general/2026-01-13-influencers-de-cocina-vs-cocinar-de-verdad.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=sp1f6LMU_s4))
+- **Fuente**: `raw/cocina/2026-01-13-influencers-de-cocina-vs-cocinar-de-verdad.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=sp1f6LMU_s4))
 - **Canal**: Themateoteo
 - **Publicado**: 2026-01-13 · **Duración**: 29:37
 - **Tipo**: Videoensayo de opinión (cultura de la comida / crítica de influencers gastronómicos)
