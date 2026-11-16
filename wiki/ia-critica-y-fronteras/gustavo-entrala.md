@@ -24,3 +24,4 @@ Conduce un podcast de entrevistas en vídeo sobre tecnología e inteligencia art
 
 - [[resumen-entrevista-gary-marcus-gustavo-entrala]] (2026-11-07, entrevista a [[gary-marcus]]).
 - [[resumen-WL266-agentes-personales-ia-entrala]] (WL-266, 2026-10-09 — agentes personales de IA: «Mus» de Meta, «Dot» de OpenAI, Instinct; primera mano no verificable, señalado; añade la vertiente análisis de producto/mercado junto a las fuentes entrevista-crítica; **3.ª fuente**, consolidación T48 2026-11-16).
+**Actualización 2026-11-16 (consolidación T61)**: WL-317 ([[resumen-WL317-auge-caida-jensen-huang-nvidia-gustavo-entrala]], general/ — salida de Jensen Huang de NVIDIA (12-11-2026) + biografía compactada (CUDA, Hinton/AlexNet, Mellanox); reportación de actualidad sin documentos — NO verificada, señalada; autopromoción del libro excluida; ASR sistemáticamente dañado en nombres, normalizado solo en el resumen; cruces WL-220/291/122 y [[fabricacion-odm-vs-marca]]).

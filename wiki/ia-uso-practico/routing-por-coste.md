@@ -25,3 +25,7 @@ Cuando un harness o router elige entre varios proveedores/modelos de inferencia 
 ## Tesis transversal
 
 El coste de la inferencia vía API no lo fija el precio de lista sino **qué se degrada por el camino** (contexto, salida, herramientas, caché): enrutar por precio sin verificar el endpoint cuesta calidad y dinero a la vez; la alternativa madura es enrutar por tarea con presupuestos explícitos.
+
+## Actualización 2026-11-16 (consolidación T61 — Jev)
+
+El concepto se materializa con el **lanzamiento de Jev** (clasificador «TypeScript de la IA», primitivos null/choice/score): presentación técnica WL-332 ([[resumen-WL332-jev-typescript-de-la-ia-dos-dager]] — insight clave: la «0 % alucinaciones» es type-safety de tipos, no exactitud semántica; escepticismo sobre demos de humo), demo de 1.ª mano WL-346 ([[resumen-WL346-que-es-jev-ai-return-gis]] — benchmark casero 626 ms, tokens de salida gratis, «formato ≠ certeza» dicho por el propio demostrador) y cobertura a <24 h WL-353 ([[resumen-WL353-jev-lanzamiento-ia-edteam]] — primitivos coincidentes entre fuentes independientes). Coherente con la tesis original del concepto (WL-274/278/298): clasificador barato para lo estructurado, LLM para lo ambiguo. Antecedente conceptual: WL-298 (clasificadores baratos vs LLM).

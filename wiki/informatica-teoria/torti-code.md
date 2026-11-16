@@ -55,3 +55,4 @@ Canal de divulgación de desarrollo de software en español. Cada video toma un 
 
 - [[documentacion-diataxis]] — concepto consolidado a partir de su fuente sobre documentación.
 - [[pedro-lino-caceres]] — el otro canal dominante del dominio, con enfoque de redes y laboratorios.
+**Actualización 2026-11-16 (consolidación T61 — total 4 fuentes)**: WL-334 ([[resumen-WL334-serverless-cuando-conviene-torti-code]], general/ — FaaS con analogía de dark kitchen: arranque en frío, escala a cero, cobro por ms×memoria, límites de estado y criterios de conveniencia; cifras AWS sin enlaces, señaladas). Registro consistente: divulgación técnica con analogía desmontada al cierre.

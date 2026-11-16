@@ -33,3 +33,7 @@ El patrón que todas las fuentes confirman: la memoria útil para un agente no e
 ## Fuentes de este concepto
 
 - [[resumen-segundo-cerebro-digital-obsidian-nvim-gentleman-programming]] (33/57, antecedente manual) · [[resumen-obsidian-revento-la-ia-con-memoria-gratis-e-ilimitada-alejavi-rivera]] (32/57, fuente guía) · [[resumen-que-es-clawdbot-futuro-asistentes-virtuales-dot-csv-lab]] (22/57, sesiones archivadas) · [[resumen-asi-se-usa-la-ia-en-2026-olvida-los-prompts-xavier-mitjana]] (53/57, LLM wiki) · [[resumen-WL051-napmem-memoria-agentes-alibaba]] (WL-51, tramo 4 — espejo arquitectural en la nube: pirámide de memoria, navegación activa con presupuesto de lectura, RL que castiga inventar; página «memoria agéntica» propia aplazada por 1 fuente plena).
+
+## Actualización 2026-11-16 (consolidación T61)
+
+WL-326 ([[resumen-WL326-obsidian-es-increible-curso-holamundo]] — curso completo de Obsidian con bóveda Markdown local, PARA y **agente de terminal sobre el vault**, patrón LLM Wiki de Karpathy; mismo patrón de este repositorio) y WL-331 ([[resumen-WL331-openclaw-2-0-code-simple]], ia-uso-practico/ — memoria «dreaming» en 3 fases con registro MD de OpenClaw 2.0). La bóveda de texto plano como memoria de agentes pasa de idea a implementación con dos herramientas independientes.

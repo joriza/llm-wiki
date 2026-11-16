@@ -21,3 +21,7 @@ La habilidad escasa ya no es inteligencia sino **tolerancia al esfuerzo**: verif
 ## Notas
 
 - Cruce transversal fuerte con el hilo trabajo-IA de la wiki (FAV-464 juniors, [[verificacion-como-valor]]): el mismo patrón visto desde la escuela, el trabajo y el negocio.
+
+## Actualización 2026-11-16 (consolidación T61 — cluster aprendizaje/tutoría)
+
+WL-321 ([[resumen-WL321-mit-educacion-ia-profe-sang]], ia-uso-practico/ — el MIT cambia la evaluación hacia oral/portafolios/presencial; tesis del autor: IA como tutor, no delegar el pensamiento) y WL-349 ([[resumen-WL349-gemini-profesor-ia-xavier-mitjana]], ia-uso-practico/ — tutor Gemini por voz: delegación asistida de estudio). Completan la gradación del concepto: herramienta → tutor → delegación; y WL-360 (simulacro de entrevista: la IA asistida con revisión humana como formato de evaluación). Cruces: [[ia-educacion-desfase]], WL-194/31/299.

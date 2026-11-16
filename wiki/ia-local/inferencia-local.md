@@ -18,3 +18,7 @@ El clúster reúne las fuentes que explican **qué pasa entre el modelo y tu GPU
 **Tesis transversal**: el costo de la inferencia local no lo fija el tamaño del modelo sino la **jerarquía de memoria** (SSD→RAM→VRAM) y el presupuesto de contexto: «comprá los GB de tu contexto, no el nombre de la placa» (WL-209).
 
 **Ver también**: [[llama-cpp]] · [[strata]] · [[hardware-para-ia-local]] · [[desarrollo-con-modelos-locales]] · [[qwen]] · [[cognix]] (canal dominante del clúster).
+
+## Actualización 2026-11-16 (consolidación T61)
+
+Cluster «IA local vs velocidad» ampliado con WL-333/342/363 (Nichonauta, en `ia-uso-practico/`): la frontera práctica 2026 ya no es «¿corre?» sino **«¿itera a velocidad usable?»** — MoE con expertos en RAM (~40 tok/s) sí, cuantización extrema IQ2_XS (~9 tok/s con contexto de 131 K agotado en 5 h sin respuesta) no. Ver [[qwen]] para el detalle del cluster.

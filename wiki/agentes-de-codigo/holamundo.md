@@ -26,3 +26,4 @@ La persistencia es la propiedad clave: el agente vive en la **máquina que no se
 
 - [[multiplexores-agentes]] — el concepto consolidado (Herdr, Herder/Orca).
 - [[agentes-de-codigo]] — infraestructura 24/7 para agentes.
+**Actualización 2026-11-16 (consolidación T61)**: WL-326 ([[resumen-WL326-obsidian-es-increible-curso-holamundo]], ia-critica-y-fronteras/ — curso completo de Obsidian con ángulo agéntico: bóveda Markdown local, Second Brain PARA, agente de terminal sobre el vault y patrón LLM Wiki de Karpathy; cruce [[obsidian-memoria-agentes]] y WL-325). Autopromoción de la Academia señalada y excluida.

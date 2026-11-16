@@ -36,3 +36,4 @@ Creador de contenido español especializado en **IA gratuita, local y open sourc
 - [[generacion-local-de-imagenes]] — el hilo técnico donde más fuentes de este autor se cruzan.
 - [[agentes-de-codigo]] — su demo de vibe coding local con Qwen3-Coder y el agente Spark como nivel 3 de su escalera.
 - [[evaluacion-de-llms]] — el LLM juez y el criterio comprobable que sus guías aplican.
+**Actualización 2026-11-16 (consolidación T61)**: WL-349 ([[resumen-WL349-gemini-profesor-ia-xavier-mitjana]], ia-uso-practico/ — demo de tutor Gemini por voz (nombre de modelo según ASR, no verificado): deberes, app de un prompt con infografías, mini-apps en caliente y tutor dentro de Premiere con corrección de ruta en vivo; patrocinio Manus excluido). Consistente con su registro de demo-first; cruces WL-299 y [[delegacion-cognitiva-ia]].
