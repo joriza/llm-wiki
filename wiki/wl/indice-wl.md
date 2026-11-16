@@ -68,6 +68,20 @@ Skips sin numeración útil: WL-277 `8VLCT9ueymM` [Private video] `.no-subs`. Ca
 
 Skips sin numeración útil: WL-281 `OOylxha2qqg` «Sharp MiniCPM5» `.no-subs`. **Descargadas en scratch pendientes del tramo 42**: WL-285 (`66MMxku2D9Y`, Maxi Accotto) y WL-286 (`lsSe7kOkVjE`, Torti Code). Cabeza del backlog tras el tramo: WL-285.
 
+## Tramo 42 — en estación (T45, 2026-11-16, relevo 35)
+
+5 fuentes útiles ingestadas en `wiki/wl/tramo-42/` (raws en `raw/wl/tramo-42/`), pendientes de consolidación:
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-285 | Guardar JSON en SQL Server sin Romper el Rendimiento (`66MMxku2D9Y`) | Maxi Accotto \| SQL Server · Fabric · Power BI | general/informatica-teoria | En estación — subtítulos manuales; cruces [[bases-de-datos]], WL-252/280/246 |
+| WL-286 | ¿Qué es la arquitectura hexagonal y qué gano con ella? (`lsSe7kOkVjE`) | Torti Code | general/informatica-teoria | En estación — puertos y adaptadores; Torti Code 1.ª fuente |
+| WL-287 | Cómo funciona un índice en una base de datos (`ya_eWbTfHXE`) | Torti Code | general/informatica-teoria | En estación — B-tree/planificador sobre PostgreSQL 18; Torti Code 2.ª fuente (entidad candidata) |
+| WL-288 | GPT 6 Sol es más tonto — comparativa con el 5.6 Sol (`EjpkHj0m0NQ`) | Nichonauta | ia-uso-practico/ia-critica-y-fronteras | En estación — micro-comparativa de opinión, muestra mínima; consolidar con WL-290 |
+| WL-290 | Qwen 3.8 me decepcionó — comparación con Qwen 3.6 (`Zx9hXpCemZQ`) | Nichonauta | ia-uso-practico/ia-local | En estación — [[inferencia-local]]; Nichonauta 3.ª fuente (entidad candidata) |
+
+Skips sin numeración útil: WL-289 `yucBRF3lSaQ` SKIP-DUPLICATE (ya procesado, sin descarga). Procesadas desde scratch sin re-descargar: WL-285/286 (herencia del tramo 41, precedente T9/WL-112). Cabeza del backlog tras el tramo: WL-291 (`INUCSj7HM_M`).
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
