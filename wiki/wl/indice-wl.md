@@ -99,3 +99,17 @@ Los 60 pares útiles (WL-316..WL-376; SKIP sin migrar: WL-347 `CXXnlDUtkkQ`, .no
 | electronica-practica/ | 1 | 376 |
 
 Producto de la consolidación T61: conceptos nuevos [[fabricacion-odm-vs-marca]] (general/), [[brecha-junior-ia]] y [[contratacion-nearshore-latam]] (agentes-de-codigo/), [[gobernanza-ia]] (ia-critica-y-fronteras/), [[castigo-altruista-venganza]], [[evolucion-humana]], [[banderas-confundibles]] y [[vacío-demografico-costa-oeste-africa]] (general/), [[kit-usb-portable]] (electronica-practica/); entidades nuevas [[maxi-fontan]] (general/), [[marcos-di-cesare]] (cocina/), [[hdeleon-net]] (agentes-de-codigo/), [[fase]] (casa-calefaccion/), [[danann]] y [[canal-ey]] (general/); entidades actualizadas [[codigo-espinoza]] (8 fuentes), [[archivo-del-futuro]] (8 WL), [[fazt]] (17), [[nichonauta]] (+3), [[holamundo]], [[gentleman-programming]], [[gustavo-entrala]], [[el-presto]], [[torti-code]], [[xavier-mitjana]]; conceptos ampliados [[historia-de-la-tecnologia]], [[routing-por-coste]] (Jev WL-332/346/353), [[agentes-de-codigo]], [[qwen]], [[inferencia-local]], [[delegacion-cognitiva-ia]], [[naturaleza-insolita]], [[obsidian-memoria-agentes]], [[bases-de-datos]]. La estación queda a 0 resúmenes y sin secciones activas. Corrección aritmética: WL-374 del canal hdeleon.net citaba «WL-313» como antecedente — WL-313 es de otro canal (cierre tramo 29); conteo correcto WL-345+374.
+
+## Tramo 61 — estación activa (relevo 1 de 12 del pedido L34, 2026-11-16)
+
+5 fuentes útiles (WL-377..WL-381; cabezas ya descargadas en scratch, procesadas desde scratch sin re-descargar, precedente T9/WL-112; 0 skips, 0 meta-fail, sin 429). Pendientes de consolidación (L12):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| 377 | ¡James Webb acaba de observar Plutón por primera vez! | Misterio Celeste (2.ª fuente) | general/ |
+| 378 | Auge y caída del fundador de NVIDIA (Jensen Huang) | Gustavo Entrala (2.ª fuente WL) | general/ |
+| 379 | 15 SITIOS WEB BRUTALES para favoritos | El Androide Feliz | general/ |
+| 380 | ¿Por qué las mujeres tienen glúteos tan grandes? | ¿Cómo Así (2.ª fuente) | general/ |
+| 381 | Salamandra ECO 7000 Tromen — review | FASE (3.ª fuente) | casa-calefaccion/ |
+
+Cruces candidatos: [[evolucion-humana]] (WL-380 con WL-319/306), cluster semiconductores/industria IA (WL-378 con WL-220/238/122), [[historia-de-la-tecnologia]] (CUDA/Hinton/AlexNet WL-378 con WL-356), cluster herramientas-prácticas (WL-379 con WL-376/351/343), cluster salamandras (WL-381 con [[fase]]), divulgación espacial (WL-377 con WL-129). Cabeza futura: WL-382 (`MEFTRfVATTk`, índice 70 del cache — ya descargada en scratch, herencia del relevo).
