@@ -1,6 +1,6 @@
 # Resumen: CAFÉ CON JAVO: ¿Ayudó a Bolsonaro? ¿Lo golpearon en CATAMARCA?
 
-- **Fuente original**: `raw/general/2026-10-31-cafe-con-javo-ayudo-a-bolsonaro-lo-golpearon-en-catamarca.md` (WL-115, tramo 10)
+- **Fuente original**: `raw/sociedad-argentina/2026-10-31-cafe-con-javo-ayudo-a-bolsonaro-lo-golpearon-en-catamarca.md` (WL-115, tramo 10)
 - **Canal**: PDB (País de Boludos)
 - **Video**: https://www.youtube.com/watch?v=6MLzI2Pgl0s
 - **Publicado**: 2026-10-31 · **Duración**: 17:04 · **Idioma**: español (ASR)

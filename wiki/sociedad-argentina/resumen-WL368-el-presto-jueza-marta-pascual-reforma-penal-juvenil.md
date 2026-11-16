@@ -1,6 +1,6 @@
 # Resumen WL-368: EL PRESTO EXPLOTÓ contra La Jueza Marta Pascual que FRENÓ la Reforma Penal Juvenil — El Presto
 
-**Fuente original:** `raw/general/2026-09-15-el-presto-exploto-contra-la-jueza-marta-pascual-que-freno-la-reforma-penal-juven.md` (YouTube: `N_X2vIbH0v4`, canal **El Presto**, publicado 2026-09-15, 15:42).
+**Fuente original:** `raw/sociedad-argentina/2026-09-15-el-presto-exploto-contra-la-jueza-marta-pascual-que-freno-la-reforma-penal-juven.md` (YouTube: `N_X2vIbH0v4`, canal **El Presto**, publicado 2026-09-15, 15:42).
 
 ---
 

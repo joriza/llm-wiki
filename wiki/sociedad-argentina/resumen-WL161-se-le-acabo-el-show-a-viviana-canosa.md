@@ -1,6 +1,6 @@
 # ¡SE LE ACABÓ EL SHOW A VIVIANA CANOSA!
 
-- **Fuente**: `raw/general/2026-05-26-se-le-acabo-el-show-a-viviana-canosa.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=1owxolZN1QQ))
+- **Fuente**: `raw/sociedad-argentina/2026-05-26-se-le-acabo-el-show-a-viviana-canosa.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=1owxolZN1QQ))
 - **Canal**: Themateoteo
 - **Publicado**: 2026-05-26 · **Duración**: 20:37
 - **Tipo**: Videoensayo de opinión / crónica mediática comentada

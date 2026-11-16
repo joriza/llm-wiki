@@ -1,6 +1,6 @@
 # WL-141 — BURLARSE de la gente le salió CARO | Así SANTUTU estrelló su carrera
 
-- **Fuente original**: `raw/general/2026-02-10-burlarse-de-la-gente-le-salio-caro-asi-santutu-estrello-su-carrera.md` (`BQiFdcxMPOk`, [Themateoteo](https://www.youtube.com/watch?v=BQiFdcxMPOk), 2026-02-10, 24:39).
+- **Fuente original**: `raw/sociedad-argentina/2026-02-10-burlarse-de-la-gente-le-salio-caro-asi-santutu-estrello-su-carrera.md` (`BQiFdcxMPOk`, [Themateoteo](https://www.youtube.com/watch?v=BQiFdcxMPOk), 2026-02-10, 24:39).
 - **Canal**: Themateoteo
 - **Publicado**: 2026-02-10
 - **Tipo**: videoensayo de opinión/cultura digital (streaming argentino)

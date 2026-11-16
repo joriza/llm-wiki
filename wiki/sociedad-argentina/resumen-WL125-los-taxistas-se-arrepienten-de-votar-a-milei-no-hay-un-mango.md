@@ -1,6 +1,6 @@
 # WL-125 — Los taxistas se arrepienten de votar a Milei: «no hay un mango»
 
-- **Fuente original**: `raw/general/2026-10-27-los-taxistas-se-arrepienten-de-votar-a-milei-no-hay-un-mango.md` (`J_QnzOqL6xY`, [Arruinados x Milei](https://www.youtube.com/watch?v=J_QnzOqL6xY), 2026-10-27, 09:37).
+- **Fuente original**: `raw/sociedad-argentina/2026-10-27-los-taxistas-se-arrepienten-de-votar-a-milei-no-hay-un-mango.md` (`J_QnzOqL6xY`, [Arruinados x Milei](https://www.youtube.com/watch?v=J_QnzOqL6xY), 2026-10-27, 09:37).
 - **Canal**: Arruinados x Milei
 - **Publicado**: 2026-10-27
 - **Tipo**: micro-documental callejero de encuestas (vox populi)

@@ -1,6 +1,6 @@
 # Resumen — ¿Por qué una coreana preferiría vivir en Argentina que en Seúl? (Shini, La 100)
 
-- **Fuente original**: `raw/general/2026-09-29-por-que-una-coreana-preferiria-vivir-en-argentina-que-en-seul.md` (video `jc3zF3hyZaQ`, canal La 100, 2026-09-29, 35:04, subtítulos automáticos)
+- **Fuente original**: `raw/sociedad-argentina/2026-09-29-por-que-una-coreana-preferiria-vivir-en-argentina-que-en-seul.md` (video `jc3zF3hyZaQ`, canal La 100, 2026-09-29, 35:04, subtítulos automáticos)
 - **Dominio provisional**: wl (tramo-26) — consolidación diferida (L12)
 
 ## Tesis

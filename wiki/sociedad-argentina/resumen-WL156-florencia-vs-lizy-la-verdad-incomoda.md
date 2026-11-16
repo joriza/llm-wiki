@@ -1,9 +1,9 @@
 # WL-156 · Florencia vs Lizy: la verdad incómoda que nadie se anima a decir
 
-- **Fuente original**: `raw/general/2025-03-18-florencia-vs-lizy-la-verdad-incomoda-que-nadie-se-anima-a-decir.md`
+- **Fuente original**: `raw/sociedad-argentina/2025-03-18-florencia-vs-lizy-la-verdad-incomoda-que-nadie-se-anima-a-decir.md`
 - **Video**: [w5DnMsCZ4K4](https://www.youtube.com/watch?v=w5DnMsCZ4K4)
 - **Canal**: Themateoteo · Publicado 2025-03-18 · Duración 32:32
-- **Dominio previsto** (consolidación diferida): general/sociedad-argentina (ensayo de opinión sobre recepción mediática — **NO fuente factual**, fuerte editorialización)
+- **Dominio previsto** (consolidación diferida): sociedad-argentina/sociedad-argentina (ensayo de opinión sobre recepción mediática — **NO fuente factual**, fuerte editorialización)
 
 ## Qué trata
 

@@ -1,8 +1,8 @@
 # WL-184 · ¿El Peronismo en su Crisis Terminal? | De Trabajadores a Femboys
 
-- **Fuente original**: `raw/general/2026-10-22-el-peronismo-en-su-crisis-terminal-de-trabajadores-a-femboys.md`
+- **Fuente original**: `raw/sociedad-argentina/2026-10-22-el-peronismo-en-su-crisis-terminal-de-trabajadores-a-femboys.md`
 - **Video**: [¿El Peronismo en su Crisis Terminal? | De Trabajadores a Femboys](https://www.youtube.com/watch?v=KOFb3PqAjc4) · Canal: Los Herederos de Alberdi · Publicado: 2026-10-22 · Duración: 28:12
-- **Dominio previsto** (consolidación diferida, L12): `general/sociedad-argentina` (crítica política — opinión anti-kirchnerista explícita, NO fuente factual; encuadre satírico señalado en triage; cruces WL-119/WL-123/WL-146 misma familia de fuentes)
+- **Dominio previsto** (consolidación diferida, L12): `sociedad-argentina/sociedad-argentina` (crítica política — opinión anti-kirchnerista explícita, NO fuente factual; encuadre satírico señalado en triage; cruces WL-119/WL-123/WL-146 misma familia de fuentes)
 
 ## Qué es
 

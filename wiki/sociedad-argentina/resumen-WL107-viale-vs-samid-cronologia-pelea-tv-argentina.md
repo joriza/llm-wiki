@@ -1,6 +1,6 @@
 # Resumen: Viale vs Samid: cronología de la pelea más histórica de la TV argentina | Dos Chicas y Medio
 
-- **Fuente original**: `raw/general/2026-10-26-viale-vs-samid-cronologia-de-la-pelea-mas-historica-de-la-tv-argentina-dos-chica.md` (WL-107, tramo 9)
+- **Fuente original**: `raw/sociedad-argentina/2026-10-26-viale-vs-samid-cronologia-de-la-pelea-mas-historica-de-la-tv-argentina-dos-chica.md` (WL-107, tramo 9)
 - **Canal**: GELATINA
 - **Video**: https://www.youtube.com/watch?v=__hi27gOnbQ
 - **Publicado**: 2026-10-26 · **Duración**: 28:38 · **Idioma**: español (ASR)

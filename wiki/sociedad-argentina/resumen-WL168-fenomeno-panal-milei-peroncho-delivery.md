@@ -1,6 +1,6 @@
 # WL-168 · Fenómeno pañal: Milei se desgració (Peroncho Delivery)
 
-- **Fuente original**: `raw/general/2026-10-22-fenomeno-panal-milei-se-desgracio.md`
+- **Fuente original**: `raw/sociedad-argentina/2026-10-22-fenomeno-panal-milei-se-desgracio.md`
 - **Video**: [go8Yx612mhs](https://www.youtube.com/watch?v=go8Yx612mhs) · Canal: Emanuel Rodríguez (Peroncho Delivery) · Publicado: 2026-10-22 · Duración: 13:05
 - **Tipo**: noticiero satírico militante peronista — opinión/política militante, NO fuente factual.
 

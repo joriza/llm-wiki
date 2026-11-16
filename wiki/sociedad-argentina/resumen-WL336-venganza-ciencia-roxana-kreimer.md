@@ -1,6 +1,6 @@
 # WL-336 · ¿Y si la VENGANZA fuera algo bueno? Lo que la CIENCIA descubrió
 
-- **Fuente**: [`raw/general/2026-07-25-y-si-la-venganza-fuera-algo-bueno-lo-que-la-ciencia-descubrio.md`](../../raw/general/2026-07-25-y-si-la-venganza-fuera-algo-bueno-lo-que-la-ciencia-descubrio.md) — vídeo de YouTube `t5NBtNx06TY`
+- **Fuente**: [`raw/sociedad-argentina/2026-07-25-y-si-la-venganza-fuera-algo-bueno-lo-que-la-ciencia-descubrio.md`](../../raw/general/2026-07-25-y-si-la-venganza-fuera-algo-bueno-lo-que-la-ciencia-descubrio.md) — vídeo de YouTube `t5NBtNx06TY`
 - **Canal**: Roxana Kreimer
 - **Publicado**: 2026-07-25 · **Duración**: 40:30
 - **Tipo**: ensayo divulgativo (ciencia cognitiva + filosofía moral)

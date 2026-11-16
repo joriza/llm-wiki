@@ -1,6 +1,6 @@
 # Resumen: Cuneo revela secretos que nunca contó de Milei (entrevista en Viviana Canosa)
 
-- **Fuente original**: `raw/general/2026-10-30-cuneo-revela-secretos-que-nunca-conto-de-milei-cuneo-santiago-javier-karina-vivi.md` (WL-119, tramo 11)
+- **Fuente original**: `raw/sociedad-argentina/2026-10-30-cuneo-revela-secretos-que-nunca-conto-de-milei-cuneo-santiago-javier-karina-vivi.md` (WL-119, tramo 11)
 - **Canal**: Politica Argentina
 - **Video**: https://www.youtube.com/watch?v=rtm31LMjJdo
 - **Publicado**: 2026-10-30 · **Duración**: 39:19 · **Idioma**: español (ASR)

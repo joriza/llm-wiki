@@ -1,6 +1,6 @@
 # Resumen: Milei, Trump y la fuga de Bolsonaro: el papelón internacional
 
-- **Fuente original**: `raw/general/2026-11-01-milei-trump-y-la-fuga-de-bolsonaro-el-papelon-internacional-pais-de-boludos-pdb.md` (WL-112, tramo 10)
+- **Fuente original**: `raw/sociedad-argentina/2026-11-01-milei-trump-y-la-fuga-de-bolsonaro-el-papelon-internacional-pais-de-boludos-pdb.md` (WL-112, tramo 10)
 - **Canal**: PDB (País de Boludos)
 - **Video**: https://www.youtube.com/watch?v=v4hYfc-gUCA
 - **Publicado**: 2026-11-01 · **Duración**: 31:25 · **Idioma**: español (ASR)

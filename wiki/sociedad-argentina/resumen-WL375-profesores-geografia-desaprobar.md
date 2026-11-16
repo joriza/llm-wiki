@@ -1,6 +1,6 @@
 # Resumen WL-375: PROFESORES DE GEOGRAFÍA CUANDO TE QUIEREN DESAPROBAR — Maxi Fontán
 
-**Fuente original:** `raw/general/2026-09-14-profesores-de-geografia-cuando-te-quieren-desaprobar.md` (YouTube: `aYzPfeaaJqU`, canal **Maxi Fontán**, publicado 2026-09-14, 0:59).
+**Fuente original:** `raw/sociedad-argentina/2026-09-14-profesores-de-geografia-cuando-te-quieren-desaprobar.md` (YouTube: `aYzPfeaaJqU`, canal **Maxi Fontán**, publicado 2026-09-14, 0:59).
 
 ---
 

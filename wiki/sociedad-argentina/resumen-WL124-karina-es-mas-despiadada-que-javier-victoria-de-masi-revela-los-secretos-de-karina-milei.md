@@ -1,6 +1,6 @@
 # WL-124 — "Karina es más despiadada que Javier" | Victoria de Masi revela los secretos de Karina Milei
 
-- **Fuente original**: `raw/general/2026-10-04-karina-es-mas-despiadada-que-javier-victoria-de-masi-revela-los-secretos-de-kari.md` (`7HUeDzJLUZk`, [El Presto](https://www.youtube.com/watch?v=7HUeDzJLUZk), 2026-10-04, 69:13).
+- **Fuente original**: `raw/sociedad-argentina/2026-10-04-karina-es-mas-despiadada-que-javier-victoria-de-masi-revela-los-secretos-de-kari.md` (`7HUeDzJLUZk`, [El Presto](https://www.youtube.com/watch?v=7HUeDzJLUZk), 2026-10-04, 69:13).
 - **Canal**: El Presto (Eduardo Prestofelippo), invitada Victoria de Masi
 - **Publicado**: 2026-10-04
 - **Tipo**: entrevista periodística de perfil político (Argentina)

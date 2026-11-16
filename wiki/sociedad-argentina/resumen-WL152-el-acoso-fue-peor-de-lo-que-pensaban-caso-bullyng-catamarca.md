@@ -1,9 +1,9 @@
 # WL-152 · EL ACOSO fue PEOR de lo que PENSABAN — Caso Bullying Catamarca
 
-- **Fuente original**: `raw/general/2026-10-27-el-acoso-fue-peor-de-lo-que-pensaban-caso-bullyng-catamarca.md`
+- **Fuente original**: `raw/sociedad-argentina/2026-10-27-el-acoso-fue-peor-de-lo-que-pensaban-caso-bullyng-catamarca.md`
 - **Video**: [7eI3D54Raig](https://www.youtube.com/watch?v=7eI3D54Raig)
 - **Canal**: LeanRiccio · Publicado 2026-10-27 · Duración 24:08
-- **Dominio previsto** (consolidación diferida): general/sociedad-argentina (análisis jurídico de caso social)
+- **Dominio previsto** (consolidación diferida): sociedad-argentina/sociedad-argentina (análisis jurídico de caso social)
 
 ## Qué trata
 

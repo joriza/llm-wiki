@@ -1,6 +1,6 @@
 # Martín Cirio Rompió con Todo | Del Progresismo al Sentido Común
 
-- **Fuente**: `raw/general/2025-07-31-martin-cirio-rompio-con-todo-del-progresismo-al-sentido-comun.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=xrXEI_AUYic))
+- **Fuente**: `raw/sociedad-argentina/2025-07-31-martin-cirio-rompio-con-todo-del-progresismo-al-sentido-comun.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=xrXEI_AUYic))
 - **Canal**: Themateoteo
 - **Publicado**: 2025-07-31 · **Duración**: 27:03
 - **Tipo**: Videoensayo de opinión / biografía comentada (segunda parte de una serie sobre Martín Cirio)

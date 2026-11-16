@@ -1,6 +1,6 @@
 # Resumen: El secreto de por qué Grido es tan barato (recorrido por la fábrica)
 
-- **Fuente original**: `raw/general/2026-10-31-el-secreto-de-por-que-grido-es-tan-barato.md` (WL-99, tramo 7)
+- **Fuente original**: `raw/sociedad-argentina/2026-10-31-el-secreto-de-por-que-grido-es-tan-barato.md` (WL-99, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=1eU5LvRfAYg
 - **Canal**: CLARÍN (video-brand de la fábrica de Grido, con guías internas)
 - **Publicado**: 2026-10-31 · **Duración**: 10:40 · **Idioma**: es (subtítulos automáticos, transcripción literal)
