@@ -1,6 +1,6 @@
 # Resumen: La Historia De AUTODESK — La Empresa Que Llevó el DISEÑO De INGENIERÍA Al PC
 
-- **Fuente original**: `raw/general/2026-10-16-la-historia-de-autodesk-la-empresa-que-llevo-el-dieno-de-ingenieria-al-pc.md` (WL-117, tramo 11)
+- **Fuente original**: `raw/historia-informatica/2026-10-16-la-historia-de-autodesk-la-empresa-que-llevo-el-dieno-de-ingenieria-al-pc.md` (WL-117, tramo 11)
 - **Canal**: Reliquias Tecnológicas
 - **Video**: https://www.youtube.com/watch?v=bTCw5Dd6UMU
 - **Publicado**: 2026-10-16 · **Duración**: 42:54 · **Idioma**: español (ASR)

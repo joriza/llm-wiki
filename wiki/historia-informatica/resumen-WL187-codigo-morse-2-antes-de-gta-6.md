@@ -1,6 +1,6 @@
 # WL-187 · Código Morse 2 antes de GTA 6
 
-- **Fuente original**: `raw/general/2026-05-24-codigo-morse-2-antes-de-gta-6.md` (`L_up4wNCoNI`)
+- **Fuente original**: `raw/historia-informatica/2026-05-24-codigo-morse-2-antes-de-gta-6.md` (`L_up4wNCoNI`)
 - **Canal**: Eze Martínez · **Publicado**: 2026-05-24 · **Duración**: ~1:08 · **Idioma**: español (subtítulos automáticos)
 
 ## Qué trata

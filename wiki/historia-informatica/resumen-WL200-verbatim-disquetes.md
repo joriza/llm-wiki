@@ -1,6 +1,6 @@
 # Resumen — Verbatim: ¿por qué fracasó el gigante de los disquetes?
 
-- **Fuente original**: `raw/general/2026-10-16-verbatim-por-que-fracaso-el-gigante-de-los-disquetes.md` (video `WHwIah-LmC8`, canal Archivo Tecnológico, 2026-10-16, 28:37, subtítulos automáticos)
+- **Fuente original**: `raw/historia-informatica/2026-10-16-verbatim-por-que-fracaso-el-gigante-de-los-disquetes.md` (video `WHwIah-LmC8`, canal Archivo Tecnológico, 2026-10-16, 28:37, subtítulos automáticos)
 - **Dominio provisional**: wl (tramo-26) — consolidación diferida (L12)
 
 ## Tesis

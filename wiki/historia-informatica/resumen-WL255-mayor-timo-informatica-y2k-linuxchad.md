@@ -1,6 +1,6 @@
 # El mayor TIMO de la informática? (Y2K)
 
-- **Fuente original**: `raw/general/2026-10-11-el-mayor-timo-de-la-informatica.md`
+- **Fuente original**: `raw/historia-informatica/2026-10-11-el-mayor-timo-de-la-informatica.md`
 - **Video**: [El mayor TIMO de la informática?](https://www.youtube.com/watch?v=KfC_gkjZewM)
 - **Canal**: LinuxChad · **Publicado**: 2026-10-11 · **Duración**: ~31 min · **Ingesta**: 2026-11-15 (tramo 37)
 
