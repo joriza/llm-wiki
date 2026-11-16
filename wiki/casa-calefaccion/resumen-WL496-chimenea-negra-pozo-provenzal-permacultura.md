@@ -1,9 +1,9 @@
 # WL-496 — El invento simple que saca todo el calor de tu casa
 
-- **Fuente original**: `raw/wl/tramo-82/2025-02-08-el-invento-simple-que-saca-todo-el-calor-de-tu-casa.md` ([Vídeo](https://www.youtube.com/watch?v=ib0Fzc1mOcw))
+- **Fuente original**: `raw/casa-calefaccion/2025-02-08-el-invento-simple-que-saca-todo-el-calor-de-tu-casa.md` ([Vídeo](https://www.youtube.com/watch?v=ib0Fzc1mOcw))
 - **Canal**: Permacultura Holistica (1.ª fuente WL)
 - **Publicado**: 2025-02-08 · **Duración**: 08:21
-- **Dominio provisional**: general / casa-calefaccion (bioclimática doméstica, demo de primera mano)
+- **Dominio definitivo**: casa-calefaccion (consolidación T90, 2026-11-16). Provisional: general / casa-calefaccion (bioclimática doméstica, demo de primera mano)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
@@ -31,3 +31,7 @@ Demo práctica de primera mano (construcción en vivo, verano) de un **extractor
 ## Veredicto de triage
 
 Demo artesanal honesta y didáctica: muestra la física (convección/succión) con una prueba visible y gestiona expectativas; útil como referencia práctica de bajo coste. Sin cifras rigurosas — conservar como 1.ª mano cualitativa.
+
+## Consolidación (T90)
+
+Dominio definitivo: `casa-calefaccion/`. Cableado con [[solar-pasivo-y-ventilacion]] (chimenea solar/ventilación apilada — el mismo principio «el aire caliente sube» de las torres y del muro Trombe). El cruce previsto con WL-19 (pozo canadiense) NO es posible: WL-19 fue baja definitiva (raw eliminado, 2026-11-13). Canal Permacultura Holistica: 1.ª fuente, texto plano (umbral <2).
