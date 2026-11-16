@@ -12,6 +12,19 @@ Contenido (2026-11-15, consolidación T40 de los tramos 28-37): **0 resúmenes e
 | WL-19 | Últimos días 11.11 AliExpress 🗑️ baja (`QOug4_hsCGI`; resumen y raw eliminados) | acaele | — | 2 | Baja — raw eliminado (2026-11-13) |
 | WL-13 | El mito del hardware caro: cómo ejecutar LLM sin arruinarte | sin identificar | por definir | 1 | Meta-fail ×2 — re-pass (sin descarga) |
 
+## Tramo 38 — en estación (T41, 2026-11-15, relevo 31)
+
+5 fuentes útiles ingestadas en `wiki/wl/tramo-38/` (raws en `raw/wl/tramo-38/`), pendientes de consolidación:
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-261 | Lo que NUNCA te explicaron de las Transacciones en SQL (`DBOuemO4q0k`) | TheDebugDuck | informatica-teoria o general | En estación — 5ª fuente del canal (entidad thedebugduck) |
+| WL-262 | Hablemos de Hacktivismo 🌐... ¿es Solarpunk? ✴ (`eoYC4gIw_Zs`) | Tamychi | ia-critica-y-fronteras o general | En estación — videoensayo de opinión, NO factual |
+| WL-263 | ¡NOS MINTIERON! Nuevo Descubrimiento en Egipto (`DYLNggoAbFU`) | TopFacts ES | general (arqueología) | En estación — content-farm clickbait, candidata a baja |
+| WL-265 | Lone Survivor — película completa (`vbBVhmhQkBw`) | Diamond Films Plus | general (cultura pop) | En estación — CANDIDATA A BAJA (ficción subida no autorizada) |
+| WL-266 | Esto es lo más grande que ha pasado desde ChatGPT (`d1fKvNlEj60`) | Gustavo Entrala | ia-uso-practico o ia-critica-y-fronteras | En estación — 3ª fuente del canal (entidad gustavo-entrala) |
+
+Skips sin numeración útil: WL-258 `pzFzku0VAUc` [Deleted video] `.no-subs`, WL-259 `0eL-Bz0rqmU` [Deleted video] `.no-subs`, WL-260 `Z1Z8DziVhzo` SKIP-DUPLICATE (ya procesado), WL-264 `VX1eYYyJ3XQ` [Deleted video] `.no-subs`. Cabeza del backlog tras el tramo: WL-267.
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
