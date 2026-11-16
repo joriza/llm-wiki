@@ -1,6 +1,6 @@
 # WL-215 · Los peligros de tomar UN POCO de ALCOHOL
 
-- **Fuente original**: `raw/general/2026-10-17-los-peligros-de-tomar-un-poco-de-alcohol.md`
+- **Fuente original**: `raw/salud-fitness/2026-10-17-los-peligros-de-tomar-un-poco-de-alcohol.md`
 - **Video**: [Los peligros de tomar UN POCO de ALCOHOL](https://www.youtube.com/watch?v=u6921bn9vf0)
 - **Canal**: Roxana Kreimer
 - **Publicado**: 2026-10-17 · **Duración**: 23:09 · **Ingesta**: 2026-11-15 (tramo 30, formato dominio pendiente de consolidación)

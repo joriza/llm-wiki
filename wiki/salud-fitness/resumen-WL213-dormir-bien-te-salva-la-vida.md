@@ -1,6 +1,6 @@
 # WL-213 · Dormir bien te salva la vida
 
-- **Fuente original**: `raw/general/2026-10-16-dormir-bien-te-salva-la-vida.md`
+- **Fuente original**: `raw/salud-fitness/2026-10-16-dormir-bien-te-salva-la-vida.md`
 - **Video**: [Dormir bien te salva la vida](https://www.youtube.com/watch?v=GEqNOpLOn6I)
 - **Canal**: Santiago Bilinkis (Futuro en Construcción)
 - **Publicado**: 2026-10-16 · **Duración**: 22:10 · **Ingesta**: 2026-11-15 (tramo 29, formato dominio pendiente de consolidación)

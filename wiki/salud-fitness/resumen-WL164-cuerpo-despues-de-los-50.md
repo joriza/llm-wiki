@@ -1,6 +1,6 @@
 # WL-164 · Lo Que Nadie Te Cuenta Sobre Tu Cuerpo Después de los 50
 
-- **Fuente original**: `raw/general/2026-06-17-lo-que-nadie-te-cuenta-sobre-tu-cuerpo-despues-de-los-50.md`
+- **Fuente original**: `raw/salud-fitness/2026-06-17-lo-que-nadie-te-cuenta-sobre-tu-cuerpo-despues-de-los-50.md`
 - **Video**: [PV7vWFZDHEU](https://www.youtube.com/watch?v=PV7vWFZDHEU) · Canal: Somos Mente en Calma · Publicado: 2026-06-17 · Duración: 12:44
 - **Tipo**: divulgación de salud/longevidad estilo lista (script narrativo con «protocolos»).
 

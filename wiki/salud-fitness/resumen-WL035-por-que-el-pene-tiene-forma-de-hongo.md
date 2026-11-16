@@ -1,6 +1,6 @@
 # Resumen: ¿Por qué el pene tiene forma de hongo? El secreto oculto de la evolución
 
-- **Fuente original**: `raw/general/2026-11-01-por-que-el-pene-tiene-forma-de-hongo-el-secreto-oculto-de-la-evolucion.md` (WL-35, tramo 3)
+- **Fuente original**: `raw/salud-fitness/2026-11-01-por-que-el-pene-tiene-forma-de-hongo-el-secreto-oculto-de-la-evolucion.md` (WL-35, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=e1Kvyu76I10
 - **Canal**: Dato Oculto
 - **Publicado**: 2026-10-31 · **Duración**: 21:49 · **Idioma**: es (subtítulos automáticos, transcripción literal)

@@ -1,6 +1,6 @@
 # ¿Flema Pegada que NO sale? No es Moco, es PEPSINA (Causa Oculta)
 
-- **Fuente original**: `raw/general/2026-02-04-flema-pegada-que-no-sale-no-es-moco-es-pepsina-causa-oculta.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=xjJRmH1V_Rs))
+- **Fuente original**: `raw/salud-fitness/2026-02-04-flema-pegada-que-no-sale-no-es-moco-es-pepsina-causa-oculta.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=xjJRmH1V_Rs))
 - **Canal**: Dr. Alberto Sanagustín
 - **Publicado**: 2026-02-04 · **Duración**: 09:34 · **Idioma**: es-ES (subtítulos manuales)
 - **Recopilado**: 2026-11-15 (tramo 21, WL-172)
