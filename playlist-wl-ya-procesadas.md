@@ -1,6 +1,6 @@
 # Playlist WL — ya procesadas que siguen en la lista (curación manual)
 
-Refresh 2026-11-16 02:2x — 4599 entradas internas (4454 visibles en YouTube); **25 procesadas visibles siguen en la lista**.
+Refresh 2026-11-16 (post L30) — 4599 entradas internas (4454 visibles en YouTube); **35 procesadas visibles siguen en la lista**.
 
 Numeración VISIBLE = la misma que ve el usuario en YouTube:
 
@@ -9,6 +9,16 @@ Numeración VISIBLE = la misma que ve el usuario en YouTube:
 - #3 — Cómo se COMPORTAN las mujeres ante el hombre que de verdad quieren (sFkgND4ngnw)
 - #4 — 5 comportamientos “atrevidos” que excitan inconscientemente a las mujeres (9c1PE6hK-kI)
 - #5 — ¿Qué sucede cuando una avispa regresa a casa pero su nido ha desaparecido? (pK5aUp6ZCSY)
+- #6 — La Extraña Razón Evolutiva por la que tu Perro Duerme Contigo (No Es Comodidad) (r2jqrLGXv5U)
+- #7 — ¿Cómo Duermen Los Camioneros A -50 °C Cuando El Motor Podría Averiarse Durante la Noche? (5HemqDqXJDQ)
+- #8 — Tú vs un piloto: qué hace cada uno cuando el coche no obedece (PD4McdUXXVo)
+- #9 — 10 herramientas de la terminal que de verdad te sirven en Linux (LbcyTbM38zQ)
+- #10 — ¡SAL Fundida: El Líquido MÁS PELIGROSO! (7BpAOEqIY18)
+- #11 — 📢ESCÁNDALO EN AVELLANEDA CON LA FUNCIONARIA SABRINA SOLEDAD GONZÁLEZ POR CÁMARAS VECINALES (AmmmNOYGOR8)
+- #12 — Cayó "Galaxy", el primer jefe de banda en Haití desde que llegó Bukele… y los demás ya piden paz (D7EMSKQqqLA)
+- #13 — ¿Qué hace un lenguaje de 1959 manejando nuestro dinero? (RsQv7VecLoI)
+- #14 — Argentina Esconde Algo Que La Mayoría de los Argentinos No Sabe Que Existe (nQW0F1cRoTU)
+- #15 — El poder de la IA la ingeniería inversa crea un gestor de descargas imbatible (lZEBCDJAnKo)
 - #262 — La MENTIRA de los Microservicios desde el Día 1 (Monolito vs Microservicios) (JgrsAyefLFU)
 - #336 — Qwen 3.5 4B 🚀 El Modelo GRATIS que Supera al O3 Mini en Local (gYPX8NRg3vs)
 - #425 — Llama.cpp 🚀 Cómo Instalar IA Local y Modelos GGUF en tu PC (fkxXgdZdxv8)
