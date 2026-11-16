@@ -53,6 +53,21 @@ Skips sin numeración útil: WL-268 `RXZgXhyGSsg` [Deleted video] `.no-subs`. Ca
 | WL-278 | VIBECODING con Kimchi - Usando Kimi, GLM, Minimax (`f2laroE5zgE`) | Pelado Nerd | ia-uso-practico/agentes-de-codigo | En estación — video patrocinado (Kimchi) + afiliado; contraste directo con WL-271/272 (tema DHH) |
 
 Skips sin numeración útil: WL-277 `8VLCT9ueymM` [Private video] `.no-subs`. Cabeza del backlog tras el tramo: WL-279.
+
+## Tramo 41 — en estación (T44, 2026-11-15, relevo 34)
+
+5 fuentes útiles ingestadas en `wiki/wl/tramo-41/` (raws en `raw/wl/tramo-41/`), pendientes de consolidación:
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-279 | Capacitores: el robo de la fórmula que nadie pudo probar (`rDw8rz60U1w`) | ARCHIVO DEL FUTURO | general (historia tecnología) | En estación — separa lo documentado (electrolito sin fosfato, Maryland 2004; Dell/Nichicon 11,8 M equipos, 300 M USD) del relato del robo (fuentes anónimas); cruces WL-122/144, cluster WL-162/200/255-256 |
+| WL-280 | Este ERROR con FECHAS está matando tus consultas (`LoCT067AuLc`) | hdeleon.net | informatica-teoria o general | En estación — índice B-tree en fechas + «asesino de índices» (funciones DAY/MONTH/YEAR); cruces [[bases-de-datos]], WL-252/246 |
+| WL-282 | 700 Mensajes con Tu Voz Sin GRABAR Ni Uno (Fish Audio) (`ZVs7kE-TOmg`) | Javier Amblar: Estrategia · IA · Negocio | ia-uso-practico | En estación — Fish Audio orquestado por Claude (75 saludos clonados + asistente voz-a-voz web); afiliado y curso propio señalados; par con WL-284 |
+| WL-283 | Compilar llama.cpp [Comparativa] (`R94y_vpg_UM`) | Nichonauta | ia-uso-practico/ia-local | En estación — compilación CUDA por agente Codex vs precompilado: ~5 % de ganancia; cruces [[inferencia-local]], [[agentes-de-codigo]] |
+| WL-284 | Fish Audio: La Alternativa a ElevenLabs (`1Lbb4yGZ9v4`) | Pablo Martínez | ia-uso-practico | En estación — recorrido completo Fish Studio: clonación, avatares, agentes de llamada; marco afiliado; consolidar con WL-282 (posible concepto clonación-de-voz) |
+
+Skips sin numeración útil: WL-281 `OOylxha2qqg` «Sharp MiniCPM5» `.no-subs`. **Descargadas en scratch pendientes del tramo 42**: WL-285 (`66MMxku2D9Y`, Maxi Accotto) y WL-286 (`lsSe7kOkVjE`, Torti Code). Cabeza del backlog tras el tramo: WL-285.
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
