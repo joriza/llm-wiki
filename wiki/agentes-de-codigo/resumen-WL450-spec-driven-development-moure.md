@@ -34,3 +34,13 @@ Curso completo de **Spec Driven Development (SDD)** de Brais Moure: tesis de que
 ## Veredicto de triage
 
 Fuente técnica de primer nivel para el cluster agentes/SDD; conservar.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[brecha-junior-ia]]
+- [[delegacion-cognitiva-ia]]
+- [[frameworks-web-python]]
+- [[historia-software-corporativa]]
+- [[obsidian-memoria-agentes]]

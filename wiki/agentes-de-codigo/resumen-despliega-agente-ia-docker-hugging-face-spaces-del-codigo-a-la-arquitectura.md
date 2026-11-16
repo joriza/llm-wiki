@@ -33,3 +33,11 @@ Del prototipo local a una aplicación robusta en la nube, gratis: el agente mult
 - Transcripción automática en español con errores literales conservados en el raw («Hugan/Hugin Face», «Crub» por CRUD, «rack/RAC» por RAG, «FAS API» por FastAPI, «lunchain» por LangChain, «RMI» por README.md, «kit» por git). Este resumen los normaliza.
 - Parte de la serie con la fuente 19/57 (evaluación con RAGAs): consolidación conjunta pendiente.
 - Fuente 20/57 de la playlist «IA-Recursos».
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[ia-local-texto]]
+- [[obsidian-memoria-agentes]]
+- [[seguridad-fuera-del-modelo]]

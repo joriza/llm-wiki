@@ -24,3 +24,11 @@ Tutorial de instalación y demo con entusiasmo de presentación oficial («cambi
 - Las cifras de verificación (89 pruebas; «no pudo ejecutar todas las comprobaciones») son autoinformadas por la propia plataforma DeepSeek dentro de su salida — no verificación independiente.
 - El vídeo no muestra límites ni fallos del modo más allá de los dos tropiezos menores narrados — la impresión de fluidez puede deberse al montaje.
 - Cruces: [[deepseek-harness]] (página de entidad — esta fuente amplía la plataforma con su Creator Mode y su mecánica de plugins persistentes), [[resumen-nuevo-deepseek-harness-completamente-gratis-usando-gemma-4]] y [[resumen-deepseek-harness-conectar-modelos-locales-de-llama-cpp-para-programar-con-ia]] (las dos fuentes previas del arnés: setup local gratis con Gemma 4 vía Ollama e integración llama.cpp con presets), y [[resumen-deepseek-acaba-de-superar-a-claude-este-flujo-de-codigo-lo-cambia-todo]] (WL-23, mismo día y tramo: la otra pieza DeepSeek — el método superagente de orquestación en Claude Code).
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[deepseek-harness]]
+- [[desarrollo-con-modelos-locales]]
+- [[panorama-herramientas-open-source-ia]]
