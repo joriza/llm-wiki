@@ -72,3 +72,8 @@ Comparativa práctica de **6 micrófonos inalámbricos** de marcas distintas (de
 - grabacion-interna-32bit-float — concepto técnico (umbral ≥2 cuando aparezca otra fuente).
 - cancelacion-ruido-anc — concepto transversal (ya existe en otros dominios).
 - micrófono-inalámbrico — concepto base.
+
+## Ver también
+
+- [[cancelacion-adaptativa-ruido]]
+- [[seguridad-fuera-del-modelo]]

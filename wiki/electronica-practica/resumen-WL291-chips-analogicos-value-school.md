@@ -27,3 +27,8 @@ Análisis divulgativo de Value School (17 min) del nicho de los **chips analógi
 ## Cruces sugeridos
 
 - Cluster semiconductores: WL-220 (semiconductores), WL-238 (SiC — el vídeo menciona SiC/GaN explícitamente), WL-144 (North Star, motor sin imanes); posible concepto «ciclo industrial de semiconductores» si la consolidación lo justifica. Entidad candidata: Value School (canal, texto plano por umbral <2) si aparece de nuevo.
+
+
+## Ver también
+
+- [[verificacion-como-valor]]

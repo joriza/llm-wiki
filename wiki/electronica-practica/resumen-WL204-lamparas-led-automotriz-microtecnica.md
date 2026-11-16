@@ -26,3 +26,9 @@ Análisis de laboratorio de lámparas LED automotrices económicas (par de ~10 U
 - Patrocinio JLCPCB presente pero separable del contenido técnico.
 - Cruces previstos en consolidación: electrónica retro/hobby (WL-175 amplificador, WL-114), tema obsolescencia programada (WL-117 historia de software, posible concepto); entidad de canal candidata (MICROTECNICA).
 - Dominio previsto: general (electrónica/automotriz DIY — consolidación diferida, S4: no se crean dominios nuevos).
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]
+- [[historia-software-corporativa]]

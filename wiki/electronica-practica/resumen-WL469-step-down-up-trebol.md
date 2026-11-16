@@ -33,3 +33,8 @@ Análisis técnico de por qué los módulos comerciales **buck/boost** (step dow
 ## Veredicto de triage
 
 Contenido técnico sólido con demo propia; conservar.
+
+
+## Ver también
+
+- [[tr3bol-argentina]]

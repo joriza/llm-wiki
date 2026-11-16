@@ -65,3 +65,11 @@ Guía práctica (11 min) del canal **Ebm Informática**: **kit de 10 programas p
 - smart-monitoreo-discos — CrystalDiskInfo.
 - limpieza-adware-portable — ADWCleaner.
 - brumas-del-pasado / yasurrender — canales hermanos (texto plano).
+
+## Ver también
+
+- [[hardware-para-ia-local]]
+- [[historia-lenguajes-programacion]]
+- [[historia-software-corporativa]]
+- [[ia-local-texto]]
+- [[seguridad-fuera-del-modelo]]

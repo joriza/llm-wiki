@@ -37,3 +37,10 @@ Guía de compra e integración de cámaras de seguridad **locales y sin suscripc
 ## Veredicto de triage
 
 Guía práctica sólida y aplicable; conservar.
+
+
+## Ver también
+
+- [[inferencia-local]]
+- [[obsidian-memoria-agentes]]
+- [[routing-por-coste]]

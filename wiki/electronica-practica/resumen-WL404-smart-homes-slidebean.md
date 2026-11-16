@@ -35,3 +35,12 @@ Videoensayo de por qué el hogar inteligente prometido por Hollywood nunca lleg�
 ## Consolidación (relevo 2 del pedido L35, 2026-11-16)
 
 Consolidado en `electronica-practica/` (IoT/hogar; primera opción registrada). Cruces: [[inferencia-local]] (HAL local), filosofía local/self-hosting. Canal a texto plano por umbral <2: Slidebean.
+
+
+## Ver también
+
+- [[deepseek-harness]]
+- [[hardware-para-ia-local]]
+- [[ia-local-texto]]
+- [[inferencia-local]]
+- [[seguridad-fuera-del-modelo]]

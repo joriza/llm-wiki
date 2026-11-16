@@ -28,3 +28,10 @@ El sitio (MkDocs) cubre: instalación (binario precompilado, ESP GUI, flasher pr
 
 - Complementa directamente el clúster de matrices WS2812B: [[resumen-FAV-375-tira-led-pantalla-16x16-ws2812b-profe-garcia|pantalla 16×16 con tiras WS2812B]] (FAV-375), [[resumen-FAV-377-ws2812-strips-fastled-marios-ideas|tiras WS2812 con FastLED]] (FAV-377) y el soporte HUB75 que cruza con [[resumen-FAV-379-pixel-display-pico-panel-rgb-matrix-mundo-yakara|PIXEL DISPLAY Pico + HUB75]] (FAV-379) y [[resumen-FAV-380-raspy2dmd-panel-led-matrix-mundo-yakara|Raspy2DMD]] (FAV-380): WLED es la alternativa firmware-vs-código propio a esos montajes con Pico/Raspberry.
 - Los efectos de ruido FastLED enlazan con el enfoque de animaciones HSV no bloqueantes de FAV-377.
+
+
+## Ver también
+
+- [[el-profe-garcia]]
+- [[marios-ideas]]
+- [[mundo-yakara]]

@@ -23,3 +23,8 @@ Comparación técnica de dos amplificadores de audio integrados de función equi
 
 - Subtítulos manuales; metodología experimental transparente (prototipo, generador, osciloscopio, fuentes con lectura de consumo) con limitaciones declaradas (edición de audio, precisión de fuentes baratas, prueba de audio no equivalente a escucha en vivo).
 - Contenido técnico verifiable de primera mano; sin patrocinios; solo condicionales de más contenido (excluidos).
+
+
+## Ver también
+
+- [[fuente-sin-transformador]]

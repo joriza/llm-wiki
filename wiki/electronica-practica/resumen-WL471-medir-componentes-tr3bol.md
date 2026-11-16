@@ -26,3 +26,8 @@ Tutorial de TR3BOL Argentina (2.ª fuente del canal tras WL-469) sobre medición
 ## Veredicto de triage
 
 Fuente con transcripción deficiente; conservar el raw (fuente de verdad) con la señal; re-pass opcional a decisión del orquestador.
+
+
+## Ver también
+
+- [[tr3bol-argentina]]
