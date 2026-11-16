@@ -1,47 +1,79 @@
-# Playlist WL — entradas ya procesadas (para bajar o re-pass)
+# Playlist WL — ya procesadas que siguen en la lista (curación manual)
 
-_Actualizado 2026-11-14._
+Refresh 2026-11-16 01:45 — 4640 entradas en la lista; 861 IDs procesados en raw/; **70 siguen en la lista**.
 
-Total playlist: **4812** entradas (orden YouTube: nuevo→viejo). De ellas, **25** ya están procesadas en la wiki (+1 meta-fail).
+Los primeros 50 (posición real en YouTube, nueva→vieja):
 
-El número de cada fila es la posición real en la playlist de YouTube.
+1. #18 — Craft Anything does it all: Copy any app—easily and for free. (hclMMYHiMtI)
+2. #24 — Hoy! Hablamos con el equipo de Maintainers y varias sorpresas! (fh8f3UdpWzU)
+3. #25 — EL PRESTO quiso bajarme este video… (NO LO LOGRÓ) (npVBnrL-y-4)
+4. #26 — [Deleted video] (PK0qQyd4QqA)
+5. #27 — Parallel Parking: Standard vs Swing-Out Method 🅿️ #driving #parking #parkingtips #parallelparking (y3Y5VJ4BzKs)
+6. #28 — [Deleted video] (lmoryhSH6zA)
+7. #29 — [Deleted video] (pIBI6AYFQWY)
+8. #30 — [Deleted video] (uGQ5aJt7RZU)
+9. #31 — [Deleted video] (pzFzku0VAUc)
+10. #32 — [Deleted video] (0eL-Bz0rqmU)
+11. #33 — Lo que NUNCA te explicaron de las Transacciones en SQL (DBOuemO4q0k)
+12. #34 — Hablemos de Hacktivismo 🌐... es Solarpunk? ✴ (eoYC4gIw_Zs)
+13. #35 — ¡NOS MINTIERON! Nuevo Descubrimiento Impactante en Egipto Que Cambiará la Historia para Siempre (DYLNggoAbFU)
+14. #36 — [Deleted video] (VX1eYYyJ3XQ)
+15. #37 — Lone Survivor | Mark Wahlberg | Película Completa en Español Latino | Acción (vbBVhmhQkBw)
+16. #38 — Esto es lo más grande que ha pasado desde ChatGPT (d1fKvNlEj60)
+17. #39 — 10 Lugares Secretos de Buenos Aires Que Casi Nadie Conoce (U5EfsOY_v0A)
+18. #40 — [Deleted video] (RXZgXhyGSsg)
+19. #41 — Todo el machine learning en un solo video: los 6 modelos que usa tu empresa, escritos en Python (n_lfGiKs3qQ)
+20. #42 — Learn to build apps with DeepSeek and Techniques with adversarial LLMs (40rc2-QBQ5g)
+21. #43 — Ya nadie escribe código. El trabajo real es otro (QoTuEx4J-DA)
+22. #44 — El fin de escribir código manual (URVBSQCeU_c)
+23. #45 — APP del REBT para Electricistas (HpE2RWpMxxA)
+24. #46 — OpenRouter está usando un modelo de IA DEBILITADO (y podrías estar usando el endpoint equivocado) (AwWRZgbLExU)
+25. #47 — Crea un gestor de inventario profesional en Python asíncrono en 150 líneas (XC97Ck0c0fs)
+26. #48 — Hay algo que hacés al hablar y hace que te pierdan el respeto (pM5VPKYp2Zk)
+27. #49 — [Private video] (8VLCT9ueymM)
+28. #50 — VIBECODING con Kimchi - Usando Kimi, GLM, Minimax (f2laroE5zgE)
+29. #51 — Capacitores: el robo de la fórmula que nadie pudo probar (rDw8rz60U1w)
+30. #52 — 💀 Este ERROR con FECHAS está matando tus consultas (LoCT067AuLc)
+31. #53 — Sharp MiniCPM5 ⚡ Desarrollo agéntico largo en 4GB de VRAM (OOylxha2qqg)
+32. #54 — 700 Mensajes con Tu Voz Sin GRABAR Ni Uno (Fish Audio) (ZVs7kE-TOmg)
+33. #55 — Compilar llama.cpp [Comparativa] ⚡ ¿Vale la PENA frente al precompilado? (R94y_vpg_UM)
+34. #56 — 🚀 Fish Audio: La Alternativa a ElevenLabs (Clona tu Voz + Agentes de Llamadas + MCP con Claude) (1Lbb4yGZ9v4)
+35. #57 — Guardar JSON en SQL Server sin Romper el Rendimiento ⚡ (66MMxku2D9Y)
+36. #58 — ¿Qué es la arquitectura hexagonal y qué gano con ella? (lsSe7kOkVjE)
+37. #59 — Cómo funciona un índice en una base de datos (explicado facil) (ya_eWbTfHXE)
+38. #60 — GPT 6 Sol es más tonto 📉 COMPARATIVA con el 5.6 SOL para ver si EMPEORÓ (EjpkHj0m0NQ)
+39. #61 — Qwen 3.8 me decepcionó ⚠️ La VERDAD tras la comparación con Qwen 3.6 (Zx9hXpCemZQ)
+40. #62 — Un NEGOCIO ESPECIAL: El LÍDER de los CHIPS ANALÓGICOS (INUCSj7HM_M)
+41. #63 — La trampa de ser eficiente... (V9vXL8S2yLc)
+42. #64 — Así se arma un agente de código a tu medida con Pi (umfFbfApSAc)
+43. #65 — Qué hace un balanceador de carga en una aplicación real (OI-shxUoK0U)
+44. #66 — DeepSeek V4.1 Flash vs. El resto: ¿El fin de los LLM tradicionales? (ai0bifuwDOQ)
+45. #67 — Adiós a las licencias caras: herramienta Open Source para ingenieros (rZZJTF9IRjA)
+46. #68 — El Final de Mazinger Z (1978) Que Nadie Recuerda (VR7rCjFX660)
+47. #69 — Que es JEV? Y porque fue destronado por LAYA (WKsRwtR1D3I)
+48. #70 — Goodbye, Tutorials... Google Gives You a FREE AI Tutor 🧑🏻‍🎓 (MDZoiwPl2QU)
+49. #71 — Por qué crear gentle-ai casi me destruye 🤯 (0FXJWS6Dens)
+50. #116 — HOY te presento ODD, mi metodología para eliminar la BUROCRACIA de la IA (WM2JAuR-MOU)
 
-## A bajar (ya están en la wiki)
+Restantes (20, continuación):
 
-| # playlist | video_id | título |
-|---|---|---|
-| 35 | `apz7zycYq5o` | Argentina es el próximo objetivo del poder anglosajón |
-| 90 | `dF-9NaUot70` | Todo lo que Sabemos del Colapso de la AMOC — Y lo que le Haría a Tu País |
-| 173 | `FK7EyEWMQUs` | El código del Apolo 11 es open source (y es para morirse de risa) |
-| 178 | `hKV5oAQlp2M` | 5 Cambios en el Desarrollo de Software que Están Pasando AHORA (2026) |
-| 179 | `3WBlSKYMHcQ` | TODOS los lenguajes de programación explicados en 20 minutos (segunda Parte) |
-| 181 | `Hr693AAnCV0` | Así desarrollo con varios agentes a la par (Herdr + Claude Code) |
-| 196 | `Z1Z8DziVhzo` | ALERTA en ARGENTINA: "No es crisis, es colapso" | ¿Qué pasa con la educación Argentina? |
-| 225 | `yucBRF3lSaQ` | GRATIS y SIN LÍMITES: Accesos API de GPT, Claude, Gemini y Más 2026 |
-| 281 | `WM2JAuR-MOU` | HOY te presento ODD, mi metodología para eliminar la BUROCRACIA de la IA |
-| 333 | `yWx7TrhZTxg` | Deja de ver “vuelve en 5 horas”: 11 trucos para ahorrar tokens |
-| 410 | `gqgGPSd52E4` | Odysseus AI tiene algo INCREIBLE |
-| 422 | `nDN9G6EsAfs` | Desarrollo con Modelos IA Muy Pequeños 🚀 Cómo Programar con Gema 4 E2B y Qwen 3.5 2B |
-| 561 | `gYPX8NRg3vs` | Qwen 3.5 4B 🚀 El Modelo GRATIS que Supera al O3 Mini en Local |
-| 652 | `fkxXgdZdxv8` | Llama.cpp 🚀 Cómo Instalar IA Local y Modelos GGUF en tu PC |
-| 864 | `rfRFwXnk660` | Salvá a tus hijos (estás a tiempo) |
-| 1108 | `U92p5eKmI_k` | 7 COSAS QUE NO LE DEBES CONTAR A NADIE |
-| 1232 | `jhV91qbqe7U` | La Dura Verdad Sobre la Gestión del Tiempo que Nadie Quiere Escuchar |
-| 1339 | `TGHJl3Jq91k` | ¿Qué le PASA a nuestra GENERACIÓN? | CÓMO (NO) SER FELIZ |
-| 1467 | `cg9ECtsHfSc` | Cómo la INDUSTRIA MUSICAL Fabricó una GENERACIÓN SIN CRITERIO |
-| 1585 | `x14zcZHjz5M` | NEW Gemini CLI Update is INSANE! |
-| 1968 | `w5qxvEuSkQc` | Los ÚNICOS 6 Ejercicios que Necesitas para Construir Músculos Después de los 40 Años |
-| 2296 | `f_dzGFdH0UM` | ABANDONÁ las REDES | LOW-TECH, HIGH LIFE |
-| 2349 | `gthW3hGebB0` | PARÁSITOS MENTALES |
-| 3018 | `QVpxZyI1Iqk` | Este Generador de Bases de Datos GRATIS es una LOCURA |
-| 3958 | `kRmKtfWPYeg` | ESTUFA SUPER ECONOMICA , FUNCIONA CON ACEITE DE COCINA!!! |
-
-## Re-pass pendiente (NO bajar)
-
-| # playlist | video_id | título |
-|---|---|---|
-| 1 | `VOsd5kxNUqk` | El mito del hardware caro: cómo ejecutar LLM sin arruinarte |
-
----
-
-Títulos completos y enlaces clicables en `ids-procesados-wl.md`.
+51. #317 — La MENTIRA de los Microservicios desde el Día 1 (Monolito vs Microservicios) (JgrsAyefLFU)
+52. #391 — Qwen 3.5 4B 🚀 El Modelo GRATIS que Supera al O3 Mini en Local (gYPX8NRg3vs)
+53. #482 — Llama.cpp 🚀 Cómo Instalar IA Local y Modelos GGUF en tu PC (fkxXgdZdxv8)
+54. #694 — Salvá a tus hijos (estás a tiempo) (rfRFwXnk660)
+55. #809 — How One Developer Humiliated the Entire Tech Industry with Git (fi4YiZvbLXU)
+56. #823 — Por qué dejamos de leer (5X26m52lMwU)
+57. #868 — La Madera Será Como Nueva Para Siempre: El Aceite De $1, Que Intentaron Enterrar Desde 1932! (a047yopYSxw)
+58. #937 — 7 COSAS QUE NO LE DEBES CONTAR A NADIE (U92p5eKmI_k)
+59. #1061 — La Dura Verdad Sobre la Gestión del Tiempo que Nadie Quiere Escuchar (jhV91qbqe7U)
+60. #1168 — ¿Qué le PASA a nuestra GENERACIÓN? | CÓMO (NO) SER FELIZ (TGHJl3Jq91k)
+61. #1201 — 15 Docker Containers That Will Instantly Improve Your Home Lab (2025 Guide) (CaEgrQaPNvQ)
+62. #1202 — Things I Stopped Self-Hosting (And Why Cloud Won in My Home Lab) (-W-ayVXtFQs)
+63. #1296 — Cómo la INDUSTRIA MUSICAL Fabricó una GENERACIÓN SIN CRITERIO (cg9ECtsHfSc)
+64. #1414 — NEW Gemini CLI Update is INSANE! (x14zcZHjz5M)
+65. #1797 — Los ÚNICOS 6 Ejercicios que Necesitas para Construir Músculos Después de los 40 Años (w5qxvEuSkQc)
+66. #2124 — ABANDONÁ las REDES | LOW-TECH, HIGH LIFE (f_dzGFdH0UM)
+67. #2177 — PARÁSITOS MENTALES (gthW3hGebB0)
+68. #2846 — Este Generador de Bases de Datos GRATIS es una LOCURA (QVpxZyI1Iqk)
+69. #2862 — DILE ADIOS A LAS FUENTES CON TRANSFORMADOR, CONECTA DIRECTO A 120V (yBCiz6xEB-4)
+70. #3786 — ESTUFA SUPER ECONOMICA , FUNCIONA CON ACEITE DE COCINA!!! (kRmKtfWPYeg)
