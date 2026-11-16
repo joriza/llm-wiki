@@ -3943,3 +3943,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-16] ingesta WL | WL-479 — ¿Por qué la Fosa de las Marianas Sigue Aterrorizando a los Científicos?
 
 - Fuente heredada de scratch (`.done` `Aarn1kRt0ig`, índice 2 del cache, canal Homosapiens), procesada SIN re-descargar. Raw espejado intacto a `raw/wl/tramo-79/`; resumen `wiki/wl/tramo-79/resumen-WL479-fosa-marianas-homosapiens.md`; fila en index.md. Divulgación: Trieste 1960, zonas hadal, pez caracol, quimiosíntesis, microplásticos. Dominio previsto: general (L12, S4). ASR distorsiona nombres («Jack Spicard»=Piccard) y el récord de pez (833↔8.336 m) — señalado; 2.ª mano sin enlaces. Par WL-477/479 mismo canal — consolidar juntos. «Pedido L37: 3/15 útiles».
+
+## [2026-11-16] ingesta WL | WL-480 — La trágica historia de los náufragos en la isla Tromelin
+
+- Descarga nueva vía runner `--one` (salida WARP 104.28.199.112, `WTGC0Tysflk`, índice 3 del cache — sin 429). Raw intacto en `.atl/scratch/ver-mas-tarde/` espejado a `raw/wl/tramo-79/`; resumen `wiki/wl/tramo-79/resumen-WL480-tromelin-naufragos-secretos-vida-cosmica.md`; fila en index.md. Divulgación Secretos de la Vida Cósmica (1.ª fuente): naufragio L'Utile 1761, 15 años de abandono, arqueología del ingenio, rescate 1776, cierre ambiental plásticos. Dominio previsto: general (L12, S4). 2.ª mano sin citas — señalada; 1.ª fuente del tema esclavitud/colonial. «Pedido L37: 4/15 útiles».
