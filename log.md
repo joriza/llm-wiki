@@ -3975,3 +3975,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-16] ingesta WL | WL-485 — Todo lo que Sabemos del Lago Baikal — Y Por Qué Se Está Abriendo
 
 - Descarga nueva vía runner `--one` (salida WARP 104.28.199.112, `O-x6b7KBv_M`, índice 8 del cache, canal Coordenada Crítica — sin 429, puerta 85-95 s). Raw intacto en scratch espejado a `raw/wl/tramo-80/`; resumen `wiki/wl/tramo-80/resumen-WL485-lago-baikal-coordenada-critica.md`; fila en index.md. Divulgación de riesgos naturales (1.ª fuente del canal, subtítulos manuales): rift activo + desmonte del mito «océano en formación» (par directo con WL-482 Pangea, mismo tramo — consolidar juntos), endemismos, cambio climático medido. Dominio previsto: general (L12, S4). Cifras 2.ª mano sin citas y funnel comercial declarado (kit) excluido — señalado. «Pedido L37: 9/15 útiles».
+
+## [2026-11-16] ingesta WL | WL-486 — Ni siquiera Disney lo pudo frenar
+
+- Descarga nueva vía runner `--one` (salida WARP 104.28.199.112, `1XOI1rd5h_s`, índice 9 del cache, canal elestark — sin 429, puerta 85-95 s). Raw intacto en scratch espejado a `raw/wl/tramo-80/`; resumen `wiki/wl/tramo-80/resumen-WL486-deadpool-elestark.md`; fila en index.md. Recap Deadpool (1.ª fuente del canal): 2009→2016→2018→2024, historia industrial de 2.ª mano. Dominio previsto: general/cultura pop (L12, S4); NO factual — señalado en resumen e index. «Pedido L37: 10/15 útiles».
