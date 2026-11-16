@@ -1,8 +1,8 @@
 # WL-183 · La Traición que DESTRUYÓ a Anonymous para siempre
 
-- **Fuente original**: `raw/general/2026-07-12-la-traicion-que-destruyo-a-anonymous-para-siempre.md`
+- **Fuente original**: `raw/critica-tecnologica/2026-07-12-la-traicion-que-destruyo-a-anonymous-para-siempre.md`
 - **Video**: [La Traición que DESTRUYÓ a Anonymous para siempre](https://www.youtube.com/watch?v=IDdFTlLXnz0) · Canal: Historias De Hackers · Publicado: 2026-07-12 · Duración: 44:41
-- **Dominio previsto** (consolidación diferida, L12): `general` o `ia-critica-y-fronteras` (ciberseguridad/historia de internet — marco docudrama señalado; cruces candidatos con WL-177/WL-150 seguridad, WL-128 documental)
+- **Dominio previsto** (consolidación diferida, L12): `critica-tecnologica` o `ia-critica-y-fronteras` (ciberseguridad/historia de internet — marco docudrama señalado; cruces candidatos con WL-177/WL-150 seguridad, WL-128 documental)
 
 ## La historia (formato docudrama, 44 min)
 
