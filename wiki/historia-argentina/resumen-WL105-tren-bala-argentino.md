@@ -1,6 +1,6 @@
 # Resumen: Tren bala argentino — US$ 4.000 millones y ni un metro de vía
 
-- **Fuente original**: `raw/general/2026-11-02-tren-bala-argentino-us-4-000-millones-y-ni-un-metro-de-via.md` (WL-105, tramo 8)
+- **Fuente original**: `raw/historia-argentina/2026-11-02-tren-bala-argentino-us-4-000-millones-y-ni-un-metro-de-via.md` (WL-105, tramo 8)
 - **URL**: https://www.youtube.com/watch?v=jsIZS6WhqcQ
 - **Canal**: Quien Mueve el Mundo
 - **Publicado**: 2026-11-02 · **Duración**: 10:07 · **Idioma**: es (subtítulos automáticos, transcripción literal)

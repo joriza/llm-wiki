@@ -1,9 +1,9 @@
 # WL-417 — ¿Dónde está el pedazo que le falta a la Casa Rosada?
 
-- **Fuente**: `raw/general/2026-09-05-donde-esta-el-pedazo-que-le-falta-a-la-casa-rosada.md` (`SmwLVJQ_XZs`, https://www.youtube.com/watch?v=SmwLVJQ_XZs)
+- **Fuente**: `raw/historia-argentina/2026-09-05-donde-esta-el-pedazo-que-le-falta-a-la-casa-rosada.md` (`SmwLVJQ_XZs`, https://www.youtube.com/watch?v=SmwLVJQ_XZs)
 - **Canal**: Mati en la Ciudad (1.ª fuente WL)
 - **Publicado**: 2026-09-05 · **Duración**: 19:38 · **Idioma**: es (subtítulos automáticos)
-- **Dominio previsto**: general (historia/arquitectura argentina; divulgación documentada)
+- **Dominio previsto**: historia-argentina (historia/arquitectura argentina; divulgación documentada)
 - **Tramo**: 68 (relevo 8 de 12 del pedido L34)
 
 ## Qué trata

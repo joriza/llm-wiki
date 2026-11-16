@@ -1,6 +1,6 @@
 # WL-126 — Tren Urquiza: 7 cosas que NO SABES y el proyecto que NO fue
 
-- **Fuente original**: `raw/general/2026-10-30-tren-urquiza-7-cosas-que-no-sabes-y-el-proyecto-que-no-fue.md` (`49QT0KNgonA`, [Ojo Urbano](https://www.youtube.com/watch?v=49QT0KNgonA), 2026-10-30, 11:37).
+- **Fuente original**: `raw/historia-argentina/2026-10-30-tren-urquiza-7-cosas-que-no-sabes-y-el-proyecto-que-no-fue.md` (`49QT0KNgonA`, [Ojo Urbano](https://www.youtube.com/watch?v=49QT0KNgonA), 2026-10-30, 11:37).
 - **Canal**: Ojo Urbano
 - **Publicado**: 2026-10-30
 - **Tipo**: divulgación de transporte urbano/infraestructura

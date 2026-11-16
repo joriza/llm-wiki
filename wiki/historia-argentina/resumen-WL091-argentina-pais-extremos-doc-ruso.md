@@ -1,6 +1,6 @@
 # Resumen: Argentina: el país que no debería existir (Аргентина: страна, которой не должно существовать)
 
-- **Fuente original**: `raw/general/2026-10-27-.md` (WL-91, tramo 7)
+- **Fuente original**: `raw/historia-argentina/2026-10-27-.md` (WL-91, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=0HzKjK62Cb0
 - **Canal**: Вопросы и Ответы (Preguntas y Respuestas) — **canal ruso, video en ruso**
 - **Publicado**: 2026-10-26 (metadato del listing: 2026-10-27) · **Duración**: 24:17 · **Idioma**: ru (subtítulos automáticos rusos, transcripción literal)

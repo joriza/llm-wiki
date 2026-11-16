@@ -1,6 +1,6 @@
 # WL-202 · Argentina: 20 Secretos Geográficos Que Parecen Mentira
 
-- **Fuente original**: `raw/general/2026-10-15-argentina-20-secretos-geograficos-que-parecen-mentira.md`
+- **Fuente original**: `raw/historia-argentina/2026-10-15-argentina-20-secretos-geograficos-que-parecen-mentira.md`
 - **Video**: [Argentina: 20 Secretos Geográficos Que Parecen Mentira](https://www.youtube.com/watch?v=iC7MSnz1n24)
 - **Canal**: Planeta al Descubierto
 - **Publicado**: 2026-10-15 · **Duración**: 30:50 · **Ingesta**: 2026-11-15 (tramo 27, formato dominio pendiente de consolidación)

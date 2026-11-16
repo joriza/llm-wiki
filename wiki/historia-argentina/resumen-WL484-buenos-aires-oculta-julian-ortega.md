@@ -1,9 +1,9 @@
 # WL-484 — Buenos Aires Esconde Algo Que La Mayoría de los Argentinos No Sabe Que Existe
 
-- **Fuente original**: `raw/general\2026-11-14-buenos-aires-esconde-algo-que-la-mayoria-de-los-argentinos-no-sabe-que-existe.md` ([Vídeo](https://www.youtube.com/watch?v=WbQnT7xKXHA))
+- **Fuente original**: `raw/historia-argentina/2026-11-14-buenos-aires-esconde-algo-que-la-mayoria-de-los-argentinos-no-sabe-que-existe.md` ([Vídeo](https://www.youtube.com/watch?v=WbQnT7xKXHA))
 - **Canal**: Julian Ortega (1.ª fuente WL)
 - **Publicado**: 2026-11-14 · **Duración**: 38:56
-- **Dominio provisional**: general (geografía urbana — formato listicle «25 datos»; divulgación didáctica, autor presentado como docente de geografía)
+- **Dominio provisional**: historia-argentina (geografía urbana — formato listicle «25 datos»; divulgación didáctica, autor presentado como docente de geografía)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
