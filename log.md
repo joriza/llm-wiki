@@ -3917,3 +3917,10 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 **Commits pendientes (orquestador)**: git mv raws + resúmenes (72 archivos), index.md, wiki/wl/indice-wl.md, overview.md, sintesis.md, log.md, odd/tasks/ingesta-ver-mas-tarde.md (cierre L36).
 
 **Sin push (L13)**. **Cabeza backlog**: WL-477 (siguiente pendiente tras índice 47 del cache fresco).
+
+## [2026-11-16] ingesta WL | tramo 79 — TRAMO-CLOSED por 429 (pedido L37, relevo 1)
+
+- Cabeza fresca verificada contra el cache post-refresh (4.473 entradas): índice 0 = `9x3TDT3Gyc4` («¿Por qué la Antártida Sigue Aterrorizando a los Científicos?», Homosapiens) = WL-477 esperada. **Coincide → sin re-listado** (regla L36 aplicada correctamente).
+- Primer `--one` (16:11, presupuesto 500): DL 1/4473 sobre `9x3TDT3Gyc4` → **429 al minuto** → TRAMO-CLOSED, sin reintentar (regla del encargo). Salida vigente `45.239.32.215`, flaggeada para descargas (registrada en `.atl/salidas.md`).
+- **0 fuentes útiles procesadas, 0 skips, 0 descargas completadas, 0 commits de contenido**; sin cambios en index.md ni raw/. Cabeza futura sin cambios: **WL-477 (`9x3TDT3Gyc4`, índice 0 del cache)** — requiere rotación de salida (playbook 429) antes del re-lanzamiento del relevo 1.
+- Contador: «Pedido L37: **0/15 útiles**» (restan 15; T84/T85 siguen pendientes tras T83).
