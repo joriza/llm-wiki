@@ -1,6 +1,6 @@
 # WL-334 — Serverless: cuándo te conviene y cuándo sale más caro
 
-- **Fuente original**: `raw/general/2026-09-23-serverless-cuando-te-conviene-y-cuando-sale-mas-caro.md` ([vídeo](https://www.youtube.com/watch?v=KkG4fSMRmXE))
+- **Fuente original**: `raw/informatica/2026-09-23-serverless-cuando-te-conviene-y-cuando-sale-mas-caro.md` ([vídeo](https://www.youtube.com/watch?v=KkG4fSMRmXE))
 - **Canal**: Torti Code
 - **Publicado**: 2026-09-22 · **Duración**: 12:49 · **Ingesta**: 2026-11-16 (tramo 51)
 - **Tipo**: divulgación técnica educativa (1.ª fuente del tema por el canal)

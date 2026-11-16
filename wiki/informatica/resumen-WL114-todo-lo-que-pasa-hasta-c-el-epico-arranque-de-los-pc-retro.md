@@ -1,6 +1,6 @@
 # Resumen: TODO lo que pasa HASTA C:\ || El ÉPICO arranque de los PC retro
 
-- **Fuente original**: `raw/general/2026-10-31-todo-lo-que-pasa-hasta-c-el-epico-arranque-de-los-pc-retro.md` (WL-114, tramo 10)
+- **Fuente original**: `raw/informatica/2026-10-31-todo-lo-que-pasa-hasta-c-el-epico-arranque-de-los-pc-retro.md` (WL-114, tramo 10)
 - **Canal**: PC Clásico
 - **Video**: https://www.youtube.com/watch?v=a1csv05WWdM
 - **Publicado**: 2026-10-31 · **Duración**: 13:24 · **Idioma**: español (ASR)

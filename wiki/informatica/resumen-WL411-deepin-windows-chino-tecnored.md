@@ -1,9 +1,9 @@
 # WL-411 — Probé el «Windows Chino» en una PC Antigua… y Realmente me Sorprendió
 
-- **Fuente**: `raw/general/2026-09-05-probe-el-windows-chino-en-una-pc-antigua-y-realmente-me-sorprendio.md` (`GiSBK-fK1b8`, https://www.youtube.com/watch?v=GiSBK-fK1b8)
+- **Fuente**: `raw/informatica/2026-09-05-probe-el-windows-chino-en-una-pc-antigua-y-realmente-me-sorprendio.md` (`GiSBK-fK1b8`, https://www.youtube.com/watch?v=GiSBK-fK1b8)
 - **Canal**: TecnoRed (1.ª fuente WL)
 - **Publicado**: 2026-09-05 · **Duración**: 10:57 · **Idioma**: es (subtítulos automáticos)
-- **Dominio previsto**: general o ia-uso-practico (tutorial de sistema operativo — resurrección de PC antiguas)
+- **Dominio previsto**: informatica o ia-uso-practico (tutorial de sistema operativo — resurrección de PC antiguas)
 - **Tramo**: 67 (relevo 7 de 12 del pedido L34)
 
 ## Qué trata

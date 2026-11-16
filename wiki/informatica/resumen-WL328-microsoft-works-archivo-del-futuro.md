@@ -1,6 +1,6 @@
 # Microsoft Works: el programa que casi todos tenían y casi nadie eligió
 
-- **Fuente original**: `raw/general/2026-09-21-microsoft-works-el-programa-que-casi-todos-tenian-y-casi-nadie-eligio.md` (`SthQ9b4SB8Y`, WL-328, índice 21 del cache fresco de 04:52)
+- **Fuente original**: `raw/informatica/2026-09-21-microsoft-works-el-programa-que-casi-todos-tenian-y-casi-nadie-eligio.md` (`SthQ9b4SB8Y`, WL-328, índice 21 del cache fresco de 04:52)
 - **Canal**: ARCHIVO DEL FUTURO
 - **Publicado**: 2026-09-21 · Duración 28:32
 - **Tipo**: divulgación histórica de software

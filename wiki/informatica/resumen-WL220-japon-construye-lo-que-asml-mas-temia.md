@@ -1,6 +1,6 @@
 # WL-220 · Japón Acaba de Construir lo Que ASML Más Temía
 
-- **Fuente original**: `raw/general/2026-10-11-japon-acaba-de-construir-lo-que-asml-mas-temia.md`
+- **Fuente original**: `raw/informatica/2026-10-11-japon-acaba-de-construir-lo-que-asml-mas-temia.md`
 - **Video**: [Japón Acaba de Construir lo Que ASML Más Temía](https://www.youtube.com/watch?v=VOFdOZOb1bc)
 - **Canal**: Throne Dust
 - **Publicado**: 2026-10-11 · **Duración**: 33:07 · **Ingesta**: 2026-11-15 (tramo 31, formato dominio pendiente de consolidación)

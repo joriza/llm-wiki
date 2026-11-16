@@ -1,6 +1,6 @@
 # WL-122 — ¿Podría Google vencer a Nvidia en chips de IA? TPU vs GPU explicado
 
-- **Fuente original**: `raw/general/2026-10-31-podria-google-vencer-a-nvidia-en-chips-de-ia-tpu-vs-gpu-explicado.md` (`rpjIeRUCwpE`, [Marfil Lab](https://www.youtube.com/watch?v=rpjIeRUCwpE), 2026-10-31, 30:46).
+- **Fuente original**: `raw/informatica/2026-10-31-podria-google-vencer-a-nvidia-en-chips-de-ia-tpu-vs-gpu-explicado.md` (`rpjIeRUCwpE`, [Marfil Lab](https://www.youtube.com/watch?v=rpjIeRUCwpE), 2026-10-31, 30:46).
 - **Canal**: Marfil Lab
 - **Publicado**: 2026-10-31
 - **Tipo**: divulgación técnica-económica (hardware de IA)

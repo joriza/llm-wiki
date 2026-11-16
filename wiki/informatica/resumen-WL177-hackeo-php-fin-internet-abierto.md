@@ -1,6 +1,6 @@
 # Por qué el hackeo a PHP es el fin del internet abierto
 
-- **Fuente original**: `raw/general/2026-10-24-por-que-el-hackeo-a-php-es-el-fin-del-internet-abierto.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=F3EmYmJjIoQ))
+- **Fuente original**: `raw/informatica/2026-10-24-por-que-el-hackeo-a-php-es-el-fin-del-internet-abierto.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=F3EmYmJjIoQ))
 - **Canal**: Platzi (Freddy Vega)
 - **Publicado**: 2026-10-24 · **Duración**: 21:23 · **Idioma**: es (subtítulos automáticos, normalizados en este resumen)
 - **Recopilado**: 2026-11-15 (tramo 22, WL-177)

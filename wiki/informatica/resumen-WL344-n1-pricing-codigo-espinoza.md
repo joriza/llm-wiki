@@ -1,6 +1,6 @@
 # WL-344 · A mi amigo le pagaron $2.500 por arreglar en 20 minutos lo que otro hizo en 3 meses
 
-- **Fuente**: [`raw/general/2026-09-22-a-mi-amigo-le-pagaron-2-500-por-arreglar-en-20-minutos-lo-que-otro-hizo-en-3-mes.md`](../../raw/general/2026-09-22-a-mi-amigo-le-pagaron-2-500-por-arreglar-en-20-minutos-lo-que-otro-hizo-en-3-mes.md) — vídeo de YouTube `x9Du54J0EaE`
+- **Fuente**: [`raw/informatica/2026-09-22-a-mi-amigo-le-pagaron-2-500-por-arreglar-en-20-minutos-lo-que-otro-hizo-en-3-mes.md`](../../raw/general/2026-09-22-a-mi-amigo-le-pagaron-2-500-por-arreglar-en-20-minutos-lo-que-otro-hizo-en-3-mes.md) — vídeo de YouTube `x9Du54J0EaE`
 - **Canal**: Código Espinoza — Automatiza tu Vida
 - **Publicado**: 2026-09-22 · **Duración**: 07:32
 - **Tipo**: videoensayo tutorial (optimización de código heredado + pricing freelance)

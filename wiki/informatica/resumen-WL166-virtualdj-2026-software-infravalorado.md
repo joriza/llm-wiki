@@ -1,6 +1,6 @@
 # WL-166 · VirtualDJ 2026: El software que NADIE respetaba ahora sorprende a todos
 
-- **Fuente original**: `raw/general/2026-10-24-virtualdj-2026-el-software-que-nadie-respetaba-ahora-sorprende-a-todos.md`
+- **Fuente original**: `raw/informatica/2026-10-24-virtualdj-2026-el-software-que-nadie-respetaba-ahora-sorprende-a-todos.md`
 - **Video**: [wTZkkpN70g0](https://www.youtube.com/watch?v=wTZkkpN70g0) · Canal: Portal DJ · Publicado: 2026-10-23 · Duración: 16:21
 - **Tipo**: ensayo de historia del software / análisis técnico comparado (software DJ).
 

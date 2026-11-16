@@ -1,6 +1,6 @@
 # WL-318 — 15 SITIOS WEB BRUTALES que deberías guardar en FAVORITOS
 
-- **Fuente original**: `raw/general/2026-11-13-15-sitios-web-brutales-que-deberias-guardar-en-favoritos.md`
+- **Fuente original**: `raw/informatica/2026-11-13-15-sitios-web-brutales-que-deberias-guardar-en-favoritos.md`
 - **Video**: [vy587lRWmv0](https://www.youtube.com/watch?v=vy587lRWmv0) (08:20, publicado 2026-11-13)
 - **Canal**: El Androide Feliz (utilidades Android/tech, subtítulos automáticos es)
 - **Recopilado**: 2026-11-16 (transcripción de subtítulos automáticos, literal; garbiñeos normalizados solo aquí)

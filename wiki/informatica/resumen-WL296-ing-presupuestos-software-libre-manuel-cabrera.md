@@ -1,6 +1,6 @@
 # WL-296 — Adiós a las licencias caras: herramienta Open Source para ingenieros
 
-- **Fuente original**: `raw/general/2026-09-23-adios-a-las-licencias-caras-herramienta-open-source-para-ingenieros.md` (transcripción automática intacta)
+- **Fuente original**: `raw/informatica/2026-09-23-adios-a-las-licencias-caras-herramienta-open-source-para-ingenieros.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=rZZJTF9IRjA
 - **Canal**: Manuel Cabrera Caballero · **Publicado**: 2026-09-23 · **Duración**: 23:32 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)

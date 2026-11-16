@@ -3,7 +3,7 @@
 - **Fuente**: `2026-09-06-como-el-nuevo-invento-de-china-va-a-reemplazar-tu-impresora-para-siempre.md` (`TmeGjF9GwBI`, https://www.youtube.com/watch?v=TmeGjF9GwBI)
 - **Canal**: NovaMente X
 - **Publicado**: 2026-09-06 · **Duración**: ~10:45 · **Idioma**: es (subtítulos automáticos)
-- **Dominio previsto**: general (tecnología/consumo) — videoensayo NO factual
+- **Dominio previsto**: informatica (tecnología/consumo) — videoensayo NO factual
 - **Tramo**: 69 (relevo 9 de 12 del pedido L34)
 
 ## Qué trata

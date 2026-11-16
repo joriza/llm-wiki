@@ -1,6 +1,6 @@
 # WL-223 · RX 580: por qué AMD nunca volverá a repetir ese error
 
-- **Fuente original**: `raw/general/2026-10-11-rx-580-por-que-amd-nunca-volvera-a-repetir-ese-error.md`
+- **Fuente original**: `raw/informatica/2026-10-11-rx-580-por-que-amd-nunca-volvera-a-repetir-ese-error.md`
 - **Video**: [RX 580: Why AMD Will NEVER Repeat That Mistake](https://www.youtube.com/watch?v=tdLRNfeTow8) (título en YouTube en inglés; contenido en español)
 - **Canal**: FRANK SIERRA
 - **Publicado**: 2026-10-11 · **Duración**: ~15:45 · **Ingesta**: 2026-11-15 (tramo 31, formato dominio pendiente de consolidación)

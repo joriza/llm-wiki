@@ -1,6 +1,6 @@
 # WL-232 — OpManager: El Panel que Todo DevOps Debería Usar
 
-- **Fuente original**: `raw/general/2026-10-13-opmanager-el-panel-que-todo-devops-deberia-usar.md`
+- **Fuente original**: `raw/informatica/2026-10-13-opmanager-el-panel-que-todo-devops-deberia-usar.md`
 - **Video**: [OpManager: El Panel que Todo DevOps Debería Usar](https://www.youtube.com/watch?v=OZ3MNPZV6xc)
 - **Canal**: Fazt · **Publicado**: 2026-10-12 · **Duración**: 20:18 · **Ingesta**: 2026-11-15 (tramo 33)
 

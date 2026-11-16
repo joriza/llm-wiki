@@ -1,6 +1,6 @@
 # WL-323 — Las Laptops de $250 de China Están Destruyendo un Negocio de $200 Mil Millones — Así lo Hacen
 
-- **Fuente original**: `raw/general/2026-09-17-las-laptops-de-250-de-china-estan-destruyendo-un-negocio-de-200-mil-millones-asi.md`
+- **Fuente original**: `raw/informatica/2026-09-17-las-laptops-de-250-de-china-estan-destruyendo-un-negocio-de-200-mil-millones-asi.md`
 - **Video**: [YiSTV99y3Nw](https://www.youtube.com/watch?v=YiSTV99y3Nw) (20:21, publicado 2026-09-17)
 - **Canal**: Taller Del Mundo (divulgación técnica/industrial en español, subtítulos automáticos es)
 - **Recopilado**: 2026-11-16 (transcripción de subtítulos automáticos, literal; garbiñeos normalizados solo aquí)

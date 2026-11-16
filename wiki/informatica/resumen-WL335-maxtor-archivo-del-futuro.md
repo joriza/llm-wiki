@@ -1,6 +1,6 @@
 # WL-335 — Maxtor: por qué desapareció el disco que había en tu PC
 
-- **Fuente original**: `raw/general/2026-09-23-maxtor-por-que-desaparecio-el-disco-que-habia-en-tu-pc.md` ([vídeo](https://www.youtube.com/watch?v=fnVeInXVrKU))
+- **Fuente original**: `raw/informatica/2026-09-23-maxtor-por-que-desaparecio-el-disco-que-habia-en-tu-pc.md` ([vídeo](https://www.youtube.com/watch?v=fnVeInXVrKU))
 - **Canal**: Archivo del Futuro
 - **Publicado**: 2026-09-23 · **Duración**: 31:19 · **Ingesta**: 2026-11-16 (tramo 51)
 - **Tipo**: divulgación histórica documentada (empresa/industria)

@@ -1,6 +1,6 @@
 # Windows 11 + Linux + Android en 1 Solo Sistema | WinUX 11 LTSC
 
-- **Fuente original**: `raw/general/2026-10-14-windows-11-linux-android-en-1-solo-sistema-winux-11-ltsc.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=3-mwREsdKfQ))
+- **Fuente original**: `raw/informatica/2026-10-14-windows-11-linux-android-en-1-solo-sistema-winux-11-ltsc.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=3-mwREsdKfQ))
 - **Canal**: Soy David PC Tech
 - **Publicado**: 2026-10-14 · **Duración**: 19:48 · **Idioma**: es (subtítulos manuales)
 - **Recopilado**: 2026-11-15 (tramo 21, WL-174)

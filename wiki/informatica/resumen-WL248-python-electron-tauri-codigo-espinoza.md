@@ -1,6 +1,6 @@
 # WL-248 — Hice la misma app en Python, Electron y Tauri: la más liviana no es la que todos dicen
 
-- **Fuente original**: `raw/general/2026-10-12-hice-la-misma-app-en-python-electron-y-tauri-la-mas-liviana-no-es-la-que-todos-d.md`
+- **Fuente original**: `raw/informatica/2026-10-12-hice-la-misma-app-en-python-electron-y-tauri-la-mas-liviana-no-es-la-que-todos-d.md`
 - **Video**: [Hice la misma app en Python, Electron y Tauri: la más liviana no es la que todos dicen](https://www.youtube.com/watch?v=vvCCnOivQhE)
 - **Canal**: Código Espinoza - Automatiza tu Vida · **Publicado**: 2026-10-11 (metadatos: 2026-10-12) · **Duración**: 04:17 · **Ingesta**: 2026-11-15 (tramo 35)
 

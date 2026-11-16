@@ -1,6 +1,6 @@
 # WL-315 — El poder de la IA: la ingeniería inversa crea un gestor de descargas imbatible
 
-- **Fuente original**: `raw/general/2026-11-14-el-poder-de-la-ia-la-ingenieria-inversa-crea-un-gestor-de-descargas-imbatible.md`
+- **Fuente original**: `raw/informatica/2026-11-14-el-poder-de-la-ia-la-ingenieria-inversa-crea-un-gestor-de-descargas-imbatible.md`
 - **Video**: [lZEBCDJAnKo](https://www.youtube.com/watch?v=lZEBCDJAnKo) (31:28, publicado 2026-11-14)
 - **Canal**: El Bit Informado (divulgación tecnológica)
 - **Recopilado**: 2026-11-16 (transcripción de subtítulos automáticos, sin normalizar)

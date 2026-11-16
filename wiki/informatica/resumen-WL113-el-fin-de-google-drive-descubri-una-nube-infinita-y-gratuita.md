@@ -1,6 +1,6 @@
 # Resumen: ¿El fin de Google Drive? Descubrí una nube infinita y gratuita!
 
-- **Fuente original**: `raw/general/2026-10-29-el-fin-de-google-drive-descubri-una-nube-infinita-y-gratuita.md` (WL-113, tramo 10)
+- **Fuente original**: `raw/informatica/2026-10-29-el-fin-de-google-drive-descubri-una-nube-infinita-y-gratuita.md` (WL-113, tramo 10)
 - **Canal**: Compucenter33
 - **Video**: https://www.youtube.com/watch?v=yMFouvbvd4w
 - **Publicado**: 2026-10-29 · **Duración**: 09:03 · **Idioma**: español (ASR)
