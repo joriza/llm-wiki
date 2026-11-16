@@ -81,3 +81,17 @@ Los 50 pares útiles migraron a sus dominios definitivos (detalle por fuente en 
 | ciencias-tierra/ | 1 | 226 |
 
 SKIP sin migrar (no generaron resumen): WL-204a (`uGQ5aJt7RZU`, `.no-subs`, video eliminado) y duplicados pre-flight WL-237/242/243/245 (ya procesados antes de la numeración WL).
+
+## Tramo 48 — activo (relevo 1, pedido L32, 2026-11-16)
+
+5 fuentes ÚTILES ingestadas (raw en `raw/wl/tramo-48/`, resúmenes en `wiki/wl/tramo-48/`); sin skips, sin meta-fails; salida 45.239.32.215 sin 429 (L13). Dominios destino previstos (S4, sin dominios nuevos; consolidación diferida):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| WL-316 | ¡James Webb acaba de observar Plutón por primera vez y es IMPACTANTE! (`ahNg1-lLkvQ`) | Misterio Celeste | general (divulgación astronómica) o ciencias-tierra |
+| WL-317 | Auge y caída del fundador de NVIDIA, el hombre más poderoso de la IA (`cHUvtGd6GSg`) | Gustavo Entrala | general (tecnología/industria/geopolítica) o ia-critica-y-fronteras — NO verificada, señalada |
+| WL-318 | 15 SITIOS WEB BRUTALES que deberías guardar en FAVORITOS (`vy587lRWmv0`) | El Androide Feliz | general (herramientas) o self-hosting tangencial |
+| WL-319 | ¿Por Qué las Mujeres Tienen Glúteos Tan Grandes? ¡La Evolución se Volvió Loca! (`mc-R71_MSP8`) | ¿Cómo Así | general (evolución humana) o salud-fitness |
+| WL-320 | LA SALAMANDRA MÁS BARATA DEL MERCADO — Review completa — ECO 7000 TROMEN (`bKZK65NdNWE`) | FASE | casa-calefaccion (cluster establecido) o general |
+
+Cabeza futura del backlog: **WL-321** (índice 5 del cache fresco de 04:52, 4.584 entradas).
