@@ -3357,3 +3357,23 @@ Contador del pedido L25: **10/15 útiles** (restan 5). Próximo: T43 (relevo 33,
 - Pendientes de consolidación: tramo 42 completo en estación (hub actualizado, sección tramo 42); tramos 38-42 acumulados en estación; entidades candidatas Torti Code, Nichonauta, Maxi Accotto (todas <umbral salvo acumulables Nichonauta/Torti Code).
 - **Última fuente con id**: WL-290 (`Zx9hXpCemZQ`). **Cabeza del backlog tras el tramo: WL-291** (`INUCSj7HM_M`, «Un NEGOCIO ESPECIAL: El LÍDER de los CHIPS ANALÓGICOS», posición 103).
 - **Pedido L26: 10/15 útiles** (restan 5). Próximo: T46 (relevo 36, tramo 43 — tramo final del pedido). Consolidación de tramos 38-42 diferida (L12).
+
+## [2026-11-16] ingesta WL | tramo 43 (relevo 36, pedido L26 — TRAMO FINAL)
+
+- **Ventana**: 5 entradas del cache (WL-291..WL-295, posiciones 103-107) — **5/5 fuentes ÚTILES EXACTAS con contador explícito, sin sexto `--one`**; cabeza WL-291 (`INUCSj7HM_M`) verificada contra el cache al primer lanzamiento.
+- WL-291 «Un NEGOCIO ESPECIAL: El LÍDER de los CHIPS ANALÓGICOS» (Value School, `INUCSj7HM_M`, posición 103). Fuente útil 1/5. Dominio destino sugerido: general/semiconductores-inversión (S4); cruces WL-220/238/144. Cinco fortalezas del nicho, ADI/TI/Monolithic/Onsemi con métricas, sin citas primarias — señalado.
+- WL-292 «La trampa de ser eficiente...» (Serudda, `V9vXL8S2yLc`, posición 104). Fuente útil 2/5. Dominio destino sugerido: general/cultura laboral; videoensayo de opinión NO factual (caso Reddit de 2.ª mano) — señalado; cruces WL-131/139.
+- WL-293 «Así se arma un agente de código a tu medida con Pi» (Fazt, `umfFbfApSAc`, posición 105). Fuente útil 3/5. Dominio destino sugerido: ia-uso-practico/agentes-de-codigo ([[fazt]] a 13 fuentes, [[agentes-de-codigo]]); percepción externa del ecosistema Pi; cruces WL-271/272/153/165/178/180/203/278.
+- WL-294 «Qué hace un balanceador de carga en una aplicación real» (Torti Code, `OI-shxUoK0U`, posición 106). Fuente útil 4/5. Dominio destino sugerido: general-informatica-teoria (infra/DevOps); Torti Code 3.ª fuente (entidad confirmada para consolidación con WL-286/287); cruces WL-160/232.
+- WL-295 «DeepSeek V4.1 Flash vs. El resto» (CodeSimple, `ai0bifuwDOQ`, posición 107). Fuente útil 5/5 — **CIERRE DEL TRAMO en frontera exacta, sin sexto `--one`**. Dominio destino sugerido: ia-uso-practico/ia-local ([[deepseek-harness]], [[inferencia-local]]); título clickbait sin correlato, 2.ª mano del paper — señalado; cruces WL-270/288/290/122.
+
+## [2026-11-16] cierre | tramo 43 WL (relevo 36, pedido L26 — TRAMO FINAL)
+
+- **Ventana**: 5 entradas del cache (WL-291..WL-295) — **5/5 fuentes ÚTILES EXACTAS con contador explícito, sin sexto `--one`**; cabeza WL-291 = `INUCSj7HM_M` (posición 103) verificada contra el cache al primer `--one`.
+- **Ciclo completo por fuente**: raw espejado a `raw/wl/tramo-43/` → resumen en `wiki/wl/tramo-43/resumen-WL<NNN>-<slug>.md` → fila index.md (con subcarpeta) → línea log.md → commits con git add por archivo.
+- **Skips/meta-fails**: 0 skips, 0 meta-fail — tramo limpio, sin contactos rechazados.
+- **Salida**: 45.239.32.215 (Proton UE, vigente) — 5 descargas timedtext OK vía `--one` ×5 (cada una con su puerta 60-90 s), sin 429 (L13); presupuesto suave 400 nunca alcanzado.
+- **Dominios destino previstos (S4, sin dominios nuevos)**: WL-291 general (semiconductores/inversión; cruces WL-220/238/144), WL-292 general (cultura laboral, opinión NO factual), WL-293 ia-uso-practico/agentes-de-codigo ([[fazt]], [[agentes-de-codigo]]), WL-294 general-informatica-teoria (infra/DevOps; Torti Code ×3), WL-295 ia-uso-practico/ia-local ([[deepseek-harness]], [[inferencia-local]]).
+- **Temas de tramo**: Torti Code ×1 en ventana pero 3.ª fuente global (entidad confirmada); contraste interno IA: análisis arquitectónico (WL-295) vs percepción de regresión (WL-288/290 del tramo previo) vs percepción externa de harness (WL-293).
+- **Última fuente con id**: WL-295 (`ai0bifuwDOQ`). **Cabeza del backlog tras el tramo: WL-296** (posición 108 del cache).
+- **PEDIDO L26 COMPLETADO: 15/15 útiles** — tramos 41-43 (relevos 34-36): T41 5 útiles + 1 skip, T42 5 útiles + 1 skip-duplicate, T43 5 útiles → 15 útiles + 2 skips definitivos, 0 meta-fails, 0 TRAMO-CLOSED; única salida 45.239.32.215 en todo el pedido, sin un solo 429. Push no solicitado. **Consolidación de tramos 38-43 diferida (L12)**: estación con 15 pares pendientes; entidades a actualizar [[fazt]], [[cognix]], [[franco-pisso]], [[gentleman-programming]]; entidades candidatas confirmadas Torti Code (3 fuentes), Nichonauta (3), Código Espinoza (2); conceptos candidatos routing-por-coste, yo-sociedad-anonima, balanceo-alta-disponibilidad.
