@@ -1,6 +1,6 @@
 # WL-422 — I Discovered This Hidden Wiring Trick In An Old Forum!
 
-- **Fuente**: `raw/wl/tramo-69/2024-05-04-i-discovered-this-hidden-wiring-trick-in-an-old-forum.md` (`nMZ7KgRjVqM`, https://www.youtube.com/watch?v=nMZ7KgRjVqM)
+- **Fuente**: `2024-05-04-i-discovered-this-hidden-wiring-trick-in-an-old-forum.md` (`nMZ7KgRjVqM`, https://www.youtube.com/watch?v=nMZ7KgRjVqM)
 - **Canal**: LRN2DIY («Aprende a Hacerlo Tú Mismo», Nils)
 - **Publicado**: 2024-05-04 · **Duración**: ~9:20 · **Idioma**: es (subtítulos automáticos traducidos del original en inglés)
 - **Dominio previsto**: general (bricolaje/electricidad domiciliaria, oficios)

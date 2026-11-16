@@ -80,3 +80,5 @@ Es el motor descrito como alternativa a Ollama/LM Studio en [[ia-local-texto]]; 
 - **Compilación**: ~33 % más rápida en Mac que en PC equivalente (fuente 47).
 - **Server**: continuous batching + ranuras paralelas **activados por defecto desde marzo 2024** (fuente 44) — la concurrencia ya está ahí; el cuello real es la KV cache (40 GB/cliente a 128k contexto).
 - **Endpoint OpenAI-compatible** conecta MinAgent, Pi (plugin LM Studio aparte), agentes Python (fuente 45) y clientes de chat.
+
+**Actualización 2026-11-16 (T76)**: +5 fuentes de la batería Nichonauta (WL-428/431/432/434/436): motor de la batería estandarizada; WL-431 requiere una versión modificada (Spark X2.5 no compatible nativo con llama.cpp/Ollama/LM Studio); WL-436 lo corona frente a FreeToken (33,35 vs 9-11 tok/s con más funciones activas: visión+MTP+contexto completo).

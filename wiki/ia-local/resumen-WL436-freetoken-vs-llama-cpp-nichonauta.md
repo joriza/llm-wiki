@@ -1,6 +1,6 @@
 # WL-436 · FreeToken me Decepcionó: ¿realmente es más RÁPIDO que llama.cpp?
 
-- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=T1o7X2Uz4oo) · raw: `raw/wl/tramo-72/2026-08-27-freetoken-me-decepciono-realmente-es-mas-rapido-que-llama-cpp.md`
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=T1o7X2Uz4oo) · raw: `2026-08-27-freetoken-me-decepciono-realmente-es-mas-rapido-que-llama-cpp.md`
 - **Canal**: Nichonauta (8.ª fuente WL)
 - **Publicado**: 2026-08-27 · **Duración**: ~07:30
 - **Dominio destino previsto**: `ia-uso-practico/ia-local/`; cruces: [[nichonauta]] (8.ª fuente), [[inferencia-local]], [[llama-cpp]], [[qwen]], [[routing-por-coste]]

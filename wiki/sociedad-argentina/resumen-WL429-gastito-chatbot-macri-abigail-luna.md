@@ -1,6 +1,6 @@
 # WL-429 — El gastito de Jorge Macri: más de 3 mil millones de pesos en un chatbot con IA
 
-- **Fuente original**: `raw/wl/tramo-71/2026-09-03-el-gastito-de-jorge-macri-mas-de-3-mil-millones-de-pesos-en-un-chatbot-con-ia.md` ([vídeo](https://www.youtube.com/watch?v=tArNhT82h7U))
+- **Fuente original**: `2026-09-03-el-gastito-de-jorge-macri-mas-de-3-mil-millones-de-pesos-en-un-chatbot-con-ia.md` ([vídeo](https://www.youtube.com/watch?v=tArNhT82h7U))
 - **Canal**: Abigail Luna · **Publicado**: 2026-09-03 · **Duración**: 01:30 · **Dominio**: sociedad-argentina
 
 ## Qué trata

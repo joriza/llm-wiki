@@ -1,6 +1,6 @@
 # WL-433 — El streaming nunca será igual: Minimax H3 en directo
 
-- **Fuente original**: `raw/wl/tramo-71/2026-08-31-el-streaming-nunca-sera-igual-minimax-h3-en-directo.md` ([vídeo](https://www.youtube.com/watch?v=woF6a0AdqNg))
+- **Fuente original**: `2026-08-31-el-streaming-nunca-sera-igual-minimax-h3-en-directo.md` ([vídeo](https://www.youtube.com/watch?v=woF6a0AdqNg))
 - **Canal**: Fazt Code · **Publicado**: 2026-08-31 · **Duración**: 02:12 · **Dominio**: ia-critica-y-fronteras
 
 ## Qué trata

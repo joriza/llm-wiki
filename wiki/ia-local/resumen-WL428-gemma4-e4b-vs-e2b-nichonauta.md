@@ -1,6 +1,6 @@
 # WL-428 — Gemma 4 E4B: ¿Es realmente más inteligente que el E2B?
 
-- **Fuente original**: `raw/wl/tramo-70/2026-09-05-gemma-4-e4b-es-realmente-mas-inteligente-que-el-e2b.md`
+- **Fuente original**: `2026-09-05-gemma-4-e4b-es-realmente-mas-inteligente-que-el-e2b.md`
 - **Video**: [Gemma 4 E4B: ¿Es realmente más inteligente que el E2B?](https://www.youtube.com/watch?v=NYcH2wHmzNQ)
 - **Canal**: Nichonauta
 - **Publicado**: 2026-09-04 · **Duración**: 07:27 · **Idioma**: es (subtítulos automáticos)

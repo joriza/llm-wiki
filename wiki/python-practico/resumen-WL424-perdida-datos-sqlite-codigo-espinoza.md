@@ -1,6 +1,6 @@
 # WL-424 — El cliente perdió todos sus datos por mi app de Python (y cómo evité que vuelva a pasar)
 
-- **Fuente original**: `raw/wl/tramo-70/2026-09-08-el-cliente-perdio-todos-sus-datos-por-mi-app-de-python-y-como-evite-que-vuelva-a.md`
+- **Fuente original**: `2026-09-08-el-cliente-perdio-todos-sus-datos-por-mi-app-de-python-y-como-evite-que-vuelva-a.md`
 - **Video**: [El cliente perdió todos sus datos por mi app de Python](https://www.youtube.com/watch?v=X2eMvB_qp7c)
 - **Canal**: Código Espinoza - Automatiza tu Vida
 - **Publicado**: 2026-09-07 · **Duración**: 08:55 · **Idioma**: es (subtítulos automáticos)
@@ -43,5 +43,5 @@ Tesis final: «una app no está entregada hasta que la tiraste abajo a propósit
 
 - [[codigo-espinoza]] — 3.ª fuente WL (WL-275, WL-386); entidad confirmada.
 - [[bases-de-datos]] (WL-285/286/287, WL-252, WL-344): durabilidad, journaling y respaldos.
-- [[python-practico]]: apps de escritorio empaquetadas, misma serie que WL-386.
+- python-practico: apps de escritorio empaquetadas, misma serie que WL-386.
 - Tema: integridad de datos / tolerancia a fallos — cruza con la tesis de WL-354 (harness/robustez) solo tangencialmente; no cablear.

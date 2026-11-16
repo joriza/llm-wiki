@@ -56,3 +56,5 @@ Detalle en `log.md`.
 | `informatica/` | **Informática y desarrollo de software**: lenguajes y ecosistemas (Python, Node/Express), herramientas de dev (pip/uv, APIs), IA aplicada a software (LLM frontends, RAG, proxies de IA). Creado por decisión del usuario (2026-11-15) al curar `Docencia/Informatica` (46 fuentes en cola) + 7 ya procesadas desde la ventana Vs+Docencia. |
 
 | ~~`modelos-llm-locales/`~~ | **Fusionado en `ia-local/`** (2026-11-15, decisión del usuario tras lint: solapamiento muy alto herramientas/modelos locales; 22 fuentes migradas sin colisiones). |
+
+**Evaluación de dominios nuevos (2026-11-16, cierre del pedido L35, T74-T76)**: ninguna fuente de los tramos 61-72 (59 pares útiles) justifica dominio nuevo — todas encajan en dominios existentes (batería Nichonauta → ia-local por precedente; WL-437 economía argentina → sociedad-argentina dado que `economia-argentina/` sigue frágil, propuesta b vigente). Sin fusión/división nueva que proponer; propuestas pendientes (a), (b) y (c) anteriores continúan abiertas para decisión del usuario.

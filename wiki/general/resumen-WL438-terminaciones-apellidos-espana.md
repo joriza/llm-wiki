@@ -1,6 +1,6 @@
 # WL-438 · Las dos últimas letras de tu apellido revelan EXACTAMENTE de dónde proviene tu familia
 
-- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=LBBwdvDVfb0) · raw: `raw/wl/tramo-72/2026-08-22-las-dos-ultimas-letras-de-tu-apellidos-revelan-exactamente-de-donde-proviene-tu-.md`
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=LBBwdvDVfb0) · raw: `2026-08-22-las-dos-ultimas-letras-de-tu-apellidos-revelan-exactamente-de-donde-proviene-tu-.md`
 - **Canal**: Todo donde todo comenzó (genealogía/historia)
 - **Publicado**: 2026-08-22 · **Duración**: 20:20
 - **Dominio destino previsto**: `general/` (lingüística/historia-genealogía); cruces: [[secretos-geograficos-argentina]] tangencial (geografía humana), WL-201/314

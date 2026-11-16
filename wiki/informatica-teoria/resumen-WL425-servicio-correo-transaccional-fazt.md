@@ -1,6 +1,6 @@
 # WL-425 — El error que cometen casi todos al elegir servicio de correos para su app
 
-- **Fuente original**: `raw/wl/tramo-70/2026-09-07-el-error-que-cometen-casi-todos-al-elegir-servicio-de-correos-para-su-app.md`
+- **Fuente original**: `2026-09-07-el-error-que-cometen-casi-todos-al-elegir-servicio-de-correos-para-su-app.md`
 - **Video**: [El error que cometen casi todos al elegir servicio de correos para su app](https://www.youtube.com/watch?v=QfNqn15za6w)
 - **Canal**: Fazt Code
 - **Publicado**: 2026-09-07 · **Duración**: 21:35 · **Idioma**: es (subtítulos automáticos)

@@ -1,6 +1,6 @@
 # WL-418 — Introducción a la Programación con IA: GUÍA COMPLETA desde Cero
 
-- **Fuente**: `raw/wl/tramo-69/2026-09-09-introduccion-a-la-programacion-con-ia-guia-completa-desde-cero.md` (`GlRHi8SmmQ0`, https://www.youtube.com/watch?v=GlRHi8SmmQ0)
+- **Fuente**: `2026-09-09-introduccion-a-la-programacion-con-ia-guia-completa-desde-cero.md` (`GlRHi8SmmQ0`, https://www.youtube.com/watch?v=GlRHi8SmmQ0)
 - **Canal**: Nichonauta
 - **Publicado**: 2026-09-09 · **Duración**: 12:52 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: ia-uso-practico (programación asistida con IA, didáctica desde cero)

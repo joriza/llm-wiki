@@ -1,6 +1,6 @@
 # WL-427 — ¿Para qué aprender código si la IA lo hace por ti?
 
-- **Fuente original**: `raw/wl/tramo-70/2026-09-05-para-que-aprender-codigo-si-la-ia-lo-hace-por-ti-dev.md`
+- **Fuente original**: `2026-09-05-para-que-aprender-codigo-si-la-ia-lo-hace-por-ti-dev.md`
 - **Video**: [¿Para qué aprender código si la IA lo hace por ti?](https://www.youtube.com/watch?v=SqeJWZ4gRmM)
 - **Canal**: hdeleon.net
 - **Publicado**: 2026-09-05 · **Duración**: 01:16 (Short) · **Idioma**: es (subtítulos automáticos)

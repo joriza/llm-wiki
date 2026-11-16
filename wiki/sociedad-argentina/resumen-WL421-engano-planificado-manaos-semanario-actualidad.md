@@ -1,6 +1,6 @@
 # WL-421 — Un engaño planificado y Manaos: el drama de una joven que le debe mil millones de pesos al fisco
 
-- **Fuente**: `raw/wl/tramo-69/2026-09-05-un-engano-planificado-y-manaos-el-drama-de-una-joven-que-le-debe-mil-millones-de.md` (`pFc4N3bj4Bo`, https://www.youtube.com/watch?v=pFc4N3bj4Bo)
+- **Fuente**: `2026-09-05-un-engano-planificado-y-manaos-el-drama-de-una-joven-que-le-debe-mil-millones-de.md` (`pFc4N3bj4Bo`, https://www.youtube.com/watch?v=pFc4N3bj4Bo)
 - **Canal**: Semanario Actualidad
 - **Publicado**: 2026-09-05 · **Duración**: ~18:45 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: sociedad-argentina (fraude fiscal / caso Manaos, testimonio)

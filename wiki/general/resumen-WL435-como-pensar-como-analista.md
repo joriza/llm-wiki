@@ -1,6 +1,6 @@
 # WL-435 · Cómo Pensar como Analista: La habilidad #1 para el 2030
 
-- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=k1cmk22ILrg) · raw: `raw/wl/tramo-72/2026-08-27-como-pensar-como-analista-la-habilidad-1-para-el-2030.md`
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=k1cmk22ILrg) · raw: `2026-08-27-como-pensar-como-analista-la-habilidad-1-para-el-2030.md`
 - **Canal**: Caterina Abanoni (educación en análisis de datos; menciona su programa «Unicorn» — marco comercial declarado y excluido de la síntesis)
 - **Publicado**: 2026-08-27 · **Duración**: 10:41
 - **Dominio destino previsto**: `general/` (educación/habilidades profesionales); cruces candidatos: [[delegacion-cognitiva-ia]], [[brecha-junior-ia]], WL-360/396

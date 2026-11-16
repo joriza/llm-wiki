@@ -34,3 +34,5 @@ El MTP de Gemma 4 es **archivo aparte** que se añade con el flag `-md` de [[lla
 - **Automatización Python** (45): 3.6 GB VRAM con ctx completo + MTP + mmproj; el arnés (prompts estructurados + código + deduplicación) hace que supere a GPT-6 en tareas repetitivas.
 - **Motor de [[minagent]]** (49-50) y de la guía de [[holamundo]] (58): el modelo de **razonar/chatear** del flujo — pros/contras con conclusiones «las mismas que Claude Opus o ChatGPT», backlogs y planes con skill backlog/story; **no** para programar directo. 18 tok/s con offload parcial → **104 tok/s con el modelo completo en VRAM**.
 - En [[llama-cpp]]: ajustes típicos de Qwen no aplican; MTP y mmproj aparte.
+
+**Actualización 2026-11-16 (T76)**: +1 fuente — WL-428: Gemma 4 E4B (GGUF QAT Q4_K_XL, 120-140 tok/s) mejora visiblemente al E2B en la batería Nichonauta; el E2B «no se queda atrás»; pendiente la prueba del 12B para ver si la inteligencia escala con el tamaño.

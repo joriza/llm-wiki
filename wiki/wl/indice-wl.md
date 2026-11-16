@@ -120,62 +120,14 @@ Producto de la consolidación: **entidades nuevas** [[infobae]] (WL-330+409, umb
 
 **Verificaciones**: Navier-Stokes «Bacmaster» (WL-387) = **Buckmaster** confirmado por cruce WL-387/416 (ambas 2.ª mano — adoptado con reserva); «Luis Martínez Zoroa» = probablemente Javier Gómez-Serrano (WL-416), por confirmar. Verificaciones abiertas heredadas: renuncia de Huang (WL-317/378), PISA WL-396 vs OCDE. Sin dominios nuevos (S4).
 
-## Tramo 69 (relevo 9 de 12 del pedido L34) — 5/5 útiles + 1 skip
+## Tramos 69-72 — CONSOLIDADOS (relevo 3 del pedido L35, FINAL — cierre del pedido L35, 2026-11-16)
 
-Cabeza WL-418 (`GlRHi8SmmQ0`, índice 106 del cache de 04:52) verificada contra el cache antes del primer `--one` (WL-417 = índice 105 confirma el cierre del relevo 8); 5 descargas `--one` con puerta 60-90 s; 1 skip (WL-419 privado, `.no-subs`), 0 meta-fail, sin 429. Pendientes de consolidación (L12):
+20 pares útiles (WL-418..WL-438; SKIP sin migrar: WL-419 privado `.no-subs`) migrados con `git mv` a dominios definitivos (resúmenes + raws espejados; «Fuente» actualizada en cada resumen): **ia-local/ 5** (WL-428, 431, 432, 434, 436 — batería de inferencia local Nichonauta consolidada como clúster), **general/ 5** (WL-422, 423, 426, 435, 438), **sociedad-argentina/ 3** (WL-421, 429, 437), **ia-critica-y-fronteras/ 2** (WL-430, 433), **cocina/ 1** (WL-420), **python-practico/ 1** (WL-424), **informatica-teoria/ 1** (WL-425), **agentes-de-codigo/ 1** (WL-427), **ia-uso-practico/ 1** (WL-418). Notas de asignación: batería Nichonauta WL-428/431/432/434/436 → ia-local (precedente T48/T49/T75 — banco de pruebas llama.cpp); WL-433 → ia-critica-y-fronteras (primera opción del cierre de tramo); WL-437 → sociedad-argentina (economia-argentina frágil, dominios.md b).
 
-| WL | Título | Canal | Dominio previsto |
-|---|--------|-------|------------------|
-| 418 | Introducción a la Programación con IA 🚀 GUÍA COMPLETA desde Cero | Nichonauta (3.ª fuente) | ia-uso-practico/ |
-| 420 | Por qué el PAN de hoy es una PORQUERÍA | Marcos Di Cesare (+1) | cocina/ |
-| 421 | Un engaño planificado y Manaos: el drama de una joven que le debe mil millones de pesos al fisco | Semanario Actualidad (1.ª fuente) | sociedad-argentina/ |
-| 422 | I Discovered This Hidden Wiring Trick In An Old Forum! | LRN2DIY (1.ª fuente) | general/ (bricolaje/electricidad) |
-| 423 | Cómo el Nuevo Invento de China Va a Reemplazar tu Impresora Para Siempre | NovaMente X (1.ª fuente) | general/ (tecnología/consumo) — NO factual |
+Producto de la consolidación: **entidades actualizadas** [[nichonauta]] (+6: WL-418/428/431/432/434/436 — clúster batería), [[fazt]] (+2: WL-425/433, total 19), [[hdeleon-net]] (+2: WL-427/430, total 8), [[codigo-espinoza]] (+1: WL-424, total 10), [[marcos-di-cesare]] (+1: WL-420, total 3); **concepto nuevo** [[gillette]] (WL-7 + WL-423, umbral ≥2); **conceptos ampliados** [[inferencia-local]], [[llama-cpp]], [[qwen]], [[gemma-4]], [[percepcion-de-regresion-de-modelos]], [[delegacion-cognitiva-ia]], [[brecha-junior-ia]], [[gobernanza-ia]], [[bases-de-datos]], [[routing-por-coste]]. Canales a texto plano por umbral <2: Semanario Actualidad, LRN2DIY, NovaMente X, tecnotrailer, Abigail Luna, Juan Ramón Rallo, Todo donde todo comenzó, Caterina Abanoni.
 
-Señales: WL-418 didáctico introductorio sin datos duros, marco comercial del libro de $10 declarado y excluido; WL-420 base técnica real (ácido fítico/fitasas, hidrogenación) mezclada con afirmaciones sin evidencia (bromato «camuflado») y fuerte interés comercial propio — señalados; WL-421 testimonio de primera mano sin verificación independiente del canal, anclado a la causa Manaos (cifras de 2.ª mano) — señalado; WL-422 demo de primera mano, estándar eléctrico US con aplicabilidad local parcial; WL-423 NO factual (parte china sin fuentes ni enlaces, marco hype, título clickbait; la parte modelo-Gillette sí documentada). Cruces candidatos: [[nichonauta]] +1 (WL-418), [[marcos-di-cesare]] +1 (WL-420), WL-421↔WL-182 (historia Manaos), WL-423↔[[gillette]] (WL-7), WL-422↔WL-207/WL-169; entidades candidatas: Semanario Actualidad, LRN2DIY, NovaMente X (todas 1.ª fuente). Cabeza futura: WL-424 (índice 111 del cache de 04:52, `X2eMvB_qp7c`).
+**Contradicciones/verificaciones**: WL-431 refuta empíricamente los benchmarks autocreportados del fabricante de Spark X2.5 (contradicción fuente primaria vs prueba independiente); WL-426 título «estafa» contradicho por el propio contenido (obsolescencia por diseño de costos, no fraude); WL-438 título clickbait contradicho por contenido prudente; WL-437 refuta la lectura MMT/Lousteau de la identidad contable (marco austríaco declarado, matemáticas verificables). Verificaciones abiertas heredadas: Javier Gómez-Serrano (WL-416), renuncia de Huang (WL-317/378), PISA (WL-396 vs OCDE). Sin dominios nuevos (S4).
 
-## Tramo 70 (relevo 10 de 12 del pedido L34) — 5/5 útiles
+## PEDIDO L35 COMPLETADO (2026-11-16): consolidación diferida de los tramos 61-72 (59 pares útiles) en 3 relevos
 
-Cabeza WL-424 (`X2eMvB_qp7c`) verificada contra el cache antes del primer `--one` (WL-423 = `TmeGjF9GwBI` ya procesada confirma el cierre del relevo 9; el id aparece en la posición 112 del JSON de 04:52 — off-by-one de lectura sin efecto en la identidad); 5 descargas `--one` con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429. Pendientes de consolidación (L12):
-
-| WL | Título | Canal | Dominio previsto |
-|---|--------|-------|------------------|
-| 424 | El cliente perdió todos sus datos por mi app de Python | Código Espinoza (3.ª fuente) | python-practico/ |
-| 425 | El error que cometen casi todos al elegir servicio de correos para su app | Fazt Code (+1, 18.ª) | informatica-teoria/ (infra/DevOps) |
-| 426 | La ESTAFA de los Smart TV que NADIE te cuenta | tecnotrailer (1.ª fuente) | general/ (tecnología/electrónica) |
-| 427 | ¿Para qué aprender código si la IA lo hace por ti? (Short) | hdeleon.net (5.ª fuente WL) | agentes-de-codigo/ o ia-critica-y-fronteras/ — opinión NO factual |
-| 428 | Gemma 4 E4B: ¿es realmente más inteligente que el E2B? | Nichonauta (4.ª fuente) | ia-uso-practico/ o ia-local/ |
-
-Señales: WL-424 primera mano con código en pantalla (prueba ×15 y 87 % recuperado verificables solo por relato; marco Patreon excluido); WL-425 precios de pantalla sin fecha de captura — no verificables, señalados; clientes de SES de 2.ª mano; patrocinio Hostinger excluido; WL-426 primera mano de taller pero afirmaciones fuertes sin medición (voltaje LED, «estafa») — título clickbait señalado; WL-427 opinión sin datos; WL-428 demo con verificación funcional de cada artefacto, comparación no independiente (mismo canal, video previo de E2B). Cruces candidatos: [[codigo-espinoza]] +1, [[fazt]] +1, [[hdeleon-net]] +1, [[nichonauta]] +1 (todas entidades confirmadas), [[bases-de-datos]] (WL-424), WL-425↔WL-294/160/344 (infra), WL-426↔WL-204 + electronica-practica, WL-427↔brecha-junior-ia + [[delegacion-cognitiva-ia]], WL-428↔[[gemma-4]] + [[inferencia-local]] + [[llama-cpp]], MTP concepto emergente. Tema de tramo: primera mano técnica ×3 (WL-424/426/428) + opinión/guía ×2 (WL-425/427). Cabeza futura: WL-429 (índice 117 del cache de 04:52, `tArNhT82h7U`).
-
-## Tramo 71 (relevo 11 de 12 del pedido L34) — 5/5 útiles
-
-Cabeza WL-429 (`tArNhT82h7U`, índice 117 del cache de 04:52) verificada contra el cache antes del primer `--one` (WL-428 = `NYcH2wHmzNQ` en el índice 116 confirma el cierre del relevo 10); 5 descargas `--one` con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429. Pendientes de consolidación (L12):
-
-| WL | Título | Canal | Dominio previsto |
-|---|--------|-------|------------------|
-| 429 | El gastito de Jorge Macri: más de 3 mil millones de pesos en un chatbot con IA (Short) | Abigail Luna (1.ª fuente) | sociedad-argentina/ — satírico NO factual |
-| 430 | ChatGPT, Claude y Gemini están caídos (Short) | hdeleon.net (6.ª fuente WL) | ia-critica-y-fronteras/ — opinión NO factual |
-| 431 | Spark X2.5 4B: ¿realmente es superior a Gemma 4 y Qwen? | Nichonauta (5.ª fuente) | ia-uso-practico/ o ia-local/ |
-| 432 | Llama 3.1 8B: ¿sigue siendo valioso o ya es obsoleto? | Nichonauta (6.ª fuente) | ia-uso-practico/ o ia-local/ |
-| 433 | El streaming nunca será igual: Minimax H3 en directo | Fazt Code (18.ª fuente) | ia-critica-y-fronteras/ |
-| 434 | Qwen 3.5 0.8B: ¿sirve para programar? | Nichonauta (7.ª fuente) | ia-uso-practico/ o ia-local/ |
-
-Señales: WL-429 cifra de licitación de 2.ª mano sin enlace al pliego — no verificable, señalada (humor político); WL-430 outage sin documentación y causa «Astra» especulada sin respaldo, señalados; WL-431/432/434 demos primera mano con verificación funcional y batería consistente del canal (WL-428→434), benchmarks autocreportados refutados empíricamente, veredictos parcialmente subjetivos declarados; WL-433 hechos de 2.ª mano sin enlaces (cifras de coste, espectadores), señalados. Cruces candidatos: [[nichonauta]] +3 (línea de serie de inferencia local, plan de serie completa Qwen), [[fazt]] +1, [[hdeleon-net]] +1, [[gemma-4]], [[qwen]], [[inferencia-local]], [[llama-cpp]], [[percepcion-de-regresion-de-modelos]], [[gobernanza-ia]], [[routing-por-coste]]; entidades candidatas: Abigail Luna (canal). Tema de tramo: batería Nichonauta ×3 + shorts/opinión IA ×2 + frontera generativa ×1. Cabeza futura: WL-435 (índice 123 del cache de 04:52, `k1cmk22ILrg`).
-
-## Tramo 72 (relevo 12 de 12 del pedido L34, FINAL) — 4/4 útiles · CIERRE DEL PEDIDO L34: 60/60
-
-Cabeza WL-435 (`k1cmk22ILrg`, índice 123 del cache de 04:52) verificada contra el cache antes del primer `--one` (WL-434 = `fGyLXOACW9k` en el índice 122 confirma el cierre del relevo 11). **CORRECCIÓN DE CONTADOR**: el relevo 11 subcontó — committeó 6 útiles (WL-429..434) pero registró «55/60»; total real heredado **56/60**. 4 descargas `--one` exactas con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429. Pendientes de consolidación (L12, junto con tramos 61-71):
-
-| WL | Título | Canal | Dominio previsto |
-|---|--------|-------|------------------|
-| 435 | Cómo Pensar como Analista: La habilidad #1 para el 2030 | Caterina Abanoni (1.ª fuente) | general/ — educación/habilidades, NO factual |
-| 436 | FreeToken me Decepcionó: ¿realmente es más RÁPIDO que llama.cpp? | Nichonauta (8.ª fuente) | ia-uso-practico/ o ia-local/ |
-| 437 | Cae el ahorro y los chamanes de la MMT culpan al superávit de Milei | Juan Ramón Rallo (1.ª fuente WL) | sociedad-argentina/ — economía, marco austríaco |
-| 438 | Las dos últimas letras de tu apellido revelan de dónde proviene tu familia | Todo donde todo comenzó (1.ª fuente) | general/ — lingüística/genealogía, listicle sin citas |
-
-Señales: WL-435 cita WEF «habilidad #1 2030» de 2.ª mano sin enlace al informe y marco comercial Unicorn — señalados; WL-436 medición primera mano con corrida única sin estadística y alcance acotado por el propio canal; WL-437 matemáticas contables verificables pero título polémico y marco ideológico austríaco declarado; datos INDEC provisionales; WL-438 título clickbait contradicho por contenido prudente, sin fuentes primarias. Cruces candidatos: [[nichonauta]] +1 (WL-436), [[llama-cpp]] +1, [[qwen]] +1, [[inferencia-local]], [[routing-por-coste]], [[delegacion-cognitiva-ia]] (WL-435), cluster economía argentina (WL-437↔WL-125/193/257/357), WL-438↔WL-201/314. Tema de tramo: heterogéneo de cierre — educación/habilidades ×1, runtime IA local ×1, macroeconomía argentina ×1, lingüística ×1. Última fuente con id: **WL-438 (`LBBwdvDVfb0`, índice 126)**. Cabeza futura del backlog: **WL-439** (índice 127 del cache de 04:52, `t3J_3U8mOtM`).
-
-## PEDIDO L34 COMPLETADO (2026-11-16): 60/60 útiles
-
-Tramos 61-72 (relevos 1-12): T61 5, T62 5, T63 5, T64 5, T65 5, T66 5, T67 5, T68 5 (+1 skip WL-413), T69 5 (+1 skip WL-419), T70 5, T71 6, T72 4 → **60 útiles + 2 skips definitivos (.no-subs), 0 meta-fails, 0 TRAMO-CLOSED**; única salida 45.239.32.215 (Proton UE) en todo el pedido, sin un solo 429. Nota de contador: T71 subcontó 5 cuando committeó 6 — total corregido a 56 heredado al relevo 12 (registrado también en log.md). Consolidación de tramos 61-72 (60 pares) diferida (L12). Push no solicitado.
+T74 (tramos 61-64; tramo 61 DUPLICADO), T75 (tramos 65-68), T76 (tramos 69-72). 0 dominios nuevos (S4). Estación `wiki/wl/` a 0 resúmenes; overview.md y sintesis.md actualizados al cierre.

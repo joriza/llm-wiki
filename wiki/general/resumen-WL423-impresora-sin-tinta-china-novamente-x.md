@@ -1,6 +1,6 @@
 # WL-423 — Cómo el Nuevo Invento de China Va a Reemplazar tu Impresora Para Siempre
 
-- **Fuente**: `raw/wl/tramo-69/2026-09-06-como-el-nuevo-invento-de-china-va-a-reemplazar-tu-impresora-para-siempre.md` (`TmeGjF9GwBI`, https://www.youtube.com/watch?v=TmeGjF9GwBI)
+- **Fuente**: `2026-09-06-como-el-nuevo-invento-de-china-va-a-reemplazar-tu-impresora-para-siempre.md` (`TmeGjF9GwBI`, https://www.youtube.com/watch?v=TmeGjF9GwBI)
 - **Canal**: NovaMente X
 - **Publicado**: 2026-09-06 · **Duración**: ~10:45 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: general (tecnología/consumo) — videoensayo NO factual
@@ -23,5 +23,5 @@ Videoensayo sobre el «modelo Gillette» de las impresoras y una presunta disrup
 
 ## Cruces (consolidación diferida, L12)
 
-- Modelo Gillette: cruce directo con [[gillette]] (WL-7) — el concepto de negocio consumible en su aplicación a impresoras.
+- Modelo Gillette: cruce directo con gillette (WL-7) — el concepto de negocio consumible en su aplicación a impresoras.
 - Industria/hardware y colores estructurales: general; tema «disrupción china» conecta con [[ia-china]] (WL-12/25) por patrón de escalado, con la diferencia de que aquí no hay producto verificado — no cablear sin verificar.

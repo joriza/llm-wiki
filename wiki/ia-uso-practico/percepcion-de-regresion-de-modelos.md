@@ -23,3 +23,5 @@ WL-295 (CodeSimple, ia-local/) analiza la misma generación de modelos desde la 
 
 - [[inferencia-local]] (ia-local/) — el clúster donde vive WL-290; el esfuerzo de razonamiento como presupuesto.
 - [[routing-por-coste]] (ia-uso-practico/) — elegir modelo por tarea/precio, la respuesta práctica a la variabilidad entre versiones.
+
+**Actualización 2026-11-16 (T76)**: +4 fuentes de la batería Nichonauta — WL-431 (benchmarks autocreportados del fabricante refutados empíricamente: FP16 vs rivales a 4 bits y aun así pierde), WL-432 (Llama 3.1 8B «rompedor» obsoleto como general en ~2 años; nicho fine-tuning), WL-434 (Qwen 3.5 0.8B: genera código bien estructurado sin inteligencia para sostenerlo) y WL-436 (runtime nuevo «promete mucho y cumple poco» — la regresión también afecta a herramientas). Patrón confirmado: promoción del fabricante ≠ experiencia verificada.

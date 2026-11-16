@@ -1,6 +1,6 @@
 # WL-431 — Spark X2.5 4B: ¿realmente es superior a Gemma 4 y Qwen?
 
-- **Fuente original**: `raw/wl/tramo-71/2026-09-03-spark-x2-5-4b-realmente-es-superior-a-gemma-4-y-qwen.md` ([vídeo](https://www.youtube.com/watch?v=7zUD_rh9MLQ))
+- **Fuente original**: `2026-09-03-spark-x2-5-4b-realmente-es-superior-a-gemma-4-y-qwen.md` ([vídeo](https://www.youtube.com/watch?v=7zUD_rh9MLQ))
 - **Canal**: Nichonauta · **Publicado**: 2026-09-03 · **Duración**: 06:02 · **Dominio**: ia-uso-practico/ia-local
 
 ## Qué trata

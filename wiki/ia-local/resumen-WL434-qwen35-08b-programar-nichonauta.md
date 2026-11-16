@@ -1,6 +1,6 @@
 # WL-434 — Qwen 3.5 0.8B: ¿sirve para programar?
 
-- **Fuente original**: `raw/wl/tramo-71/2026-09-01-qwen-3-5-0-8b-sirve-para-programar-prueba-de-rendimiento-y-codigo.md` ([vídeo](https://www.youtube.com/watch?v=fGyLXOACW9k))
+- **Fuente original**: `2026-09-01-qwen-3-5-0-8b-sirve-para-programar-prueba-de-rendimiento-y-codigo.md` ([vídeo](https://www.youtube.com/watch?v=fGyLXOACW9k))
 - **Canal**: Nichonauta · **Publicado**: 2026-09-01 · **Duración**: 08:05 · **Dominio**: ia-uso-practico/ia-local
 
 ## Qué trata

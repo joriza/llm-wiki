@@ -2,6 +2,19 @@
 
 Registro cronológico de solo adición.
 
+## [2026-11-16] consolidación WL | relevo 3 del pedido L35 — tramos 69-72 (T76, FINAL — cierre del pedido L35)
+
+20 pares útiles (WL-418..WL-438; SKIP sin migrar: WL-419 privado `.no-subs`) migrados con `git mv` a dominios definitivos (resúmenes + raws espejados + «Fuente» actualizada; fallback no necesario: los 20 raws estaban trackeados): **ia-local/ 5** (WL-428, 431, 432, 434, 436 — batería Nichonauta consolidada como clúster, precedente T48/T49/T75), **general/ 5** (WL-422, 423, 426, 435, 438), **sociedad-argentina/ 3** (WL-421, 429, 437 — WL-437 a sociedad-argentina y no a la frágil economia-argentina, dominios.md propuesta b), **ia-critica-y-fronteras/ 2** (WL-430, 433), **cocina/ 1** (WL-420), **python-practico/ 1** (WL-424), **informatica-teoria/ 1** (WL-425), **agentes-de-codigo/ 1** (WL-427), **ia-uso-practico/ 1** (WL-418 — didáctica de programación asistida, fuera de la batería de inferencia local).
+
+Producto: **entidad nueva** [[gillette]] como concepto (WL-7 + WL-423, umbral ≥2; WL-426 como fuente afín del patrón de durabilidad sacrificada); **entidades actualizadas** [[nichonauta]] (+6: WL-418/428/431/432/434/436), [[fazt]] (19: +425/+433), [[hdeleon-net]] (8: +427/+430), [[codigo-espinoza]] (10: +424), [[marcos-di-cesare]] (3: +420); **conceptos ampliados** [[inferencia-local]] (+5), [[llama-cpp]] (+5), [[qwen]] (+2), [[gemma-4]] (+1), [[percepcion-de-regresion-de-modelos]] (+4), [[delegacion-cognitiva-ia]] (+3), [[brecha-junior-ia]] (+2), [[gobernanza-ia]] (+2), [[bases-de-datos]] (+1), [[routing-por-coste]] (+1). Canales a texto plano por umbral <2 (precedente T40): Semanario Actualidad, LRN2DIY, NovaMente X, tecnotrailer, Abigail Luna, Juan Ramón Rallo, Todo donde todo comenzó, Caterina Abanoni. index.md 20 filas (ruta + dominio definitivo); hub con tramos 69-72 cerrados y estación a 0 resúmenes; 100 enlaces colgantes preexistentes de index.md (relevos anteriores) + 2 de los resúmenes migrados resueltos a texto plano (precedente T61); overview hilo 28 y síntesis sección 23 (cierre del pedido L35, integra tramos 61-72).
+
+**Contradicciones señaladas**: WL-431 refuta empíricamente los benchmarks autocreportados del fabricante de Spark X2.5; WL-426 título «estafa» contradicho por el propio contenido (obsolescencia por diseño de costos, no fraude); WL-438 título clickbait contradicho por contenido prudente; WL-437 refuta la lectura MMT/Lousteau del ahorro (identidad contable correcta, interpretación disputada — marco austríaco declarado; datos INDEC provisionales por verificar).
+
+**Dominios nuevos evaluados en wiki/dominios.md: ninguno procede (S4)** — las 20 fuentes encajan en dominios existentes; sin fusiones/divisiones nuevas que proponer más allá de las ya registradas.
+
+**Verificaciones pendientes (sin web desde el worker)**: «Luis Martínez Zoroa» = probablemente Javier Gómez-Serrano (WL-416, fuente primaria pendiente); renuncia de Huang (WL-317/378); PISA WL-396 vs OCDE; datos INDEC del ahorro 2025 (WL-437); cifra de licitación GCBA y Solar Insight S.A. (WL-429, sin enlace al pliego).
+
+**Nota de sincronización del relevo 2 (T75)**: su trabajo entró mezclado en el commit del orquestador 1eec74b7 (sincronización) — registrado aquí como normalización del reporte, sin arreglo en git (los renombres staged del relevo 2 están contenidos en ese commit junto a material ajeno; la integridad del contenido está verificada: 0 rutas rotas). Sin commits en este relevo: los hace el orquestador.
 ## [2026-11-10] ingesta | Todo lo que Sabemos del Colapso de la AMOC — Y lo que le Haría a Tu País
 
 - Disposición: Nueva (primera ingesta; se crean wiki/, wiki/dominios.md, index.md y log.md; dominio inicial general/ por decisión del usuario).

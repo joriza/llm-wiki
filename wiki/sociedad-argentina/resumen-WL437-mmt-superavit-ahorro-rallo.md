@@ -1,6 +1,6 @@
 # WL-437 · Cae el ahorro y los chamanes de la MMT culpan al superávit de Milei: te engañan
 
-- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=51vJRRja5sw) · raw: `raw/wl/tramo-72/2026-08-30-cae-el-ahorro-y-los-chamanes-de-la-mmt-culpan-al-superavit-de-milei-te-enganan.md`
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=51vJRRja5sw) · raw: `2026-08-30-cae-el-ahorro-y-los-chamanes-de-la-mmt-culpan-al-superavit-de-milei-te-enganan.md`
 - **Canal**: Juan Ramón Rallo (economista, escuela austríaca)
 - **Publicado**: 2026-08-30 · **Duración**: 27:13
 - **Dominio destino previsto**: `sociedad-argentina/` (economía argentina); cruces: cluster WL-193/257/357, WL-125

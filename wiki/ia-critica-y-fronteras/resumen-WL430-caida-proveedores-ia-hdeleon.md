@@ -1,6 +1,6 @@
 # WL-430 — ChatGPT, Claude y Gemini están caídos: miles de usuarios afectados
 
-- **Fuente original**: `raw/wl/tramo-71/2026-09-03-chatgpt-claude-y-gemini-estan-caidos-miles-de-usuarios-afectados-dev-ai.md` ([vídeo](https://www.youtube.com/watch?v=vb-0C1GdxdU))
+- **Fuente original**: `2026-09-03-chatgpt-claude-y-gemini-estan-caidos-miles-de-usuarios-afectados-dev-ai.md` ([vídeo](https://www.youtube.com/watch?v=vb-0C1GdxdU))
 - **Canal**: hdeleon.net · **Publicado**: 2026-09-03 · **Duración**: 00:56 · **Dominio**: ia-critica-y-fronteras
 
 ## Qué trata

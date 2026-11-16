@@ -1,6 +1,6 @@
 # WL-432 — Llama 3.1 8B: ¿sigue siendo valioso o ya es obsoleto?
 
-- **Fuente original**: `raw/wl/tramo-71/2026-09-02-llama-3-1-8b-sigue-siendo-valioso-o-ya-es-obsoleto.md` ([vídeo](https://www.youtube.com/watch?v=ZiidlVYPIQ4))
+- **Fuente original**: `2026-09-02-llama-3-1-8b-sigue-siendo-valioso-o-ya-es-obsoleto.md` ([vídeo](https://www.youtube.com/watch?v=ZiidlVYPIQ4))
 - **Canal**: Nichonauta · **Publicado**: 2026-09-02 · **Duración**: 07:33 · **Dominio**: ia-uso-practico/ia-local
 
 ## Qué trata

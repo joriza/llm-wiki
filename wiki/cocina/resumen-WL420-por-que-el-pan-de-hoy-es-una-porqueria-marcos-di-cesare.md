@@ -1,6 +1,6 @@
 # WL-420 — Por qué el PAN de hoy es una PORQUERÍA
 
-- **Fuente**: `raw/wl/tramo-69/2026-09-06-por-que-el-pan-de-hoy-es-una-porqueria.md` (`xuSKrgDWOEE`, https://www.youtube.com/watch?v=xuSKrgDWOEE)
+- **Fuente**: `2026-09-06-por-que-el-pan-de-hoy-es-una-porqueria.md` (`xuSKrgDWOEE`, https://www.youtube.com/watch?v=xuSKrgDWOEE)
 - **Canal**: Marcos Di Cesare (panadero profesional, panadería Carbó)
 - **Publicado**: 2026-09-06 · **Duración**: ~13:30 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: cocina (panadería/fermentación)

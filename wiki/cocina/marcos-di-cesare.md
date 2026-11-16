@@ -16,3 +16,5 @@ Cocinero profesional argentino (Mar del Plata) con canal propio de **divulgació
 - **Crítica de la moda y del marketing**: la «moda cool», las express, las cafeterías de especialidad con «soberbia» de precios, leches vegetales industriales y el frappuccino como postre.
 
 **Registro**: opinión profesional de 1.ª mano sin citas — autopromoción de cursos excluida en ambos resúmenes. Clúster gastronómico argentino junto a Locos X el Asado (WL-127) y los trucos de cocina (WL-186).
+
+**Actualización 2026-11-16 (consolidación relevo 3 del pedido L35 — total 3 fuentes)**: [[resumen-WL420-por-que-el-pan-de-hoy-es-una-porqueria-marcos-di-cesare]] (WL-420, `cocina/`) — diatribe contra el pan industrial y defensa de la fermentación larga (ácido fítico neutralizado por fitasas, fermentación en frío 24 h); conflicto de interés declarado (panadería orgánica propia, cursos) y afirmaciones sin evidencia (bromato «camuflado») — señalados. La tesis «producto bien hecho contra el sustituto industrial» se extiende del café y las medialunas al pan.
