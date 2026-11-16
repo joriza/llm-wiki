@@ -28,3 +28,8 @@
 - El claim de «duplicar la fuerza» del título no aparece en el contenido; la promesa real del guion es de progresiones graduales de tiempo bajo tensión.
 - ASR con ruido normalizado solo en este resumen (sampa/zampa→sampo, gastrognemio→gastrocnemio, kibadachi→kiba-dachi, «jardines Sen»→zen, «presentaban», «posiciónese»); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — la fuente más explícitamente 60+ del tramo (fuerza de piernas, caídas, independencia); cruces evidentes: S3 (elevación de talones con la misma «bomba venosa», equilibrio unipodal y sentadilla asistida con silla como la progresión gemela de la sentadilla en reposo con mueble), S9 (sentadilla profunda sostenida: mismo ejercicio con la misma progresión talón-apoyo), S6 (wall sit ↔ sentadilla contra la pared de la progresión S6) y S8 (agarre/longevidad en el mismo paquete de marcadores de envejecimiento) — pendiente de consolidación.
+
+
+## Ver también
+
+- [[fitness-senior]]

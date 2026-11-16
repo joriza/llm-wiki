@@ -33,3 +33,9 @@ El video usa la silueta del glande como excusa para una clase magistral de epist
 - **Dominio destino previsto: `general/`** (divulgación científica — biología/evolución; sin dominio propio de ciencias naturales).
 - **[[fitness-senior]] tangencial**: comparte clúster de canales «divulgación con guion sintético» y el tema de fisiología comparada (testículos chimpancé vs gorila vs humano ~16-50 g) — cruce débil, solo por método: la disciplina de «posibilidad ≠ función» aplicada ahí a contenidos de fitness sin citas (S3, S10).
 - Método-candidato a concepto en consolidación: **«posibilidad ≠ función» / exaptación como caja de herramientas anti-just-so stories** — útil como lente transversal para auditar divulgación de la wiki.
+
+
+## Ver también
+
+- [[desarrollo-con-modelos-locales]]
+- [[fitness-senior]]

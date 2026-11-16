@@ -31,3 +31,9 @@
 - El ASR invierte una frase clave del agua: el raw dice «bajo ninguna circunstancia beber más agua» seguido de «uno o dos vasos de agua pura no sobran» — por contexto la frase original es una recomendación de BEBER más agua; no citar el raw literal en este punto.
 - ASR con ruido normalizado solo en este resumen (centenies→snacks, «bisceral»→visceral, somatotropina, grelina/leptina, runninging→running); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — grasa visceral explícita para 40+ con el eje sueño-cortisol-insulina; cruces: WL-30 (dos grasas, cintura como medida, ventana de comida — AQUÍ en conflicto: 16:8 vs ventana de 10 h con techo), S5 (mismo claim de cortisol y la misma prohibición del cardio intenso) y S4 (contradicción abierta sobre correr y quema de sustratos).
+
+
+## Ver también
+
+- [[fitness-senior]]
+- [[ia-local-texto]]

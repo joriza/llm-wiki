@@ -29,3 +29,8 @@ Canal-negocio con marca registrada en el nombre («Alpha 50®») dirigido a mayo
 - Ninguna referencia científica; todas las justificaciones fisiológicas son del relato del canal (correctas en general, pero sin fuentes).
 - ASR con ruido normalizado solo en este resumen (compinaciones→combinaciones, pronoas/su pino→prono/supino, braqueal→braquial, cuádriceps, inscriptiviales→isquiotibiales, ispack (término irreconstruible del ASR, por contexto «el core no es solo el six-pack»), trasverso→transverso, deeps/tips→dips); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — esta fuente es la pata calistenia 40+ del clúster (fuerza sin equipo con progresiones por nivel); cruces evidentes: S3 (sentadilla y flexiones compartidas, mito de rodillas desmontado en ambos), S2 (sarcopenia 40+/50+ como motivación) y WL-4/WL-5 (fuerza sin equipo y progresión de tejidos).
+
+
+## Ver también
+
+- [[fitness-senior]]

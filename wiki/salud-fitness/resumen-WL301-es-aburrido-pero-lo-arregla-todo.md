@@ -24,3 +24,8 @@ Divulgación de fitness coherente con el consenso general (descompresión lumbar
 
 - Cruces: cluster fitness-senior de `general/` (WL-4/5/6) y dominio salud-fitness (ejercicio y movilidad). Dominio destino sugerido: salud-fitness.
 - Sin canal previo en la wiki (BlueGym Animation, 1.ª fuente — umbral <2, texto plano).
+
+
+## Ver también
+
+- [[fitness-senior]]

@@ -31,3 +31,8 @@
 - Marcas de guion sintético/TTS y traducción mecánica en el raw («Shest nula. Jedan AM»); canal probable content farm — tratar toda cifra como no verificada.
 - ASR con ruido normalizado solo en este resumen (adenocina→adenosina, lro→litro, heitat→HIIT, borpis→burpees, sen→zen, «contrainttuitiva»→contraintuitiva); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — trata grasa visceral (el núcleo metabólico de WL-30) y añade al clúster el eje cortisol/estrés y ritmo circadiano (que WL-30 ya conectaba con la ventana de comida y el sueño); cruces: WL-30 (dos grasas, cintura vs báscula, ventana con techo) y S4 (contradicción abierta HIIT vs caminata lenta para grasa — pendiente de consolidación).
+
+
+## Ver también
+
+- [[fitness-senior]]

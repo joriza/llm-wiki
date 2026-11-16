@@ -30,3 +30,9 @@ Análisis de la afirmación de la OMS («no existe un nivel seguro de consumo de
 - Canal Roxana Kreimer ya presente en la wiki (WL-121, neorreacción/Ilustración Oscura) — entidad candidata en consolidación; tono de opinión cultural con humor, marco ensayístico señalado.
 - Cruces previstos: cluster salud WL-213 (sueño/Bilinkis, mismo formato divulgación con datos), WL-164, WL-172, WL-139; sesión de estadística/riesgo con WL-190 (teoría de juegos/decisión) — concepto candidato «riesgo probabilístico vs determinista» o «sesgo de supervivencia» (ya aparece en la wiki, verificar en consolidación).
 - Dominio previsto: general (salud/filosofía de la ciencia) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[sesgos-de-decision]]
+- [[verificacion-como-valor]]

@@ -29,3 +29,8 @@ Divulgación fitness genérica con narración uniforme (estilo guion IA: ritmo c
 - El «3 % anual» de pérdida muscular tras los 60 es más pesimista que el «2 % anual» citado por Médico Vegano (S2) para mayores de 50 — rangos divulgativos distintos sin fuente en ninguno de los dos; se registra como variación pendiente de consolidación.
 - ASR con ruido leve normalizado solo en este resumen (grapevine, bosu y nombres anatómicos verificados contra el contexto); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — esta fuente es la pata de fuerza funcional sin equipo del clúster (cadenas posterior y de empuje, equilibrio y propiocepción, caídas como riesgo central); cruce evidente con S2 (sarcopenia y rutina de silla compartida) y con WL-4 (fuerza sin equipo) y WL-5 (tejidos y progresión).
+
+
+## Ver también
+
+- [[fitness-senior]]

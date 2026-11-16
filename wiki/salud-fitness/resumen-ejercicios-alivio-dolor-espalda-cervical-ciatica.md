@@ -26,3 +26,9 @@ Formato follow-along clásico de gymvirtual (Patry Jordania): sin pretensión ci
 - El «plan de 12 semanas» y la web del canal son embudo comercial estándar de gymvirtual.
 - ASR con ruido normalizado solo en este resumen (patrick jordania→Patry Jordania, impresiono→presiono, estire→estiro, jim virtual→gymvirtual); los fragmentos irreconstruibles se dejaron sin reconstruir; el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — movilidad terapéutica de bajo impacto apta para público mayor (rutina mayormente en silla, cues de suavidad); cruces evidentes: S3 (puente de glúteos compartido como movimiento central), S9 (patrón gato-vaca sentado vs a cuatro patas; estiramientos laterales y torsiones torácicas), S12/S10 (movilidad sin impacto para cuerpos con dolor) y WL-30 (dolor de espalda y vida sentada) — pendiente de consolidación.
+
+
+## Ver también
+
+- [[fitness-senior]]
+- [[seguridad-fuera-del-modelo]]

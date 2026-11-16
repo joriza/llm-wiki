@@ -28,3 +28,9 @@ Narrativa romántica-marcial («movimientos perfeccionados durante 1500 años»,
 - El «el cuerpo elimina lo que no le exiges» es una buena heurística presentada como ley; la pérdida de movilidad con la edad tiene componentes de tejido (deshidratación de discos, rigidez capsular), no solo de desuso.
 - ASR con ruido normalizado solo en este resumen («de la pierdes»→se pierdes, flexores/abducción, cifosis, fascia, parasimpático); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — movilidad pura con el mensaje anti-declive por desuso (el mismo marco del clúster); cruces evidentes: S3 (retracción escapular vs gato-vaca para la cifosis postural — dos frentes del mismo problema; sentadilla: aquí profunda sostenida vs la asistida con silla de S3 como extremos del mismo continuo de progresión), S6 (sentadilla como patrón a mantener toda la vida) y WL-5 (tejidos que se adaptan a la carga — aquí la variante fascial/nerviosa) — pendiente de consolidación.
+
+
+## Ver también
+
+- [[fitness-senior]]
+- [[seguridad-fuera-del-modelo]]

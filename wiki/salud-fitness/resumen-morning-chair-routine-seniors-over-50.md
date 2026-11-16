@@ -27,3 +27,9 @@ Canal-nicho de «ejercicio en silla» con narrador que se presenta como un ancia
 - Promesas sin numerar pero presentes («esta rutina es tu base para todo lo demás», «cada mañana que no los usamos olvidan un poco más») — heurísticas razonables del envejecimiento (uso o pérdida) presentadas sin matiz.
 - ASR con ruido normalizado solo en este resumen (es-US sobre contenido original inglés: «espinilla», «bordillos», «camioneta», «transverso abdominal»); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — LA fuente del tramo explícitamente 50+ con rutina completa en silla (la familia de la «rutina de silla» que S2 ya citaba como hábito); cruces evidentes: S3 (reto de levantarse de silla baja como métrica central compartida; romboides/retroacción postural ↔ retracción escapular), S10 (abductores y estabilidad de cadera contra el «tambaleo», rotadores de cadera), S8 (cifosis y espalda alta que colapsa) y S12 (movilidad en silla para cuerpos con dolor — la silla como plataforma segura común) — pendiente de consolidación.
+
+
+## Ver también
+
+- [[fitness-senior]]
+- [[mundo-olvidado]]

@@ -30,3 +30,11 @@ Canal de fisioterapia-comedia con formato sketch (humor de género evidente: «s
 - El humor de género y estético («nalguitas», «push-up de retaguardia») es el gancho del canal; el contenido rehabilitador es posterior y más serio que el envoltorio.
 - ASR con ruido normalizado solo en este resumen (sensulones→sensualones, Yiyo/Moni (nombres de personajes), rectificación cervical (término del propio guion, probablemente «rectificación/cirugía cervical»), pelvitrocantéreos, condromalacia, nalgamiento (neologismo del canal)); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — músculo sin equipo para encamados, 40+ («si tienes más de 40 años y estás perdiendo músculo») y articulaciones dañadas; cruces evidentes: WL-30 (familia de FÓRMULA de título «Es aburrido, pero…» — parentezco declarado: imitación, no hermano de canal), S3 (puente de glúteos y el complejo glúteo medio/cadena posterior compartido; el mismo público con rodillas problemáticas), S13 (el «encamado/en silla» como plataforma de ejercicio para cuerpos con limitaciones) y S6 (progresiones por nivel con banda elástica) — pendiente de consolidación.
+
+
+## Ver también
+
+- [[familia-pizza-casera]]
+- [[fitness-senior]]
+- [[generacion-local-de-imagenes]]
+- [[papado-y-grieta-argentina]]

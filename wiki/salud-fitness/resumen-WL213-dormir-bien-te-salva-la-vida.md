@@ -25,3 +25,8 @@ Episodio sobre el costo invisible del mal sueño: la imposibilidad de autoevalua
 - Divulgación sólida: cada dato fuerte viene con institución citada (Penn/Berkeley/Chicago/Michigan/Harvard/MIT/Nature), aunque sin enlaces — fuente secundaria; los números exactos (24 %, 6 %, 60 %, 300 kcal) conviene contrastar en consolidación si se citan.
 - Cruces previstos: cluster salud (WL-164 divulgación salud, WL-172 reflujo, WL-139 psicología, WL-186 vida diaria), tema "cultura del rendimiento" (WL-140 crítica de industria), historias de casos técnicos con fatiga (no directo).
 - Dominio previsto: general (salud/divulgación) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[santiago-bilinkis]]

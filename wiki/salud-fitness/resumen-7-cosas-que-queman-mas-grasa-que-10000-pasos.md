@@ -29,3 +29,8 @@ Content farm con envoltorio de ranking-viral («te diré cuál es la mejor», «
 - El ranking es un criterio editorial del canal (adherencia > eficiencia puntual); un protocolo «peor rankeado» puede ser el correcto para otro contexto (p. ej. el chaleco para osteopenia).
 - ASR con ruido normalizado solo en este resumen (Man'pōkei, irisina, «efecto Browning»/pardeamiento, NEAT, «Kiguay»→Kiwi); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — grasa con toques de envejecimiento explícitos (densidad ósea de cadera «a medida que envejecemos», advertencia del chaleco «si eres mayor», estudio en mujeres menopáusicas); cruces evidentes: S4 (historia de los 10.000 pasos y meseta de ~7000 VERBATIM compartidas; walking como ejercicio sostenible), S15 (2700/8800 vs 7000 — misma literatura, énfasis distinto) y S7 (contradicción del ayuno) — pendiente de consolidación.
+
+
+## Ver también
+
+- [[fitness-senior]]

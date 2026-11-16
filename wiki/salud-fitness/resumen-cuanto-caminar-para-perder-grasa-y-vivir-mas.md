@@ -28,3 +28,10 @@
 - El caso de rabdomiólisis es real y relevante (spinning + restricción calórica es una combinación clásica), pero la moraleja «caminar para perder mucha grasa sin daño» no elimina la necesidad de supervisión en obesidad con comorbilidad o en dietas muy restrictivas.
 - ASR con ruido normalizado solo en este resumen («racking»→rucking, «Heat»→HIIT, «velocidad ecimiento»→velocidad de envejecimiento, «la concagua»→Aconcagua, «prestamos»→proteínas); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — el vídeo aporta al clúster los números de pasos con ángulo explícito de envejecimiento (sarcopenia: ~8000+ pasos para evitar la pérdida de músculo en 45-74 años; longevidad y mortalidad cardiovascular); cruces evidentes: S4 (mismo fisiológico del sustrato y del «total calórico» — CONCUERDA, no contradice; la caminata como ejercicio sostenible), S7 (contraste: aquí la caminata se cuantifica por pasos y FC, allí por minutos del «doctor Miller» — complementable en consolidación) y WL-30 (músculo como almacén y grasa visceral — la recomposición proteica de este vídeo refuerza la pata nutricional de S2) — pendiente de consolidación.
+
+
+## Ver también
+
+- [[fitness-senior]]
+- [[historia-de-la-tecnologia]]
+- [[meritocracia-y-moral-del-esfuerzo]]

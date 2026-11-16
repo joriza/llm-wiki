@@ -27,3 +27,8 @@ Los sistemas no están separados: una sola palanca (cargar el cuerpo) protege m�
 - Divulgación de salud genérica, estilo channel narrativo tipo lista («lo que nadie te cuenta»), sin citas específicas a estudios — afirmaciones plausibles y alineadas con consenso general (sarcopenia, sueño profundo, carga ósea) pero sin referencias verificables en el video. Señalar en triage: divulgación ligera, no fuente primaria. Cruce natural con WL-139 (psicología/inteligencia, Claridad Mental) por el cambio 5 en consolidación.
 - Sin patrocinios relevantes; cierre estándar de llamada a suscripción (excluido).
 - Dominio previsto (pendiente de consolidación, S4 sin dominios nuevos): general (salud/longevidad).
+
+
+## Ver también
+
+- [[reguladores-carga-solar]]

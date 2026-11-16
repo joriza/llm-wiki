@@ -27,3 +27,8 @@ Guion de estilo IA/content farm sin autor identificado (metadatos UNKNOWN en el 
 - El hook de guerreros griegos/espartanos y «fuerzas especiales» es decorado de guion sin sustento; el «30 kg» de armadura es dramatización.
 - ASR con ruido normalizado solo en este resumen (wall seat/wall se→wall sit, «un tán»→a punto, deadhang); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — público adulto general, pero aporta al clúster la pata isométrica (el método «sin impacto articular» que S10 receta para 60+ y que la fisioterapia usa en recuperación — el propio vídeo lo dice); cruces evidentes: S10 (wall sit y deadhang IDENTICOS — mismos ejercicios con progresiones comparables: 30-60 s vs 15-60 s), S9 (plancha oso→clásica→superman como progresión del mismo grupo; «plancha Superman» de S9 ≠ superman hold prono de aquí — dos ejercicios distintos con el mismo nombre, aclarar en consolidación), S6 (planchas y flexiones compartidas) y S3 (postura/cadena posterior contra la cifosis) — pendiente de consolidación.
+
+
+## Ver también
+
+- [[fitness-senior]]

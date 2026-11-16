@@ -31,3 +31,8 @@
 - La cifra del subidón aparece como «70-80 %» de FC máxima en el ASR (habitualmente se reporta 70-85 %) — tomar como rango aproximado.
 - ASR con ruido normalizado solo en este resumen (nombres propios verificados contra las citas reales: Bramble, Lieberman, Liebenberg, Duck-chul Lee, Nielsen; «guepardo», «kudú», «endocannabinoides»); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — público adulto general, pero aporta al clúster la pata tejidos/carga con el argumento senior por excelencia (el sedentarismo, no el movimiento, lo que destruye articulaciones; el modelo esponja del cartílago; el sofá como factor de riesgo comparable a la hipertensión); cruces evidentes: S3 (el puente glúteo unipodal de los 20 s es EL ejercicio preventivo de este vídeo — mismo movimiento que S3 enseña como progresión del puente de glúteos), WL-5 (carga progresiva y adaptación de tejidos: mismas plazos de remodelación) y S7 (contradicción abierta: aquí correr <1 h/semana casi todo el beneficio de longevidad vs «te prohíbo correr») — pendiente de consolidación.
+
+
+## Ver también
+
+- [[fitness-senior]]

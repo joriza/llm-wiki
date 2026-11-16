@@ -27,3 +27,8 @@ Perfil distinto dentro del tramo: **entrenador real de running hablando a corred
 - Las cifras del vídeo (2 min trabajo/2 min descanso, 1,5 m² de espacio) son recetas del coach, no datos de estudio — tomar como diseño de sesión razonable, no como evidencia.
 - ASR con ruido normalizado solo en este resumen (skin→skipping, braseros→brazos, arnez→arnés, talones a las cuadras→talones al glúteo, «el 10»→el pie); los fragmentos irreconstruibles se dejaron sin reconstruir; el raw permanece intacto.
 - **Sin página de concepto**: no aplica [[fitness-senior]] — es técnica de carrera para corredores generales (sprint, cadencia de élite, prevención de lesiones de running), sin ángulo fuerza/movilidad/grasa/sueño 40+/60+ en el contenido.
+
+
+## Ver también
+
+- [[fitness-senior]]

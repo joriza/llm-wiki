@@ -33,3 +33,8 @@ Canal abiertamente plant-based («Médico Vegano»): todas las preparaciones sug
 - La advertencia renal/anticoagulantes de la espinaca es la única precaución médica del vídeo; faltan descargos para las demás recomendaciones (p. ej. el potasio alto del aguacate, batata y plátano también importa en enfermedad renal).
 - ASR con ruido normalizado solo en este resumen (Popelle→Popeye, kercetina→quercetina, cenferol→kaempferol, ceaxantina→zeaxantina, colágeneno→colágeno, aluvias→alubias); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — esta fuente aporta la pata nutricional vegetal del clúster (proteína por dosis, leucina como señal, hierro/magnesio/potasio y el par sueño-hormona de crecimiento que ya aparecía en WL-30); cruces evidentes: WL-30 (proteína repartida y músculo como almacén) y la rutina de silla que anticipa las rutinas de fuerza sin equipo del dominio salud-fitness/.
+
+
+## Ver también
+
+- [[fitness-senior]]

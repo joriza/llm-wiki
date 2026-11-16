@@ -32,3 +32,9 @@ Formato YouTube-scientífico de alta producción: mediciones propias con instrum
 - La prueba con solo 2 semanas y 2-3 sujetos es demostrativa, no un ensayo: los cambios de Andy (+3,5 % VO2 Max) pueden incluir familiarización (como el propio vídeo admite en Brandon).
 - ASR con ruido normalizado solo en este resumen (Built With Science, NEAT, EPOC, «manpo-kei», VO2 Max); el raw permanece intacto.
 - **Página de concepto**: [[fitness-senior]] (WL-4 + WL-5 + WL-16 + WL-30; consolidación tramos 1-2, 2026-11-13) — el vídeo es de público adulto general, pero aporta al clúster la pata cardiorrespiratoria con ángulo de envejecimiento (declive del VO2 Max ~1 %/año desde los 25, caminar como ejercicio de pleno derecho y puerta de entrada accesible, ~7000 pasos como objetivo realista de salud y prevención de demencia); cruces evidentes: S2 (sarcopenia: cardio solo pierde músculo — la fuerza preserva el almacén) y S3 (caminata como base funcional del mayor).
+
+
+## Ver también
+
+- [[fitness-senior]]
+- [[meritocracia-y-moral-del-esfuerzo]]
