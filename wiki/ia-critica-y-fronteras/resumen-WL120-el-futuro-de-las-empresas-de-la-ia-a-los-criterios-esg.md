@@ -1,6 +1,6 @@
 # Resumen: El Futuro de las Empresas: De la IA a los Criterios ESG
 
-- **Fuente original**: `raw/general/2026-10-29-el-futuro-de-las-empresas-de-la-ia-a-los-criterios-esg.md` (WL-120, tramo 11)
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-10-29-el-futuro-de-las-empresas-de-la-ia-a-los-criterios-esg.md` (WL-120, tramo 11)
 - **Canal**: GSG Business Hub (podcast)
 - **Video**: https://www.youtube.com/watch?v=5F49Op3IMwU
 - **Publicado**: 2026-10-29 · **Duración**: 15:50 · **Idioma**: español (ASR)

@@ -1,9 +1,9 @@
 # WL-408 — CLAUDE rompe la Hipótesis de RIEMANN
 
-- **Fuente**: `raw/general/2026-09-03-claude-rompe-la-hipotesis-de-riemann-lo-mas-dificil-en-matematica.md` (`myRrOq1G_fg`, https://www.youtube.com/watch?v=myRrOq1G_fg)
+- **Fuente**: `raw/ia-critica-y-fronteras/2026-09-03-claude-rompe-la-hipotesis-de-riemann-lo-mas-dificil-en-matematica.md` (`myRrOq1G_fg`, https://www.youtube.com/watch?v=myRrOq1G_fg)
 - **Canal**: Math Rocks (profe John; 1.ª fuente WL)
 - **Publicado**: 2026-09-03 · **Duración**: 21:49 · **Idioma**: es (subtítulos automáticos)
-- **Dominio previsto**: general (divulgación matemática) — videoensayo divulgativo con lectura de preprint
+- **Dominio previsto**: ia-critica-y-fronteras (divulgación matemática) — videoensayo divulgativo con lectura de preprint
 - **Tramo**: 67 (relevo 7 de 12 del pedido L34)
 
 ## Qué trata
