@@ -4062,3 +4062,10 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - **Cierre de visión general**: overview.md hilo 29 + sintesis.md sección 24 (numeración consecutiva verificada).
 - **Verificaciones abiertas**: Tromelin/Titanic/Baikal/Pangea citadas de 2ª mano (WL-478/480/485/482); PPA ASR-ilegible (WL-483); «Coduk» ASR sin resolver (WL-494); homonimia «Jorge Marfil» sin identidad verificada (WL-494). Impedimento registrado en T90: WL-496↔WL-19 imposible (baja definitiva) — cableado alternativo con [[solar-pasivo-y-ventilacion]].
 - **Estado final**: estación `wl/` a 0 resúmenes y raws (tramos 79-84); hub indice-wl.md con los 6 tramos CONSOLIDADOS; index.md 30 filas actualizadas; backlog consolidado hasta **WL-536**. **PEDIDO L39 COMPLETADO** — push a origin por ejecutar por el orquestador.
+
+## [2026-11-16] lint | revisión general post-L39
+
+- **`general/` desbordado**: 274 archivos, >9× el umbral de ~30 fuentes. Clasificación aproximada (matching por palabras clave, a validar archivo por archivo): ~123 tendrían hogar en dominios existentes (sociedad-argentina 17, informatica 17, electronica-practica 16, ciencias-tierra 15, salud-fitness 13, historia-argentina 10, informatica-teoria 9, self-hosting 8, economia-argentina 7, cocina 6, historia-informatica 3, python-practico 2). El resto (~150) permanecería en `general/` o alimentaría dominios nuevos.
+- **Otros dominios sobre el umbral de ~30**: electronica-practica (117), agentes-de-codigo (113), ia-uso-practico (93), ia-local (83), python-practico (77), ia-critica-y-fronteras (77). Evaluar división solo si hay subtemas claramente diferenciados.
+- **`economia-argentina/` frágil**: 5 archivos; «propuesta b» (fusión con sociedad-argentina) pendiente desde T89.
+- **Huérfanos**: 265 páginas sin enlaces entrantes (predominan resúmenes de fuente sin cruce todavía). Trabajo de cableado cruzado extenso, propuesto en lotes por dominio.
