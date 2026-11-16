@@ -72,7 +72,6 @@ Los modelos chicos entran en **loops infinitos** (repiten la misma cadena sin sa
 
 Es el motor descrito como alternativa a Ollama/LM Studio en [[ia-local-texto]]; su endpoint OpenAI-compatible conecta los clientes de [[agentes-de-codigo]] (OpenCode, Codex). El ecosistema de hardware/cuantización se desarrolla en las fuentes siguientes del lote ia-local. TurboQuant / KV cache Q8 + rotary attention es una mejora gratuita que se activa automáticamente en versiones actuales. **Build CPU-only** (fuente 30): misma capacidad y modelos GGUF, velocidad usable (11+ tok/s en Qwen 35B-A3B MoE, 35 GB RAM), a fracción del costo de GPU equivalente (250 USD RAM vs 5000+ USD GPU).
 
-
 ## Del cierre del lote (fuentes 43-58)
 
 - **Caché de expertos** (fuentes 51, 55): tras el éxito de [[strata]], la **PR #29887** la añade a llama.cpp (pendiente de aceptar; RTX 4090: 25→39.4 tok/s, 1.57×; 5090: 2.2×). La idea salta de proyecto a motor general en días.
