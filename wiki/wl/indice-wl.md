@@ -236,3 +236,18 @@ Cabeza WL-424 (`X2eMvB_qp7c`) verificada contra el cache antes del primer `--one
 | 428 | Gemma 4 E4B: ¿es realmente más inteligente que el E2B? | Nichonauta (4.ª fuente) | ia-uso-practico/ o ia-local/ |
 
 Señales: WL-424 primera mano con código en pantalla (prueba ×15 y 87 % recuperado verificables solo por relato; marco Patreon excluido); WL-425 precios de pantalla sin fecha de captura — no verificables, señalados; clientes de SES de 2.ª mano; patrocinio Hostinger excluido; WL-426 primera mano de taller pero afirmaciones fuertes sin medición (voltaje LED, «estafa») — título clickbait señalado; WL-427 opinión sin datos; WL-428 demo con verificación funcional de cada artefacto, comparación no independiente (mismo canal, video previo de E2B). Cruces candidatos: [[codigo-espinoza]] +1, [[fazt]] +1, [[hdeleon-net]] +1, [[nichonauta]] +1 (todas entidades confirmadas), [[bases-de-datos]] (WL-424), WL-425↔WL-294/160/344 (infra), WL-426↔WL-204 + electronica-practica, WL-427↔brecha-junior-ia + [[delegacion-cognitiva-ia]], WL-428↔[[gemma-4]] + [[inferencia-local]] + [[llama-cpp]], MTP concepto emergente. Tema de tramo: primera mano técnica ×3 (WL-424/426/428) + opinión/guía ×2 (WL-425/427). Cabeza futura: WL-429 (índice 117 del cache de 04:52, `tArNhT82h7U`).
+
+## Tramo 71 (relevo 11 de 12 del pedido L34) — 5/5 útiles
+
+Cabeza WL-429 (`tArNhT82h7U`, índice 117 del cache de 04:52) verificada contra el cache antes del primer `--one` (WL-428 = `NYcH2wHmzNQ` en el índice 116 confirma el cierre del relevo 10); 5 descargas `--one` con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429. Pendientes de consolidación (L12):
+
+| WL | Título | Canal | Dominio previsto |
+|---|--------|-------|------------------|
+| 429 | El gastito de Jorge Macri: más de 3 mil millones de pesos en un chatbot con IA (Short) | Abigail Luna (1.ª fuente) | sociedad-argentina/ — satírico NO factual |
+| 430 | ChatGPT, Claude y Gemini están caídos (Short) | hdeleon.net (6.ª fuente WL) | ia-critica-y-fronteras/ — opinión NO factual |
+| 431 | Spark X2.5 4B: ¿realmente es superior a Gemma 4 y Qwen? | Nichonauta (5.ª fuente) | ia-uso-practico/ o ia-local/ |
+| 432 | Llama 3.1 8B: ¿sigue siendo valioso o ya es obsoleto? | Nichonauta (6.ª fuente) | ia-uso-practico/ o ia-local/ |
+| 433 | El streaming nunca será igual: Minimax H3 en directo | Fazt Code (18.ª fuente) | ia-critica-y-fronteras/ |
+| 434 | Qwen 3.5 0.8B: ¿sirve para programar? | Nichonauta (7.ª fuente) | ia-uso-practico/ o ia-local/ |
+
+Señales: WL-429 cifra de licitación de 2.ª mano sin enlace al pliego — no verificable, señalada (humor político); WL-430 outage sin documentación y causa «Astra» especulada sin respaldo, señalados; WL-431/432/434 demos primera mano con verificación funcional y batería consistente del canal (WL-428→434), benchmarks autocreportados refutados empíricamente, veredictos parcialmente subjetivos declarados; WL-433 hechos de 2.ª mano sin enlaces (cifras de coste, espectadores), señalados. Cruces candidatos: [[nichonauta]] +3 (línea de serie de inferencia local, plan de serie completa Qwen), [[fazt]] +1, [[hdeleon-net]] +1, [[gemma-4]], [[qwen]], [[inferencia-local]], [[llama-cpp]], [[percepcion-de-regresion-de-modelos]], [[gobernanza-ia]], [[routing-por-coste]]; entidades candidatas: Abigail Luna (canal). Tema de tramo: batería Nichonauta ×3 + shorts/opinión IA ×2 + frontera generativa ×1. Cabeza futura: WL-435 (índice 122 del cache de 04:52, `fGyLXOACW9k`).
