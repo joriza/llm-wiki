@@ -28,3 +28,8 @@
 - **Dominio destino previsto: `informatica-teoria/`** (seguridad/infraestructura digital) — o `critica-tecnologica/` por el ángulo de dependencia tecnológica; a decidir en consolidación.
 - **WL-53 (Mitjana, tercer demonio) y WL-62 (rumor apagón 17-N)**: tríada sobre ciberriesgo y desinformación — este aporta el caso real de IoT industrial (refrigeradores/sangre) y el contrafactual japonés sin ataque; WL-53 el «modelo propio listo antes de necesitarlo»; WL-62 el rumor que explota el miedo. Tema-candidato: **ciberresiliencia y dependencia digital** — primera fuente del tema.
 - **WL-51/47**: la pregunta «qué pasa cuando la automatización falla» aplica a los agentes proactivos (observe/auto) — cruce conceptual menor.
+
+
+## Ver también
+
+- [[seguridad-fuera-del-modelo]]

@@ -18,3 +18,8 @@ Reconstrucción narrada del ciclo LulzSec 2011 y la delación de Sabu, con recon
 ## Valoración para la wiki
 
 Buena síntesis cronológica de un episodio canónico de la historia de internet (LulzSec/AntiSec/Sabu están extensamente documentados) con lecciones de seguridad aún vigentes: reutilización de contraseñas (Barr, Hijawi), hash débil + rainbow tables, ingeniería social como vector final, e infraestructura de confianza comprometida (el chat del FBI). El encuadre docudrama añade diálogos y motivaciones noveladas — usar como mapa de hechos contrastables, no como cita literal.
+
+
+## Ver también
+
+- [[obsidian-memoria-agentes]]
