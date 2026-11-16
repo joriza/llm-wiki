@@ -1,6 +1,6 @@
 # WL-302 — Cómo lograr que una mujer DISFRUTE cada conversación contigo
 
-- **Fuente original**: `raw/wl/tramo-45/2026-11-05-como-lograr-que-una-mujer-disfrute-cada-conversacion-contigo.md` (transcripción automática intacta)
+- **Fuente original**: `raw/desarrollo-personal/2026-11-05-como-lograr-que-una-mujer-disfrute-cada-conversacion-contigo.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=VC0bAanxHQE
 - **Canal**: MINDVEIL · **Publicado**: 2026-11-05 · **Duración**: 09:44 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)
@@ -23,5 +23,5 @@ Contenido de desarrollo personal / seducción suave, sin base empírica citada y
 
 ## Cruces y notas
 
-- Cruces: cluster de comunicación y psicología aplicada (WL-131 Franco Pisso / efecto foco, WL-139 inteligencia mecánica — Claridad Mental); dominio destino sugerido: desarrollo-personal.
+- Cruces: cluster de comunicación y psicología aplicada (WL-131 Franco Pisso / efecto foco, WL-139 inteligencia mecánica — Claridad Mental); dominio definitivo: desarrollo-personal — entidad de canal creada en la consolidación: [[mindveil]].
 - Canal MINDVEIL sin presencia previa en la wiki (1.ª fuente — umbral <2, texto plano).

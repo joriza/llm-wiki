@@ -1,6 +1,6 @@
 # WL-304 — 5 comportamientos «atrevidos» que excitan inconscientemente a las mujeres
 
-- **Fuente original**: `raw/wl/tramo-45/2026-11-09-5-comportamientos-atrevidos-que-excitan-inconscientemente-a-las-mujeres.md` (transcripción automática intacta)
+- **Fuente original**: `raw/desarrollo-personal/2026-11-09-5-comportamientos-atrevidos-que-excitan-inconscientemente-a-las-mujeres.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=9c1PE6hK-kI
 - **Canal**: MINDVEIL · **Publicado**: 2026-11-09 · **Duración**: 09:56 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)
@@ -23,5 +23,5 @@ Mismo subgénero y formato que WL-302/303 (narración motivacional, generalizaci
 
 ## Cruces y notas
 
-- Cruces: WL-302/303 (mismo canal MINDVEIL — 3.ª fuente consecutiva en la ventana; tema de tramo); WL-131 (comunicación/psicología aplicada). Dominio destino sugerido: desarrollo-personal.
+- Cruces: WL-302/303 (mismo canal — 3.ª fuente consecutiva en la ventana; tema de tramo); WL-131 (comunicación/psicología aplicada). Dominio definitivo: desarrollo-personal — entidad de canal creada en la consolidación: [[mindveil]].
 - Entidad MINDVEIL candidata confirmada para la consolidación (umbral ≥2 ya cubierto con 3 fuentes).

@@ -1,6 +1,6 @@
 # WL-301 — Es aburrido pero lo Arregla Todo
 
-- **Fuente original**: `raw/wl/tramo-45/2026-10-18-es-aburrido-pero-lo-arregla-todo.md` (transcripción automática intacta)
+- **Fuente original**: `raw/salud-fitness/2026-10-18-es-aburrido-pero-lo-arregla-todo.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=ohq0aleAXlg
 - **Canal**: BlueGym Animation · **Publicado**: 2026-10-18 · **Duración**: 05:55 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)

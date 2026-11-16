@@ -1,6 +1,6 @@
 # WL-314 — Argentina Esconde Algo Que La Mayoría de los Argentinos No Sabe Que Existe
 
-- **Fuente original**: `raw/wl/tramo-47/2026-11-08-argentina-esconde-algo-que-la-mayoria-de-los-argentinos-no-sabe-que-existe.md`
+- **Fuente original**: `raw/general/2026-11-08-argentina-esconde-algo-que-la-mayoria-de-los-argentinos-no-sabe-que-existe.md`
 - **Video**: [nQW0F1cRoTU](https://www.youtube.com/watch?v=nQW0F1cRoTU) (35:10, publicado 2026-11-08)
 - **Canal**: Latinoamérica con Esteban (Esteban Montes, ex docente de geografía en México)
 - **Recopilado**: 2026-11-16 (transcripción de subtítulos automáticos, sin normalizar)

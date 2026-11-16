@@ -1,6 +1,6 @@
 # WL-307 — ¿Cómo Duermen Los Camioneros A -50 °C Cuando El Motor Podría Averiarse Durante la Noche?
 
-- **Fuente original**: `raw/wl/tramo-46/2026-11-02-como-duermen-los-camioneros-a-50-c-cuando-el-motor-podria-averiarse-durante-la-n.md` (transcripción automática intacta)
+- **Fuente original**: `raw/general/2026-11-02-como-duermen-los-camioneros-a-50-c-cuando-el-motor-podria-averiarse-durante-la-n.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=5HemqDqXJDQ
 - **Canal**: CurioFosil · **Publicado**: 2026-11-02 · **Duración**: 20:52 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)

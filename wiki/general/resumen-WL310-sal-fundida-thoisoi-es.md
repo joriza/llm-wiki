@@ -1,6 +1,6 @@
 # WL-310 — ¡SAL Fundida: El Líquido MÁS PELIGROSO!
 
-- **Fuente original**: `raw/wl/tramo-46/2026-11-14-sal-fundida-el-liquido-mas-peligroso.md` (transcripción automática intacta)
+- **Fuente original**: `raw/general/2026-11-14-sal-fundida-el-liquido-mas-peligroso.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=7BpAOEqIY18
 - **Canal**: Thoisoi ES · **Publicado**: 2026-11-14 · **Duración**: 21:50 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)

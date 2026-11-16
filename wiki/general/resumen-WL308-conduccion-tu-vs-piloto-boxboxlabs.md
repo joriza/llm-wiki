@@ -1,6 +1,6 @@
 # WL-308 — Tú vs un piloto: qué hace cada uno cuando el coche no obedece
 
-- **Fuente original**: `raw/wl/tramo-46/2026-11-12-tu-vs-un-piloto-que-hace-cada-uno-cuando-el-coche-no-obedece.md` (transcripción automática intacta)
+- **Fuente original**: `raw/general/2026-11-12-tu-vs-un-piloto-que-hace-cada-uno-cuando-el-coche-no-obedece.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=PD4McdUXXVo
 - **Canal**: boxboxlabs · **Publicado**: 2026-11-12 · **Duración**: 12:16 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)

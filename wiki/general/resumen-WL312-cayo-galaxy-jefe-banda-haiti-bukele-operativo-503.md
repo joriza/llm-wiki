@@ -1,6 +1,6 @@
 # WL-312 — Cayó «Galaxy», el primer jefe de banda en Haití desde que llegó Bukele… y los demás ya piden paz
 
-- **Fuente original**: `raw/wl/tramo-47/2026-11-03-cayo-galaxy-el-primer-jefe-de-banda-en-haiti-desde-que-llego-bukele-y-los-demas-.md`
+- **Fuente original**: `raw/general/2026-11-03-cayo-galaxy-el-primer-jefe-de-banda-en-haiti-desde-que-llego-bukele-y-los-demas-.md`
 - **Video**: [D7EMSKQqqLA](https://www.youtube.com/watch?v=D7EMSKQqqLA) (28:42, publicado 2026-11-03)
 - **Canal**: Operativo 503 (seguridad/defensa, perspectiva salvadoreña)
 - **Recopilado**: 2026-11-16 (transcripción de subtítulos automáticos, sin normalizar)

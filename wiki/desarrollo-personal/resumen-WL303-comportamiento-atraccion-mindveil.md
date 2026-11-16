@@ -1,6 +1,6 @@
 # WL-303 — Cómo se COMPORTAN las mujeres ante el hombre que de verdad quieren
 
-- **Fuente original**: `raw/wl/tramo-45/2026-10-20-como-se-comportan-las-mujeres-ante-el-hombre-que-de-verdad-quieren.md` (transcripción automática intacta)
+- **Fuente original**: `raw/desarrollo-personal/2026-10-20-como-se-comportan-las-mujeres-ante-el-hombre-que-de-verdad-quieren.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=sFkgND4ngnw
 - **Canal**: MINDVEIL · **Publicado**: 2026-10-20 · **Duración**: 08:51 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)
@@ -21,5 +21,5 @@ Contenido de seducción/desarrollo personal del mismo subgénero que WL-302, sin
 
 ## Cruces y notas
 
-- Cruces: WL-302 (mismo canal MINDVEIL, 2.ª fuente en la misma ventana — ya cumple umbral ≥2 para entidad de canal en consolidación); dominio destino sugerido: desarrollo-personal.
+- Cruces: WL-302 (mismo canal, 2.ª fuente en la misma ventana) — entidad de canal creada en la consolidación: [[mindveil]]; dominio definitivo: desarrollo-personal.
 - Contenido adyacente a crítica-tecnologica/media por su marco de género — sin página que lo reciba hoy; se cruza, no se crea dominio (S4).

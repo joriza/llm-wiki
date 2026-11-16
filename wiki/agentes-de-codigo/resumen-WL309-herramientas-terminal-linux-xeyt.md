@@ -1,6 +1,6 @@
 # WL-309 — 10 herramientas de la terminal que de verdad te sirven en Linux
 
-- **Fuente original**: `raw/wl/tramo-46/2026-11-15-10-herramientas-de-la-terminal-que-de-verdad-te-sirven-en-linux.md` (transcripción automática intacta)
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-15-10-herramientas-de-la-terminal-que-de-verdad-te-sirven-en-linux.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=LbcyTbM38zQ
 - **Canal**: xeyt · **Publicado**: 2026-11-15 · **Duración**: 14:40 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)

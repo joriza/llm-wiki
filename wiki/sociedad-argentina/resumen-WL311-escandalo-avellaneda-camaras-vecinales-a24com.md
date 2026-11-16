@@ -1,6 +1,6 @@
 # WL-311 — 📢 Escándalo en Avellaneda con la funcionaria Sabrina Soledad González por cámaras vecinales
 
-- **Fuente original**: `raw/wl/tramo-47/2026-11-12-escandalo-en-avellaneda-con-la-funcionaria-sabrina-soledad-gonzalez-por-camaras-.md`
+- **Fuente original**: `raw/sociedad-argentina/2026-11-12-escandalo-en-avellaneda-con-la-funcionaria-sabrina-soledad-gonzalez-por-camaras-.md`
 - **Video**: [AmmmNOYGOR8](https://www.youtube.com/watch?v=AmmmNOYGOR8) (10:32, publicado 2026-11-12)
 - **Canal**: A24com (noticiero/streaming de opinión argentina)
 - **Recopilado**: 2026-11-16 (transcripción de subtítulos automáticos, sin normalizar)

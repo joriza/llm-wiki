@@ -1,6 +1,6 @@
 # WL-313 — ¿Qué hace un lenguaje de 1959 manejando nuestro dinero?
 
-- **Fuente original**: `raw/wl/tramo-47/2026-11-14-que-hace-un-lenguaje-de-1959-manejando-nuestro-dinero.md`
+- **Fuente original**: `raw/informatica-teoria/2026-11-14-que-hace-un-lenguaje-de-1959-manejando-nuestro-dinero.md`
 - **Video**: [RsQv7VecLoI](https://www.youtube.com/watch?v=RsQv7VecLoI) (16:38, publicado 2026-11-14)
 - **Canal**: Gilada (divulgación informática, subtítulos manuales es-419)
 - **Recopilado**: 2026-11-16 (transcripción de subtítulos manuales, literal)
@@ -19,4 +19,4 @@ El corazón del video es la deuda técnica como acumulación de decisiones human
 
 ## Cruces y dominio
 
-- Dominio previsto: **informatica-teoria** o general (historia del software/ingeniería de sistemas legados). Cruce directo con [[bases-de-datos]] (integridad de datos, decimales exactos) y con el cluster de historia informática (WL-255/256 Reliquias Tecnológicas, WL-200 Verbatim/Archivo Tecnológico, WL-166 historia del software). El tema «deuda técnica / código legado» conecta con WL-257 (encuesta SO vía 2.ª mano) — evaluable como concepto candidato en consolidación. Gilada 1.ª fuente (texto plano).
+- Dominio previsto: **informatica-teoria** o general (historia del software/ingeniería de sistemas legados). Cruce directo con [[bases-de-datos]] (integridad de datos, decimales exactos) y con el cluster de historia informática (WL-255/256 Reliquias Tecnológicas, WL-200 Verbatim/Archivo Tecnológico, WL-166 historia del software). El tema «deuda técnica / código legado» conecta con WL-257 (encuesta SO vía 2.ª mano) — aplazado por umbral. Dominio definitivo: informatica-teoria. Canal: [[gilada]] (3.ª fuente — entidad existente desde la ventana Vs+Docencia T4, no texto plano).

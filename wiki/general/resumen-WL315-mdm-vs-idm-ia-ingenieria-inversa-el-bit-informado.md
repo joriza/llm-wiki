@@ -1,6 +1,6 @@
 # WL-315 — El poder de la IA: la ingeniería inversa crea un gestor de descargas imbatible
 
-- **Fuente original**: `raw/wl/tramo-47/2026-11-14-el-poder-de-la-ia-la-ingenieria-inversa-crea-un-gestor-de-descargas-imbatible.md`
+- **Fuente original**: `raw/general/2026-11-14-el-poder-de-la-ia-la-ingenieria-inversa-crea-un-gestor-de-descargas-imbatible.md`
 - **Video**: [lZEBCDJAnKo](https://www.youtube.com/watch?v=lZEBCDJAnKo) (31:28, publicado 2026-11-14)
 - **Canal**: El Bit Informado (divulgación tecnológica)
 - **Recopilado**: 2026-11-16 (transcripción de subtítulos automáticos, sin normalizar)
@@ -21,4 +21,4 @@ Funciones de MDM: hasta 128 conexiones paralelas con redinámica de segmentos, t
 
 ## Cruces y dominio
 
-- Dominio previsto: **general** (tecnología/software) o ia-uso-practico. Cruces fuertes: [[lenguaje-rust]] (elección de Rust, misma argumentación WL-14), [[hardware-agentico-mcp-first]] / [[agentes-de-codigo]] (API MCP para asistentes — «software nacido para hablar con la IA»), concepto candidato «ingeniería inversa asistida por IA» (solapa parcial con WL-250/241, REA ya mencionada en T35/T36 — verificar en consolidación; posible concepto unificador REA/MDM). El Bit Informado 1.ª fuente (texto plano).
+- Dominio previsto: **general** (tecnología/software) o ia-uso-practico. Cruces fuertes: [[lenguaje-rust]] (elección de Rust, misma argumentación WL-14), [[hardware-agentico-mcp-first]] / [[agentes-de-codigo]] (API MCP para asistentes — «software nacido para hablar con la IA»), [[ingenieria-inversa-asistida-por-ia]] (concepto unificador REA/MDM creado en la consolidación, con WL-250/241). Dominio definitivo: general. Canal: [[el-bit-informado]] (3.ª fuente — entidad existente desde los tramos 4-7, no texto plano).
