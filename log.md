@@ -3931,3 +3931,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - El runner rotó la salida a `fyt:192.168.227.45` (EXIT-ROTATED, presupuesto reiniciado) pero la **sonda de salida recibió 429** (PROBE-FAILED, exit 4, 16:17) → **ninguna fuente gastada**. TRAMO-CLOSED sin reintentar (regla: cualquier 429, incluso por ruta celular).
 - **0 fuentes útiles, 0 skips, 0 descargas completadas, 0 commits de contenido**; sin cambios en index.md ni raw/. La ruta celular `192.168.227.45` queda flaggeada para descargas (`.atl/salidas.md`).
 - Cabeza futura sin cambios: **WL-477 (`9x3TDT3Gyc4`, índice 0 del cache)**. Contador: «Pedido L37: **0/15 útiles**» (T84/T85 pendientes). Próximo paso: nueva decisión de salida del usuario (la ruta celular dio 429 en la sonda; verificar asignación de IP/firing de la puerta antes de otro re-lanzamiento).
+
+## [2026-11-16] ingesta WL | WL-477 — ¿Por qué la Antártida Sigue Aterrorizando a los Científicos?
+
+- Fuente heredada de scratch (`.done` `9x3TDT3Gyc4`, índice 0 del cache post-refresh), procesada SIN re-descargar (precedente T9/T61). Raw espejado intacto a `raw/wl/tramo-79/`; resumen `wiki/wl/tramo-79/resumen-WL477-antartida-homosapiens.md`; fila en index.md. Divulgación Homosapiens con desmonte de mitos (Base 211, pirámide Ellsworth, Decepción 1965) y mundo subglacial real (Bedmap3, Vostok vs Whillans). Dominio previsto: general (consolidación diferida L12, sin dominios nuevos S4). 2.ª mano sin enlaces — señalada. «Pedido L37: 1/15 útiles».
