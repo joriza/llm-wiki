@@ -222,3 +222,17 @@ Cabeza WL-418 (`GlRHi8SmmQ0`, índice 106 del cache de 04:52) verificada contra 
 | 423 | Cómo el Nuevo Invento de China Va a Reemplazar tu Impresora Para Siempre | NovaMente X (1.ª fuente) | general/ (tecnología/consumo) — NO factual |
 
 Señales: WL-418 didáctico introductorio sin datos duros, marco comercial del libro de $10 declarado y excluido; WL-420 base técnica real (ácido fítico/fitasas, hidrogenación) mezclada con afirmaciones sin evidencia (bromato «camuflado») y fuerte interés comercial propio — señalados; WL-421 testimonio de primera mano sin verificación independiente del canal, anclado a la causa Manaos (cifras de 2.ª mano) — señalado; WL-422 demo de primera mano, estándar eléctrico US con aplicabilidad local parcial; WL-423 NO factual (parte china sin fuentes ni enlaces, marco hype, título clickbait; la parte modelo-Gillette sí documentada). Cruces candidatos: [[nichonauta]] +1 (WL-418), [[marcos-di-cesare]] +1 (WL-420), WL-421↔WL-182 (historia Manaos), WL-423↔[[gillette]] (WL-7), WL-422↔WL-207/WL-169; entidades candidatas: Semanario Actualidad, LRN2DIY, NovaMente X (todas 1.ª fuente). Cabeza futura: WL-424 (índice 111 del cache de 04:52, `X2eMvB_qp7c`).
+
+## Tramo 70 (relevo 10 de 12 del pedido L34) — 5/5 útiles
+
+Cabeza WL-424 (`X2eMvB_qp7c`) verificada contra el cache antes del primer `--one` (WL-423 = `TmeGjF9GwBI` ya procesada confirma el cierre del relevo 9; el id aparece en la posición 112 del JSON de 04:52 — off-by-one de lectura sin efecto en la identidad); 5 descargas `--one` con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429. Pendientes de consolidación (L12):
+
+| WL | Título | Canal | Dominio previsto |
+|---|--------|-------|------------------|
+| 424 | El cliente perdió todos sus datos por mi app de Python | Código Espinoza (3.ª fuente) | python-practico/ |
+| 425 | El error que cometen casi todos al elegir servicio de correos para su app | Fazt Code (+1, 18.ª) | informatica-teoria/ (infra/DevOps) |
+| 426 | La ESTAFA de los Smart TV que NADIE te cuenta | tecnotrailer (1.ª fuente) | general/ (tecnología/electrónica) |
+| 427 | ¿Para qué aprender código si la IA lo hace por ti? (Short) | hdeleon.net (5.ª fuente WL) | agentes-de-codigo/ o ia-critica-y-fronteras/ — opinión NO factual |
+| 428 | Gemma 4 E4B: ¿es realmente más inteligente que el E2B? | Nichonauta (4.ª fuente) | ia-uso-practico/ o ia-local/ |
+
+Señales: WL-424 primera mano con código en pantalla (prueba ×15 y 87 % recuperado verificables solo por relato; marco Patreon excluido); WL-425 precios de pantalla sin fecha de captura — no verificables, señalados; clientes de SES de 2.ª mano; patrocinio Hostinger excluido; WL-426 primera mano de taller pero afirmaciones fuertes sin medición (voltaje LED, «estafa») — título clickbait señalado; WL-427 opinión sin datos; WL-428 demo con verificación funcional de cada artefacto, comparación no independiente (mismo canal, video previo de E2B). Cruces candidatos: [[codigo-espinoza]] +1, [[fazt]] +1, [[hdeleon-net]] +1, [[nichonauta]] +1 (todas entidades confirmadas), [[bases-de-datos]] (WL-424), WL-425↔WL-294/160/344 (infra), WL-426↔WL-204 + electronica-practica, WL-427↔brecha-junior-ia + [[delegacion-cognitiva-ia]], WL-428↔[[gemma-4]] + [[inferencia-local]] + [[llama-cpp]], MTP concepto emergente. Tema de tramo: primera mano técnica ×3 (WL-424/426/428) + opinión/guía ×2 (WL-425/427). Cabeza futura: WL-429 (índice 117 del cache de 04:52, `tArNhT82h7U`).
