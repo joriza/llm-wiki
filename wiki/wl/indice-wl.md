@@ -180,3 +180,17 @@ Cabeza futura del backlog: **WL-346** (índice 39 del cache fresco de 04:52).
 | WL-351 | ¿Qué hay conectado en tu red? Auditoría práctica con Nmap (`oGZQnexwp44`) | JuncoTIC | general (seguridad/herramientas) o informatica-teoria — cruces WL-343/147, temas infra WL-334; JuncoTIC 1.ª fuente |
 
 Cabeza futura del backlog: **WL-352** (índice 45 del cache fresco de 04:52).
+
+## Tramo 55 — activo (relevo 8, pedido L32, 2026-11-16)
+
+5 fuentes ÚTILES ingestadas (raw en `raw/wl/tramo-55/`, resúmenes en `wiki/wl/tramo-55/`); 0 skips, 0 meta-fails; salida 45.239.32.215 sin 429 (L13; presupuesto suave 400 nunca alcanzado). Dominios destino previstos (S4, sin dominios nuevos; consolidación diferida):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| WL-352 | ¿Cuánto gana un programador en Argentina en 2026? (La realidad) (`1d6Bvo2GuNQ`) | Toto Ruffa | sociedad-argentina (carrera IT) o general — videoensayo NO factual, cifras de 2.ª mano señaladas; cruces WL-221/257 |
+| WL-353 | Jev es el lanzamiento de IA más importante desde ChatGPT (`nkhWIRCfprU`) | EDteam | ia-uso-practico o ia-critica-y-fronteras — misma demo que WL-346, primitivos coincidentes; costes de memoria señalados; cruces WL-346, routing-por-coste |
+| WL-354 | Tu harness puede frenar a los nuevos modelos (`Hx2M-L4Iw1c`) | DevExpert — IA para Desarrolladores | agentes-de-codigo o ia-critica-y-fronteras — caso Uncle Bob 2.ª mano señalado; cruces [[agentes-de-codigo]], [[odd-metodologia]], WL-228/211/300 |
+| WL-355 | La IA SIN CENSURA cuesta solo $5… y NADIE puede detenerla (`oK86HLPmdAg`) | Cognix | ia-critica-y-fronteras o general — abliteration, fuentes sin enlaces señaladas; cruces WL-354, [[inferencia-local]], [[agentes-de-codigo]] |
+| WL-356 | MySQL: vendió su creación y tuvo que clonarla para salvarla (`pzeCFyhCuP8`) | Archivo del Futuro | general (historia de la tecnología) o informatica-teoria — cruces [[bases-de-datos]], [[historia-de-la-tecnologia]], WL-296/313 |
+
+Tema de tramo: ecosistema de modelos IA ×3 (Jev, harness, abliteration) + mercado/carrera ×2. Cabeza futura del backlog: **WL-357** (índice 50 del cache fresco de 04:52, `AZCDAoOb6lc`).
