@@ -1,6 +1,6 @@
 # Resumen — IA y evaluación de aprendizajes (Ana Henríquez Orrego)
 
-- **Fuente original**: `raw/general/2026-10-18-ia-evaluacion-de-aprendizajes-ana-henriquez-orrego.md` (video `ONachuv2f0k`, canal Ana Henríquez Orrego / webinar Universidad de las Américas, 2026-10-18, 118:18, subtítulos automáticos)
+- **Fuente original**: `raw/ia-uso-practico/2026-10-18-ia-evaluacion-de-aprendizajes-ana-henriquez-orrego.md` (video `ONachuv2f0k`, canal Ana Henríquez Orrego / webinar Universidad de las Américas, 2026-10-18, 118:18, subtítulos automáticos)
 - **Dominio provisional**: wl (tramo-25) — consolidación diferida (L12)
 
 ## Tesis

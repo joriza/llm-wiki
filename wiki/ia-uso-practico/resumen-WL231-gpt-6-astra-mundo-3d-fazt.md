@@ -1,6 +1,6 @@
 # WL-231 — GPT-6 Astra convierte fotos en un mundo 3D que puedes recorrer
 
-- **Fuente original**: `raw/general/2026-10-08-gpt-6-astra-convierte-fotos-en-un-mundo-3d-que-puedes-recorrer.md`
+- **Fuente original**: `raw/ia-uso-practico/2026-10-08-gpt-6-astra-convierte-fotos-en-un-mundo-3d-que-puedes-recorrer.md`
 - **Video**: [GPT-6 Astra convierte fotos en un mundo 3D que puedes recorrer](https://www.youtube.com/watch?v=9a5eJ3nkB54)
 - **Canal**: Fazt · **Publicado**: 2026-10-08 · **Duración**: 12:13 · **Ingesta**: 2026-11-15 (tramo 33)
 

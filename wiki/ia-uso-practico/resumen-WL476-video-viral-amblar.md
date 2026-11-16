@@ -3,7 +3,7 @@
 - **Fuente original**: `raw/wl/tramo-78/2026-08-27-video-viral-en-youtube-por-que-puede-hundir-tu-canal-y-lo-que-nadie-cuenta-a-los.md` ([Vídeo](https://www.youtube.com/watch?v=kX6t3GnSmUk))
 - **Canal**: Javier Amblar: Estrategia · IA · Negocio
 - **Publicado**: 2026-08-27 · **Duración**: 01:47 (Short)
-- **Dominio provisional**: general (economía de creadores — estrategia de canal, NO factual)
+- **Dominio provisional**: ia-uso-practico (economía de creadores — estrategia de canal, NO factual)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata

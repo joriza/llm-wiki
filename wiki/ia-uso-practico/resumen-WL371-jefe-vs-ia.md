@@ -1,6 +1,6 @@
 # Resumen WL-371: CÓMO TE TRATA EL JEFE VS CÓMO TRATAMOS A LA IA — Maxi Fontán
 
-**Fuente original:** `raw/general/2026-09-15-como-te-trata-el-jefe-vs-como-tratamos-a-la-ia.md` (YouTube: `isYTand8Tnk`, canal **Maxi Fontán**, publicado 2026-09-15, 0:58).
+**Fuente original:** `raw/ia-uso-practico/2026-09-15-como-te-trata-el-jefe-vs-como-tratamos-a-la-ia.md` (YouTube: `isYTand8Tnk`, canal **Maxi Fontán**, publicado 2026-09-15, 0:58).
 
 ---
 

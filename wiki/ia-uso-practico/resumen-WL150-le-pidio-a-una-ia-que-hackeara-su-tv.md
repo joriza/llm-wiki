@@ -1,9 +1,9 @@
 # WL-150 · Le pidió a una IA que HACKEARA su TV. Lo que quitó explica tu tele
 
-- **Fuente original**: `raw/general/2026-10-28-le-pidio-a-una-ia-que-hackeara-su-tv-lo-que-quito-explica-tu-tele.md`
+- **Fuente original**: `raw/ia-uso-practico/2026-10-28-le-pidio-a-una-ia-que-hackeara-su-tv-lo-que-quito-explica-tu-tele.md`
 - **Video**: [MK5ZPTC9gRg](https://www.youtube.com/watch?v=MK5ZPTC9gRg)
 - **Canal**: Crossover · Publicado 2026-10-28 · Duración 20:57
-- **Dominio previsto** (consolidación diferida): general (tecnología/privacidad — negocio del hardware conectado)
+- **Dominio previsto** (consolidación diferida): ia-uso-practico (tecnología/privacidad — negocio del hardware conectado)
 
 ## Qué trata
 

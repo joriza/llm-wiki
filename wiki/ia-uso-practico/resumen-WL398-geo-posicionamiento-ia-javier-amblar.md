@@ -1,9 +1,9 @@
 # WL-398 — La IA Ya RECOMIENDA Negocios… ¿Sale el Tuyo?
 
-- **Fuente**: `raw/general/2026-09-11-la-ia-ya-recomienda-negocios-sale-el-tuyo.md` (`exCVbTQjIy0`, https://www.youtube.com/watch?v=exCVbTQjIy0)
+- **Fuente**: `raw/ia-uso-practico/2026-09-11-la-ia-ya-recomienda-negocios-sale-el-tuyo.md` (`exCVbTQjIy0`, https://www.youtube.com/watch?v=exCVbTQjIy0)
 - **Canal**: Javier Amblar — Estrategia · IA · Negocio (1.ª fuente WL)
 - **Publicado**: 2026-09-11 · **Duración**: 27:13 · **Idioma**: es (subtítulos automáticos; ASR distorsiona nombres: «CHCPT/Yemini/Cloud» = ChatGPT/Gemini/Claude — normalizado solo aquí)
-- **Dominio previsto**: general (negocio/marketing digital — GEO)
+- **Dominio previsto**: ia-uso-practico (negocio/marketing digital — GEO)
 - **Tramo**: 65 (relevo 5 de 12 del pedido L34)
 
 ## Qué trata

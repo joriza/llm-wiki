@@ -1,6 +1,6 @@
 # WL-227 · Mejores Herramientas de IA para profesores
 
-- **Fuente original**: `raw/general/2024-08-18-mejores-herramientas-de-ia-para-profesores-inteligencia-artificial-para-docentes.md`
+- **Fuente original**: `raw/ia-uso-practico/2024-08-18-mejores-herramientas-de-ia-para-profesores-inteligencia-artificial-para-docentes.md`
 - **Video**: [Mejores Herramientas de IA para profesores [Inteligencia artificial para Docentes]](https://www.youtube.com/watch?v=K2Yie8Z5fLc)
 - **Canal**: Roxana Falasco
 - **Publicado**: 2024-08-18 · **Duración**: 06:12 · **Ingesta**: 2026-11-15 (tramo 32, formato dominio pendiente de consolidación)
