@@ -1,6 +1,6 @@
 # WL-163 · ¿ARGENTINA es de los países más POBRES de LATINOAMÉRICA? | Análisis de Daniel Schteingart
 
-- **Fuente original**: `raw/general/2026-10-21-argentina-es-de-los-paises-mas-pobres-de-latinoamerica-analisis-de-daniel-schtei.md`
+- **Fuente original**: `raw/economia-argentina/2026-10-21-argentina-es-de-los-paises-mas-pobres-de-latinoamerica-analisis-de-daniel-schtei.md`
 - **Video**: [Z-2AmgbpHe4](https://www.youtube.com/watch?v=Z-2AmgbpHe4) · Canal: Ciudadano news · Publicado: 2026-10-21 · Duración: 23:01
 - **Tipo**: entrevista divulgativa (entrevistado: Daniel Schteingart, sociólogo, investigador de Fundar — centro de investigación en políticas públicas) sobre su libro «(No somos un país de tercera…) todavía».
 

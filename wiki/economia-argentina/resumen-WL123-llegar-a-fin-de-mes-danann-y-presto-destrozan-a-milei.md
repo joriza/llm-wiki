@@ -1,6 +1,6 @@
 # WL-123 — "Llegar a fin de mes": Danann y Presto DESTROZAN a Milei
 
-- **Fuente original**: `raw/general/2026-10-29-llegar-a-fin-de-mes-danann-y-presto-destrozan-a-milei.md` (`EoJU8y6g5oQ`, [Canal EY! | Streaming](https://www.youtube.com/watch?v=EoJU8y6g5oQ), 2026-10-29, 34:41).
+- **Fuente original**: `raw/economia-argentina/2026-10-29-llegar-a-fin-de-mes-danann-y-presto-destrozan-a-milei.md` (`EoJU8y6g5oQ`, [Canal EY! | Streaming](https://www.youtube.com/watch?v=EoJU8y6g5oQ), 2026-10-29, 34:41).
 - **Canal**: Canal EY! (Emanuel Danann), invitado Eduardo Prestofelippo («el Presto»)
 - **Publicado**: 2026-10-29
 - **Tipo**: streaming de opinión política (Argentina) — NO fuente factual

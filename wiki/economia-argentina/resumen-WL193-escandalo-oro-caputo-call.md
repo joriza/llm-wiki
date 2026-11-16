@@ -1,6 +1,6 @@
 # Resumen — Escándalo por el oro: ex-asesora de Javier Milei destroza a Toto Caputo
 
-- **Fuente original**: `raw/general/2026-10-17-escandalo-por-el-oro-ex-asesora-de-javier-milei-destroza-a-toto-caputo.md` (video `dugJVQSmwt8`, canal Canal EY! | Streaming, 2026-10-17, 38:09, subtítulos automáticos)
+- **Fuente original**: `raw/economia-argentina/2026-10-17-escandalo-por-el-oro-ex-asesora-de-javier-milei-destroza-a-toto-caputo.md` (video `dugJVQSmwt8`, canal Canal EY! | Streaming, 2026-10-17, 38:09, subtítulos automáticos)
 - **Dominio provisional**: wl (tramo-25) — consolidación diferida (L12)
 
 ## Tesis

@@ -1,8 +1,8 @@
 # WL-182 · Manaos: La Gaseosa más polémica de Argentina
 
-- **Fuente original**: `raw/general/2026-09-22-manaos-la-gaseosa-mas-polemica-de-argentina.md`
+- **Fuente original**: `raw/sociedad-argentina/2026-09-22-manaos-la-gaseosa-mas-polemica-de-argentina.md`
 - **Video**: [Manaos: La Gaseosa mas polémica de Argentina](https://www.youtube.com/watch?v=8_OsOsEnidQ) · Canal: Andru - Impetu · Publicado: 2026-09-22 · Duración: 13:27
-- **Dominio previsto** (consolidación diferida, L12): `general/sociedad-argentina` (historia empresarial/estrategia de negocio; cruce candidato con otras fuentes de sociedad argentina, WL-110)
+- **Dominio previsto** (consolidación diferida, L12): `sociedad-argentina/sociedad-argentina` (historia empresarial/estrategia de negocio; cruce candidato con otras fuentes de sociedad argentina, WL-110)
 
 ## La historia
 
