@@ -8,3 +8,7 @@
   - [[resumen-imagenes-prohibidas-creadas-con-ia-guia-gratis-creador-inteligente]] (2024-09-08)
 
 Canal de tutoriales de generación de imágenes IA gratuita y sin censura: Perchance, PixNova, RafaelAI, GTube; Fooocus local/Colab (presets, performance, seed, PyraCanny, CPDS, Face Swap, Inpaint, Describe); FLUX guía gratis (versiones, acceso web/Hugging Face, Flux Pro gratis con Glif).
+
+## Ver también
+
+- [[generacion-local-de-imagenes]]
