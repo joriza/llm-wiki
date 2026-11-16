@@ -156,3 +156,17 @@ Señales: WL-387 NO verificable como hechos (misma cadena que WL-383 con primiti
 | 396 | El fracaso de la educación y las pruebas PISA | Platzi/Freddy Vega (1.ª fuente) | general/ |
 
 Señales: WL-392 cifras de 2.ª mano sin fuente (marco Diamond sí atribuido); WL-393 título clickbait (no hubo despido) y marco opinativo declarado — señalados; WL-394 short técnico correcto sin detalle de stack; WL-395 versión «Gemini 3.8 Flash» y disponibilidad sin verificar, captación de leads vía WhatsApp excluida; WL-396 datos de 2.ª mano con investigación propia enlazada (hanadami.com/pisa — verificar vs OCDE), pitch de cursos Platzi excluido, tesis fuerte declarada como opinión. Cruces candidatos: [[naturaleza-insolita]]/[[evolucion-humana]] (WL-392, domesticación Diamond con WL-306/380), [[delegacion-cognitiva-ia]] (WL-393/395/396), [[brecha-junior-ia]] (WL-393), [[hdeleon-net]] +1 (WL-394, 3.ª fuente), cluster demos-producto-IA (WL-395 con WL-346/349/350, [[routing-por-coste]]), educación (WL-396 con WL-227/389), alfabetismo digital (WL-396 con WL-309/390); entidades candidatas: VerdeSecreto, CodinEric, Patricia Palazón, Platzi/Freddy Vega. Cabeza futura: WL-397 (índice 85 del cache, `DxNnqLEiYco`).
+
+## Tramo 65 — estación activa (relevo 5 de 12 del pedido L34, 2026-11-16)
+
+5 fuentes útiles (WL-397..WL-401; cabeza WL-397 (`DxNnqLEiYco`, índice 85) verificada contra el cache antes del primer ciclo; 5 descargas `--one` nuevas con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429). Pendientes de consolidación (L12):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| 397 | Cómo se CONSTRUYERON las Torres Gemelas y por qué nadie lo repitió | CONSTRUCTUM (1.ª fuente) | general/ |
+| 398 | La IA Ya RECOMIENDA Negocios… ¿Sale el Tuyo? | Javier Amblar — Estrategia · IA · Negocio (1.ª fuente) | general/ |
+| 399 | Así compruebo que la IA leyó mis instrucciones (Short 1:10) | hdeleon.net (+1) | agentes-de-codigo/ |
+| 400 | CREA TU ALEXA POR $10 USD CON ESP32 Y DEEPSEEK HARNESS | Programador Novato (1.ª fuente) | ia-uso-practico/ |
+| 401 | 10 COSAS QUE DEBERÍAS COMPRAR en cuanto TENGAS DINERO | Jordi Llàtzer (1.ª fuente) | desarrollo-personal/ |
+
+Señales: WL-397 divulgación de 2.ª mano sin citas al pie (60 muertos, 900 M, experimento de Oregón — verificar); WL-398 marco comercial declarado (servicio «Radar» propio + Filmora «son clientes míos»), cifras llamativas sin enlaces (693 %, 39,2 %), tesis de manipulación de reputación vía IA verosímil con casos no verificables, ASR distorsiona nombres de producto; WL-399 short técnico correcto — técnica canaria conocida sin nombre; WL-400 demo honesta con fallas en vivo, audio sin capa de seguridad en LAN (gap), ASR «Deep Sleep/Deep Speech Harness» = DeepSeek Harness; WL-401 ensayo de opinión sin afiliaciones (raro en el género), cifras de 2.ª mano sin fuente. Cruces candidatos: [[historia-de-la-tecnologia]] (WL-397), [[delegacion-cognitiva-ia]] (WL-398/401), [[hdeleon-net]] +1 (WL-399, 4.ª fuente), [[deepseek-harness]] +1 (WL-400; cluster WL-23/24/25/27/88), [[inferencia-local]] (WL-400 Whisper), cluster desarrollo-personal (WL-401 con WL-276/302-304); entidades candidatas: CONSTRUCTUM, Javier Amblar, Programador Novato, Jordi Llàtzer. Cabeza futura: WL-402 (índice 90 del cache, `T5E3HiHOBnY`).
