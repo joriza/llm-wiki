@@ -1,4 +1,4 @@
-# WL-259 — Lo que NUNCA te explicaron de las Transacciones en SQL
+# WL-261 — Lo que NUNCA te explicaron de las Transacciones en SQL
 
 - **Fuente original**: `raw/wl/tramo-38/2026-10-10-lo-que-nunca-te-explicaron-de-las-transacciones-en-sql.md`
 - **Video**: [Lo que NUNCA te explicaron de las Transacciones en SQL](https://www.youtube.com/watch?v=DBOuemO4q0k)
