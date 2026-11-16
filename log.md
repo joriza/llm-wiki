@@ -3947,3 +3947,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-16] ingesta WL | WL-480 — La trágica historia de los náufragos en la isla Tromelin
 
 - Descarga nueva vía runner `--one` (salida WARP 104.28.199.112, `WTGC0Tysflk`, índice 3 del cache — sin 429). Raw intacto en `.atl/scratch/ver-mas-tarde/` espejado a `raw/wl/tramo-79/`; resumen `wiki/wl/tramo-79/resumen-WL480-tromelin-naufragos-secretos-vida-cosmica.md`; fila en index.md. Divulgación Secretos de la Vida Cósmica (1.ª fuente): naufragio L'Utile 1761, 15 años de abandono, arqueología del ingenio, rescate 1776, cierre ambiental plásticos. Dominio previsto: general (L12, S4). 2.ª mano sin citas — señalada; 1.ª fuente del tema esclavitud/colonial. «Pedido L37: 4/15 útiles».
+
+## [2026-11-16] ingesta WL | WL-481 — ¿Por Qué El Océano Antártico Convierte A Los Animales En Gigantes?
+
+- Descarga nueva vía runner `--one` (salida WARP 104.28.199.112, `mqKrz3IS8Xs`, índice 4 del cache, canal La Teoría de lo Profundo — sin 429). Raw intacto en scratch espejado a `raw/wl/tramo-79/`; resumen `wiki/wl/tramo-79/resumen-WL481-gigantismo-polar-teoria-profundo.md`; fila en index.md. Divulgación del gigantismo polar con método explícito: oxígeno refutado por experimento 2019, lentitud refutada, ausencia de trituradores con prueba natural (fosa Palmer ~1,5 M cangrejos) — hipótesis final declarada como tal. Dominio previsto: general (L12, S4); 1.ª fuente del tema. 2.ª mano sin enlaces — señalada. «Pedido L37: 5/15 útiles».
