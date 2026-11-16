@@ -2,7 +2,7 @@
 
 - **Tipo**: página de concepto (transversal al dominio `python-practico/`).
 - **Actualizado**: 2026-11-15 (consolidación final del lote playlist Python).
-- **Fuentes que la alimentan**: [[resumen-como-hacer-web-scraping-con-python]] (BeautifulSoup) · [[resumen-videotutorial-18-taller-practico-programacion-con-python-introduccion-al-web-scr]] (regex, taller) · [[resumen-extrayendo-datos-de-mercado-libre-con-python-web-scraping-parte-8]] (Scrapy CrawlSpider).
+- **Fuentes que la alimentan**: [[resumen-como-hacer-web-scraping-con-python]] (BeautifulSoup) · [[resumen-videotutorial-18-taller-practico-introduccion-al-web-scraping]] (regex, taller) · [[resumen-extrayendo-datos-de-mercado-libre-con-python-web-scraping-parte-8]] (Scrapy CrawlSpider).
 
 ## Las tres herramientas del corpus, por escala
 
