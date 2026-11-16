@@ -1,9 +1,9 @@
 # WL-501 — Hermes 0.23 CAMBIA TODO: tu primer EQUIPO de Agentes desde CERO
 
-- **Fuente original**: `raw/wl/tramo-83/2026-11-14-hermes-0-23-cambia-todo-tu-primer-equipo-de-agentes-desde-cero.md` ([Vídeo](https://www.youtube.com/watch?v=mFuV9YYztjI))
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-14-hermes-0-23-cambia-todo-tu-primer-equipo-de-agentes-desde-cero.md` ([Vídeo](https://www.youtube.com/watch?v=mFuV9YYztjI))
 - **Canal**: Julio Barroeta | IA & Ciber (1.ª fuente WL)
 - **Publicado**: 2026-11-14 · **Duración**: 35:41
-- **Dominio provisional**: ia-uso-practico / agentes-de-codigo (tutorial de orquestación multiagente)
+- **Dominio definitivo**: agentes-de-codigo (consolidación T90, 2026-11-16). Provisional: ia-uso-practico / agentes-de-codigo (tutorial de orquestación multiagente)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
@@ -33,3 +33,7 @@ Tutorial demostrativo (con pantalla completa) de la versión **0.23 de Hermes Ag
 ## Veredicto de triage
 
 Demo honesta y útil para entender orquestación multiagente sin código, con fallos mostrados y buenas prácticas reales (IaC, mínimo privilegio, snapshots, coste); conservar como ia-uso-practico/agentes. Marco comercial fuerte (kit/dojo) — triage claro: el valor está en la demo, no en la oferta final.
+
+## Consolidación (T90)
+
+Dominio definitivo: `agentes-de-codigo/` (primera opción registrada; orquestación multiagente). Páginas actualizadas: [[agentes-de-codigo]] (+1), [[routing-por-coste]] (reparto automático con modelo barato). Canal Julio Barroeta | IA & Ciber: 1.ª fuente, texto plano. Par de la misma semana con WL-494 (modelos auxiliares baratos ↔ ejecución local). Nombres de modelos ASR («Lib SIC 4.1 Flash», «DeepSeek V4.1 Flash») sin verificar — señalados.

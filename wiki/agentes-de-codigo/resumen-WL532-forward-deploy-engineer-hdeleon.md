@@ -1,9 +1,9 @@
 # WL-532 — El nuevo trabajo tech que paga una fortuna (Forward Deploy Engineer)
 
-- **Fuente original**: `raw/wl/tramo-84/2026-08-27-el-nuevo-trabajo-tech-que-paga-una-fortuna.md` ([Vídeo](https://www.youtube.com/watch?v=euaPTPTd8u0))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-27-el-nuevo-trabajo-tech-que-paga-una-fortuna.md` ([Vídeo](https://www.youtube.com/watch?v=euaPTPTd8u0))
 - **Canal**: hdeleon.net — Héctor de León (2.ª fuente WL; [[hdeleon-net]] +1)
 - **Publicado**: 2026-08-27 · **Duración**: 10:38
-- **Dominio provisional**: agentes-de-codigo / general (rol dev + IA, mercado laboral tech)
+- **Dominio definitivo**: agentes-de-codigo (consolidación T90, 2026-11-16). Provisional: agentes-de-codigo / general (rol dev + IA, mercado laboral tech)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
@@ -32,3 +32,7 @@ Análisis del rol **Forward Deploy Engineer (FDE)** — mezcla técnica + produc
 ## Veredicto de triage
 
 Útil como pieza de mercado laboral tech con IA: tesis razonable (FDE = consultor clásico reactivado por la codificación asistida), honesta sobre quién no encaja, pero sin datos primarios — conservar como agentes-de-codigo/general con cifras señaladas; el bloque publicitario se excluye de la síntesis.
+
+## Consolidación (T90)
+
+Dominio definitivo: `agentes-de-codigo/` (primera opción registrada; rol dev + IA). [[hdeleon-net]] +1 (9.ª fuente WL). Cruces en texto: [[brecha-junior-ia]], [[delegacion-cognitiva-ia]], [[routing-por-coste]], WL-352/348. Cifras Paraform/Latchel 2.ª mano sin enlaces — señaladas.
