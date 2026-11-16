@@ -251,3 +251,20 @@ Cabeza WL-429 (`tArNhT82h7U`, índice 117 del cache de 04:52) verificada contra 
 | 434 | Qwen 3.5 0.8B: ¿sirve para programar? | Nichonauta (7.ª fuente) | ia-uso-practico/ o ia-local/ |
 
 Señales: WL-429 cifra de licitación de 2.ª mano sin enlace al pliego — no verificable, señalada (humor político); WL-430 outage sin documentación y causa «Astra» especulada sin respaldo, señalados; WL-431/432/434 demos primera mano con verificación funcional y batería consistente del canal (WL-428→434), benchmarks autocreportados refutados empíricamente, veredictos parcialmente subjetivos declarados; WL-433 hechos de 2.ª mano sin enlaces (cifras de coste, espectadores), señalados. Cruces candidatos: [[nichonauta]] +3 (línea de serie de inferencia local, plan de serie completa Qwen), [[fazt]] +1, [[hdeleon-net]] +1, [[gemma-4]], [[qwen]], [[inferencia-local]], [[llama-cpp]], [[percepcion-de-regresion-de-modelos]], [[gobernanza-ia]], [[routing-por-coste]]; entidades candidatas: Abigail Luna (canal). Tema de tramo: batería Nichonauta ×3 + shorts/opinión IA ×2 + frontera generativa ×1. Cabeza futura: WL-435 (índice 123 del cache de 04:52, `k1cmk22ILrg`).
+
+## Tramo 72 (relevo 12 de 12 del pedido L34, FINAL) — 4/4 útiles · CIERRE DEL PEDIDO L34: 60/60
+
+Cabeza WL-435 (`k1cmk22ILrg`, índice 123 del cache de 04:52) verificada contra el cache antes del primer `--one` (WL-434 = `fGyLXOACW9k` en el índice 122 confirma el cierre del relevo 11). **CORRECCIÓN DE CONTADOR**: el relevo 11 subcontó — committeó 6 útiles (WL-429..434) pero registró «55/60»; total real heredado **56/60**. 4 descargas `--one` exactas con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429. Pendientes de consolidación (L12, junto con tramos 61-71):
+
+| WL | Título | Canal | Dominio previsto |
+|---|--------|-------|------------------|
+| 435 | Cómo Pensar como Analista: La habilidad #1 para el 2030 | Caterina Abanoni (1.ª fuente) | general/ — educación/habilidades, NO factual |
+| 436 | FreeToken me Decepcionó: ¿realmente es más RÁPIDO que llama.cpp? | Nichonauta (8.ª fuente) | ia-uso-practico/ o ia-local/ |
+| 437 | Cae el ahorro y los chamanes de la MMT culpan al superávit de Milei | Juan Ramón Rallo (1.ª fuente WL) | sociedad-argentina/ — economía, marco austríaco |
+| 438 | Las dos últimas letras de tu apellido revelan de dónde proviene tu familia | Todo donde todo comenzó (1.ª fuente) | general/ — lingüística/genealogía, listicle sin citas |
+
+Señales: WL-435 cita WEF «habilidad #1 2030» de 2.ª mano sin enlace al informe y marco comercial Unicorn — señalados; WL-436 medición primera mano con corrida única sin estadística y alcance acotado por el propio canal; WL-437 matemáticas contables verificables pero título polémico y marco ideológico austríaco declarado; datos INDEC provisionales; WL-438 título clickbait contradicho por contenido prudente, sin fuentes primarias. Cruces candidatos: [[nichonauta]] +1 (WL-436), [[llama-cpp]] +1, [[qwen]] +1, [[inferencia-local]], [[routing-por-coste]], [[delegacion-cognitiva-ia]] (WL-435), cluster economía argentina (WL-437↔WL-125/193/257/357), WL-438↔WL-201/314. Tema de tramo: heterogéneo de cierre — educación/habilidades ×1, runtime IA local ×1, macroeconomía argentina ×1, lingüística ×1. Última fuente con id: **WL-438 (`LBBwdvDVfb0`, índice 126)**. Cabeza futura del backlog: **WL-439** (índice 127 del cache de 04:52, `t3J_3U8mOtM`).
+
+## PEDIDO L34 COMPLETADO (2026-11-16): 60/60 útiles
+
+Tramos 61-72 (relevos 1-12): T61 5, T62 5, T63 5, T64 5, T65 5, T66 5, T67 5, T68 5 (+1 skip WL-413), T69 5 (+1 skip WL-419), T70 5, T71 6, T72 4 → **60 útiles + 2 skips definitivos (.no-subs), 0 meta-fails, 0 TRAMO-CLOSED**; única salida 45.239.32.215 (Proton UE) en todo el pedido, sin un solo 429. Nota de contador: T71 subcontó 5 cuando committeó 6 — total corregido a 56 heredado al relevo 12 (registrado también en log.md). Consolidación de tramos 61-72 (60 pares) diferida (L12). Push no solicitado.
