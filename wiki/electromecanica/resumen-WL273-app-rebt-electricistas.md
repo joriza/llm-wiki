@@ -27,3 +27,9 @@ Presentación (8 min) de la **aplicación beta** que el electricista Carlos (PCA
 
 - Cluster electromecanica: resúmenes FAV (arranque estrella-triángulo, factor de potencia) — mismo ámbito de oficio eléctrico.
 - WL-150/147 (tecnología práctica) marginales; potencial cruce futuro con fuentes sobre vivienda/instalaciones.
+
+
+## Ver también
+
+- [[futuro-del-trabajo]]
+- [[ia-local-texto]]

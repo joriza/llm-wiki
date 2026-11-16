@@ -26,3 +26,8 @@ Divulgación técnica excelente en claridad: estructura rígida de siete casos c
 
 - Cruces: dominio destino sugerido: general (divulgación técnica/automoción) o futuro dominio de automoción si se acumulan fuentes; a migrar en consolidación.
 - Canal boxboxlabs sin presencia previa en la wiki (1.ª fuente — umbral <2, texto plano).
+
+
+## Ver también
+
+- [[seguridad-fuera-del-modelo]]

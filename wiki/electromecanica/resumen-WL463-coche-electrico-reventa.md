@@ -33,3 +33,10 @@ Relato personal de la venta frustrada de un **Ford Mustang Mach-E** (2021) en No
 ## Veredicto de triage
 
 Vlog útil como caso de vida real; conservar.
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]
+- [[historia-software-corporativa]]
+- [[routing-por-coste]]

@@ -26,3 +26,8 @@ Modificación sencilla que alarga la vida de los focos LED: sustituir la resiste
 ## Cruces
 
 - Cluster electromecanica junto a WL-304 y los bloques hogar/oficios (WL-207); el tema obsolescencia conecta con el consumidor WL-235 y con [[historia-de-la-tecnologia]] (diseño para fallar); la lógica «bajar tensión = alargar vida» es la contraparte física del argumento térmico de WL-346 (hardware). Canal EL ANGELITO 1.ª fuente en WL.
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]

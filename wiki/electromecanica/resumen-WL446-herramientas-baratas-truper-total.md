@@ -30,3 +30,10 @@ Ensayo narrativo sobre la competencia entre marcas de herramientas en Latinoamé
 ## Veredicto de triage
 
 Candidata a **baja** por triage del usuario: contenido narrativo con datos dudosos y ninguna prueba práctica prometida. El raw queda conservado (protocolo ítem 17).
+
+
+## Ver también
+
+- [[fabricacion-odm-vs-marca]]
+- [[generacion-local-de-imagenes]]
+- [[seguridad-fuera-del-modelo]]

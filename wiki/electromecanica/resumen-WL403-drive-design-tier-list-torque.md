@@ -35,3 +35,9 @@ Comparativa **instrumentada** de geometrías de cabeza de tornillo (mismo tamañ
 ## Consolidación (relevo 2 del pedido L35, 2026-11-16)
 
 Consolidado en `electromecanica/` (herramientas/sujetadores, prueba instrumentada). Canal a texto plano por umbral <2: Torque Test Channel.
+
+
+## Ver también
+
+- [[diseno-pcb-herramientas]]
+- [[seguridad-fuera-del-modelo]]

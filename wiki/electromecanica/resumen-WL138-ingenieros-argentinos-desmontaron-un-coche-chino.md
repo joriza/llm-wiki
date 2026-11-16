@@ -30,3 +30,9 @@ Análisis de los desarmes de autos eléctricos chinos (BYD) hechos por ingeniero
 - [21:49] «Esa dirección se dio vuelta. Los maestros volvieron a sentarse frente a la mesa de trabajo. Y esta vez son ellos los que toman apuntes».
 
 ---
+
+
+## Ver también
+
+- [[desarrollo-con-modelos-locales]]
+- [[seguridad-fuera-del-modelo]]
