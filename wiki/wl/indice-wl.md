@@ -82,6 +82,20 @@ Skips sin numeración útil: WL-281 `OOylxha2qqg` «Sharp MiniCPM5» `.no-subs`.
 
 Skips sin numeración útil: WL-289 `yucBRF3lSaQ` SKIP-DUPLICATE (ya procesado, sin descarga). Procesadas desde scratch sin re-descargar: WL-285/286 (herencia del tramo 41, precedente T9/WL-112). Cabeza del backlog tras el tramo: WL-291 (`INUCSj7HM_M`).
 
+## Tramo 43 — en estación (T46, 2026-11-16, relevo 36 — FINAL del pedido L26)
+
+5 fuentes útiles ingestadas en `wiki/wl/tramo-43/` (raws en `raw/wl/tramo-43/`), pendientes de consolidación:
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-291 | Un NEGOCIO ESPECIAL: El LÍDER de los CHIPS ANALÓGICOS (`INUCSj7HM_M`) | Value School | general (semiconductores/inversión) | En estación — sin citas primarias, marco promocional del canal; cruces WL-220/238/144 |
+| WL-292 | La trampa de ser eficiente... (`V9vXL8S2yLc`) | Serudda | general (cultura laboral) | En estación — videoensayo de opinión, NO factual |
+| WL-293 | Así se arma un agente de código a tu medida con Pi (`umfFbfApSAc`) | Fazt | ia-uso-practico/agentes-de-codigo | En estación — [[fazt]] a 13 fuentes; percepción externa del ecosistema Pi |
+| WL-294 | Qué hace un balanceador de carga en una aplicación real (`OI-shxUoK0U`) | Torti Code | general-informatica-teoria (infra/DevOps) | En estación — Torti Code 3.ª fuente (entidad confirmada; consolidar con WL-286/287) |
+| WL-295 | DeepSeek V4.1 Flash vs. El resto (`ai0bifuwDOQ`) | CodeSimple | ia-uso-practico/ia-local | En estación — [[deepseek-harness]], [[inferencia-local]]; título clickbait sin correlato |
+
+Skips sin numeración útil: ninguno (0 skips, 0 meta-fail — tramo limpio). Cabeza del backlog tras el tramo: WL-296 (posición 108 del cache). **PEDIDO L26 COMPLETADO: 15/15 útiles** (tramos 41-43).
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
