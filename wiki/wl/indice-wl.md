@@ -25,6 +25,20 @@ Contenido (2026-11-15, consolidación T40 de los tramos 28-37): **0 resúmenes e
 | WL-266 | Esto es lo más grande que ha pasado desde ChatGPT (`d1fKvNlEj60`) | Gustavo Entrala | ia-uso-practico o ia-critica-y-fronteras | En estación — 3ª fuente del canal (entidad gustavo-entrala) |
 
 Skips sin numeración útil: WL-258 `pzFzku0VAUc` [Deleted video] `.no-subs`, WL-259 `0eL-Bz0rqmU` [Deleted video] `.no-subs`, WL-260 `Z1Z8DziVhzo` SKIP-DUPLICATE (ya procesado), WL-264 `VX1eYYyJ3XQ` [Deleted video] `.no-subs`. Cabeza del backlog tras el tramo: WL-267.
+
+## Tramo 39 — en estación (T42, 2026-11-15, relevo 32)
+
+5 fuentes útiles ingestadas en `wiki/wl/tramo-39/` (raws en `raw/wl/tramo-39/`), pendientes de consolidación:
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-267 | 10 Lugares Secretos de Buenos Aires Que Casi Nadie Conoce (`U5EfsOY_v0A`) | LATAM ABANDONADA | general/sociedad-argentina | En estación — listicle urbano; cluster WL-201/WL-202, [[secretos-geograficos-argentina]] |
+| WL-269 | Todo el machine learning en un solo video (`n_lfGiKs3qQ`) | Código Espinoza | general o ia-uso-practico | En estación — datos sintéticos declarados por el autor |
+| WL-270 | Aprende a crear aplicaciones con DeepSeek y LLMs confrontados (`40rc2-QBQ5g`) | NullSafe Architect | ia-uso-practico/ia-local | En estación — [[deepseek-harness]]; opinión geopolítica NO factual |
+| WL-271 | Ya nadie escribe código. El trabajo real es otro (`QoTuEx4J-DA`) | Fazt | agentes-de-codigo o ia-critica-y-fronteras | En estación — videoensayo NO factual con patrocinio |
+| WL-272 | El fin de escribir código manual (`URVBSQCeU_c`) | Gentleman Programming Vods | agentes-de-codigo | En estación — tema DHH/Omarchy, cruce directo con WL-271 |
+
+Skips sin numeración útil: WL-268 `RXZgXhyGSsg` [Deleted video] `.no-subs`. Cabeza del backlog tras el tramo: WL-273.
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
