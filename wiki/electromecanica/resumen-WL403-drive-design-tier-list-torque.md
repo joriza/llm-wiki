@@ -28,7 +28,7 @@ Comparativa **instrumentada** de geometrías de cabeza de tornillo (mismo tamañ
 
 ## Cruces (consolidación diferida, L12)
 
-- [[electromecanica]] — cluster FAV/herramientas (WL-273/361), repación y oficios (WL-207).
+- Cluster FAV/herramientas: [[resumen-WL273-app-rebt-electricistas]], [[resumen-WL361-obsolescencia-programada-focos-led-el-angelito]]; reparación y oficios: [[resumen-WL207-recableado-depto-paso-a-paso]].
 - Metodología de prueba instrumentada → contraste con benchmarks IA (WL-333/248): misma lección de «una corrida, sin estadística».
 - Torque Test Channel: candidato a entidad de canal (1.ª fuente).
 
