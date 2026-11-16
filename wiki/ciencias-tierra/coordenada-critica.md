@@ -2,7 +2,7 @@
 
 - **Tipo**: página de entidad (canal de divulgación).
 - **Dominio**: `general/`.
-- **Actualizado**: 2026-11-10.
+- **Actualizado**: 2026-11-16 (consolidación T89: +WL-485).
 - **Web**: coordenadacritica.com.
 - **Raw de referencia**: [raw/ciencias-tierra/2026-10-19-colapso-amoc-coordenada-critica.md](../../raw/ciencias-tierra/2026-10-19-colapso-amoc-coordenada-critica.md).
 
@@ -16,6 +16,10 @@ Canal de divulgación científica en español centrado en «el océano, terremot
 - **Política de correcciones**: anuncia que «las correcciones las pondré en la descripción» [02:10]; en el vídeo sobre la [[amoc]] corrige allí las cifras del estudio de Copenhague tras la corrección de 2025 de los propios autores.
 - **Explicitación de incertidumbre**: distingue sistemáticamente entre mediciones, reconstrucciones y escenarios de modelos (por ejemplo: «Son medidas, reconstrucciones y escenarios de modelos, no una previsión de un colapso inminente», descripción del vídeo AMOC).
 - **Producción**: la presentadora y la voz están generadas con inteligencia artificial, según se declara en los créditos de la descripción.
+
+## Fuentes WL
+
+- WL-485 ([[resumen-WL485-lago-baikal-coordenada-critica]], 2026-11-16, `ciencias-tierra/`): Lago Baikal — rift activo, desmonte del mito «océano en formación», endemismos y cambio medido (+1 °C desde 1946). 2.ª fuente WL del canal; conserva el sello de separar lo medido del mito, con funnel comercial declarado (kit de preparación) excluido de la síntesis. Nota: la presentadora «Lucía Ortega» NO tiene relación verificable con Julian Ortega (WL-484) — homonimia, no asumir parentesco.
 
 ## Productos asociados (según la descripción del vídeo)
 
