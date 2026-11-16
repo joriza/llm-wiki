@@ -1,9 +1,9 @@
 # WL-494 — Primer Vistazo A Qwen 4: Qué Es Real Y Qué Es Rumor
 
-- **Fuente original**: `raw/wl/tramo-82/2026-11-16-primer-vistazo-a-qwen-4-que-es-real-y-que-es-rumor.md` ([Vídeo](https://www.youtube.com/watch?v=UP2g330Nj14))
+- **Fuente original**: `raw/ia-local/2026-11-16-primer-vistazo-a-qwen-4-que-es-real-y-que-es-rumor.md` ([Vídeo](https://www.youtube.com/watch?v=UP2g330Nj14))
 - **Canal**: Jorge Marfil (entidad wiki: [[marcos-di-cesare]] no aplica — canal propio; ver Señales)
 - **Publicado**: 2026-11-16 · **Duración**: 40:51
-- **Dominio provisional**: ia-uso-practico/ia-local (rumorología de lanzamiento + guía de hardware local)
+- **Dominio definitivo**: ia-local (consolidación T90, 2026-11-16). Provisional: ia-uso-practico/ia-local (rumorología de lanzamiento + guía de hardware local)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
@@ -37,3 +37,7 @@ Estado del hype de Qwen 4 (aún sin pesos publicados) separando oficial de rumor
 ## Veredicto de triage
 
 Excelente divulgación técnica de primera mano metodológica: separa explícitamente oficial/rumor/demo, enseña el modelo mental de hardware que sirve para cualquier MoE y da un checklist reutilizable. Contenido con fecha de caducidad inherente (rumorología de una semana), pero la pedagogía y el método perduran. Conservar; ASR-ilegible «Coduk» a resolver en consolidación si aparece fuente.
+
+## Consolidación (T90)
+
+Dominio definitivo: `ia-local/` (contenido de familia de modelos + hardware/MoE local; precedentes WL-060/206/431/434). Páginas actualizadas: [[qwen]] (+Flash Next `Qwen4_XP`, MTP, licencias), [[inferencia-local]], [[llama-cpp]] (receta `-n-cpu-moe`, rama MTP de Unsloth), [[routing-por-coste]] (API $0,40 vs tarjeta propia). Canal: Jorge Marfil — 2.ª WL con nombre homónimo de [[jorge-marfil]] (canal IA local); identidad NO verificada como la misma persona — homonimia registrada. ASR-ilegible «Coduk» queda sin resolver (sin fuente primaria).
