@@ -142,3 +142,17 @@ Señales: WL-383 videoensayo NO factual (hechos 2.ª mano sin enlaces, señalado
 | 391 | La IA que sustituye a tu jefe, no a ti ¿funciona? | Joaquín Ruiz — IA para Desarrolladores (1.ª fuente) | ia-uso-practico/ |
 
 Señales: WL-387 NO verificable como hechos (misma cadena que WL-383 con primitivos coincidentes entre fuentes independientes — señalado; ASR distorsiona nombres de producto); WL-388 cifras de memoria señaladas; WL-389 sátira política con esqueleto factual denso (cifras de memoria señaladas); WL-390 marco comercial de cursos excluido; WL-391 higiene de fuentes buena (limitaciones de los datos de despidos señaladas por el propio video). Cruces candidatos: WL-387+383 (misma semana narrada por canales independientes — consolidar juntos), routing-por-coste (WL-388 con WL-298/346/353), [[hdeleon-net]] +1, [[opencode]] +1 (WL-390), skills-publicables (WL-390 con WL-350), spec-driven development (WL-391 con WL-211), [[inferencia-local]] (WL-391), cluster PDB/sátira (WL-389 con WL-251), entidades candidatas: Dot CSV Lab, PDB, MoureDev, Joaquín Ruiz. Cabeza futura: WL-392 (índice 80 del cache, `GeVX2kwD98Y`).
+
+## Tramo 64 — estación activa (relevo 4 de 12 del pedido L34, 2026-11-16)
+
+5 fuentes útiles (WL-392..WL-396; cabeza WL-392 (`GeVX2kwD98Y`, índice 80) verificada contra el cache antes del primer ciclo; 5 descargas `--one` nuevas con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429). Pendientes de consolidación (L12):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| 392 | ¿Por qué no comemos carne de hipopótamo? | VerdeSecreto (1.ª fuente) | general/ |
+| 393 | La IA me dejó sin trabajo | CodinEric (1.ª fuente) | ia-critica-y-fronteras/ |
+| 394 | ¡Así saqué al Hacker que entró a mi Sistema! (Short 1:27) | hdeleon.net (+1) | informatica-teoria/ |
+| 395 | GOOGLE GEMINI ya NO es solo un Chatbot: 4 Herramientas | Patricia Palazón \| IA (1.ª fuente) | ia-uso-practico/ |
+| 396 | El fracaso de la educación y las pruebas PISA | Platzi/Freddy Vega (1.ª fuente) | general/ |
+
+Señales: WL-392 cifras de 2.ª mano sin fuente (marco Diamond sí atribuido); WL-393 título clickbait (no hubo despido) y marco opinativo declarado — señalados; WL-394 short técnico correcto sin detalle de stack; WL-395 versión «Gemini 3.8 Flash» y disponibilidad sin verificar, captación de leads vía WhatsApp excluida; WL-396 datos de 2.ª mano con investigación propia enlazada (hanadami.com/pisa — verificar vs OCDE), pitch de cursos Platzi excluido, tesis fuerte declarada como opinión. Cruces candidatos: [[naturaleza-insolita]]/[[evolucion-humana]] (WL-392, domesticación Diamond con WL-306/380), [[delegacion-cognitiva-ia]] (WL-393/395/396), [[brecha-junior-ia]] (WL-393), [[hdeleon-net]] +1 (WL-394, 3.ª fuente), cluster demos-producto-IA (WL-395 con WL-346/349/350, [[routing-por-coste]]), educación (WL-396 con WL-227/389), alfabetismo digital (WL-396 con WL-309/390); entidades candidatas: VerdeSecreto, CodinEric, Patricia Palazón, Platzi/Freddy Vega. Cabeza futura: WL-397 (índice 85 del cache, `DxNnqLEiYco`).
