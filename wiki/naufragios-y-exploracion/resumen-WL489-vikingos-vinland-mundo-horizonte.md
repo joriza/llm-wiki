@@ -1,9 +1,9 @@
 # WL-489 — ¿Cómo los vikingos perdieron AMÉRICA: la cruel MASACRE y la VERGONZOSA huida hacia GROENLANDIA?!
 
-- **Fuente original**: `raw/general\2026-10-04-como-los-vikingos-perdieron-america-la-cruel-masacre-y-la-vergonzosa-huida-hacia.md` ([Vídeo](https://www.youtube.com/watch?v=7qde1Engmg0))
+- **Fuente original**: `raw/naufragios-y-exploracion/2026-10-04-como-los-vikingos-perdieron-america-la-cruel-masacre-y-la-vergonzosa-huida-hacia.md` ([Vídeo](https://www.youtube.com/watch?v=7qde1Engmg0))
 - **Canal**: El Mundo Más Allá del Horizonte (1.ª fuente WL)
 - **Publicado**: 2026-10-04 · **Duración**: 57:42
-- **Dominio provisional**: general (historia — dramatización narrativa de las sagas nórdicas)
+- **Dominio provisional**: naufragios-y-exploracion (historia — dramatización narrativa de las sagas nórdicas)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata

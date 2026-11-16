@@ -1,9 +1,9 @@
 # WL-480 — La trágica historia de los náufragos en la isla Tromelin
 
-- **Fuente original**: `raw/general\2026-09-14-la-tragica-historia-de-los-naufragos-en-la-isla-tromelin.md` ([Vídeo](https://www.youtube.com/watch?v=WTGC0Tysflk))
+- **Fuente original**: `raw/naufragios-y-exploracion/2026-09-14-la-tragica-historia-de-los-naufragos-en-la-isla-tromelin.md` ([Vídeo](https://www.youtube.com/watch?v=WTGC0Tysflk))
 - **Canal**: Secretos de la Vida Cósmica (1.ª fuente WL)
 - **Publicado**: 2026-09-13 · **Duración**: 23:15
-- **Dominio provisional**: general (divulgación historia/arqueología — videoensayo narrativo con imágenes propias)
+- **Dominio provisional**: naufragios-y-exploracion (divulgación historia/arqueología — videoensayo narrativo con imágenes propias)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata

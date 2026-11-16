@@ -1,9 +1,9 @@
 # WL-478 — Entraron al Titanic y No Encontraron Ni Un Hueso | Los Robots del Titanic
 
-- **Fuente original**: `raw/general\2026-11-09-entraron-al-titanic-y-no-encontraron-ni-un-hueso-los-robots-del-titanic.md` ([Vídeo](https://www.youtube.com/watch?v=WD3e4ZQClmc))
+- **Fuente original**: `raw/naufragios-y-exploracion/2026-11-09-entraron-al-titanic-y-no-encontraron-ni-un-hueso-los-robots-del-titanic.md` ([Vídeo](https://www.youtube.com/watch?v=WD3e4ZQClmc))
 - **Canal**: Archivo Perdido (1.ª fuente WL; subtítulos manuales)
 - **Publicado**: 2026-11-08 · **Duración**: 19:33
-- **Dominio provisional**: general (divulgación historia/marina — videoensayo narrativo)
+- **Dominio provisional**: naufragios-y-exploracion (divulgación historia/marina — videoensayo narrativo)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
