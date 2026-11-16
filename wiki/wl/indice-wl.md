@@ -180,3 +180,17 @@ Señales: WL-397 divulgación de 2.ª mano sin citas al pie (60 muertos, 900 M, 
 | WL-404 | Why We All Gave Up on Smart Homes (Slidebean) | wiki/wl/tramo-66/resumen-WL404-smart-homes-slidebean.md | El smart home falló por protocolos incompatibles y negocio no recurrente; salida local: Home Assistant + LLM local «HAL». |
 | WL-405 | La Base de Datos que Está Dentro de Casi Todo: SQLite (Archivo del Futuro) | wiki/wl/tramo-66/resumen-WL405-sqlite-archivo-del-futuro.md | Historia de SQLite: dominio público, compatibilidad hacia atrás, pruebas desproporcionadas, y lectura crítica de sus propias cifras. |
 | WL-406 | Qwen en Claude Code con llama.cpp (Nichonauta) | wiki/wl/tramo-66/resumen-WL406-qwen-claude-code-llamacpp-nichonauta.md | Qwen 3.5 4B local conectado a Claude Code por variables de entorno oficiales — el arnés potencia al modelo pequeño. |
+
+## Tramo 67 (relevo 7 de 12 del pedido L34) — 5/5 útiles
+
+Cabeza WL-407 (`pU_-j8XMqa0`, índice 95 del cache de 04:52) verificada contra el cache antes del primer ciclo; 5 descargas `--one` con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429. Pendientes de consolidación (L12):
+
+| WL | Título | Canal | Dominio previsto |
+|---|--------|-------|------------------|
+| 407 | ¡Sucedió! Broadcom confisca VMware: ¿Nutanix, Proxmox, Hyper-V o XCP-ng? | Profe Carlos Leal (1.ª fuente) | informatica-teoria/ o general/ |
+| 408 | CLAUDE rompe la Hipótesis de RIEMANN | Math Rocks (1.ª fuente) | general/ |
+| 409 | Asimov ya había imaginado el problema que hoy preocupa a la IA | Infobae — La Lupa, Tomás Trapé (1.ª fuente) | ia-critica-y-fronteras/ o general/ |
+| 410 | SyQuest Facturó US$300 Millones… y Quebró 3 Años Después | Archivo del Futuro (+1) | informatica-teoria/ o general/ |
+| 411 | Probé el «Windows Chino» en una PC Antigua | TecnoRed (1.ª fuente) | general/ o ia-uso-practico/ |
+
+Señales: WL-407 cifras de mercado de 2.ª mano sin enlaces (Gartner 70→40 %, Rimini Street 98 %) y editorialización fuerte — verificar; WL-408 lectura real del preprint de Lamzouri enlazado (verificable), preprint sin peer-review completo — señalado; ASR fuerte en ambos (Brocon/Bienware=Broadcom-VMware, Cloud=Claude, Lam Suri=Lamzouri); WL-409 NO factual primaria (columna de opinión, detalles del incidente Hacking Face parcialmente deformados); WL-410 disciplina de fuentes destacable (descarta la leyenda del Zip rechazado); WL-411 demo verificable, patrocinio vipcdkeys.com excluido (grey-market). Cruces candidatos: [[historia-de-la-tecnologia]] (WL-407/410), contraste modelos consumibles Broadcom-vs-SQLite (WL-407/405) y compatibilidad-como-promesa (WL-410/404), frontera descubrimiento-IA/verificación-formal Lean (WL-408 vs overclaiming WL-383/402/409), [[inferencia-local]] (WL-411, IA local en el SO), cluster resurrección de hardware (WL-411 con WL-296); entidades candidatas: Profe Carlos Leal, Math Rocks, TecnoRed; [[archivo-del-futuro]] +1 (WL-410). Cabeza futura: WL-412 (índice 100 del cache, `qEvVAyWo3_s`).
