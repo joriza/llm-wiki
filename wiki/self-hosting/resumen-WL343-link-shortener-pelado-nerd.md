@@ -1,6 +1,6 @@
 # WL-343 · Despliega tu propio Bitly — gratis y open source
 
-- **Fuente**: [`raw/general/2026-09-22-despliega-tu-propio-bitly-gratis-y-open-source.md`](../../raw/general/2026-09-22-despliega-tu-propio-bitly-gratis-y-open-source.md) — vídeo de YouTube `rGwNTdniad0`
+- **Fuente**: [`raw/self-hosting/2026-09-22-despliega-tu-propio-bitly-gratis-y-open-source.md`](../../raw/general/2026-09-22-despliega-tu-propio-bitly-gratis-y-open-source.md) — vídeo de YouTube `rGwNTdniad0`
 - **Canal**: Pelado Nerd
 - **Publicado**: 2026-09-22 · **Duración**: 10:02
 - **Tipo**: tutorial de self-hosting (acortador de URLs propio)

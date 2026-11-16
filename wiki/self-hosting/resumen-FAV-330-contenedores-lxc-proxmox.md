@@ -1,6 +1,6 @@
 # FAV-330 — Contenedores LXC imprescindibles en Proxmox
 
-- **Origen**: «NECESITAS estos contenedores LXC en Proxmox» — Barmine Tech — `https://www.youtube.com/watch?v=oyhDFjplC18` (17:04, inglés, subtítulos automáticos; transcripción en `raw/general/raw-oyhDFjplC18.md`)
+- **Origen**: «NECESITAS estos contenedores LXC en Proxmox» — Barmine Tech — `https://www.youtube.com/watch?v=oyhDFjplC18` (17:04, inglés, subtítulos automáticos; transcripción en `raw/self-hosting/raw-oyhDFjplC18.md`)
 - **Fecha de ingesta**: 2026-11-15
 - **Dominio**: `general/` (herramientas homelab; cruza con informatica-teoria/ y el clúster Proxmox)
 

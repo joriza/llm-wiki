@@ -1,6 +1,6 @@
 # FAV-332 — Instalación de Proxmox v7 en VMware Workstation 16 Pro
 
-- **Origen**: «Instalación de Proxmox v7 en VMWARE Workstation 16 PRO - PASO A PASO» — No Solo Hacking — `https://www.youtube.com/watch?v=qaWpaNX_rL8` (19:12, español, subtítulos automáticos; transcripción en `raw/general/raw-qaWpaNX_rL8.md`)
+- **Origen**: «Instalación de Proxmox v7 en VMWARE Workstation 16 PRO - PASO A PASO» — No Solo Hacking — `https://www.youtube.com/watch?v=qaWpaNX_rL8` (19:12, español, subtítulos automáticos; transcripción en `raw/self-hosting/raw-qaWpaNX_rL8.md`)
 - **Fecha de ingesta**: 2026-11-15
 - **Dominio**: `general/` (virtualización/homelab; clúster Proxmox con [[resumen-FAV-329-proxmox-post-pve-install]], [[resumen-FAV-330-contenedores-lxc-proxmox]] y [[resumen-FAV-331-proxmoxve-community-scripts]])
 
