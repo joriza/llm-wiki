@@ -75,3 +75,13 @@ Un SQL inocente («usuario por email + sus órdenes + últimas compras») escond
 - Garbiñeos corregidos: «naive base» = Naive Bayes; «protobu» = protobuf; «birectional» = bidirectional.
 - Patrocinio: boot.dev (curso de backend, código CODEDEST 25% off) — excluido de la síntesis; insertado entre sliding window y recursión.
 - Autopromoción: referencia al vídeo propio de [[resumen-every-data-structure-simply-explained-in-25-minutes-codist|estructuras de datos]] — no listada como patrocinio; considerada parte del contenido.
+
+
+## Ver también
+
+- [[archivo-del-futuro]]
+- [[bases-de-datos]]
+- [[bases-de-datos-especializadas]]
+- [[futuro-del-trabajo]]
+- [[hardware-para-ia-local]]
+- [[ia-local-texto]]

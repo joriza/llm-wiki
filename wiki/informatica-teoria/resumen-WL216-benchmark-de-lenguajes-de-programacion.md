@@ -23,3 +23,9 @@ Segunda ronda de un reto viral: tras un primer benchmark (Rust ganó con ~14.000
 - Fuente secundaria: narra y resume un reto ajeno (probablemente del ecosistema "codecrafters"-style de desafíos de servidores); nombres exactos del reto/autor no identificables desde el audio; cifras no verificadas de forma independiente.
 - Cruces previstos: [[lenguaje-rust]] (Rust ganador, WL-14 roadmap), concepto rendimiento-servidores; WL-108/WL-160 (DevOps/panorama TecnoCroquis); lección «medir antes de optimizar» empalma con WL-211 (especificaciones) solo tangencialmente — no forzar.
 - Dominio previsto: general (programación/rendimiento) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[historia-lenguajes-programacion]]
+- [[mapa-del-ecosistema-python]]

@@ -43,3 +43,13 @@
 
 Video de reacción con diálogo coloquial argentino explícito; la sustancia histórica es del video base (Fat Dev) no verificado contra fuentes primarias. Para citar hechos usar el video base y/o fuentes canónicas (charlas de Crockford en Google/Yahoo, correos de la lista ECMA).
 - **Página de concepto**: [[lenguaje-rust]] — Eich lanzó Rust en Mozilla: la misma persona en dos filosofías opuestas (cableado 2026-11-14).
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]
+- [[historia-lenguajes-programacion]]
+- [[historia-software-corporativa]]
+- [[micro-saas-con-python]]
+- [[reglas-cableadas-vs-programadas]]
+- [[tecnologia-educativa-promesa-vs-institucion]]

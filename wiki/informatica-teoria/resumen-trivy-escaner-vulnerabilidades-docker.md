@@ -35,3 +35,12 @@ Tutorial de introducción a **Trivy**, escáner de vulnerabilidades open source 
 ## ADVERTENCIA
 
 Video tutorial de divulgación con bloques promocionales/benéficos extensos (sorteo, donaciones, ~1/3 del tiempo); comandos y versiones concretas (Trivy 0.48.1, python:3.4) congelados a diciembre de 2023 — verificar versiones vigentes antes de reproducir.
+
+
+## Ver también
+
+- [[generacion-local-de-imagenes]]
+- [[hardware-agentico-mcp-first]]
+- [[hardware-para-ia-local]]
+- [[panorama-herramientas-open-source-ia]]
+- [[seguridad-fuera-del-modelo]]

@@ -25,3 +25,9 @@ Presentación de **Águila**, un lenguaje de programación en español creado po
 - Proyecto pequeño y en desarrollo (madurez y comunidad no evaluadas); el «supera a Python» solo aplica al benchmark recursivo del propio video.
 - Cruces previstos: concepto lenguajes-de-programación (WL-216 benchmark, WL-155 lenguajes esotéricos — eje distinto pero vecino);WL-14 roadmap Rust («escrito en Rust»). Canal Tirando Código queda en texto plano (consolidación T40, 2026-11-15: una sola fuente, bajo el umbral ≥2 — precedente lint).
 - Dominio previsto: general (programación) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[desarrollo-latinoamericano]]
+- [[historia-lenguajes-programacion]]

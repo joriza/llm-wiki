@@ -51,3 +51,8 @@ Hacer que efectivo ilegal parezca legítimo, en tres etapas: **colocación** (en
 - Transcripción con frases triplicadas (artefacto del ASR); normalizado en el resumen. Cifras citadas (deuda de EE.UU., precios de vivienda,Bitcoin 21 millones, Alemania 1923) se registran como afirmaciones de la fuente.
 - Fecha de metadatos (2026-08-17) difiere en un día del nombre del archivo (2026-08-18); se usaron los metadatos.
 - Patrocinio de la plataforma de inversión XTV (código promocional «cápsula») excluido de la síntesis.
+
+
+## Ver también
+
+- [[seguridad-fuera-del-modelo]]

@@ -31,3 +31,8 @@ Recorrido divulgativo por siete lenguajes de programación esotéricos, con sus 
 
 - Divulgación de cultura/historia de la programación, con anécdotas citadas (blogs de los autores, Slashdot, galerías); apto como fuente ligera de introducción al fenómeno esotérico. El propio video es el primer contacto del repositorio con el tema (sin cruces aún).
 - ASR normalizado solo aquí; nombres con errores de reconocimiento en el raw ("Paul Stovel" = Paul Stovell, "Richard Mital" = el autor del programa π en Piet, "Bity" = Beatty, "ex4" = ext4).
+
+
+## Ver también
+
+- [[historia-lenguajes-programacion]]

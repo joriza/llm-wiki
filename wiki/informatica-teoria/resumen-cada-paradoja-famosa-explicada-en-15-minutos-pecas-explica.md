@@ -29,3 +29,9 @@ El video recorre catorce paradojas famosas con la tesis de cierre: casi todas ha
 - Video original en español; transcripción del raw en inglés (subtítulos automáticos traducidos, literal). Resumen en español profesional.
 - Transcripción con frases triplicadas (artefacto del ASR); normalizado en el resumen.
 - Autopromoción ligera de cierre (suscribirse al canal, teaser del próximo video) excluida de la síntesis. Sin patrocinios externos.
+
+
+## Ver también
+
+- [[bases-de-datos]]
+- [[bases-de-datos-especializadas]]

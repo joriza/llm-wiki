@@ -30,3 +30,11 @@ Expediente de historia del **Iomega Zip** (mediados de los 90): del éxito mete�
 ## Veredicto de triage
 
 Historia técnica de calidad, coherente con el clúster del canal; conservar.
+
+
+## Ver también
+
+- [[archivo-del-futuro]]
+- [[historia-de-la-tecnologia]]
+- [[historia-software-corporativa]]
+- [[routing-por-coste]]

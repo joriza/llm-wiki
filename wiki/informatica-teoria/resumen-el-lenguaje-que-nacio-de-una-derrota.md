@@ -30,3 +30,10 @@ Historia divulgativa con montaje dramatizado («guerra», «derrota», «copia b
 - Las citas de Gosling, Gates y Hejlsberg llegan parafraseadas y sin fuente puntual por bloque — tratarlas como reconstrucción divulgativa, no como transcripciones literales.
 - Autopromoción excluida de la síntesis: cuento infantil del canal «Denis y la pequeña C» sobre Dennis Ritchie (bloque [21:45-22:48]).
 - Cruces de dominio: [[historia-lenguajes-programacion]] (historia-informatica) y [[resumen-c-sharp-15-ya-esta-aqui-estas-son-sus-novedades]] (WL-11, mismo dominio — la historia del origen del lenguaje que ese resumen describe en su presente).
+
+
+## Ver también
+
+- [[futuro-del-trabajo]]
+- [[historia-de-la-tecnologia]]
+- [[historia-lenguajes-programacion]]
