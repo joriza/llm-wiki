@@ -1,9 +1,9 @@
 # WL-493 — Cómo Funciona Realmente el Lavado de Dinero y Por Qué Nos Afecta | Explicación fácil
 
-- **Fuente original**: `raw/wl/tramo-82/2026-11-16-como-funciona-realmente-el-lavado-de-dinero-y-por-que-nos-afecta-explicacion-fac.md` ([Vídeo](https://www.youtube.com/watch?v=NRYDWnxIlTc))
+- **Fuente original**: `raw/general/2026-11-16-como-funciona-realmente-el-lavado-de-dinero-y-por-que-nos-afecta-explicacion-fac.md` ([Vídeo](https://www.youtube.com/watch?v=NRYDWnxIlTc))
 - **Canal**: En pocas palabras (1.ª fuente WL)
 - **Publicado**: 2026-11-16 · **Duración**: 12:08
-- **Dominio provisional**: general (divulgación economía/finanzas — video educativo)
+- **Dominio definitivo**: general (consolidación T90, 2026-11-16). Provisional: general (divulgación economía/finanzas — video educativo)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata

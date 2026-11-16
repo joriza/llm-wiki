@@ -1,9 +1,9 @@
 # WL-498 — El levantamiento de Kanal K por un chiste con el Papa
 
-- **Fuente original**: `raw/wl/tramo-83/2026-11-11-el-levantamiento-de-kanal-k-por-un-chiste-con-el-papa.md` ([Vídeo](https://www.youtube.com/watch?v=PVzOf0UegCM))
+- **Fuente original**: `raw/general/2026-11-11-el-levantamiento-de-kanal-k-por-un-chiste-con-el-papa.md` ([Vídeo](https://www.youtube.com/watch?v=PVzOf0UegCM))
 - **Canal**: Chelo Margal «No se olviden de Nuestros Artistas» (1.ª fuente WL)
 - **Publicado**: 2026-11-11 · **Duración**: 12:35
-- **Dominio provisional**: general / sociedad-argentina (historia de la TV argentina, divulgación nostálgica)
+- **Dominio definitivo**: general (consolidación T90, 2026-11-16). Provisional: general / sociedad-argentina (historia de la TV argentina, divulgación nostálgica)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
@@ -30,3 +30,7 @@ Recuerdo documentado (con clips de archivo) del programa de marionetas satírica
 ## Veredicto de triage
 
 Pieza nostálgica bien hilada que cita sus fuentes (Nielsen, entrevista a Castelo) pero no verificable: útil como historia cultural de la TV argentina con la reserva de 2.ª mano y la especulación final declarada.
+
+## Consolidación (T90)
+
+Dominio definitivo: `general/` (primera opción registrada; historia cultural TV — la variante sociedad-argentina queda registrada como reubicación trivial si se prefiere). Canal Chelo Margal: 1.ª fuente, texto plano. Cruces en texto: WL-143 (Raúl Portal, marco docudrama TV), WL-297 (Mazinger Z en España), WL-149 (Pablo Molinari, humor nostálgico), WL-251 (satírico). Tesis «excusa no causa»: especulación declarada del autor — sin verificación primaria (Nielsen tomo 6 citado, no verificado).

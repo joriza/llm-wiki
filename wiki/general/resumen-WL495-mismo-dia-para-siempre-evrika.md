@@ -1,9 +1,9 @@
 # WL-495 — What If You Lived the Same Day Forever? (And How to Escape the Loop)
 
-- **Fuente original**: `raw/wl/tramo-82/2026-11-16-what-if-you-lived-the-same-day-forever-and-how-to-escape-the-loop.md` ([Vídeo](https://www.youtube.com/watch?v=___qHU19Xjg))
+- **Fuente original**: `raw/general/2026-11-16-what-if-you-lived-the-same-day-forever-and-how-to-escape-the-loop.md` ([Vídeo](https://www.youtube.com/watch?v=___qHU19Xjg))
 - **Canal**: Evrika! (1.ª fuente WL)
 - **Publicado**: 2026-11-16 · **Duración**: 09:49
-- **Dominio provisional**: general (ensayo narrativo/pensamiento especulativo — ficción con anclajes reales)
+- **Dominio definitivo**: general (consolidación T90, 2026-11-16). Provisional: general (ensayo narrativo/pensamiento especulativo — ficción con anclajes reales)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata

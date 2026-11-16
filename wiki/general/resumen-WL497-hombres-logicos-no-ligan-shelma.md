@@ -1,9 +1,9 @@
 # WL-497 — Por qué los hombres lógicos no ligan (aunque les caigan bien)
 
-- **Fuente original**: `raw/wl/tramo-83/2026-09-09-por-que-los-hombres-logicos-no-ligan-aunque-le-caigan-bien.md` ([Vídeo](https://www.youtube.com/watch?v=YzREe2UfU0k))
+- **Fuente original**: `raw/general/2026-09-09-por-que-los-hombres-logicos-no-ligan-aunque-le-caigan-bien.md` ([Vídeo](https://www.youtube.com/watch?v=YzREe2UfU0k))
 - **Canal**: Shelma, psicología y dating (1.ª fuente WL)
 - **Publicado**: 2026-09-09 · **Duración**: 06:53
-- **Dominio provisional**: general / desarrollo-personal (dating, ensayo de opinión profesional)
+- **Dominio definitivo**: general (consolidación T90, 2026-11-16). Provisional: general / desarrollo-personal (dating, ensayo de opinión profesional)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
@@ -31,3 +31,7 @@ Consejo de dating dirigido a un perfil específico — «hombres lógicos» (ing
 ## Veredicto de triage
 
 Contenido breve, coherente y accionable (escucha activa + lectura de señales), pero es coaching comercial sin respaldo empírico: conservar como opinión profesional NO factual, útil solo para el subgénero dating de desarrollo-personal.
+
+## Consolidación (T90)
+
+Dominio definitivo: `general/` (primera opción registrada; subgénero dating NO factual — el clúster dating consolidado vive aquí: WL-302/303/304 MINDVEIL con entidad [[mindveil]]). Canal Shelma: 1.ª fuente, texto plano (umbral <2). Cruces en texto: WL-131, WL-219. Sin contradicciones.

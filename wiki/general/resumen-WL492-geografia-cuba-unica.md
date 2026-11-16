@@ -1,9 +1,9 @@
 # WL-492 — ¿Por Qué la Geografía de CUBA es Única en el Mundo?
 
-- **Fuente original**: `raw/wl/tramo-82/2026-10-30-por-que-la-geografia-de-cuba-es-unica-en-el-mundo.md` ([Vídeo](https://www.youtube.com/watch?v=DI6gvqENrLo))
+- **Fuente original**: `raw/general/2026-10-30-por-que-la-geografia-de-cuba-es-unica-en-el-mundo.md` ([Vídeo](https://www.youtube.com/watch?v=DI6gvqENrLo))
 - **Canal**: Planeta al Descubierto (1.ª fuente WL)
 - **Publicado**: 2026-10-30 · **Duración**: 21:26
-- **Dominio provisional**: general (divulgación geografía/geografía física — listicle «20 datos»)
+- **Dominio definitivo**: general (consolidación T90, 2026-11-16). Provisional: general (divulgación geografía/geografía física — listicle «20 datos»)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata

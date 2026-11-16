@@ -1,9 +1,9 @@
 # WL-499 — IQ 70 vs IQ 160: la diferencia entre una mente promedio y una genial
 
-- **Fuente original**: `raw/wl/tramo-83/2026-11-14-iq-70-vs-iq-160-la-diferencia-entre-una-mente-promedio-y-una-genial.md` ([Vídeo](https://www.youtube.com/watch?v=mxWx-xm5uao))
+- **Fuente original**: `raw/general/2026-11-14-iq-70-vs-iq-160-la-diferencia-entre-una-mente-promedio-y-una-genial.md` ([Vídeo](https://www.youtube.com/watch?v=mxWx-xm5uao))
 - **Canal**: Psicopulso (1.ª fuente WL)
 - **Publicado**: 2026-11-14 · **Duración**: 17:03
-- **Dominio provisional**: general (divulgación de psicología/cognición)
+- **Dominio definitivo**: general (consolidación T90, 2026-11-16). Provisional: general (divulgación de psicología/cognición)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
@@ -34,3 +34,7 @@ Divulgación bien estructurada sobre **qué significa en la vida cotidiana un CI
 ## Veredicto de triage
 
 De las mejores divulgaciones del tramo: estructura clara, fuentes citadas y matizaciones explícitas de la evidencia débil. Conservar como general/divulgación cognitiva; verificar cifras exactas (30.000, 14 %, efecto Flynn) en consolidación.
+
+## Consolidación (T90)
+
+Dominio definitivo: `general/` (divulgación cognitiva). Canal Psicopulso: 1.ª fuente, texto plano (umbral <2; candidata a entidad si acumula). Cruces en texto: [[delegacion-cognitiva-ia]], [[percepcion-de-regresion-de-modelos]] (instrumentos que no miden donde se quiere), WL-139/164/401. Sin contradicciones nuevas; cifras (30.000, 14 %, Flynn) quedan 2.ª mano por verificar.

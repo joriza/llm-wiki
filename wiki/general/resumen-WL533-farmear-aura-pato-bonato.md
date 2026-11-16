@@ -1,9 +1,9 @@
 # WL-533 — La nueva moda de FARMEAR AURA
 
-- **Fuente original**: `raw/wl/tramo-84/2026-08-26-la-nueva-moda-de-farmear-aura.md` ([Vídeo](https://www.youtube.com/watch?v=6Ueagbb_aOA))
+- **Fuente original**: `raw/general/2026-08-26-la-nueva-moda-de-farmear-aura.md` ([Vídeo](https://www.youtube.com/watch?v=6Ueagbb_aOA))
 - **Canal**: Pato Bonato (1.ª fuente WL)
 - **Publicado**: 2026-08-26 · **Duración**: 12:12
-- **Dominio provisional**: general / sociedad-argentina (cultura juvenil, videoensayo de opinión)
+- **Dominio definitivo**: general (consolidación T90, 2026-11-16). Provisional: general / sociedad-argentina (cultura juvenil, videoensayo de opinión)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
@@ -30,3 +30,7 @@ Comentario de opinión sobre la moda viral de **«farmear aura»**: batallas de 
 ## Veredicto de triage
 
 Opinión pura con material callejero curioso; valor documental menor (el fenómeno ya cubierto por WL-465 con ángulo satírico); la especulación conspirativa y el marco peyorativo lo dejan como fuente de contexto cultural, no factual. Conservar en general; en consolidación, sumar al tema «farmear aura/therians» junto a WL-465.
+
+## Consolidación (T90)
+
+Dominio definitivo: `general/`. Concepto nuevo [[farmear-aura-therians]] creado (3 fuentes por umbral ≥2: WL-359 [[resumen-WL359-farmeo-de-aura-emmanuel-danann]] satírico, WL-465 [[resumen-WL465-el-kakas-farmear-aura]] satírico-denegatorio y esta, videoensayo de opinión pesimista). Canal Pato Bonato: 1.ª fuente, texto plano. La especulación conspirativa queda registrada como conjetura declarada del autor — sin fuente.

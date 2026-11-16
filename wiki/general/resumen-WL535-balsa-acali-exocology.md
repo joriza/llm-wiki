@@ -1,9 +1,9 @@
 # WL-535 — 101 DÍAS DE BRUTALIDAD Y BELLEZA: El Experimento de la Balsa Acali
 
-- **Fuente original**: `raw/wl/tramo-84/2026-08-04-101-dias-de-brutalidad-y-belleza-el-experimento-de-la-balsa-acali.md` ([Vídeo](https://www.youtube.com/watch?v=4e1dlf-rQi8))
+- **Fuente original**: `raw/general/2026-08-04-101-dias-de-brutalidad-y-belleza-el-experimento-de-la-balsa-acali.md` ([Vídeo](https://www.youtube.com/watch?v=4e1dlf-rQi8))
 - **Canal**: Exocology (1.ª fuente WL)
 - **Publicado**: 2026-08-04 · **Duración**: 11:28
-- **Dominio provisional**: general (historia de la ciencia / psicología social)
+- **Dominio definitivo**: general (consolidación T90, 2026-11-16). Provisional: general (historia de la ciencia / psicología social)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
@@ -32,3 +32,7 @@ Relato documental del **experimento de la balsa Acali** (Santiago Genovés, 1973
 ## Veredicto de triage
 
 Buena divulgación narrativa con tesis clara y estructura de ironía trágica; su valor depende del hecho base (sólido), pero los detalles y cifras sin citas obligan a conservar las reservas señaladas. Dominio general (historia de la ciencia/psicología social); candidata a consolidarse con el clúster de experimentos sociales.
+
+## Consolidación (T90)
+
+Dominio definitivo: `general/` (historia de la ciencia/psicología social). Página actualizada: [[experimentos-sociales]] (+1 — la página ya cubría la Acali vía *The Raft*; esta fuente es el relato divulgativo del experimento base). Cruces en texto: [[castigo-altruista-venganza]], WL-190/198/135. Canal Exocology: 1.ª fuente, texto plano. Sin contradicciones: el relato coincide con el hecho base registrado; detalles sin citas mantienen la reserva.
