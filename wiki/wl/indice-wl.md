@@ -137,3 +137,17 @@ Cabeza futura del backlog: **WL-331** (índice 24 del cache fresco de 04:52).
 | WL-335 | Maxtor: por qué desapareció el disco que había en tu PC (`fnVeInXVrKU`) | Archivo del Futuro | general (historia tecnología/industria) o informatica-teoria — cruces [[historia-de-la-tecnologia]], cluster WL-328/313/200/117/323 |
 
 Cabeza futura del backlog: **WL-336** (índice 29 del cache fresco de 04:52).
+
+## Tramo 52 — activo (relevo 5, pedido L32, 2026-11-16)
+
+5 fuentes ÚTILES ingestadas (raw en `raw/wl/tramo-52/`, resúmenes en `wiki/wl/tramo-52/`); sin skips, sin meta-fails; salida 45.239.32.215 sin 429 (L13; presupuesto suave 400 nunca alcanzado). Dominios destino previstos (S4, sin dominios nuevos; consolidación diferida):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| WL-336 | ¿Y si la VENGANZA fuera algo bueno? Lo que la CIENCIA descubrió (`t5NBtNx06TY`) | Roxana Kreimer | general (filosofía/psicología moral) o sociedad-argentina — atribución de 2.ª mano señalada; cruces WL-327/330 (monopolio estatal de la violencia) |
+| WL-337 | Por qué las medialunas de hoy SON UNA PORQUERÍA (`go62rrp8rEE`) | Marcos Di Cesare | general (gastronomía/cultura argentina) o sociedad-argentina — opinión profesional de 1.ª mano; autopromoción de cursos excluida |
+| WL-338 | El experimento prohibido: la historia que la medicina no quiere contar (`4E7Ma9jGqvM`) | La Traumatóloga Geek | general (historia de la ciencia/medicina) — documentación citada al pie, atípica; título sensacionalista señalado |
+| WL-339 | Token Ring: por qué Ethernet le ganó a la red de IBM (`FhckjDk-WNU`) | Archivo del Futuro | general (historia tecnología) o informatica-teoria — cluster historia WL-328/335/313/200/117/323; Archivo del Futuro +1 |
+| WL-340 | Mi stack real de IA para programar (`tR632IiOxaY`) | Fazt | agentes-de-codigo o ia-uso-practico — patrocinio CodeRabbit excluido; cruces [[multiplexores-agentes]], WL-325/331/332/333; Fazt +1 |
+
+Cabeza futura del backlog: **WL-341** (índice 34 del cache fresco de 04:52).
