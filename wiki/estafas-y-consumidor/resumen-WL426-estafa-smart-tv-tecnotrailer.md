@@ -1,10 +1,10 @@
 # WL-426 — La ESTAFA de los Smart TV que NADIE te cuenta
 
-- **Fuente original**: `2026-09-02-la-estafa-de-los-smart-tv-que-nadie-te-cuenta.md`
+- **Fuente original**: `raw/estafas-y-consumidor/2026-09-02-la-estafa-de-los-smart-tv-que-nadie-te-cuenta.md`
 - **Video**: [La ESTAFA de los Smart TV que NADIE te cuenta](https://www.youtube.com/watch?v=O1jtbL0FpXM)
 - **Canal**: tecnotrailer
 - **Publicado**: 2026-09-01 · **Duración**: 23:43 · **Idioma**: es (subtítulos automáticos)
-- **Tramo**: 70 (relevo 10/12, pedido L34) · **Dominio previsto**: general (tecnología/electrónica)
+- **Tramo**: 70 (relevo 10/12, pedido L34) · **Dominio previsto**: estafas-y-consumidor
 
 ## Qué trata
 

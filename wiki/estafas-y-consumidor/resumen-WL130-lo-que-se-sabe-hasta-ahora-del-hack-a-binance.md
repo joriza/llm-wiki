@@ -1,6 +1,6 @@
 # WL-130 — Lo que se sabe hasta ahora del hack a Binance
 
-- **Fuente original**: `raw/general/2026-10-30-lo-que-se-sabe-hasta-ahora-del-hack-a-binance.md` (`aAMOi9cDa8g`, [Pelado Nerd](https://www.youtube.com/watch?v=aAMOi9cDa8g), 2026-10-30, 10:30).
+- **Fuente original**: `raw/estafas-y-consumidor/2026-10-30-lo-que-se-sabe-hasta-ahora-del-hack-a-binance.md` (`aAMOi9cDa8g`, [Pelado Nerd](https://www.youtube.com/watch?v=aAMOi9cDa8g), 2026-10-30, 10:30).
 - **Canal**: Pelado Nerd
 - **Publicado**: 2026-10-30
 - **Tipo**: análisis técnico-noticioso (cripto/seguridad, reacción rápida)
