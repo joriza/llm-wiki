@@ -109,3 +109,17 @@ Cabeza futura del backlog: **WL-321** (índice 5 del cache fresco de 04:52, 4.58
 | WL-325 | Inteligencia artificial: por qué hace lo que le pedís y sale mal (`7CZLMLnfIiw`) | Gentleman Programming | agentes-de-codigo o ia-uso-practico — patrocinio JetBrains declarado |
 
 Cabeza futura del backlog: **WL-326** (índice 19 del cache fresco de 04:52).
+
+## Tramo 50 — activo (relevo 3, pedido L32, 2026-11-16)
+
+5 fuentes ÚTILES ingestadas (raw en `raw/wl/tramo-50/`, resúmenes en `wiki/wl/tramo-50/`); sin skips, sin meta-fails; salida 45.239.32.215 sin 429 (L13; presupuesto suave 400 nunca alcanzado). Dominios destino previstos (S4, sin dominios nuevos; consolidación diferida):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| WL-326 | Obsidian es increíble! Apréndelo ahora gratis con certificado incluído (`SQUiLmKH5Cc`) | HolaMundo | ia-critica-y-fronteras ([[obsidian-memoria-agentes]]) o agentes-de-codigo ([[holamundo]] 3.ª fuente) — autopromoción Academia excluida |
+| WL-327 | Peter Thiel — El mago oscuro detrás de la IA (`3PhA7RW_ZVo`) | Preguntas Incómodas | ia-critica-y-fronteras (cluster neorreacción WL-121) o sociedad-argentina — opinión militante NO factual, señalada |
+| WL-328 | Microsoft Works: el programa que casi todos tenían y casi nadie eligió (`SthQ9b4SB8Y`) | Archivo del Futuro | general (historia tecnología) o informatica-teoria — [[historia-de-la-tecnologia]], cluster WL-313/200/117 |
+| WL-329 | ¿Quiénes Son los 25 Humanos Más Importantes de la Historia? (`mh48xOkLhgU`) | Homosapiens | general (historia) — cifras de 2.ª mano señaladas; genealogía IA Turing→Hinton |
+| WL-330 | GRABOIS fue a INFOBAE y dejó a todos sin palabras sobre la IA (`wbbt4J8iLGU`) | CASA 13 | ia-critica-y-fronteras (gobernanza IA) o sociedad-argentina — opinión militante NO factual, señalada; contrapunto WL-327 |
+
+Cabeza futura del backlog: **WL-331** (índice 24 del cache fresco de 04:52).
