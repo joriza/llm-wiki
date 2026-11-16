@@ -2,7 +2,7 @@
 
 - **Tipo**: resumen de fuente.
 - **Dominio**: `agentes-de-codigo/`.
-- **Fuente original**: `raw/agentes-de-codigo/2026-10-23-por-que-los-vibe-coders-destrozan-todas-las-apps-que-tocan-victor-robles-web.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar; «Claudio»→Claude) — https://www.youtube.com/watch?v=pO6x9GI07WA — Victor Robles WEB, 2026-10-23 (09:38).
+- **Fuente original**: `raw/futuro-programacion/2026-10-23-por-que-los-vibe-coders-destrozan-todas-las-apps-que-tocan-victor-robles-web.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar; «Claudio»→Claude) — https://www.youtube.com/watch?v=pO6x9GI07WA — Victor Robles WEB, 2026-10-23 (09:38).
 - **Nota**: fuente 11/18 de la playlist «IA-Nuevas formas de trabajo». Fragmento del módulo 4 de un curso de pago del autor («cómo se degrada una arquitectura y cómo evitarlo») — el cierre promociona el curso; se excluye. Contenido conceptual de arquitectura clásica aplicado al trabajo con agentes.
 
 ## La línea temporal del caos

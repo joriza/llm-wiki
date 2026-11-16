@@ -1,6 +1,6 @@
 # WL-214 · Cómo usar REA para CLONAR Apps con IA (explicado fácil)
 
-- **Fuente original**: `raw/agentes-de-codigo/2026-10-15-como-usar-rea-para-clonar-apps-con-ia-explicado-facil.md`
+- **Fuente original**: `raw/futuro-programacion/2026-10-15-como-usar-rea-para-clonar-apps-con-ia-explicado-facil.md`
 - **Video**: [Cómo usar REA para CLONAR Apps con IA (explicado fácil)](https://www.youtube.com/watch?v=1yUWkR32QXQ)
 - **Canal**: Martín Toledo | IA & Automatización
 - **Publicado**: 2026-10-15 · **Duración**: 25:21 · **Ingesta**: 2026-11-15 (tramo 30, formato dominio pendiente de consolidación)

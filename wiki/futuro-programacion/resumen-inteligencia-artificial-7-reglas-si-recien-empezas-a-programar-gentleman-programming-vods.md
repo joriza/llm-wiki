@@ -2,7 +2,7 @@
 
 - **Tipo**: resumen de fuente.
 - **Dominio**: `agentes-de-codigo/`.
-- **Fuente original**: `raw/agentes-de-codigo/2026-11-02-inteligencia-artificial-7-reglas-si-recien-empezas-a-programar-gentleman-programming-vods.md` (video en español; subtítulos manuales es-419, transcripción literal; formato vod/stream con lectura del chat en vivo — se sintetiza la charla, no las interacciones del chat) — https://www.youtube.com/watch?v=Qt99CqIJTMI — Gentleman Programming Vods, 2026-11-02 (45:37).
+- **Fuente original**: `raw/futuro-programacion/2026-11-02-inteligencia-artificial-7-reglas-si-recien-empezas-a-programar-gentleman-programming-vods.md` (video en español; subtítulos manuales es-419, transcripción literal; formato vod/stream con lectura del chat en vivo — se sintetiza la charla, no las interacciones del chat) — https://www.youtube.com/watch?v=Qt99CqIJTMI — Gentleman Programming Vods, 2026-11-02 (45:37).
 - **Nota**: fuente 13/18 de la playlist «IA-Nuevas formas de trabajo». Charla nacida de preguntas de estudiantes/juniors en el Google DevFest de Alicante. Versión junior del pensamiento del mismo canal (fuente 9/18: bienestar; aquí: criterio para empezar). Auto-referencias a Gentle Shell/Gentle AI señaladas (promoción propia). Ojo terminológico del autor: dice «criticidad» donde el estándar del dominio es «criterio» (critical thinking).
 
 ## El diagnóstico de entrada

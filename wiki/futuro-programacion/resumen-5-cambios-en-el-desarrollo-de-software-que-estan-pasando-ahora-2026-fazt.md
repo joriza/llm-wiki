@@ -2,7 +2,7 @@
 
 - **Tipo**: resumen de fuente.
 - **Dominio**: `agentes-de-codigo/`.
-- **Fuente original**: `raw/agentes-de-codigo/2026-10-12-5-cambios-en-el-desarrollo-de-software-que-estan-pasando-ahora-2026-fazt.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar; «Ban»→bun, «Sinout»→nombre del sponsor, «Header»→Herdr) — https://www.youtube.com/watch?v=hKV5oAQlp2M — Fazt, 2026-10-12 (17:56).
+- **Fuente original**: `raw/futuro-programacion/2026-10-12-5-cambios-en-el-desarrollo-de-software-que-estan-pasando-ahora-2026-fazt.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar; «Ban»→bun, «Sinout»→nombre del sponsor, «Header»→Herdr) — https://www.youtube.com/watch?v=hKV5oAQlp2M — Fazt, 2026-10-12 (17:56).
 - **Nota**: fuente 8/18 de la playlist «IA-Nuevas formas de trabajo». El segmento patrocinado inicial (plataforma de despliegue «Sinout») se excluye de la síntesis salvo el concepto técnico que presenta (deploy unificado + MCP para que el agente despliegue y lea logs). Varios hechos citados (bun→Rust, proyecto «StarCraft» clon de Adobe, tweet de Torvalds, caso del bug de $10.000) provienen de redes/blog — verificar antes de tratarlos como confirmados.
 
 ## Cambio 1 — Rust se vuelve un lenguaje de vibe coding

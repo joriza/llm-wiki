@@ -1,6 +1,6 @@
 # Resumen WL-374: ¿Se acabaron los programadores JUNIOR? — hdeleon.net
 
-**Fuente original:** `raw/agentes-de-codigo/2026-09-15-se-acabaron-los-programadores-junior.md` (YouTube: `OqcHA0jXLwE`, canal **hdeleon.net** (Héctor de León, "la diva del C# .NET"), publicado 2026-09-15, 13:54).
+**Fuente original:** `raw/futuro-programacion/2026-09-15-se-acabaron-los-programadores-junior.md` (YouTube: `OqcHA0jXLwE`, canal **hdeleon.net** (Héctor de León, "la diva del C# .NET"), publicado 2026-09-15, 13:54).
 
 ---
 

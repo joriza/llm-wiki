@@ -2,7 +2,7 @@
 
 - **Tipo**: resumen de fuente.
 - **Dominio**: `agentes-de-codigo/` (transversal: arquitectura de sistemas con agentes).
-- **Fuente original**: `raw/agentes-de-codigo/2026-11-12-el-fin-de-la-ingenieria-de-software-conquerai.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar; «Zhong Feng Tao/Jensen Tao»→Junfeng Xiao) — https://www.youtube.com/watch?v=wtahV7-N_b0 — ConquerAI, 2026-11-07 (16:32).
+- **Fuente original**: `raw/futuro-programacion/2026-11-12-el-fin-de-la-ingenieria-de-software-conquerai.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar; «Zhong Feng Tao/Jensen Tao»→Junfeng Xiao) — https://www.youtube.com/watch?v=wtahV7-N_b0 — ConquerAI, 2026-11-07 (16:32).
 - **Nota**: fuente 16/18 de la playlist «IA-Nuevas formas de trabajo». Divulgación en español del paper «The End of Software Engineering» (Junfeng Xiao, arXiv, junio 2026) — verificar el paper original antes de citar cifras o afirmaciones como del paper.
 
 ## La tesis del paper (radical)

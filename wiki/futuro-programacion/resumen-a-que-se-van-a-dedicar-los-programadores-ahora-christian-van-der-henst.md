@@ -2,7 +2,7 @@
 
 - **Tipo**: resumen de fuente.
 - **Dominio**: `agentes-de-codigo/`.
-- **Fuente original**: `raw/agentes-de-codigo/2026-09-30-a-que-se-van-a-dedicar-los-programadores-ahora-christian-van-der-henst.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar) — https://www.youtube.com/watch?v=Ey39AmkkKbc — Christian Van Der Henst, 2026-09-30 (01:52).
+- **Fuente original**: `raw/futuro-programacion/2026-09-30-a-que-se-van-a-dedicar-los-programadores-ahora-christian-van-der-henst.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar) — https://www.youtube.com/watch?v=Ey39AmkkKbc — Christian Van Der Henst, 2026-09-30 (01:52).
 - **Nota**: fuente 3/18 de la playlist «IA-Nuevas formas de trabajo». Pieza de opinión muy corta (casi un short); se registra como posición, no como análisis con datos.
 
 ## La posición: programar como profesión «se acabó»

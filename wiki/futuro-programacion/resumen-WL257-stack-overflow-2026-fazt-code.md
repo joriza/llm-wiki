@@ -1,6 +1,6 @@
 # Stack Overflow 2026: el 33 % de los devs es infeliz y cada vez más trabajan solos
 
-- **Fuente original**: `raw/agentes-de-codigo/2026-10-11-stack-overflow-2026-el-33-de-los-devs-es-infeliz-y-cada-vez-mas-trabajan-solos.md`
+- **Fuente original**: `raw/futuro-programacion/2026-10-11-stack-overflow-2026-el-33-de-los-devs-es-infeliz-y-cada-vez-mas-trabajan-solos.md`
 - **Video**: [Stack Overflow 2026: el 33 % de los devs es infeliz y cada vez más trabajan solos](https://www.youtube.com/watch?v=aYdGJcMGIsw)
 - **Canal**: Fazt Code · **Publicado**: 2026-10-11 · **Duración**: ~24 min · **Ingesta**: 2026-11-15 (tramo 37)
 

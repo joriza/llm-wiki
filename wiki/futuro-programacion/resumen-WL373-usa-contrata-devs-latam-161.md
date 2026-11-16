@@ -1,6 +1,6 @@
 # Resumen WL-373: USA contrata 161% más devs en LATAM y a ti nadie te escribe: lo que piden en 2026 — Código Espinoza
 
-**Fuente original:** `raw/agentes-de-codigo/2026-09-15-usa-contrata-161-mas-devs-en-latam-y-a-ti-nadie-te-escribe-lo-que-piden-en-2026.md` (YouTube: `LbeuvKHHqtM`, canal **Código Espinoza - Automatiza tu Vida**, publicado 2026-09-15, 5:07).
+**Fuente original:** `raw/futuro-programacion/2026-09-15-usa-contrata-161-mas-devs-en-latam-y-a-ti-nadie-te-escribe-lo-que-piden-en-2026.md` (YouTube: `LbeuvKHHqtM`, canal **Código Espinoza - Automatiza tu Vida**, publicado 2026-09-15, 5:07).
 
 ---
 

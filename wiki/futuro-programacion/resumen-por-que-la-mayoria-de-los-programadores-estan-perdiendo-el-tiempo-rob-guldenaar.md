@@ -2,7 +2,7 @@
 
 - **Tipo**: resumen de fuente.
 - **Dominio**: `agentes-de-codigo/`.
-- **Fuente original**: `raw/agentes-de-codigo/2026-10-13-por-que-la-mayoria-de-los-programadores-estan-perdiendo-el-tiempo-rob-guldenaar.md` (video en español; subtítulos manuales es-419, transcripción literal) — https://www.youtube.com/watch?v=8e_GT2Jmv88 — Rob Guldenaar, 2026-10-13 (14:59).
+- **Fuente original**: `raw/futuro-programacion/2026-10-13-por-que-la-mayoria-de-los-programadores-estan-perdiendo-el-tiempo-rob-guldenaar.md` (video en español; subtítulos manuales es-419, transcripción literal) — https://www.youtube.com/watch?v=8e_GT2Jmv88 — Rob Guldenaar, 2026-10-13 (14:59).
 - **Nota**: fuente 10/18 de la playlist «IA-Nuevas formas de trabajo». Ensayo sin datos propios; valor como síntesis conceptual (historia de la abstracción, mover el cuello de botella, figura del builder).
 
 ## La tesis: termina «la era de los programadores» como rol de escritor de código

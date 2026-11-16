@@ -2,7 +2,7 @@
 
 - **Tipo**: resumen de fuente.
 - **Dominio**: `agentes-de-codigo/`.
-- **Fuente original**: `raw/agentes-de-codigo/2026-10-22-laburas-las-mismas-horas-con-ia-y-terminas-frito-por-que-gentleman-programming.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar; «Moji/Mosji»→supuesta herramienta de agentes, «Kerder»→Herdr, «Ingram»→Engram) — https://www.youtube.com/watch?v=czO_0iGbg7c — Gentleman Programming, 2026-10-22 (11:21).
+- **Fuente original**: `raw/futuro-programacion/2026-10-22-laburas-las-mismas-horas-con-ia-y-terminas-frito-por-que-gentleman-programming.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar; «Moji/Mosji»→supuesta herramienta de agentes, «Kerder»→Herdr, «Ingram»→Engram) — https://www.youtube.com/watch?v=czO_0iGbg7c — Gentleman Programming, 2026-10-22 (11:21).
 - **Nota**: fuente 9/18 de la playlist «IA-Nuevas formas de trabajo». Sobre bienestar, no sobre técnica. El autor promociona sus propias herramientas (Engram, memoria persistente) — señalado; los datos citados (Upwork, estudio de 8 meses, BCG/UC, Harvard, METR) provienen del video sin enlaces — verificar antes de citar como confirmados.
 
 ## La promesa incumplida

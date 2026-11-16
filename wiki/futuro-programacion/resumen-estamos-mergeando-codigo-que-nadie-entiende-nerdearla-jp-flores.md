@@ -2,7 +2,7 @@
 
 - **Tipo**: resumen de fuente.
 - **Dominio**: `agentes-de-codigo/`.
-- **Fuente original**: `raw/agentes-de-codigo/2026-09-28-estamos-mergeando-codigo-que-nadie-entiende-nerdearla-jp-flores.md` (charla en español + Q&A; transcripción literal por subtítulos automáticos, sin normalizar; «purquest/piar»→PR, «Cor/Cabit/Cor Rabbit»→CodeRabbit) — https://www.youtube.com/watch?v=aH8zW8jGak0 — Nerdearla, Juan Pablo Flores (Developer Experience en CodeRabbit; antes GitHub Education, Open Science, Kin), 2026-09-28 (34:40).
+- **Fuente original**: `raw/futuro-programacion/2026-09-28-estamos-mergeando-codigo-que-nadie-entiende-nerdearla-jp-flores.md` (charla en español + Q&A; transcripción literal por subtítulos automáticos, sin normalizar; «purquest/piar»→PR, «Cor/Cabit/Cor Rabbit»→CodeRabbit) — https://www.youtube.com/watch?v=aH8zW8jGak0 — Nerdearla, Juan Pablo Flores (Developer Experience en CodeRabbit; antes GitHub Education, Open Science, Kin), 2026-09-28 (34:40).
 - **Nota**: fuente 5/18 de la playlist «IA-Nuevas formas de trabajo». El autor trabaja en CodeRabbit (conflicto de interés declarable: la charla termina vendiendo su arquitectura); el diagnóstico de fondo (abundancia de código, escasez de atención) sigue siendo valioso.
 
 ## El problema: el techo del entendimiento

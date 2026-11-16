@@ -1,6 +1,6 @@
 # Resumen: Ninguna metodología de programación con IA es la correcta
 
-- **Fuente original**: `raw/agentes-de-codigo/2026-11-05-ninguna-metodologia-de-programacion-con-ia-es-la-correcta.md` (WL-78, tramo 6)
+- **Fuente original**: `raw/futuro-programacion/2026-11-05-ninguna-metodologia-de-programacion-con-ia-es-la-correcta.md` (WL-78, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=gQJbQUQFMXc
 - **Canal**: Eric Risco | Inteligencia Artificial (divulgación técnica de desarrollo con agentes; desarrollador profesional, Andorra — menciona el evento «Lakon An»)
 - **Publicado**: 2026-11-05 · **Duración**: ~24 min · **Idioma**: es (subtítulos automáticos, transcripción literal)

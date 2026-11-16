@@ -2,7 +2,7 @@
 
 - **Tipo**: resumen de fuente.
 - **Dominio**: `agentes-de-codigo/` (transversal: empleo/economía, no específico de programación).
-- **Fuente original**: `raw/agentes-de-codigo/2026-10-27-lo-que-la-ia-esta-haciendo-con-el-empleo-es-peor-de-lo-que-pensabamos-visualpolitik.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar; «Mitar»→METR) — https://www.youtube.com/watch?v=YIl6icGGVEM — VisualPolitik, 2026-10-27 (19:04).
+- **Fuente original**: `raw/futuro-programacion/2026-10-27-lo-que-la-ia-esta-haciendo-con-el-empleo-es-peor-de-lo-que-pensabamos-visualpolitik.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar; «Mitar»→METR) — https://www.youtube.com/watch?v=YIl6icGGVEM — VisualPolitik, 2026-10-27 (19:04).
 - **Nota**: fuente 12/18 de la playlist «IA-Nuevas formas de trabajo». Video de divulgación económica con marco comercial fuerte (cierre promocionando el máster de Visual Business School — excluido de la síntesis). Recopila estudios de terceros (MIT/METR, FMI, Anthropic+U. Virginia, Funcas, McKinsey, Goldman Sachs, Stanford, PwC) — datos agregados y verificables contra las fuentes originales; los números se registran tal como el video los cita.
 
 ## Detonante narrativo: la salida voluntaria de Microsoft

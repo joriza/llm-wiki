@@ -1,6 +1,6 @@
 # Resumen: La enfermedad silenciosa de los programadores — BURNOUT
 
-- **Fuente original**: `raw/agentes-de-codigo/2026-11-05-la-enfermedad-silenciosa-de-los-programadores-burnout.md` (WL-68, tramo 5)
+- **Fuente original**: `raw/futuro-programacion/2026-11-05-la-enfermedad-silenciosa-de-los-programadores-burnout.md` (WL-68, tramo 5)
 - **URL**: https://www.youtube.com/watch?v=oM5JiMtzmts
 - **Canal**: TodoCode (Luisina — profesora de programación, canal educativo Java/Spring)
 - **Publicado**: 2026-11-05 · **Duración**: 25:22 · **Idioma**: es (subtítulos automáticos, transcripción literal)

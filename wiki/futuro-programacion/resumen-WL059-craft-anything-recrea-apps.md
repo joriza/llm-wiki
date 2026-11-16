@@ -1,6 +1,6 @@
 # Resumen: Craft Anything acabó con TODO — copia cualquier app fácil y gratis
 
-- **Fuente original**: `raw/agentes-de-codigo/2026-11-12-craft-anything-acabo-con-todo-copia-cualquier-app-facil-y-gratis.md` (WL-59, tramo 4)
+- **Fuente original**: `raw/futuro-programacion/2026-11-12-craft-anything-acabo-con-todo-copia-cualquier-app-facil-y-gratis.md` (WL-59, tramo 4)
 - **URL**: https://www.youtube.com/watch?v=hclMMYHiMtI
 - **Canal**: Alejavi Rivera (subtítulos **manuales**; con patrocinio de OpenArt — generación de vídeo Seedance 2.5 — integrado en bloque propio)
 - **Publicado**: 2026-11-12 · **Duración**: 25:18 · **Idioma**: es (transcripción literal)

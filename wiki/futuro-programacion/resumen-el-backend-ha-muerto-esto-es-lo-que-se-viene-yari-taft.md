@@ -2,7 +2,7 @@
 
 - **Tipo**: resumen de fuente.
 - **Dominio**: `agentes-de-codigo/`.
-- **Fuente original**: `raw/agentes-de-codigo/2026-09-29-el-backend-ha-muerto-esto-es-lo-que-se-viene-yari-taft.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar) — https://www.youtube.com/watch?v=jXlCBAUvfos — Yari Taft, 2026-09-29 (21:03).
+- **Fuente original**: `raw/futuro-programacion/2026-09-29-el-backend-ha-muerto-esto-es-lo-que-se-viene-yari-taft.md` (video en español; transcripción literal por subtítulos automáticos, sin normalizar) — https://www.youtube.com/watch?v=jXlCBAUvfos — Yari Taft, 2026-09-29 (21:03).
 - **Nota**: fuente 2/18 de la playlist «IA-Nuevas formas de trabajo». El autor forma programadores de Latinoamérica para el mercado de EE. UU. (ve job descriptions a diario). Marco comercial evidente (vende formación; los $8.000/mes de sus alumnos son su propio caso de venta) — señalarlo en la lectura; el contenido de mercado citado con fuentes (Indeed, LinkedIn) es la parte con más valor objetivo. La autopromoción del video final («curso AI Engineer») se excluye.
 
 ## Tesis: «no estás desactualizado, estás desalineado»

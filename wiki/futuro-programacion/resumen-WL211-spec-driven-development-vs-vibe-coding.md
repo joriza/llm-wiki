@@ -1,6 +1,6 @@
 # WL-211 · Spec-Driven Development vs vibe coding: cuál usar y cuándo
 
-- **Fuente original**: `raw/agentes-de-codigo/2026-10-17-spec-driven-development-vs-vibe-coding-cual-usar-y-cuando.md`
+- **Fuente original**: `raw/futuro-programacion/2026-10-17-spec-driven-development-vs-vibe-coding-cual-usar-y-cuando.md`
 - **Video**: [Spec-Driven Development vs vibe coding: cuál usar y cuándo](https://www.youtube.com/watch?v=k83I32V0IFg)
 - **Canal**: Torti Code
 - **Publicado**: 2026-10-17 · **Duración**: 16:25 · **Ingesta**: 2026-11-15 (tramo 29, formato dominio pendiente de consolidación)
