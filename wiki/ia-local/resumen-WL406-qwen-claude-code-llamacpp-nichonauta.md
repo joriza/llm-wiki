@@ -1,6 +1,6 @@
 # WL-406 — Qwen en Claude Code: Programación LOCAL con IA y llama.cpp
 
-- **Fuente**: `raw/wl/tramo-66/2026-09-08-qwen-en-claude-code-programacion-local-con-ia-y-llama-cpp.md` (`DRcknO84EZk`, https://www.youtube.com/watch?v=DRcknO84EZk)
+- **Fuente**: `raw/ia-local/2026-09-08-qwen-en-claude-code-programacion-local-con-ia-y-llama-cpp.md` (`DRcknO84EZk`, https://www.youtube.com/watch?v=DRcknO84EZk)
 - **Canal**: Nichonauta (4.ª+ fuente WL — entidad ya confirmada)
 - **Publicado**: 2026-09-08 · **Duración**: 15:52 · **Idioma**: es (subtítulos automáticos; ASR «Qen/Quen» = Qwen, «cloud code/P agent» = Claude Code — normalizado solo aquí)
 - **Dominio previsto**: ia-uso-practico/ia-local ([[inferencia-local]], [[deepseek-harness]])
@@ -27,3 +27,7 @@ Tutorial de 1.ª mano para conectar un modelo local pequeño a un agente de cód
 - [[inferencia-local]] +1, [[qwen]] +1, [[hardware-para-ia-local]] — cluster ia-local del canal (WL-342/363/295/332).
 - [[deepseek-harness]] — misma receta modelo-local + agente (WL-400/283).
 - Tema de tramo: contrapunto práctico de WL-402 (el arnés potencia al modelo pequeño).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `ia-local/` (primera opción del par ia-uso-practico/ia-local resuelta por precedente T48/T49: banco de pruebas Nichonauta llama.cpp → ia-local). Alimenta [[inferencia-local]], [[qwen]], [[nichonauta]] (+1).

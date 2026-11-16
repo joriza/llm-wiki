@@ -18,3 +18,5 @@ La especulación viral funciona como **captura regulatoria**: la regulación que
 
 - La divulgación factual con atribución (WL-319/338/365, [[evolucion-humana]]) como estándar de comparación.
 - WL-355 (abliteration): el miedo regulatorio también se aplica en sentido inverso (a los modelos abiertos sin censura).
+
+**Actualización 2026-11-16 (consolidación relevo 2 del pedido L35)**: WL-409 ([[resumen-WL409-asimov-alineamiento-infobae]], Infobae «La Lupa», Tomás Trapé — NO factual) añade el ángulo económico de la narrativa: el «marketing de fin del mundo» (cuentas apocalípticas creadas/verificadas hace pocos meses) serviría a las **salidas a bolsa** de empresas de IA que no generan recursos propios (solo el hardware gana; tokens «ultras subsidiados»). El columnista conecta el miedo con la ficción (las tres leyes de Asimov como primera formulación del alineamiento) pero advierte contra antropomorfizar: «simular la vida no es experimentarla». Cruce directo con WL-366 (misma conclusión desde datos distintos) y [[gobernanza-ia]] (par 414/416: la misma semana con hito declarado vs narrativa de amenaza).

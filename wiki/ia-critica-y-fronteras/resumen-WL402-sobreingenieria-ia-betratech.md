@@ -1,6 +1,6 @@
 # WL-402 — ¿Estamos haciendo Sobreingeniería con la IA?
 
-- **Fuente**: `raw/wl/tramo-66/2026-09-06-estamos-haciendo-sobreingenieria-con-la-ia.md` (`T5E3HiHOBnY`, https://www.youtube.com/watch?v=T5E3HiHOBnY)
+- **Fuente**: `raw/ia-critica-y-fronteras/2026-09-06-estamos-haciendo-sobreingenieria-con-la-ia.md` (`T5E3HiHOBnY`, https://www.youtube.com/watch?v=T5E3HiHOBnY)
 - **Canal**: BettaTech (1.ª fuente WL)
 - **Publicado**: 2026-09-06 · **Duración**: 20:05 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: ia-critica-y-fronteras (videoensayo de opinión — NO factual primaria)
@@ -30,3 +30,7 @@ Ensayo sobre si la ingeniería alrededor de los arneses de IA (skills, multi-age
 - Contraste directo con el caso Uncle Bob multi-agente (WL-340, mismo sistema mencionado de pasada) y con WL-354/355 (harness como solución temporal).
 - Cluster productividad-IA: WL-345 (junior/brecha), WL-393 (testimonio adopción), WL-298 (clasificadores vs LLM); concepto candidato junto a routing-por-coste.
 - BettaTech: candidato a entidad de canal (1.ª fuente).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `ia-critica-y-fronteras/`. Alimenta [[experimento-metr]] (5.ª fuente que cita METR) y cruza [[agentes-de-codigo]]. Canal a texto plano por umbral <2: BettaTech.

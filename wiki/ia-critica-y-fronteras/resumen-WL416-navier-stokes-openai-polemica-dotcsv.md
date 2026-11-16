@@ -1,6 +1,6 @@
 # WL-416 — ¡La IA RESUELVE un PROBLEMA DEL MILENIO! — OpenAI y Navier-Stokes
 
-- **Fuente**: `raw/wl/tramo-68/2026-09-09-la-ia-resuelve-un-problema-del-milenio-openai-y-navier-stokes.md` (`VKp60PuOzvI`, https://www.youtube.com/watch?v=VKp60PuOzvI)
+- **Fuente**: `raw/ia-critica-y-fronteras/2026-09-09-la-ia-resuelve-un-problema-del-milenio-openai-y-navier-stokes.md` (`VKp60PuOzvI`, https://www.youtube.com/watch?v=VKp60PuOzvI)
 - **Canal**: Dot CSV Lab (Carlos Santana; 1.ª fuente WL — misma noticia completa que WL-414, que es el clip de 1:50 de este video)
 - **Publicado**: 2026-09-09 · **Duración**: 27:42 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: ia-critica-y-fronteras o general (noticia-análisis frontera IA-matemática + polémica entre laboratorios)
@@ -29,3 +29,7 @@ Análisis extendido del anuncio de OpenAI de haber resuelto el problema de **exi
 - WL-408 (frontera descubrimiento-IA: verificada vs declarada), WL-409 (apocalipsis-narrativa vs hitos reales).
 - Dot CSV: candidato a entidad de canal (1.ª fuente WL, 2 videos del tramo).
 - Incidente Hacking Face mencionado de pasada (acervo ya documentado en WL-409).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado JUNTO con WL-414 (su clip) y con WL-387 en [[gobernanza-ia]] → `ia-critica-y-fronteras/`. Verificación cruzada: «Bacmaster» (WL-387) = **Buckmaster** confirmado; «Luis Martínez Zoroa» = probablemente Javier Gómez-Serrano, por confirmar. [[dot-csv-lab]] +2.

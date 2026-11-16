@@ -37,3 +37,7 @@ Auditoría de facturación (informe + cartas de reclamación por cliente), anál
 ## Cruces en la wiki
 
 Capa agéntica sobre [[ia-local-texto]] (Ollama como runner del cerebro) o sobre un proveedor personalizado [[llama-cpp]]; el cerebro elegido, [[gemma-4]] o [[qwen]]; el espíritu anti-plomería de [[codigo-de-plomeria]]; el stack de [[desarrollo-con-modelos-locales]]; el complemento anunciado por el canal, [[proxy-atomico]].
+
+## Caso IoT/voz (fuente consolidación relevo 2 del pedido L35 — WL-400)
+
+[[resumen-WL400-alexa-esp32-deepseek-harness-programador-novato]] (Programador Novato, `ia-uso-practico/`): el Harness como intérprete de intención de un asistente de voz casero ~10 USD — ESP32+KY-037 graba ≤2 s → Whisper local transcribe → prompt de sistema en el servidor Python («interpreta la orden exacta, devuelve solo JSON válido sin markdown», acciones acotadas, lista vacía si nada aplica) → ejecución en actuadores (servo de válvula, LED, sensor ultrasónico de tinaco). Demo en vivo con fallas corregidas reformulando; audio sin capa de seguridad en LAN — gap señalado (cruce WL-147). Primera fuente del corpus que usa el Harness **fuera del escritorio**, como cerebro de propósito acotado ([[delegacion-cognitiva-ia]] tangencial, [[inferencia-local]]).

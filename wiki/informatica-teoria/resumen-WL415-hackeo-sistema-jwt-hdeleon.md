@@ -1,6 +1,6 @@
 # WL-415 — 🔥 Hackearon mi sistema… pero estaba preparado
 
-- **Fuente**: `raw/wl/tramo-68/2026-09-10-hackearon-mi-sistema-pero-estaba-preparado.md` (`iRNQELLy7F8`, https://www.youtube.com/watch?v=iRNQELLy7F8)
+- **Fuente**: `raw/informatica-teoria/2026-09-10-hackearon-mi-sistema-pero-estaba-preparado.md` (`iRNQELLy7F8`, https://www.youtube.com/watch?v=iRNQELLy7F8)
 - **Canal**: hdeleon.net (Héctor de León; 5.ª fuente WL — WL-399 y anteriores)
 - **Publicado**: 2026-09-10 · **Duración**: 10:07 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: informatica-teoria o general (seguridad aplicada / sesión y tokens; tutorial de 1.ª mano)
@@ -29,3 +29,7 @@ Relato de incidente real + tutorial sobre revocación inmediata de sesiones JWT:
 
 - **[[hdeleon-net]]** +1 (5.ª fuente WL; ver WL-399 y anteriores).
 - Tema seguridad/sesiones: cruces con WL-400 (ESP32+Whisper, audio sin seguridad en LAN — gap opuesto), WL-351 (auditoría Nmap).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `informatica-teoria/` (seguridad aplicada; primera opción registrada, precedente WL-394). [[hdeleon-net]] +1 (6 WL).

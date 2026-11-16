@@ -1,6 +1,6 @@
 # WL-399 — Así compruebo que la IA leyó mis instrucciones
 
-- **Fuente**: `raw/wl/tramo-65/2026-09-11-asi-compruebo-que-la-ia-leyo-mis-instrucciones-dev-ia-ai.md` (`qRCNuOG9bh8`, https://www.youtube.com/watch?v=qRCNuOG9bh8)
+- **Fuente**: `raw/agentes-de-codigo/2026-09-11-asi-compruebo-que-la-ia-leyo-mis-instrucciones-dev-ia-ai.md` (`qRCNuOG9bh8`, https://www.youtube.com/watch?v=qRCNuOG9bh8)
 - **Canal**: hdeleon.net ([[hdeleon-net]], 2.ª fuente WL)
 - **Publicado**: 2026-09-11 · **Duración**: 01:10 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: agentes-de-codigo
@@ -24,3 +24,7 @@ Micro-tip (Short de 1:10) para verificar que el agente realmente carga el archiv
 
 - [[hdeleon-net]] +1.
 - [[agentes-de-codigo]] / [[odd-metodologia]]: verificación de que el harness carga las instrucciones (mismo espíritu que los checks de contexto de skills — WL-390, WL-350 skills-publicables).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `agentes-de-codigo/`. [[hdeleon-net]] +1 (5 WL tras relevo 2: +415). Cruces: [[agentes-de-codigo]], checks de skills (WL-390/350).

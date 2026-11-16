@@ -30,3 +30,6 @@ Entrevista (canal InfoBae, entrevistador «Juan») a **Juan Grabois** sobre IA, 
 - WL-327 «Peter Thiel, el mago oscuro» — contrapunto temático del mismo tramo.
 - WL-121 (neorreacción) — la tesis «libertad y democracia incompatibles» que Grabois cita desde la derecha teórica.
 - Cluster de opinión NO factual WL-119/146/168/193/311.
+
+
+**Nota de consolidación (relevo 2 del pedido L35, 2026-11-16)**: Infobae alcanzó el umbral ≥2 con WL-409 (columna «La Lupa») — ver entidad [[infobae]].

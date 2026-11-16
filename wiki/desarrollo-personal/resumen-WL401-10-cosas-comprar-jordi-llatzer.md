@@ -1,6 +1,6 @@
 # WL-401 — 10 COSAS QUE DEBERÍAS COMPRAR en cuanto TENGAS DINERO
 
-- **Fuente**: `raw/wl/tramo-65/2026-09-06-10-cosas-que-deberias-comprar-en-cuanto-tengas-dinero.md` (`gQy3uu2nlY4`, https://www.youtube.com/watch?v=gQy3uu2nlY4)
+- **Fuente**: `raw/desarrollo-personal/2026-09-06-10-cosas-que-deberias-comprar-en-cuanto-tengas-dinero.md` (`gQy3uu2nlY4`, https://www.youtube.com/watch?v=gQy3uu2nlY4)
 - **Canal**: JORDI LLÀTZER (1.ª fuente WL)
 - **Publicado**: 2026-09-06 · **Duración**: 18:54 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: desarrollo-personal (finanzas personales)
@@ -32,3 +32,7 @@ Listicle argumentado sobre asignación inteligente del dinero cuando empieza a s
 - Cluster desarrollo-personal (WL-276/302/303/304…), tangencial salud-fitness (WL-164/172, ejercicio).
 - Contraste con la economía de la atención/delegación IA: «compra tiempo de los demás» ↔ [[delegacion-cognitiva-ia]] (delegar en IA como caso barato del punto 1).
 - Jordi Llàtzer: candidato a entidad de canal (1.ª fuente).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `desarrollo-personal/` (finanzas personales). Cruce [[delegacion-cognitiva-ia]] (comprar tiempo ↔ delegar en IA). Canal a texto plano por umbral <2: Jordi Llàtzer.

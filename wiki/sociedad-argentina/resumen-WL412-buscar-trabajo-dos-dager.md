@@ -1,6 +1,6 @@
 # WL-412 — ¿Buscar trabajo volvió a ser como antes?
 
-- **Fuente**: `raw/wl/tramo-68/2026-09-10-buscar-trabajo-volvio-a-ser-como-antes.md` (`qEvVAyWo3_s`, https://www.youtube.com/watch?v=qEvVAyWo3_s)
+- **Fuente**: `raw/sociedad-argentina/2026-09-10-buscar-trabajo-volvio-a-ser-como-antes.md` (`qEvVAyWo3_s`, https://www.youtube.com/watch?v=qEvVAyWo3_s)
 - **Canal**: Dos Dager (2.ª fuente WL; WL-146)
 - **Publicado**: 2026-09-10 · **Duración**: 20:22 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: sociedad-argentina (carrera IT) o general — videoensayo de opinión NO factual, tono humorístico rioplatense
@@ -31,3 +31,7 @@ Respuesta de Dos Dager a la pregunta de un espectador («ayúdame a conseguir la
 - Dos Dager: ver WL-146 (mismo canal, tema político — perfil mixto carrera/política a revisar en consolidación).
 - Tema «carrera IT / brecha junior»: [[brecha-junior-ia]], WL-352 (carrera IT sociedad-argentina), WL-221.
 - Nicho hardware viejo + Arduino: tangencial con electromecanica/electronica-practica (WL-403).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `sociedad-argentina/` (carrera IT; primera opción registrada). Alimenta [[brecha-junior-ia]] y [[delegacion-cognitiva-ia]]; Dos Dager a umbral ≥2 → entidad [[dos-dager]] (con WL-146).

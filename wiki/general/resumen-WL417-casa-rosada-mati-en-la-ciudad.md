@@ -1,6 +1,6 @@
 # WL-417 — ¿Dónde está el pedazo que le falta a la Casa Rosada?
 
-- **Fuente**: `raw/wl/tramo-68/2026-09-05-donde-esta-el-pedazo-que-le-falta-a-la-casa-rosada.md` (`SmwLVJQ_XZs`, https://www.youtube.com/watch?v=SmwLVJQ_XZs)
+- **Fuente**: `raw/general/2026-09-05-donde-esta-el-pedazo-que-le-falta-a-la-casa-rosada.md` (`SmwLVJQ_XZs`, https://www.youtube.com/watch?v=SmwLVJQ_XZs)
 - **Canal**: Mati en la Ciudad (1.ª fuente WL)
 - **Publicado**: 2026-09-05 · **Duración**: 19:38 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: general (historia/arquitectura argentina; divulgación documentada)
@@ -27,3 +27,7 @@ Divulgación histórica-arquitectónica sobre por qué la Casa Rosada es asimét
 
 - Tema Buenos Aires/historia urbana: [[secretos-geograficos-argentina]] (geografía argentina), historia-de-la-tecnologia (historia material).
 - Mati en la Ciudad: 1.ª fuente WL — candidato a entidad de canal en consolidación.
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `general/` (historia/arquitectura argentina). Cruce [[secretos-geograficos-argentina]] ( Buenos Aires urbana; túneles de la Casa Rosada en WL-267). Canal a texto plano por umbral <2: Mati en la Ciudad.

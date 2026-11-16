@@ -1,6 +1,6 @@
 # WL-400 — CREA TU ALEXA POR $10 USD CON ESP32 Y DEEPSEEK HARNESS
 
-- **Fuente**: `raw/wl/tramo-65/2026-09-04-crea-tu-alexa-por-10-usd-con-esp32-y-deepseek-harness.md` (`r6S6w5H6FSE`, https://www.youtube.com/watch?v=r6S6w5H6FSE)
+- **Fuente**: `raw/ia-uso-practico/2026-09-04-crea-tu-alexa-por-10-usd-con-esp32-y-deepseek-harness.md` (`r6S6w5H6FSE`, https://www.youtube.com/watch?v=r6S6w5H6FSE)
 - **Canal**: Programador Novato (1.ª fuente WL)
 - **Publicado**: 2026-09-03 · **Duración**: 23:19 · **Idioma**: es (subtítulos automáticos; ASR «Deep Sleep/Deep Speech Harness/Tipsy Hermes/DHS/DSH» = DeepSeek Harness — normalizado solo aquí)
 - **Dominio previsto**: ia-uso-practico (proyecto hardware+IA; tangencia electronica-practica)
@@ -28,3 +28,7 @@ Tutorial de 1.ª mano (demo en vivo) de un asistente de voz casero ~10 USD que u
 - [[deepseek-harness]] +1 (caso de uso IoT/voz; cluster WL-23/24/25/27/88), [[delegacion-cognitiva-ia]] tangencial.
 - Cluster IA local + hardware: [[inferencia-local]] (Whisper local), WL-147 (seguridad de montajes locales — este diseño manda audio en claro por la LAN, sin capa de seguridad — gap señalado).
 - Programador Novato: candidato a entidad de canal (1.ª fuente).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `ia-uso-practico/` (proyecto hardware+IA). Alimenta [[deepseek-harness]] (caso IoT/voz) y [[inferencia-local]] (Whisper). Canal a texto plano por umbral <2: Programador Novato.

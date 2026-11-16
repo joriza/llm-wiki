@@ -1,6 +1,6 @@
 # WL-411 — Probé el «Windows Chino» en una PC Antigua… y Realmente me Sorprendió
 
-- **Fuente**: `raw/wl/tramo-67/2026-09-05-probe-el-windows-chino-en-una-pc-antigua-y-realmente-me-sorprendio.md` (`GiSBK-fK1b8`, https://www.youtube.com/watch?v=GiSBK-fK1b8)
+- **Fuente**: `raw/general/2026-09-05-probe-el-windows-chino-en-una-pc-antigua-y-realmente-me-sorprendio.md` (`GiSBK-fK1b8`, https://www.youtube.com/watch?v=GiSBK-fK1b8)
 - **Canal**: TecnoRed (1.ª fuente WL)
 - **Publicado**: 2026-09-05 · **Duración**: 10:57 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: general o ia-uso-practico (tutorial de sistema operativo — resurrección de PC antiguas)
@@ -27,3 +27,7 @@ Tutorial de instalación y primera impresión de **Deepin 25.2** (distribución 
 - IA local en el SO de escritorio: cruce con [[inferencia-local]] (asistente con modelos locales offline — la misma tesis de WL-283/295/343 bajada al SO).
 - Contraste de adopción por familiaridad de interfaz: la estrategia de Deepin (clonar la metáfora de Windows) vs la de Proxmox (WL-407) que crece por coste/soberanía.
 - TecnoRed candidato a entidad (1.ª fuente).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `general/` (tutorial SO; primera opción registrada). Cruce [[inferencia-local]] (IA local en el SO). Canal a texto plano por umbral <2: TecnoRed.

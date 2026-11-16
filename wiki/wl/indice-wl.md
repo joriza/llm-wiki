@@ -112,57 +112,13 @@ Producto de la consolidación: **entidad nueva** [[pablo-molinari]] (WL-149+382,
 
 **Contradicciones/verificaciones abiertas**: WL-383/387 (hechos 2.ª mano sin enlaces, sin confirmación externa); WL-389 vs WL-396 (PISA 2025 Argentina: −11/−12/−13 pts vs datos OCDE — coherentes entre sí pero sin verificación primaria); «Gemini 3.8 Flash» (WL-395, ASR); renuncia de Huang (WL-317/378 duplicado, sin verificación); nombres Navier-Stokes (WL-387: «Tristan Bacmaster/Levent Alpoge» por ASR — verificación contra WL-416 pendiente del relevo 2). Cifras PISA de WL-396: pendiente de verificación contra OCDE (investigación propia enlazada hanadami.com/pisa).
 
-## Tramo 65 — estación activa (relevo 5 de 12 del pedido L34, 2026-11-16)
+## Tramos 65-68 — CONSOLIDADOS (relevo 2 del pedido L35, 2026-11-16)
 
-5 fuentes útiles (WL-397..WL-401; cabeza WL-397 (`DxNnqLEiYco`, índice 85) verificada contra el cache antes del primer ciclo; 5 descargas `--one` nuevas con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429). Pendientes de consolidación (L12):
+19 pares útiles (WL-397..WL-417; SKIP sin migrar: WL-413 `.no-subs`) migrados con `git mv` a dominios definitivos (resúmenes + raws espejados; «Fuente» actualizada en cada resumen): **general/ 6** (WL-397, 398, 408, 411, 417), **informatica-teoria/ 4** (WL-405, 407, 410, 415), **ia-critica-y-fronteras/ 4** (WL-402, 409, 414, 416), **ia-local/ 1** (WL-406), **agentes-de-codigo/ 1** (WL-399), **ia-uso-practico/ 1** (WL-400), **desarrollo-personal/ 1** (WL-401), **electromecanica/ 1** (WL-403), **electronica-practica/ 1** (WL-404), **sociedad-argentina/ 1** (WL-412). Notas de asignación: WL-404 → electronica-practica (dominio registrado en index); WL-406 → ia-local (par ia-uso-practico/ia-local resuelto por precedente T48/T49 — banco de pruebas Nichonauta llama.cpp); WL-414/416 consolidadas JUNTAS con WL-387 en [[gobernanza-ia]] (encargo del relevo).
 
-| WL | Título | Canal | Dominio previsto |
-|---|---|---|---|
-| 397 | Cómo se CONSTRUYERON las Torres Gemelas y por qué nadie lo repitió | CONSTRUCTUM (1.ª fuente) | general/ |
-| 398 | La IA Ya RECOMIENDA Negocios… ¿Sale el Tuyo? | Javier Amblar — Estrategia · IA · Negocio (1.ª fuente) | general/ |
-| 399 | Así compruebo que la IA leyó mis instrucciones (Short 1:10) | hdeleon.net (+1) | agentes-de-codigo/ |
-| 400 | CREA TU ALEXA POR $10 USD CON ESP32 Y DEEPSEEK HARNESS | Programador Novato (1.ª fuente) | ia-uso-practico/ |
-| 401 | 10 COSAS QUE DEBERÍAS COMPRAR en cuanto TENGAS DINERO | Jordi Llàtzer (1.ª fuente) | desarrollo-personal/ |
+Producto de la consolidación: **entidades nuevas** [[infobae]] (WL-330+409, umbral ≥2) y [[dos-dager]] (WL-146+412, umbral ≥2); **entidades actualizadas** [[archivo-del-futuro]] (11 WL: +405/+410), [[hdeleon-net]] (6 WL: +399/+415), [[dot-csv-lab]] (5 WL: +387/+414/+416), [[nichonauta]] (+406); **conceptos ampliados** [[historia-de-la-tecnologia]] (+397/407/410), [[gobernanza-ia]] (par Navier-Stokes + verificación Buckmaster), [[narrativa-miedo-ia]] (+409), [[experimento-metr]] (+402, 5.ª fuente), [[brecha-junior-ia]] (+412), [[delegacion-cognitiva-ia]] (+398/412), [[agentes-de-codigo]] (+399), [[bases-de-datos]] (+405), [[inferencia-local]] (+400/406/411), [[qwen]] (+406), [[deepseek-harness]] (+400). Canales a texto plano por umbral <2: CONSTRUCTUM, Javier Amblar, Programador Novato, Jordi Llàtzer, BettaTech, Torque Test Channel, Slidebean, Profe Carlos Leal, Math Rocks, TecnoRed, Mati en la Ciudad.
 
-Señales: WL-397 divulgación de 2.ª mano sin citas al pie (60 muertos, 900 M, experimento de Oregón — verificar); WL-398 marco comercial declarado (servicio «Radar» propio + Filmora «son clientes míos»), cifras llamativas sin enlaces (693 %, 39,2 %), tesis de manipulación de reputación vía IA verosímil con casos no verificables, ASR distorsiona nombres de producto; WL-399 short técnico correcto — técnica canaria conocida sin nombre; WL-400 demo honesta con fallas en vivo, audio sin capa de seguridad en LAN (gap), ASR «Deep Sleep/Deep Speech Harness» = DeepSeek Harness; WL-401 ensayo de opinión sin afiliaciones (raro en el género), cifras de 2.ª mano sin fuente. Cruces candidatos: [[historia-de-la-tecnologia]] (WL-397), [[delegacion-cognitiva-ia]] (WL-398/401), [[hdeleon-net]] +1 (WL-399, 4.ª fuente), [[deepseek-harness]] +1 (WL-400; cluster WL-23/24/25/27/88), [[inferencia-local]] (WL-400 Whisper), cluster desarrollo-personal (WL-401 con WL-276/302-304); entidades candidatas: CONSTRUCTUM, Javier Amblar, Programador Novato, Jordi Llàtzer. Cabeza futura: WL-402 (índice 90 del cache, `T5E3HiHOBnY`).
-
-## Tramo 66 (relevo 6 de 12 del pedido L34) — 5/5 útiles
-
-| # | Fuente | Resumen | Una línea |
-|---|--------|---------|-----------|
-| WL-402 | ¿Estamos haciendo Sobreingeniería con la IA? (BettaTech) | wiki/wl/tramo-66/resumen-WL402-sobreingenieria-ia-betratech.md | Ensayo: la ingeniería de arneses (skills/multiagente) compensa menos de lo que se percibe — estudio METR (+20 % percibido vs −19 % observado) y reset de Cherny. |
-| WL-403 | Drive Design Tier List (Torque Test Channel) | wiki/wl/tramo-66/resumen-WL403-drive-design-tier-list-torque.md | Comparativa instrumentada de cabezas de tornillo: Torx/Plus > Robertson > hexágono (≤M5); la proporción punta/rosca manda tanto como el diseño. |
-| WL-404 | Why We All Gave Up on Smart Homes (Slidebean) | wiki/wl/tramo-66/resumen-WL404-smart-homes-slidebean.md | El smart home falló por protocolos incompatibles y negocio no recurrente; salida local: Home Assistant + LLM local «HAL». |
-| WL-405 | La Base de Datos que Está Dentro de Casi Todo: SQLite (Archivo del Futuro) | wiki/wl/tramo-66/resumen-WL405-sqlite-archivo-del-futuro.md | Historia de SQLite: dominio público, compatibilidad hacia atrás, pruebas desproporcionadas, y lectura crítica de sus propias cifras. |
-| WL-406 | Qwen en Claude Code con llama.cpp (Nichonauta) | wiki/wl/tramo-66/resumen-WL406-qwen-claude-code-llamacpp-nichonauta.md | Qwen 3.5 4B local conectado a Claude Code por variables de entorno oficiales — el arnés potencia al modelo pequeño. |
-
-## Tramo 67 (relevo 7 de 12 del pedido L34) — 5/5 útiles
-
-Cabeza WL-407 (`pU_-j8XMqa0`, índice 95 del cache de 04:52) verificada contra el cache antes del primer ciclo; 5 descargas `--one` con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429. Pendientes de consolidación (L12):
-
-| WL | Título | Canal | Dominio previsto |
-|---|--------|-------|------------------|
-| 407 | ¡Sucedió! Broadcom confisca VMware: ¿Nutanix, Proxmox, Hyper-V o XCP-ng? | Profe Carlos Leal (1.ª fuente) | informatica-teoria/ o general/ |
-| 408 | CLAUDE rompe la Hipótesis de RIEMANN | Math Rocks (1.ª fuente) | general/ |
-| 409 | Asimov ya había imaginado el problema que hoy preocupa a la IA | Infobae — La Lupa, Tomás Trapé (1.ª fuente) | ia-critica-y-fronteras/ o general/ |
-| 410 | SyQuest Facturó US$300 Millones… y Quebró 3 Años Después | Archivo del Futuro (+1) | informatica-teoria/ o general/ |
-| 411 | Probé el «Windows Chino» en una PC Antigua | TecnoRed (1.ª fuente) | general/ o ia-uso-practico/ |
-
-Señales: WL-407 cifras de mercado de 2.ª mano sin enlaces (Gartner 70→40 %, Rimini Street 98 %) y editorialización fuerte — verificar; WL-408 lectura real del preprint de Lamzouri enlazado (verificable), preprint sin peer-review completo — señalado; ASR fuerte en ambos (Brocon/Bienware=Broadcom-VMware, Cloud=Claude, Lam Suri=Lamzouri); WL-409 NO factual primaria (columna de opinión, detalles del incidente Hacking Face parcialmente deformados); WL-410 disciplina de fuentes destacable (descarta la leyenda del Zip rechazado); WL-411 demo verificable, patrocinio vipcdkeys.com excluido (grey-market). Cruces candidatos: [[historia-de-la-tecnologia]] (WL-407/410), contraste modelos consumibles Broadcom-vs-SQLite (WL-407/405) y compatibilidad-como-promesa (WL-410/404), frontera descubrimiento-IA/verificación-formal Lean (WL-408 vs overclaiming WL-383/402/409), [[inferencia-local]] (WL-411, IA local en el SO), cluster resurrección de hardware (WL-411 con WL-296); entidades candidatas: Profe Carlos Leal, Math Rocks, TecnoRed; [[archivo-del-futuro]] +1 (WL-410). Cabeza futura: WL-412 (índice 100 del cache, `qEvVAyWo3_s`).
-
-## Tramo 68 (relevo 8 de 12 del pedido L34) — 5/5 útiles + 1 skip
-
-Cabeza WL-412 (`qEvVAyWo3_s`, índice 100 del cache de 04:52) verificada contra el cache antes del primer ciclo; 5 descargas `--one` con puerta 60-90 s; 1 skip (WL-413 .no-subs), 0 meta-fail, sin 429. Pendientes de consolidación (L12):
-
-| WL | Título | Canal | Dominio previsto |
-|---|--------|-------|------------------|
-| 412 | ¿Buscar trabajo volvió a ser como antes? | Dos Dager (2.ª fuente, WL-146) | sociedad-argentina/ (carrera IT) o general/ — videoensayo NO factual |
-| 414 | La IA ha resuelto su primer Problema del Milenio (clip) | Dot CSV Lab (1.ª fuente) | general/ (clip de WL-416 — consolidar juntas) |
-| 415 | 🔥 Hackearon mi sistema… pero estaba preparado | hdeleon.net (5.ª fuente WL) | informatica-teoria/ o general/ |
-| 416 | ¡La IA RESUELVE un PROBLEMA DEL MILENIO! — OpenAI y Navier-Stokes | Dot CSV Lab (1.ª fuente) | ia-critica-y-fronteras/ o general/ |
-| 417 | ¿Dónde está el pedazo que le falta a la Casa Rosada? | Mati en la Ciudad (1.ª fuente) | general/ (historia/arquitectura argentina) |
-
-Señales: WL-412 NO factual (cifras de 2.ª mano sin enlaces, humor rioplatense; autopromoción Discord excluida); WL-414/416 anuncio OpenAI SIN validación externa («declarado haber resuelto»); el bloque de polémica de plagio (Buckmaster/Alpoge-Anthropic, 88 h × 10.000 agentes, arranque 1-sep por rumores) es de 2.ª mano sin enlaces — fechas y nombres ASR (Bookmaster=Buckmaster, «Luis Martínez Zorroa» por confirmar) verificar; WL-415 1.ª mano con mecanismo estándar (JWT+Redis+interceptor 401), cierre comercial excluido; WL-417 divulgación de calidad con fechas/planos y lagunas admitidas. Cruces candidatos: WL-414/416 mismas fuente+noticia; WL-416 vs WL-408 (declarada vs verificada, Lean); WL-409 (hitos reales vs apocalipsis-narrativa); WL-412 con [[brecha-junior-ia]], WL-352/221, WL-146 (mismo canal); WL-415 con [[hdeleon-net]] +1, WL-400/351; WL-417 con [[secretos-geograficos-argentina]]; entidades candidatas: Dot CSV (canal), Mati en la Ciudad (canal). Cabeza futura: WL-418 (índice 106 del cache, `GlRHi8SmmQ0`).
+**Verificaciones**: Navier-Stokes «Bacmaster» (WL-387) = **Buckmaster** confirmado por cruce WL-387/416 (ambas 2.ª mano — adoptado con reserva); «Luis Martínez Zoroa» = probablemente Javier Gómez-Serrano (WL-416), por confirmar. Verificaciones abiertas heredadas: renuncia de Huang (WL-317/378), PISA WL-396 vs OCDE. Sin dominios nuevos (S4).
 
 ## Tramo 69 (relevo 9 de 12 del pedido L34) — 5/5 útiles + 1 skip
 

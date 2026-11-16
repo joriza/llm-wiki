@@ -1,6 +1,6 @@
 # WL-410 — SyQuest Facturó US$300 Millones… y Quebró 3 Años Después
 
-- **Fuente**: `raw/wl/tramo-67/2026-09-10-syquest-facturo-us-300-millones-y-quebro-3-anos-despues.md` (`MM90CugduWc`, https://www.youtube.com/watch?v=MM90CugduWc)
+- **Fuente**: `raw/informatica-teoria/2026-09-10-syquest-facturo-us-300-millones-y-quebro-3-anos-despues.md` (`MM90CugduWc`, https://www.youtube.com/watch?v=MM90CugduWc)
 - **Canal**: ARCHIVO DEL FUTURO
 - **Publicado**: 2026-09-10 · **Duración**: 27:48 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: informatica-teoria o general (historia de la tecnología/hardware)
@@ -29,3 +29,7 @@ Historia empresarial documentada del declive de SyQuest (1995-1998), el estánda
 - [[bases-de-datos]]/informatica-teoria: línea de historia de almacenamiento (WL-313 COBOL, WL-405 SQLite).
 - Modelo consumibles + lock-in: contraste con el «impuesto de virtualización» de Broadcom/VMware (WL-407, mismo tramo) y con el modelo invertido de SQLite (regalar el componente): tres formas opuestas de resolver el negocio del medio.
 - Compatibilidad como promesa central del producto: eco del fracaso por fragmentación de formatos (paralelo a los protocolos del smart home, WL-404).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `informatica-teoria/`. [[archivo-del-futuro]] +1 (11 WL); alimenta [[historia-de-la-tecnologia]].

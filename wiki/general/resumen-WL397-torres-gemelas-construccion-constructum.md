@@ -1,6 +1,6 @@
 # WL-397 — Cómo se CONSTRUYERON las Torres Gemelas y por qué nadie lo repitió
 
-- **Fuente**: `raw/wl/tramo-65/2026-09-11-como-se-construyeron-las-torres-gemelas-y-por-que-nadie-lo-repitio.md` (`DxNnqLEiYco`, https://www.youtube.com/watch?v=DxNnqLEiYco)
+- **Fuente**: `raw/general/2026-09-11-como-se-construyeron-las-torres-gemelas-y-por-que-nadie-lo-repitio.md` (`DxNnqLEiYco`, https://www.youtube.com/watch?v=DxNnqLEiYco)
 - **Canal**: CONSTRUCTUM (1.ª fuente WL)
 - **Publicado**: 2026-09-11 · **Duración**: 28:39 · **Idioma**: es-ES (subtítulos manuales)
 - **Dominio previsto**: general (historia de la ingeniería/tecnología)
@@ -30,3 +30,7 @@ Historia de la **construcción** del World Trade Center (no de su colapso), pres
 - [[historia-de-la-tecnologia]] (cluster grande: WL-117/162/200/313/323/328/356…).
 - Contraste ingeniería-eficiencia vs redundancia con el cluster IA (WL-354/355: harness como margen) — cruce conceptual candidato.
 - CONSTRUCTUM: candidato a entidad de canal (1.ª fuente).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `general/` (historia de la ingeniería). Alimenta [[historia-de-la-tecnologia]]. Canales de 1.ª fuente a texto plano por umbral <2: CONSTRUCTUM.

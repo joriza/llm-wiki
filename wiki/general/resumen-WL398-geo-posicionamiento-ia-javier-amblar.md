@@ -1,6 +1,6 @@
 # WL-398 — La IA Ya RECOMIENDA Negocios… ¿Sale el Tuyo?
 
-- **Fuente**: `raw/wl/tramo-65/2026-09-11-la-ia-ya-recomienda-negocios-sale-el-tuyo.md` (`exCVbTQjIy0`, https://www.youtube.com/watch?v=exCVbTQjIy0)
+- **Fuente**: `raw/general/2026-09-11-la-ia-ya-recomienda-negocios-sale-el-tuyo.md` (`exCVbTQjIy0`, https://www.youtube.com/watch?v=exCVbTQjIy0)
 - **Canal**: Javier Amblar — Estrategia · IA · Negocio (1.ª fuente WL)
 - **Publicado**: 2026-09-11 · **Duración**: 27:13 · **Idioma**: es (subtítulos automáticos; ASR distorsiona nombres: «CHCPT/Yemini/Cloud» = ChatGPT/Gemini/Claude — normalizado solo aquí)
 - **Dominio previsto**: general (negocio/marketing digital — GEO)
@@ -30,3 +30,7 @@ Divulgación comercial sobre visibilidad de personas y negocios dentro de las re
 - [[delegacion-cognitiva-ia]] (la IA como puerta de entrada a todo), [[brecha-junior-ia]] tangencial.
 - Cluster SEO/GEO/negocio digital: primera fuente del tema GEO en la wiki; contraste con demos de producto WL-346/349/350 (aquí el «producto» es un servicio de monitorización).
 - Javier Amblar: candidato a entidad de canal (1.ª fuente).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `general/` (negocio/marketing digital — primera fuente del tema GEO). Cruce [[delegacion-cognitiva-ia]]. Canal a texto plano por umbral <2: Javier Amblar — Estrategia · IA · Negocio.

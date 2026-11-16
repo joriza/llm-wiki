@@ -1,6 +1,6 @@
 # WL-408 — CLAUDE rompe la Hipótesis de RIEMANN
 
-- **Fuente**: `raw/wl/tramo-67/2026-09-03-claude-rompe-la-hipotesis-de-riemann-lo-mas-dificil-en-matematica.md` (`myRrOq1G_fg`, https://www.youtube.com/watch?v=myRrOq1G_fg)
+- **Fuente**: `raw/general/2026-09-03-claude-rompe-la-hipotesis-de-riemann-lo-mas-dificil-en-matematica.md` (`myRrOq1G_fg`, https://www.youtube.com/watch?v=myRrOq1G_fg)
 - **Canal**: Math Rocks (profe John; 1.ª fuente WL)
 - **Publicado**: 2026-09-03 · **Duración**: 21:49 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: general (divulgación matemática) — videoensayo divulgativo con lectura de preprint
@@ -26,3 +26,7 @@ Divulgación del resultado de septiembre 2026: una nueva demostración **incondi
 - Tema IA-matemática: contraste con las críticas a overclaiming de IA (WL-383/402) — aquí el reclamo está bien acotado y el propio video desmonta el titular clickbait.
 - [[ia-critica-y-fronteras]] candidata por la frontera descubrimiento-IA/verificación-humana/verificación-formal (Lean) — patrón también presente en agentes de código.
 - Math Rocks candidato a entidad (1.ª fuente); cruce con divulgación científica del acervo general.
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `general/` (divulgación matemática). Contraste de estándares con WL-414/416 («declarada» vs «verificada» en Lean) en [[gobernanza-ia]]. Canal a texto plano por umbral <2: Math Rocks.

@@ -14,3 +14,5 @@
 **Cuidado al citar**: las variantes numéricas difieren entre fuentes (+19 %/-20 % vs +19 %/+24 %); el dato original es de principios de 2025 y los propios autores advierten que las herramientas mejoraron después. Verificar contra METR antes de elevar cifras.
 
 **Ver también**: [[verificacion-como-valor]], [[ai-engineer-perfil]], [[evaluacion-de-llms]] (dominio ia-uso-practico).
+
+**Fuentes que lo citan (+1, consolidación relevo 2 del pedido L35)**: [[resumen-WL402-sobreingenieria-ia-betratech]] (WL-402, `ia-critica-y-fronteras/`) usa el METR como ancla de su tesis de sobreingeniería: la explosión de skills/multiagente obedecería más al placer de afilar el hacha que a retornos medidos; citado sin enlace (cifras coincidentes con las de esta página: +20 % percibido vs −19 % observado).

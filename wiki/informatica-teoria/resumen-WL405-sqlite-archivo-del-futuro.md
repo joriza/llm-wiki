@@ -1,6 +1,6 @@
 # WL-405 — La Base de Datos que Está Dentro de Casi Todo: SQLite
 
-- **Fuente**: `raw/wl/tramo-66/2026-09-11-la-base-de-datos-que-esta-dentro-de-casi-todo-sqlite.md` (`oUPpYo0thFg`, https://www.youtube.com/watch?v=oUPpYo0thFg)
+- **Fuente**: `raw/informatica-teoria/2026-09-11-la-base-de-datos-que-esta-dentro-de-casi-todo-sqlite.md` (`oUPpYo0thFg`, https://www.youtube.com/watch?v=oUPpYo0thFg)
 - **Canal**: ARCHIVO DEL FUTURO (2.ª+ fuente WL — entidad ya confirmada en consolidaciones previas)
 - **Publicado**: 2026-09-11 · **Duración**: 25:50 · **Idioma**: es (subtítulos automáticos; ASR «Skiwel Lite/SQW Light» = SQLite — normalizado solo aquí)
 - **Dominio previsto**: informatica-teoria (historia/infraestructura de software; cruces [[bases-de-datos]], [[archivo-del-futuro]])
@@ -31,3 +31,7 @@ Divulgación sobre por qué SQLite se volvió infraestructura imposible de reemp
 - [[bases-de-datos]] — cluster BD grande (WL-246/252/285-287/344/356/384).
 - [[historia-de-la-tecnologia]] (WL-328/335/339/356…); contraste modelo de negocio con Phoebus WL-404.
 - Tema «fronteras que no cruza» ↔ disciplina de producto (WL-397: eficiencia extrema vs redundancia).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `informatica-teoria/`. [[archivo-del-futuro]] +1 (11 WL); alimenta [[bases-de-datos]] e [[historia-de-la-tecnologia]].

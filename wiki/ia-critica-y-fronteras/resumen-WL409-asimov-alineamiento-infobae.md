@@ -1,6 +1,6 @@
 # WL-409 — Asimov ya había imaginado el problema que hoy preocupa a la inteligencia artificial
 
-- **Fuente**: `raw/wl/tramo-67/2026-09-10-asimov-ya-habia-imaginado-el-problema-que-hoy-preocupa-a-la-inteligencia-artific.md` (`lb1uyeDVI3w`, https://www.youtube.com/watch?v=lb1uyeDVI3w)
+- **Fuente**: `raw/ia-critica-y-fronteras/2026-09-10-asimov-ya-habia-imaginado-el-problema-que-hoy-preocupa-a-la-inteligencia-artific.md` (`lb1uyeDVI3w`, https://www.youtube.com/watch?v=lb1uyeDVI3w)
 - **Canal**: Infobae — columna «La Lupa» con Tomás Trapé (1.ª fuente WL)
 - **Publicado**: 2026-09-10 · **Duración**: 15:20 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: ia-critica-y-fronteras o general (columna de opinión — NO factual primaria)
@@ -27,3 +27,7 @@ Columna de opinión que conecta el incidente Hacking Face (julio: agentes de IA 
 - [[ia-critica-y-fronteras]] — incidente Hacking Face ya tratado en fuentes previas del acervo (columnas de Infobae anteriores del mismo conductor mencionadas en el video); alineamiento como tema transversal.
 - Contraste con WL-408: dos visiones de la frontera IA — la apocalíptica (riesgo existencial, marketing) y la realización concreta (matemática verificada).
 - Tema «economics de IA»: tokens subsidiados, solo el hardware gana — cruce con routing-por-coste y gobernanza-ia (consolidación).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `ia-critica-y-fronteras/`. Alimenta [[narrativa-miedo-ia]] y [[gobernanza-ia]]; Infobae a umbral ≥2 → entidad [[infobae]] (con WL-330).

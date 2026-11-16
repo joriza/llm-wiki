@@ -22,3 +22,5 @@ El clúster reúne las fuentes que explican **qué pasa entre el modelo y tu GPU
 ## Actualización 2026-11-16 (consolidación T61)
 
 Cluster «IA local vs velocidad» ampliado con WL-333/342/363 (Nichonauta, en `ia-uso-practico/`): la frontera práctica 2026 ya no es «¿corre?» sino **«¿itera a velocidad usable?»** — MoE con expertos en RAM (~40 tok/s) sí, cuantización extrema IQ2_XS (~9 tok/s con contexto de 131 K agotado en 5 h sin respuesta) no. Ver [[qwen]] para el detalle del cluster.
+
+**Actualización 2026-11-16 (consolidación relevo 2 del pedido L35)**: tres cruces nuevos — WL-406 ([[resumen-WL406-qwen-claude-code-llamacpp-nichonauta]], ia-local/: llama-server como backend de agente de código vía endpoint compatible Anthropic/OpenAI), WL-400 ([[resumen-WL400-alexa-esp32-deepseek-harness-programador-novato]], ia-uso-practico/: Whisper local como capa de voz de un proyecto IoT) y WL-411 ([[resumen-WL411-deepin-windows-chino-tecnored]], general/: asistente de IA con modelos locales integrado al SO de escritorio — la tesis de lo local bajada al Deepin 25.2).

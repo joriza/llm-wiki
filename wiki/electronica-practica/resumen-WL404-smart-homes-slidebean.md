@@ -1,6 +1,6 @@
 # WL-404 — Why We All Gave Up on Smart Homes
 
-- **Fuente**: `raw/wl/tramo-66/2026-05-18-why-we-all-gave-up-on-smart-homes.md` (`dVM3fzPavMg`, https://www.youtube.com/watch?v=dVM3fzPavMg)
+- **Fuente**: `raw/electronica-practica/2026-05-18-why-we-all-gave-up-on-smart-homes.md` (`dVM3fzPavMg`, https://www.youtube.com/watch?v=dVM3fzPavMg)
 - **Canal**: Slidebean (Cayo Aimerich; 1.ª fuente WL)
 - **Publicado**: 2026-05-18 · **Duración**: 33:37 · **Idioma**: en (subtítulos automáticos)
 - **Dominio previsto**: electronica-practica o general (hogar/IoT; tangencia self-hosting)
@@ -31,3 +31,7 @@ Videoensayo de por qué el hogar inteligente prometido por Hollywood nunca lleg�
 - [[inferencia-local]] — LLM local «HAL» conecta con DeepSeek Harness (WL-400) y cluster ia-local.
 - Privacidad IoT / datos como modelo de negocio → [[ia-critica-y-fronteras]] (gobernanza).
 - Slidebean: candidato a entidad de canal (1.ª fuente).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `electronica-practica/` (IoT/hogar; primera opción registrada). Cruces: [[inferencia-local]] (HAL local), filosofía local/self-hosting. Canal a texto plano por umbral <2: Slidebean.

@@ -1,6 +1,6 @@
 # WL-403 — Drive Design Tier List Ranked by Testing
 
-- **Fuente**: `raw/wl/tramo-66/2026-09-04-drive-design-tier-list-ranked-by-testing.md` (`WiQiPFEy-b4`, https://www.youtube.com/watch?v=WiQiPFEy-b4)
+- **Fuente**: `raw/electromecanica/2026-09-04-drive-design-tier-list-ranked-by-testing.md` (`WiQiPFEy-b4`, https://www.youtube.com/watch?v=WiQiPFEy-b4)
 - **Canal**: Torque Test Channel (1.ª fuente WL)
 - **Publicado**: 2026-09-04 · **Duración**: 19:16 · **Idioma**: es-US (subtítulos automáticos)
 - **Dominio previsto**: electromecanica (herramientas/sujetadores — pruebas instrumentadas de 1.ª mano)
@@ -31,3 +31,7 @@ Comparativa **instrumentada** de geometrías de cabeza de tornillo (mismo tamañ
 - [[electromecanica]] — cluster FAV/herramientas (WL-273/361), repación y oficios (WL-207).
 - Metodología de prueba instrumentada → contraste con benchmarks IA (WL-333/248): misma lección de «una corrida, sin estadística».
 - Torque Test Channel: candidato a entidad de canal (1.ª fuente).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `electromecanica/` (herramientas/sujetadores, prueba instrumentada). Canal a texto plano por umbral <2: Torque Test Channel.

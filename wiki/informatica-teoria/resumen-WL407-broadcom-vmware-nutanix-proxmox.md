@@ -1,6 +1,6 @@
 # WL-407 — ¡Sucedió! Broadcom confisca VMware: ¿Nutanix, Proxmox, Hyper-V o XCP-ng?
 
-- **Fuente**: `raw/wl/tramo-67/2026-09-10-sucedio-broadcom-confisca-vmware-nutanix-proxmox-hyper-v-o-xcp-ng.md` (`pU_-j8XMqa0`, https://www.youtube.com/watch?v=pU_-j8XMqa0)
+- **Fuente**: `raw/informatica-teoria/2026-09-10-sucedio-broadcom-confisca-vmware-nutanix-proxmox-hyper-v-o-xcp-ng.md` (`pU_-j8XMqa0`, https://www.youtube.com/watch?v=pU_-j8XMqa0)
 - **Canal**: Profe Carlos Leal (1.ª fuente WL)
 - **Publicado**: 2026-09-10 · **Duración**: 25:04 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: informatica-teoria o general (virtualización/infraestructura; tono divulgativo-docente con editorialización)
@@ -31,3 +31,7 @@ Clase-docente sobre la adquisición de VMware por Broadcom y el replanteo del me
 - [[historia-de-la-tecnologia]] — consolidación de un caso de mercado en tiempo real (continuación natural de los tramos de historia informática).
 - Contraste con el modelo de negocio del «impuesto de virtualización» vs el modelo invertido de SQLite (WL-405: regala el componente, cobra soporte) — ambos en informatica-teoria.
 - Cruces temáticos: [[bases-de-datos]] (infra de servidores), cluster infra/DevOps WL-294/334; lock-in y dependencia de proveedor conecta con críticas a sujeción cloud (WL-404, smart home cloud→hub).
+
+## Consolidación (relevo 2 del pedido L35, 2026-11-16)
+
+Consolidado en `informatica-teoria/` (infra/virtualización; primera opción registrada). Alimenta [[historia-de-la-tecnologia]] (caso de mercado en tiempo real). Canal a texto plano por umbral <2: Profe Carlos Leal.
