@@ -29,3 +29,11 @@ Benchmark empírico («dejé de opinar y lo medí») de la misma app — un punt
 ## Dominio destino sugerido (pendiente de consolidación)
 
 - **general** — programación/benchmarks de desarrollo (micro-video técnico de 4 minutos).
+
+
+## Ver también
+
+- [[codigo-espinoza]]
+- [[frameworks-web-python]]
+- [[historia-lenguajes-programacion]]
+- [[micro-saas-con-python]]

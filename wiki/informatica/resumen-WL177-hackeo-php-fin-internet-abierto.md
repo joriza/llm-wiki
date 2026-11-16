@@ -33,3 +33,13 @@ Panorama de una «explosión» simultánea de incidentes de ciberseguridad (fina
 - Fuente secundaria/noticiosa: recopila incidentes de terceros vía tweets y prensa; varias cifras y relatos (origen IA de la vuln PHP, puntajes de modelos «Opus 5.5», «GPT 5.6/6.1 Sol») son afirmaciones del autor sin fuente primaria verificable — señalado.
 - Marco comercial evidente: el video pivota repetidamente a promoción de cursos de Platzi (excluido de la síntesis).
 - Fechas internas coherentes (octubre 2026); tono alarmista declarado por el propio autor («no es para tanto, pero sí es para tanto»).
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[deepseek-harness]]
+- [[desarrollo-con-modelos-locales]]
+- [[ia-local-texto]]
+- [[obsidian-memoria-agentes]]
+- [[seguridad-fuera-del-modelo]]

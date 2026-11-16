@@ -24,3 +24,8 @@ Análisis práctico de **Winux 11 LTSC** (antes Wubuntu): distribución Linux so
 - Análisis de primera mano con pruebas verificables en cámara; advertencias honestas (límites de Wine, costos ocultos de licencias, requisitos de RAM) que contradicen el hype típico de este tipo de distro.
 - Nota de contexto: la identidad/legalidad de Winux/Wubuntu (clonado de marca Windows) no se discute en el vídeo — señalado como laguna del análisis.
 - Sin patrocinios; solo petición de suscripción (excluida).
+
+
+## Ver también
+
+- [[panorama-herramientas-open-source-ia]]

@@ -25,3 +25,9 @@ Relato dramatizado de la historia de la Radeon RX 580 (Polaris): nacida en 2015-
 - Valor como relato de industria/cultura del hardware, no como fuente factual precisa; señalado en resumen.
 - Cruces previstos: WL-114/WL-175 (electrónica retro/hardware), WL-138/WL-144 (industria con cifras de fabricante), WL-204 (electrónica/automotriz), WL-116/WL-166 (historia de la tecnología), WL-213... (no — salud, descartar). Ganancias mineras no verificadas; posible cruce con WL-130 (cripto/seguridad) solo tangencial.
 - Dominio previsto: general (historia de la tecnología/hardware) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]
+- [[seguridad-fuera-del-modelo]]

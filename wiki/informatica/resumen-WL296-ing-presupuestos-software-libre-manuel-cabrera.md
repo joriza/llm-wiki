@@ -26,3 +26,9 @@ Video de divulgación de software libre con demo en vivo; contenido factual limi
 - Mismo canal/autor de la serie de aplicaciones de Marco: Ingetrazo (video previo citado en el raw).
 - Cruces: WL-155 (lenguajes/espera de alternativas open source). Dominio destino: general (software libre/herramientas), consolidación T49 2026-11-16.
 - Afirmaciones de compatibilidad (S10/Delfin/Power Cost) y versiones — 1.ª mano del propio producto, sin contraste independiente.
+
+
+## Ver también
+
+- [[desarrollo-con-modelos-locales]]
+- [[panorama-herramientas-open-source-ia]]

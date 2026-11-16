@@ -26,3 +26,8 @@ Análisis del reto japonés al monopolio de litografía de ASML a través de cua
 - Título clickbait matizado por el propio contenido (veredicto final honesto); señalado.
 - Cruces previstos: WL-138/WL-144 (industria automotriz/hardware con cifras de fabricante sin fuente independiente), WL-122 (TPU vs GPU — hardware IA y geopolítica de suministro), WL-116/WL-117 (historia de la tecnología), WL-210 (episodios 2025-26 sin verificar), WL-151/WL-142 (infraestructura con tesis editorial).
 - Dominio previsto: general (historia de la tecnología/industria de semiconductores) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]
