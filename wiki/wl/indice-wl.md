@@ -95,3 +95,17 @@ SKIP sin migrar (no generaron resumen): WL-204a (`uGQ5aJt7RZU`, `.no-subs`, vide
 | WL-320 | LA SALAMANDRA MÁS BARATA DEL MERCADO — Review completa — ECO 7000 TROMEN (`bKZK65NdNWE`) | FASE | casa-calefaccion (cluster establecido) o general |
 
 Cabeza futura del backlog: **WL-321** (índice 5 del cache fresco de 04:52, 4.584 entradas).
+
+## Tramo 49 — activo (relevo 2, pedido L32, 2026-11-16)
+
+5 fuentes ÚTILES ingestadas (raw en `raw/wl/tramo-49/`, resúmenes en `wiki/wl/tramo-49/`); sin skips, sin meta-fails; salida 45.239.32.215 sin 429 (L13; un BUDGET-REACHED por contador acumulado 266 resuelto 266→400 sin rotar). Dominios destino previstos (S4, sin dominios nuevos; consolidación diferida):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| WL-321 | El MIT quiere cambiar la educación universitaria para siempre por la IA (`iPWiJr1StJA`) | Profe Sang | ia-uso-practico (educación asistida por IA) o general — citas de 2.ª mano, señaladas |
+| WL-322 | CÓMO COLOCAR UN MOSQUITERO CON ADHESIVO — MUY FÁCIL (`Gj99E4ibeUE`) | FASE | casa-calefaccion (cluster establecido) o general — conflicto declarado |
+| WL-323 | Las Laptops de $250 de China Están Destruyendo un Negocio de $200 Mil Millones (`YiSTV99y3Nw`) | Taller Del Mundo | general (industria/economía) o informatica-teoria |
+| WL-324 | Presupuesto 2027: la economía real NO funciona por una planilla de Excel (`_2rPqlw1H_o`) | Canal EY! Streaming | sociedad-argentina — opinión militante, NO factual, señalada |
+| WL-325 | Inteligencia artificial: por qué hace lo que le pedís y sale mal (`7CZLMLnfIiw`) | Gentleman Programming | agentes-de-codigo o ia-uso-practico — patrocinio JetBrains declarado |
+
+Cabeza futura del backlog: **WL-326** (índice 19 del cache fresco de 04:52).
