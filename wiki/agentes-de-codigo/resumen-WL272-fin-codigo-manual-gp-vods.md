@@ -1,6 +1,6 @@
 # WL-272 — «El fin de escribir código manual» (Gentleman Programming Vods)
 
-- **Fuente original**: `raw/wl/tramo-39/2026-10-08-el-fin-de-escribir-codigo-manual.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/agentes-de-codigo/2026-10-08-el-fin-de-escribir-codigo-manual.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=URVBSQCeU_c · Canal Gentleman Programming Vods · Publicado 2026-10-08 · 06:52 · Subtítulos manuales es-419
 - **Tramo**: 39, fuente útil 5/5 (posición 84 de 4686) — **CIERRE DEL TRAMO, contador explícito: sin sexto `--one`**
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico/agentes-de-codigo (consolidar con WL-249/253/271; entidad [[gentleman-programming]] a actualizar)

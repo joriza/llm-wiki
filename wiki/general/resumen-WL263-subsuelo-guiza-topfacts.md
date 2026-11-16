@@ -1,6 +1,6 @@
 # WL-263 — ¡NOS MINTIERON! Nuevo Descubrimiento Impactante en Egipto Que Cambiará la Historia para Siempre
 
-- **Fuente original**: `raw/wl/tramo-38/2026-10-02-nos-mintieron-nuevo-descubrimiento-impactante-en-egipto-que-cambiara-la-historia.md`
+- **Fuente original**: `raw/general/2026-10-02-nos-mintieron-nuevo-descubrimiento-impactante-en-egipto-que-cambiara-la-historia.md`
 - **Video**: [¡NOS MINTIERON! Nuevo Descubrimiento Impactante en Egipto Que Cambiará la Historia para Siempre](https://www.youtube.com/watch?v=DYLNggoAbFU)
 - **Canal**: TopFacts ES · **Publicado**: 2026-10-02 · **Duración**: 40:30 · **Ingesta**: 2026-11-15 (tramo 38)
 

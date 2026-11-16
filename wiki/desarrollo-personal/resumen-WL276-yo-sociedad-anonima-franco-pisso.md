@@ -1,6 +1,6 @@
 # WL-276 — «Hay algo que hacés al hablar y hace que te pierdan el respeto» (Franco Pisso)
 
-- **Fuente original**: `raw/wl/tramo-40/2026-09-24-hay-algo-que-haces-al-hablar-y-hace-que-te-pierdan-el-respeto.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/desarrollo-personal/2026-09-24-hay-algo-que-haces-al-hablar-y-hace-que-te-pierdan-el-respeto.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=pM5VPKYp2Zk · Canal Franco Pisso · Publicado 2026-09-24 · 12:31 · Subtítulos automáticos es
 - **Tramo**: 40, fuente útil 4/5 (posición 88 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): desarrollo-personal (comunicación/seguridad social; [[franco-pisso]]; cluster con WL-131 y los resúmenes previos del autor)

@@ -1,6 +1,6 @@
 # WL-261 — Lo que NUNCA te explicaron de las Transacciones en SQL
 
-- **Fuente original**: `raw/wl/tramo-38/2026-10-10-lo-que-nunca-te-explicaron-de-las-transacciones-en-sql.md`
+- **Fuente original**: `raw/informatica-teoria/2026-10-10-lo-que-nunca-te-explicaron-de-las-transacciones-en-sql.md`
 - **Video**: [Lo que NUNCA te explicaron de las Transacciones en SQL](https://www.youtube.com/watch?v=DBOuemO4q0k)
 - **Canal**: TheDebugDuck · **Publicado**: 2026-10-10 · **Duración**: 16:01 · **Ingesta**: 2026-11-15 (tramo 38)
 

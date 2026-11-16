@@ -1,6 +1,6 @@
 # WL-280 — «Este ERROR con FECHAS está matando tus consultas» (hdeleon.net)
 
-- **Fuente original**: `raw/wl/tramo-41/2026-09-28-este-error-con-fechas-esta-matando-tus-consultas.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/informatica-teoria/2026-09-28-este-error-con-fechas-esta-matando-tus-consultas.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=LoCT067AuLc · Canal hdeleon.net · Publicado 2026-09-28 · 09:24 · Subtítulos automáticos es
 - **Tramo**: 41, fuente útil 2/5 (posición 92 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): informatica-teoria o general (bases de datos; cruces WL-252, [[bases-de-datos]], WL-246)

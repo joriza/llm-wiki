@@ -22,3 +22,4 @@ Las decisiones «de infraestructura» (motor, pool, tipo de ID) son decisiones d
 ## Notas
 
 - FAV-452 pertenece también al clúster [[historia-software-corporativa]] — página puente entre ambos conceptos.
+- Ampliada en T48 (2026-11-16) con dos fuentes del backlog WL: [[resumen-WL261-transacciones-sql-aislamiento-thedebugduck]] (WL-261, informatica-teoria/ — niveles de aislamiento: la regla vive en una fila o en varias; update atómico vs `FOR UPDATE`; right skew) y [[resumen-WL280-error-fechas-consultas-hdeleon]] (WL-280, informatica-teoria/ — índice B-tree en fechas y el «asesino de índices»: funciones DAY/MONTH/YEAR que lo ignoran). Completan la capa de operación y diseño con transacciones y optimización de consultas.

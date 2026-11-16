@@ -1,6 +1,6 @@
 # WL-262 — Hablemos de Hacktivismo 🌐... ¿es Solarpunk? ✴
 
-- **Fuente original**: `raw/wl/tramo-38/2026-09-21-hablemos-de-hacktivismo-es-solarpunk.md`
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-09-21-hablemos-de-hacktivismo-es-solarpunk.md`
 - **Video**: [Hablemos de Hacktivismo 🌐... es Solarpunk? ✴](https://www.youtube.com/watch?v=eoYC4gIw_Zs)
 - **Canal**: Tamychi ⊹ ࣪ ˖ · **Publicado**: 2026-09-21 · **Duración**: 23:11 · **Ingesta**: 2026-11-15 (tramo 38)
 

@@ -32,3 +32,5 @@ ASR con garbeos sistemáticos de nombres propios (Feurzeig, Seelig, TortugArte) 
 - [[resumen-FAV-461-susan-kare-iconos-mac-archivo-del-futuro]] (Susan Kare — el lenguaje visual del Mac).
 
 Las tres alimentan el eje consolidado [[historia-software-corporativa]] y mantienen el método documental del canal (corregir la memoria pública con cronologías y expedientes).
+
+**Actualización 2026-11-16 (consolidación T48 — total 6 fuentes)**: [[resumen-WL279-capacitores-robo-de-la-formula-archivo-del-futuro]] (WL-279, general/) — la plaga de capacitores electrolíticos: separa lo documentado (estudio de Maryland 2004, expediente Dell) del relato del «robo de la fórmula» (fuentes anónimas), el mismo método de separar memoria pública y evidencia del canal; alimenta [[historia-de-la-tecnologia]].

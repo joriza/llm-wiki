@@ -1,6 +1,6 @@
 # WL-270 — «Aprende a crear aplicaciones con DeepSeek y Técnicas con LLMs confrontadas» (NullSafe Architect)
 
-- **Fuente original**: `raw/wl/tramo-39/2025-02-17-aprende-a-crear-aplicaciones-con-deepseek-y-tecnicas-con-llms-confrontadas.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/ia-local/2025-02-17-aprende-a-crear-aplicaciones-con-deepseek-y-tecnicas-con-llms-confrontadas.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=40rc2-QBQ5g · Canal NullSafe Architect · Publicado 2025-02-17 · 29:42 · Subtítulos automáticos es
 - **Tramo**: 39, fuente útil 3/5 (posición 82 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico/ia-local (consolidar con el cluster WL-239/240/253/254 y con [[deepseek-harness]] existente)

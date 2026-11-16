@@ -1,6 +1,6 @@
 # WL-267 — «10 Lugares Secretos de Buenos Aires Que Casi Nadie Conoce» (LATAM ABANDONADA)
 
-- **Fuente original**: `raw/wl/tramo-39/2026-10-05-10-lugares-secretos-de-buenos-aires-que-casi-nadie-conoce.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/sociedad-argentina/2026-10-05-10-lugares-secretos-de-buenos-aires-que-casi-nadie-conoce.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=U5EfsOY_v0A · Canal LATAM ABANDONADA · Publicado 2026-10-05 · 32:38 · Subtítulos automáticos es
 - **Tramo**: 39, fuente útil 1/5 (numeración WL contra el cache: posición 79 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): general/sociedad-argentina (crucen con el cluster geografía/secretos: WL-201, WL-202, [[secretos-geograficos-argentina]])

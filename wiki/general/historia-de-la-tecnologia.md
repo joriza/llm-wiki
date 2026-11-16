@@ -18,4 +18,6 @@ El clúster reúne las fuentes divulgativas que reconstruyen **cómo se apiló l
 
 **Hilo transversal**: en las tres capas el patrón se repite — una idea que los contemporáneos dan por imposible o innecesaria (vidas ultra-transparentes, dibujar sin mesa, arrancar desde un disquete), un puñado de ingenieros que la resuelven con detalle, y la estandarización posterior (DWG, ATX/BIOS, G.652) que convierte la hazaña en infraestructura invisible.
 
+**Capa de crisis del hardware añadida en T48 (2026-11-16)**: **WL-279** ([[resumen-WL279-capacitores-robo-de-la-formula-archivo-del-futuro]], Archivo del Futuro): la plaga de capacitores electrolíticos (~2000) — electrolito sin fosfato confirmado por Maryland (2004), relato del «robo de la fórmula» sostenido solo en fuentes anónimas, caso Dell/Nichicon (11,8 M equipos, 300 M USD) — separa explícitamente lo documentado del relato; lección «la calidad depende del lote, no del país» (cruce WL-122/144). El mismo método documental del canal que WL-256.
+
 **Ver también**: [[resumen-WL129-voyager-1-esta-haciendo-algo-que-deberia-ser-imposible]] (WL-129, la capa espacial del mismo patrón — hardware de los 70 sigue operativo) y `historia-informatica/` (dominio hermano para la historia de la computación con playlist propia).

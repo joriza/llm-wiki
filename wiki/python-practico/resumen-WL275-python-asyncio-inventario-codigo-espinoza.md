@@ -1,6 +1,6 @@
 # WL-275 — «Crea un gestor de inventario profesional en Python asíncrono en 150 líneas» (Código Espinoza)
 
-- **Fuente original**: `raw/wl/tramo-40/2026-10-03-crea-un-gestor-de-inventario-profesional-en-python-asincrono-en-150-lineas.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/python-practico/2026-10-03-crea-un-gestor-de-inventario-profesional-en-python-asincrono-en-150-lineas.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=XC97Ck0c0fs · Canal Código Espinoza - Automatiza tu Vida · Publicado 2026-10-03 · 10:02 · Subtítulos automáticos es
 - **Tramo**: 40, fuente útil 3/5 (posición 87 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): python-practico (asyncio, SQLite WAL, productor-consumidor; entidad candidata Código Espinoza, ya detectada en WL-269)

@@ -1,6 +1,6 @@
 # WL-266 — Esto es lo más grande que ha pasado desde ChatGPT
 
-- **Fuente original**: `raw/wl/tramo-38/2026-10-09-esto-es-lo-mas-grande-que-ha-pasado-desde-chatgpt.md`
+- **Fuente original**: `raw/ia-uso-practico/2026-10-09-esto-es-lo-mas-grande-que-ha-pasado-desde-chatgpt.md`
 - **Video**: [Esto es lo más grande que ha pasado desde ChatGPT](https://www.youtube.com/watch?v=d1fKvNlEj60)
 - **Canal**: Gustavo Entrala · **Publicado**: 2026-10-09 · **Duración**: 16:04 · **Ingesta**: 2026-11-15 (tramo 38)
 

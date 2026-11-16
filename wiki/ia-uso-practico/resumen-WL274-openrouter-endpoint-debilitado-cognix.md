@@ -1,6 +1,6 @@
 # WL-274 — «OpenRouter está usando un modelo de IA DEBILITADO (y podrías estar usando el endpoint equivocado)» (Cognix)
 
-- **Fuente original**: `raw/wl/tramo-40/2026-10-08-openrouter-esta-usando-un-modelo-de-ia-debilitado-y-podrias-estar-usando-el-endp.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/ia-uso-practico/2026-10-08-openrouter-esta-usando-un-modelo-de-ia-debilitado-y-podrias-estar-usando-el-endp.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=AwWRZgbLExU · Canal Cognix · Publicado 2026-10-08 · 16:10 · Subtítulos automáticos es
 - **Tramo**: 40, fuente útil 2/5 (posición 86 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico/ia-local (inferencia vía API, enrutamiento de proveedores; [[cognix]]; cruces inferencia-local y agentes-de-codigo)

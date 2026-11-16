@@ -11,6 +11,8 @@ El clúster reúne las fuentes que explican **qué pasa entre el modelo y tu GPU
 - **La logística del prefill** (WL-253): Strata reordena el pipeline (bloques de 6144 tokens + prefetch DMA + división GPU/PCIe/CPU por capa + MTP) y multiplica ×8 el prefill de llama.cpp — la métrica que importa en agentes; Cognix porta las optimizaciones a un fork de llama.cpp (120→620 tok/s).
 - **La arquitectura como ahorro** (WL-206): Qwen 3.8 Flash Next activa 125 B parámetros pero deja la tabla de embeddings (51 B) en SSD/RAM — «ya no necesitás una GPU enorme»; el umbral baja a 64 GB de RAM de sistema.
 
+**Actualización T48 (2026-11-16)**: [[resumen-WL283-compilar-llama-cpp-comparativa-nichonauta]] (WL-283, Nichonauta) añade la capa **runtime compilado vs precompilado**: compilar llama.cpp con CUDA vía agente Codex da ~5 % de ganancia (~9,5 vs ~9,2 tok/s, RTX 3060) — la velocidad la domina el tamaño del modelo frente a la VRAM, no el binario. Cruce agéntico: la compilación la ejecuta un agente de código con toolchain local sin sudo ([[agentes-de-codigo]]).
+
 **Tesis transversal**: el costo de la inferencia local no lo fija el tamaño del modelo sino la **jerarquía de memoria** (SSD→RAM→VRAM) y el presupuesto de contexto: «comprá los GB de tu contexto, no el nombre de la placa» (WL-209).
 
 **Ver también**: [[llama-cpp]] · [[strata]] · [[hardware-para-ia-local]] · [[desarrollo-con-modelos-locales]] · [[qwen]] · [[cognix]] (canal dominante del clúster).

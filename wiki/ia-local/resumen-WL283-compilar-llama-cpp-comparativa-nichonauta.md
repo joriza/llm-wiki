@@ -1,6 +1,6 @@
 # WL-283 — «Compilar llama.cpp [Comparativa] ⚡ ¿Vale la PENA frente al precompilado?» (Nichonauta)
 
-- **Fuente original**: `raw/wl/tramo-41/2026-09-28-compilar-llama-cpp-comparativa-vale-la-pena-frente-al-precompilado.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/ia-local/2026-09-28-compilar-llama-cpp-comparativa-vale-la-pena-frente-al-precompilado.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=R94y_vpg_UM · Canal Nichonauta · Publicado 2026-09-27 · 08:53 · Subtítulos automáticos es
 - **Tramo**: 41, fuente útil 4/5 (posición 95 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico/ia-local (cruces [[inferencia-local]], WL-239/240/253/254, agentes-de-codigo)

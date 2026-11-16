@@ -1,6 +1,6 @@
 # WL-265 — Lone Survivor | Mark Wahlberg | Película Completa en Español Latino
 
-- **Fuente original**: `raw/wl/tramo-38/2026-08-28-lone-survivor-mark-wahlberg-pelicula-completa-en-espanol-latino-accion.md`
+- **Fuente original**: `raw/general/2026-08-28-lone-survivor-mark-wahlberg-pelicula-completa-en-espanol-latino-accion.md`
 - **Video**: [Lone Survivor | Mark Wahlberg | Película Completa en Español Latino | Acción](https://www.youtube.com/watch?v=vbBVhmhQkBw)
 - **Canal**: Diamond Films Plus · **Publicado**: 2026-08-27 · **Duración**: 121:23 · **Ingesta**: 2026-11-15 (tramo 38)
 

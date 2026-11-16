@@ -26,6 +26,7 @@ Su hilo compartido con el resto del lote es la **infraestructura como respuesta 
 - [[resumen-agente-de-codigo-que-viene-vacio-fazt]] (2026-04-18).
 - [[resumen-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador-fazt]] (2026-08-22).
 - [[resumen-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos-fazt]] (2026-09-09).
+- [[resumen-WL271-ya-nadie-escribe-codigo-fazt]] (WL-271, 2026-10-09 — videoensayo de opinión, NO fuente factual: post viral del vibecoding, DHH, «el trabajo real es entender, revisar y mantener»; patrocinio hosting y especulación sobre costes señalados; consolidación T48 2026-11-16).
 
 ## Véase también
 

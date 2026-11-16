@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (canal).
 - **Dominio**: `informatica` (+1 fuente histórica en `informatica-teoria`).
 - **Creada**: 2026-11-15 (consolidación de la ventana Vs + Docencia T4 — umbral ≥2 verificado por conteo real: 3 fuentes de la ventana + 1 previa).
-- **Fuentes**: [[resumen-FAV-448-monolito-vs-microservicios-thedebugduck]] (monolito vs microservicios) · [[resumen-FAV-465-pool-conexiones-bd-escalar-usuarios-thedebugduck]] (connection pool) · [[resumen-FAV-466-error-uuids-rendimiento-bd-thedebugduck]] (UUID vs serial como PK) · [[resumen-tu-api-no-debe-enviar-archivos-thedebugduck]] (APIs que no deben enviar archivos — informatica-teoria).
+- **Fuentes**: [[resumen-FAV-448-monolito-vs-microservicios-thedebugduck]] (monolito vs microservicios) · [[resumen-FAV-465-pool-conexiones-bd-escalar-usuarios-thedebugduck]] (connection pool) · [[resumen-FAV-466-error-uuids-rendimiento-bd-thedebugduck]] (UUID vs serial como PK) · [[resumen-tu-api-no-debe-enviar-archivos-thedebugduck]] (APIs que no deben enviar archivos — informatica-teoria) · [[resumen-WL261-transacciones-sql-aislamiento-thedebugduck]] (WL-261, transacciones SQL y niveles de aislamiento — 5ª fuente WL, T48 2026-11-16: total 5 fuentes).
 - **Ver también**: [[arquitectura-software]] · [[bases-de-datos]].
 
 ## Identidad

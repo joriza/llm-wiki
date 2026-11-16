@@ -1,6 +1,6 @@
 # WL-273 — «APP del REBT para Electricistas» (Carlos | PCA Electricidad)
 
-- **Fuente original**: `raw/wl/tramo-40/2026-10-04-app-del-rebt-para-electricistas.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/electromecanica/2026-10-04-app-del-rebt-para-electricistas.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=HpE2RWpMxxA · Canal Carlos | PCA Electricidad · Publicado 2026-10-04 · 08:33 · Subtítulos automáticos es
 - **Tramo**: 40, fuente útil 1/5 (posición 85 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): electromecanica (reglamento electrotécnico REBT, instalaciones de baja tensión; cluster con los resúmenes FAV)

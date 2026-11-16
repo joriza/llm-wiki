@@ -23,3 +23,4 @@ Conduce un podcast de entrevistas en vídeo sobre tecnología e inteligencia art
 ## Fuentes procesadas en la wiki de esta entidad
 
 - [[resumen-entrevista-gary-marcus-gustavo-entrala]] (2026-11-07, entrevista a [[gary-marcus]]).
+- [[resumen-WL266-agentes-personales-ia-entrala]] (WL-266, 2026-10-09 — agentes personales de IA: «Mus» de Meta, «Dot» de OpenAI, Instinct; primera mano no verificable, señalado; añade la vertiente análisis de producto/mercado junto a las fuentes entrevista-crítica; **3.ª fuente**, consolidación T48 2026-11-16).

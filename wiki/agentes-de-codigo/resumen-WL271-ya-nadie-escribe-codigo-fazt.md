@@ -1,6 +1,6 @@
 # WL-271 — «Ya nadie escribe código. El trabajo real es otro» (Fazt)
 
-- **Fuente original**: `raw/wl/tramo-39/2026-10-09-ya-nadie-escribe-codigo-el-trabajo-real-es-otro.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/agentes-de-codigo/2026-10-09-ya-nadie-escribe-codigo-el-trabajo-real-es-otro.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=QoTuEx4J-DA · Canal Fazt · Publicado 2026-10-09 · 22:12 · Subtítulos automáticos es
 - **Tramo**: 39, fuente útil 4/5 (posición 83 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico/agentes-de-codigo o ia-critica-y-fronteras (consolidar con el cluster WL-228/241/250/257)

@@ -1,6 +1,6 @@
 # WL-269 — «Todo el machine learning en un solo video: los 6 modelos que usa tu empresa, escritos en Python» (Código Espinoza)
 
-- **Fuente original**: `raw/wl/tramo-39/2026-10-07-todo-el-machine-learning-en-un-solo-video-los-6-modelos-que-usa-tu-empresa-escri.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/general/2026-10-07-todo-el-machine-learning-en-un-solo-video-los-6-modelos-que-usa-tu-empresa-escri.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=n_lfGiKs3qQ · Canal Código Espinoza - IA y Machine Learning · Publicado 2026-10-07 · 16:47 · Subtítulos automáticos es
 - **Tramo**: 39, fuente útil 2/5 (posición 81 de 4686; WL-268 = skip `.no-subs`)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): general o ia-uso-practico (educación técnica ML clásico; cruces con el cluster programación/IA)
@@ -28,6 +28,6 @@ Divulgación técnica (nivel introductorio, orientada a perfiles de negocio) que
 
 ## Cruces sugeridos
 
-- Educación técnica en IA: WL-31 (IA en clase), WL-194 (evaluación con IA), [[ia-uso-practico]].
+- Educación técnica en IA: WL-31 (IA en clase), WL-194 (evaluación con IA), dominio ia-uso-practico (sin página de concepto por umbral).
 - Cluster agentes/código y promesas de IA: WL-228 (context rot), WL-252 (SQL, rigor técnico divulgativo similar).
 - Tema «línea base tonta / evaluación honesta» cruza con WL-249 (benchmarks autocreportados sin metodología) y WL-257 (encuesta SO, 2.ª mano).

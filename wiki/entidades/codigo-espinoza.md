@@ -6,6 +6,8 @@
 - **Fuentes**: [[resumen-FAV-423-pip-vs-uv-codigo-espinoza]] (uv como reemplazo de pip) · [[resumen-FAV-424-apis-gratuitas-python-codigo-espinoza]] (5 APIs gratuitas combinables).
 - **Ver también**: [[automatizacion-con-python]] (dominio python-practico — el mismo registro de automatización personal).
 
+**Actualización 2026-11-16 (consolidación T48, tramos 38-41 — total 4 fuentes)**: dos fuentes nuevas del backlog WL — [[resumen-WL269-machine-learning-6-modelos-codigo-espinoza]] (WL-269, general/: los 6 patrones del ML clásico sobre tablas con trampas de evaluación; datos sintéticos declarados) y [[resumen-WL275-python-asyncio-inventario-codigo-espinoza]] (WL-275, python-practico/: asyncio + SQLite WAL, productor-consumidor con back pressure y candado por producto; «la concurrencia no se prueba solo ejecutando, se razona»). El canal amplía su registro de automatización personal hacia **divulgación técnica con datos declarados** (sintéticos o propios, siempre señalados) y benchmarks de rendimiento.
+
 ## Identidad
 
 **Código Espinoza — Automatiza tu Vida**: canal en español de automatización personal con Python. Formato corto y aplicado (10-12 min): una herramienta por video, demo con números reales y composición de piezas en un sistema completo (API de clima → disparador → bot de Telegram como canal de salida).
