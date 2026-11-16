@@ -165,3 +165,18 @@ Cabeza futura del backlog: **WL-341** (índice 34 del cache fresco de 04:52).
 | WL-345 | La IA está cambiando TODO para los programadores (`3q3WqwxVbXY`) | hdeleon.net | ia-critica-y-fronteras — opinión de 1.ª mano sin datos agregados, señalada; cruces WL-340, WL-325/165, WL-332, [[agentes-de-codigo]] |
 
 Cabeza futura del backlog: **WL-346** (índice 39 del cache fresco de 04:52).
+
+## Tramo 54 — activo (relevo 7, pedido L32, 2026-11-16)
+
+5 fuentes ÚTILES ingestadas (raw en `raw/wl/tramo-54/`, resúmenes en `wiki/wl/tramo-54/`); 1 skip definitivo (WL-347 `CXXnlDUtkkQ`, .no-subs — no cuenta como útil); sin meta-fails; salida 45.239.32.215 sin 429 (L13; presupuesto suave 400 nunca alcanzado). Dominios destino previstos (S4, sin dominios nuevos; consolidación diferida):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| WL-346 | Qué es Jev AI y por qué todo el mundo habla de ello (`D73kVkGCPiY`) | return(GiS); | ia-uso-practico o ia-critica-y-fronteras — demo 1.ª mano del clasificador Jev; cruces WL-332/298, routing-por-coste WL-274/278/298; return(GiS); 1.ª fuente |
+| WL-347 | (SKIP `.no-subs`) Curso Codex App con IA Local (`CXXnlDUtkkQ`) | — | sin subtítulos, no cuenta como útil |
+| WL-348 | Google Sheets como base de datos: el momento exacto en que revienta (`QKq3pffWbVA`) | Código Espinoza — Automatiza tu Vida | general (programación/negocio) o informatica-teoria — límites 2026 señalados; cruces [[bases-de-datos]], WL-344; Código Espinoza 2.ª fuente |
+| WL-349 | Google lanza el PROFESOR con IA definitivo (y es gratis) (`4_fM3Nv8BB0`) | Xavier Mitjana | ia-uso-practico (aprendizaje asistido) o general — nombre de modelo ASR no verificado; patrocinio Manus excluido; cruces WL-299, [[delegacion-cognitiva-ia]] |
+| WL-350 | Probé la IA que hace lo que NotebookLM no hace (3 entregables) (`nS2ScVtcgxk`) | Oskr León \| Negocios Digitales | ia-uso-practico o general (herramientas) — invitación de marca declarada, promoción excluida; cruces [[delegacion-cognitiva-ia]], [[agentes-de-codigo]], [[hardware-agentico-mcp-first]] |
+| WL-351 | ¿Qué hay conectado en tu red? Auditoría práctica con Nmap (`oGZQnexwp44`) | JuncoTIC | general (seguridad/herramientas) o informatica-teoria — cruces WL-343/147, temas infra WL-334; JuncoTIC 1.ª fuente |
+
+Cabeza futura del backlog: **WL-352** (índice 45 del cache fresco de 04:52).
