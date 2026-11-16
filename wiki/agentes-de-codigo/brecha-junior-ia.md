@@ -16,3 +16,5 @@ La IA generativa sustituye primero la «albañilería» del software — código
 ## Contrapunto dentro del corpus
 
 WL-298/257 (encuestas y mercado vía 2.ª mano, señaladas) y [[hiring-post-ia]]: la demanda no desaparece, cambia de forma — la contradicción aparente «no hay juniors» vs «USA contrata 161 % más devs LATAM» se resuelve por nivel: contrata senior/semi-senior, no junior albañil.
+
+**Actualización 2026-11-16 (consolidación relevo 1 del pedido L34)**: [[resumen-WL393-la-ia-me-dejo-sin-trabajo-codineric]] (WL-393, `ia-critica-y-fronteras/` — testimonio NO factual, declarado): el conocimiento técnico que permite cuestionar a la IA (evaluar trade-offs de diseño) no sabe transmitirse a un junior; caso de consultoría con métricas de adopción de agentic engineering (workshops, specs, PRs firmados por modelos) sin medir jamás ROI. También [[resumen-WL396-pisa-fracaso-educacion-platzi]] (WL-396, `general/`) como contrapunto educativo: alfabetismo digital en colapso («la generación del teléfono no mueve datos entre apps») y cierre «educar es motivar a pensar» (gimnasio mental).

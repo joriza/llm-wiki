@@ -1,6 +1,6 @@
 # WL-395 — Google Gemini ya NO es solo un Chatbot: 4 Herramientas
 
-- **Fuente**: `raw/wl/tramo-64/2026-09-05-google-gemini-ya-no-es-solo-un-chatbot-4-herramientas-que-lo-cambian-todo.md` (`ds6DUWA9DDM`, https://www.youtube.com/watch?v=ds6DUWA9DDM)
+- **Fuente**: `raw/ia-uso-practico/2026-09-05-google-gemini-ya-no-es-solo-un-chatbot-4-herramientas-que-lo-cambian-todo.md` (`ds6DUWA9DDM`, https://www.youtube.com/watch?v=ds6DUWA9DDM)
 - **Canal**: Patricia Palazón | IA (1.ª fuente WL)
 - **Publicado**: 2026-09-05 · **Duración**: 15:22 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: ia-uso-practico (demos de producto IA — cluster WL-346/349/350)

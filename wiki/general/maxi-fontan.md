@@ -16,3 +16,5 @@ Canal de **micro-sketches satíricos** (45-60 s) en español rioplatense. Format
 - **Nacionalismo deportivo en clave de chiste**: rivales amistosos ficticios de Argentina (WL-372 — Burkina Faso «potencia», La Matanza «país», referencias a Bob Esponja).
 
 **Registro**: 100 % ficcional/humorístico — nunca fuente factual; se conserva como registro cultural del humor digital argentino (cluster de humor NO factual: WL-115/167/251).
+
+**Actualización 2026-11-16 (consolidación relevo 1 del pedido L34 — total 4 fuentes)**: [[resumen-WL385-ia-persona-real-short]] (WL-385, `general/`) — Short de 27 s: una IA personificada como empleado con mal genio sufre al cliente imposible (currículum reescrito en 4 registros) hasta el colapso «voy a tener que empezar una nueva conversación»; retrata la instrucción vaga e iterativa sin criterio con LLMs. Mantiene el registro 100 % ficcional.

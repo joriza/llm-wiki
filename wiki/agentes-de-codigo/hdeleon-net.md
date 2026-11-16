@@ -17,3 +17,5 @@ Héctor de León (hdeleon.net): desarrollador y divulgador mexicano (C#/.NET), c
 - **Frases propias**: «no aprendas esponja», «construyan para aprender»; materias clave: Ingeniería de Software 1/2/3.
 
 **Nota de consolidación**: el cierre del tramo 57 numeró la fuente WL-374 como «(WL-313, 374)» — WL-313 es una fuente de salud de otro canal (verificado contra el cierre del tramo 29); el conteo correcto del canal en WL es WL-345 + WL-374. Registrado como corrección aritmética.
+
+**Actualización 2026-11-16 (consolidación relevo 1 del pedido L34 — total 4 fuentes WL)**: WL-388 ([[resumen-WL388-codigo-ia-produccion-hdeleon]], `ia-uso-practico/`) — relato de 1.ª mano de llevar un clasificador de documentos generado con IA a producción (JSON schema para reducir indeterminismo, interface como contrato, privacidad con aviso redactado por abogado) y WL-394 ([[resumen-WL394-revocacion-jwt-hdeleon]], `informatica-teoria/`) — short técnico sobre revocación de JWT vía registro de sesión en BD. El canal suma registro **técnico de 1.ª mano** (integración LLM y seguridad web) al videoensayo de opinión.

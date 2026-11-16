@@ -1,6 +1,6 @@
 # WL-388 — Llevé código generado por IA a PRODUCCIÓN
 
-- **Fuente original**: `raw/wl/tramo-63/2026-09-14-lleve-codigo-generado-por-ia-a-produccion.md`
+- **Fuente original**: `raw/ia-uso-practico/2026-09-14-lleve-codigo-generado-por-ia-a-produccion.md`
 - **Canal**: hdeleon.net (Héctor de León)
 - **Publicado**: 2026-09-14 · **Duración**: 11:39
 - **Video**: [`b15ferbj7KI`](https://www.youtube.com/watch?v=b15ferbj7KI) · WL-388 (índice 76 del cache, 4.584 entradas)

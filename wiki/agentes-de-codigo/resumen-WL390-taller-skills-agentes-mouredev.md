@@ -1,6 +1,6 @@
 # WL-390 — Taller de Skills para Agentes de IA desde cero: Claude Code, OpenCode, Codex, Cursor, VS Code
 
-- **Fuente original**: `raw/wl/tramo-63/2026-09-10-taller-de-skills-para-agentes-de-ia-desde-cero-claude-code-opencode-codex-cursor.md`
+- **Fuente original**: `raw/agentes-de-codigo/2026-09-10-taller-de-skills-para-agentes-de-ia-desde-cero-claude-code-opencode-codex-cursor.md`
 - **Canal**: MoureDev by Brais Moure
 - **Publicado**: 2026-09-10 · **Duración**: 96:15
 - **Video**: [`UGh6q6rKVM4`](https://www.youtube.com/watch?v=UGh6q6rKVM4) · WL-390 (índice 78 del cache, 4.584 entradas)

@@ -1,6 +1,6 @@
 # WL-386 — Chile cambia las guías de despacho en noviembre: la app de Python que las PYMEs van a pagar
 
-- **Fuente original**: `raw/wl/tramo-62/2026-09-14-chile-cambia-las-guias-de-despacho-en-noviembre-la-app-de-python-que-las-pymes-v.md`
+- **Fuente original**: `raw/python-practico/2026-09-14-chile-cambia-las-guias-de-despacho-en-noviembre-la-app-de-python-que-las-pymes-v.md`
 - **Canal**: Código Espinoza — Automatiza tu Vida
 - **Publicado**: 2026-09-14 · **Duración**: 05:26
 - **Video**: [`ePp-OJJOQfI`](https://www.youtube.com/watch?v=ePp-OJJOQfI) · WL-386 (índice 74 del cache, 4.584 entradas)

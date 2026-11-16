@@ -11,3 +11,5 @@ Canal de divulgación ecológica (español) centrado en el declive de especies y
 ## Actualización 2026-11-16 (consolidación T61)
 
 El cluster de divulgación naturalista se amplía con [[evolucion-humana]] (WL-319/306 — anatomía como compromiso evolutivo con atribución nombrada) y [[vacío-demografico-costa-oeste-africa]] (WL-365 — geografía causal en tres capas + santuario prístino del Namib). Ambas refuerzan el estándar de comparación: atribución nombrada vs divulgación sin fuentes del mismo lote.
+
+**Actualización 2026-11-16 (consolidación relevo 1 del pedido L34)**: [[resumen-WL392-hipopotamo-no-domesticable-verdesecreto]] (WL-392, `general/`) — curiosidad natural-histórica con marco científico: American Hippo Bill (1910, «lake cow bacon»), el hipopótamo como el animal grande más letal (~500 muertes/año citadas sin fuente — señalado), marco Diamond atribuido correctamente. Canal VerdeSecreto (1.ª fuente, texto plano).

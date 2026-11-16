@@ -1,6 +1,6 @@
 # WL-384 — dBASE: el padre de FoxPro y Clipper que quiso ser dueño de su idioma
 
-- **Fuente original**: `raw/wl/tramo-62/2026-09-14-dbase-el-padre-de-foxpro-y-clipper-que-quiso-ser-dueno-de-su-idioma.md`
+- **Fuente original**: `raw/informatica-teoria/2026-09-14-dbase-el-padre-de-foxpro-y-clipper-que-quiso-ser-dueno-de-su-idioma.md`
 - **Canal**: Archivo del Futuro
 - **Publicado**: 2026-09-14 · **Duración**: 26:12
 - **Video**: [`WKeVHGRUf9s`](https://www.youtube.com/watch?v=WKeVHGRUf9s) · WL-384 (índice 72 del cache, 4.584 entradas)

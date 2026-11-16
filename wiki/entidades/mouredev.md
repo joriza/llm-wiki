@@ -18,3 +18,5 @@
 ## Notas
 
 - ASR degradado recurrente en sus fuentes («excode» ≈ Xcode, «de back» ≈ debug) — normalizado solo en los resúmenes.
+
+**Actualización 2026-11-16 (consolidación relevo 1 del pedido L34 — total 3 fuentes)**: [[resumen-WL390-taller-skills-agentes-mouredev]] (WL-390, `agentes-de-codigo/`) — tutorial-clase de 96 min sobre agent skills con demo simultánea en 5 agentes (Cursor, VS Code/Copilot, Codex, Claude Code, OpenCode): anatomía de `skill.md`, invocación implícita, seguridad de skills de terceros («una skill es texto — revisarla antes de instalar»). Confiesa su preferencia por OpenCode y Claude Code de terminal. El canal suma el registro formato-clase en directo sobre herramientas de agentes.

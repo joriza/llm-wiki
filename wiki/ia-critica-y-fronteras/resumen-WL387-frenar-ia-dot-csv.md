@@ -1,6 +1,6 @@
 # WL-387 — Ahora TODOS quieren FRENAR la IA... ¿Por qué?
 
-- **Fuente original**: `raw/wl/tramo-63/2026-09-14-ahora-todos-quieren-frenar-la-ia-por-que.md`
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-09-14-ahora-todos-quieren-frenar-la-ia-por-que.md`
 - **Canal**: Dot CSV Lab
 - **Publicado**: 2026-09-14 · **Duración**: 32:53
 - **Video**: [`t2DE62wxDxA`](https://www.youtube.com/watch?v=t2DE62wxDxA) · WL-387 (índice 75 del cache, 4.584 entradas)

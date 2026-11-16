@@ -18,3 +18,5 @@ Atribución nombrada (cada hipótesis a su investigador), distinción explícita
 
 - [[naturaleza-insolita]] (divulgación naturalista con observación de 1.ª mano).
 - [[vacío-demografico-costa-oeste-africa]] (geografía humana: el otro extremo — cómo el ambiente modela dónde la gente puede vivir).
+
+**Actualización 2026-11-16 (consolidación relevo 1 del pedido L34)**: [[resumen-WL392-hipopotamo-no-domesticable-verdesecreto]] (WL-392, `general/`) — el «principio Anna Karenina de la domesticación» de Diamond (1997): solo 14 grandes mamíferos domesticados; el hipopótamo falla temperamento/pánico/jerarquía a la vez; tesis: nuestra dieta cárnica es contingencia geográfica del Creciente Fértil, no orden natural. Refuerza el eje domesticación/contingencia del concepto; American Hippo Bill 1910 como episodio histórico.

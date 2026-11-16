@@ -1,6 +1,6 @@
 # WL-382 — 10 cosas que creés saber de CIENCIA y son MENTIRA
 
-- **Fuente original**: `raw/wl/tramo-62/2026-05-03-10-cosas-que-crees-saber-de-ciencia-y-son-mentira.md`
+- **Fuente original**: `raw/general/2026-05-03-10-cosas-que-crees-saber-de-ciencia-y-son-mentira.md`
 - **Canal**: Pablo Molinari
 - **Publicado**: 2026-05-03 · **Duración**: 22:54
 - **Video**: [`MEFTRfVATTk`](https://www.youtube.com/watch?v=MEFTRfVATTk) · WL-382 (índice 70 del cache, 4.584 entradas; raw heredado del relevo 1, procesado desde scratch sin re-descargar)

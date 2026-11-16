@@ -1,6 +1,6 @@
 # WL-394 — ¡Así saqué al Hacker que entró a mi Sistema!
 
-- **Fuente**: `raw/wl/tramo-64/2026-09-12-asi-saque-al-hacker-que-entro-a-mi-sistema.md` (`ATycm0kKRh8`, https://www.youtube.com/watch?v=ATycm0kKRh8)
+- **Fuente**: `raw/informatica-teoria/2026-09-12-asi-saque-al-hacker-que-entro-a-mi-sistema.md` (`ATycm0kKRh8`, https://www.youtube.com/watch?v=ATycm0kKRh8)
 - **Canal**: hdeleon.net ([[hdeleon-net]], 2.ª fuente WL del tramo 63 + esta — ver consolidación)
 - **Publicado**: 2026-09-12 · **Duración**: 01:27 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: informatica-teoria (seguridad web / sesiones)

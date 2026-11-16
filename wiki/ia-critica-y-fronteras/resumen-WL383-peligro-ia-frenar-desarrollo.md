@@ -1,6 +1,6 @@
 # WL-383 — EL PELIGRO DE LA IA: ¿Por qué quieren frenar su desarrollo?
 
-- **Fuente original**: `raw/wl/tramo-62/2026-09-14-el-peligro-de-la-ia-por-que-quieren-frenar-su-desarrollo.md`
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-09-14-el-peligro-de-la-ia-por-que-quieren-frenar-su-desarrollo.md`
 - **Canal**: Date un Vlog (Javier Santaolalla)
 - **Publicado**: 2026-09-14 · **Duración**: 40:05
 - **Video**: [`QGdEfeektgw`](https://www.youtube.com/watch?v=QGdEfeektgw) · WL-383 (índice 71 del cache, 4.584 entradas)

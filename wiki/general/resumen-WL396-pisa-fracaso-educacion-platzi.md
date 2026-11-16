@@ -1,6 +1,6 @@
 # WL-396 — El fracaso de la educación y las pruebas PISA
 
-- **Fuente**: `raw/wl/tramo-64/2026-09-12-el-fracaso-de-la-educacion-y-las-pruebas-pisa.md` (`fNLBeGyTNf8`, https://www.youtube.com/watch?v=fNLBeGyTNf8)
+- **Fuente**: `raw/general/2026-09-12-el-fracaso-de-la-educacion-y-las-pruebas-pisa.md` (`fNLBeGyTNf8`, https://www.youtube.com/watch?v=fNLBeGyTNf8)
 - **Canal**: Platzi (Freddy Vega; 1.ª fuente WL) — investigación propia referenciada en `hanadami.com/pisa`
 - **Publicado**: 2026-09-11 · **Duración**: 23:06 · **Idioma**: es (subtítulos automáticos)
 - **Dominio previsto**: general (educación/política educativa; contraste WL-227 y WL-389)

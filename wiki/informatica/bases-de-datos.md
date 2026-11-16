@@ -28,3 +28,5 @@ Las decisiones «de infraestructura» (motor, pool, tipo de ID) son decisiones d
 ## Actualización 2026-11-16 (consolidación T61)
 
 Cruces nuevos del lote: WL-348 ([[resumen-WL348-google-sheets-base-datos-codigo-espinoza]], general/ — Sheets como BD y su límite real: la carrera de stock sin transacciones; migración a SQLite con la hoja como vista de solo lectura), WL-356/358 ([[archivo-del-futuro]], general/ — historia MySQL/MariaDB y Access) y WL-344 (método medir-primero sobre SQL heredado con N+1 masivo). Cluster SQL+historia consolidado.
+
+**Actualización 2026-11-16 (consolidación relevo 1 del pedido L34)**: tres cruces nuevos — [[resumen-WL384-dbase-ashton-tate-xbase]] (WL-384: historia dBASE/Ashton-Tate/Xbase; el formato DBF abierto como origen de un ecosistema y de su caída por litigios), [[resumen-WL386-guias-despacho-sii-python]] (WL-386: validación de datos antes del sistema certificado — dígito verificador/patente como control de entrada) y [[resumen-WL394-revocacion-jwt-hdeleon]] (WL-394: sesiones como registros — revocación de JWT mediante identificador por sesión en BD).

@@ -100,62 +100,17 @@ Los 60 pares útiles (WL-316..WL-376; SKIP sin migrar: WL-347 `CXXnlDUtkkQ`, .no
 
 Producto de la consolidación T61: conceptos nuevos [[fabricacion-odm-vs-marca]] (general/), [[brecha-junior-ia]] y [[contratacion-nearshore-latam]] (agentes-de-codigo/), [[gobernanza-ia]] (ia-critica-y-fronteras/), [[castigo-altruista-venganza]], [[evolucion-humana]], [[banderas-confundibles]] y [[vacío-demografico-costa-oeste-africa]] (general/), [[kit-usb-portable]] (electronica-practica/); entidades nuevas [[maxi-fontan]] (general/), [[marcos-di-cesare]] (cocina/), [[hdeleon-net]] (agentes-de-codigo/), [[fase]] (casa-calefaccion/), [[danann]] y [[canal-ey]] (general/); entidades actualizadas [[codigo-espinoza]] (8 fuentes), [[archivo-del-futuro]] (8 WL), [[fazt]] (17), [[nichonauta]] (+3), [[holamundo]], [[gentleman-programming]], [[gustavo-entrala]], [[el-presto]], [[torti-code]], [[xavier-mitjana]]; conceptos ampliados [[historia-de-la-tecnologia]], [[routing-por-coste]] (Jev WL-332/346/353), [[agentes-de-codigo]], [[qwen]], [[inferencia-local]], [[delegacion-cognitiva-ia]], [[naturaleza-insolita]], [[obsidian-memoria-agentes]], [[bases-de-datos]]. La estación queda a 0 resúmenes y sin secciones activas. Corrección aritmética: WL-374 del canal hdeleon.net citaba «WL-313» como antecedente — WL-313 es de otro canal (cierre tramo 29); conteo correcto WL-345+374.
 
-## Tramo 61 — estación activa (relevo 1 de 12 del pedido L34, 2026-11-16)
+## Tramo 61 — DUPLICADOS (consolidación relevo 1 del pedido L34, 2026-11-16)
 
-5 fuentes útiles (WL-377..WL-381; cabezas ya descargadas en scratch, procesadas desde scratch sin re-descargar, precedente T9/WL-112; 0 skips, 0 meta-fail, sin 429). Pendientes de consolidación (L12):
+**TODAS las 5 fuentes (WL-377..WL-381) son duplicados exactos** de fuentes ya consolidadas en el pedido L32 (WL-316..320): mismos video IDs y raws idénticos por md5 (WL-377=316 Misterio Celeste, WL-378=317 Entrala/Huang, WL-379=318 El Androide Feliz, WL-380=319 ¿Cómo Así, WL-381=320 FASE). La ventana re-ingestó los videos porque la playlist los re-encabezó; el pre-flight dedupe no los detectó (los raws originales ya habían migrado de `raw/wl/` a los dominios). Los 5 resúmenes llevan banner DUPLICADO y NO se consolidaron: sin migración, sin entidades nuevas (Misterio Celeste y El Androide Feliz quedan a 1 fuente real → texto plano; [[fase]] y [[gustavo-entrala]] sin cambio de conteo). **Pendiente de decisión del orquestador**: eliminar los 5 pares duplicados (resumen + raw espejado en `raw/wl/tramo-61/`) o fusionar anotaciones. Nota: la «renuncia de Huang» de WL-378/317 sigue sin verificación independiente (2.ª mano sin enlaces).
 
-| WL | Título | Canal | Dominio previsto |
-|---|---|---|---|
-| 377 | ¡James Webb acaba de observar Plutón por primera vez! | Misterio Celeste (2.ª fuente) | general/ |
-| 378 | Auge y caída del fundador de NVIDIA (Jensen Huang) | Gustavo Entrala (2.ª fuente WL) | general/ |
-| 379 | 15 SITIOS WEB BRUTALES para favoritos | El Androide Feliz | general/ |
-| 380 | ¿Por qué las mujeres tienen glúteos tan grandes? | ¿Cómo Así (2.ª fuente) | general/ |
-| 381 | Salamandra ECO 7000 Tromen — review | FASE (3.ª fuente) | casa-calefaccion/ |
+## Tramos 62-64 — CONSOLIDADOS (relevo 1 del pedido L34, 2026-11-16)
 
-Cruces candidatos: [[evolucion-humana]] (WL-380 con WL-319/306), cluster semiconductores/industria IA (WL-378 con WL-220/238/122), [[historia-de-la-tecnologia]] (CUDA/Hinton/AlexNet WL-378 con WL-356), cluster herramientas-prácticas (WL-379 con WL-376/351/343), cluster salamandras (WL-381 con [[fase]]), divulgación espacial (WL-377 con WL-129). Cabeza futura: WL-382 (`MEFTRfVATTk`, índice 70 del cache — ya descargada en scratch, herencia del relevo).
+15 pares migrados con `git mv` a dominios definitivos (raws incluidos; «Fuente original» actualizada en cada resumen): **general/ 6** (WL-382, 385, 392, 396 + nota), **ia-critica-y-fronteras/ 3** (WL-383, 387, 393), **ia-uso-practico/ 3** (WL-388, 391, 395), **informatica-teoria/ 2** (WL-384, 394), **python-practico/ 1** (WL-386), **sociedad-argentina/ 1** (WL-389), **agentes-de-codigo/ 1** (WL-390). Par WL-383/387 consolidado junto (misma semana IA narrada por fuentes independientes, primitivos coincidentes sin enlaces — no verificable, señalado) en [[gobernanza-ia]].
 
-## Tramo 62 — estación activa (relevo 2 de 12 del pedido L34, 2026-11-16)
+Producto de la consolidación: **entidad nueva** [[pablo-molinari]] (WL-149+382, umbral ≥2); **entidades actualizadas** [[maxi-fontan]] (4.ª), [[archivo-del-futuro]] (9 WL), [[codigo-espinoza]] (9), [[hdeleon-net]] (4 WL: +388/+394), [[opencode]] (+1), [[mouredev]] (3.ª); **conceptos ampliados** [[gobernanza-ia]], [[evolucion-humana]], [[naturaleza-insolita]], [[brecha-junior-ia]], [[delegacion-cognitiva-ia]], [[routing-por-coste]], [[bases-de-datos]], [[historia-de-la-tecnologia]]. Canales a texto plano por umbral <2: Dot CSV Lab, Date un Vlog, PDB, Joaquín Ruiz, VerdeSecreto, CodinEric, Patricia Palazón, Platzi/Freddy Vega.
 
-5 fuentes útiles (WL-382..WL-386; WL-382 procesada desde scratch sin re-descargar — herencia del relevo 1, precedente T9/WL-112; 4 descargas `--one` nuevas; 0 skips, 0 meta-fail, sin 429). Pendientes de consolidación (L12):
-
-| WL | Título | Canal | Dominio previsto |
-|---|---|---|---|
-| 382 | 10 cosas que creés saber de CIENCIA y son MENTIRA | Pablo Molinari (2.ª fuente WL) | general/ |
-| 383 | EL PELIGRO DE LA IA: ¿Por qué quieren frenar su desarrollo? | Date un Vlog (1.ª fuente) | ia-critica-y-fronteras/ |
-| 384 | dBASE: el padre de FoxPro y Clipper… | Archivo del Futuro (+1) | informatica-teoria/ |
-| 385 | SI LA IA FUESE UNA PERSONA REAL (Short 27 s) | Maxi Fontán (3.ª fuente) | general/ |
-| 386 | Chile cambia las guías de despacho: app de Python PYMEs | Código Espinoza (+1) | python-practico/ |
-
-Señales: WL-383 videoensayo NO factual (hechos 2.ª mano sin enlaces, señalados); WL-385 ficción humorística (señalada); WL-386 pitch comercial (Patreon excluido). Cruces candidatos: [[archivo-del-futuro]] (WL-384, cluster historia-BD con WL-313/356), [[maxi-fontan]] (3.ª fuente, entidad confirmada), [[codigo-espinoza]] (+1), [[bases-de-datos]] (WL-384/386), cluster divulgación-científica (WL-382 con WL-145/198), ia-critica (WL-383 con WL-354/355, [[ia-china]]). Cabeza futura: WL-387 (índice 75 del cache, `t2DE62wxDxA`).
-
-
-## Tramo 63 — estación activa (relevo 3 de 12 del pedido L34, 2026-11-16)
-
-5 fuentes útiles (WL-387..WL-391; 5 descargas `--one` nuevas con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429). Pendientes de consolidación (L12):
-
-| WL | Título | Canal | Dominio previsto |
-|---|---|---|---|
-| 387 | Ahora TODOS quieren FRENAR la IA... ¿Por qué? | Dot CSV Lab (1.ª fuente WL) | ia-critica-y-fronteras/ |
-| 388 | Llevé código generado por IA a PRODUCCIÓN | hdeleon.net (+1) | ia-uso-practico/ |
-| 389 | ARGENTINA NO APRENDE: ¿QUIÉN DESTRUYÓ LA EDUCACIÓN? | PDB (1.ª fuente) | sociedad-argentina/ |
-| 390 | Taller de Skills para Agentes de IA desde cero | MoureDev (1.ª fuente) | agentes-de-codigo/ |
-| 391 | La IA que sustituye a tu jefe, no a ti ¿funciona? | Joaquín Ruiz — IA para Desarrolladores (1.ª fuente) | ia-uso-practico/ |
-
-Señales: WL-387 NO verificable como hechos (misma cadena que WL-383 con primitivos coincidentes entre fuentes independientes — señalado; ASR distorsiona nombres de producto); WL-388 cifras de memoria señaladas; WL-389 sátira política con esqueleto factual denso (cifras de memoria señaladas); WL-390 marco comercial de cursos excluido; WL-391 higiene de fuentes buena (limitaciones de los datos de despidos señaladas por el propio video). Cruces candidatos: WL-387+383 (misma semana narrada por canales independientes — consolidar juntos), routing-por-coste (WL-388 con WL-298/346/353), [[hdeleon-net]] +1, [[opencode]] +1 (WL-390), skills-publicables (WL-390 con WL-350), spec-driven development (WL-391 con WL-211), [[inferencia-local]] (WL-391), cluster PDB/sátira (WL-389 con WL-251), entidades candidatas: Dot CSV Lab, PDB, MoureDev, Joaquín Ruiz. Cabeza futura: WL-392 (índice 80 del cache, `GeVX2kwD98Y`).
-
-## Tramo 64 — estación activa (relevo 4 de 12 del pedido L34, 2026-11-16)
-
-5 fuentes útiles (WL-392..WL-396; cabeza WL-392 (`GeVX2kwD98Y`, índice 80) verificada contra el cache antes del primer ciclo; 5 descargas `--one` nuevas con puerta 60-90 s; 0 skips, 0 meta-fail, sin 429). Pendientes de consolidación (L12):
-
-| WL | Título | Canal | Dominio previsto |
-|---|---|---|---|
-| 392 | ¿Por qué no comemos carne de hipopótamo? | VerdeSecreto (1.ª fuente) | general/ |
-| 393 | La IA me dejó sin trabajo | CodinEric (1.ª fuente) | ia-critica-y-fronteras/ |
-| 394 | ¡Así saqué al Hacker que entró a mi Sistema! (Short 1:27) | hdeleon.net (+1) | informatica-teoria/ |
-| 395 | GOOGLE GEMINI ya NO es solo un Chatbot: 4 Herramientas | Patricia Palazón \| IA (1.ª fuente) | ia-uso-practico/ |
-| 396 | El fracaso de la educación y las pruebas PISA | Platzi/Freddy Vega (1.ª fuente) | general/ |
-
-Señales: WL-392 cifras de 2.ª mano sin fuente (marco Diamond sí atribuido); WL-393 título clickbait (no hubo despido) y marco opinativo declarado — señalados; WL-394 short técnico correcto sin detalle de stack; WL-395 versión «Gemini 3.8 Flash» y disponibilidad sin verificar, captación de leads vía WhatsApp excluida; WL-396 datos de 2.ª mano con investigación propia enlazada (hanadami.com/pisa — verificar vs OCDE), pitch de cursos Platzi excluido, tesis fuerte declarada como opinión. Cruces candidatos: [[naturaleza-insolita]]/[[evolucion-humana]] (WL-392, domesticación Diamond con WL-306/380), [[delegacion-cognitiva-ia]] (WL-393/395/396), [[brecha-junior-ia]] (WL-393), [[hdeleon-net]] +1 (WL-394, 3.ª fuente), cluster demos-producto-IA (WL-395 con WL-346/349/350, [[routing-por-coste]]), educación (WL-396 con WL-227/389), alfabetismo digital (WL-396 con WL-309/390); entidades candidatas: VerdeSecreto, CodinEric, Patricia Palazón, Platzi/Freddy Vega. Cabeza futura: WL-397 (índice 85 del cache, `DxNnqLEiYco`).
+**Contradicciones/verificaciones abiertas**: WL-383/387 (hechos 2.ª mano sin enlaces, sin confirmación externa); WL-389 vs WL-396 (PISA 2025 Argentina: −11/−12/−13 pts vs datos OCDE — coherentes entre sí pero sin verificación primaria); «Gemini 3.8 Flash» (WL-395, ASR); renuncia de Huang (WL-317/378 duplicado, sin verificación); nombres Navier-Stokes (WL-387: «Tristan Bacmaster/Levent Alpoge» por ASR — verificación contra WL-416 pendiente del relevo 2). Cifras PISA de WL-396: pendiente de verificación contra OCDE (investigación propia enlazada hanadami.com/pisa).
 
 ## Tramo 65 — estación activa (relevo 5 de 12 del pedido L34, 2026-11-16)
 
