@@ -113,3 +113,17 @@ Producto de la consolidación T61: conceptos nuevos [[fabricacion-odm-vs-marca]]
 | 381 | Salamandra ECO 7000 Tromen — review | FASE (3.ª fuente) | casa-calefaccion/ |
 
 Cruces candidatos: [[evolucion-humana]] (WL-380 con WL-319/306), cluster semiconductores/industria IA (WL-378 con WL-220/238/122), [[historia-de-la-tecnologia]] (CUDA/Hinton/AlexNet WL-378 con WL-356), cluster herramientas-prácticas (WL-379 con WL-376/351/343), cluster salamandras (WL-381 con [[fase]]), divulgación espacial (WL-377 con WL-129). Cabeza futura: WL-382 (`MEFTRfVATTk`, índice 70 del cache — ya descargada en scratch, herencia del relevo).
+
+## Tramo 62 — estación activa (relevo 2 de 12 del pedido L34, 2026-11-16)
+
+5 fuentes útiles (WL-382..WL-386; WL-382 procesada desde scratch sin re-descargar — herencia del relevo 1, precedente T9/WL-112; 4 descargas `--one` nuevas; 0 skips, 0 meta-fail, sin 429). Pendientes de consolidación (L12):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| 382 | 10 cosas que creés saber de CIENCIA y son MENTIRA | Pablo Molinari (2.ª fuente WL) | general/ |
+| 383 | EL PELIGRO DE LA IA: ¿Por qué quieren frenar su desarrollo? | Date un Vlog (1.ª fuente) | ia-critica-y-fronteras/ |
+| 384 | dBASE: el padre de FoxPro y Clipper… | Archivo del Futuro (+1) | informatica-teoria/ |
+| 385 | SI LA IA FUESE UNA PERSONA REAL (Short 27 s) | Maxi Fontán (3.ª fuente) | general/ |
+| 386 | Chile cambia las guías de despacho: app de Python PYMEs | Código Espinoza (+1) | python-practico/ |
+
+Señales: WL-383 videoensayo NO factual (hechos 2.ª mano sin enlaces, señalados); WL-385 ficción humorística (señalada); WL-386 pitch comercial (Patreon excluido). Cruces candidatos: [[archivo-del-futuro]] (WL-384, cluster historia-BD con WL-313/356), [[maxi-fontan]] (3.ª fuente, entidad confirmada), [[codigo-espinoza]] (+1), [[bases-de-datos]] (WL-384/386), cluster divulgación-científica (WL-382 con WL-145/198), ia-critica (WL-383 con WL-354/355, [[ia-china]]). Cabeza futura: WL-387 (índice 75 del cache, `t2DE62wxDxA`).
