@@ -3,7 +3,7 @@
 - **Fuente original**: `raw/wl/tramo-75/2026-08-25-telefonica-multada-por-no-subtitular.md` ([Vídeo](https://www.youtube.com/watch?v=JIQAkm9TSxc))
 - **Canal**: DotTech-ES
 - **Publicado**: 2026-08-25 · **Duración**: 00:17 (Short)
-- **Dominio provisional**: general (tecnología/accesibilidad — noticia)
+- **Dominio provisional**: estafas-y-consumidor (tecnología/accesibilidad — noticia)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
