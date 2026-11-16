@@ -59,6 +59,20 @@ Ventana de 5 fuentes ÚTILES EXACTAS desde la cabeza (0 skips, 0 meta-fail). Cab
 
 Tema de tramo: MINDVEIL ×3 (desarrollo-personal/seducción — entidad de canal confirmada para la consolidación; WL-303 el más problemático por su marco de género). **Consolidación diferida (L12)**. Salida 45.239.32.215, sin 429; presupuesto suave 400 nunca alcanzado (contador acumulado 246 al lanzar). Última fuente: WL-305 (`pK5aUp6ZCSY`, índice 4 del cache fresco); cabeza futura: WL-306 (índice 5, `r2jqrLGXv5U`).
 
+## Tramo 47 — estación (relevo 40, pedido L30 FINAL, 2026-11-16)
+
+Ventana de 5 fuentes ÚTILES EXACTAS desde la cabeza (0 skips, 0 meta-fail). Cabeza verificada contra el cache fresco de 02:19 (4.599 entradas): WL-311 = `AmmmNOYGOR8` (índice 10), primera pendiente tras el tramo 46. Resúmenes en `wiki/wl/tramo-47/`, raws espejados en `raw/wl/tramo-47/`.
+
+| WL | Id | Título | Canal | Dominio previsto |
+|---|---|---|---|---|
+| 311 | AmmmNOYGOR8 | Escándalo en Avellaneda con la funcionaria Sabrina Soledad González por cámaras vecinales | A24com | general/sociedad-argentina (NO factual) |
+| 312 | D7EMSKQqqLA | Cayó «Galaxy», el primer jefe de banda en Haití desde que llegó Bukele | Operativo 503 | general (geopolítica/seguridad) |
+| 313 | RsQv7VecLoI | ¿Qué hace un lenguaje de 1959 manejando nuestro dinero? | Gilada | informatica-teoria o general (historia software) |
+| 314 | nQW0F1cRoTU | Argentina Esconde Algo Que La Mayoría de los Argentinos No Sabe Que Existe | Latinoamérica con Esteban | general (geografía) |
+| 315 | lZEBCDJAnKo | El poder de la IA: la ingeniería inversa crea un gestor de descargas imbatible | El Bit Informado | general o ia-uso-practico |
+
+Tema de tramo: contraste NO factual (WL-311/312, señalados) vs factual con referencias (WL-313/314) y divulgación tech (WL-315); WL-314 resuelve la discrepancia Campo del Cielo de [[secretos-geograficos-argentina]]; WL-315 cruza [[lenguaje-rust]] y [[agentes-de-codigo]] (API MCP; concepto candidato ingeniería-inversa-asistida-por-IA). **Consolidación de tramos 45-47 diferida (L12)**. Salida 45.239.32.215, sin 429; presupuesto suave 400 nunca alcanzado. Última fuente: WL-315 (`lZEBCDJAnKo`, índice 14); cabeza futura: WL-316 (índice 15, `ahNg1-lLkvQ`). **PEDIDO L30 COMPLETADO: 10/10 útiles, tramos 46-47.**
+
 ## Tramo 46 — estación (relevo 39, pedido L30, 2026-11-16)
 
 Ventana de 5 fuentes ÚTILES EXACTAS desde la cabeza (0 skips, 0 meta-fail). Cabeza verificada contra el cache fresco de 02:19 (4.599 entradas): WL-306 = `r2jqrLGXv5U` (índice 5), primera pendiente tras el tramo 45. Resúmenes en `wiki/wl/tramo-46/`, raws espejados en `raw/wl/tramo-46/`.
