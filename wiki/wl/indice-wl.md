@@ -39,6 +39,20 @@ Skips sin numeración útil: WL-258 `pzFzku0VAUc` [Deleted video] `.no-subs`, WL
 | WL-272 | El fin de escribir código manual (`URVBSQCeU_c`) | Gentleman Programming Vods | agentes-de-codigo | En estación — tema DHH/Omarchy, cruce directo con WL-271 |
 
 Skips sin numeración útil: WL-268 `RXZgXhyGSsg` [Deleted video] `.no-subs`. Cabeza del backlog tras el tramo: WL-273.
+
+## Tramo 40 — en estación (T43, 2026-11-15, relevo 33 — CIERRA EL PEDIDO L25)
+
+5 fuentes útiles ingestadas en `wiki/wl/tramo-40/` (raws en `raw/wl/tramo-40/`), pendientes de consolidación:
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-273 | APP del REBT para Electricistas (`HpE2RWpMxxA`) | Carlos \| PCA Electricidad | electromecanica | En estación — demo promocional de app beta propia; valores del borrador del REBT sin contrastar |
+| WL-274 | OpenRouter está usando un modelo de IA DEBILITADO (`AwWRZgbLExU`) | Cognix | ia-uso-practico/ia-local | En estación — [[cognix]] 6.ª fuente; datos verificables de oct-2026 (Artificial Analysis, Tarún Chitra) |
+| WL-275 | Crea un gestor de inventario profesional en Python asíncrono en 150 líneas (`XC97Ck0c0fs`) | Código Espinoza | python-practico | En estación — Código Espinoza 2.ª fuente (WL-269), entidad candidata; marco Patreon |
+| WL-276 | Hay algo que hacés al hablar y hace que te pierdan el respeto (`pM5VPKYp2Zk`) | Franco Pisso | desarrollo-personal | En estación — [[franco-pisso]] a actualizar; promoción OPI/diagnóstico-lead señalada |
+| WL-278 | VIBECODING con Kimchi - Usando Kimi, GLM, Minimax (`f2laroE5zgE`) | Pelado Nerd | ia-uso-practico/agentes-de-codigo | En estación — video patrocinado (Kimchi) + afiliado; contraste directo con WL-271/272 (tema DHH) |
+
+Skips sin numeración útil: WL-277 `8VLCT9ueymM` [Private video] `.no-subs`. Cabeza del backlog tras el tramo: WL-279.
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
