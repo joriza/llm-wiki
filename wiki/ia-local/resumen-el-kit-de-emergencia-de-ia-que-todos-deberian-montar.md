@@ -32,3 +32,13 @@ Pieza práctica con honestidad inusual para el género: dedicación explícita a
 - Las cifras de benchmarks de terceros (MLX en Mac, Survival LLM) llegan de hilos de GitHub/Reddit sin verificación — «según se cuenta».
 - El autor declara expresamente lo que NO ha medido (precisión con biblioteca al lado; el combo Kiwix+modelo como mejor opción) — no convertir esas opiniones del hilo en hechos.
 - Cruces: [[jorge-marfil]] (canal), [[por-que-ia-local]] y [[hardware-para-ia-local]] (los «por qué» y el hardware de 16-24 GB de este kit), [[desarrollo-con-modelos-locales]] (trabajo diario con modelos locales), [[llama-cpp]] y [[ternary-bonsai]] y [[gemma-4]] (motor y modelos citados), y [[resumen-ias-atacaron-a-anthropic-y-llegaron-demasiado-lejos]] (WL-12 del tramo 1 — el otro polo Anthropic de la ventana: dependencia del proveedor y sus políticas de uso, en clave caída de servicio y negativas de ciberseguridad).
+
+
+## Ver también
+
+- [[desarrollo-con-modelos-locales]]
+- [[generacion-local-de-imagenes]]
+- [[hardware-para-ia-local]]
+- [[ia-local-texto]]
+- [[interfaces-graficas-python]]
+- [[jorge-marfil]]

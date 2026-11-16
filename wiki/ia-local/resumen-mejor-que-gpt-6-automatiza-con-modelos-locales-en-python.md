@@ -56,3 +56,12 @@ En lugar de "genera 1000 ideas de dinosaurios":
 - Concepto: [[ia-local-texto]] (regla: modelo más pequeño que dé el rendimiento; arnés como multiplicador).
 - Concepto: [[multiplexores-agentes]] (paralelismo, slots, continuous batching).
 - Relacionado: fuente 33/58 (programación real con Pi Agent — setup end-to-end similar); fuente 29/58 (DeepSeek Harness + Gemma 4 local — preset optimizado 6× tokens).
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[automatizacion-con-python]]
+- [[deepseek-harness]]
+- [[desarrollo-con-modelos-locales]]
+- [[ia-local-texto]]
+- [[multiplexores-agentes]]

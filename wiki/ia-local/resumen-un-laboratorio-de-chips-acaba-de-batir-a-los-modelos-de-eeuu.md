@@ -32,3 +32,13 @@ Análisis meticuloso y honesto: verifica los tamaños «al byte» contra Hugging
 - Los comentarios de Reddit/YouTube (70 tok/s, 30/1.700 tok/s, 5 tok/s, 0,7 tok/s, predicción de 2×3090) son reportes individuales sin verificación — el vídeo los marca como tales; mantener la marca al citar.
 - El vídeo declara no estar patrocinado y que la estación DGX es prestada; sin promoción de producto detectada.
 - Cruces: [[jorge-marfil]] (canal, otra pieza de su banco de pruebas de hardware), [[hardware-para-ia-local]] (las cuentas de VRAM/ancho de banda de esta fuente son exactamente la aritmética de esa página), [[qwen]] (el Qwen denso de 27B como comparación justa y recomendación por defecto) y [[deepseek-harness]] (el harness donde lo probó como agente de código).
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[arquitectura-software]]
+- [[deepseek-harness]]
+- [[desarrollo-con-modelos-locales]]
+- [[diseno-pcb-herramientas]]
+- [[generacion-local-de-imagenes]]

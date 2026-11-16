@@ -36,3 +36,7 @@ Modelo de **fundación para forecasting** (Google Research) que predice series t
 ## Cruces en la wiki
 
 Entidad: [[cognix]] (5ª fuente del canal; 4ª en ia-uso-practico). Modelo: TimesFM 3.0 (forecasting foundation model, 330M, multi-series, parallel decoding). Licenciamiento: patrón open-core/cloud-tethered. Hardware: [[hardware-para-ia-local]] (1.5 GB → GPU gamer). Canales: [[burbuja-de-la-ia]] (burbuja IA, costes reales, estrategias big tech).
+
+## Ver también
+
+- [[hardware-para-ia-local]]

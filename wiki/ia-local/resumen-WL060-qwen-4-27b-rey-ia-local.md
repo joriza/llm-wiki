@@ -49,3 +49,13 @@ Comparar contra Opus 5.5 «es la pregunta equivocada» — Opus no está en tu e
 - **WL-52 (Gentleman Programming)**: su coordinación con DeepSeek Flash «pensamiento bajo» es exactamente el consejo n.º 3 de este video aplicado — confirmación práctica cruzada.
 - **WL-51 (NapMem)**: la atención dispersa (índice + presupuesto fijo de lectura) es la misma idea arquitectural que NapMem aplica a la memoria del agente — patrón «consultar un índice, no releer todo» en dos dominios.
 - Tema-candidato: **higiene de configuración de IA local** (contexto default, nivel de razonamiento, pesos falsos, licencias) — primera fuente del tema.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[deepseek-harness]]
+- [[desarrollo-con-modelos-locales]]
+- [[generacion-local-de-imagenes]]
+- [[gentleman-programming]]
+- [[hardware-para-ia-local]]
