@@ -131,3 +131,7 @@ Producto de la consolidación: **entidades actualizadas** [[nichonauta]] (+6: WL
 ## PEDIDO L35 COMPLETADO (2026-11-16): consolidación diferida de los tramos 61-72 (59 pares útiles) en 3 relevos
 
 T74 (tramos 61-64; tramo 61 DUPLICADO), T75 (tramos 65-68), T76 (tramos 69-72). 0 dominios nuevos (S4). Estación `wiki/wl/` a 0 resúmenes; overview.md y sintesis.md actualizados al cierre.
+
+## Tramo 73 — INGESTADO (relevo 1 del pedido L36, 2026-11-16)
+
+5 fuentes ÚTILES EXACTAS con contador explícito, sin sexto `--one`: WL-439 (`t3J_3U8mOtM` Bilinkis, general — irreversibilidad, NO factual), WL-440 (`cmJlSpna5a4` Carlos Alarcón - AI, ia-uso-practico — GLM-5.3 Flash, routing-por-coste), WL-441 (`c_OG6HALDKI` Bitácora del Cosmos, general — 10 teorías de la gravedad), WL-442 (`p1i8EeWZUqk` CapacitaPro, electromecanica — excepciones IEC 60364), WL-443 (`iirjR_vFUso` Liberalismo Al Palo, sociedad-argentina — stream opinión NO factual). Resúmenes en `wiki/wl/tramo-73/`, raws espejados en `raw/wl/tramo-73/`. Skips pre-head: 10 entradas [Deleted/Private] `.no-subs` (índices 0-9 del cache fresco). Consolidación diferida (L12). Cabeza futura: WL-444. **Pedido L36: 5/30 útiles**.
