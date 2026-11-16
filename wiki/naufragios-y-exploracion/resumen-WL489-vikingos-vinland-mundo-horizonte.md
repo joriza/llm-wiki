@@ -39,3 +39,9 @@ Divulgación-historieta con base real en las sagas y datos correctos en el esque
 
 - Migrado a dominio definitivo y cableado:
 - - [[historia-de-la-tecnologia]] (saga → mito → vindicación arqueológica, patrón Wegener de [[resumen-WL482-ruptura-pangea-geocronia]]) · [[resumen-WL197-bartholomew-roberts-convoy-42-navios]] (mismo marco dramatizado) · [[secretos-geograficos-argentina]] (exploración/geografía, más lejano)
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]
+- [[secretos-geograficos-argentina]]
