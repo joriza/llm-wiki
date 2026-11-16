@@ -99,3 +99,8 @@ Numeración VISIBLE = la misma que ve el usuario en YouTube:
 - #2673 — Este Generador de Bases de Datos GRATIS es una LOCURA (QVpxZyI1Iqk)
 - #2688 — DILE ADIOS A LAS FUENTES CON TRANSFORMADOR, CONECTA DIRECTO A 120V (yBCiz6xEB-4)
 - #3590 — ESTUFA SUPER ECONOMICA , FUNCIONA CON ACEITE DE COCINA!!! (kRmKtfWPYeg)
+
+## Skips definitivos que siguen en la lista (sin subtítulos/privados — nada pendiente de extraer)
+
+- #27 — Curso Codex App con IA Local 🚀 Programa sin Enviar tus Datos (CXXnlDUtkkQ) [skip-nosubs]
+- #60 — Programando con Ling 3.0 Tiny (zHx63uZOhLs) [skip-nosubs]
