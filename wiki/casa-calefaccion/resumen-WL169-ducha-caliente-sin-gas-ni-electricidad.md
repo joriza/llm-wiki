@@ -1,6 +1,6 @@
 # WL-169 · Cómo Hacer una Ducha Caliente Sin usar Gas ni Electricidad
 
-- **Fuente original**: `raw/general/2026-09-07-como-hacer-una-ducha-caliente-sin-usar-gas-ni-electricidad.md`
+- **Fuente original**: `raw/casa-calefaccion/2026-09-07-como-hacer-una-ducha-caliente-sin-usar-gas-ni-electricidad.md`
 - **Video**: [Jq2ghiA6ncI](https://www.youtube.com/watch?v=Jq2ghiA6ncI) · Canal: El Profeturo · Publicado: 2026-09-06 · Duración: 37:20 (live)
 - **Tipo**: manualidad / bricolaje popular (live con interacción de chat); explicación física del inventor presentada es dudosa.
 
