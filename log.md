@@ -4077,3 +4077,10 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - **`economia-argentina/` mantenida y reforzada** (decisión del usuario; propuesta b de absorción queda archivada).
 - **Huérfanos**: 188 resúmenes cableados con sección «Ver también» hacia conceptos/entidades existentes afines (matching de términos, ≥2 hits), en commits por dominio. Los 3 archivos raíz tocados por error del script fueron revertidos antes del commit.
 - **Pendiente para próxima revisión**: evaluar división de dominios >30 (electronica-practica 126, agentes-de-codigo 113, ia-uso-practico ~100); propuestas (a) unificación `*-argentina` y (c) división sociedad-argentina siguen abiertas.
+
+## [2026-11-16] lint | división de electronica-practica y agentes-de-codigo (aprobada)
+
+- **Dominios nuevos** (decisión del usuario tras propuesta): `microcontroladores/` (38 fuentes: Arduino, ESP32/ESP8266, Pico, FPGA, FreeRTOS, conectividad, IA en MCU), `leds-y-pantallas/` (24: WS2812/tiras/matrices/cubos, OLED/TFT, WLED/FastLED) y `futuro-programacion/` (30: empleo/juniors, fin del código manual, vibe coding, burnout — el debate socio-laboral del oficio).
+- **Migraciones**: 92 archivos con espejo raw, cita «Fuente original» y fila `index.md` actualizados; commits atómicos por destino. `electronica-practica/` 126→64 (fundamentos, componentes, fuentes, audio, PCB, deauther); `agentes-de-codigo/` 113→83 (harnesses, Pi/Gentle, MCP, skills, guías IA local).
+- **Correcciones en el camino**: duplicado FAV-348 eliminado del origen; `raw/futuro-programacion/` faltó en el mkdir inicial y frenó los primeros espejos (resuelto).
+- **Registro en `dominios.md`**: tres filas nuevas + nota de división en las filas de los dominios originales. Páginas de concepto/entidad de canales (fazt, hdeleon-net, gentleman-programming, etc.) quedan en agentes-de-codigo con cruces hacia futuro-programacion.
