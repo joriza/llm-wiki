@@ -1,0 +1,23 @@
+# WL-317 — Auge y caída del fundador de NVIDIA, el hombre más poderoso de la IA
+
+- **Fuente original**: `raw/wl/tramo-48/2026-11-14-auge-y-caida-del-fundador-de-nvidia-el-hombre-mas-poderoso-de-la-ia.md`
+- **Video**: [cHUvtGd6GSg](https://www.youtube.com/watch?v=cHUvtGd6GSg) (47:09, publicado 2026-11-14)
+- **Canal**: Gustavo Entrala (análisis geopolítico-tecnológico, subtítulos manuales es-US)
+- **Recopilado**: 2026-11-16 (transcripción de subtítulos manuales, literal)
+
+## Resumen
+
+Video de reacción rápida (grabado «a toda velocidad») sobre la salida de Jensen Huang de NVIDIA el 12-11-2026, poco después de publicar su libro *El Juego de Tronos de la Inteligencia Artificial* (11-11). Los hechos según el canal: el NYT recibió una filtración de fuentes de seguridad nacional sobre una relación de Huang con una empresaria china («Alicia Huang», socia vía la empresa de videojuegos Megaspeed, compradora de chips NVIDIA por 2.000–7.000 M USD para revender en Singapur/Hong Kong/Malasia, con contrato de alquiler de Alibaba) sospechosa de espionaje; días después se filtró una segunda relación con una vicepresidenta de NVIDIA que le reportaba directamente — la que desencadena la dimisión aceptada por el consejo. Caída de ~23-25 % de la cotización (~1,2 billones USD). Derivadas políticas: tensión con el Departamento de Comercio (permisos de exportación, ministro cuestionado), audiencias previstas en el Congreso, y teorías conspirativas (deep state, China, rivales AMD/Broadcom/Google/Huawei, compra de Hugging Face y defensa de modelos abiertos) — que el autor declina por falta de evidencia.
+
+La mitad central es una biografía compactada: infancia en un orfelinato de Kentucky creyendo que era internado, tenis de mesa, fundación de NVIDIA con dos socios (cheques de 200 USD en un Denny's de San José), casi quiebra con el primer diseño patrocinado por Sega, cultura de tensión y supervivencia (60 reportes directos, reuniones simultáneas de 8-12 h sin one-on-ones, listas de 5 prioridades de cualquier empleado), chips programables y CUDA (2006-2009), el contacto con Geoff Hinton y la recomendación en NeurIPS 2009, AlexNet 2012 como disparadero, pico de la minería de Bitcoin 2017-18, la compra de Mellanox (~2020) que convierte a NVIDIA en vendedora de sistemas cerrados de centro de datos, y el estallido de ChatGPT (2022) como «vendedora de picos y palas» con ~90 % de mercado. Cierre: la sucesión (CFO interina; candidatos especulativos: Ian Buck, Johny Srouji, Lisa Su — prima de Huang), la ausencia de plan de sucesión como fallo de gobernanza, el trust patrimonial con su mujer Lori, y reflexiones morales (Ícaro, Esaú y Jacob).
+
+## Apreciación crítica
+
+- **NO fuente factual verificada**: los hechos de noviembre de 2026 (dimisión, filtraciones, Megaspeed, «Alicia Huang») se presentan vía prensa de 2.ª mano («ha publicado el NYT», «se ha filtrado») sin documentos ni enlaces; nombres y cifras citados de oído. El propio canal advierte que no se sabe si la presunta espía lo es. Tratar todo el bloque de actualidad como rumor/reportación no confirmada.
+- Fuerte autopromoción: el video es también el anuncio del libro del propio autor (capítulo 7 dedicado a NVIDIA), publicado la víspera de la noticia; la biografía histórica (Huang, CUDA, AlexNet, Mellanox) es estándar y verificable, pero sirve de escaparate del libro.
+- Subtítulos manuales con garbiñeos sistemáticos del ASR/transcripción de nombres: «Jensen Juan/Yen Juan» (Huang), «Envidia» (NVIDIA), «Alicia Juan», «Cloud/Chat GPTIN» (Claude/ChatGPT), «Lotnick» (ministro de Comercio), «Hilo Más» (Elon Musk), «Terafap», «I am back/Ian Back» (Ian Buck), «Georgon/Geoffinton» (Geoff Hinton), «Ilia Sutvers» (Ilya Sutskever), «Alex Kenski» (Alex Krizhevsky), «Sam Microsystems» (Sun Microsystems), «Sinnovate», «Cassan Moldman» (Sam Altman), «Colet Cres» (CFO Colette Kress), «team Cook» (Tim Cook), «Lisasu» (Lisa Su), «John Sugi» (Johny Srouji), «Jeff Visos» (Jeff Bezos), «Sijin Ping» (Xi Jinping), «Segue» (Sega), «Haging Face» (Hugging Face), «SIGO» (CEO) — normalizados solo en este resumen.
+
+## Cruces y dominio
+
+- Dominio previsto: **general** (tecnología/industria/geopolítica) o ia-critica-y-fronteras. Cruces: semiconductores e industria IA (WL-220 semiconductores, WL-291 semiconductores/inversión, WL-122 TPU vs GPU, WL-144 motor sin imanes — industria), [[gustavo-entrala]] (4.ª fuente — entidad de canal confirmada, actualizar en consolidación), [[agentes-de-codigo]]/ecosistema IA solo tangencial.
+- Tema de consolidación: el poder personalizado en la industria IA (WL-317 ↔ WL-271/272/300, relatos de fundadores).
