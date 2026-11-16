@@ -24,3 +24,9 @@ Videoensayo de antropología/evolución humana sobre el dimorfismo de la región
 
 - Dominio previsto: **general** (divulgación científica/evolución humana) o salud-fitness. Cruces naturales con [[naturaleza-insolita]] (divulgación naturalista) y el cluster de evolución WL-306. Canal ¿Cómo Así: 1.ª fuente (texto plano por umbral <2).
 - Tema de consolidación: hipótesis y su estado de evidencia en divulgación (WL-319 vs fuentes NO factuales del mismo tramo).
+
+
+## Ver también
+
+- [[evolucion-humana]]
+- [[naturaleza-insolita]]
