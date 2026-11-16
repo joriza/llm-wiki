@@ -25,3 +25,8 @@ Análisis de por qué las mansiones de millones de dólares de Nordelta (Tigre, 
 - Canal «Los Autos»: verificar identidad en consolidación (posible pivote de contenido automotriz a ensayos de riesgo/infraestructura).
 - Cruces previstos: WL-191 (erosión Cancún — mismo patrón costero/asegurador, cruce fuerte), WL-118/WL-142/WL-151/WL-126 (infraestructura y tesis de mantenimiento), WL-163 (análisis social argentino), WL-195 (análisis social testimonial), WL-152 (análisis jurídico argentino).
 - Dominio previsto: general (infraestructura/ciudades) o general/sociedad-argentina — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[papado-y-grieta-argentina]]

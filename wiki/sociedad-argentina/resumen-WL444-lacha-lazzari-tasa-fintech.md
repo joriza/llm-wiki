@@ -29,3 +29,8 @@ Segmento de programa de opinión (Fijap Liberal) donde «Lacha» Lazzari explica
 ## Veredicto de triage
 
 Opinión con explicación conceptual clara; útil para el cluster mora/crédito 2026, no como evidencia. Conservar con la señal NO factual.
+
+
+## Ver también
+
+- [[routing-por-coste]]

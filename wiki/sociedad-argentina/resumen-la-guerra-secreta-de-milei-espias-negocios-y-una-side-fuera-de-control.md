@@ -34,3 +34,9 @@ Entrevista de promoción de libro con una fuente dominante: Lacour reconoce él 
 - Entrevista de promoción de libro: la mayor parte de las reconstrucciones (el operativo nocturno, la conversación de los sillones, la carpeta contra Caputo) provienen de fuentes del propio libro, citadas en condicional — tratar como versiones de una interna, no como hechos establecidos.
 - La relación SIDE–CIA y la lectura de los fondos reservados como «negocios» son tesis editoriales del autor, defendidas con indicios presupuestarios generales, no con documentación específica.
 - Clasificación definitiva: sociedad-argentina/ (mapa de migración aprobado por el orquestador; consolidación tramos 1-2, 2026-11-13) — la candidatura a reubicación registrada en el tramo quedó resuelta. Antes de migrar vivía en `wl/` con clasificación provisional en `general/` (actualidad política argentina, precedida por WL-9 del tramo 1 en el mismo bucket, hoy baja pendiente de triage).
+
+
+## Ver también
+
+- [[cuestion-malvinas]]
+- [[seguridad-fuera-del-modelo]]

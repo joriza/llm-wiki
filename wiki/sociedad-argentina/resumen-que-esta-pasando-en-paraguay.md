@@ -29,3 +29,8 @@ Relato first-person (vacaciones en Paraguay 2025, newsletter propia) con tono co
 - La conexión Peña–Ueno y las acusaciones al entramado Vázquez son afirmaciones del vídeo apoyadas en ABC Color; en un tema judicial en curso, no tratar como sentencia.
 - El «Peñasol» citado como negocio clásico de Asunción queda sin identificar (posible garbeo del ASR).
 - Clasificación definitiva: sociedad-argentina/ (mapa de migración aprobado por el orquestador; consolidación tramos 1-2, 2026-11-13; alcance «Argentina y la región» — banca/corrupción regional). La nota del tramo («sin dominio propio para banca/corrupción paraguaya») quedó resuelta por el mapa aprobado.
+
+
+## Ver también
+
+- [[ia-local-texto]]

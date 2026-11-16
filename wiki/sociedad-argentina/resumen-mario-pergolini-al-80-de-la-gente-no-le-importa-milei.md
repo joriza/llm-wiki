@@ -37,3 +37,11 @@ La televisión tal como se conocía (rating, familia frente al aparato, grito pu
 - La anécdota del «Chenique» inexistente es autorrevelada por el propio programa (transparencia interna); no generalizarla a otros programas sin verificar.
 - Garbiñeos del ASR normalizados solo aquí: «PT» (ChatGPT), «Arari» (Yuval Noah Harari), «Bortery/Vorterix/Vorteris» (Vorterix), «Ivope/I bope/gope» (Ibope, medición de audiencia), «Mirio/Mi ley/my ley» (Milei — el ASR alternó grafías), «Shishin Pin» (Xi Jinping), «Neo» (robot doméstico de 1X), «ATO» (producto propio), «Chenique» (personaje del programa), «Feman» (garbiñeo no identificado — probablemente una persona citada en broma), «esquiso» (empresa propia mencionada sin grafía confirmada), «Luquitas Rodríguez» y «Julio Leiva» (creadores citados), «Rogan Bob» (Joe Rogan).
 - El video es posterior a los hechos que menciona (Bad Bunny número 1 global 2025, discos de 2024-2025, «robots ya disponibles»); la fecha de publicación (2026-10-06) es del metadato del raw — confirmada por el extractor.
+
+
+## Ver también
+
+- [[atencion-secuestrada]]
+- [[captura-de-medios-estatales]]
+- [[homogeneizacion-cultural]]
+- [[realidad-como-espectaculo]]

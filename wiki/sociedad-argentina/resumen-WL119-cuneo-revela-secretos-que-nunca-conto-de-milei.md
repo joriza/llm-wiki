@@ -27,3 +27,8 @@ Entrevista de Viviana Canosa a Santiago Cúneo, viejo conocido de Javier Milei (
 - ASR ruidoso y nombres erróneos («Serimedo»→Sarim? — probablemente refiere a Serim/litio; «Landis/Landi» → Luis «Ladrid» Caputo? — en realidad parece referir a «los ladrones de Landi»... irrelevante para el triage; nombres normalizados solo cuando el referente es inequívoco: Cúneo, Canosa, Adorni).
 - Dominio destino previsto: general/sociedad-argentina (opinión militante; S4 sin dominios nuevos) — consolidación diferida (L12). Cruce natural con WL-112 y WL-115 (PDB, mismo ciclo noticioso: fuga de Bolsonaro) y WL-107 en la consolidación.
 - Sin patrocinio comercial.
+
+
+## Ver también
+
+- [[secretos-geograficos-argentina]]

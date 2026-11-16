@@ -31,3 +31,8 @@ Listado countdown de «27 secretos geográficos de Mendoza, del menos sorprenden
 - **Dominio destino previsto: `sociedad-argentina/`** (geografía, agua e historia argentina; continúa la línea territorial de WL-18 y WL-29).
 - Tema candidato a página de concepto en consolidación: **agua y conflictos hídricos en Argentina** (Guanacache, Atuel/La Pampa, caudal ambiental 2020) — primera fuente de la wiki en el tema.
 - [[visualpolitik]]-family: mismo nicho de divulgación argentina en YouTube que el canal Mateo Ríos comparte temáticamente con la divulgación geopolítica del clúster — evaluar página de entidad de canal en consolidación si reaparece.
+
+
+## Ver también
+
+- [[secretos-geograficos-argentina]]

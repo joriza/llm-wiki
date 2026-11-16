@@ -33,3 +33,8 @@ Nota útil de prevención con caso real y desglose mecánico de la estafa en 3 f
 ## Consolidación (T90)
 
 Dominio definitivo: `sociedad-argentina/` (actualidad social/consumidor Argentina; sugerencia «general» del resumen superada por el alcance del dominio: caso real de estafa en Argentina con víctima local). Canal Telefe Noticias: 1.ª fuente, texto plano (umbral <2; medio con muchas fuentes potenciales). Cruces en texto: WL-235 (seguridad consumidor), WL-130 (cripto/seguridad). Montos declarativos 2.ª mano — señalados.
+
+
+## Ver también
+
+- [[ia-local-texto]]

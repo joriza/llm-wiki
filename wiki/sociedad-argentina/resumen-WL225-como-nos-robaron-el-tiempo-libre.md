@@ -27,3 +27,8 @@ Ensayo sobre el tiempo libre como lujo histórico y la paradoja de la productivi
 - La simulación matemática es ilustrativa con supuestos declarados por el propio autor (jornada de 12 h como «escenario de carga alta», no promedio); no tomar los números como estadística.
 - Cruces previstos: WL-199 (mismo canal, trabajo y cine), WL-163/WL-195 (análisis social argentino), WL-141/WL-158 (videoensayos NO factual).
 - Dominio previsto: general/sociedad-argentina o general (ensayo sobre trabajo y tiempo; candidato a consolidarse junto a WL-199) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]

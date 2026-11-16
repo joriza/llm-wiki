@@ -29,3 +29,10 @@ Diagnóstico social de la Argentina actual desde la economía de la vida cotidia
 ## Cruces
 
 - Núcleo de sociedad-argentina: continúa la línea de WL-251/255/293/311 (videoensayos y opinión NO factual — patrón de señalización) y WL-208/224; el «fracaso individualizado» dialoga con WL-221 (carrera tech como negocio individual) y WL-352 (sueldos dev, crisis del empleo formal). Canal SE VIENE 1.ª fuente; Mayra Arena 1.ª fuente como persona entrevistada.
+
+
+## Ver también
+
+- [[generacion-local-de-imagenes]]
+- [[meritocracia-y-moral-del-esfuerzo]]
+- [[seguridad-fuera-del-modelo]]

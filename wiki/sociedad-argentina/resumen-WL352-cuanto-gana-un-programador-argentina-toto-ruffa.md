@@ -29,3 +29,8 @@ Panorama de sueldos de programación en Argentina en 2026 por seniority (trainee
 ## Cruces
 
 - Carrera y mercado laboral IT argentino: familia temática con WL-221 (carrera tech) y con el bloque sociedad-argentina (contexto económico local); la mención de Sysarmy conecta con la encuesta StackOverflow vía 2.ª mano de WL-257 (cultura de relevamientos dev). Toto Ruffa 1.ª fuente (texto plano).
+
+
+## Ver también
+
+- [[ia-local-texto]]

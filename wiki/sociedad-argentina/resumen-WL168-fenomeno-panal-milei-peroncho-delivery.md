@@ -18,3 +18,9 @@ Sátira escatológica continua (motivo del pañal), insultos directos («preside
 
 - NO fuente factual (sesgo militante declarado, formato de sátira). Valor de triage: registro del discurso de oposición peronista 2026 y de los temas de agenda (gira española de Milei, crisis universitaria, Belgrano Cargas, «salario indisponible» de Massa). Cruces: WL-125/WL-146 (streamings de opinión militante) en consolidación; candidato a entidad de canal (Peroncho Delivery/Emanuel Rodríguez) junto a los otros canales de opinión.
 - Dominio previsto (pendiente de consolidación, S4 sin dominios nuevos): general/sociedad-argentina (opinión militante, NO fuente factual).
+
+
+## Ver también
+
+- [[otros-canales-dp]]
+- [[verificacion-como-valor]]

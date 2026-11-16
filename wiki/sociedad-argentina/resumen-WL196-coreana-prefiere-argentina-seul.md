@@ -21,3 +21,8 @@ Entrevista de Santiago del Tío (La 100) a Shini, nacida en Seúl y llegada a la
 
 - Entrevista de tono humano/cultural (La 100, la materia «Qué les pasó a los coreanos que viven en Argentina»): contenido anecdotico-biográfico, sin datos duros ni fuentes; cifras aproximadas dichas por los entrevistados (50 millones, tamaño de Chaco, 2500 aspirantes al ISER). Percepciones subjetivas sobre Argentina/Corea señaladas como tales.
 - Anécdotas menores (Marley en Corea, baños públicos) conservadas solo como contexto cultural.
+
+
+## Ver también
+
+- [[ia-local-texto]]

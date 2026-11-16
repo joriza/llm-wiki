@@ -28,3 +28,8 @@ Programa satírico-informativo con núcleo factual denso sobre el resultado PISA
 
 - Dominio destino: `sociedad-argentina/` (educación, crisis, sátira informativa — cluster PDB/WL-251).
 - Cruces: cluster sátira-informativa WL-251, sociedad WL-221/225/229; educación/celulares ↔ desarrollo-personal (tiempo en pantalla); PISA global ↔ WL-306 (evolución) no aplica — mejor cluster educación.
+
+
+## Ver también
+
+- [[familia-pizza-casera]]

@@ -38,3 +38,10 @@ Entrevista a la periodista Victoria de Masi (Clarín 15 años, diario Ámbito, L
 - Entrevista de perfil con afirmaciones de investigación no verificables desde la fuente; tratar como documento periodístico de opinión sobre el entorno de poder de Milei (dominio destino previsto: `general/sociedad-argentina`, S4 sin dominios nuevos).
 - Cruces con WL-119 y WL-123 (clima político argentino) y WL-121 (tech-estado) diferidos a consolidación (L12).
 - Garbiñeos ASR (Caciel=Cacace?, Leomal/Lemoine, Espagnolo=Spagnuolo, Andis=Andis?, Ciolo=Cioli, Arante=Ámbito, Sicareli=Sicarelli) normalizados SOLO en el resumen; nombres dudosos señalados, no afirmados.
+
+
+## Ver también
+
+- [[captura-de-medios-estatales]]
+- [[futuro-del-trabajo]]
+- [[secretos-geograficos-argentina]]

@@ -41,3 +41,11 @@ América Latina no «se volvió de derecha»: los electorados castigan gobiernos
 - El marco «voto castigo» y las críticas al progresismo se apoyan en un solo libro (Stefanoni) citado por la autora de derecha — útil por tomar en serio los datos que contradicen la explicación simple, pero es una selección editorial.
 - El porcentaje chileno «20,5 % al asumir Boric según la nueva metodología» mezcla metodologías de medición (el cambio de serie chilena) — verificar la comparabilidad de las cifras antes de citar la caída.
 - Garbiñeos del ASR normalizados solo aquí: «Yair» (Jair), «Cast» (Kast), «Serimedo» (Cerimedo), «baiteo» (baiting/bait), «SNO» (snob), «agit prop», «el estat cubo» (el statu quo), «englesos» (ingresos), «granjas de trolles» (trolls).
+
+
+## Ver también
+
+- [[desarrollo-latinoamericano]]
+- [[fundacion-libertad-y-progreso]]
+- [[otros-canales-dp]]
+- [[seguridad-fuera-del-modelo]]

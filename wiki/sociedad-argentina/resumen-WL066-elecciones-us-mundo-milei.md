@@ -43,3 +43,8 @@ Elecciones legislativas de medio término 2026: los demócratas **recuperaron am
 - **WL-32 (La caja negra)**: el salón de baile de la Casa Blanca (25 M, Nvidia entre los financistas) aparece aquí como pregunta de investigación — cruce directo.
 - **WL-61**: mismo momento político argentino (nov 2026) desde ángulos opuestos (El Presto vs Kreimer) — la wiki captura ambos registros de la grieta.
 - Tema-candidato: **elecciones EE. UU. medio-término 2026 y sus consecuencias para América Latina/Milei** — primera fuente del evento; junto con WL-42/57/61 forma el bloque nov-2026.
+
+
+## Ver también
+
+- [[papado-y-grieta-argentina]]

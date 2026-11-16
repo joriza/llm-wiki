@@ -33,3 +33,8 @@ Formato «1 vs 20» (debate tipo YouTube/fact0rs): el empresario **Mauro** (empr
 ## Veredicto de triage
 
 Entretenimiento con argumentos identificados y evaluados; conservar con señal NO factual.
+
+
+## Ver también
+
+- [[verificacion-como-valor]]

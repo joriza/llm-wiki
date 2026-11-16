@@ -39,3 +39,12 @@ El problema judicial argentino no es «garantismo» sino, en su terminología, *
 - La comparación de penas con Europa («cuatro veces más pequeñas») es una búsqueda ad hoc del conductor sin método ni países especificados — no usar como dato comparativo.
 - El contexto procesal de Cristina Fernández de Kirchner (domiciliaria, condiciones) corresponde a un momento puntual y en curso; el registro queda como opinión de la entrevistada en esa fecha indeterminada, no como estado actual del proceso.
 - Garbiñeos del ASR normalizados solo aquí: «colóricos» (coléricos), «se la bancan», «dos por uno» (instituto de cómputo de penas real, derogado/reformado — verificar estado normativo vigente), «aspersión de la pena» (expresión de Zaffaroni sobre pena unificada rebajada).
+
+
+## Ver también
+
+- [[aislamiento-no-protege-alcance-humano]]
+- [[comparacion-social]]
+- [[seguridad-fuera-del-modelo]]
+- [[sociedades-de-control]]
+- [[verificacion-como-valor]]

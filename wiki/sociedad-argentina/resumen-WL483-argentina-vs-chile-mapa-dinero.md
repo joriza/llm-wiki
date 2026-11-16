@@ -33,3 +33,9 @@ Divulgación económica ordenada y con serie temporal explícita; útil como map
 
 - Migrado a dominio definitivo y cableado:
 - - Cluster economía argentina: [[resumen-WL311-escandalo-avellaneda-camaras-vecinales-a24com]] · [[resumen-WL437-mmt-superavit-ahorro-rallo]] · [[resumen-WL182-manaos-la-gaseosa-mas-polemica-de-argentina]] · [[secretos-geograficos-argentina]] (Beagle/Malvinas/geografía bilateral) · [[coordenada-critica]] afín en marco de datos declarados
+
+
+## Ver también
+
+- [[coordenada-critica]]
+- [[secretos-geograficos-argentina]]

@@ -34,3 +34,11 @@ El deseo de venganza es una adaptación evolutiva legítima que expresa autorres
 - Contrapunto conceptual con WL-327/330 (tramo 51): cómo el Estado concentra la violencia — aquí la genealogía institucional del castigo, allí la crítica geopolítica.
 - Cluster general de filosofía moral/psicología; tema compartido con WL-329 (historia contrafáctica de decisiones humanas).
 - Roxana Kreimer: primera fuente del canal (texto plano).
+
+
+## Ver también
+
+- [[castigo-altruista-venganza]]
+- [[evolucion-humana]]
+- [[justicia-restaurativa]]
+- [[sesgos-de-decision]]
