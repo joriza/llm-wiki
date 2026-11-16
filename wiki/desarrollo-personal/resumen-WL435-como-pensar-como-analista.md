@@ -31,3 +31,10 @@ Tesis central: la herramienta (Excel, SQL) es un medio, no el fin; «el analista
 - `[[delegacion-cognitiva-ia]]`: «el código viene más fácil con la IA» — el valor migra de la herramienta a la pregunta (misma tesis que WL-360 simulacro junior + IA, WL-395 ecosistema Gemini).
 - `[[brecha-junior-ia]]`: habilidades que se entrenan (WL-345, WL-393).
 - Tema: habilidades analíticas como educación profesional (WL-396 PISA).
+
+
+## Ver también
+
+- [[brecha-junior-ia]]
+- [[delegacion-cognitiva-ia]]
+- [[futuro-del-trabajo]]

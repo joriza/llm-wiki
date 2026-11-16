@@ -29,3 +29,8 @@ La primera mitad de la Generación X (1965-1975) creció con autonomía forzada 
 - El «efecto aniversario» atribuido a Johns Hopkins — verificar el estudio real antes de citar (el fenómeno se asocia habitualmente a otros equipos de investigación).
 - La cita de Pew Research es una paráfrasis del canal; el giro «o si los demás piensan en ellos en absoluto» se usa como recurso emocional.
 - El video comparte tema y familia de guion con la fuente ya ingerida de Mente Descubierta (ver nota de casi-homónimo); no se detectaron bloques de patrocinio; la llamada final a like/suscripción quedó excluida de la síntesis.
+
+
+## Ver también
+
+- [[mundo-olvidado]]

@@ -25,3 +25,9 @@ Réplica del autor a la opinión extendida de que «con IA no vale la pena pagar
 - Contenido muy breve (6:41) y de baja densidad factual; valor principal como testimonio del debate «¿cursos vs IA?» desde dentro de la industria de formación tech.
 - Cruces previstos: cluster del canal ([[gentleman-programming]] — WL-94 y otros, Gentleman Programming Vods), WL-227 (listicle de cursos/herramientas IA para docentes), WL-194/WL-202 (educación), WL-185/WL-203 (metodologías y formación con IA).
 - Dominio previsto: general/sociedad-argentina o general (opinión sobre formación tech — NO fuente factual) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[arquitectura-software]]
+- [[gentleman-programming]]

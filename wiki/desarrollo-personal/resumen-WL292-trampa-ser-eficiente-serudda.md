@@ -26,3 +26,8 @@ Videoensayo de opinión (12 min, Serudda) sobre la «trampa de la eficiencia» e
 ## Cruces sugeridos
 
 - Cluster trabajo/carrera: WL-131 (Franco Pisso, efecto foco — ansiedad social en el trabajo), WL-139 (psicología); tema IA y empleo conecta con el cluster ia-critica-y-fronteras. Entidad de canal Serudda: 1.ª fuente (umbral no alcanzado).
+
+
+## Ver también
+
+- [[franco-pisso]]

@@ -30,3 +30,8 @@ Explicación psicológica de la «inteligencia mecánica»: por qué algunas per
 - [10:37] «Lo que realmente te protege esa frase es de los primeros 5 minutos como principiante. Y el precio es toda una vida esperando a que alguien más te arregle las cosas».
 
 ---
+
+
+## Ver también
+
+- [[desarrollo-con-modelos-locales]]

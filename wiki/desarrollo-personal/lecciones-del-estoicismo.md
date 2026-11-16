@@ -8,3 +8,8 @@ Tres canales de la misma familia de divulgación estoica-psicológica (voz de na
 **Aportes**: los 10 desapegos antes de jubilarse (casa, hijos-adulto, juguetes-carga, identidad laboral, rencores, qué dirán, control, perfeccionismo, «algún día»); las 12 situaciones para no reaccionar (compostura como dignidad; Epicteto: «queré que suceda como sucede y serás libre»); la psicología de la Generación X (latchkey kids, apego evitativo, pesimismo defensivo, generación sándwich, ¿libertad o armadura?).
 
 **Ver también**: este dominio, [[comparacion-social]].
+
+
+## Ver también
+
+- [[comparacion-social]]

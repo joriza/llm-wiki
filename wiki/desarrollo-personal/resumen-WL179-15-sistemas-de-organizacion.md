@@ -43,3 +43,8 @@ Marco personal de organización en tres capas — infraestructura, mantenimiento
 - Divulgación de productividad: historias (Apolo, Scrum/Easel 1993, Bowman/Phelps) son de dominio público bien contadas; los sistemas son marco personal del autor, no investigación.
 - Patrocinio HubSpot CRM (~[03:58]–[05:55]): bloque publicitario extenso, excluido de la síntesis.
 - Título clickbait («Top 1% mundial») señalado: el contenido no promete rankings, es organización personal básica bien estructurada.
+
+
+## Ver también
+
+- [[obsidian-memoria-agentes]]

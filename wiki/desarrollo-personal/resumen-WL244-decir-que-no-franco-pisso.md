@@ -28,3 +28,9 @@ Clase (formato video-curso) del comunicador rosarino Franco Pisso sobre por qué
 ## Dominio destino sugerido (pendiente de consolidación)
 
 - **general** — desarrollo personal/comunicación (consolidar con WL-131 del mismo autor).
+
+
+## Ver también
+
+- [[comparacion-social]]
+- [[franco-pisso]]

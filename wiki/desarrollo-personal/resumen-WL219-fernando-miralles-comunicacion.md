@@ -33,3 +33,9 @@ Entrevista larga al orador Fernando Miralles sobre autoridad, carisma, hablar en
 - Podcast de opinión/experticia: técnicas plausibles de comunicación pero sin base empírica verificable en la mayoría de los casos (los «estudios científicos» se citan sin referencia); secciones de análisis político (España: Sánchez, inmigración/Ceuta, 11-M, «cuanto peor para todos mejor») son opinión editorial del entrevistado — NO fuente factual, señalado en triage.
 - Contenido sensible manejado con fines didácticos (análisis de oratoria nazi); enlaces con [[odd-metodologia]] ninguno; cruces previstos: WL-131 (comunicación/ansiedad social Franco Pisso), WL-190 (teoría de juegos/decisión — marginal), WL-119/WL-146 (opinión política ES — mismo eje de polarización), concepto candidato «comunicación persuasiva» / «sesgo de autoridad».
 - Dominio previsto: general (comunicación/desarrollo personal) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[franco-pisso]]
+- [[seguridad-fuera-del-modelo]]

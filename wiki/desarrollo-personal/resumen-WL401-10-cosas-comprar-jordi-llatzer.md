@@ -36,3 +36,8 @@ Listicle argumentado sobre asignación inteligente del dinero cuando empieza a s
 ## Consolidación (relevo 2 del pedido L35, 2026-11-16)
 
 Consolidado en `desarrollo-personal/` (finanzas personales). Cruce [[delegacion-cognitiva-ia]] (comprar tiempo ↔ delegar en IA). Canal a texto plano por umbral <2: Jordi Llàtzer.
+
+
+## Ver también
+
+- [[delegacion-cognitiva-ia]]

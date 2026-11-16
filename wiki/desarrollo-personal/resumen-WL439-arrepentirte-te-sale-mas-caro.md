@@ -31,3 +31,10 @@ Primer episodio de una serie de seis que Bilinkis dedica a «pensar el fútbol»
 ## Veredicto de triage
 
 Resumen claro y bien construido; útil como fuente de conceptos (irreversibilidad, paradoja de la elección) pero no como evidencia. Conservar.
+
+
+## Ver también
+
+- [[franco-pisso]]
+- [[futuro-del-trabajo]]
+- [[santiago-bilinkis]]

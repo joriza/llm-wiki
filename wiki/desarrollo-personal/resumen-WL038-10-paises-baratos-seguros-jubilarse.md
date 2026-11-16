@@ -39,3 +39,8 @@ Ranking de 10 países medido con una vara explícita: la **pensión media españ
 - **Dominio destino previsto: `general/`** (vida práctica/emigración; sin dominio propio).
 - Tema-candidato en consolidación: **jubilación y migración económica de españoles** — primera fuente de la wiki en el tema; conecta por método con WL-31 (datos de educación) solo como patrón de canales con fuentes citadas.
 - [[fitness-senior]] tangencial: la vara «sanidad y distancia a los 65-80» dialoga con el clúster de envejecimiento — cruce menor, a evaluar en consolidación.
+
+
+## Ver también
+
+- [[fitness-senior]]
