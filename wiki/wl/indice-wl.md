@@ -194,3 +194,17 @@ Cabeza WL-407 (`pU_-j8XMqa0`, índice 95 del cache de 04:52) verificada contra e
 | 411 | Probé el «Windows Chino» en una PC Antigua | TecnoRed (1.ª fuente) | general/ o ia-uso-practico/ |
 
 Señales: WL-407 cifras de mercado de 2.ª mano sin enlaces (Gartner 70→40 %, Rimini Street 98 %) y editorialización fuerte — verificar; WL-408 lectura real del preprint de Lamzouri enlazado (verificable), preprint sin peer-review completo — señalado; ASR fuerte en ambos (Brocon/Bienware=Broadcom-VMware, Cloud=Claude, Lam Suri=Lamzouri); WL-409 NO factual primaria (columna de opinión, detalles del incidente Hacking Face parcialmente deformados); WL-410 disciplina de fuentes destacable (descarta la leyenda del Zip rechazado); WL-411 demo verificable, patrocinio vipcdkeys.com excluido (grey-market). Cruces candidatos: [[historia-de-la-tecnologia]] (WL-407/410), contraste modelos consumibles Broadcom-vs-SQLite (WL-407/405) y compatibilidad-como-promesa (WL-410/404), frontera descubrimiento-IA/verificación-formal Lean (WL-408 vs overclaiming WL-383/402/409), [[inferencia-local]] (WL-411, IA local en el SO), cluster resurrección de hardware (WL-411 con WL-296); entidades candidatas: Profe Carlos Leal, Math Rocks, TecnoRed; [[archivo-del-futuro]] +1 (WL-410). Cabeza futura: WL-412 (índice 100 del cache, `qEvVAyWo3_s`).
+
+## Tramo 68 (relevo 8 de 12 del pedido L34) — 5/5 útiles + 1 skip
+
+Cabeza WL-412 (`qEvVAyWo3_s`, índice 100 del cache de 04:52) verificada contra el cache antes del primer ciclo; 5 descargas `--one` con puerta 60-90 s; 1 skip (WL-413 .no-subs), 0 meta-fail, sin 429. Pendientes de consolidación (L12):
+
+| WL | Título | Canal | Dominio previsto |
+|---|--------|-------|------------------|
+| 412 | ¿Buscar trabajo volvió a ser como antes? | Dos Dager (2.ª fuente, WL-146) | sociedad-argentina/ (carrera IT) o general/ — videoensayo NO factual |
+| 414 | La IA ha resuelto su primer Problema del Milenio (clip) | Dot CSV Lab (1.ª fuente) | general/ (clip de WL-416 — consolidar juntas) |
+| 415 | 🔥 Hackearon mi sistema… pero estaba preparado | hdeleon.net (5.ª fuente WL) | informatica-teoria/ o general/ |
+| 416 | ¡La IA RESUELVE un PROBLEMA DEL MILENIO! — OpenAI y Navier-Stokes | Dot CSV Lab (1.ª fuente) | ia-critica-y-fronteras/ o general/ |
+| 417 | ¿Dónde está el pedazo que le falta a la Casa Rosada? | Mati en la Ciudad (1.ª fuente) | general/ (historia/arquitectura argentina) |
+
+Señales: WL-412 NO factual (cifras de 2.ª mano sin enlaces, humor rioplatense; autopromoción Discord excluida); WL-414/416 anuncio OpenAI SIN validación externa («declarado haber resuelto»); el bloque de polémica de plagio (Buckmaster/Alpoge-Anthropic, 88 h × 10.000 agentes, arranque 1-sep por rumores) es de 2.ª mano sin enlaces — fechas y nombres ASR (Bookmaster=Buckmaster, «Luis Martínez Zorroa» por confirmar) verificar; WL-415 1.ª mano con mecanismo estándar (JWT+Redis+interceptor 401), cierre comercial excluido; WL-417 divulgación de calidad con fechas/planos y lagunas admitidas. Cruces candidatos: WL-414/416 mismas fuente+noticia; WL-416 vs WL-408 (declarada vs verificada, Lean); WL-409 (hitos reales vs apocalipsis-narrativa); WL-412 con [[brecha-junior-ia]], WL-352/221, WL-146 (mismo canal); WL-415 con [[hdeleon-net]] +1, WL-400/351; WL-417 con [[secretos-geograficos-argentina]]; entidades candidatas: Dot CSV (canal), Mati en la Ciudad (canal). Cabeza futura: WL-418 (índice 106 del cache, `GlRHi8SmmQ0`).
