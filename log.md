@@ -3963,3 +3963,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-16] ingesta WL | WL-482 — La Ruptura de Pangea: cómo se partió el supercontinente
 
 - Descarga nueva vía runner `--one` (salida WARP 104.28.199.112, `381Z-cRDvtQ`, índice 5 del cache — sin 429; cabeza L36 verificada: índice 4 = WL-481 confirma relevo 1). Raw intacto en scratch espejado a `raw/wl/tramo-80/`; resumen `wiki/wl/tramo-80/resumen-WL482-ruptura-pangea-geocronia.md`; fila en index.md. Documental Geocronia (1.ª fuente): Pangea rota a tirones por sus viejas suturas con slab-pull como fuerza (Wegener→Tharp→1968), fosa del Benue abortada, manto expuesto frente a Galicia, India a 15-20 cm/año, Afar 2005. Dominio previsto: general (L12, S4). 2.ª mano sin citas — señalada. «Pedido L37: 6/15 útiles».
+
+## [2026-11-16] ingesta WL | WL-483 — Argentina era casi 3 veces más rica que Chile. Hoy Chile la superó
+
+- Descarga nueva vía runner `--one` (salida WARP 104.28.199.112, `mj12Z_w9Nlc`, índice 6 del cache — sin 429). Raw intacto en scratch espejado a `raw/wl/tramo-80/`; resumen `wiki/wl/tramo-80/resumen-WL483-argentina-vs-chile-mapa-dinero.md`; fila en index.md. Divulgación económica El Mapa del Dinero (1.ª fuente, datos declarados del Banco Mundial): cruce 2016, recesiones 18 vs 3 desde 1984, crisis del gas 2004-2009, rating A vs B-; marco editorializante «instituciones vs ruptura», funnel al video hermano excluido. Dominio previsto: general (L12, S4). Cifras 2.ª mano sin enlaces y ASR ilegible en varios números — señalado. «Pedido L37: 7/15 útiles».
