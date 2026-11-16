@@ -25,3 +25,8 @@ La IA generativa volvió inservibles como evidencia de aprendizaje muchos instru
 ## Cruces potenciales (consolidación diferida)
 
 - WL-31 «Cómo AI destruyó los salones de clase» (5F1pcSljraU), [[odd-metodologia]] (evaluación de outputs vs procesos en trabajo con agentes), [[agentes-de-codigo]] (rendimiento asistido en programación), WL-185 (SDD/crítica metodológica).
+
+
+## Ver también
+
+- [[agentes-de-codigo]]

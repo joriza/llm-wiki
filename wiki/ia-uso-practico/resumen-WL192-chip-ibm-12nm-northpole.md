@@ -24,3 +24,13 @@ NorthPole, el chip de inferencia de IBM Research (Almaden), supera en eficiencia
 ## Cruces potenciales (consolidación diferida)
 
 - WL-189 (Marfil Lab, NCM/Hybrid Reasoning Agents), WL-122 (TPU vs GPU), WL-144 (motor sin imanes — mismo patrón «arquitectura vs proceso»), [[hardware-para-ia-local]], [[agentes-de-codigo]].
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[arquitectura-von-neumann]]
+- [[generacion-local-de-imagenes]]
+- [[hardware-para-ia-local]]
+- [[ia-local-texto]]
+- [[inferencia-local]]

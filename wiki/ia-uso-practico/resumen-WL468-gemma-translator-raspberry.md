@@ -38,3 +38,11 @@ Construcción paso a paso del «Gemma Translator» de Google (proyecto abierto, 
 ## Veredicto de triage
 
 Tutorial excelente de IA local en borde; conservar.
+
+
+## Ver también
+
+- [[hardware-para-ia-local]]
+- [[ia-local-texto]]
+- [[inferencia-local]]
+- [[routing-por-coste]]

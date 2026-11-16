@@ -34,3 +34,12 @@ Según benchmarks externos (incl. Artificial Analysis) y del propio Alibaba: Qwe
 ## Veredicto de triage
 
 Demo técnica interesante de carga de MoE gigante en RAM; conservar con la señal de titular condicional.
+
+
+## Ver también
+
+- [[deepseek-harness]]
+- [[hardware-para-ia-local]]
+- [[ia-local-texto]]
+- [[inferencia-local]]
+- [[routing-por-coste]]

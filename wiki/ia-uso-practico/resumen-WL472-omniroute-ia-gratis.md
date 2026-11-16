@@ -40,3 +40,13 @@ Tutorial completo de **OmniRouter** (ASR «Omniroute/OVNIRuter» — nombre a co
 ## Veredicto de triage
 
 Tutorial técnico sólido y aplicable; conservar con señales de 2.ª mano.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[alejavi-rivera]]
+- [[deepseek-harness]]
+- [[ia-local-texto]]
+- [[inferencia-local]]
+- [[routing-por-coste]]

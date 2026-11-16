@@ -29,3 +29,11 @@ Tesis: la IA ya resuelve la fase de *entender* (resumir, explicar — el terreno
 ## Cruces
 
 - Familia NotebookLM/espacios de investigación con entregables: [[delegacion-cognitiva-ia]]; skills como concepto conecta con [[agentes-de-codigo]] y el ecosistema de skills del repositorio; agente por Telegram afín a los agentes personales; MCP conecta con [[hardware-agentico-mcp-first]]. Canal Oskr León 1.ª fuente (texto plano); contraste temático con WL-349 (tutor) y WL-346 (decisión estructurada) — tramo de demos de producto IA.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[delegacion-cognitiva-ia]]
+- [[hardware-agentico-mcp-first]]
+- [[notebooklm-ecosistema]]

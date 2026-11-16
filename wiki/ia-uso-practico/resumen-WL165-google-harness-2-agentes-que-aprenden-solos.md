@@ -28,3 +28,13 @@ Los agentes de IA sufren «amnesia operativa»: cerebro grande (LLM congelado) p
 - Divulgación de divulgación indirecta: el canal resume un paper/repositorio externo, con cifras no verificadas de primera mano y alguna imprecisión típica del formato (nombres de benchmarks «Work Body Bench»/«Job Bench» posiblemente deformados por ASR). Útil como mapa conceptual del «automated harness engineering»; verificar contra el repositorio/paper antes de citar cifras. Cruces naturales: [[deepseek-harness]], agentes-de-codigo, WL-153 (Gentle Design), WL-132 (hype de NCM — mismo patrón de canal divulgativo sobre papers ajenos).
 - Cierre de suscripción excluido. Señalar en triage: fuente secundaria.
 - Dominio previsto (pendiente de consolidación, S4 sin dominios nuevos): ia-uso-practico/agentes-de-codigo.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[deepseek-harness]]
+- [[ia-local-texto]]
+- [[obsidian-memoria-agentes]]
+- [[panorama-herramientas-open-source-ia]]
+- [[seguridad-fuera-del-modelo]]

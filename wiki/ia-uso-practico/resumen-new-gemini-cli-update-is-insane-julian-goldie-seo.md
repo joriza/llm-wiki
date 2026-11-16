@@ -37,3 +37,13 @@ La nueva actualización de **Gemini CLI** añade **extensiones**: herramientas q
 - La dirección de la galería transcrito como «gemini.com/extensions» conviene verificarla (la documentación oficial vive en geminicli.com) en consolidación.
 - Contenido con fuerte promoción comercial (AI Profit Boardroom, dos inserciones) registrado como tal; el video lo presenta un «avatar digital» del autor.
 - Fuente 13/57 de la playlist «IA-Recursos»; undécimo canal nuevo del lote (Julian Goldie SEO), entidad aplazada.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[bases-de-datos]]
+- [[bases-de-datos-especializadas]]
+- [[diseno-pcb-herramientas]]
+- [[ia-local-texto]]
+- [[ofimatica-agentica-local]]

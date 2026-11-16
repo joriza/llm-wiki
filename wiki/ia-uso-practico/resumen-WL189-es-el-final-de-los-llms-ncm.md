@@ -29,3 +29,11 @@ Análisis crítico de dos preprints de octubre de 2026 que atacan la generación
 - Cruce directo con **WL-132** (mismo canal/familia Marfil — desmontaje del hype de NCM, Jorge Marfil) y **WL-122** (Marfil Lab, TPU vs GPU); tema agentes con [[agentes-de-codigo]].
 - Análisis técnico serio con verificación propia (recálculo de coste), cifras de los papers citadas con fuente y rangos; los «yo supongo» del autor señalados como tales. Menciones «Oyama»/«Cloud» son garbiñeos del ASR (Ollama/Claude), normalizados solo aquí.
 - Sin patrocinios. Dominio previsto: ia-uso-practico o ia-critica-y-fronteras (consolidación diferida, L12).
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[generacion-local-de-imagenes]]
+- [[jorge-marfil]]
+- [[seguridad-fuera-del-modelo]]

@@ -25,3 +25,11 @@ Demo en vivo de generación de reels publicitarios con Claude Code + Claude Opus
 - Fuerte componente promocional (comunidad de pago, mentorías, grupo de WhatsApp): señalado en triage; la parte comercial del cierre no se sintetiza.
 - Patrones de seguridad discutibles mostrados en pantalla: pegar una API key en el chat del agente (aunque diga revocarla).
 - Cruces previstos en consolidación: [[agentes-de-codigo]], cluster ia-uso-practico (comparables WL-153 Gentle Design, WL-165 Harness², WL-178/WL-180 Eric Risco); entidad de canal candidata (Melina Blanco).
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[generacion-local-de-imagenes]]
+- [[ofimatica-agentica-local]]
+- [[seguridad-fuera-del-modelo]]

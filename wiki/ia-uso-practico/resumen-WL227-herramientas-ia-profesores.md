@@ -25,3 +25,9 @@ Top-5 breve de herramientas de IA para docentes, presentado por la creadora de u
 - Sin errores factuales graves detectados, pero nada verificable más allá de la existencia de las herramientas; candidata a baja por triage del usuario (protocolo ítem 17) si no aporta al triage.
 - Cruces previstos: WL-194 (educación/IA — evaluación resiliente, profundidad muy superior), WL-203 (uso de IA para contenido educativo).
 - Dominio previsto: general (educación/herramientas — candidata a baja) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[generacion-local-de-imagenes]]
+- [[verificacion-como-valor]]

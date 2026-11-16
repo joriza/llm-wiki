@@ -29,3 +29,11 @@ Lista de tareas multiusuario en Deno + React + Drizzle: skill backlog con Claude
 ## Valoración para la wiki
 
 Fuente de primera mano (el autor usa y publica sus propias skills) con tesis clara y demo end-to-end verificable. Posición intermedia útil en el debate metodológico actual: ni vibe coding ni delegación total tipo Software Factory (WL-180), sino control humano persistente con slices verticales. El propio video reconoce que no está probado en producción y que las tareas por capas vienen del entrenamiento de los LLM, no del SDD per se — matices que conviene preservar al consolidar.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[arquitectura-software]]
+- [[historia-software-corporativa]]
+- [[spec-driven-development]]

@@ -39,3 +39,11 @@ Review comparativa de primera mano del **Granite 4.2 3B** de IBM (lanzado días 
 ## Veredicto de triage
 
 Review técnica sólida de primera mano; conservar.
+
+
+## Ver también
+
+- [[ia-local-texto]]
+- [[inferencia-local]]
+- [[percepcion-de-regresion-de-modelos]]
+- [[routing-por-coste]]

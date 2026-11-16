@@ -29,3 +29,11 @@ Repaso divulgativo de 10 herramientas de línea de comandos modernas, presentado
 
 - Divulgación introductoria tipo lista, sin profundidad técnica ni benchmarks; nombres de algunas herramientas llegan garbiñeados por el ASR en el raw (normalizados aquí cuando el contexto los identifica con claridad, p. ej. «Ocker»→Oxker, «Condo/Kondo», «LLM Fit»→LM Fit).
 - Sin patrocinios externos; solo petición de suscripción del propio canal (excluida de la síntesis).
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[hardware-para-ia-local]]
+- [[ia-local-texto]]
+- [[obsidian-memoria-agentes]]

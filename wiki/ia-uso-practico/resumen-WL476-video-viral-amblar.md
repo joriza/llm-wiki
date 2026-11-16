@@ -23,3 +23,9 @@ Short de estrategia (107 s) de Javier Amblar contra la búsqueda de viralidad en
 ## Veredicto de triage
 
 Consejo estratégico razonable sin evidencia; conservar con señal NO factual.
+
+
+## Ver también
+
+- [[routing-por-coste]]
+- [[seguridad-fuera-del-modelo]]

@@ -34,3 +34,8 @@ No todas las IAs sirven para trading: lo que importa no es «cuál es la mejor e
 - Contenido con interés comercial del canal (formación de pago «código.trading» y prompt de regalo como captación); se registra como tal.
 - El rendimiento mostrado proviene de backtests históricos; la propia fuente advierte que «no garantizan resultados en el futuro».
 - Fuente 3/57 de la playlist «IA-Recursos»; tercera entidad de canal nueva del lote (Código Trading), aplazada a consolidación.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]

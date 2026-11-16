@@ -33,3 +33,11 @@ Demo de primera mano de **DomoAI** para producir una serie animada educativa (pr
 ## Veredicto de triage
 
 Demo útil y concreta con reglas de ahorro aplicables; conservar.
+
+
+## Ver también
+
+- [[brecha-junior-ia]]
+- [[generacion-local-de-imagenes]]
+- [[routing-por-coste]]
+- [[seguridad-fuera-del-modelo]]

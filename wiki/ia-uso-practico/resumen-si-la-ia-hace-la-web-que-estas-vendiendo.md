@@ -29,3 +29,10 @@ Perspectiva de proveedor de hosting y consultoría WordPress (18 años de experi
 - La afirmación «cualquiera con una suscripción de Claude puede escanear webs mejor que nunca» remite a un vídeo previo del propio canal (enlace en descripción) — no desarrollada aquí; contrastar.
 - ASR: «Rayola/Rayiola» = Raiola Networks; «cirio»/«circo» (garbiñeo — por contexto, «circo»); «Cloud de Code»/«Cloud Code» = Claude Code.
 - Consolidación aplazada: cruce potencial con [[resumen-el-backend-ha-muerto-esto-es-lo-que-se-viene-yari-taft]] (agentes-de-codigo) y páginas de ia-critica-y-fronteras sobre empleo al cierre del tramo.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[diseno-pcb-herramientas]]
+- [[obsidian-memoria-agentes]]

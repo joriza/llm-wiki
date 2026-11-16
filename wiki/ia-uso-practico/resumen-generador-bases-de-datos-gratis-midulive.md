@@ -33,3 +33,10 @@
 - Transcripción automática en español con errores literales conservados en el raw («postgres neww» por **Postgres.new**, «supes/supis» por Supabase, «stableifusion» no aparece aquí pero sí «piquig»). Este resumen los normaliza (Postgres.new es el producto conocido de Supabase con PGlite en navegador).
 - El tramo final (~1 minuto) es charla personal del canal sobre sus giras; se excluye de la síntesis.
 - Fuente 16/57 de la playlist «IA-Recursos»; decimotercer canal nuevo del lote (midulive), entidad aplazada.
+
+
+## Ver también
+
+- [[bases-de-datos]]
+- [[bases-de-datos-especializadas]]
+- [[generacion-local-de-imagenes]]

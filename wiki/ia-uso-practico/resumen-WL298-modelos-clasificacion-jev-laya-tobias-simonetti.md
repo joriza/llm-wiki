@@ -23,3 +23,9 @@ Contenido factual citado «de segunda mano» (tablas del propio fabricante y cas
 
 - Dominio destino previsto: ia-uso-practico o ia-critica-y-fronteras (modelos de clasificación baratos vs LLM; tema adyacente al routing-por-coste candidato de WL-274/278); cruces WL-189 (eficiencia de modelos pequeños), WL-285-287 (rendimiento).
 - Sin dominios nuevos (S4); pendiente de consolidación (L12).
+
+
+## Ver también
+
+- [[ia-local-texto]]
+- [[routing-por-coste]]

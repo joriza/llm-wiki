@@ -32,3 +32,8 @@ Recorrido introductorio por el paisaje de herramientas DevOps, organizado como c
 - Divulgación introductoria correcta y ordenada; sin profundidad ni casos prácticos; el propio canal admite no dominar algunas herramientas.
 - Transcripciones ASR con garbiñeos: «Devobs», «Cubernetes», «Bolt/Volt» (por Vault), «Anbl» (Ansible) — normalizados aquí solo.
 - Cruces naturales: [[lenguaje-rust]] y roadmap WL-14 no aplican directamente; encaja con el ecosistema de herramientas dev del repo (WL-154/WL-147 de seguridad local usan concepts afines como Docker; WL-153 Gentle Design/ODD como flujo de trabajo agéntico).
+
+
+## Ver también
+
+- [[panorama-herramientas-open-source-ia]]

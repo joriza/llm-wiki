@@ -35,3 +35,13 @@ Tutorial de primera mano de **Atomic AI** (`github.com/nichonauta/atomicai`, fue
 ## Veredicto de triage
 
 Tutorial técnico sólido de herramienta propia; conservar.
+
+
+## Ver también
+
+- [[deepseek-harness]]
+- [[generacion-local-de-imagenes]]
+- [[ia-local-texto]]
+- [[inferencia-local]]
+- [[proxy-atomico]]
+- [[routing-por-coste]]

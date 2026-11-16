@@ -39,3 +39,13 @@ Review del lanzamiento de **GLM-5.3 Flash** (Z.ai): revelado tras una semana de 
 ## Veredicto de triage
 
 Review útil y concreta para el tema routing-por-coste; datos de catálogo no verificados. Conservar.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[hardware-agentico-mcp-first]]
+- [[hardware-para-ia-local]]
+- [[ia-local-texto]]
+- [[inferencia-local]]
+- [[reguladores-carga-solar]]

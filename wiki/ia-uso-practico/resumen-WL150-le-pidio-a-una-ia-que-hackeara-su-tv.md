@@ -23,3 +23,13 @@ Ensayo del canal Crossover que toma como noticia-gancho el caso de un desarrolla
 - Buena fuente divulgativa con datos citados (FTC, demanda de Texas, NYT, The Verge, TechCrunch, cuentas de Roku); la editorialización y las predicciones fechadas son opinión del canal, señaladas.
 - Cruces naturales: enshittification/plataformas con fuentes de crítica tecnológica ([[ia-critica-y-fronteras]]), privacidad de montajes locales WL-147/WL-132 (Jorge Marfil), y el patrón «hardware barato, negocio en el software» con WL-142/WL-144 de infraestructura.
 - ASR normalizado solo aquí; sin patrocinio detectado.
+
+
+## Ver también
+
+- [[captura-regulatoria-ia]]
+- [[generacion-local-de-imagenes]]
+- [[hardware-para-ia-local]]
+- [[ia-local-texto]]
+- [[jorge-marfil]]
+- [[seguridad-fuera-del-modelo]]
