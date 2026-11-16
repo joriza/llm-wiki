@@ -123,3 +123,17 @@ Cabeza futura del backlog: **WL-326** (índice 19 del cache fresco de 04:52).
 | WL-330 | GRABOIS fue a INFOBAE y dejó a todos sin palabras sobre la IA (`wbbt4J8iLGU`) | CASA 13 | ia-critica-y-fronteras (gobernanza IA) o sociedad-argentina — opinión militante NO factual, señalada; contrapunto WL-327 |
 
 Cabeza futura del backlog: **WL-331** (índice 24 del cache fresco de 04:52).
+
+## Tramo 51 — activo (relevo 4, pedido L32, 2026-11-16)
+
+5 fuentes ÚTILES ingestadas (raw en `raw/wl/tramo-51/`, resúmenes en `wiki/wl/tramo-51/`); sin skips, sin meta-fails; salida 45.239.32.215 sin 429 (L13; presupuesto suave 400 nunca alcanzado). Dominios destino previstos (S4, sin dominios nuevos; consolidación diferida):
+
+| WL | Título | Canal | Dominio previsto |
+|---|---|---|---|
+| WL-331 | OpenClaw 2.0: la actualización que puede cambiarlo todo en la IA (`mZAwl0XqlaY`) | CodeSimple | ia-uso-practico/agentes-de-codigo o ia-critica-y-fronteras — demo de producto; cifras de adopción sin verificar; patrocinio Hostinger excluido |
+| WL-332 | ¿Qué joraca es Jev? El TypeScript de la IA. (`EejD_ojLYzc`) | Dos Dager | ia-critica-y-fronteras o general (industria IA) — react basado en marketing del producto, sin fuentes independientes; cruces WL-132/189 |
+| WL-333 | Cuantización de Modelos de IA: ¿realmente se pierde calidad? (`SyLPqEO0YUU`) | Nichonauta | ia-uso-practico/ia-local o general (hardware IA local) — benchmark BF16 vs Q4_K_XL de Qwen 3.6 35B-A3B; cruces WL-102 |
+| WL-334 | Serverless: cuándo te conviene y cuándo sale más caro (`KkG4fSMRmXE`) | Torti Code | general (arquitectura cloud) o informatica-teoria — divulgación FaaS; Torti Code 2.ª fuente (entidad candidata con WL-252) |
+| WL-335 | Maxtor: por qué desapareció el disco que había en tu PC (`fnVeInXVrKU`) | Archivo del Futuro | general (historia tecnología/industria) o informatica-teoria — cruces [[historia-de-la-tecnologia]], cluster WL-328/313/200/117/323 |
+
+Cabeza futura del backlog: **WL-336** (índice 29 del cache fresco de 04:52).
