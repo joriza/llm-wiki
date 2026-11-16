@@ -3939,3 +3939,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-16] ingesta WL | WL-478 — Entraron al Titanic y No Encontraron Ni Un Hueso
 
 - Fuente heredada de scratch (`.done` `WD3e4ZQClmc`, índice 1 del cache), procesada SIN re-descargar. Raw espejado intacto a `raw/wl/tramo-79/`; resumen `wiki/wl/tramo-79/resumen-WL478-titanic-robots-archivo-perdido.md`; fila en index.md. Divulgación Archivo Perdido (subtítulos manuales): robots del Titanic de Ballard a Magellan, explicación de la ausencia de restos, Halomonas titanicae. Dominio previsto: general (L12, S4). 2.ª mano sin citas al pie — señalada. «Pedido L37: 2/15 útiles».
+
+## [2026-11-16] ingesta WL | WL-479 — ¿Por qué la Fosa de las Marianas Sigue Aterrorizando a los Científicos?
+
+- Fuente heredada de scratch (`.done` `Aarn1kRt0ig`, índice 2 del cache, canal Homosapiens), procesada SIN re-descargar. Raw espejado intacto a `raw/wl/tramo-79/`; resumen `wiki/wl/tramo-79/resumen-WL479-fosa-marianas-homosapiens.md`; fila en index.md. Divulgación: Trieste 1960, zonas hadal, pez caracol, quimiosíntesis, microplásticos. Dominio previsto: general (L12, S4). ASR distorsiona nombres («Jack Spicard»=Piccard) y el récord de pez (833↔8.336 m) — señalado; 2.ª mano sin enlaces. Par WL-477/479 mismo canal — consolidar juntos. «Pedido L37: 3/15 útiles».
