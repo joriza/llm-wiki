@@ -3,9 +3,9 @@
 - **Tipo**: página de concepto.
 - **Dominio**: `general/`.
 - **Actualizado**: 2026-11-10.
-- **Fuentes**: Coordenada Crítica, 2026-10-21 (súper El Niño de 2026 frente a 1877); Coordenada Crítica, 2026-10-23 (qué pasa después de un súper El Niño).
+- **Fuentes**: Coordenada Crítica, 2026-10-21 (súper El Niño de 2026 frente a 1877); Coordenada Crítica, 2026-10-23 (qué pasa después de un súper El Niño); + WL-226 ([[resumen-WL226-el-nino-iguala-al-de-1877]], Astrovía, añadida en la consolidación T40 — mismas cifras de 1877 (tres sequías, >50 M de muertos, Singh et al. 2018) desde la divulgación climática-histórica, con los amplificadores 2026 tranquilos; sin citas primarias — señalado en su resumen).
 - **Raw**: [raw/ciencias-tierra/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md](../../raw/ciencias-tierra/2026-10-21-super-el-nino-iguala-1877-coordenada-critica.md) · [raw/ciencias-tierra/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md](../../raw/ciencias-tierra/2026-10-23-lo-que-viene-despues-del-super-el-nino-coordenada-critica.md).
-- **Ver también**: [[hambruna-global-de-1877]] · [[resumen-super-el-nino-1877-coordenada-critica]] · [[coordenada-critica]].
+- **Ver también**: [[hambruna-global-de-1877]] · [[resumen-super-el-nino-1877-coordenada-critica]] · [[coordenada-critica]] · [[resumen-WL226-el-nino-iguala-al-de-1877]].
 
 ## Qué es
 

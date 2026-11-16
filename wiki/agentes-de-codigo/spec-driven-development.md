@@ -1,7 +1,8 @@
 # Spec Driven Development (y sus derivas)
 
 - **Tipo**: página de concepto.
-- **Fuentes (4)**: [[resumen-los-6-niveles-de-programar-con-ia-el-90-no-pasais-del-3-joaquin-ruiz]], [[resumen-asis-programo-con-ia-tras-500-horas-alpaca-tech]], [[resumen-como-hacer-que-una-ia-construya-el-proyecto-que-tu-quieres-eric-risco]], [[resumen-la-irrazonable-eficacia-del-html-claude-code-articulator-es]] (con ecos en Taft y Guldenaar).
+- **Fuentes (5)**: + [[resumen-WL211-spec-driven-development-vs-vibe-coding]] (T40, 2026-11-15 — Torti Code: SDD vs vibe coding como decisión, no dogma).
+- **Fuentes previas (4)**: [[resumen-los-6-niveles-de-programar-con-ia-el-90-no-pasais-del-3-joaquin-ruiz]], [[resumen-asis-programo-con-ia-tras-500-horas-alpaca-tech]], [[resumen-como-hacer-que-una-ia-construya-el-proyecto-que-tu-quieres-eric-risco]], [[resumen-la-irrazonable-eficacia-del-html-claude-code-articulator-es]] (con ecos en Taft y Guldenaar).
 
 ## La idea base
 
@@ -12,5 +13,7 @@ El muro entre «dirigir agentes y revisar PRs» (nivel 3) y la fábrica (nivel 5
 1. **Flujo programático** (Alpaca Tech): la spec dentro de un pipeline de 8 pasos headless con bucles de corrección en código — «un SDD con esteroides» para uso individual.
 2. **ASDD** (Eric Risco): la spec «solo tests» falla (Frankenstein con 4.500 tests) → spec de 4 preguntas (qué podrá hacer el usuario, qué resultado debe obtener, qué debe respetar, cómo lo demuestra con evidencia) + review dentro de la implementación + decisiones humanas por riesgo.
 3. **HTML como formato de spec** (Thariq/Claude Code): cuando los agentes generan más de lo que el humano lee (>100 líneas de Markdown ya se leen), la spec migra a HTML — densidad, claridad, compartible por enlace, interactivo, con «copiar como prompt» de vuelta al agente.
+
+4. **SDD vs vibe coding como decisión por riesgo** (WL-211, Torti Code, añadida en T40): cuándo conviene cada uno — especificación versionada con requisitos verificables y escenarios dado-cuando-entonces para lo crítico; vibe coding para desechable; deriva de especificación como modo de falla propio.
 
 **Ver también**: [[verificacion-como-valor]], [[odd-metodologia]] (reemplazo/evolución del SDD en el arnés personal), [[agentes-de-codigo]].
