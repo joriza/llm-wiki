@@ -1,6 +1,6 @@
 # 15 Sistemas de Organización Que te Elevan del Caos al Top 1% Mundial
 
-- **Fuente original**: `raw/general/2026-10-18-15-sistemas-de-organizacion-que-te-elevan-del-caos-al-top-1-mundial.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=uTlJlozyoNw))
+- **Fuente original**: `raw/desarrollo-personal/2026-10-18-15-sistemas-de-organizacion-que-te-elevan-del-caos-al-top-1-mundial.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=uTlJlozyoNw))
 - **Canal**: InvernovAH - Álvaro H. Jarque
 - **Publicado**: 2026-10-18 · **Duración**: 29:34 · **Idioma**: es (subtítulos automáticos, normalizados en este resumen)
 - **Recopilado**: 2026-11-15 (tramo 22, WL-179)

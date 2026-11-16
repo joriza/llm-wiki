@@ -1,6 +1,6 @@
 # WL-292 — «La trampa de ser eficiente...» (Serudda)
 
-- **Fuente original**: `raw/general/2026-09-22-la-trampa-de-ser-eficiente.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/desarrollo-personal/2026-09-22-la-trampa-de-ser-eficiente.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=V9vXL8S2yLc · Canal Serudda · Publicado 2026-09-22 · 11:38 · Subtítulos automáticos es
 - **Tramo**: 43, fuente útil 2/5 (posición 104 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): general (cultura laboral/desarrollo profesional; cruces WL-131 Franco Pisso, WL-139 psicología)

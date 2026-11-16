@@ -1,6 +1,6 @@
 # WL-131 — La vergüenza se te va si entendés esto
 
-- **Fuente original**: `raw/general/2026-10-26-la-verguenza-se-te-va-si-entendes-esto.md` (`1uupD1vZkyM`, [Franco Pisso](https://www.youtube.com/watch?v=1uupD1vZkyM), 2026-10-26, 24:34).
+- **Fuente original**: `raw/desarrollo-personal/2026-10-26-la-verguenza-se-te-va-si-entendes-esto.md` (`1uupD1vZkyM`, [Franco Pisso](https://www.youtube.com/watch?v=1uupD1vZkyM), 2026-10-26, 24:34).
 - **Canal**: Franco Pisso
 - **Publicado**: 2026-10-26
 - **Tipo**: clase de divulgación (comunicación / ansiedad social)

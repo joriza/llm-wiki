@@ -1,6 +1,6 @@
 # WL-229 · ¿Vale la pena pagar cursos en la era de la IA?
 
-- **Fuente original**: `raw/general/2026-10-14-vale-la-pena-pagar-cursos-en-la-era-de-la-ia.md`
+- **Fuente original**: `raw/desarrollo-personal/2026-10-14-vale-la-pena-pagar-cursos-en-la-era-de-la-ia.md`
 - **Video**: [¿Vale la pena pagar cursos en la era de la IA?](https://www.youtube.com/watch?v=xWSSfrnk_eI)
 - **Canal**: Gentleman Programming Vods
 - **Publicado**: 2026-10-14 · **Duración**: 06:41 · **Ingesta**: 2026-11-15 (tramo 32, formato dominio pendiente de consolidación)

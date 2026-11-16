@@ -1,6 +1,6 @@
 # Resumen: Si no entendés esto, no vas a recibirte NUNCA
 
-- **Fuente original**: `raw/general/2026-10-29-si-no-entendes-esto-no-vas-a-recibirte-nunca.md` (WL-104, tramo 8)
+- **Fuente original**: `raw/desarrollo-personal/2026-10-29-si-no-entendes-esto-no-vas-a-recibirte-nunca.md` (WL-104, tramo 8)
 - **URL**: https://www.youtube.com/watch?v=otMZ3SKi9wo
 - **Canal**: Franco Pisso (abogado, magíster en oratoria, profesor universitario con >10 años de docencia)
 - **Publicado**: 2026-10-29 · **Duración**: 26:29 · **Idioma**: es (subtítulos automáticos, transcripción literal)

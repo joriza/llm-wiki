@@ -3,7 +3,7 @@
 - **Fuente original**: `raw/wl/tramo-73/2026-05-29-arrepentirte-te-sale-mas-caro.md` ([Vídeo](https://www.youtube.com/watch?v=t3J_3U8mOtM))
 - **Canal**: Santiago Bilinkis (Futuro en Construcción)
 - **Publicado**: 2026-05-29 · **Duración**: 08:51
-- **Dominio provisional**: general (psicología de la decisión / divulgación — videoensayo NO factual)
+- **Dominio provisional**: desarrollo-personal (psicología de la decisión / divulgación — videoensayo NO factual)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata

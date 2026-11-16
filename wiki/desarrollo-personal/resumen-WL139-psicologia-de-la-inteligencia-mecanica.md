@@ -1,6 +1,6 @@
 # WL-139 — Psicología de la Inteligencia Mecánica (Por Qué Algunas Personas Pueden Arreglar CUALQUIER Cosa)
 
-- **Fuente original**: `raw/general/2026-10-23-psicologia-de-la-inteligencia-mecanica-por-que-algunas-personas-pueden-arreglar-.md` (`VJ1E2xp0bdg`, [Claridad Mental](https://www.youtube.com/watch?v=VJ1E2xp0bdg), 2026-10-22, 14:53).
+- **Fuente original**: `raw/desarrollo-personal/2026-10-23-psicologia-de-la-inteligencia-mecanica-por-que-algunas-personas-pueden-arreglar-.md` (`VJ1E2xp0bdg`, [Claridad Mental](https://www.youtube.com/watch?v=VJ1E2xp0bdg), 2026-10-22, 14:53).
 - **Canal**: Claridad Mental
 - **Publicado**: 2026-10-22
 - **Tipo**: divulgación psicológica

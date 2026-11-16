@@ -1,6 +1,6 @@
 # Resumen: Los 10 países más baratos y seguros para jubilarse y retirarse
 
-- **Fuente original**: `raw/general/2026-10-13-los-10-paises-mas-baratos-y-seguros-para-jubilarse-y-retirarse.md` (WL-38, tramo 3)
+- **Fuente original**: `raw/desarrollo-personal/2026-10-13-los-10-paises-mas-baratos-y-seguros-para-jubilarse-y-retirarse.md` (WL-38, tramo 3)
 - **URL**: https://www.youtube.com/watch?v=Ujx3oOO0C9M
 - **Canal**: Emigrar con cabeza
 - **Publicado**: 2026-10-13 · **Duración**: 37:27 · **Idioma**: es (subtítulos automáticos, transcripción literal)

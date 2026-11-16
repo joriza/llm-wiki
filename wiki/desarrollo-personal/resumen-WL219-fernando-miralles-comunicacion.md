@@ -1,6 +1,6 @@
 # WL-219 · Experto En Comunicación Revela Cómo Hacerte Respetar Al Instante | Fernando Miralles
 
-- **Fuente original**: `raw/general/2026-09-24-experto-en-comunicacion-revela-como-hacerte-respetar-al-instante-fernando-mirall.md`
+- **Fuente original**: `raw/desarrollo-personal/2026-09-24-experto-en-comunicacion-revela-como-hacerte-respetar-al-instante-fernando-mirall.md`
 - **Video**: [Experto En Comunicación Revela Cómo Hacerte Respetar Al Instante | Fernando Miralles](https://www.youtube.com/watch?v=b5VTu29RTIk)
 - **Canal**: Adrián Sáenz (podcast, entrevistado: Fernando Miralles, campeón de oratoria)
 - **Publicado**: 2026-09-24 · **Duración**: 97:50 · **Ingesta**: 2026-11-15 (tramo 30, formato dominio pendiente de consolidación)

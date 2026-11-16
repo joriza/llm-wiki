@@ -1,6 +1,6 @@
 # WL-244 — Aprendé a decir que NO de una buena vez...
 
-- **Fuente original**: `raw/general/2026-10-12-aprende-a-decir-que-no-de-una-buena-vez.md`
+- **Fuente original**: `raw/desarrollo-personal/2026-10-12-aprende-a-decir-que-no-de-una-buena-vez.md`
 - **Video**: [Aprendé a decir que NO de una buena vez...](https://www.youtube.com/watch?v=rJf4QsL5C_k)
 - **Canal**: Franco Pisso · **Publicado**: 2026-10-12 · **Duración**: 15:56 · **Ingesta**: 2026-11-15 (tramo 35)
 
