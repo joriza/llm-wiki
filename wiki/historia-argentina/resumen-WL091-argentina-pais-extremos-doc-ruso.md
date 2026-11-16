@@ -40,3 +40,12 @@
 ## ADVERTENCIA
 
 Fuente en ruso (ASR cirílico sin normalizar en el raw); todas las citas de nombres propios deben pasar por la grafía reconstruida de este resumen, no por el raw. Divulgación turística sin fuentes en pantalla — los datos son estándar de enciclopedia salvo los marcados.
+
+
+## Ver también
+
+- [[bases-de-datos]]
+- [[bases-de-datos-especializadas]]
+- [[papado-y-grieta-argentina]]
+- [[secretos-geograficos-argentina]]
+- [[seguridad-fuera-del-modelo]]

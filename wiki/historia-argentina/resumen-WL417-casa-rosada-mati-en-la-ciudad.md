@@ -31,3 +31,9 @@ Divulgación histórica-arquitectónica sobre por qué la Casa Rosada es asimét
 ## Consolidación (relevo 2 del pedido L35, 2026-11-16)
 
 Consolidado en `general/` (historia/arquitectura argentina). Cruce [[secretos-geograficos-argentina]] ( Buenos Aires urbana; túneles de la Casa Rosada en WL-267). Canal a texto plano por umbral <2: Mati en la Ciudad.
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]
+- [[secretos-geograficos-argentina]]

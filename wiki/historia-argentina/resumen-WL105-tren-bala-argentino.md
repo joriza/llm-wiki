@@ -31,3 +31,8 @@ Hoy el tren Buenos Aires–Rosario tarda más de 7 horas — **el mismo tiempo q
 ---
 
 **Notas de triage**: divulgación histórica-económica breve y bien estructurada; sin patrocinio detectado. Dominio destino previsto: general / sociedad-argentina (infraestructura y proyectos estatales) — pendiente consolidación. Datos históricos (fechas, montos, condena de Jaime) contrastables con registro público; el marco «país que no sostiene proyectos» es opinión editorial del canal.
+
+
+## Ver también
+
+- [[cancelacion-adaptativa-ruido]]

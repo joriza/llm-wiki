@@ -32,3 +32,8 @@ La escuela transformó a San Martín en un mito religioso de Estado; el hombre r
 - Cifras del cruce (4200 hombres, más de 10.000 animales, -15 °C, 3500 llegados, 15-20 días) coinciden con los rangos clásicos pero varían según la fuente; verificar antes de citar.
 - La lectura final (el poder como monopolio que no se autolimita; la libertad «desde abajo» sin Estado) es tesis ideológica del canal — útil como posición registrada, no como conclusión historiográfica.
 - Garbiñeos del ASR normalizados solo aquí: «La Bayonesa» (*La Bayonnaise*), «El tercer rage» (Tercer Reich), «antirrelista» (antirrealista). Las promociones internas del canal (episodio «¿Por qué caen los imperios?», video futuro sobre defensa anarquista) quedan excluidas de esta síntesis.
+
+
+## Ver también
+
+- [[fabricacion-odm-vs-marca]]
