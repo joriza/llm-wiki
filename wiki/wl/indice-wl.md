@@ -208,3 +208,17 @@ Cabeza WL-412 (`qEvVAyWo3_s`, índice 100 del cache de 04:52) verificada contra 
 | 417 | ¿Dónde está el pedazo que le falta a la Casa Rosada? | Mati en la Ciudad (1.ª fuente) | general/ (historia/arquitectura argentina) |
 
 Señales: WL-412 NO factual (cifras de 2.ª mano sin enlaces, humor rioplatense; autopromoción Discord excluida); WL-414/416 anuncio OpenAI SIN validación externa («declarado haber resuelto»); el bloque de polémica de plagio (Buckmaster/Alpoge-Anthropic, 88 h × 10.000 agentes, arranque 1-sep por rumores) es de 2.ª mano sin enlaces — fechas y nombres ASR (Bookmaster=Buckmaster, «Luis Martínez Zorroa» por confirmar) verificar; WL-415 1.ª mano con mecanismo estándar (JWT+Redis+interceptor 401), cierre comercial excluido; WL-417 divulgación de calidad con fechas/planos y lagunas admitidas. Cruces candidatos: WL-414/416 mismas fuente+noticia; WL-416 vs WL-408 (declarada vs verificada, Lean); WL-409 (hitos reales vs apocalipsis-narrativa); WL-412 con [[brecha-junior-ia]], WL-352/221, WL-146 (mismo canal); WL-415 con [[hdeleon-net]] +1, WL-400/351; WL-417 con [[secretos-geograficos-argentina]]; entidades candidatas: Dot CSV (canal), Mati en la Ciudad (canal). Cabeza futura: WL-418 (índice 106 del cache, `GlRHi8SmmQ0`).
+
+## Tramo 69 (relevo 9 de 12 del pedido L34) — 5/5 útiles + 1 skip
+
+Cabeza WL-418 (`GlRHi8SmmQ0`, índice 106 del cache de 04:52) verificada contra el cache antes del primer `--one` (WL-417 = índice 105 confirma el cierre del relevo 8); 5 descargas `--one` con puerta 60-90 s; 1 skip (WL-419 privado, `.no-subs`), 0 meta-fail, sin 429. Pendientes de consolidación (L12):
+
+| WL | Título | Canal | Dominio previsto |
+|---|--------|-------|------------------|
+| 418 | Introducción a la Programación con IA 🚀 GUÍA COMPLETA desde Cero | Nichonauta (3.ª fuente) | ia-uso-practico/ |
+| 420 | Por qué el PAN de hoy es una PORQUERÍA | Marcos Di Cesare (+1) | cocina/ |
+| 421 | Un engaño planificado y Manaos: el drama de una joven que le debe mil millones de pesos al fisco | Semanario Actualidad (1.ª fuente) | sociedad-argentina/ |
+| 422 | I Discovered This Hidden Wiring Trick In An Old Forum! | LRN2DIY (1.ª fuente) | general/ (bricolaje/electricidad) |
+| 423 | Cómo el Nuevo Invento de China Va a Reemplazar tu Impresora Para Siempre | NovaMente X (1.ª fuente) | general/ (tecnología/consumo) — NO factual |
+
+Señales: WL-418 didáctico introductorio sin datos duros, marco comercial del libro de $10 declarado y excluido; WL-420 base técnica real (ácido fítico/fitasas, hidrogenación) mezclada con afirmaciones sin evidencia (bromato «camuflado») y fuerte interés comercial propio — señalados; WL-421 testimonio de primera mano sin verificación independiente del canal, anclado a la causa Manaos (cifras de 2.ª mano) — señalado; WL-422 demo de primera mano, estándar eléctrico US con aplicabilidad local parcial; WL-423 NO factual (parte china sin fuentes ni enlaces, marco hype, título clickbait; la parte modelo-Gillette sí documentada). Cruces candidatos: [[nichonauta]] +1 (WL-418), [[marcos-di-cesare]] +1 (WL-420), WL-421↔WL-182 (historia Manaos), WL-423↔[[gillette]] (WL-7), WL-422↔WL-207/WL-169; entidades candidatas: Semanario Actualidad, LRN2DIY, NovaMente X (todas 1.ª fuente). Cabeza futura: WL-424 (índice 111 del cache de 04:52, `X2eMvB_qp7c`).
