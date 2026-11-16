@@ -1,9 +1,9 @@
 # WL-500 — DEJA de hervir los HUEVOS así: el truco japonés para que se pelen SOLOS
 
-- **Fuente original**: `raw/wl/tramo-83/2026-11-09-deja-de-hervir-los-huevos-asi-el-truco-japones-para-que-se-pelen-solos-y-la-yema.md` ([Vídeo](https://www.youtube.com/watch?v=lE5o1fxwhcE))
+- **Fuente original**: `raw/cocina/2026-11-09-deja-de-hervir-los-huevos-asi-el-truco-japones-para-que-se-pelen-solos-y-la-yema.md` ([Vídeo](https://www.youtube.com/watch?v=lE5o1fxwhcE))
 - **Canal**: Hiroshi Tanabe (1.ª fuente WL)
 - **Publicado**: 2026-11-08 · **Duración**: 17:44
-- **Dominio provisional**: cocina (técnica de cocción + 3 recetas japonesas)
+- **Dominio definitivo**: cocina (consolidación T90, 2026-11-16). Provisional: cocina (técnica de cocción + 3 recetas japonesas)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
@@ -38,3 +38,7 @@ Guía práctica (en lista invertida del 10 al 1) de un cocinero japonés de +50 
 ## Veredicto de triage
 
 Excelente para triage: responde exactamente al caso de uso S2 (saber antes de mirar si el video era lo esperado). Conservar como cocina/técnica; la validez de los tiempos es comprobable en casa (el propio video lo plantea como experimento).
+
+## Consolidación (T90)
+
+Dominio definitivo: `cocina/`. Canal Hiroshi Tanabe: 1.ª fuente, texto plano (umbral <2). Cruce en texto: WL-186 (trucos de vida diaria) y el patrón transversal «revisar la costumbre heredada con un método mejor». Sin contradicciones; química simplificada sin citas — señalada.
