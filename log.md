@@ -4069,3 +4069,11 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - **Otros dominios sobre el umbral de ~30**: electronica-practica (117), agentes-de-codigo (113), ia-uso-practico (93), ia-local (83), python-practico (77), ia-critica-y-fronteras (77). Evaluar división solo si hay subtemas claramente diferenciados.
 - **`economia-argentina/` frágil**: 5 archivos; «propuesta b» (fusión con sociedad-argentina) pendiente desde T89.
 - **Huérfanos**: 265 páginas sin enlaces entrantes (predominan resúmenes de fuente sin cruce todavía). Trabajo de cableado cruzado extenso, propuesto en lotes por dominio.
+
+## [2026-11-16] lint | ejecución de la revisión general (T1-T7)
+
+- **Dominios nuevos** (decisión del usuario): `naufragios-y-exploracion/` (Titanic WL-478, Tromelin WL-480, Vinland WL-489, Balsa Acali WL-535) y `estafas-y-consumidor/` (Binance WL-130, PayPal WL-235, smart TV WL-426, lavado de dinero WL-493, Telefónica WL-449); registrados en `dominios.md`.
+- **Migraciones desde `general/`**: 117 resúmenes (+ espejos raw con `git mv`, citas «Fuente original» y filas de `index.md` actualizadas; commits atómicos por dominio destino): economia-argentina +3 (WL-123/163/193), sociedad-argentina +21, historia-argentina +8, informatica +20, informatica-teoria +11, electronica-practica +9, electromecanica +7, ciencias-tierra +9, salud-fitness +10, cocina +5, desarrollo-personal +11, historia-informatica +4, self-hosting +5, ia-uso-practico +7, ia-critica-y-fronteras +3, critica-tecnologica +6 (5 conceptos + WL-183), ia-media-generativa +1. Ambiguos quedaron en `general/` (S4): WL-197 piratas, WL-365 costa esqueletos, entre otros. `general/` baja de 274 a ~120 archivos (resúmenes + conceptos/entidades).
+- **`economia-argentina/` mantenida y reforzada** (decisión del usuario; propuesta b de absorción queda archivada).
+- **Huérfanos**: 188 resúmenes cableados con sección «Ver también» hacia conceptos/entidades existentes afines (matching de términos, ≥2 hits), en commits por dominio. Los 3 archivos raíz tocados por error del script fueron revertidos antes del commit.
+- **Pendiente para próxima revisión**: evaluar división de dominios >30 (electronica-practica 126, agentes-de-codigo 113, ia-uso-practico ~100); propuestas (a) unificación `*-argentina` y (c) división sociedad-argentina siguen abiertas.
