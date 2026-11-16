@@ -1,6 +1,6 @@
 # WL-138 — Ingenieros Argentinos Desmontaron Un Coche Chino: Esto Es Lo Que Encontraron Dentro
 
-- **Fuente original**: `raw/general/2026-10-16-ingenieros-argentinos-desmontaron-un-coche-chino-esto-es-lo-que-encontraron-dent.md` (`mNl2bE5ya6o`, [Visión Automotor](https://www.youtube.com/watch?v=mNl2bE5ya6o), 2026-10-16, 22:57).
+- **Fuente original**: `raw/electromecanica/2026-10-16-ingenieros-argentinos-desmontaron-un-coche-chino-esto-es-lo-que-encontraron-dent.md` (`mNl2bE5ya6o`, [Visión Automotor](https://www.youtube.com/watch?v=mNl2bE5ya6o), 2026-10-16, 22:57).
 - **Canal**: Visión Automotor
 - **Publicado**: 2026-10-16
 - **Tipo**: divulgación industrial/análisis automotriz

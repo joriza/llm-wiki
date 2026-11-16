@@ -1,6 +1,6 @@
 # WL-207 · ¿Cómo Recablear Bien un Depto? Completo. Paso a Paso
 
-- **Fuente original**: `raw/general/2026-10-15-como-re-cablear-bien-un-depto-completo-paso-a-paso.md`
+- **Fuente original**: `raw/electromecanica/2026-10-15-como-re-cablear-bien-un-depto-completo-paso-a-paso.md`
 - **Video**: [¿Cómo Recablear Bien un Depto? Completo. Paso a Paso](https://www.youtube.com/watch?v=nVPV-5aKfTY)
 - **Canal**: Electricista y Gasista Matriculado GB
 - **Publicado**: 2026-10-15 · **Duración**: 29:28 · **Ingesta**: 2026-11-15 (tramo 28, formato dominio pendiente de consolidación)

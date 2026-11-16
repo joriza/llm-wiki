@@ -1,6 +1,6 @@
 # WL-188 · Automatic Water Tank Filler Using 555 Timer
 
-- **Fuente original**: `raw/general/2026-10-13-automatic-water-tank-filler-using-555-timer.md` (`T7Jy082bmz4`)
+- **Fuente original**: `raw/electromecanica/2026-10-13-automatic-water-tank-filler-using-555-timer.md` (`T7Jy082bmz4`)
 - **Canal**: Wirecora · **Publicado**: 2026-10-13 · **Duración**: 0:06 (Short) · **Idioma**: inglés (subtítulos automáticos)
 
 ## Qué trata

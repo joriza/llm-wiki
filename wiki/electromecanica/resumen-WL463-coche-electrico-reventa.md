@@ -3,7 +3,7 @@
 - **Fuente original**: `raw/wl/tramo-76/2026-08-09-el-problema-de-los-coches-electricos-que-descubri-demasiado-tarde.md` ([Vídeo](https://www.youtube.com/watch?v=qjy0s3hoiKg))
 - **Canal**: Anastasia (rusa que habla español, vive en Noruega)
 - **Publicado**: 2026-08-09 · **Duración**: 34:47
-- **Dominio provisional**: general (automoción / experiencia personal — blog de vida)
+- **Dominio provisional**: electromecanica (automoción / experiencia personal — blog de vida)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
