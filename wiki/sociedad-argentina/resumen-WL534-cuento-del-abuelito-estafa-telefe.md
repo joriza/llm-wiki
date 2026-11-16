@@ -1,9 +1,9 @@
 # WL-534 — El CUENTO DEL ABUELITO: la nueva modalidad de ESTAFA VIRTUAL
 
-- **Fuente original**: `raw/wl/tramo-84/2026-08-25-el-cuento-del-abuelito-la-nueva-modalidad-de-estafa-virtual-telefenoticias.md` ([Vídeo](https://www.youtube.com/watch?v=K5u5l2T5lJk))
+- **Fuente original**: `raw/sociedad-argentina/2026-08-25-el-cuento-del-abuelito-la-nueva-modalidad-de-estafa-virtual-telefenoticias.md` ([Vídeo](https://www.youtube.com/watch?v=K5u5l2T5lJk))
 - **Canal**: Telefe Noticias (1.ª fuente WL)
 - **Publicado**: 2026-08-25 · **Duración**: 06:52
-- **Dominio provisional**: general (seguridad consumidor / estafas)
+- **Dominio definitivo**: sociedad-argentina (consolidación T90, 2026-11-16). Provisional: general (seguridad consumidor / estafas)
 - **Fecha de ingesta**: 2026-11-16
 
 ## Qué trata
@@ -29,3 +29,7 @@ Nota periodística (formato segmento de noticiero con el especialista Mariano de
 ## Veredicto de triage
 
 Nota útil de prevención con caso real y desglose mecánico de la estafa en 3 fases; los montos son declarativos (2.ª mano) — señalados. Conservar en general (seguridad consumidor); candidata a consolidarse con WL-235 y futuras fuentes del tema estafas.
+
+## Consolidación (T90)
+
+Dominio definitivo: `sociedad-argentina/` (actualidad social/consumidor Argentina; sugerencia «general» del resumen superada por el alcance del dominio: caso real de estafa en Argentina con víctima local). Canal Telefe Noticias: 1.ª fuente, texto plano (umbral <2; medio con muchas fuentes potenciales). Cruces en texto: WL-235 (seguridad consumidor), WL-130 (cripto/seguridad). Montos declarativos 2.ª mano — señalados.
