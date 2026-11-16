@@ -37,3 +37,9 @@ Comparativa con builds reales (misma app de escritorio, misma máquina, una corr
 ## Veredicto de triage
 
 Comparativa técnica útil y honesta; conservar.
+
+
+## Ver también
+
+- [[codigo-espinoza]]
+- [[routing-por-coste]]

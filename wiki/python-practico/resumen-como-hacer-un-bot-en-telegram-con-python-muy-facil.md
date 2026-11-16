@@ -27,3 +27,8 @@ Fuente de automatización de mensajería: los patrones decorator-handler + polli
 ---
 
 **Ver también**: [[resumen-taller-consumir-apis-con-python-poke-api]] · [[automatizacion-con-python]] · [[dynaconf]].
+
+
+## Ver también
+
+- [[automatizacion-con-python]]

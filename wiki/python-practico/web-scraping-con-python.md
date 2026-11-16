@@ -15,3 +15,8 @@
 - El scraping es la **fuente de datos** del pipeline de [[automatizacion-con-python]]: los datos extraídos entran a [[polars]]/[[duckdb]] para análisis (ejemplo del corpus: scraping → dataset → ejercicio pandas de la encuesta StackOverflow).
 - Contraste ético/legal tocado de paso en las fuentes (respetar robots.txt y términos de servicio); sin desarrollo profundo — laguna abierta del dominio.
 - `playwright` (entidad de la wiki, fuera de este lote) cubre la parte que las tres fuentes no tocan: páginas dinámicas con JavaScript.
+
+
+## Ver también
+
+- [[automatizacion-con-python]]

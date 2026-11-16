@@ -25,3 +25,8 @@ Pieza de herramental básico del dominio: es la contraparte IDE-científica de l
 ---
 
 **Ver también**: [[resumen-podras-contra-este-ejercicio-avanzado-de-python]] · [[resumen-FAV-333-uv-reemplaza-pip]].
+
+
+## Ver también
+
+- [[interfaces-graficas-python]]

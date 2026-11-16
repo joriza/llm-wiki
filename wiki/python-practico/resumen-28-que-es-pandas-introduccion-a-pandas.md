@@ -30,3 +30,10 @@ Es la pieza teórica que fundamenta el ejercicio aplicado de [[resumen-podras-co
 ---
 
 **Ver también**: [[resumen-podras-contra-este-ejercicio-avanzado-de-python]] · [[duckdb]] · [[polars]].
+
+
+## Ver también
+
+- [[bases-de-datos]]
+- [[bases-de-datos-especializadas]]
+- [[mapa-del-ecosistema-python]]

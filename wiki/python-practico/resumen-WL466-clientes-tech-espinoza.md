@@ -31,3 +31,11 @@ Caso real de automatización del **cierre contable mensual** con Python (Pandas)
 ## Veredicto de triage
 
 Caso práctico concreto y bien argumentado; conservar.
+
+
+## Ver también
+
+- [[automatizacion-con-python]]
+- [[brecha-junior-ia]]
+- [[codigo-espinoza]]
+- [[delegacion-cognitiva-ia]]

@@ -28,3 +28,8 @@ Un sistema de inventario de consola con dos clases: **Producto** (artículo indi
 ## Citas al original
 
 Todas las afirmaciones provienen de `raw/python-practico/2026-01-06-sistema-de-inventario-en-python-con-poo-proyecto-real-de-entrevistas-tecnicas.md` (transcripción automática; marcas de tiempo en el original).
+
+
+## Ver también
+
+- [[codigo-espinoza]]

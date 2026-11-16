@@ -19,3 +19,8 @@
 | Estado | Manual en KV/bindings | Evento → recálculo → `page.update()` |
 
 El corpus no declara un ganador (Kivy aparece 4 años antes); la línea temporal sugiere que Flet representa el estado del arte del enfoque «todo-Python», en el mismo espíritu del hilo web de [[frameworks-web-python]] (Reflex/ReactPy/FastHTML). Tkinter/PyQt solo aparecen de pasada en el mapa de librerías ([[resumen-descubre-las-mejores-librerias-python-en-15-minutos]]) — laguna abierta: ningún tutorial de GUI clásica de escritorio.
+
+
+## Ver también
+
+- [[frameworks-web-python]]

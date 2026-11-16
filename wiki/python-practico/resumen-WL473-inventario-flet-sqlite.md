@@ -33,3 +33,10 @@ Caso real de entrega de un sistema de inventario de escritorio en **4 días** (c
 ## Veredicto de triage
 
 Caso práctico concreto con decisiones bien argumentadas; conservar.
+
+
+## Ver también
+
+- [[codigo-espinoza]]
+- [[historia-software-corporativa]]
+- [[routing-por-coste]]
