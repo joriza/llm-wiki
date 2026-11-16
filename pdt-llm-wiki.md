@@ -1,21 +1,42 @@
 # es un documento borrador del autor, no debe tomarse en cuenta.
 
-Refresque la lista WL. 
-Deme listado actualizado de los items procesados para curar la lista WL. 
-Realice consolidacion demorada. 
-Pushee a remoto y cierre acá.
+# Lista Youtube para ver mas tarde
+Hacé refresh de la lista WL
+Procesa 30 fuentes de la lista WL de Youtube
+Comienza desde la cabeza.
+Recuerda procesar en un unico sub-agente.
+con relevo cada 5 fuentes
+-
+Terminadas esas tarea dale la orden a windows para que se apague.
 
 
-He cerrado el navegador.
-Realice copia de seguridad de favoritos.
-Elimine marcadores procesados con exito.
+# Curar lista Youtube "ver mas tarde"
+Hacé refresh de la lista WL y 
+dame hasta 30 procesados que pueda eliminar para curarla, 
+con los títulos tal cual los veo en YouTube y 
+los números visibles de mi listado │ (excluyendo los deleted/private).
+ -
+Realiza consolidacion demorada. 
+Pushea a remoto y cierra acá.
 
 
+# Una lista de youtube (con sub agente)
+Procese la lista 
+https://www.youtube.com/playlist?list=PLqe2XRWDm9RHSidWrA_4BSEUjj9JqtDr6
+Recuerde procesar en un unico sub-agente.
+con relevo cada 5 fuentes
+
+# Favoritos de Chrome
 He modificado un poco los favoritos. Refresque.
-procese la carpeta "Gral\IOT Gral" y sus subcarpetas.
+procese la carpeta "Docencia\Material Didactico Varios" y sus subcarpetas.
 Procese todos los marcadores que le sean posible, además de los video de youtube.
 Recuerde procesar en un unico sub-agente.
 con relevo cada 5 fuentes
+
+# Otro Favoritos Chrome
+He modificado un poco los favoritos. Refresque.
+Analice las carpetas "Gral\tmp-02\Vs", "Docencia\Material Didactico Varios" y sus subcarpetas.
+Digame cuantas fuentes incluye
 
 
 ==========================================================================================
@@ -70,23 +91,17 @@ Me gustan las propuestas siguientes, pero pueden variar luego del análisis.
 
 
 Como suelo ingestar algunas listas que crecen con el tiempo.
-Como serían mis pasos correctos para luego de resumit videos de lista "ver mas tarde"
+Como serían mis pasos correctos para luego de resumir videos de lista "ver mas tarde"
 y no mezclar consolidaciones o repetir procesos de ingestas en videos ya procesados.
 o quitar o consolidar puntualmente videos de "ver mas tarde"
 
-
-Procese las  carpetas Electricidad Basica Teorica y Electronica Basica en una sola pasada
-
-
-De la carpeta Gral procese el contenidos y las subcarpetas de:
-Proxmox
-Python
-y Nichobauta
-
----
 
 He modificado un poco los favoritos. Refresque.
 procese la carpeta "Gral\IOT Gral" y sus subcarpetas.
 Procese todos los marcadores que le sean posible, además de los video de youtube.
 Recuerde procesar en un unico sub-agente.
 con relevo cada 5 fuentes
+
+---
+
+
