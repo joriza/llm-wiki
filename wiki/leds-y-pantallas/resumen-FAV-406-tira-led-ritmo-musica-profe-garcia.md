@@ -2,7 +2,7 @@
 
 **Fuente**: [✅ Tira LED al Ritmo de la Música, muy fácil de hacer en casa](https://www.youtube.com/watch?v=ZsMuX1fI0Fs)
 **Canal**: El profe García · **Publicado**: 2021-01-20 · **Duración**: 11:46 · **Idioma**: es (subs automáticos)
-**Raw**: `raw/electronica-practica/2021-01-20-tira-led-ritmo-musica-profe-garcia.md` (FAV-406, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2021-01-20-tira-led-ritmo-musica-profe-garcia.md` (FAV-406, 2026-11-15)
 
 *Nota*: el bookmark traía una playlist ajena (`list=`), ignorada según S4.
 

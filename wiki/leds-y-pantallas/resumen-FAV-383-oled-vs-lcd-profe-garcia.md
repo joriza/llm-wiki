@@ -2,7 +2,7 @@
 
 **Fuente**: [Pantallas OLED son el Fin para LCD se Quedaron Obsoletas](https://www.youtube.com/watch?v=a-p9uYt_Kp4)
 **Canal**: El profe García · **Publicado**: 2020-11-21 · **Duración**: 18:29
-**Raw**: `raw/electronica-practica/2026-11-15-pantallas-oled-fin-de-lcd.md` (FAV-383, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2026-11-15-pantallas-oled-fin-de-lcd.md` (FAV-383, 2026-11-15)
 
 ## Qué cubre
 

@@ -2,7 +2,7 @@
 
 **Fuente**: [Videos y Animaciones en Oled con Arduino](https://www.youtube.com/watch?v=AXo3sLMQ89o)
 **Canal**: Electrónica Con Piero · **Publicado**: 2021-04-22 · **Duración**: 07:18
-**Raw**: `raw/electronica-practica/2021-04-22-videos-animaciones-oled-arduino-electronica-con-piero.md` (FAV-387, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2021-04-22-videos-animaciones-oled-arduino-electronica-con-piero.md` (FAV-387, 2026-11-15)
 
 ## Qué cubre
 

@@ -2,7 +2,7 @@
 
 **Fuente**: [Arduino Uno y TFT 2.2" SPI 240x320](https://www.youtube.com/watch?v=L3uvcPo682k)
 **Canal**: ARDUINOLOVER · **Publicado**: 2018-07-13 · **Duración**: 11:09
-**Raw**: `raw/electronica-practica/2018-07-13-arduino-uno-tft-22-spi-arduinolover.md` (FAV-390, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2018-07-13-arduino-uno-tft-22-spi-arduinolover.md` (FAV-390, 2026-11-15)
 
 ## Qué cubre
 

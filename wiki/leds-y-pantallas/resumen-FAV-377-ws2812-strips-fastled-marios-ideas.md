@@ -1,7 +1,7 @@
 # FAV-377 — Tiras WS2812 con Arduino y FastLED
 
 - **Fuente**: [YouTube](https://www.youtube.com/watch?v=YKSFRmvA9A0) · canal Mario's Ideas · 2025-05-15 · 15:49 · FAV-377 (en inglés, subs auto)
-- **Transcripción**: `raw/electronica-practica/2025-05-15-ws2812-strips-arduino-fastled-marios-ideas.md`
+- **Transcripción**: `raw/leds-y-pantallas/2025-05-15-ws2812-strips-arduino-fastled-marios-ideas.md`
 - **Dominio**: electronica-practica/
 
 ## De qué va

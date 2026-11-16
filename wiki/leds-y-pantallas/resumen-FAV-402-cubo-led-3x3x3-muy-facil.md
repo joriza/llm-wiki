@@ -2,7 +2,7 @@
 
 **Fuente**: [Cómo Hacer Cubo De LED 3x3x3 (muy fácil de hacer)](https://www.youtube.com/watch?v=rw2tA0LZgwY)
 **Canal**: Muy Fácil De Hacer · **Publicado**: 2015-09-12 · **Duración**: 12:55 · **Idioma**: es (subs automáticos)
-**Raw**: `raw/electronica-practica/2015-09-12-cubo-led-3x3x3-muy-facil.md` (FAV-402, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2015-09-12-cubo-led-3x3x3-muy-facil.md` (FAV-402, 2026-11-15)
 
 ## Qué cubre
 

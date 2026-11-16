@@ -2,7 +2,7 @@
 
 **Fuente**: [1.8" DIY Photo Frame using an Arduino Nano and a 1.8" ST7735 Color TFT display](https://www.youtube.com/watch?v=X8syt55ITUo)
 **Canal**: educ8s.tv (Nick) · **Publicado**: 2016-05-28 · **Duración**: 05:36 (inglés, subs manuales)
-**Raw**: `raw/electronica-practica/2016-05-28-photo-frame-st7735-arduino-nano-educ8s.md` (FAV-389, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2016-05-28-photo-frame-st7735-arduino-nano-educ8s.md` (FAV-389, 2026-11-15)
 
 ## Qué cubre
 

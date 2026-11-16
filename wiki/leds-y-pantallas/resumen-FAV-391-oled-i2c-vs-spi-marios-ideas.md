@@ -2,7 +2,7 @@
 
 **Fuente**: [¡No elijas la pantalla OLED equivocada! Explicación de I²C y SPI para Arduino y ESP32](https://www.youtube.com/watch?v=ICXznCN3NOI)
 **Canal**: Mario's Ideas · **Publicado**: 2026-02-28 · **Duración**: 19:46 · **Idioma**: en (subs automáticos)
-**Raw**: `raw/electronica-practica/2026-02-28-oled-i2c-vs-spi-marios-ideas.md` (FAV-391, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2026-02-28-oled-i2c-vs-spi-marios-ideas.md` (FAV-391, 2026-11-15)
 
 ## Qué cubre
 

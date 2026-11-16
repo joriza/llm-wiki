@@ -2,7 +2,7 @@
 
 **Fuente**: [Cómo usar la pantalla OLED SSD1306 con ARDUINO (128x64)](https://www.youtube.com/watch?v=cWgWvNhWg-A)
 **Canal**: La Buhardilla del Loco · **Publicado**: 2021-05-09 · **Duración**: 13:41
-**Raw**: `raw/electronica-practica/2026-11-15-pantalla-oled-ssd1306-arduino.md` (FAV-382, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2026-11-15-pantalla-oled-ssd1306-arduino.md` (FAV-382, 2026-11-15)
 
 ## Qué cubre
 

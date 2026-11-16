@@ -1,7 +1,7 @@
 # FAV-378 — Desplazar texto en matriz LED MAX7219 con Arduino y Bluetooth
 
 - **Fuente**: [YouTube](https://www.youtube.com/watch?v=H46f9G4vE0Y) · canal ElectronicSpot · 2023-09-26 · 15:07 · FAV-378
-- **Transcripción**: `raw/electronica-practica/2023-09-26-scroll-matriz-led-max7219-bluetooth-electronicspot.md`
+- **Transcripción**: `raw/leds-y-pantallas/2023-09-26-scroll-matriz-led-max7219-bluetooth-electronicspot.md`
 - **Dominio**: electronica-practica/
 
 ## De qué va

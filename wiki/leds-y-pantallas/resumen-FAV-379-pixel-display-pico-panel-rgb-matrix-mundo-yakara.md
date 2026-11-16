@@ -1,7 +1,7 @@
 # FAV-379 — PIXEL DISPLAY: Raspberry Pico en panel RGB matrix
 
 - **Fuente**: [YouTube](https://www.youtube.com/watch?v=heakxsSaNao&t=1824s) · canal Mundo Yakara · 2023-10-27 · 43:14 · FAV-379
-- **Transcripción**: `raw/electronica-practica/2023-10-27-pixel-display-raspberry-pico-panel-rgb-matrix-mundo-yakara.md`
+- **Transcripción**: `raw/leds-y-pantallas/2023-10-27-pixel-display-raspberry-pico-panel-rgb-matrix-mundo-yakara.md`
 - **Dominio**: electronica-practica/
 
 ## De qué va

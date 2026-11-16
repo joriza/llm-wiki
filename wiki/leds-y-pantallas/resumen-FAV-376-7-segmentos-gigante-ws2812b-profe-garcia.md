@@ -1,7 +1,7 @@
 # FAV-376 — Display de 7 segmentos gigante con WS2812B
 
 - **Fuente**: [YouTube](https://www.youtube.com/watch?v=I3Q0RrcN8iY) · canal El profe García · 2026-01-11 · 12:54 · FAV-376
-- **Transcripción**: `raw/electronica-practica/2026-01-11-7-segmentos-gigante-ws2812b-profe-garcia.md`
+- **Transcripción**: `raw/leds-y-pantallas/2026-01-11-7-segmentos-gigante-ws2812b-profe-garcia.md`
 - **Dominio**: electronica-practica/
 
 ## De qué va

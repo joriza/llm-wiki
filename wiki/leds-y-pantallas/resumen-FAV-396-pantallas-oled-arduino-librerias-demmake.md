@@ -2,7 +2,7 @@
 
 **Fuente**: [Pantallas Oled con Arduino Librerias y Ejemplos](https://www.youtube.com/watch?v=XYBcr1KpN3Y)
 **Canal**: deMMake · **Publicado**: 2019-05-30 · **Duración**: 12:23 · **Idioma**: es (subs automáticos)
-**Raw**: `raw/electronica-practica/2019-05-30-pantallas-oled-arduino-librerias-ejemplos-demmake.md` (FAV-396, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2019-05-30-pantallas-oled-arduino-librerias-ejemplos-demmake.md` (FAV-396, 2026-11-15)
 
 ## Qué cubre
 

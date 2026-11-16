@@ -1,7 +1,7 @@
 # FAV-380 — Raspy2DMD: GIFs, videos y más en panel LED matrix con Raspberry Pi Zero 2 W
 
 - **Fuente**: [YouTube](https://www.youtube.com/watch?v=eaNmocPyS_k) · canal Mundo Yakara · 2024-02-02 · 40:04 · FAV-380
-- **Transcripción**: `raw/electronica-practica/2024-02-02-raspy2dmd-gifs-videos-panel-led-matrix-mundo-yakara.md`
+- **Transcripción**: `raw/leds-y-pantallas/2024-02-02-raspy2dmd-gifs-videos-panel-led-matrix-mundo-yakara.md`
 - **Dominio**: electronica-practica/
 
 ## De qué va

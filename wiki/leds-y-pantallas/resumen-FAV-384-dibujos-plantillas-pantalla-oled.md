@@ -2,7 +2,7 @@
 
 **Fuente**: [Dibujos en Pantalla OLED, No creerás lo fácil que es crear plantillas](https://www.youtube.com/watch?v=QJcN89AFxV0)
 **Canal**: El profe García · **Publicado**: 2020-11-25 · **Duración**: 14:46
-**Raw**: `raw/electronica-practica/2026-11-15-dibujos-plantillas-pantalla-oled.md` (FAV-384, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2026-11-15-dibujos-plantillas-pantalla-oled.md` (FAV-384, 2026-11-15)
 
 ## Qué cubre
 

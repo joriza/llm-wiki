@@ -2,7 +2,7 @@
 
 **Fuente**: [Como Conectar 100 LEDs a una Salida (Circuito)](https://www.youtube.com/watch?v=CtJqhg5Y6DA)
 **Canal**: El profe García · **Publicado**: 2013-11-20 · **Duración**: 05:32 · **Idioma**: es-419 (subs manuales)
-**Raw**: `raw/electronica-practica/2013-11-20-conectar-100-leds-una-salida-profe-garcia.md` (FAV-405, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2013-11-20-conectar-100-leds-una-salida-profe-garcia.md` (FAV-405, 2026-11-15)
 
 *Nota*: el bookmark traía una playlist ajena (`list=`), ignorada según S4.
 

@@ -2,7 +2,7 @@
 
 **Fuente**: [✅ Cubo LED, Como armarlo paso a paso (LED Cube)](https://www.youtube.com/watch?v=Ia3viImc_KM)
 **Canal**: El profe García · **Publicado**: 2014-03-26 · **Duración**: 07:24 · **Idioma**: es (subs automáticos)
-**Raw**: `raw/electronica-practica/2014-03-26-cubo-led-conexion-pic-profe-garcia.md` (FAV-398, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2014-03-26-cubo-led-conexion-pic-profe-garcia.md` (FAV-398, 2026-11-15)
 
 *Nota*: el bookmark traía una playlist ajena en la URL (`list=PLnwu2s7...`), ignorada según S4; el video real es el capítulo de **conexión del cubo LED al PIC** (paso a paso del montaje eléctrico, no del ensamblado de LEDs, que remite a videos previos del canal).
 

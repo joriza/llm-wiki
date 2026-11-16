@@ -2,7 +2,7 @@
 
 **Fuente**: [✅LED Mágicos, el secreto revelado y construcción desde cero](https://www.youtube.com/watch?v=-zV_KVFG-iY)
 **Canal**: El profe García · **Publicado**: 2022-05-18 · **Duración**: 13:03 · **Idioma**: es (subs automáticos)
-**Raw**: `raw/electronica-practica/2022-05-18-leds-magicos-induccion-profe-garcia.md` (FAV-407, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2022-05-18-leds-magicos-induccion-profe-garcia.md` (FAV-407, 2026-11-15)
 
 *Nota*: el bookmark traía una playlist ajena (`list=`), ignorada según S4.
 

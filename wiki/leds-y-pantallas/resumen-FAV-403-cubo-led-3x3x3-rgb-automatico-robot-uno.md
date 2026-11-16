@@ -2,7 +2,7 @@
 
 **Fuente**: [CUBO LED 3x3x3 muy facil de hacer || Leds RGB automáticos || [Explicado paso a paso]](https://www.youtube.com/watch?v=tItvqXAkzBk)
 **Canal**: Robot UNO · **Publicado**: 2021-02-04 · **Duración**: 12:31 · **Idioma**: es (subs automáticos)
-**Raw**: `raw/electronica-practica/2021-02-04-cubo-led-3x3x3-rgb-automatico-robot-uno.md` (FAV-403, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2021-02-04-cubo-led-3x3x3-rgb-automatico-robot-uno.md` (FAV-403, 2026-11-15)
 
 *Nota*: el bookmark traía una playlist ajena (`list=`), ignorada según S4.
 

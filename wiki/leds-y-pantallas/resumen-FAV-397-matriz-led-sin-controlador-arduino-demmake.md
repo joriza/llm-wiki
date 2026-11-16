@@ -2,7 +2,7 @@
 
 **Fuente**: [👾 Matriz LED Sin Controlador - Arduino - Conexion y Codigo](https://www.youtube.com/watch?v=_vqPmitnlxA)
 **Canal**: deMMake · **Publicado**: 2019-02-20 · **Duración**: 19:59 · **Idioma**: es (subs automáticos)
-**Raw**: `raw/electronica-practica/2019-02-20-matriz-led-sin-controlador-arduino-demmake.md` (FAV-397, 2026-11-15)
+**Raw**: `raw/leds-y-pantallas/2019-02-20-matriz-led-sin-controlador-arduino-demmake.md` (FAV-397, 2026-11-15)
 
 ## Qué cubre
 

@@ -1,7 +1,7 @@
 # FAV-375 — Convertir una tira LED WS2812B en pantalla LED 16×16
 
 - **Fuente**: [YouTube](https://www.youtube.com/watch?v=_cXA2WV_Ouo) · canal El profe García · 2020-07-14 · 22:05 · FAV-375
-- **Transcripción**: `raw/electronica-practica/2020-07-14-tira-led-pantalla-16x16-ws2812b-profe-garcia.md`
+- **Transcripción**: `raw/leds-y-pantallas/2020-07-14-tira-led-pantalla-16x16-ws2812b-profe-garcia.md`
 - **Dominio**: electronica-practica/
 
 ## De qué va
