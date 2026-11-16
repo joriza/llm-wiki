@@ -1,6 +1,6 @@
 # WL-238 — Olvida las Tierras Raras: Éste es el procesador del futuro, y China lo está acaparando
 
-- **Fuente original**: `raw/general/2026-10-13-olvida-las-tierras-raras-este-es-el-procesador-del-futuro-y-china-lo-esta-acapar.md`
+- **Fuente original**: `raw/electronica-practica/2026-10-13-olvida-las-tierras-raras-este-es-el-procesador-del-futuro-y-china-lo-esta-acapar.md`
 - **Video**: [Olvida las Tierras Raras: Éste es el procesador del futuro, y China lo está acaparando](https://www.youtube.com/watch?v=dwhxNA0KyCc)
 - **Canal**: NovaGea · **Publicado**: 2026-10-13 · **Duración**: 31:39 · **Ingesta**: 2026-11-15 (tramo 34)
 

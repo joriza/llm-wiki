@@ -1,6 +1,6 @@
 # WL-204 · La solución de $0,50 para que duren 4 veces más (lámparas LED automotrices)
 
-- **Fuente original**: `raw/general/2026-09-29-la-solucion-de-0-50-para-que-duren-4-veces-mas.md`
+- **Fuente original**: `raw/electronica-practica/2026-09-29-la-solucion-de-0-50-para-que-duren-4-veces-mas.md`
 - **Video**: [La solución de $0,50 para que duren 4 veces más](https://www.youtube.com/watch?v=Hibdwr8SOLI)
 - **Canal**: MICROTECNICA
 - **Publicado**: 2026-09-29 · **Duración**: 21:38 · **Ingesta**: 2026-11-15 (tramo 28, formato dominio pendiente de consolidación)

@@ -1,6 +1,6 @@
 # Por qué dejamos de comprar tarjetas de sonido
 
-- **Fuente original**: `raw/general/2026-10-11-por-que-dejamos-de-comprar-tarjetas-de-sonido.md`
+- **Fuente original**: `raw/electronica-practica/2026-10-11-por-que-dejamos-de-comprar-tarjetas-de-sonido.md`
 - **Video**: [Por qué dejamos de comprar tarjetas de sonido](https://www.youtube.com/watch?v=2wMvLuSbaE0)
 - **Canal**: Archivo del Futuro · **Publicado**: 2026-10-11 · **Duración**: ~24 min · **Ingesta**: 2026-11-15 (tramo 37)
 

@@ -1,6 +1,6 @@
 # WL-279 — «Capacitores: el robo de la fórmula que nadie pudo probar» (Archivo del Futuro)
 
-- **Fuente original**: `raw/general/2026-09-28-capacitores-el-robo-de-la-formula-que-nadie-pudo-probar.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/electronica-practica/2026-09-28-capacitores-el-robo-de-la-formula-que-nadie-pudo-probar.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=rDw8rz60U1w · Canal ARCHIVO DEL FUTURO · Publicado 2026-09-28 · 25:31 · Subtítulos automáticos es
 - **Tramo**: 41, fuente útil 1/5 (posición 91 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): general (historia de la tecnología/hardware; cruces historia-de-la-tecnologia, WL-256, WL-122, WL-144)

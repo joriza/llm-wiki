@@ -1,6 +1,6 @@
 # Resumen: ¿Por qué los radios tenían tantas bandas? AM, FM, SW, LW, VHF y UHF
 
-- **Fuente original**: `raw/general/2026-11-02-por-que-los-radios-tenian-tantas-bandas-am-fm-sw-lw-vhf-y-uhf.md` (WL-84, tramo 6)
+- **Fuente original**: `raw/electronica-practica/2026-11-02-por-que-los-radios-tenian-tantas-bandas-am-fm-sw-lw-vhf-y-uhf.md` (WL-84, tramo 6)
 - **URL**: https://www.youtube.com/watch?v=zjlTDnhGl-8
 - **Canal**: Tito López (radialista veterano de Medellín; divulgación de radio con perspectiva personal; escribe en Radio Notas)
 - **Publicado**: 2026-11-02 · **Duración**: ~19 min · **Idioma**: es (subtítulos automáticos, transcripción literal)

@@ -1,6 +1,6 @@
 # Resumen WL-362: Pagar más por un micrófono, ¿vale la pena? — SupraPixel
 
-**Fuente original:** `raw/general/2026-09-29-pagar-mas-por-un-microfono-vale-la-pena.md` (YouTube: `L2iMZIVYMAg`, canal **SupraPixel**, publicado 2026-09-29, 21:09).
+**Fuente original:** `raw/electronica-practica/2026-09-29-pagar-mas-por-un-microfono-vale-la-pena.md` (YouTube: `L2iMZIVYMAg`, canal **SupraPixel**, publicado 2026-09-29, 21:09).
 
 ---
 

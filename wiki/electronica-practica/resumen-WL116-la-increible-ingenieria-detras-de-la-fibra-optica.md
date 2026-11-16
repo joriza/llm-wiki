@@ -1,6 +1,6 @@
 # Resumen: La Increíble Ingeniería Detrás de la Fibra Óptica
 
-- **Fuente original**: `raw/general/2026-10-31-la-increible-ingenieria-detras-de-la-fibra-optica.md` (WL-116, tramo 10)
+- **Fuente original**: `raw/electronica-practica/2026-10-31-la-increible-ingenieria-detras-de-la-fibra-optica.md` (WL-116, tramo 10)
 - **Canal**: Veritasium en español
 - **Video**: https://www.youtube.com/watch?v=TWGxp6Okogw
 - **Publicado**: 2026-10-31 · **Duración**: 33:05 · **Idioma**: español (ASR, doblaje)

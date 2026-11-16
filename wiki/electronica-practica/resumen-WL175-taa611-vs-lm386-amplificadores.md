@@ -1,6 +1,6 @@
 # Viejo amplificador frente al LM386: ¿qué ha cambiado? || TAA611
 
-- **Fuente original**: `raw/general/2026-10-24-viejo-amplificador-frente-al-lm386-que-ha-cambiado-taa611.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=hPqKNT5P02A))
+- **Fuente original**: `raw/electronica-practica/2026-10-24-viejo-amplificador-frente-al-lm386-que-ha-cambiado-taa611.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=hPqKNT5P02A))
 - **Canal**: En Clave de Retro
 - **Publicado**: 2026-10-24 · **Duración**: 17:55 · **Idioma**: es-ES (subtítulos manuales)
 - **Recopilado**: 2026-11-15 (tramo 21, WL-175)
