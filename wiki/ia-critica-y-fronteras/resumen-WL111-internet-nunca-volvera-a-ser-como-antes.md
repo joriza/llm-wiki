@@ -25,3 +25,8 @@ Análisis económico del impacto de la búsqueda con IA (AI Mode / resúmenes de
 - Divulgación económica bien documentada (cifras de cuentas trimestrales, estudios Pew/Chartbeat, declaraciones citadas); desfile de patrocinios típico del canal a descartar (no aparece bloque de patrocinio explícito en la transcripción).
 - Dominio destino: ia-critica-y-fronteras (impacto económico de la IA sobre la web) — consolidación diferida (L12); S4 sin dominios nuevos.
 - Cruce natural con tramos anteriores sobre AI mode/resúmenes y economía de la web (consolidación pendiente).
+
+
+## Ver también
+
+- [[seguridad-fuera-del-modelo]]

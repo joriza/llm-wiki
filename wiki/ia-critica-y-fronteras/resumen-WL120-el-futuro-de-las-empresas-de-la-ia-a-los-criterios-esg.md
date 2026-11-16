@@ -26,3 +26,9 @@ Episodio de podcast (entrevista de Félix a Jorge Mendoza, desarrollador reconoc
 - Nombre de la herramienta inconsistente en el ASR («Bombo», «Bombu», «Bongo» — se usa «Bombu» como lectura más probable; el raw conserva las variantes).
 - Dominio destino previsto: general (negocios/sostenibilidad; S4 sin dominios nuevos) — consolidación diferida (L12). Cruce natural con fuentes de costo energético de la IA (reactores, centros de datos) si las hay en la consolidación.
 - Sin patrocinio externo (la autopromoción del invitado es el contenido mismo).
+
+
+## Ver también
+
+- [[bases-de-datos]]
+- [[bases-de-datos-especializadas]]

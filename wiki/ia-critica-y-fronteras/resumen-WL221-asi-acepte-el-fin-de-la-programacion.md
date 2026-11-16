@@ -26,3 +26,11 @@ Reflexión del autor (formador, 17 años en programación, 12 profesionales) sob
 - Marco comercial de fondo: el autor vive de cursos (YouTube + Udemy); mención final de su curso de programación (excluido de la síntesis).
 - Cruces previstos: WL-131/WL-190/WL-219 (comunicación, ansiedad social y desarrollo personal), WL-215 (salud/filosofía — aceptación vs. utilidad esperada), WL-132/WL-189 (crítica del hype IA), WL-153/WL-185/WL-203 (metodologías con agentes — el «qué estudiar hoy»), cluster videoensayos de opinión WL-199.
 - Dominio previsto: general (desarrollo personal/carrera tecnológica) o ia-critica-y-fronteras — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[arquitectura-software]]
+- [[futuro-del-trabajo]]
+- [[spec-driven-development]]
+- [[victor-robles-web]]

@@ -39,3 +39,9 @@ Tono crítico-ensayístico: «la empresa dejó de ser un grupo de personas con u
 ---
 
 **Notas de triage**: recopilación de tres segmentos ya publicados (el propio canal lo aclara); sin patrocinio relevante detectado (mención propia del canal excluida). Marco tech-estado con fuertes cruces temáticos con la estación WL (ia-critica-y-fronteras: WL-31/90; economía corporativa: WL-55/98-99). Números de 2025-2026 citados sin fuente primaria — verificar contra reportes antes de usar en síntesis.
+
+
+## Ver también
+
+- [[historia-software-corporativa]]
+- [[verificacion-como-valor]]

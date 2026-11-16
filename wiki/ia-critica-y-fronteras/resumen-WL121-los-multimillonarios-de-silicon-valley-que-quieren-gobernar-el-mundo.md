@@ -28,3 +28,8 @@ Explicación y crítica de la **neorreacción** (NRx) y la **Ilustración Oscura
 - ASR: nombres garbiñados normalizados en el resumen («Shade Di Vance/Shayn Idans» → J.D. Vance; «Sherwin/Schaviro» → Yarvin; «Long Corp» → Tlon Corp; «Jason Lee Storrs» → Jason Lee Steorts). El raw conserva la transcripción literal.
 - Dominio destino previsto: ia-critica-y-fronteras (crítica del poder tecnológico y del tecnocapitalismo; S4 sin dominios nuevos) — consolidación diferida (L12). Cruces naturales con WL-111 (crítica IA), WL-103 y fuentes tech-estado en la consolidación.
 - Sin patrocinio comercial.
+
+
+## Ver también
+
+- [[fundacion-libertad-y-progreso]]

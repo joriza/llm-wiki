@@ -32,3 +32,8 @@ Videoensayo en español (tono divulgativo-académico, voz de estudiante de cienc
 ## Dominio destino sugerido (pendiente de consolidación)
 
 `general/sociedad-argentina` no aplica (no es Argentina); candidato: `ia-critica-y-fronteras` (crítica del poder tecnológico) o `general` por defecto de estación — a decidir en consolidación.
+
+
+## Ver también
+
+- [[futuro-del-trabajo]]

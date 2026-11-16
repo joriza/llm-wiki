@@ -29,3 +29,11 @@ Ensayo bien documentado para el formato YouTube: cada afirmación fuerte llega c
 - Cifras de estudios citadas de memoria por el guion (PNAS 2007, Oxford 2023, Tübingen 2024 con 13,5 % y factores ×25/×9) sin referencias completas — contrastar cada una antes de usarla en un contexto formal.
 - La extrapolación del habla (la evidencia es de frecuencia léxica en charlas/podcasts, no de «pensamiento») la hace el propio guion con cautela («aunque sea poco») — no exagerarla al citar.
 - Cruces: [[conquerai]] (entidad del canal — 2.ª fuente; la anterior fue el fin de la ingeniería de software), [[ia-y-sociedad]] (el concepto marco: efectos sociales y cognitivos de los LLM), [[homogeneizacion-cultural]] (la versión cultural-industrial del mismo fenómeno: la voz única antes de la IA) y [[ia-china]] (el bloque DeepSeek/Tiananmen como caso de neolengua por omisión).
+
+
+## Ver también
+
+- [[aislamiento-no-protege-alcance-humano]]
+- [[homogeneizacion-cultural]]
+- [[industria-cultural]]
+- [[seguridad-fuera-del-modelo]]

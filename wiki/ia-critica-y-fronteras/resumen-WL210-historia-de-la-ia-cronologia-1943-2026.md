@@ -26,3 +26,12 @@ Documental que recorre 83 años de historia de la IA en clave cronológica: desd
 - Dato curioso del ASR: "Qwen" transcrito como "quen", "tok/s" como "tokens por segundo"; errores menores normalizados solo en el resumen.
 - Cruces previstos: [[deepseek-harness]]/cluster DeepSeek (WL-23/24/25/27), Anthropic (WL-12/21/23), historia de la tecnología (WL-117 Autodesk, WL-162 Titanes, WL-200 Verbatim), hardware (WL-209 5090 — el desplome por DeepSeek R1 y el chip GB202→Pro conectan ambas fuentes), [[odd-metodologia]] no aplica.
 - Dominio previsto: ia-critica-y-fronteras o general (historia de la tecnología) — consolidación diferida, S4: no se crean dominios nuevos.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[deepseek-harness]]
+- [[hardware-agentico-mcp-first]]
+- [[historia-de-la-tecnologia]]
+- [[historia-software-corporativa]]

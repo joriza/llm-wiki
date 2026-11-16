@@ -36,3 +36,10 @@ El coste de copiar software se ha desplomado con los agentes de IA capaces de le
 ## Valoración para la wiki
 
 Divulgación periodística española con fechas y cifras verificadas por el autor (dossier con fuentes tras muro de membresía, señalado). Buena fotografía del quiebre octubre-2026 del software: REA + clones de Thomas + demos canceladas + jurisprudencia. Complementa WL-177 (misma ola de incidentes PHP/seguridad) desde la óptica de propiedad intelectual e industria, no solo técnica.
+
+
+## Ver también
+
+- [[agentes-de-codigo]]
+- [[cancelacion-adaptativa-ruido]]
+- [[seguridad-fuera-del-modelo]]

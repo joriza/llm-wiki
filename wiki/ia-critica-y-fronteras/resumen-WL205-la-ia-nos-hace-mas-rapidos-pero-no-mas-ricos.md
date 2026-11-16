@@ -28,3 +28,8 @@ Por qué la adopción masiva de IA generativa no se refleja aún en la productiv
 - Cierre con autopromoción (Learning Heroes, prueba gratuita) excluido de la síntesis; algunos datos citados de segunda mano sin enlace directo.
 - Cruces previstos en consolidación: ia-critica-y-fronteras (economía de la IA; paralelo con WL-132 NCM/Stanford, WL-189), historia de la tecnología (electricidad/solow — cruces WL-116/WL-117/WL-200); concepto candidato "paradoja de la productividad / electricidad como analogía de la IA".
 - Dominio previsto: ia-critica-y-fronteras o general (economía IA — consolidación diferida, S4).
+
+
+## Ver también
+
+- [[historia-de-la-tecnologia]]
