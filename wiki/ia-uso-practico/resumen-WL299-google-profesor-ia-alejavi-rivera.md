@@ -1,6 +1,6 @@
 # WL-299 — Adiós Tutoriales... Google te Regala un PROFESOR con IA GRATIS
 
-- **Fuente original**: `raw/wl/tramo-44/2026-09-24-adios-tutoriales-google-te-regala-un-profesor-con-ia-gratis.md` (subtítulos manuales es-ES, transcripción intacta)
+- **Fuente original**: `raw/ia-uso-practico/2026-09-24-adios-tutoriales-google-te-regala-un-profesor-con-ia-gratis.md` (subtítulos manuales es-ES, transcripción intacta)
 - **Video**: https://www.youtube.com/watch?v=MDZoiwPl2QU
 - **Canal**: Alejavi Rivera · **Publicado**: 2026-09-24 · **Duración**: 31:40 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos manuales; normalizado solo aquí, no en el raw)
@@ -24,5 +24,5 @@ Demo de producto con afirmaciones sobre versiones y despliegues (Gemini 3.8 Live
 
 ## Cruces y notas
 
-- Dominio destino previsto: ia-uso-practico (aprendizaje asistido con IA; cruce temático con WL-194 educación/IA); cruces WL-31 (IA en aulas), [[general]] educación.
+- Dominio destino: ia-uso-practico (aprendizaje asistido con IA; cruce temático con WL-194 educación/IA); cruces WL-31 (IA en aulas) y el bloque educación de general/ (WL-194, WL-227). Consolidación T49 2026-11-16.
 - Sin dominios nuevos (S4); pendiente de consolidación (L12).

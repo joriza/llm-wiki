@@ -13,6 +13,8 @@ El clúster reúne las fuentes que explican **qué pasa entre el modelo y tu GPU
 
 **Actualización T48 (2026-11-16)**: [[resumen-WL283-compilar-llama-cpp-comparativa-nichonauta]] (WL-283, Nichonauta) añade la capa **runtime compilado vs precompilado**: compilar llama.cpp con CUDA vía agente Codex da ~5 % de ganancia (~9,5 vs ~9,2 tok/s, RTX 3060) — la velocidad la domina el tamaño del modelo frente a la VRAM, no el binario. Cruce agéntico: la compilación la ejecuta un agente de código con toolchain local sin sudo ([[agentes-de-codigo]]).
 
+**Actualización T49 (2026-11-16)**: [[resumen-WL290-qwen38-vs-qwen36-nichonauta]] (WL-290, Nichonauta) añade la variable **presupuesto de esfuerzo de razonamiento**: Qwen 3.8 Flash Next cuantizado no supera a Qwen 3.6 BF16 con esfuerzo bajo — «el modelo no es malo, la cuantización tampoco, pero para funcionar bien requiere mucho razonamiento»; entre 3.6 a 4 bits y a 16 bits casi no hay diferencia. El costo real de la inferencia local no es solo la memoria: es también el presupuesto de cadena de razonamiento (cruce con [[percepcion-de-regresion-de-modelos]]).
+
 **Tesis transversal**: el costo de la inferencia local no lo fija el tamaño del modelo sino la **jerarquía de memoria** (SSD→RAM→VRAM) y el presupuesto de contexto: «comprá los GB de tu contexto, no el nombre de la placa» (WL-209).
 
 **Ver también**: [[llama-cpp]] · [[strata]] · [[hardware-para-ia-local]] · [[desarrollo-con-modelos-locales]] · [[qwen]] · [[cognix]] (canal dominante del clúster).

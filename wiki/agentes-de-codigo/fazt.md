@@ -27,6 +27,9 @@ Su hilo compartido con el resto del lote es la **infraestructura como respuesta 
 - [[resumen-deja-de-perder-tiempo-configurando-agentes-de-ia-en-cada-ordenador-fazt]] (2026-08-22).
 - [[resumen-deje-de-pagar-4-suscripciones-de-ia-por-estos-repos-fazt]] (2026-09-09).
 - [[resumen-WL271-ya-nadie-escribe-codigo-fazt]] (WL-271, 2026-10-09 — videoensayo de opinión, NO fuente factual: post viral del vibecoding, DHH, «el trabajo real es entender, revisar y mantener»; patrocinio hosting y especulación sobre costes señalados; consolidación T48 2026-11-16).
+- [[resumen-WL293-agente-codigo-a-medida-con-pi-fazt]] (WL-293, ia-uso-practico/, 2026-09-24 — consolidación T49 2026-11-16): tour tutorial de 50 min del harness abierto Pi — percepción externa del ecosistema (contraste con las fuentes de primera mano WL-137/153): multi-proveedor, skills vs MCP, extensiones TypeScript, paquetes, gestión de sesiones, AGENTS.md.
+
+Total: **13 fuentes** (11 como Fazt, 2 como Fazt Code).
 
 ## Véase también
 

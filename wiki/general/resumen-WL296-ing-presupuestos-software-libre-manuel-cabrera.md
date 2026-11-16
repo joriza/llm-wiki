@@ -1,6 +1,6 @@
 # WL-296 — Adiós a las licencias caras: herramienta Open Source para ingenieros
 
-- **Fuente original**: `raw/wl/tramo-44/2026-09-23-adios-a-las-licencias-caras-herramienta-open-source-para-ingenieros.md` (transcripción automática intacta)
+- **Fuente original**: `raw/general/2026-09-23-adios-a-las-licencias-caras-herramienta-open-source-para-ingenieros.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=rZZJTF9IRjA
 - **Canal**: Manuel Cabrera Caballero · **Publicado**: 2026-09-23 · **Duración**: 23:32 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)
@@ -24,5 +24,5 @@ Video de divulgación de software libre con demo en vivo; contenido factual limi
 ## Cruces y notas
 
 - Mismo canal/autor de la serie de aplicaciones de Marco: Ingetrazo (video previo citado en el raw).
-- Cruces: WL-155 (lenguajes/espera de alternativas open source), [[general]] — dominio destino previsto: general (software libre/herramientas), pendiente de consolidación (L12).
+- Cruces: WL-155 (lenguajes/espera de alternativas open source). Dominio destino: general (software libre/herramientas), consolidación T49 2026-11-16.
 - Afirmaciones de compatibilidad (S10/Delfin/Power Cost) y versiones — 1.ª mano del propio producto, sin contraste independiente.

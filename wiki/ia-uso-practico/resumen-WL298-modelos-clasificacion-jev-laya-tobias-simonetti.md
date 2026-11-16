@@ -1,6 +1,6 @@
 # WL-298 — Que es JEV? Y porque fue destronado por LAYA
 
-- **Fuente original**: `raw/wl/tramo-44/2026-09-22-que-es-jev-y-porque-fue-destronado-por-laya.md` (transcripción automática intacta)
+- **Fuente original**: `raw/ia-uso-practico/2026-09-22-que-es-jev-y-porque-fue-destronado-por-laya.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=WKsRwtR1D3I
 - **Canal**: Tobias Simonetti | IA y Tecnología · **Publicado**: 2026-09-22 · **Duración**: 07:06 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)

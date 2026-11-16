@@ -1,6 +1,6 @@
 # WL-287 — «Cómo funciona un índice en una base de datos (explicado facil)» (Torti Code)
 
-- **Fuente original**: `raw/wl/tramo-42/2026-09-25-como-funciona-un-indice-en-una-base-de-datos-explicado-facil.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/informatica-teoria/2026-09-25-como-funciona-un-indice-en-una-base-de-datos-explicado-facil.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=ya_eWbTfHXE · Canal Torti Code · Publicado 2026-09-24 · 13:33 · Subtítulos automáticos es
 - **Tramo**: 42, fuente útil 3/5 (posición 99 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): general/informatica-teoria (cruces [[bases-de-datos]], WL-280/WL-285/WL-261)

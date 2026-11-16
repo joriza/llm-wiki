@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (herramienta).
 - **Dominio**: `agentes-de-codigo`.
 - **Actualizado**: 2026-11-11 (fuente 25/58 del lote ia-local — la entrada 30 del playlist anunciada como ampliación ya procesada).
-- **Fuentes**: [[resumen-nuevo-deepseek-harness-completamente-gratis-usando-gemma-4]] · [[resumen-deepseek-harness-conectar-modelos-locales-de-llama-cpp-para-programar-con-ia]] · [[resumen-WL270-deepseek-apps-llms-confrontados-nullsafe]] (WL-270, T48 2026-11-16: DeepSeek R1 destilado Qwen 14B en CPU vía Cortex dentro de un agente SQL existente + tres técnicas de LLMs confrontados; canal NullSafe Architect, texto plano por umbral).
+- **Fuentes**: [[resumen-nuevo-deepseek-harness-completamente-gratis-usando-gemma-4]] · [[resumen-deepseek-harness-conectar-modelos-locales-de-llama-cpp-para-programar-con-ia]] · [[resumen-WL270-deepseek-apps-llms-confrontados-nullsafe]] (WL-270, T48 2026-11-16: DeepSeek R1 destilado Qwen 14B en CPU vía Cortex dentro de un agente SQL existente + tres técnicas de LLMs confrontados; canal NullSafe Architect, texto plano por umbral) · [[resumen-WL295-deepseek-v41-flash-arquitectura-codesimple]] (WL-295, T49 2026-11-16: análisis arquitectónico de V4.1 Flash — engram, CED, caché KV 437× menor, atención dispersa; 2.ª mano del paper, señalado).
 
 **DeepSeek Harness** es el agente-harness **open source de DeepSeek**: «el cuerpo» de un sistema de IA — se encarga de ejecutar tareas y proyectos — mientras el «cerebro» (el modelo) se elige aparte. Se abre con una línea de terminal y trae **integración nativa con Ollama** (pregunta el modelo al lanzar y ofrece instalarlo si falta) además de proveedores cloud (OpenRouter/OpenAI/Anthropic) y Ollama cloud de pago.
 

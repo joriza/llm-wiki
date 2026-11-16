@@ -4,7 +4,7 @@
 - **Dominio**: `ia-uso-practico/`.
 - **Creada**: 2026-11-16 (consolidación T48, tramos 38-41 — umbral ≥2 verificado por conteo real).
 - **Fuentes (2, umbral ≥2)**: [[resumen-WL274-openrouter-endpoint-debilitado-cognix]] (WL-274, Cognix — enrutamiento interno de OpenRouter) · [[resumen-WL278-vibecoding-kimchi-pelado-nerd]] (WL-278, Pelado Nerd — modo multimodelo automático del cliente Kimchi).
-- **Ver también**: [[inferencia-local]] (ia-local/ — la cara local del mismo problema coste/calidad) · [[agentes-de-codigo]] (los agentes, principales perjudicados).
+- **Ver también**: [[inferencia-local]] (ia-local/ — la cara local del mismo problema coste/calidad) · [[agentes-de-codigo]] (los agentes, principales perjudicados) · [[percepcion-de-regresion-de-modelos]] (ia-uso-practico/ — WL-298, clasificadores baratos vs LLM como caso límite de la misma economía: pagar el modelo mínimo que resuelve la tarea).
 
 ## El concepto
 

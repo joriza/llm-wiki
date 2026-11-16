@@ -34,6 +34,9 @@ Su argumento de fondo combina dos reclamos: **lo gratuito/ilimitado** (libre acc
 - [[resumen-la-ia-gratis-que-esta-destrozando-a-las-suscripciones-alejavi-rivera]] (2026-06-14).
 - [[resumen-como-clonar-la-voz-en-segundos-1puzfg1cdbu-alejavi-rivera]] (2026-07-12).
 - [[resumen-freellmapi-acaba-de-romper-las-suscripciones-todo-gratis-alejavi-rivera]] (2026-09-17).
+- [[resumen-WL299-google-profesor-ia-alejavi-rivera]] (WL-299, ia-uso-practico/, 2026-09-24 — consolidación T49 2026-11-16): tour del ecosistema de aprendizaje de Google con Gemini 3.8 Live — llamadas con pantalla/webcam, mención extra-oficial @openstax, NotebookLM (Video Overview, reportes interactivos), vista inmersiva, Stitch→AI Studio y widgets del buscador; tema nuevo del canal: **aprendizaje asistido con IA**. Lanzamientos sin fuentes primarias, patrocinio NordVPN y curso propio — señalados.
+
+Total: **9 fuentes**. Voz recurrente de la wiki en el ecosistema open source/gratis; el hilo NotebookLM ([[notebooklm-ecosistema]]) se amplía con su cara educativa.
 
 ## Véase también
 

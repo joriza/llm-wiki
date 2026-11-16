@@ -12,3 +12,5 @@ Canal que catalogó **6-7 proveedores con claves API gratuitas**: NVIDIA, Pineco
 3. **[[strata]]**: su versión de la historia del motor (55) — misma tesis que [[jorge-marfil]] con datos adicionales (IQ3_XXS 99.4 % de calidad, variante coder 32 GB, motor Apple Silicon 41-52 tok/s).
 
 Perfil consolidado: análisis económico-técnico con datos de mercado reales (eBay, DRAM, precios de tokens) — el contrapunto «auditor de facturas» del lote, complementario al «banco de pruebas» de [[nichonauta]].
+
+**Actualización 2026-11-16 (consolidación T49 — WL-295, tramo 43, 2.ª fuente)**: [[resumen-WL295-deepseek-v41-flash-arquitectura-codesimple]] (ia-local/) — análisis de la arquitectura de DeepSeek V4.1 Flash (módulo engram, codificador-decodificador causal, caché KV 389 KB→890 B/token, atención dispersa, MHC single-pass) con la tesis de que la eficiencia de memoria/coste, no los parámetros, es la frontera real de los LLM; 2.ª mano del paper, título clickbait sin correlato — señalados. Cruza [[deepseek-harness]] e [[inferencia-local]].

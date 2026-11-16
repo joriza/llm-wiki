@@ -1,6 +1,6 @@
 # WL-294 — «Qué hace un balanceador de carga en una aplicación real» (Torti Code)
 
-- **Fuente original**: `raw/wl/tramo-43/2026-09-24-que-hace-un-balanceador-de-carga-en-una-aplicacion-real.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/informatica-teoria/2026-09-24-que-hace-un-balanceador-de-carga-en-una-aplicacion-real.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=OI-shxUoK0U · Canal Torti Code · Publicado 2026-09-23 · 12:27 · Subtítulos automáticos es
 - **Tramo**: 43, fuente útil 4/5 (posición 106 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): general-informatica-teoria (infraestructura/DevOps; cruces WL-286/287 Torti Code, WL-160 DevOps, WL-252/246)

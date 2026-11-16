@@ -1,6 +1,6 @@
 # WL-285 — «Guardar JSON en SQL Server sin Romper el Rendimiento ⚡» (Maxi Accotto)
 
-- **Fuente original**: `raw/wl/tramo-42/2026-09-23-guardar-json-en-sql-server-sin-romper-el-rendimiento.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/informatica-teoria/2026-09-23-guardar-json-en-sql-server-sin-romper-el-rendimiento.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=66MMxku2D9Y · Canal Maxi Accotto | SQL Server · Fabric · Power BI · Publicado 2026-09-23 · 15:35 · Subtítulos manuales es
 - **Tramo**: 42, fuente útil 1/5 (posición 97 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): general/informatica-teoria (cruces [[bases-de-datos]], WL-252/WL-280)

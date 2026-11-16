@@ -1,6 +1,6 @@
 # WL-291 — «Un NEGOCIO ESPECIAL: El LÍDER de los CHIPS ANALÓGICOS» (Value School)
 
-- **Fuente original**: `raw/wl/tramo-43/2026-09-20-un-negocio-especial-el-lider-de-los-chips-analogicos.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/general/2026-09-20-un-negocio-especial-el-lider-de-los-chips-analogicos.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=INUCSj7HM_M · Canal Value School · Publicado 2026-09-20 · 17:00 · Subtítulos automáticos es
 - **Tramo**: 43, fuente útil 1/5 (posición 103 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): general (industria semiconductores/inversión; cruces WL-144 motor sin imanes, WL-238 SiC, WL-220 semiconductores)
@@ -26,4 +26,4 @@ Análisis divulgativo de Value School (17 min) del nicho de los **chips analógi
 
 ## Cruces sugeridos
 
-- Cluster semiconductores: WL-220 (semiconductores), WL-238 (SiC — el vídeo menciona SiC/GaN explícitamente), WL-144 (North Star, motor sin imanes); posible concepto «ciclo industrial de semiconductores» si la consolidación lo justifica. Entity candidata: [[value-school]] (canal) si aparece de nuevo.
+- Cluster semiconductores: WL-220 (semiconductores), WL-238 (SiC — el vídeo menciona SiC/GaN explícitamente), WL-144 (North Star, motor sin imanes); posible concepto «ciclo industrial de semiconductores» si la consolidación lo justifica. Entidad candidata: Value School (canal, texto plano por umbral <2) si aparece de nuevo.

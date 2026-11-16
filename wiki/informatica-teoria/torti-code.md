@@ -43,6 +43,14 @@ Canal de divulgación de desarrollo de software en español. Cada video toma un 
 
 **Total: 14 fuentes** — sigue siendo el canal dominante de la wiki. Los conceptos SOLID+DRY/KISS/YAGNI/acoblo y monolito-vs-micro se consolidaron en [[arquitectura-software]].
 
+### Backlog WL (2026-11-16, consolidación T49 — tramos 42-43, 3 fuentes)
+
+- [[resumen-WL286-arquitectura-hexagonal-torti-code]] (WL-286, informatica-teoria/): puertos y adaptadores con la analogía del banco — dependencias hacia dentro, pruebas en memoria ~500× más rápidas y cambio de base barato; costos (11 vs 3 archivos) y cuándo NO usarlo.
+- [[resumen-WL287-indice-base-de-datos-torti-code]] (WL-287, informatica-teoria/): índice B-tree con analogía del archivo escolar, planificador y casos trampa (funciones, comodín, orden de compuestos; incidente GitLab 2021) sobre PostgreSQL 18.
+- [[resumen-WL294-balanceador-de-carga-haproxy-torti-code]] (WL-294, informatica-teoria/): balanceo con HAProxy real (proxy inverso, roundrobin, health checks) y sus límites (el check solo comprueba lo que verifica; el balanceador como punto único de fallo).
+
+**Total: 17 fuentes.** El patrón de la casa se mantiene: analogía cotidiana sostenida + demo propia con números declarados y honestidad metodológica.
+
 ## Véase también
 
 - [[documentacion-diataxis]] — concepto consolidado a partir de su fuente sobre documentación.

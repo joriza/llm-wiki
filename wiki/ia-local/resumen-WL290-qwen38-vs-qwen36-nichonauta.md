@@ -1,6 +1,6 @@
 # WL-290 — «Qwen 3.8 me decepcionó ⚠️ La VERDAD tras la comparación con Qwen 3.6» (Nichonauta)
 
-- **Fuente original**: `raw/wl/tramo-42/2026-09-24-qwen-3-8-me-decepciono-la-verdad-tras-la-comparacion-con-qwen-3-6.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/ia-local/2026-09-24-qwen-3-8-me-decepciono-la-verdad-tras-la-comparacion-con-qwen-3-6.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=Zx9hXpCemZQ · Canal Nichonauta · Publicado 2026-09-24 · 09:03 · Subtítulos automáticos es
 - **Tramo**: 42, fuente útil 5/5 (posición 102 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico/ia-local (cruces [[inferencia-local]], WL-283/WL-288 mismo canal)
@@ -23,4 +23,4 @@ Comparativa empírica local (9 min, Nichonauta) de Qwen 3.6 35B-A3B a precisión
 
 ## Cruces sugeridos
 
-- Cluster [[inferencia-local]] (WL-239/240/253/254): mismo canal que WL-253 (Strata/Flash Next) y WL-254 (presupuesto de caché); WL-288 (regresión GPT-6 — misma percepción con metodología menor); WL-283 (compilación llama.cpp, mismo canal).
+- Cluster [[inferencia-local]] (WL-239/240/253/254): mismo canal que WL-253 (Strata/Flash Next) y WL-254 (presupuesto de caché); WL-288 (regresión GPT-6 — misma percepción con metodología menor; ambas en [[percepcion-de-regresion-de-modelos]]); WL-283 (compilación llama.cpp, mismo canal).

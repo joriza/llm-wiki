@@ -1,6 +1,6 @@
 # WL-286 — «¿Qué es la arquitectura hexagonal y qué gano con ella?» (Torti Code)
 
-- **Fuente original**: `raw/wl/tramo-42/2026-09-20-que-es-la-arquitectura-hexagonal-y-que-gano-con-ella.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/informatica-teoria/2026-09-20-que-es-la-arquitectura-hexagonal-y-que-gano-con-ella.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=lsSe7kOkVjE · Canal Torti Code · Publicado 2026-09-20 · 13:24 · Subtítulos automáticos es
 - **Tramo**: 42, fuente útil 2/5 (posición 98 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): general/informatica-teoria (cruces WL-252/WL-275, [[bases-de-datos]])

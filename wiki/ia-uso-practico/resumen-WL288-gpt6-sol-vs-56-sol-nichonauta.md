@@ -1,6 +1,6 @@
 # WL-288 — «GPT 6 Sol es más tonto 📉 COMPARATIVA con el 5.6 SOL para ver si EMPEORÓ» (Nichonauta)
 
-- **Fuente original**: `raw/wl/tramo-42/2026-09-22-gpt-6-sol-es-mas-tonto-comparativa-con-el-5-6-sol-para-ver-si-empeoro.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/ia-uso-practico/2026-09-22-gpt-6-sol-es-mas-tonto-comparativa-con-el-5-6-sol-para-ver-si-empeoro.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=EjpkHj0m0NQ · Canal Nichonauta · Publicado 2026-09-22 · 04:01 · Subtítulos automáticos es
 - **Tramo**: 42, fuente útil 4/5 (posición 100 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico/ia-critica-y-fronteras (cruces WL-283/WL-290 mismo canal, WL-282)
@@ -22,4 +22,4 @@ Micro-comparativa (4 min, 2.ª parte de una serie) del canal Nichonauta: GPT-6 S
 
 ## Cruces sugeridos
 
-- WL-290 (Qwen 3.8 vs 3.6 — misma percepción de regresión, pero con metodología más cuidada), WL-283 (Nichonauta, comparativa llama.cpp).
+- WL-290 (Qwen 3.8 vs 3.6 — misma percepción de regresión, pero con metodología más cuidada); ambas consolidadas en [[percepcion-de-regresion-de-modelos]]. WL-283 (Nichonauta, comparativa llama.cpp).

@@ -1,6 +1,6 @@
 # WL-295 — «DeepSeek V4.1 Flash vs. El resto: ¿El fin de los LLM tradicionales?» (CodeSimple)
 
-- **Fuente original**: `raw/wl/tramo-43/2026-09-19-deepseek-v4-1-flash-vs-el-resto-el-fin-de-los-llm-tradicionales.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/ia-local/2026-09-19-deepseek-v4-1-flash-vs-el-resto-el-fin-de-los-llm-tradicionales.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=ai0bifuwDOQ · Canal CodeSimple · Publicado 2026-09-19 · 25:18 · Subtítulos automáticos es
 - **Tramo**: 43, fuente útil 5/5 (posición 107 de 4686) — **CIERRE DEL TRAMO en frontera exacta**
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico/ia-local o ia-critica-y-fronteras (arquitectura LLM; cruces [[deepseek-harness]], [[inferencia-local]], WL-290/288 comparativas, WL-122 hardware IA)

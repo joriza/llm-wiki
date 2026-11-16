@@ -1,6 +1,6 @@
 # WL-293 — «Así se arma un agente de código a tu medida con Pi» (Fazt)
 
-- **Fuente original**: `raw/wl/tramo-43/2026-09-24-asi-se-arma-un-agente-de-codigo-a-tu-medida-con-pi.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/ia-uso-practico/2026-09-24-asi-se-arma-un-agente-de-codigo-a-tu-medida-con-pi.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=umfFbfApSAc · Canal Fazt · Publicado 2026-09-24 · 49:30 · Subtítulos automáticos es
 - **Tramo**: 43, fuente útil 3/5 (posición 105 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico/agentes-de-codigo ([[fazt]], [[agentes-de-codigo]]; cruces WL-271/272 mismo canal)

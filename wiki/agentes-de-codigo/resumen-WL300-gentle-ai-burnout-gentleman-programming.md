@@ -1,6 +1,6 @@
 # WL-300 — Por qué crear gentle-ai casi me destruye
 
-- **Fuente original**: `raw/wl/tramo-44/2026-09-24-por-que-crear-gentle-ai-casi-me-destruye.md` (transcripción automática intacta)
+- **Fuente original**: `raw/agentes-de-codigo/2026-09-24-por-que-crear-gentle-ai-casi-me-destruye.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=0FXJWS6Dens
 - **Canal**: Gentleman Programming Vods · **Publicado**: 2026-09-24 · **Duración**: 14:30 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)

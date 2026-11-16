@@ -1,6 +1,6 @@
 # WL-297 — El Final de Mazinger Z (1978) Que Nadie Recuerda
 
-- **Fuente original**: `raw/wl/tramo-44/2026-09-15-el-final-de-mazinger-z-1978-que-nadie-recuerda.md` (transcripción automática intacta)
+- **Fuente original**: `raw/general/2026-09-15-el-final-de-mazinger-z-1978-que-nadie-recuerda.md` (transcripción automática intacta)
 - **Video**: https://www.youtube.com/watch?v=VR7rCjFX660
 - **Canal**: Misterios Retro · **Publicado**: 2026-09-15 · **Duración**: 09:37 · **Ingesta**: 2026-11-16
 - **Idioma**: español (subtítulos automáticos; normalizado solo aquí, no en el raw)
