@@ -34,3 +34,9 @@ Tono pedagógico deliberadamente neutro y sin casos reales: todo son ejemplos fi
 ## Veredicto de triage
 
 Explicación didáctica correcta, honesta en sus matices y sin alarmismo; valiosa como primer contacto con el tema, sin valor factual citable. Conservar como divulgación educativa.
+
+
+## Ver también
+
+- [[desarrollo-latinoamericano]]
+- [[historia-de-la-tecnologia]]
