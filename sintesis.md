@@ -105,3 +105,34 @@ Registro de hilos temáticos por dominio. Se actualiza en cada consolidación.
 - **Registro de sesgo**: alta densidad de divulgación opinionística sin citas (Lusardi, Vaquero, Iluminando la Mente, Cine Leyendas Secretas, SupervivenciaModerna); los resúmenes marcan qué cifras requieren verificación antes de elevar a referencia
 - **Pendientes**: fuentes 25-42 (18 entradas); metadatos UNKNOWN de 3 raws (Dr. House, jubilarse a los 55, gran desvinculación) y canal no identificado de la fuente 24; renombres históricos completados (Nicea, Moisés, gran desvinculación → UNKNOWN-fecha)
 
+
+---
+
+## Síntesis: WL Tramos 73-78 (Pedidos L34/L35/L36 completados — 2026-11-16)
+
+**Volumen**: 96 útiles totales (L34: 60, L35: 59 consolidados, L36: 36) — pipeline YouTube → wiki estable sin 429.
+
+**Estructura emergente WL**: la lista "Ver más tarde" funciona como triage continuo; el refresh en vivo (4.584→4.466) muestra que el usuario curó 118 videos entre sesiones (borrados/privados en cabeza). Los 10 skips de cabeza de L36 son videos que ya no están en WL.
+
+**Tesis transversal (tramos 61-78)**: tres corrientes dominan WL 2026:
+1. **IA práctica/inferencia local** (Nichonauta ×15, MoureDev, Código Espinoza, TR3BOL, DroneBot) — demos de primera mano, refutación de benchmarks, stack Python local.
+2. **Opinión/actualidad argentina** (Danann ×5, Los Liberales, La Voz, Fijap, Liberalismo Al Palo, Dos Dager) — streams militantes, sin datos, retórica polarizada; cluster Danann 5 fuentes = entidad.
+3. **Técnica/hardware** (Código Espinoza ×13, TR3BOL ×2, Guille Ghemi, Archivo del Futuro) — casos reales, mediciones, historia de la tecnología.
+
+**Entidades consolidadas (umbral ≥2, corte 2026-11-16)**:
+- Canales: Danann (5), TR3BOL (2), Javier Amblar (2), Nichonauta (6+), Código Espinoza (13), MoureDev (2), Dos Dager (3), La Voz (2), Lazzari (2), Zuchovicki (2), Bilinkis (2+), CapacitaPro (2), Archivo del Futuro (11).
+- Conceptos: [[inferencia-local]] (hub Qwen/Gemma/Granite/Llama/Atomic), [[routing-por-coste]] (OmniRouter, FreeToken, GLM), [[percepcion-de-regresion-de-modelos]] (Granite, Spark, Llama 3.1), [[odd-metodologia]] (SDD MoureDev/Victor Robles), [[archivo-del-futuro]] (historia hardware/storage).
+
+**Contradicciones abiertas** (sin web desde wiki):
+- Granite 4.2: fabricante vs prueba Nichonauta (WL-455) — refutación empírica
+- Spark X2.5: fabricante vs prueba Nichonauta (WL-431) — refutación
+- Qwen 3.5 0.8B: fabricante vs prueba Nichonauta (WL-434) — solo autocompletar
+- PISA 2025 Argentina: WL-396/389 cifras sin verificación primaria
+- Navier-Stokes Buckmaster: WL-387/416 ASR "Bacmaster" vs "Buckmaster" (ambas 2ª mano)
+- Cifras sin enlaces en >30 resúmenes WL 61-78 (márquense)
+
+**Pendientes**:
+- Triage usuario: bajas WL-446/451/458 (protocol ítem 17)
+- Re-pass: WL-471 transcripción parcial
+- Consolidación backlog 73-78 completa (esta síntesis); próxima → tramos 79+ (cabeza WL-477)
+- Push remoto (no solicitado en L36; pendiente decisión usuario)

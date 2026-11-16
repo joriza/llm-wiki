@@ -3875,3 +3875,45 @@ Regla L36 verificada: cabeza WL-471 = `xTpWXWoR2FI` (índice 42 del cache) confi
 Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia tech ×1 (WL-475), opinión ARG ×1 (WL-474), estrategia creadores ×1 (WL-476). **Nota operativa**: WL-471 con subtítulos manuales capturados solo parcialmente por el runner (raw de 14 líneas para un video de 30 min) — señalado en resumen e index. Última fuente con id: **WL-476 (`kX6t3GnSmUk`, índice 47 del cache)**; cabeza futura **WL-477** (siguiente pendiente del cache tras el índice 47).
 
 **PEDIDO L36 COMPLETADO (2026-11-16): 36 útiles totales** (cuota 30 cumplida en el relevo 5 + sobregiros +6 documentados) — tramos 73-78, relevos 1-6: T77 5 útiles + 10 skips de cabeza ([Deleted/Private] índices 0-9), T78 5, T79 5, T80 10 (sobregiro +5), T81 5, T82 6 (sobregiro +1) → **36 útiles + 10 skips de cabeza, 0 skips de tramo, 0 meta-fails, 0 TRAMO-CLOSED**; única salida 45.239.32.215 en todo el pedido sin un solo 429. Push no solicitado. **Consolidación de tramos 73-78 diferida (L12)**: estación con 36 pares pendientes; entidades a actualizar/confirmar: [[archivo-del-futuro]] (+1), [[codigo-espinoza]] (+3, 13 WL), [[dos-dager]] (+1, 3), [[qwen]] (+2), [[routing-por-coste]] (+2), [[inferencia-local]] (+2), [[historia-de-la-tecnologia]] (+1), Nichonauta (+2), MoureDev (+1); entidades nuevas confirmadas por umbral: Danann (5), TR3BOL Argentina (2), Javier Amblar (2), Omar previos; candidatas: OmniRouter, DroneBot Workshop, Guille Ghemi, Jordi Longán, TR3BOL, DotTech-ES, La entropía de Valen, Los Herederos de Alberdi, Liberalismo Al Palo, Fijap Liberal, Canal EY!, Los Liberales (varios 1.ª fuente). Candidatas a baja acumuladas: WL-446, WL-451, WL-458, WL-451-dup; WL-471 re-pass opcional por transcripción parcial. Cabeza del backlog tras el pedido: **WL-477**.
+
+## [2026-11-16] consolidación WL | tramos 73-78 (pedido L36 — 36 fuentes)
+
+**36 pares útiles migrados** (WL-439..WL-476) de `raw/wl/tramo-73..78/` y `wiki/wl/tramo-73..78/` a dominios definitivos con `git mv` (resumen + raw espejo + «Fuente original» ya correcta). **0 dominios nuevos (S4)**.
+
+**Distribución**:
+- `sociedad-argentina/`: 8 (WL-443, 444, 451, 452, 458, 460, 461, 465, 470, 474)
+- `general/`: 10 (WL-439, 441, 445, 449, 453, 454, 456, 457, 462, 463, 470, 476)
+- `ia-uso-practico/`: 6 (WL-440, 447, 455, 459, 468, 472)
+- `ia-uso-practico/ia-local/`: 3 (WL-448, 455, 468)
+- `python-practico/`: 4 (WL-450, 466, 467, 473)
+- `agentes-de-codigo/`: 1 (WL-450)
+- `electronica-practica/`: 3 (WL-464, 469, 471)
+- `electromecanica/`: 2 (WL-442, 446)
+- `informatica-teoria/`: 1 (WL-475)
+
+**Entidades actualizadas/confirmadas (umbral ≥2)**:
+- [[codigo-espinoza]] +3 → 13 WL (466, 467, 473 + previas)
+- [[archivo-del-futuro]] +1 (WL-475)
+- [[dos-dager]] +1 → 3 fuentes (WL-474)
+- [[qwen]] +2 (WL-459, 455)
+- [[routing-por-coste]] +2 (WL-472, 467)
+- [[inferencia-local]] +2 (WL-455, 468)
+- [[historia-de-la-tecnologia]] +1 (WL-475)
+- Nichonauta +2 (WL-455, 448), MoureDev +1 (WL-450), La Voz +2 (WL-460, 474)
+- **Nuevas por umbral**: Danann (5 WL: 451, 452, 461, 465, 474), TR3BOL Argentina (2: 469, 471), Javier Amblar (2: 447, 476)
+
+**Candidatas a baja (triage usuario pendiente, ítem 17)**: WL-446 (Truper/Total — posible generado), WL-451 (Danann — discurso violento), WL-458 (Clancy — opinión militante). **Re-pass opcional**: WL-471 (transcripción parcial).
+
+**Contradicciones y señales**:
+- WL-455 refuta benchmarks IBM Granite 4.2 con prueba propia (contradicción fabricante vs independiente)
+- WL-446 tesis de contenido generado sin pruebas (señal fuerte)
+- WL-445/457/458/462/470/476 títulos clickbait contradichos por contenido prudente/señalado NO factual
+- WL-451/452/458/461/465 cluster Danann: militancia declarada, sin datos, retórica polarizada
+
+**Verificaciones pendientes**: cifras sin enlaces en >20 resúmenes (márquense).
+
+**index.md**: 36 filas actualizadas con rutas a dominios definitivos. **wiki/wl/indice-wl.md**: tramos 73-78 → CONSOLIDADO, estación a 0 resúmenes. **overview.md**: hilo 14 añadido. **sintesis.md**: sección WL tramos 61-78 añadida.
+
+**Commits pendientes (orquestador)**: git mv raws + resúmenes (72 archivos), index.md, wiki/wl/indice-wl.md, overview.md, sintesis.md, log.md, odd/tasks/ingesta-ver-mas-tarde.md (cierre L36).
+
+**Sin push (L13)**. **Cabeza backlog**: WL-477 (siguiente pendiente tras índice 47 del cache fresco).

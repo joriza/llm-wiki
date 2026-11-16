@@ -127,3 +127,42 @@ Catálogo general por dominio. Se actualiza en cada consolidación.
 
 - **Revisión periódica**: cada ~10 fuentes o cuando aparezcan contradicciones nuevas.
 - **Lista mixta (hilo 13)**: fuentes 25-42 pendientes (18 entradas; SKIP definitivos 8/12); revisar canales de una fuente y los metadatos UNKNOWN en el próximo lote.
+---
+
+## Hilo 14: WL Tramos 73-78 — Consolidación 2026-11-16 (pedido L36, 36 fuentes)
+
+**Fuentes**: 36 útiles (WL-439..WL-476) + 10 skips de cabeza ([Deleted/Private] índices 0-9 del cache fresco 2026-11-16, 4.466 entradas). 0 skips de tramo, 0 meta-fails, 0 TRAMO-CLOSED. Cuota 30 cumplida en relevo 5 + sobregiros +6 (relevo 4: 10/5, relevo 6: 6/5). Única salida 45.239.32.215, sin 429.
+
+**Distribución por dominio** (S4 sin nuevos):
+- `sociedad-argentina/`: 8 (WL-443, 444, 451, 452, 458, 460, 461, 465, 470, 474) — corriente ARG opinativa/streamer; Danann a 5 WL (entidad confirmada)
+- `general/`: 10 (WL-439, 441, 445, 449, 453, 454, 456, 457, 462, 463, 470, 476) — hardware GPU, cultura pop, noticias 2ª mano, automoción, viralidad
+- `ia-uso-practico/`: 6 (WL-440, 447, 455, 459, 468, 472) — GLM-5.3, DomoAI, Granite 4.2 refutado, Qwen 3.8 Flash, Gemma Translator Pi 5, OmniRouter
+- `ia-uso-practico/ia-local/`: 3 (WL-448, 455, 468) — Atomic AI (Nichonauta proxy), Granite, Gemma Translator
+- `python-practico/`: 4 (WL-450, 466, 467, 473) — SDD MoureDev, Pandas cierre contable, PyInstaller/Nuitka/Briefcase, Flet+SQLite
+- `agentes-de-codigo/`: 1 (WL-450) — SDD MoureDev
+- `electronica-practica/`: 3 (WL-464, 469, 471) — Frigate+HA, buck/boost TR3BOL, medición PCB (transcripción parcial)
+- `electromecanica/`: 2 (WL-442, 446) — IEC 60364, Truper/Total (candidata a baja)
+- `informatica-teoria/`: 1 (WL-475) — Zip/Iomega
+
+**Entidades actualizadas/confirmadas (umbral ≥2)**:
+- [[codigo-espinoza]] +3 → 13 WL (466, 467, 473 + previas)
+- [[archivo-del-futuro]] +1 (WL-475)
+- [[dos-dager]] +1 → 3 fuentes (WL-474)
+- [[qwen]] +2 (WL-459, 455)
+- [[routing-por-coste]] +2 (WL-472, 467)
+- [[inferencia-local]] +2 (WL-455, 468)
+- [[historia-de-la-tecnologia]] +1 (WL-475)
+- Nichonauta +2 (WL-455, 448), MoureDev +1 (WL-450), La Voz +2 (WL-460, 474)
+- **Nuevas por umbral**: Danann (5 WL: 451, 452, 461, 465, 474), TR3BOL Argentina (2: 469, 471), Javier Amblar (2: 447, 476)
+
+**Candidatas a baja (triage usuario pendiente)**: WL-446 (Truper/Total — posible generado), WL-451 (Danann — discurso violento), WL-458 (Clancy — opinión militante). **Re-pass opcional**: WL-471 (transcripción parcial).
+
+**Contradicciones y señales**:
+- WL-455 refuta benchmarks IBM Granite 4.2 con prueba propia (contradicción fabricante vs independiente)
+- WL-446 tesis de contenido generado sin pruebas (señal fuerte)
+- WL-445/457/458/462/470/476 títulos clickbait contradichos por contenido prudente/señalado NO factual
+- WL-451/452/458/461/465 cluster Danann: militancia declarada, sin datos, retórica polarizada
+
+**Verificaciones pendientes**: cifras sin enlaces en WL-439/440/441/443/444/446/447/449/453/454/456/457/458/460/462/463/470/472/474/475/476 (márquense en resúmenes).
+
+**Estación WL**: 0 resúmenes (tramos 73-78 consolidados, hub marcado CONSOLIDADO).
