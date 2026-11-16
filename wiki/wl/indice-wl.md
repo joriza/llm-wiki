@@ -96,6 +96,20 @@ Skips sin numeración útil: WL-289 `yucBRF3lSaQ` SKIP-DUPLICATE (ya procesado, 
 
 Skips sin numeración útil: ninguno (0 skips, 0 meta-fail — tramo limpio). Cabeza del backlog tras el tramo: WL-296 (posición 108 del cache). **PEDIDO L26 COMPLETADO: 15/15 útiles** (tramos 41-43).
 
+## Tramo 44 — en estación (T47, 2026-11-16, relevo 37 — ÚNICO del pedido L27)
+
+5 fuentes útiles ingestadas en `wiki/wl/tramo-44/` (raws en `raw/wl/tramo-44/`), pendientes de consolidación:
+
+| WL | Título | Canal | Dominio destino previsto | Estado |
+| --- | --- | --- | --- | --- |
+| WL-296 | Adiós a las licencias caras: herramienta Open Source para ingenieros (`rZZJTF9IRjA`) | Manuel Cabrera Caballero | general (software libre/herramientas) | En estación — demo de Ing. Presupuestos; 1.ª mano del producto sin contraste independiente |
+| WL-297 | El Final de Mazinger Z (1978) Que Nadie Recuerda (`VR7rCjFX660`) | Misterios Retro | general (cultura pop/historia TV) | En estación — narración dramatizada sin citas; cluster WL-128/143 |
+| WL-298 | Que es JEV? Y porque fue destronado por LAYA (`WKsRwtR1D3I`) | Tobias Simonetti \| IA y Tecnología | ia-uso-practico o ia-critica-y-fronteras | En estación — nombres de productos casi seguro distorsionados por ASR (JEV/LAYA vs «Shep»/«LLaMA»), datos no verificables; cruces WL-189/285-287 |
+| WL-299 | Adiós Tutoriales... Google te Regala un PROFESOR con IA GRATIS (`MDZoiwPl2QU`) | Alejavi Rivera | ia-uso-practico (aprendizaje asistido) | En estación — lanzamientos sin fuentes primarias, patrocinio NordVPN y curso propio; cruces WL-194/31 |
+| WL-300 | Por qué crear gentle-ai casi me destruye (`0FXJWS6Dens`) | Gentleman Programming Vods | agentes-de-codigo/ia-uso-practico | En estación — métricas autocreportadas sin método; burnout del mantainer; [[gentleman-programming]] +1 fuente; cruces WL-137/153/271/272/165, WL-292 |
+
+Skips sin numeración útil: ninguno (0 skips, 0 meta-fail — tramo limpio). Cabeza del backlog tras el tramo: WL-301 (`YiSTV99y3Nw`, posición 113 del cache). **PEDIDO L27 COMPLETADO: 5/5 útiles** (tramo 44 único).
+
 ## Cómo leer esta tabla
 
 - **Estado «Baja»**: resumen eliminado por decisión del usuario y raw eliminado al cierre de la consolidación (2026-11-13); la fila y su entrada en `log.md` permanecen como registro para el dedupe pre-flight (evita re-procesar el video).
