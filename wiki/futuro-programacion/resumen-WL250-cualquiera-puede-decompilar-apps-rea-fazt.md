@@ -1,6 +1,6 @@
 # WL-250 — Cualquiera puede decompilar apps ahora: REA + agentes de código
 
-- **Fuente original**: `raw/ia-critica-y-fronteras/2026-10-11-cualquiera-puede-decompilar-apps-ahora-rea-agentes-de-codigo.md`
+- **Fuente original**: `raw/futuro-programacion/2026-10-11-cualquiera-puede-decompilar-apps-ahora-rea-agentes-de-codigo.md`
 - **Video**: [Cualquiera puede decompilar apps ahora: REA + agentes de código](https://www.youtube.com/watch?v=QMQTrLUlxBo)
 - **Canal**: Fazt · **Publicado**: 2026-10-10 · **Duración**: 09:32 · **Ingesta**: 2026-11-15 (tramo 36)
 

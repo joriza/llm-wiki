@@ -1,6 +1,6 @@
 # WL-393 — La IA me dejó sin trabajo
 
-- **Fuente**: `raw/ia-critica-y-fronteras/2026-09-12-la-ia-me-dejo-sin-trabajo.md` (`OZ9wVTSe8VU`, https://www.youtube.com/watch?v=OZ9wVTSe8VU)
+- **Fuente**: `raw/futuro-programacion/2026-09-12-la-ia-me-dejo-sin-trabajo.md` (`OZ9wVTSe8VU`, https://www.youtube.com/watch?v=OZ9wVTSe8VU)
 - **Canal**: CodinEric (Eric; ingeniero de datos uruguayo, 7 años — analista → ingeniero de datos → gobernanza; 1.ª fuente WL)
 - **Publicado**: 2026-09-12 · **Duración**: 10:50 · **Idioma**: es (subtítulos automáticos; coloquial rioplatense)
 - **Dominio previsto**: ia-critica-y-fronteras (crítica de la adopción IA; testimonio personal, NO fuente factual)

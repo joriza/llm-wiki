@@ -1,6 +1,6 @@
 # WL-345 · La IA está cambiando TODO para los programadores
 
-- **Fuente**: [`raw/ia-critica-y-fronteras/2026-09-22-la-ia-esta-cambiando-todo-para-los-programadores.md`](../../raw/ia-critica-y-fronteras/2026-09-22-la-ia-esta-cambiando-todo-para-los-programadores.md) — vídeo de YouTube `3q3WqwxVbXY`
+- **Fuente**: [`raw/futuro-programacion/2026-09-22-la-ia-esta-cambiando-todo-para-los-programadores.md`](../../raw/ia-critica-y-fronteras/2026-09-22-la-ia-esta-cambiando-todo-para-los-programadores.md) — vídeo de YouTube `3q3WqwxVbXY`
 - **Canal**: hdeleon.net
 - **Publicado**: 2026-09-22 · **Duración**: 13:00
 - **Tipo**: videoensayo de opinión (impacto de la IA generativa en el oficio de programar)

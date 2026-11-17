@@ -1,6 +1,6 @@
 # WL-221 · Así acepté el fin de la programación
 
-- **Fuente original**: `raw/ia-critica-y-fronteras/2026-10-14-asi-acepte-el-fin-de-la-programacion.md`
+- **Fuente original**: `raw/futuro-programacion/2026-10-14-asi-acepte-el-fin-de-la-programacion.md`
 - **Video**: [Así acepté el fin de la programación](https://www.youtube.com/watch?v=VW6g4lydpNc)
 - **Canal**: Victor Robles WEB
 - **Publicado**: 2026-10-14 · **Duración**: 26:44 · **Ingesta**: 2026-11-15 (tramo 31, formato dominio pendiente de consolidación)

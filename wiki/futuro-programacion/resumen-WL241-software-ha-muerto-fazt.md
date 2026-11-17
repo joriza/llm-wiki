@@ -1,6 +1,6 @@
 # WL-241 — «El software ha muerto»: la verdad detrás del post que explotó en Twitter
 
-- **Fuente original**: `raw/ia-critica-y-fronteras/2026-10-13-el-software-ha-muerto-la-verdad-detras-del-post-que-exploto-en-twitter.md`
+- **Fuente original**: `raw/futuro-programacion/2026-10-13-el-software-ha-muerto-la-verdad-detras-del-post-que-exploto-en-twitter.md`
 - **Video**: [«El software ha muerto»: la verdad detrás del post que explotó en Twitter](https://www.youtube.com/watch?v=pn-lBojduEs)
 - **Canal**: Fazt · **Publicado**: 2026-10-13 · **Duración**: 13:29 · **Ingesta**: 2026-11-15 (tramo 35)
 

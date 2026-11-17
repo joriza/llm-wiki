@@ -1,6 +1,6 @@
 # WL-181 · SE ACABÓ EL SOFTWARE
 
-- **Fuente original**: `raw/ia-critica-y-fronteras/2026-10-23-se-acabo-el-software.md`
+- **Fuente original**: `raw/futuro-programacion/2026-10-23-se-acabo-el-software.md`
 - **Video**: [SE ACABÓ EL SOFTWARE](https://www.youtube.com/watch?v=NNWfRubvM5o) · Canal: DotTech-ES (Carlos Caballero) · Publicado: 2026-10-23 · Duración: 30:19
 - **Dominio previsto** (consolidación diferida, L12): `ia-critica-y-fronteras` o `general` (industria del software/IA — panorama de noticias; cruces candidatos con WL-177 mismo tema de seguridad, WL-165, [[agentes-de-codigo]])
 
