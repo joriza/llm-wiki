@@ -13,12 +13,15 @@
       .filter(el => el.offsetParent !== null);
 
   function menuEntries() {
-    return [...document.querySelectorAll(
-      'ytd-menu-service-item-renderer, tp-yt-paper-item, ytd-menu-popup-renderer paper-item, yt-list-item-renderer')]
-      .filter(el => el.offsetParent !== null);
+    // OJO: el popup es position:fixed => offsetParent es null aunque sea visible.
+    // Buscamos dentro del contenedor de popups, sin filtro de visibilidad.
+    const popup = document.querySelector('ytd-popup-container');
+    const scope = popup || document;
+    return [...scope.querySelectorAll(
+      'ytd-menu-service-item-renderer, tp-yt-paper-item, paper-item, yt-list-item-renderer')];
   }
 
-  async function removeOne(item, dbg) {
+  async function removeOne(item, dbg = () => {}) {
     const btn = item.querySelector('#button.yt-icon-button, ytd-menu-button-renderer button, button[aria-label]');
     if (!btn) { dbg('sin boton'); return false; }
     btn.click();                      // abrir menu
@@ -28,7 +31,7 @@
       const label = (e.textContent || '').trim();
       if (PAT.test(label)) { e.click(); await sleep(450); return true; }
     }
-    dbg(`menu sin opcion (entries=${entries.length})`);
+    dbg(`menu sin opcion (entries=${entries.length}; labels=${entries.slice(0,5).map(e=>(e.textContent||'').trim().slice(0,40)).join(' | ')})`);
     btn.click();                      // cerrar menu (toggle)
     await sleep(200);
     return false;
