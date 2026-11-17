@@ -1,9 +1,9 @@
 # WL-584 — 🚨BERCOVICH ENCIENDE TODAS LAS ALARMAS: CAPUTO Y MILEI TOMARON LA PEOR DECISIÓN
 
-- **Fuente original**: `raw/wl/tramo-93/2026-08-15-bercovich-enciende-todas-las-alarmas-caputo-y-milei-tomaron-la-peor-decision.md` ([Vídeo](https://www.youtube.com/watch?v=kQneru2jpOs))
+- **Fuente original**: `raw/economia-argentina/2026-08-15-bercovich-enciende-todas-las-alarmas-caputo-y-milei-tomaron-la-peor-decision.md` ([Vídeo](https://www.youtube.com/watch?v=kQneru2jpOs))
 - **Canal**: Politica Digital
 - **Publicado**: 2026-08-14 · **Duración**: 09:24
-- **Dominio provisional**: economia-argentina
+- **Dominio definitivo**: economia-argentina (consolidación T97 relevo 3, 2026-11-17)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
