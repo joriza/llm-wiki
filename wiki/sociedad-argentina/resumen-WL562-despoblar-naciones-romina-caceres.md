@@ -1,9 +1,9 @@
 # WL-562 — Así es cómo logran despoblar naciones. Romina Cáceres expone en el senado Argentino
 
-- **Fuente original**: `raw/wl/tramo-89/2026-08-13-asi-es-como-logran-despoblar-naciones-romina-caceres-expone-en-el-senado-argenti.md` ([Vídeo](https://www.youtube.com/watch?v=M4bXlm_bq94))
+- **Fuente original**: `raw/sociedad-argentina/2026-08-13-asi-es-como-logran-despoblar-naciones-romina-caceres-expone-en-el-senado-argenti.md` ([Vídeo](https://www.youtube.com/watch?v=M4bXlm_bq94))
 - **Canal**: Psicoclinica Equilibrio (canal de la propia ponente)
 - **Publicado**: 2026-08-13 · **Duración**: 31:00 (exposición en senado argentino, presentación de Claudia Peiró)
-- **Dominio provisional**: sociedad-argentina (demografía / ideología)
+- **Dominio definitivo**: sociedad-argentina (consolidación T97 relevo 2, 2026-11-17) (demografía / ideología)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata (registro neutral del contenido)
