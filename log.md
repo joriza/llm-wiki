@@ -4300,3 +4300,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-619 — Por qué la sequía de Panamá llenó de barcos el estrecho de Magallanes (La otra mitad del País, 23:57, HqKCcfIYwdc)
 
 - Tramo 98 relevo 4 (fuente 22/27, 4.ª útil): boom de tránsito 2026 y destino real del dinero (Armada + prácticos, no la ciudad); lección 1914. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL619-estrecho-magallanes-panama-la-otra-mitad.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-620 — Tu código de IA no es tan bueno como crees (Eric Risco, 18:51, If_KIOuQTkM)
+
+- Tramo 98 relevo 4 (fuente 23/27, 5.ª útil — cierre de frontera): obsolescencia del meta-arnés vs. memoria persistente (RSC Harness/Brain). NOTA: el relevo previo la anticipaba como ya procesada; el dedupe la dio nueva (no estaba en raw/) y se procesó como fuente nueva. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL620-codigo-ia-obsolescencia-arnes-eric-risco.md`. Consolidación aplazada.
