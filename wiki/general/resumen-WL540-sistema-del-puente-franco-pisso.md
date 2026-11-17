@@ -1,9 +1,9 @@
 # WL-540 — Si TODO te interesa, tenes que conocer ÉSTE SISTEMA
 
-- **Fuente original**: `raw/wl/tramo-85/2026-08-20-si-todo-te-interesa-tenes-que-conocer-este-sistema.md` ([Vídeo](https://www.youtube.com/watch?v=bkjm6wtrpig))
+- **Fuente original**: `raw/general/2026-08-20-si-todo-te-interesa-tenes-que-conocer-este-sistema.md` ([Vídeo](https://www.youtube.com/watch?v=bkjm6wtrpig))
 - **Canal**: Franco Pisso
 - **Publicado**: 2026-08-20 · **Duración**: 20:45
-- **Dominio provisional**: general / desarrollo-personal
+- **Dominio definitivo**: general (consolidación T97, 2026-11-17) / desarrollo-personal
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

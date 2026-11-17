@@ -1,9 +1,9 @@
 # WL-550 — Vas a ALQUILAR tu próximo teléfono
 
-- **Fuente original**: `raw/wl/tramo-87/2026-08-25-vas-a-alquilar-tu-proximo-telefono.md` ([Vídeo](https://www.youtube.com/watch?v=rVVzsM9Zock))
+- **Fuente original**: `raw/general/2026-08-25-vas-a-alquilar-tu-proximo-telefono.md` ([Vídeo](https://www.youtube.com/watch?v=rVVzsM9Zock))
 - **Canal**: SupraPixel (formato after/debate con el editor «Flan»)
 - **Publicado**: 2026-08-25 · **Duración**: 39:38
-- **Dominio provisional**: general / tecnología-consumo (economía de la electrónica)
+- **Dominio definitivo**: general (consolidación T97, 2026-11-17) / tecnología-consumo (economía de la electrónica)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

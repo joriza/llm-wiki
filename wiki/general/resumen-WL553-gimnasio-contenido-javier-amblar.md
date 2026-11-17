@@ -1,9 +1,9 @@
 # WL-553 — Ganar Dinero en YouTube: Solo el 0,7% de los que Suben Vídeos lo Logra
 
-- **Fuente original**: `raw/wl/tramo-88/2026-08-25-ganar-dinero-en-youtube-solo-el-0-7-de-los-que-suben-videos-lo-logra-y-esto-es-l.md` ([Vídeo](https://www.youtube.com/watch?v=gFLGmmAw7CE))
+- **Fuente original**: `raw/general/2026-08-25-ganar-dinero-en-youtube-solo-el-0-7-de-los-que-suben-videos-lo-logra-y-esto-es-l.md` ([Vídeo](https://www.youtube.com/watch?v=gFLGmmAw7CE))
 - **Canal**: Javier Amblar: Estrategia · IA · Negocio
 - **Publicado**: 2026-08-25 · **Duración**: 01:07 (Short)
-- **Dominio provisional**: general / estrategia de creadores
+- **Dominio definitivo**: general (consolidación T97, 2026-11-17) / estrategia de creadores
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

@@ -1,9 +1,9 @@
 # WL-537 — 🔥 Los programadores están ignorando este mercado
 
-- **Fuente original**: `raw/wl/tramo-85/2026-08-20-los-programadores-estan-ignorando-este-mercado.md` ([Vídeo](https://www.youtube.com/watch?v=WFmALD7Uhg4))
+- **Fuente original**: `raw/general/2026-08-20-los-programadores-estan-ignorando-este-mercado.md` ([Vídeo](https://www.youtube.com/watch?v=WFmALD7Uhg4))
 - **Canal**: hdeleon.net (Héctor de León)
 - **Publicado**: 2026-08-20 · **Duración**: 12:27
-- **Dominio provisional**: general (integración hardware + desarrollo; IoT)
+- **Dominio definitivo**: general (consolidación T97, 2026-11-17) (integración hardware + desarrollo; IoT)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

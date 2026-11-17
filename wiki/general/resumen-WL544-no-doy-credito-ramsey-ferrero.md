@@ -1,9 +1,9 @@
 # WL-544 — No doy crédito!
 
-- **Fuente original**: `raw/wl/tramo-86/2026-08-20-no-doy-credito.md` ([Vídeo](https://www.youtube.com/watch?v=5fa5wfgPi1I))
+- **Fuente original**: `raw/general/2026-08-20-no-doy-credito.md` ([Vídeo](https://www.youtube.com/watch?v=5fa5wfgPi1I))
 - **Canal**: Ramsey Ferrero
 - **Publicado**: 2026-08-20 · **Duración**: 01:10 (Short)
-- **Dominio provisional**: general (opinionismo/drama de internet)
+- **Dominio definitivo**: general (consolidación T97, 2026-11-17) (opinionismo/drama de internet)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
