@@ -1,9 +1,9 @@
 # WL-592 — El peligro oculto de usar un ventilador
 
-- **Fuente original**: `raw/wl/tramo-95/2026-08-12-el-peligro-oculto-de-usar-un-ventilador.md` ([Vídeo](https://www.youtube.com/watch?v=yawsxCoARtc))
+- **Fuente original**: `raw/casa-calefaccion/2026-08-12-el-peligro-oculto-de-usar-un-ventilador.md` ([Vídeo](https://www.youtube.com/watch?v=yawsxCoARtc))
 - **Canal**: PorQué
 - **Publicado**: 2026-08-12 · **Duración**: 22:13
-- **Dominio provisional**: casa-calefaccion / salud (climática)
+- **Dominio definitivo**: casa-calefaccion / salud (consolidación T97 relevo 3, 2026-11-17) / salud (climática)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
