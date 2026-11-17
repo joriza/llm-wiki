@@ -4272,3 +4272,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-612 — Podrías haber inventado OpenClaw (Articulator ES, 16:36, 5fjFsf3ZS2U)
 
 - Tramo 98 relevo 3 (fuente 14/27, 2.ª útil): arquitectura de asistente persistente en 10 pasos (sesiones, alma, herramientas, permisos, pasarela, compactación, memoria, cola, latidos, multi-agente); transcripción manual (no ASR). Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL612-openclaw-asistente-persistente-articulator.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-613 — Por qué el FIAMBRE de hoy es una PORQUERÍA (Marcos Di Cesare, 18:34, vTs_x07Zhe0)
+
+- Tramo 98 relevo 3 (fuente 15/27, 3.ª útil): fiambres/industria con checklist práctico y dos trampas de etiquetado (apio-nitritos, harina de arroz-emplume); autopromoción excluida. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL613-fiambres-embutidos-industria-marcos-di-cesare.md`. Consolidación aplazada.
