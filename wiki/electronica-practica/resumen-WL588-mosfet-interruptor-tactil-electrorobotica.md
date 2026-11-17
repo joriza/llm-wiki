@@ -1,9 +1,9 @@
 # WL-588 — No mas Interruptores de Pared, en su lugar usa un Transistor MOSFET
 
-- **Fuente original**: `raw/wl/tramo-94/2026-05-31-no-mas-interruptores-de-pared-en-su-lugar-usa-un-transistor-mosfet.md` ([Vídeo](https://www.youtube.com/watch?v=mD4zkcNCnok))
+- **Fuente original**: `raw/electronica-practica/2026-05-31-no-mas-interruptores-de-pared-en-su-lugar-usa-un-transistor-mosfet.md` ([Vídeo](https://www.youtube.com/watch?v=mD4zkcNCnok))
 - **Canal**: ElectroRobotica3D («profe Nelson»)
 - **Publicado**: 2026-05-31 · **Duración**: 12:51
-- **Dominio provisional**: electronica-practica (transistores / conmutación)
+- **Dominio definitivo**: electronica-practica (consolidación T97 relevo 3, 2026-11-17) (transistores / conmutación)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

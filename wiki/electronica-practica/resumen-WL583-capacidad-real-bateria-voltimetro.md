@@ -1,9 +1,9 @@
 # WL-583 — Lo que NADIE te explica sobre la Capacidad Real de una Batería
 
-- **Fuente original**: `raw/wl/tramo-93/2026-03-11-lo-que-nadie-te-explica-sobre-la-capacidad-real-de-una-bateria.md` ([Vídeo](https://www.youtube.com/watch?v=wBS-u4I12us))
+- **Fuente original**: `raw/electronica-practica/2026-03-11-lo-que-nadie-te-explica-sobre-la-capacidad-real-de-una-bateria.md` ([Vídeo](https://www.youtube.com/watch?v=wBS-u4I12us))
 - **Canal**: Voltímetro
 - **Publicado**: 2026-03-11 · **Duración**: 12:15
-- **Dominio provisional**: electronica-practica / casa-calefaccion (baterías solares)
+- **Dominio definitivo**: electronica-practica (consolidación T97 relevo 3, 2026-11-17) / casa-calefaccion (baterías solares)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

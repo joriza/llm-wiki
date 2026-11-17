@@ -1,9 +1,9 @@
 # WL-580 — No tires tus audífonos: cómo se reparan tus audífonos Bluetooth
 
-- **Fuente original**: `raw/wl/tramo-93/2026-07-31-no-tires-tus-audifonos-como-se-reparan-tus-audifonos-bluetooth.md` ([Vídeo](https://www.youtube.com/watch?v=xe95IbY7aZQ))
+- **Fuente original**: `raw/electronica-practica/2026-07-31-no-tires-tus-audifonos-como-se-reparan-tus-audifonos-bluetooth.md` ([Vídeo](https://www.youtube.com/watch?v=xe95IbY7aZQ))
 - **Canal**: Kike tac
 - **Publicado**: 2026-07-31 · **Duración**: 05:58
-- **Dominio provisional**: electronica-practica (reparación de baterías)
+- **Dominio definitivo**: electronica-practica (consolidación T97 relevo 3, 2026-11-17) (reparación de baterías)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
