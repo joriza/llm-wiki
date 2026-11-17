@@ -1,9 +1,9 @@
 # WL-541 — Modelos, Harnesses y Orquestadores: Lo Único que Importa en IA
 
-- **Fuente original**: `raw/wl/tramo-85/2026-08-26-modelos-harnesses-y-orquestadores-lo-unico-que-importa-en-ia.md` ([Vídeo](https://www.youtube.com/watch?v=_HxDbdItVcs))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-26-modelos-harnesses-y-orquestadores-lo-unico-que-importa-en-ia.md` ([Vídeo](https://www.youtube.com/watch?v=_HxDbdItVcs))
 - **Canal**: Fazt Code
 - **Publicado**: 2026-08-26 · **Duración**: 19:48
-- **Dominio provisional**: agentes-de-codigo (taxonomía del ecosistema)
+- **Dominio definitivo**: agentes-de-codigo (consolidación T97, 2026-11-17) (taxonomía del ecosistema)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

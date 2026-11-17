@@ -1,9 +1,9 @@
 # WL-546 — WebMCP explicado: El futuro de la interacción IA y Web
 
-- **Fuente original**: `raw/wl/tramo-86/2026-08-26-webmcp-explicado-el-futuro-de-la-interaccion-ia-y-web.md` ([Vídeo](https://www.youtube.com/watch?v=4xYRa4R_f0k))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-26-webmcp-explicado-el-futuro-de-la-interaccion-ia-y-web.md` ([Vídeo](https://www.youtube.com/watch?v=4xYRa4R_f0k))
 - **Canal**: return(GiS); (desarrolladora divulgadora .NET/web)
 - **Publicado**: 2026-08-26 · **Duración**: 16:02
-- **Dominio provisional**: agentes-de-codigo / web (especificación WebMCP)
+- **Dominio definitivo**: agentes-de-codigo (consolidación T97, 2026-11-17) / web (especificación WebMCP)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

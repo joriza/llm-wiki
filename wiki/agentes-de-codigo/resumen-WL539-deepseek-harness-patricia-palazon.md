@@ -1,9 +1,9 @@
 # WL-539 — DeepSeek Harness CAMBIA las reglas: ¿Adiós a Claude Code y Codex?
 
-- **Fuente original**: `raw/wl/tramo-85/2026-08-26-deepseek-harness-cambia-las-reglas-adios-a-claude-code-y-codex.md` ([Vídeo](https://www.youtube.com/watch?v=Ly2R2-Ga8e4))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-26-deepseek-harness-cambia-las-reglas-adios-a-claude-code-y-codex.md` ([Vídeo](https://www.youtube.com/watch?v=Ly2R2-Ga8e4))
 - **Canal**: Patricia Palazón | IA
 - **Publicado**: 2026-08-26 · **Duración**: 13:17
-- **Dominio provisional**: agentes-de-codigo (harnesses)
+- **Dominio definitivo**: agentes-de-codigo (consolidación T97, 2026-11-17) (harnesses)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
