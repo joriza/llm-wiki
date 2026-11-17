@@ -1,6 +1,6 @@
 # WL-597 — Domina CUALQUIER TEMA con IA. El método que el MIT inventó en 1972
 
-- **Fuente original**: `raw/wl/tramo-95/2026-08-16-domina-cualquier-tema-con-ia-el-metodo-que-el-mit-invento-en-1972.md` ([Vídeo](https://www.youtube.com/watch?v=l_tMctYN2k8))
+- **Fuente original**: `raw/wl/tramo-96/2026-08-16-domina-cualquier-tema-con-ia-el-metodo-que-el-mit-invento-en-1972.md` ([Vídeo](https://www.youtube.com/watch?v=l_tMctYN2k8))
 - **Canal**: Xavier Mitjana
 - **Publicado**: 2026-08-16 · **Duración**: 13:27
 - **Dominio provisional**: agentes-de-codigo-adyacente / general (IA aplicada al aprendizaje — dinámica de sistemas)
