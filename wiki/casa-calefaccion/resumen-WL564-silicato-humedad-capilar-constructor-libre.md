@@ -1,9 +1,9 @@
 # WL-564 — El líquido de $3 que frena la humedad que SUBE por la pared
 
-- **Fuente original**: `raw/wl/tramo-90/2026-08-11-el-liquido-de-3-que-frena-la-humedad-que-sube-por-la-pared-sin-picar-ni-llamar-a.md` ([Vídeo](https://www.youtube.com/watch?v=VWogYFTLeE8))
+- **Fuente original**: `raw/casa-calefaccion/2026-08-11-el-liquido-de-3-que-frena-la-humedad-que-sube-por-la-pared-sin-picar-ni-llamar-a.md` ([Vídeo](https://www.youtube.com/watch?v=VWogYFTLeE8))
 - **Canal**: El Constructor Libre (The Free Builder)
 - **Publicado**: 2026-08-10 · **Duración**: 16:15
-- **Dominio provisional**: casa-calefaccion / general (construcción y humedad)
+- **Dominio definitivo**: casa-calefaccion (consolidación T97 relevo 2, 2026-11-17) / general (construcción y humedad)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
