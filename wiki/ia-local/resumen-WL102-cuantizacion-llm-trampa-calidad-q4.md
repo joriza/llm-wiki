@@ -1,6 +1,6 @@
 # Resumen: Cuantización de LLM explicada: la trampa de calidad del Q4
 
-- **Fuente original**: `raw/ia-uso-practico/2026-11-03-cuantizacion-de-llm-explicada-la-trampa-de-calidad-del-q4.md` (WL-102, tramo 8)
+- **Fuente original**: `raw/ia-local/2026-11-03-cuantizacion-de-llm-explicada-la-trampa-de-calidad-del-q4.md` (WL-102, tramo 8)
 - **URL**: https://www.youtube.com/watch?v=IK-mFMiTvK8
 - **Canal**: Jorge Marfil
 - **Publicado**: 2026-11-03 · **Duración**: 37:45 · **Idioma**: es (subtítulos automáticos, transcripción literal)

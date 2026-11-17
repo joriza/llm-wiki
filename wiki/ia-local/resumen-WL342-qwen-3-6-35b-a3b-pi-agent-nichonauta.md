@@ -1,6 +1,6 @@
 # WL-342 · Qwen 3.6 35B A3B en Pi-Agent: más inteligente y rápido con MoE
 
-- **Fuente**: [`raw/ia-uso-practico/2026-09-21-qwen-3-6-35b-a3b-en-pi-agent-mas-inteligente-y-rapido-con-moe.md`](../../raw/ia-uso-practico/2026-09-21-qwen-3-6-35b-a3b-en-pi-agent-mas-inteligente-y-rapido-con-moe.md) — vídeo de YouTube `MFf8WPXHESw`
+- **Fuente**: [`raw/ia-local/2026-09-21-qwen-3-6-35b-a3b-en-pi-agent-mas-inteligente-y-rapido-con-moe.md`](../../raw/ia-uso-practico/2026-09-21-qwen-3-6-35b-a3b-en-pi-agent-mas-inteligente-y-rapido-con-moe.md) — vídeo de YouTube `MFf8WPXHESw`
 - **Canal**: Nichonauta
 - **Publicado**: 2026-09-21 · **Duración**: 13:50
 - **Tipo**: demo/tutorial de ejecución local de modelos (llama.cpp + agente de código)

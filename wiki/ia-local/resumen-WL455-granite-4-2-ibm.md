@@ -1,6 +1,6 @@
 # WL-455 — Granite 4.2 ⚡ ¿Vale la pena este Nuevo Modelo de IBM? Review y COMPARATIVA
 
-- **Fuente original**: `raw/wl/tramo-75/2026-08-28-granite-4-2-vale-la-pena-este-nuevo-modelo-de-ibm-review-y-comparativa.md` ([Vídeo](https://www.youtube.com/watch?v=CuvIvOnhUjc))
+- **Fuente original**: `raw/ia-local/2026-08-28-granite-4-2-vale-la-pena-este-nuevo-modelo-de-ibm-review-y-comparativa.md` ([Vídeo](https://www.youtube.com/watch?v=CuvIvOnhUjc))
 - **Canal**: Nichonauta
 - **Publicado**: 2026-08-28 · **Duración**: 10:13
 - **Dominio provisional**: ia-uso-practico/ia-local (review de inferencia local — clúster Nichonauta/llama.cpp)

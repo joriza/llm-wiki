@@ -1,6 +1,6 @@
 # WL-440 — Probando GLM-5.3 Flash: Calidad y Rendimiento al Menor Costo
 
-- **Fuente original**: `raw/wl/tramo-73/2026-08-27-probando-glm-5-3-flash-calidad-y-rendimiento-al-menor-costo.md` ([Vídeo](https://www.youtube.com/watch?v=cmJlSpna5a4))
+- **Fuente original**: `raw/ia-local/2026-08-27-probando-glm-5-3-flash-calidad-y-rendimiento-al-menor-costo.md` ([Vídeo](https://www.youtube.com/watch?v=cmJlSpna5a4))
 - **Canal**: Carlos Alarcón - AI
 - **Publicado**: 2026-08-27 · **Duración**: 21:40
 - **Dominio provisional**: ia-uso-practico (routing por coste / modelos abiertos)

@@ -1,6 +1,6 @@
 # WL-472 — Lo consiguió! Omniroute Regala la Mejor IA GRATIS y SIN Límites
 
-- **Fuente original**: `raw/wl/tramo-78/2026-08-27-lo-consiguio-omniroute-regala-la-mejor-ia-gratis-y-sin-limites.md` ([Vídeo](https://www.youtube.com/watch?v=q1hFEja170A))
+- **Fuente original**: `raw/ia-local/2026-08-27-lo-consiguio-omniroute-regala-la-mejor-ia-gratis-y-sin-limites.md` ([Vídeo](https://www.youtube.com/watch?v=q1hFEja170A))
 - **Canal**: Alejavi Rivera
 - **Publicado**: 2026-08-27 · **Duración**: 36:04
 - **Dominio provisional**: ia-uso-practico (routing de modelos gratuitos — tutorial de herramienta)

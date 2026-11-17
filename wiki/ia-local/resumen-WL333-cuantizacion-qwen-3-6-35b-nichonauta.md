@@ -1,6 +1,6 @@
 # WL-333 — Cuantización de Modelos de IA 🚀 ¿Realmente se Pierde CALIDAD?
 
-- **Fuente original**: `raw/ia-uso-practico/2026-09-23-cuantizacion-de-modelos-de-ia-realmente-se-pierde-calidad.md` ([vídeo](https://www.youtube.com/watch?v=SyLPqEO0YUU))
+- **Fuente original**: `raw/ia-local/2026-09-23-cuantizacion-de-modelos-de-ia-realmente-se-pierde-calidad.md` ([vídeo](https://www.youtube.com/watch?v=SyLPqEO0YUU))
 - **Canal**: Nichonauta
 - **Publicado**: 2026-09-23 · **Duración**: 10:06 · **Ingesta**: 2026-11-16 (tramo 51)
 - **Tipo**: benchmark comparativo de 1.ª mano (pruebas en pantalla del propio autor)

@@ -1,6 +1,6 @@
 # Resumen WL-363: Cuantización extrema de Qwen 3.8 Flash Next — Nichonauta
 
-**Fuente original:** `raw/ia-uso-practico/2026-09-17-cuantizacion-extrema-de-qwen-3-8-flash-next-mantiene-la-calidad-en-hardware-limi.md` (YouTube: `nzsAJFW9rso`, canal **Nichonauta**, publicado 2026-09-17, 12:29).
+**Fuente original:** `raw/ia-local/2026-09-17-cuantizacion-extrema-de-qwen-3-8-flash-next-mantiene-la-calidad-en-hardware-limi.md` (YouTube: `nzsAJFW9rso`, canal **Nichonauta**, publicado 2026-09-17, 12:29).
 
 ---
 

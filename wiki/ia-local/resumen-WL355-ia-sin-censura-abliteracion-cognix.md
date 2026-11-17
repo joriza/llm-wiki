@@ -1,6 +1,6 @@
 # WL-355 — La IA SIN CENSURA cuesta solo $5… y NADIE puede detenerla
 
-- **Fuente original**: `raw/ia-critica-y-fronteras/2026-09-18-la-ia-sin-censura-cuesta-solo-5-y-nadie-puede-detenerla.md` ([vídeo](https://www.youtube.com/watch?v=oK86HLPmdAg))
+- **Fuente original**: `raw/ia-local/2026-09-18-la-ia-sin-censura-cuesta-solo-5-y-nadie-puede-detenerla.md` ([vídeo](https://www.youtube.com/watch?v=oK86HLPmdAg))
 - **Canal**: Cognix
 - **Publicado**: 2026-09-18 · **Duración**: ~10:00 · **Ingesta**: 2026-11-16 (tramo 55)
 - **Tipo**: divulgación técnica (2.ª mano: reporting de TechCrunch, papers y benchmarks citados sin enlaces verificables)

@@ -1,6 +1,6 @@
 # WL-468 — Build the Gemma Translator: No Internet Required
 
-- **Fuente original**: `raw/wl/tramo-77/2026-08-23-build-the-gemma-translator-no-internet-required.md` ([Vídeo](https://www.youtube.com/watch?v=tyELRiuEG40))
+- **Fuente original**: `raw/ia-local/2026-08-23-build-the-gemma-translator-no-internet-required.md` ([Vídeo](https://www.youtube.com/watch?v=tyELRiuEG40))
 - **Canal**: DroneBot Workshop
 - **Publicado**: 2026-08-23 · **Duración**: 27:02
 - **Dominio provisional**: ia-uso-practico/ia-local (IA local en hardware de borde — build de dispositivo)

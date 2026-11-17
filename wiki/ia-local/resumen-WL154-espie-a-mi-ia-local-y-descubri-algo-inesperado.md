@@ -1,6 +1,6 @@
 # WL-154 · Espié a mi IA local… y descubrí algo inesperado
 
-- **Fuente original**: `raw/ia-uso-practico/2026-10-26-espie-a-mi-ia-local-y-descubri-algo-inesperado.md`
+- **Fuente original**: `raw/ia-local/2026-10-26-espie-a-mi-ia-local-y-descubri-algo-inesperado.md`
 - **Video**: [WdOLEwGuEN8](https://www.youtube.com/watch?v=WdOLEwGuEN8)
 - **Canal**: Cognix · Publicado 2026-10-26 · Duración 15:52
 - **Dominio previsto** (consolidación diferida): ia-uso-practico/ia-local (seguridad/privacidad; cruce natural con WL-147 y WL-132, mismo canal)

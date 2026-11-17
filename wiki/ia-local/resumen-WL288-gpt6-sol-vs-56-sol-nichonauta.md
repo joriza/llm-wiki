@@ -1,6 +1,6 @@
 # WL-288 — «GPT 6 Sol es más tonto 📉 COMPARATIVA con el 5.6 SOL para ver si EMPEORÓ» (Nichonauta)
 
-- **Fuente original**: `raw/ia-uso-practico/2026-09-22-gpt-6-sol-es-mas-tonto-comparativa-con-el-5-6-sol-para-ver-si-empeoro.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/ia-local/2026-09-22-gpt-6-sol-es-mas-tonto-comparativa-con-el-5-6-sol-para-ver-si-empeoro.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=EjpkHj0m0NQ · Canal Nichonauta · Publicado 2026-09-22 · 04:01 · Subtítulos automáticos es
 - **Tramo**: 42, fuente útil 4/5 (posición 100 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico/ia-critica-y-fronteras (cruces WL-283/WL-290 mismo canal, WL-282)

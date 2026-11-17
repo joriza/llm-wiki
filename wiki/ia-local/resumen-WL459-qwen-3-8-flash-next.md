@@ -1,6 +1,6 @@
 # WL-459 — Mejor que DeepSeek V4 Pro en mi PC 🚀 Qwen 3.8 Flash Next es INCREÍBLE
 
-- **Fuente original**: `raw/wl/tramo-76/2026-08-28-mejor-que-deepseek-v4-pro-en-mi-pc-qwen-3-8-flash-next-es-increible.md` ([Vídeo](https://www.youtube.com/watch?v=RirKlGTe9fE))
+- **Fuente original**: `raw/ia-local/2026-08-28-mejor-que-deepseek-v4-pro-en-mi-pc-qwen-3-8-flash-next-es-increible.md` ([Vídeo](https://www.youtube.com/watch?v=RirKlGTe9fE))
 - **Canal**: Nichonauta
 - **Publicado**: 2026-08-27 · **Duración**: 09:59
 - **Dominio provisional**: ia-uso-practico/ia-local (inferencia local de modelos grandes en RAM — clúster Nichonauta)
