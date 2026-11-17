@@ -1,9 +1,9 @@
 # WL-586 — 🚀 ¿Todavía guardas un módem viejo? ¡No lo tires!
 
-- **Fuente original**: `raw/wl/tramo-93/2026-07-16-todavia-guardas-un-modem-viejo-no-lo-tires.md` ([Vídeo](https://www.youtube.com/watch?v=BnC1OFs4OUY))
+- **Fuente original**: `raw/self-hosting/2026-07-16-todavia-guardas-un-modem-viejo-no-lo-tires.md` ([Vídeo](https://www.youtube.com/watch?v=BnC1OFs4OUY))
 - **Canal**: timelessart
 - **Publicado**: 2026-07-15 · **Duración**: 05:59
-- **Dominio provisional**: self-hosting (redes caseras)
+- **Dominio definitivo**: self-hosting (consolidación T97 relevo 3, 2026-11-17) (redes caseras)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
