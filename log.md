@@ -4288,3 +4288,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-616 — Por Qué el Río Matanza-Riachuelo No Es Lo Que Crees (Aguas Con Esteban, 35:33, 6KYLmZmJ9QA)
 
 - Tramo 98 relevo 4 (cabeza del relevo, índice 19/27): 28 datos del Riachuelo con el giro informativo central (contaminación cloacal > industrial) y recuperación documentada. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL616-matanza-riachuelo-aguas-con-esteban.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-617 — Tras 273 días con mi propio servidor en casa, he cancelado todo (PepoTech, 09:19, YHvekRdVMLI)
+
+- Tramo 98 relevo 4 (fuente 20/27, 2.ª útil): seis lecciones del homelabbing real y veredicto ahorro≠soberanía. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL617-servidor-casa-cancelado-pepotech.md`. Consolidación aplazada.
