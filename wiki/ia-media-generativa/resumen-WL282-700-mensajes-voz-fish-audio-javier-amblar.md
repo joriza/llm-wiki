@@ -1,6 +1,6 @@
 # WL-282 — «700 Mensajes con Tu Voz Sin GRABAR Ni Uno (Fish Audio)» (Javier Amblar)
 
-- **Fuente original**: `raw/ia-uso-practico/2026-09-26-700-mensajes-con-tu-voz-sin-grabar-ni-uno-fish-audio.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/ia-media-generativa/2026-09-26-700-mensajes-con-tu-voz-sin-grabar-ni-uno-fish-audio.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=ZVs7kE-TOmg · Canal Javier Amblar: Estrategia · IA · Negocio · Publicado 2026-09-26 · 19:34 · Subtítulos automáticos es
 - **Tramo**: 41, fuente útil 3/5 (posición 94 de 4686)
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico (voz con IA aplicada a negocio; cruces WL-284 —misma plataforma Fish Audio—, ia-media-generativa)

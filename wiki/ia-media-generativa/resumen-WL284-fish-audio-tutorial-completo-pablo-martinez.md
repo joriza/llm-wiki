@@ -1,6 +1,6 @@
 # WL-284 — «Fish Audio: La Alternativa a ElevenLabs (Clona tu Voz + Agentes de Llamadas + MCP con Claude)» (Pablo Martínez)
 
-- **Fuente original**: `raw/ia-uso-practico/2026-09-20-fish-audio-la-alternativa-a-elevenlabs-clona-tu-voz-agentes-de-llamadas-mcp-con-.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/ia-media-generativa/2026-09-20-fish-audio-la-alternativa-a-elevenlabs-clona-tu-voz-agentes-de-llamadas-mcp-con-.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=1Lbb4yGZ9v4 · Canal Pablo Martínez · Publicado 2026-09-20 · 61:48 · Subtítulos automáticos es
 - **Tramo**: 41, fuente útil 5/5 (posición 96 de 4686) — **CIERRE DEL TRAMO en frontera exacta, sin sexto ciclo útil**
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico (voz con IA; cruces WL-282 —misma plataforma—, ia-media-generativa)

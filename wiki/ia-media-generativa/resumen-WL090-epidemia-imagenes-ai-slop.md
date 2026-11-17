@@ -1,6 +1,6 @@
 # Resumen: Epidemia imágenes IA — la pérdida de la originalidad
 
-- **Fuente original**: `raw/ia-uso-practico/2026-11-02-epidemia-imagenes-ai-la-perdida-de-la-originalidad.md` (WL-90, tramo 7)
+- **Fuente original**: `raw/ia-media-generativa/2026-11-02-epidemia-imagenes-ai-la-perdida-de-la-originalidad.md` (WL-90, tramo 7)
 - **URL**: https://www.youtube.com/watch?v=od3dgRzplSk
 - **Canal**: Lógicamente Aclarado (Moisés)
 - **Publicado**: 2026-11-02 · **Duración**: 14:18 · **Idioma**: es (subtítulos automáticos, transcripción literal)

@@ -1,6 +1,6 @@
 # WL-447 — La IA que Hace Tu SERIE de Dibujos Animados (DomoAI)
 
-- **Fuente original**: `raw/wl/tramo-74/2026-08-31-la-ia-que-hace-tu-serie-de-dibujos-animados-domoai.md` ([Vídeo](https://www.youtube.com/watch?v=hhQaeBhTsgo))
+- **Fuente original**: `raw/ia-media-generativa/2026-08-31-la-ia-que-hace-tu-serie-de-dibujos-animados-domoai.md` ([Vídeo](https://www.youtube.com/watch?v=hhQaeBhTsgo))
 - **Canal**: Javier Amblar: Estrategia · IA · Negocio
 - **Publicado**: 2026-08-31 · **Duración**: 23:01
 - **Dominio provisional**: ia-uso-practico (herramientas generativas de vídeo — demo práctica)
