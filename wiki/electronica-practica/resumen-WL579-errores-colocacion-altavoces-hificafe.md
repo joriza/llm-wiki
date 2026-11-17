@@ -1,9 +1,9 @@
 # WL-579 — El error #1 colocando altavoces (y otros 4 que casi todos cometemos)
 
-- **Fuente original**: `raw/wl/tramo-93/2026-01-11-el-error-1-colocando-altavoces-y-otros-4-que-casi-todos-cometemos-guia-rapida-pa.md` ([Vídeo](https://www.youtube.com/watch?v=kUiWsY-QEbs))
+- **Fuente original**: `raw/electronica-practica/2026-01-11-el-error-1-colocando-altavoces-y-otros-4-que-casi-todos-cometemos-guia-rapida-pa.md` ([Vídeo](https://www.youtube.com/watch?v=kUiWsY-QEbs))
 - **Canal**: HifiCafé Barcelona
 - **Publicado**: 2026-01-11 · **Duración**: 14:26 (capítulo 1 de serie «iniciación al audio»)
-- **Dominio provisional**: electronica-practica / general (audio/acústica)
+- **Dominio definitivo**: electronica-practica (consolidación T97 relevo 3, 2026-11-17) / general (audio/acústica)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
