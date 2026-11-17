@@ -1,9 +1,9 @@
 # WL-573 — Reduce tus tokens a la mitad con este consejo
 
-- **Fuente original**: `raw/wl/tramo-91/2026-08-10-reduce-tus-tokens-a-la-mitad-con-este-consejo-shorts-ia-dev.md` ([Vídeo](https://www.youtube.com/watch?v=OIQYiXr5-f8))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-10-reduce-tus-tokens-a-la-mitad-con-este-consejo-shorts-ia-dev.md` ([Vídeo](https://www.youtube.com/watch?v=OIQYiXr5-f8))
 - **Canal**: return(GiS);
 - **Publicado**: 2026-08-10 · **Duración**: 00:57 (Short)
-- **Dominio provisional**: agentes-de-codigo (optimización de tokens)
+- **Dominio definitivo**: agentes-de-codigo (consolidación T97 relevo 2, 2026-11-17) (optimización de tokens)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

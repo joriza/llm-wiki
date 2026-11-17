@@ -1,9 +1,9 @@
 # WL-575 — Por qué tu código "Limpio" está ARRUINANDO el proyecto
 
-- **Fuente original**: `raw/wl/tramo-92/2026-08-16-por-que-tu-codigo-limpio-esta-arruinando-el-proyecto.md` ([Vídeo](https://www.youtube.com/watch?v=NTA6Nt2TSNw))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-16-por-que-tu-codigo-limpio-esta-arruinando-el-proyecto.md` ([Vídeo](https://www.youtube.com/watch?v=NTA6Nt2TSNw))
 - **Canal**: TheDebugDuck
 - **Publicado**: 2026-08-16 · **Duración**: 15:55
-- **Dominio provisional**: agentes-de-codigo / informatica-teoria (sobreingeniería y patrones)
+- **Dominio definitivo**: agentes-de-codigo (consolidación T97 relevo 2, 2026-11-17) / informatica-teoria (sobreingeniería y patrones)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

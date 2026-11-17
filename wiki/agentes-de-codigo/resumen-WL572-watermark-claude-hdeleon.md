@@ -1,9 +1,9 @@
 # WL-572 — Lo PEOR que le ha pasado a Claude
 
-- **Fuente original**: `raw/wl/tramo-91/2026-08-17-lo-peor-que-le-ha-pasado-a-claude.md` ([Vídeo](https://www.youtube.com/watch?v=dqGnwoK9gsI))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-17-lo-peor-que-le-ha-pasado-a-claude.md` ([Vídeo](https://www.youtube.com/watch?v=dqGnwoK9gsI))
 - **Canal**: hdeleon.net (Héctor de León)
 - **Publicado**: 2026-08-17 · **Duración**: 09:23
-- **Dominio provisional**: agentes-de-codigo / ia-critica-y-fronteras (marca de agua de IA)
+- **Dominio definitivo**: agentes-de-codigo (consolidación T97 relevo 2, 2026-11-17) / ia-critica-y-fronteras (marca de agua de IA)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
