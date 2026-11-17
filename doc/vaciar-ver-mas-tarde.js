@@ -63,9 +63,19 @@
     const out = [];
     try {
       const raw = JSON.stringify(window.ytInitialData || {});
-      const re = /"playlistSetVideoId":"([^"]+)"[^}]*?"videoId":"([\w-]{11})"/g;
-      let m;
-      while ((m = re.exec(raw)) !== null) push(out, m[1], m[2], '');
+      // el campo hoy se llama setVideoId; aceptamos ambos y ambos ordenes
+      for (const re of [
+        /"setVideoId":"([^"]+)"[^}]*?"videoId":"([\w-]{11})"/g,
+        /"videoId":"([\w-]{11})"[^}]*?"setVideoId":"([^"]+)"/g,
+        /"playlistSetVideoId":"([^"]+)"[^}]*?"videoId":"([\w-]{11})"/g
+      ]) {
+        let m;
+        while ((m = re.exec(raw)) !== null) {
+          const svid = m[1].length >= 16 ? m[1] : m[2];
+          const vid = m[1].length >= 16 ? m[2] : m[1];
+          push(out, svid, vid, '');
+        }
+      }
     } catch (e) {}
     return out;
   }
@@ -113,12 +123,17 @@
   }
 
   let removed = 0, noDom = 0;
-  console.log('▶ Vacíado WL v6.4 (bisect ante 400) — freno: __WL_STOP = true.');
+  console.log('▶ Vacíado WL v6.5 (initialData setVideoId + scroll interno) — freno: __WL_STOP = true.');
   while (!window.__WL_STOP && removed < MAX_REMOVE) {
     let items = collect();
     if (!items.length) {
+      // scroll en el contenedor interno de la playlist y en la ventana
+      const scroller = document.querySelector('ytd-app[scrolling] #contentContainer, ytd-playlist-video-list-renderer #contents')
+        || document.querySelector('ytd-app');
+      if (scroller && scroller.scrollBy) scroller.scrollBy(0, 5000);
       window.scrollTo(0, document.body.scrollHeight);
-      await sleep(2000);
+      window.dispatchEvent(new Event('scroll'));
+      await sleep(2500);
       items = collect();
       if (!items.length) {
         console.log('■ sin setVideoIds. DOM:', {
