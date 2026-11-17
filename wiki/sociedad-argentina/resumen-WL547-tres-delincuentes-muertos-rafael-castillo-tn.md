@@ -1,9 +1,9 @@
 # WL-547 — TRES DELINCUENTES MUERTOS EN UN INTENTO DE ROBO EN RAFAEL CASTILLO
 
-- **Fuente original**: `raw/wl/tramo-87/2026-08-22-tres-delincuentes-muertos-en-un-intento-de-robo-en-rafael-castillo.md` ([Vídeo](https://www.youtube.com/watch?v=1KIYRZVQb1M))
+- **Fuente original**: `raw/sociedad-argentina/2026-08-22-tres-delincuentes-muertos-en-un-intento-de-robo-en-rafael-castillo.md` ([Vídeo](https://www.youtube.com/watch?v=1KIYRZVQb1M))
 - **Canal**: Todo Noticias (TN)
 - **Publicado**: 2026-08-22 · **Duración**: 00:19 (Short de noticias)
-- **Dominio provisional**: sociedad-argentina (inseguridad)
+- **Dominio definitivo**: sociedad-argentina (consolidación T97, 2026-11-17) (inseguridad)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
