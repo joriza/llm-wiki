@@ -11,8 +11,15 @@
   const ctx = ytcfg.get('INNERTUBE_CONTEXT');
   const clientName = ytcfg.get('INNERTUBE_CONTEXT_CLIENT_NAME');
   const clientVersion = ytcfg.get('INNERTUBE_CONTEXT_CLIENT_VERSION');
-  const sapisid = (document.cookie.match(/SAPISID=([^;]+)/) || [])[1];
-  if (!sapisid) { console.log('✋ no hay cookie SAPISID (sesión no iniciada?)'); return; }
+  const cookies = document.cookie;
+  const sapisid = (cookies.match(/(?:^|\s|;)SAPISID=([^;]+)/) || [])[1]
+               || (cookies.match(/__Secure-3PAPISID=([^;]+)/) || [])[1];
+  if (!sapisid) {
+    console.log('✋ sin SAPISID. Cookies disponibles:',
+      cookies.split(';').map(c => c.split('=')[0].trim()).join(', '));
+    return;
+  }
+  console.log('ℹ SAPISID ok (len=' + sapisid.length + ', empieza ' + sapisid.slice(0,4) + '…)');
   const auth = () => {
     const t = Math.floor(Date.now() / 1000);
     return 'SAPISIDHASH ' + t + '_' + btoa(t + '_' + sapisid + '_' + location.origin);
@@ -44,7 +51,8 @@
         'X-Youtube-Client-Version': clientVersion,
         'Authorization': auth(),
         'X-Origin': 'https://www.youtube.com',
-        'Origin': 'https://www.youtube.com'
+        'Origin': 'https://www.youtube.com',
+        'X-Goog-AuthUser': '0'
       },
       body: JSON.stringify({ context: ctx, playlistId: 'WL', actions })
     });
