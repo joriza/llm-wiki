@@ -1,25 +1,20 @@
 (async () => {
-  // Vaciar "Ver mas tarde" via API interna de YouTube (sin menus DOM).
-  // Freno unico: escribí __WL_STOP = true en la consola.
-  const MAX_REMOVE = 2; // tandas de prueba: confirmar logged_in=1 antes de subir a ~90
+  // Vaciar "Ver mas tarde" — v6 FINAL: API interna, tandas de 50 + auto-scroll.
+  // Freno: escribí __WL_STOP = true en la consola.
+  const MAX_REMOVE = 4500;          // cuota total de esta corrida
+  const BATCH = 50;
   window.__WL_STOP = false;
   const sleep = (ms) => new Promise(r => setTimeout(r, ms));
   const rand = (a, b) => a + Math.floor(Math.random() * (b - a));
 
   const ytcfg = window.ytcfg;
-  if (!ytcfg) { console.log('✋ no hay ytcfg — refresca y reintentá'); return; }
   const ctx = ytcfg.get('INNERTUBE_CONTEXT');
-  const clientName = ytcfg.get('INNERTUBE_CONTEXT_CLIENT_NAME');
+  const clientName = String(ytcfg.get('INNERTUBE_CONTEXT_CLIENT_NAME'));
   const clientVersion = ytcfg.get('INNERTUBE_CONTEXT_CLIENT_VERSION');
-  const cookies = document.cookie;
-  const sapisid = (cookies.match(/(?:^|\s|;)SAPISID=([^;]+)/) || [])[1]
-               || (cookies.match(/__Secure-3PAPISID=([^;]+)/) || [])[1];
-  if (!sapisid) {
-    console.log('✋ sin SAPISID. Cookies disponibles:',
-      cookies.split(';').map(c => c.split('=')[0].trim()).join(', '));
-    return;
-  }
-  console.log('ℹ SAPISID ok (len=' + sapisid.length + ', empieza ' + sapisid.slice(0,4) + '…)');
+  const sapisid = (document.cookie.match(/(?:^|\s|;)SAPISID=([^;]+)/) || [])[1]
+               || (document.cookie.match(/__Secure-3PAPISID=([^;]+)/) || [])[1];
+  if (!sapisid) { console.log('✋ sin SAPISID'); return; }
+
   async function auth() {
     const t = Math.floor(Date.now() / 1000);
     const data = new TextEncoder().encode(t + ' ' + sapisid + ' ' + location.origin);
@@ -28,68 +23,58 @@
     return 'SAPISIDHASH ' + t + '_' + hex;
   }
 
-  function setVideoIds() {
+  // pares {svid, node} de las entradas cargadas en el DOM
+  function collect() {
     const out = [];
     document.querySelectorAll('ytd-playlist-video-renderer').forEach(el => {
       const d = el.data || el.__data || {};
-      const svid = d.playlistSetVideoId || d.setVideoId || el.getAttribute('data-set-video-id')
-        || (d.playlistItemData && d.playlistItemData.playlistSetVideoId);
+      const svid = d.playlistSetVideoId || (d.playlistItemData && d.playlistItemData.playlistSetVideoId);
+      if (!svid) return;
       const title = ((el.querySelector('#video-title')||{}).textContent||'').trim().slice(0,60);
-      if (svid) out.push({ svid, title });
+      out.push({ svid, title, node: el });
     });
     return out;
   }
 
-  async function removeBatch(batch) {
-    const actions = batch.filter(b => b.svid).map(b => ({
-      action: 'ACTION_REMOVE_VIDEO', setVideoId: b.svid
-    }));
-    if (!actions.length) return null;
+  async function removeBatch(items) {
     const res = await fetch('/youtubei/v1/browse/edit_playlist?key=' + ytcfg.get('INNERTUBE_API_KEY'), {
-      method: 'POST',
-      credentials: 'include',
+      method: 'POST', credentials: 'include',
       headers: {
         'Content-Type': 'application/json',
-        'X-Youtube-Client-Name': String(clientName),
+        'X-Youtube-Client-Name': clientName,
         'X-Youtube-Client-Version': clientVersion,
         'Authorization': await auth(),
         'X-Origin': 'https://www.youtube.com',
         'Origin': 'https://www.youtube.com',
         'X-Goog-AuthUser': '0'
       },
-      body: JSON.stringify({ context: ctx, playlistId: 'WL', actions })
+      body: JSON.stringify({ context: ctx, playlistId: 'WL',
+        actions: items.map(i => ({ action: 'ACTION_REMOVE_VIDEO', setVideoId: i.svid })) })
     });
-    if (!res.ok) { console.log('✋ HTTP', res.status, await res.text().then(t=>t.slice(0,200))); return null; }
+    if (!res.ok) { console.log('✋ HTTP', res.status); return false; }
     const j = await res.json();
-    if (removed === 0 && rounds === 0) {
-      console.log('ℹ respuesta de la primera tanda:', JSON.stringify(j).slice(0, 600));
+    if (j.errors || (j.alerts && j.alerts.length)) {
+      console.log('ℹ aviso API:', JSON.stringify(j.errors || j.alerts).slice(0,200));
     }
-    return j;
+    return true;
   }
 
-  let removed = 0, rounds = 0;
-  console.log('▶ Vacíado WL v5 (API interna) — freno: __WL_STOP = true.');
+  let removed = 0, stale = 0;
+  console.log('▶ Vacíado WL v6 FINAL — freno: __WL_STOP = true.');
   while (!window.__WL_STOP && removed < MAX_REMOVE) {
-    const items = setVideoIds();
+    let items = collect();
     if (!items.length) {
-      window.scrollTo(0, document.body.scrollHeight); // cargar más
+      window.scrollTo(0, document.body.scrollHeight);   // cargar más
       await sleep(2000);
-      const again = setVideoIds();
-      if (!again.length) { console.log('■ sin entradas con setVideoId cargadas; scrolleá y seguí o F5'); break; }
-      continue;
+      items = collect();
+      if (!items.length) { console.log('■ no quedan entradas cargadas: listo (o scrolleá y repetí).'); break; }
     }
-    const batch = items.slice(0, 50);
-    if (rounds === 0 && removed === 0) {
-      const first = items[0] || {};
-      console.log('ℹ diagnostico primera entrada:', JSON.stringify(first).slice(0,200));
-    }
-    const res = await removeBatch(batch);
-    if (!res) { console.log('✋ sin respuesta OK; deteniendo.'); break; }
-    const applied = (res && res.playlistEditResults ? res.playlistEditResults.length : null);
-    removed += (applied !== null ? applied : batch.filter(b => b.svid).length);
-    rounds++;
-    console.log(`✔ tanda ${rounds}: ${batch.length} removidos (total ${removed}). Último: ${batch[batch.length-1].title}`);
-    await sleep(rand(800, 1500));
+    const batch = items.slice(0, BATCH);
+    if (!await removeBatch(batch)) break;
+    batch.forEach(i => i.node && i.node.remove());      // limpiar del DOM para no reenviar
+    removed += batch.length;
+    console.log(`✔ ${removed} removidos… (último: ${batch[batch.length-1].title})`);
+    await sleep(rand(900, 1600));
   }
-  console.log(`■ Fin: ${removed} removidos en ${rounds} tandas. F5 para ver el estado.`);
+  console.log(`■ Fin: ${removed} removidos (${stale} ignorados). F5 para ver el estado final.`);
 })();
