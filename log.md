@@ -4180,3 +4180,19 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - **Candidatas a baja ANOTADAS (no ejecutadas)**: WL-544, WL-547, WL-562, WL-567, WL-571, WL-584, WL-590, WL-596 + heredadas WL-446/451/458 (en el doc ODD, triage del usuario).
 - **`indice-wl.md`**: bloque «Tramos 85-88 — CONSOLIDADOS» agregado (no existían entradas de ingesta para esos tramos; se documentó la consolidación completa).
 - **Verificación al cierre**: 0 raws y 0 resúmenes en `raw/wl/tramo-85|86|87|88/` y `wiki/wl/tramo-85|86|87|88/`; 0 referencias `wl/tramo-85..88` en index.md; 0 rutas viejas `raw/wl/tramo-8X` en los resúmenes migrados. `git status` limpio salvo preexistentes (.obsidian/workspace.json, pdt-llm-wiki.md). **0 dominios nuevos (S4)**. NO tocado: overview.md/sintesis.md, tramos 89-96 (relevos siguientes), push.
+- [2026-11-17] consolidación WL | T97 relevo 2 del pedido L40 (tramos 89-92, 20 pares)
+- **Nota de alcance**: el encargo decía «21 pares» (WL-558..578); WL-563 es skip [Deleted video] sin par — total real: **20 pares**. Documentado.
+- **Migración con movimiento real** (resumen → `wiki/<dominio>/`, raw → `raw/<dominio>/` con git mv, cita «Fuente original» corregida, fila de index.md actualizada), commits atómicos por dominio:
+  - `futuro-programacion/` 1 (WL-558) — commit 2e05d697.
+  - `electronica-practica/` 4 (WL-559, 574, 576, 577) — commit 5050ffc1.
+  - `general/` 5 (WL-560, 565, 567, 568, 571) — commit 81a77ad6.
+  - `informatica/` 5 (WL-561, 566, 569, 570, 578) — commit 7896bd9c.
+  - `sociedad-argentina/` 1 (WL-562) — commit 30cf05d5.
+  - `casa-calefaccion/` 1 (WL-564) — commit c91d64d1.
+  - `agentes-de-codigo/` 3 (WL-572, 573, 575) — commit 928a3dc1.
+- **Entidades**: [[hdeleon-net]] +WL-558/572 (11.ª-12.ª WL); [[thedebugduck]] +WL-575 (6.ª WL); [[acaele]] creada (2.ª WL, confirmada).
+- **Conceptos candidatos** (para relevo 3 u orquestador): watermarking IA (WL-572 + WL-599 — fuera de este relevo), «la fricción vive en los bordes» (WL-543/555/559), serie almacenamiento Lightman (WL-569/570), hilo «la etiqueta miente» (WL-583-adyacente).
+- **Candidatas a baja ANOTADAS (no ejecutadas)**: WL-562, WL-567, WL-571 (en el doc ODD, triage del usuario; WL-562 y WL-571 sí migradas para que la estación quede a 0).
+- **Fila de index de WL-598 verificada** (agregada por relevo 1 con ruta tramo-96 correcta).
+- **`indice-wl.md`**: bloque «Tramos 89-92 — CONSOLIDADOS» agregado (no existían entradas de ingesta para esos tramos).
+- **Verificación al cierre**: 0 raws y 0 resúmenes en `raw/wl/tramo-89..92/` y `wiki/wl/tramo-89..92/`; 0 referencias `wl/tramo-89..92` en index.md. `git status` limpio salvo preexistentes (.obsidian/workspace.json, pdt-llm-wiki.md). **0 dominios nuevos (S4)**. NO tocado: overview.md/sintesis.md, tramo 93-96 (relevo 3), push.
