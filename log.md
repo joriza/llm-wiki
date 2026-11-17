@@ -4320,3 +4320,16 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-624 — Openclaw vs Hermes (Pelado Nerd, 24:53, jmqq0ocRvNo)
 
 - Tramo 98 relevo 5 FINAL (índice 27/27 — ÚLTIMA entrada del cache, no era duplicado): comparativa de consumo con migración documentada. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL624-openclaw-vs-hermes-pelado-nerd.md`. CIERRE DE LISTA: 27/27 entradas del cache agotadas o saltadas. Consolidación aplazada.
+
+## [2026-11-17] consolidación | tramo 98 (T6 — pedido «Realiza consolidacion demorada.»)
+
+- **Alcance**: 24 fuentes (WL-601..624) committeadas en T1-T5. Sin dominios nuevos, sin bajas ejecutadas, resúmenes NO migrados de `wl/tramo-98/` (migración aplazada por orden del orquestador: T6 acotado a conceptos/entidades/cableado/overview).
+- **Concepto actualizado**: [[obsidian-memoria-agentes]] (+WL-611/614/620/624) — el patrón LLM Wiki ya existía como página; se cableó allí, NO se creó página nueva (decisión: la página existente es la sede canónica del patrón).
+- **Concepto nuevo**: [[paradoja-jevons-software]] (WL-552 + WL-602 — exactamente 2 fuentes, umbral cumplido) en `futuro-programacion/`. WL-615 (shock DRAM) anotado como cruce natural sin entrar a la página (1 sola fuente del mecanismo HBM).
+- **Entidades**: [[eric-risco]] +2 (total 4, con línea temporal de producto WL-78→611→620); [[articulator-es]] +2 (total 5); [[permacultura-holistica]] NUEVA (WL-496+621, en casa-calefaccion/); [[pelado-nerd]] NUEVA (4 fuentes: WL-278/343 + pi-hole + 624, en self-hosting/); [[marcos-di-cesare]] +1 (total 5). WL-602 cableó a [[yari-taft]] (entidad existente del tramo 46).
+- **Fusión**: WL-611 y WL-620 (mismo autor-producto RSC) cableadas entre sí vía la entidad [[eric-risco]] y [[obsidian-memoria-agentes]]; páginas de resumen separadas (sin fusión), como corresponde.
+- **Hilos transversales nuevos**: «el trinquete» (WL-600/611/614/620), «el camino más corto cambia de manos» (WL-603/605/618/619), «la eficiencia amplía el consumo» (WL-602/615).
+- **Cableado**: hubs agentes-de-codigo y self-hosting + [[el-nino]] (+WL-601: cifras 2026-27 en línea con la página, hipótesis 1877 reforzada) + [[marcos-di-cesare]] (+WL-613: serie «etiqueta miente» extiende café/pan→fiambres) + [[historia-software-corporativa]] (+WL-605/608 como par global-local recomendado).
+- **Contradicciones entre fuentes**: ninguna dura. Verificadas: WL-601 vs. página El Niño (cifras consistentes: ONI 2,5; 83 % NOAA); WL-615 vs. WL-594 (complementarias); WL-605/608 (mismo período, lógicas opuestas de mercado — la «contradicción» es geográfica, no factual). En WL-624: inconsistencia interna de WL-617 (273 d vs. 9 meses vs. 180 d) ya señalada en su resumen.
+- **Pendientes**: (1) baja de WL-622 (candidata clara) y evaluación de WL-623 — decisión del usuario; (2) migración de resúmenes/raws de `wl/tramo-98/` a dominios definitivos — aplazada por orden; (3) push — del orquestador; (4) verificación abierta de WL-624: «Noose Research» nombre ASR sin confirmar.
+- **Commits T6**: 07dfd6de (obsidian-memoria-agentes), 97c5f5f5 (jevons), d8cd219b (entidades), 46ca87f7 (cableado), + este bloque con overview/sintesis.
