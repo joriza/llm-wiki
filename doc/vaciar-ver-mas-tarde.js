@@ -93,14 +93,27 @@
       body: JSON.stringify({ context: ctx, playlistId: 'WL',
         actions: items.map(i => ({ action: 'ACTION_REMOVE_VIDEO', setVideoId: i.svid })) })
     });
-    if (!res.ok) { console.log('✋ HTTP', res.status); return false; }
+    if (!res.ok) return null; // el llamador decide (bisect)
     const j = await res.json();
     if (j.errors) console.log('ℹ errores API:', JSON.stringify(j.errors).slice(0,200));
     return true;
   }
 
+  // reintenta un lote partiendo en mitades hasta aislar los elementos malos
+  async function removeResilient(items) {
+    if (items.length === 1) {
+      console.log('ℹ entrada problematica salteada:', items[0].title || items[0].svid);
+      return false;
+    }
+    const mid = Math.ceil(items.length / 2);
+    const a = await removeResilient(items.slice(0, mid));
+    const b = await removeResilient(items.slice(mid));
+    await sleep(500);
+    return a || b;
+  }
+
   let removed = 0, noDom = 0;
-  console.log('▶ Vacíado WL v6.2 FINAL (setVideoId directo) — freno: __WL_STOP = true.');
+  console.log('▶ Vacíado WL v6.4 (bisect ante 400) — freno: __WL_STOP = true.');
   while (!window.__WL_STOP && removed < MAX_REMOVE) {
     let items = collect();
     if (!items.length) {
@@ -116,8 +129,10 @@
         break;
       }
     }
-    const batch = items.slice(0, BATCH);
-    if (!await removeBatch(batch)) break;
+    let batch = items.slice(0, BATCH);
+    let ok = await removeBatch(batch);
+    if (ok === null) ok = await removeResilient(batch); // 400 -> bisect
+    if (ok === null) { console.log('✋ HTTP persistente; F5 y repetir.'); break; }
     batch.forEach(i => { if (i.node && i.node.remove) i.node.remove(); else noDom++; });
     removed += batch.length;
     console.log(`✔ ${removed} removidos… (último: ${batch[batch.length-1].title || '(sin titulo)'})`);
