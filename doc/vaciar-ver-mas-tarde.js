@@ -6,8 +6,8 @@
   const sleep = (ms) => new Promise(r => setTimeout(r, ms));
   const rand = (a, b) => a + Math.floor(Math.random() * (b - a));
   let cancelled = false;
-  const cancel = () => { cancelled = true; };
-  document.addEventListener('click', cancel, { once: false, capture: false });
+  window.__WL_STOP = false; // escribí __WL_STOP = true en la consola para detener
+  document.addEventListener('keydown', (ev) => { if (ev.key === 'Escape') cancelled = true; });
 
   const visibleItems = () =>
     [...document.querySelectorAll('ytd-playlist-video-renderer, ytd-playlist-panel-video-renderer')]
@@ -24,14 +24,14 @@
       const label = (e.textContent || '').trim();
       if (PAT.test(label)) { e.click(); await sleep(400); return true; }
     }
-    document.body.click(); // cerrar menú sin encontrar la opción
+    document.dispatchEvent(new KeyboardEvent('keydown', { key: 'Escape' })); // cerrar menú
     await sleep(150);
     return false;
   }
 
   let removed = 0, failed = 0;
   console.log('▶ Vacíado WL iniciado — clic en la página para detener.');
-  while (removed < MAX_REMOVE && !cancelled) {
+  while (removed < MAX_REMOVE && !cancelled && !window.__WL_STOP) {
     const items = visibleItems();
     if (!items.length) { await sleep(1500); continue; }
     const item = items[0];
@@ -45,5 +45,5 @@
     }
     await sleep(rand(STEP_MS - 100, STEP_MS + 500));
   }
-  console.log(`■ Fin: ${removed} removidos, ${failed} fallos. ${cancelled ? '(detenido por clic)' : ''} Refrescá la página (F5) para ver el estado real.`);
+  console.log(`■ Fin: ${removed} removidos, ${failed} fallos. ${cancelled ? '(detenido por clic)' : ''} Refrescá la página (F5) para ver el estado real.`); window.__WL_STOP = false;
 })();
