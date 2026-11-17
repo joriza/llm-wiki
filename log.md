@@ -4284,3 +4284,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-615 — ¿Por Fin Es Barata La RAM? (Jorge Marfil, 31:20, QhWqDcA8fn8)
 
 - Tramo 98 relevo 3 (fuente 18/27, 5.ª útil — cierre de frontera): shock de precios DRAM 2025-26 con mecánica «bandeja de horno», datos fechados y chequeo de titulares. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL615-ram-barata-shock-dram-jorge-marfil.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-616 — Por Qué el Río Matanza-Riachuelo No Es Lo Que Crees (Aguas Con Esteban, 35:33, 6KYLmZmJ9QA)
+
+- Tramo 98 relevo 4 (cabeza del relevo, índice 19/27): 28 datos del Riachuelo con el giro informativo central (contaminación cloacal > industrial) y recuperación documentada. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL616-matanza-riachuelo-aguas-con-esteban.md`. Consolidación aplazada.
