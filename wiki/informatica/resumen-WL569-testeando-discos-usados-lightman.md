@@ -1,9 +1,9 @@
 # WL-569 — testeando discos usados
 
-- **Fuente original**: `raw/wl/tramo-91/2022-02-18-testeando-discos-usados.md` ([Vídeo](https://www.youtube.com/watch?v=RYWSJLjG3aA))
+- **Fuente original**: `raw/informatica/2022-02-18-testeando-discos-usados.md` ([Vídeo](https://www.youtube.com/watch?v=RYWSJLjG3aA))
 - **Canal**: David Lightman
 - **Publicado**: 2022-02-18 · **Duración**: 41:18
-- **Dominio provisional**: informatica / self-hosting (almacenamiento)
+- **Dominio definitivo**: informatica / self-hosting (consolidación T97 relevo 2, 2026-11-17) / self-hosting (almacenamiento)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

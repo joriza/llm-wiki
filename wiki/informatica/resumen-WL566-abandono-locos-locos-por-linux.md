@@ -1,9 +1,9 @@
 # WL-566 — Abandono a Loc-OS??
 
-- **Fuente original**: `raw/wl/tramo-90/2026-08-21-abandono-a-loc-os.md` ([Vídeo](https://www.youtube.com/watch?v=soZgHdTKAXI))
+- **Fuente original**: `raw/informatica/2026-08-21-abandono-a-loc-os.md` ([Vídeo](https://www.youtube.com/watch?v=soZgHdTKAXI))
 - **Canal**: Locos por Linux (Nico, mantenedor de LocOS y F Linux)
 - **Publicado**: 2026-08-21 · **Duración**: 13:00
-- **Dominio provisional**: informatica (Linux / mantenimiento de distros)
+- **Dominio definitivo**: informatica / self-hosting (consolidación T97 relevo 2, 2026-11-17) (Linux / mantenimiento de distros)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

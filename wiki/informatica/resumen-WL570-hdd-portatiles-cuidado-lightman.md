@@ -1,9 +1,9 @@
 # WL-570 — HDD portatiles, CUIDADO
 
-- **Fuente original**: `raw/wl/tramo-91/2023-10-10-hdd-portatiles-cuidado.md` ([Vídeo](https://www.youtube.com/watch?v=dCC48CH-iL0))
+- **Fuente original**: `raw/informatica/2023-10-10-hdd-portatiles-cuidado.md` ([Vídeo](https://www.youtube.com/watch?v=dCC48CH-iL0))
 - **Canal**: David Lightman
 - **Publicado**: 2023-10-10 · **Duración**: 22:23
-- **Dominio provisional**: informatica / self-hosting (almacenamiento)
+- **Dominio definitivo**: informatica / self-hosting (consolidación T97 relevo 2, 2026-11-17) / self-hosting (almacenamiento)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

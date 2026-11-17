@@ -1,9 +1,9 @@
 # WL-578 — Como Instalar Android JUNTO a Windows en tu PC SIN Emulador
 
-- **Fuente original**: `raw/wl/tramo-92/2026-08-07-como-instalar-android-junto-a-windows-en-tu-pc-sin-emulador-2-sistemas-en-la-mis.md` ([Vídeo](https://www.youtube.com/watch?v=MlHA4vkYR9I))
+- **Fuente original**: `raw/informatica/2026-08-07-como-instalar-android-junto-a-windows-en-tu-pc-sin-emulador-2-sistemas-en-la-mis.md` ([Vídeo](https://www.youtube.com/watch?v=MlHA4vkYR9I))
 - **Canal**: Abraham Francisco Baez
 - **Publicado**: 2026-08-07 · **Duración**: 25:26
-- **Dominio provisional**: informatica (dual boot Android x86)
+- **Dominio definitivo**: informatica / self-hosting (consolidación T97 relevo 2, 2026-11-17) (dual boot Android x86)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

@@ -1,9 +1,9 @@
 # WL-561 — Optimiza tu PC al máximo: 6 programas GRATIS que no conocías
 
-- **Fuente original**: `raw/wl/tramo-89/2026-08-23-optimiza-tu-pc-al-maximo-6-programas-gratis-que-no-conocias.md` ([Vídeo](https://www.youtube.com/watch?v=ukD3BzeLsAM))
+- **Fuente original**: `raw/informatica/2026-08-23-optimiza-tu-pc-al-maximo-6-programas-gratis-que-no-conocias.md` ([Vídeo](https://www.youtube.com/watch?v=ukD3BzeLsAM))
 - **Canal**: Bestlaan
 - **Publicado**: 2026-08-23 · **Duración**: 09:41
-- **Dominio provisional**: informatica / self-hosting-adyacente (utilidades Windows)
+- **Dominio definitivo**: informatica / self-hosting (consolidación T97 relevo 2, 2026-11-17) / self-hosting-adyacente (utilidades Windows)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
