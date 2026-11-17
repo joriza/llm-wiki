@@ -1,9 +1,9 @@
 # WL-576 — Exploto el mother!
 
-- **Fuente original**: `raw/wl/tramo-92/2026-08-06-exploto-el-mother.md` ([Vídeo](https://www.youtube.com/watch?v=O0KGMH28JF0))
+- **Fuente original**: `raw/electronica-practica/2026-08-06-exploto-el-mother.md` ([Vídeo](https://www.youtube.com/watch?v=O0KGMH28JF0))
 - **Canal**: David Lightman
 - **Publicado**: 2026-08-06 · **Duración**: 28:19
-- **Dominio provisional**: electronica-practica (diagnóstico de PC)
+- **Dominio definitivo**: electronica-practica (consolidación T97 relevo 2, 2026-11-17) (diagnóstico de PC)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

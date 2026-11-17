@@ -1,9 +1,9 @@
 # WL-577 — Diseña tu propio sistema de audio Portatil
 
-- **Fuente original**: `raw/wl/tramo-92/2026-04-14-disena-tu-propio-sistema-de-audio-portatil.md` ([Vídeo](https://www.youtube.com/watch?v=X6gGmzr4W3M))
+- **Fuente original**: `raw/electronica-practica/2026-04-14-disena-tu-propio-sistema-de-audio-portatil.md` ([Vídeo](https://www.youtube.com/watch?v=X6gGmzr4W3M))
 - **Canal**: MICROTECNICA
 - **Publicado**: 2026-04-14 · **Duración**: 27:36
-- **Dominio provisional**: electronica-practica (audio/amplificadores)
+- **Dominio definitivo**: electronica-practica (consolidación T97 relevo 2, 2026-11-17) (audio/amplificadores)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

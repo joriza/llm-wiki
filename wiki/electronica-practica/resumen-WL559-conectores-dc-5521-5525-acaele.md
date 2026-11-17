@@ -1,9 +1,9 @@
 # WL-559 — Conectores DC firmes o flojos (5525 en 5521)
 
-- **Fuente original**: `raw/wl/tramo-89/2026-08-21-conectores-dc-firmes-o-flojos-5525-en-5521.md` ([Vídeo](https://www.youtube.com/watch?v=x2RaF_BHb_o))
+- **Fuente original**: `raw/electronica-practica/2026-08-21-conectores-dc-firmes-o-flojos-5525-en-5521.md` ([Vídeo](https://www.youtube.com/watch?v=x2RaF_BHb_o))
 - **Canal**: acaele
 - **Publicado**: 2026-08-20 · **Duración**: 01:17 (Short técnico)
-- **Dominio provisional**: electronica-practica (conectores DC)
+- **Dominio definitivo**: electronica-practica (consolidación T97 relevo 2, 2026-11-17) (conectores DC)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
