@@ -4264,3 +4264,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-610 — Recursos humanos NO es tu amigo (Afor Digital, 14:47, ZqbnQzskYOI)
 
 - Tramo 98 relevo 2 (fuente 5/27, 5.ª útil — cierre de frontera): ensayo estructural sobre RR. HH. con giro antipopulista (incentivos > villanos). Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL610-recursos-humanos-no-es-tu-amigo-afor.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-611 — Cómo usar agentes de IA sin empezar de cero cada día (Eric Risco, 28:38, XCaI7do8Nkk)
+
+- Tramo 98 relevo 3 (cabeza del relevo, índice 11 del cache de 27): LLM Wiki de Karpathy vs. RAG + demo RSC Brain (MCP, permisos, aprobaciones, lint). Fuente central para la futura página del patrón LLM Wiki. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL611-rsc-brain-llm-wiki-vs-rag-eric-risco.md`. Consolidación aplazada.
