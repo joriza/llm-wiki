@@ -4232,3 +4232,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-602 — ¿Qué Está Pasando con el Mercado de Programación? (Yari Taft, 15:15, 9iZRgCVcA6Q)
 
 - Tramo 98 relevo 1 (fuente 2/22): análisis con datos (Challenger, PwC, Jevons) contra el catastrofismo «la IA mata la programación»; autopromoción (mentoría) excluida. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL602-mercado-programacion-yari-taft.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-603 — Así usa la IA una ingeniera de SpaceX (ConquerAI, 11:13, PXd2KzUhDUc)
+
+- Tramo 98 relevo 1 (fuente 4/22; FlBHb5wTtTU SKIP definitivo .no-subs en medio): 3 mecanismos de confianza en agentes (feedback loop, evals, guardrails) + arquitectura para agentes; fuente 2.ª mano sin enlace — señalado. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL603-ingeniera-spacex-50-agentes-conquerai.md`. Consolidación aplazada.
