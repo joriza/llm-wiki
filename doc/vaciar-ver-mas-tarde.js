@@ -1,7 +1,7 @@
 (async () => {
   // Vaciar "Ver mas tarde" via API interna de YouTube (sin menus DOM).
   // Freno unico: escribí __WL_STOP = true en la consola.
-  const MAX_REMOVE = 600;
+  const MAX_REMOVE = 2; // tandas de prueba: subir a 90 cuando confirme que aplica
   window.__WL_STOP = false;
   const sleep = (ms) => new Promise(r => setTimeout(r, ms));
   const rand = (a, b) => a + Math.floor(Math.random() * (b - a));
@@ -47,7 +47,11 @@
       body: JSON.stringify({ context: ctx, playlistId: 'WL', actions })
     });
     if (!res.ok) { console.log('✋ HTTP', res.status, await res.text().then(t=>t.slice(0,200))); return null; }
-    return res.json();
+    const j = await res.json();
+    if (removed === 0 && rounds === 0) {
+      console.log('ℹ respuesta de la primera tanda:', JSON.stringify(j).slice(0, 600));
+    }
+    return j;
   }
 
   let removed = 0, rounds = 0;
@@ -68,7 +72,8 @@
     }
     const res = await removeBatch(batch);
     if (!res) { console.log('✋ sin respuesta OK; deteniendo.'); break; }
-    removed += batch.filter(b => b.svid).length;
+    const applied = (res && res.playlistEditResults ? res.playlistEditResults.length : null);
+    removed += (applied !== null ? applied : batch.filter(b => b.svid).length);
     rounds++;
     console.log(`✔ tanda ${rounds}: ${batch.length} removidos (total ${removed}). Último: ${batch[batch.length-1].title}`);
     await sleep(rand(800, 1500));
