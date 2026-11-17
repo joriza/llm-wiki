@@ -1,6 +1,6 @@
 # WL-278 — «VIBECODING con Kimchi - Usando Kimi, GLM, Minimax» (Pelado Nerd)
 
-- **Fuente original**: `raw/ia-uso-practico/2026-09-29-vibecoding-con-kimchi-usando-kimi-glm-minimax.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
+- **Fuente original**: `raw/agentes-de-codigo/2026-09-29-vibecoding-con-kimchi-usando-kimi-glm-minimax.md` (espejo de `.atl/scratch/ver-mas-tarde/`)
 - **Video**: https://www.youtube.com/watch?v=f2laroE5zgE · Canal Pelado Nerd · Publicado 2026-09-29 · 21:09 · Subtítulos automáticos es
 - **Tramo**: 40, fuente útil 5/5 (posición 90 de 4686) — **CIERRE DEL TRAMO Y DEL PEDIDO L25, contador explícito: sin sexto ciclo útil**
 - **Dominio destino sugerido** (S4, sin dominios nuevos): ia-uso-practico/agentes-de-codigo (vibecoding con harness y modelos open source; cruces WL-271/272, [[agentes-de-codigo]])

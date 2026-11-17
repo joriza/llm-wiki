@@ -1,6 +1,6 @@
 # FAV-342 — 5 servidores MCP para vibe coding estructurado
 
-- **Origen**: «5 Servidores MCP para Vibe Coding Estructurado» — Adriá Estévez (Arquitectos IA) — `https://www.youtube.com/watch?v=I9lF7bjxLlQ` (26:08, español, subtítulos automáticos; transcripción en `raw/ia-uso-practico/raw-I9lF7bjxLlQ.md`)
+- **Origen**: «5 Servidores MCP para Vibe Coding Estructurado» — Adriá Estévez (Arquitectos IA) — `https://www.youtube.com/watch?v=I9lF7bjxLlQ` (26:08, español, subtítulos automáticos; transcripción en `raw/agentes-de-codigo/raw-I9lF7bjxLlQ.md`)
 - **Fecha de ingesta**: 2026-11-15
 - **Dominio**: `ia-uso-practico/` (clúster MCP)
 

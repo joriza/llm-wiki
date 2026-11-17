@@ -1,6 +1,6 @@
 # WL-331 — OpenClaw 2.0: la actualización que puede cambiarlo todo en la IA
 
-- **Fuente original**: `raw/ia-uso-practico/2026-09-21-openclaw-2-0-la-actualizacion-que-puede-cambiarlo-todo-en-la-ia.md` ([vídeo](https://www.youtube.com/watch?v=mZAwl0XqlaY))
+- **Fuente original**: `raw/agentes-de-codigo/2026-09-21-openclaw-2-0-la-actualizacion-que-puede-cambiarlo-todo-en-la-ia.md` ([vídeo](https://www.youtube.com/watch?v=mZAwl0XqlaY))
 - **Canal**: CodeSimple
 - **Publicado**: 2026-09-21 · **Duración**: 31:14 · **Ingesta**: 2026-11-16 (tramo 51)
 - **Tipo**: demo/tutorial de producto (1.ª mano, en pantalla)

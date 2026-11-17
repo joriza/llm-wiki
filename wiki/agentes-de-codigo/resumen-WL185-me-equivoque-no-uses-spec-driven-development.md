@@ -1,6 +1,6 @@
 # WL-185 · Me equivoqué, NO uses Spec Driven Development
 
-- **Fuente original**: `raw/ia-uso-practico/2026-10-23-me-equivoque-no-uses-spec-driven-development.md`
+- **Fuente original**: `raw/agentes-de-codigo/2026-10-23-me-equivoque-no-uses-spec-driven-development.md`
 - **Video**: [Me equivoqué, NO uses Spec Driven Development](https://www.youtube.com/watch?v=5JjuF1zpNbI) · Canal: HolaMundo · Publicado: 2026-10-23 · Duración: 37:38
 - **Dominio previsto** (consolidación diferida, L12): `ia-uso-practico/agentes-de-codigo` (metodología de desarrollo con IA; primera mano con skills propias publicadas; cruces candidatos con [[agentes-de-codigo]], [[odd-metodologia]], WL-178/WL-180 Eric Risco — Software Factory, WL-165 Harness²)
 

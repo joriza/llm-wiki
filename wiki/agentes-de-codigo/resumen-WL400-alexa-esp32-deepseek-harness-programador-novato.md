@@ -1,6 +1,6 @@
 # WL-400 — CREA TU ALEXA POR $10 USD CON ESP32 Y DEEPSEEK HARNESS
 
-- **Fuente**: `raw/ia-uso-practico/2026-09-04-crea-tu-alexa-por-10-usd-con-esp32-y-deepseek-harness.md` (`r6S6w5H6FSE`, https://www.youtube.com/watch?v=r6S6w5H6FSE)
+- **Fuente**: `raw/agentes-de-codigo/2026-09-04-crea-tu-alexa-por-10-usd-con-esp32-y-deepseek-harness.md` (`r6S6w5H6FSE`, https://www.youtube.com/watch?v=r6S6w5H6FSE)
 - **Canal**: Programador Novato (1.ª fuente WL)
 - **Publicado**: 2026-09-03 · **Duración**: 23:19 · **Idioma**: es (subtítulos automáticos; ASR «Deep Sleep/Deep Speech Harness/Tipsy Hermes/DHS/DSH» = DeepSeek Harness — normalizado solo aquí)
 - **Dominio previsto**: ia-uso-practico (proyecto hardware+IA; tangencia electronica-practica)

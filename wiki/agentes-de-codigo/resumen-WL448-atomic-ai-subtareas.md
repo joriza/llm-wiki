@@ -1,6 +1,6 @@
 # WL-448 — Atomic AI Tutorial Completo 🚀 Potencia tus Modelos de IA con Subtareas
 
-- **Fuente original**: `raw/wl/tramo-74/2026-08-30-atomic-ai-tutorial-completo-potencia-tus-modelos-de-ia-con-subtareas.md` ([Vídeo](https://www.youtube.com/watch?v=iCokaxKK8_I))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-30-atomic-ai-tutorial-completo-potencia-tus-modelos-de-ia-con-subtareas.md` ([Vídeo](https://www.youtube.com/watch?v=iCokaxKK8_I))
 - **Canal**: Nichonauta
 - **Publicado**: 2026-08-30 · **Duración**: 12:03
 - **Dominio provisional**: ia-uso-practico/ia-local (inferencia local, herramientas — clúster Nichonauta/llama.cpp)

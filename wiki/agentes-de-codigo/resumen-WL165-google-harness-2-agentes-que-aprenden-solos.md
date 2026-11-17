@@ -1,6 +1,6 @@
 # WL-165 · Google Harness 2: Cómo Crear Agentes de IA que Aprenden Solos (Sin Reentrenar el Modelo)
 
-- **Fuente original**: `raw/ia-uso-practico/2026-10-21-google-harness-2-como-crear-agentes-de-ia-que-aprenden-solos-sin-reentrenar-el-m.md`
+- **Fuente original**: `raw/agentes-de-codigo/2026-10-21-google-harness-2-como-crear-agentes-de-ia-que-aprenden-solos-sin-reentrenar-el-m.md`
 - **Video**: [Rrwnak3RRIw](https://www.youtube.com/watch?v=Rrwnak3RRIw) · Canal: InzideTech · Publicado: 2026-10-21 · Duración: 14:49
 - **Tipo**: divulgación técnica sobre el proyecto open source «Harness²» (Google Cloud AI Research + Northwestern), con metáforas visuales.
 

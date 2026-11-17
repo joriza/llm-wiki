@@ -1,6 +1,6 @@
 # WL-391 — La IA que sustituye a tu jefe, no a ti ¿funciona?
 
-- **Fuente original**: `raw/ia-uso-practico/2026-09-12-la-ia-que-sustituye-a-tu-jefe-no-a-ti-funciona.md`
+- **Fuente original**: `raw/agentes-de-codigo/2026-09-12-la-ia-que-sustituye-a-tu-jefe-no-a-ti-funciona.md`
 - **Canal**: Joaquín Ruiz — IA para Desarrolladores
 - **Publicado**: 2026-09-12 · **Duración**: 18:14
 - **Video**: [`fSmJYsyz6kU`](https://www.youtube.com/watch?v=fSmJYsyz6kU) · WL-391 (índice 79 del cache, 4.584 entradas)

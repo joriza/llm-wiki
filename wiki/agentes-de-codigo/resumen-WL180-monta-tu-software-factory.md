@@ -1,6 +1,6 @@
 # Programar con agentes ya no basta: monta tu Software Factory
 
-- **Fuente original**: `raw/ia-uso-practico/2026-10-23-programar-con-agentes-ya-no-basta-monta-tu-software-factory.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=p6nnqerea7w))
+- **Fuente original**: `raw/agentes-de-codigo/2026-10-23-programar-con-agentes-ya-no-basta-monta-tu-software-factory.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=p6nnqerea7w))
 - **Canal**: Eric Risco | Inteligencia Artificial
 - **Publicado**: 2026-10-23 · **Duración**: 17:21 · **Idioma**: es (subtítulos automáticos, normalizados en este resumen)
 - **Recopilado**: 2026-11-15 (tramo 22, WL-180)

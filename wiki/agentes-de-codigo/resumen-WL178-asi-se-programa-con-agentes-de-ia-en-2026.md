@@ -1,6 +1,6 @@
 # Así se programa con agentes de IA en 2026
 
-- **Fuente original**: `raw/ia-uso-practico/2026-10-06-asi-se-programa-con-agentes-de-ia-en-2026.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=wrhTDWv66kQ))
+- **Fuente original**: `raw/agentes-de-codigo/2026-10-06-asi-se-programa-con-agentes-de-ia-en-2026.md` ([Vídeo en YouTube](https://www.youtube.com/watch?v=wrhTDWv66kQ))
 - **Canal**: Eric Risco | Inteligencia Artificial
 - **Publicado**: 2026-10-06 · **Duración**: 15:46 · **Idioma**: es (subtítulos automáticos, normalizados en este resumen)
 - **Recopilado**: 2026-11-15 (tramo 22, WL-178)
