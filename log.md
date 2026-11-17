@@ -4228,3 +4228,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-601 — ⛈️ URGENTE! | EL NIÑO HISTÓRICO | ALERTA EN ARGENTINA ⛈️ (La 100, 09:55, scuLj28t83k)
 
 - Tramo 98 relevo 1 (cache fresco post-vaciado, fuente 1/22): divulgación climática seria bajo título clickbait — ONI vs. índice relativo, pronóstico probabilístico SMN, memoria 1983/1998/2015. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL601-el-nino-historico-alerta-argentina-la100.md`. Sin patrocinios. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-602 — ¿Qué Está Pasando con el Mercado de Programación? (Yari Taft, 15:15, 9iZRgCVcA6Q)
+
+- Tramo 98 relevo 1 (fuente 2/22): análisis con datos (Challenger, PwC, Jevons) contra el catastrofismo «la IA mata la programación»; autopromoción (mentoría) excluida. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL602-mercado-programacion-yari-taft.md`. Consolidación aplazada.
