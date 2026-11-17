@@ -1,9 +1,9 @@
 # WL-599 — Marcas de agua en la IA?
 
-- **Fuente original**: `raw/wl/tramo-96/2026-08-11-marcas-de-agua-en-la-ia.md` ([Vídeo](https://www.youtube.com/watch?v=wCn6Y1OVzkc))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-11-marcas-de-agua-en-la-ia.md` ([Vídeo](https://www.youtube.com/watch?v=wCn6Y1OVzkc))
 - **Canal**: Gentleman Programming
 - **Publicado**: 2026-08-11 · **Duración**: 01:26 (Short)
-- **Dominio provisional**: agentes-de-codigo / ia-critica-y-fronteras (watermarking)
+- **Dominio definitivo**: agentes-de-codigo (consolidación T97 relevo 3, 2026-11-17) / ia-critica-y-fronteras (watermarking)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

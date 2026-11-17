@@ -1,9 +1,9 @@
 # WL-591 — Millones de dolares a la basura... ya no más.
 
-- **Fuente original**: `raw/wl/tramo-94/2026-08-14-millones-de-dolares-a-la-basura-ya-no-mas.md` ([Vídeo](https://www.youtube.com/watch?v=w5t3nWe_mIw))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-14-millones-de-dolares-a-la-basura-ya-no-mas.md` ([Vídeo](https://www.youtube.com/watch?v=w5t3nWe_mIw))
 - **Canal**: HolaMundo
 - **Publicado**: 2026-08-14 · **Duración**: 16:12
-- **Dominio provisional**: agentes-de-codigo (SDD / especificaciones)
+- **Dominio definitivo**: agentes-de-codigo (consolidación T97 relevo 3, 2026-11-17) (SDD / especificaciones)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

@@ -1,9 +1,9 @@
 # WL-600 — Usas la IA como tu Abuela: 5 Cosas que lo Cambian Todo
 
-- **Fuente original**: `raw/wl/tramo-96/2026-08-11-usas-la-ia-como-tu-abuela-5-cosas-que-lo-cambian-todo.md` ([Vídeo](https://www.youtube.com/watch?v=yP_bunmMrsw))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-11-usas-la-ia-como-tu-abuela-5-cosas-que-lo-cambian-todo.md` ([Vídeo](https://www.youtube.com/watch?v=yP_bunmMrsw))
 - **Canal**: Alpaca Tech (desarrollador en empresa, equipo de 6)
 - **Publicado**: 2026-08-11 · **Duración**: 16:06
-- **Dominio provisional**: agentes-de-codigo (orquestación programática de agentes)
+- **Dominio definitivo**: agentes-de-codigo (consolidación T97 relevo 3, 2026-11-17) (orquestación programática de agentes)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

@@ -1,9 +1,9 @@
 # WL-581 — 🔥 NO PAGUES TRADINGVIEW: Cómo UNIFICAR INDICADORES GRATIS usando CHATGPT
 
-- **Fuente original**: `raw/wl/tramo-93/2026-08-12-no-pagues-tradingview-como-unificar-indicadores-gratis-usando-chatgpt-bullmornin.md` ([Vídeo](https://www.youtube.com/watch?v=KiRsSLllBCE))
+- **Fuente original**: `raw/agentes-de-codigo/2026-08-12-no-pagues-tradingview-como-unificar-indicadores-gratis-usando-chatgpt-bullmornin.md` ([Vídeo](https://www.youtube.com/watch?v=KiRsSLllBCE))
 - **Canal**: Bull Market (directo «BullMorning» con dos conductores)
 - **Publicado**: 2026-08-12 · **Duración**: 09:54
-- **Dominio provisional**: economia-argentina-adyacente / general (trading, IA aplicada)
+- **Dominio definitivo**: general / economia-argentina-adyacente (consolidación T97 relevo 3, 2026-11-17) (trading, IA aplicada)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
