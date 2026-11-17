@@ -4248,3 +4248,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-606 — Cuando todo colapse, vas a necesitar estos libros (Estamos Tacticos, 34:14, 7QshmaX1-5U)
 
 - Tramo 98 relevo 2 (cache fresco de 27 con 5 agregados del usuario; fuente 1/27): biblioteca offline de emergencia en 3 horizontes con demo en vivo y fallos documentados. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL606-biblioteca-offline-colapso-estamos-tacticos.md`. Sin patrocinios. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-607 — ¿Por qué la MÚSICA de LOS 80s SUENA ASÍ? (Marcelo Fernández, 09:17, vJvKExiPllw)
+
+- Tramo 98 relevo 2 (fuente 2/27): 5 hitos de hardware musical (reverb digital, gated reverb, drum machines, DX7/FM, sintes accesibles). Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL607-musica-80s-marcelo-fernandez.md`. Consolidación aplazada.
