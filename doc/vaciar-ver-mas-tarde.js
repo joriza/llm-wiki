@@ -32,7 +32,7 @@
 
   async function removeBatch(batch) {
     const actions = batch.filter(b => b.svid).map(b => ({
-      action: 'ACTION_REMOVE_PLAYLIST_ITEM', setVideoId: b.svid
+      action: 'ACTION_REMOVE_VIDEO', setVideoId: b.svid
     }));
     if (!actions.length) return null;
     const res = await fetch('/youtubei/v1/browse/edit_playlist?key=' + ytcfg.get('INNERTUBE_API_KEY'), {
