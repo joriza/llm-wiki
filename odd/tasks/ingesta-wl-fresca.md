@@ -26,6 +26,7 @@ Ingesta de la lista WL de YouTube tras el vaciado total de 2026-11-17: 22 entrad
 - T2 (S1-S5, worker, commit): Relevo 2 — 5 útiles siguientes (tras verificación de cabeza del orquestador).
   - **COMPLETADO 2026-11-17** (worker relevo 2, cache de 27 con 5 agregados del usuario, cabeza 7QshmaX1-5U): 5/5 útiles, 0 skips — WL-606 7QshmaX1-5U `8fb20e0a`, WL-607 vJvKExiPllw `89dcf236`, WL-608 XuB48p00Zrs `d32b7ca0`, WL-609 f34u4ivZK8k `b5b84158`, WL-610 ZqbnQzskYOI `b6db4a0e`. Último ID procesado: `ZqbnQzskYOI` (índice 10); cabeza futura: `XCaI7do8Nkk` (índice 11 del cache de 27). Egress WARP 104.28.199.112 sin 429; BUDGET-REACHED inicial por contador acumulado (6) resuelto por L13 (5→11, sin rotar). lectura-tramo98.md appendeada (relevo 2).
 - T3 (S1-S5, worker, commit): Relevo 3 — 5 útiles siguientes.
+  - **COMPLETADO 2026-11-17** (worker relevo 3, cache 27 sin cambios, desde índice 11): 5/5 útiles + 2 SKIP-DUPLICATE pre-flight (RsQv7VecLoI, dxTdFiE-dQI) — WL-611 XCaI7do8Nkk `795c38d0`, WL-612 5fjFsf3ZS2U `4206e19e`, WL-613 vTs_x07Zhe0 `0fbd8f0e`, WL-614 1teeq-GaiZE `0d380eb5`, WL-615 QhWqDcA8fn8 `89ab0f28`. Último ID procesado: `QhWqDcA8fn8` (índice 18); cabeza futura: `6KYLmZmJ9QA` (índice 19 del cache de 27). Egress WARP 104.28.199.112 sin 429; BUDGET-REACHED (12) resuelto por L13 (12→17, sin rotar). lectura-tramo98.md appendeada (relevo 3).
 - T4 (S1-S5, worker, commit): Relevo 4 — 5 útiles siguientes.
 - T5 (S1-S5, worker, commit): Relevo final — útiles restantes (hasta agotar las 22 del cache, contando skips/dupes sin valor útil).
 
