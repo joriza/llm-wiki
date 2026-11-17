@@ -4084,3 +4084,11 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - **Migraciones**: 92 archivos con espejo raw, cita «Fuente original» y fila `index.md` actualizados; commits atómicos por destino. `electronica-practica/` 126→64 (fundamentos, componentes, fuentes, audio, PCB, deauther); `agentes-de-codigo/` 113→83 (harnesses, Pi/Gentle, MCP, skills, guías IA local).
 - **Correcciones en el camino**: duplicado FAV-348 eliminado del origen; `raw/futuro-programacion/` faltó en el mkdir inicial y frenó los primeros espejos (resuelto).
 - **Registro en `dominios.md`**: tres filas nuevas + nota de división en las filas de los dominios originales. Páginas de concepto/entidad de canales (fazt, hdeleon-net, gentleman-programming, etc.) quedan en agentes-de-codigo con cruces hacia futuro-programacion.
+
+## [2026-11-16] lint | redistribución de los dominios ia-* (aprobada)
+
+- **42 migraciones desde `ia-uso-practico/` e `ia-critica-y-fronteras/`** hacia dominios existentes, con espejo raw, cita «Fuente original» y fila `index.md` actualizadas; commits atómicos por destino (las bajas de origen quedan como renombres en los mismos commits):
+  - `ia-uso-practico/` → `ia-local/` 12 (cuantización, modelos, privacidad local: WL-102/147/154/288/333/342/363/440/455/459/468/472); → `ia-media-generativa/` 4 (WL-090 slop, WL-282/284 Fish Audio, WL-447 DomoAI); → `agentes-de-codigo/` 18 (5 servidores MCP FAV-340..345 + 13 de programación con agentes WL-165/178/180/185/278/293/331/388/391/395/400/418/448).
+  - `ia-critica-y-fronteras/` → `futuro-programacion/` 6 (WL-181/221/241/250/345/393, «software ha muerto» y oficio); → `ia-local/` 2 (abliteration WL-093/355).
+- **Resultante**: ia-uso-practico 100→66, ia-critica-y-fronteras 80→72, ia-local 83→97, agentes-de-codigo 83→101, ia-media-generativa 19→23, futuro-programacion 30→36. Sin dominios nuevos (el caso JEV WL-346/350/353 queda cruzado entre dominios, a consolidar en próxima ingesta).
+- **Criterio** (principio 5 de dominios.md): migración por dolor — ia-uso-practico dejaba de ser buscable como cajón genérico; precedente modelos-llm-locales→ia-local (2025-11-15).
