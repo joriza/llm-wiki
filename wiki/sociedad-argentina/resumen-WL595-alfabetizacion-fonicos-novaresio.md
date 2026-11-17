@@ -1,9 +1,9 @@
 # WL-595 — Esto es una tragedia porque sabemos cómo evitarlo y no lo estamos haciendo | Novaresio en A24
 
-- **Fuente original**: `raw/wl/tramo-95/2026-08-14-esto-es-una-tragedia-porque-sabemos-como-evitarlo-y-no-lo-estamos-haciendo-novar.md` ([Vídeo](https://www.youtube.com/watch?v=YIc5MWMdzBo))
+- **Fuente original**: `raw/sociedad-argentina/2026-08-14-esto-es-una-tragedia-porque-sabemos-como-evitarlo-y-no-lo-estamos-haciendo-novar.md` ([Vídeo](https://www.youtube.com/watch?v=YIc5MWMdzBo))
 - **Canal**: Andrés Rieznik (entrevista a Diego Novaresio, A24)
 - **Publicado**: 2026-08-14 · **Duración**: 14:40
-- **Dominio provisional**: sociedad-argentina / general (educación y alfabetización)
+- **Dominio definitivo**: sociedad-argentina / general (educación) (consolidación T97 relevo 3, 2026-11-17) / general (educación y alfabetización)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
