@@ -1,9 +1,9 @@
 # WL-545 — Hice mi MoE 🚀 Cómo Crear un Mezcla de Expertos LLM
 
-- **Fuente original**: `raw/wl/tramo-86/2026-08-25-hice-mi-moe-como-crear-un-mezcla-de-expertos-llm.md` ([Vídeo](https://www.youtube.com/watch?v=aS8eLlm-vTM))
+- **Fuente original**: `raw/ia-local/2026-08-25-hice-mi-moe-como-crear-un-mezcla-de-expertos-llm.md` ([Vídeo](https://www.youtube.com/watch?v=aS8eLlm-vTM))
 - **Canal**: Nichonauta
 - **Publicado**: 2026-08-25 · **Duración**: 07:58
-- **Dominio provisional**: ia-local (conversión de modelos)
+- **Dominio definitivo**: ia-local (consolidación T97, 2026-11-17) (conversión de modelos)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

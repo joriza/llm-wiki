@@ -1,9 +1,9 @@
 # WL-551 — Descargar Qwen 4 MoE 🚀 Todo sobre la NUEVA Arquitectura y su Lanzamiento
 
-- **Fuente original**: `raw/wl/tramo-87/2026-08-25-descargar-qwen-4-moe-todo-sobre-la-nueva-arquitectura-y-su-lanzamiento.md` ([Vídeo](https://www.youtube.com/watch?v=Fuy_URUQErs))
+- **Fuente original**: `raw/ia-local/2026-08-25-descargar-qwen-4-moe-todo-sobre-la-nueva-arquitectura-y-su-lanzamiento.md` ([Vídeo](https://www.youtube.com/watch?v=Fuy_URUQErs))
 - **Canal**: Nichonauta
 - **Publicado**: 2026-08-25 · **Duración**: 02:57
-- **Dominio provisional**: ia-local (lanzamiento de modelos)
+- **Dominio definitivo**: ia-local (consolidación T97, 2026-11-17) (lanzamiento de modelos)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

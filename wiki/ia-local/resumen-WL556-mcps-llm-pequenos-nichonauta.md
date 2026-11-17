@@ -1,9 +1,9 @@
 # WL-556 — MCPs para LLM muy pequeños 🚀 Potencia tus Modelos Locales con Context 7 y Playwright
 
-- **Fuente original**: `raw/wl/tramo-88/2026-08-24-mcps-para-llm-muy-pequenos-potencia-tus-modelos-locales-con-context-7-y-playwrig.md` ([Vídeo](https://www.youtube.com/watch?v=MeipNmJyWg0))
+- **Fuente original**: `raw/ia-local/2026-08-24-mcps-para-llm-muy-pequenos-potencia-tus-modelos-locales-con-context-7-y-playwrig.md` ([Vídeo](https://www.youtube.com/watch?v=MeipNmJyWg0))
 - **Canal**: Nichonauta
 - **Publicado**: 2026-08-24 · **Duración**: 16:37
-- **Dominio provisional**: ia-local / agentes-de-codigo (MCP sobre modelos chicos)
+- **Dominio definitivo**: ia-local (consolidación T97, 2026-11-17) / agentes-de-codigo (MCP sobre modelos chicos)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
