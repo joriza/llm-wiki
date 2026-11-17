@@ -1,9 +1,9 @@
 # WL-598 — Windows por fin nos liberó a todos: Optimización de RAM y CPUs
 
-- **Fuente original**: `raw/wl/tramo-96/2026-08-16-windows-por-fin-nos-libero-a-todos-optimizacion-de-ram-y-cpus-instalala-ahora.md` ([Vídeo](https://www.youtube.com/watch?v=_ZP9q5ncH5Y))
+- **Fuente original**: `raw/informatica/2026-08-16-windows-por-fin-nos-libero-a-todos-optimizacion-de-ram-y-cpus-instalala-ahora.md` ([Vídeo](https://www.youtube.com/watch?v=_ZP9q5ncH5Y))
 - **Canal**: Proto
 - **Publicado**: 2026-08-16 · **Duración**: 13:53
-- **Dominio provisional**: informatica (Windows/optimización)
+- **Dominio definitivo**: informatica (consolidación T97 relevo 3, 2026-11-17) (Windows/optimización)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
