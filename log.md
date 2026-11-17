@@ -4312,3 +4312,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-622 — EL TRAGICO RELATO DE LOS 4 SOLDADOS DE BUKELE (Altanto TV, 43:40, XO9LwslaMGM)
 
 - Tramo 98 relevo 5 FINAL (índice 25/27): entrevista sensacionalista sin verificación — registrada como candidata a baja (raw conservado; baja = decisión del usuario). Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL622-soldados-bukele-haiti-altanto-tv.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-623 — Luis LABRAÑA contra 10 por los 30.000 DESAPARECIDOS (BorderPeriodismo, 51:18, 4_OuLPIvkTk)
+
+- Tramo 98 relevo 5 FINAL (índice 26/27): registro neutral del debate sobre la cifra de 30.000 (autoatribución de Labraña vs. réplicas de los organismos). Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL623-labrana-30000-borderperiodismo.md`. Consolidación aplazada.
