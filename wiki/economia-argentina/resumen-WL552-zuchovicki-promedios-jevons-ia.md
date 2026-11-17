@@ -1,9 +1,9 @@
 # WL-552 — Claudio Zuchovicki: «nunca se guíen por los promedios»
 
-- **Fuente original**: `raw/wl/tramo-87/2026-08-25-claudio-zuchovicki-nunca-se-guien-por-los-promedios.md` ([Vídeo](https://www.youtube.com/watch?v=rYB6fEV6wsY))
+- **Fuente original**: `raw/economia-argentina/2026-08-25-claudio-zuchovicki-nunca-se-guien-por-los-promedios.md` ([Vídeo](https://www.youtube.com/watch?v=rYB6fEV6wsY))
 - **Canal**: Cuando mis hijos tengan mi edad (Ariel Tarico) — episodio completo (~53 min), invitados Claudio Zuchovicki (columna de IA y economía) y Pablo (fintech/real estate) + Nicolás; homenaje a Juan Carlos De Pablo
 - **Publicado**: 2026-08-25 · **Duración**: ~53 min
-- **Dominio provisional**: economia-argentina (con segmento IA de mercado global)
+- **Dominio definitivo**: economia-argentina (consolidación T97, 2026-11-17) (con segmento IA de mercado global)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

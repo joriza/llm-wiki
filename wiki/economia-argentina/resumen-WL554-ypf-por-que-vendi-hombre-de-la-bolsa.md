@@ -1,9 +1,9 @@
 # WL-554 — YPF ¿Por qué vendí? Análisis detallado de su balance record 🚀
 
-- **Fuente original**: `raw/wl/tramo-88/2026-08-25-ypf-por-que-vendi-analisis-detallado-de-su-balance-record.md` ([Vídeo](https://www.youtube.com/watch?v=kHTjXyPv-Uk))
+- **Fuente original**: `raw/economia-argentina/2026-08-25-ypf-por-que-vendi-analisis-detallado-de-su-balance-record.md` ([Vídeo](https://www.youtube.com/watch?v=kHTjXyPv-Uk))
 - **Canal**: El Hombre de la Bolsa
 - **Publicado**: 2026-08-25 · **Duración**: 36:27
-- **Dominio provisional**: economia-argentina / inversiones
+- **Dominio definitivo**: economia-argentina (consolidación T97, 2026-11-17) / inversiones
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
