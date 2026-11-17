@@ -4240,3 +4240,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-604 — Cómo crear software que de verdad aporte valor (Factoría de Agentes, 10:44, WIriMsfscYw)
 
 - Tramo 98 relevo 1 (fuente 5/22): checklist completo de desarrollo asistido por IA (dolor→diseño→iteración→evidencias→CI/CD→fábrica); nombra «ODD desarrollo guiado por resultados». Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL604-software-que-aporte-valor-factoria-agentes.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-605 — Microsoft Perdió Contra Lotus y Volvió con Excel por la Puerta de Apple (Un Junior Más, 41:14, poUx6yhbcfg)
+
+- Tramo 98 relevo 1 (fuente 6/22, 5.ª útil): crónica 1979-2014 de la guerra de hojas de cálculo con documentación fechada; cierre de frontera de 5 útiles. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL605-microsoft-lotus-excel-mac-un-junior-mas.md`. Consolidación aplazada.
