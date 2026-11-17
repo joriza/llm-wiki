@@ -1,9 +1,9 @@
 # WL-560 — Funciona sobre VIDRIO transparente | PAW3950
 
-- **Fuente original**: `raw/wl/tramo-89/2026-08-18-funciona-sobre-vidrio-transparente-o-en-practicamente-cualquier-superficie-paw39.md` ([Vídeo](https://www.youtube.com/watch?v=wlTHJeXv38g))
+- **Fuente original**: `raw/general/2026-08-18-funciona-sobre-vidrio-transparente-o-en-practicamente-cualquier-superficie-paw39.md` ([Vídeo](https://www.youtube.com/watch?v=wlTHJeXv38g))
 - **Canal**: acaele
 - **Publicado**: 2026-08-17 · **Duración**: 01:28 (Short)
-- **Dominio provisional**: general / tecnología-consumo (periféricos)
+- **Dominio definitivo**: general (consolidación T97 relevo 2, 2026-11-17) / tecnología-consumo (periféricos)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

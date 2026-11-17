@@ -1,9 +1,9 @@
 # WL-568 — El día que entendí que el TRADING no era suficiente
 
-- **Fuente original**: `raw/wl/tramo-90/2026-06-10-el-dia-que-entendi-que-el-trading-no-era-suficiente.md` ([Vídeo](https://www.youtube.com/watch?v=eRz8cF7e-FQ))
+- **Fuente original**: `raw/general/2026-06-10-el-dia-que-entendi-que-el-trading-no-era-suficiente.md` ([Vídeo](https://www.youtube.com/watch?v=eRz8cF7e-FQ))
 - **Canal**: Soy Mary Inversionista
 - **Publicado**: 2026-06-10 · **Duración**: 27:56
-- **Dominio provisional**: general / finanzas personales
+- **Dominio definitivo**: general (consolidación T97 relevo 2, 2026-11-17) / finanzas personales
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

@@ -1,6 +1,6 @@
 # WL-567 — 🔥 ¿Qué pasa si ganas DEMASIADO dinero en trading?
 
-- **Fuente original**: `raw/wl/tramo-90/2026-07-23-que-pasa-si-ganas-demasiado-dinero-en-trading-nadie-te-lo-dice.md` ([Vídeo](https://www.youtube.com/watch?v=4ufl6Azk8XM))
+- **Fuente original**: `raw/general/2026-07-23-que-pasa-si-ganas-demasiado-dinero-en-trading-nadie-te-lo-dice.md` ([Vídeo](https://www.youtube.com/watch?v=4ufl6Azk8XM))
 - **Canal**: Gabriel Parra
 - **Publicado**: 2026-07-23 · **Duración**: 11:14
 - **Dominio provisional**: economia-argentina-adyacente / general (finanzas/trading)

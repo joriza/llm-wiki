@@ -1,6 +1,6 @@
 # WL-571 — COMO LOS ARGENTINOS EVITAN DECIR "NO"
 
-- **Fuente original**: `raw/wl/tramo-91/2026-08-19-como-los-argentinos-evitan-decir-no.md` ([Vídeo](https://www.youtube.com/watch?v=KRElAmuRTUE))
+- **Fuente original**: `raw/general/2026-08-19-como-los-argentinos-evitan-decir-no.md` ([Vídeo](https://www.youtube.com/watch?v=KRElAmuRTUE))
 - **Canal**: Maxi Fontán
 - **Publicado**: 2026-08-18 · **Duración**: 00:55 (Short de humor)
 - **Dominio provisional**: sociedad-argentina (humor)

@@ -1,9 +1,9 @@
 # WL-565 — Por qué la Piratería está GANANDO la Guerra del Streaming 💸
 
-- **Fuente original**: `raw/wl/tramo-90/2026-08-22-por-que-la-pirateria-esta-ganando-la-guerra-del-streaming.md` ([Vídeo](https://www.youtube.com/watch?v=r6pBE_F3RxA))
+- **Fuente original**: `raw/general/2026-08-22-por-que-la-pirateria-esta-ganando-la-guerra-del-streaming.md` ([Vídeo](https://www.youtube.com/watch?v=r6pBE_F3RxA))
 - **Canal**: JONN DEZZ XP
 - **Publicado**: 2026-08-22 · **Duración**: 15:54
-- **Dominio provisional**: general / tecnología-consumo (streaming y propiedad digital)
+- **Dominio definitivo**: general (consolidación T97 relevo 2, 2026-11-17) / tecnología-consumo (streaming y propiedad digital)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
