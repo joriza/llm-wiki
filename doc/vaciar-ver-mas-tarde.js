@@ -21,11 +21,11 @@
   function setVideoIds() {
     const out = [];
     document.querySelectorAll('ytd-playlist-video-renderer').forEach(el => {
-      const d = el.data || {};
-      const svid = d.playlistSetVideoId || el.getAttribute('data-set-video-id');
-      const vid = (d.videoId) || (el.querySelector('a#video-title') || {}).href;
-      if (svid) out.push({ svid, title: ((el.querySelector('#video-title')||{}).textContent||'').trim().slice(0,60) });
-      else if (vid) out.push({ svid: null, title: vid });
+      const d = el.data || el.__data || {};
+      const svid = d.playlistSetVideoId || d.setVideoId || el.getAttribute('data-set-video-id')
+        || (d.playlistItemData && d.playlistItemData.playlistSetVideoId);
+      const title = ((el.querySelector('#video-title')||{}).textContent||'').trim().slice(0,60);
+      if (svid) out.push({ svid, title });
     });
     return out;
   }
@@ -62,6 +62,10 @@
       continue;
     }
     const batch = items.slice(0, 50);
+    if (rounds === 0 && removed === 0) {
+      const first = items[0] || {};
+      console.log('ℹ diagnostico primera entrada:', JSON.stringify(first).slice(0,200));
+    }
     const res = await removeBatch(batch);
     if (!res) { console.log('✋ sin respuesta OK; deteniendo.'); break; }
     removed += batch.filter(b => b.svid).length;
