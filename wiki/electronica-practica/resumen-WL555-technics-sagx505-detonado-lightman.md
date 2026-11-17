@@ -1,9 +1,9 @@
 # WL-555 — Amplificador Technics SAGX505 detonado
 
-- **Fuente original**: `raw/wl/tramo-88/2026-08-21-amplificador-technics-sagx505-detonado.md` ([Vídeo](https://www.youtube.com/watch?v=MDpKSVRBvKM))
+- **Fuente original**: `raw/electronica-practica/2026-08-21-amplificador-technics-sagx505-detonado.md` ([Vídeo](https://www.youtube.com/watch?v=MDpKSVRBvKM))
 - **Canal**: David Lightman (reparación de electrónica)
 - **Publicado**: 2026-08-21 · **Duración**: 24:09 (multiparte, parte 1)
-- **Dominio provisional**: electronica-practica (reparación de audio)
+- **Dominio definitivo**: electronica-practica (consolidación T97, 2026-11-17) (reparación de audio)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
