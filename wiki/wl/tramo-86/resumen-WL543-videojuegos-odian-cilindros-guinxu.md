@@ -1,6 +1,6 @@
 # WL-543 — ¿Por qué los videojuegos ODIAN los cilindros?
 
-- **Fuente original**: `raw/wl/tramo-85/2026-06-13-por-que-los-videojuegos-odian-los-cilindros.md` ([Vídeo](https://www.youtube.com/watch?v=OXFTmaf-54g))
+- **Fuente original**: `raw/wl/tramo-86/2026-06-13-por-que-los-videojuegos-odian-los-cilindros.md` ([Vídeo](https://www.youtube.com/watch?v=OXFTmaf-54g))
 - **Canal**: Guinxu
 - **Publicado**: 2026-06-13 · **Duración**: 10:58
 - **Dominio provisional**: informatica-teoria (motores de físicas / geometría de colisiones)

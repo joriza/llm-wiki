@@ -1,6 +1,6 @@
 # WL-542 — 💩 LA INTERFAZ DE OFFICE APESTA - #Noticia | La red de Mario
 
-- **Fuente original**: `raw/wl/tramo-85/2026-08-26-la-interfaz-de-office-apesta-noticia-la-red-de-mario.md` ([Vídeo](https://www.youtube.com/watch?v=nC93ZJc6dPs))
+- **Fuente original**: `raw/wl/tramo-86/2026-08-26-la-interfaz-de-office-apesta-noticia-la-red-de-mario.md` ([Vídeo](https://www.youtube.com/watch?v=nC93ZJc6dPs))
 - **Canal**: La red de Mario (Directos) — directo editado (Twitch)
 - **Publicado**: 2026-08-26 · **Duración**: 14:39
 - **Dominio provisional**: informatica (suites ofimáticas / UX)
