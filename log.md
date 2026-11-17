@@ -4280,3 +4280,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-614 — No es el modelo, es el arnés (Articulator ES / Osmani, 19:06, 1teeq-GaiZE)
 
 - Tramo 98 relevo 3 (fuente 17/27, 4.ª útil): síntesis de harness engineering (trinquete, diseño hacia atrás, context rot, Ralph, bucle arnés↔entrenamiento); transcripción manual. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL614-arnes-de-agentes-articulator-osmani.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-615 — ¿Por Fin Es Barata La RAM? (Jorge Marfil, 31:20, QhWqDcA8fn8)
+
+- Tramo 98 relevo 3 (fuente 18/27, 5.ª útil — cierre de frontera): shock de precios DRAM 2025-26 con mecánica «bandeja de horno», datos fechados y chequeo de titulares. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL615-ram-barata-shock-dram-jorge-marfil.md`. Consolidación aplazada.
