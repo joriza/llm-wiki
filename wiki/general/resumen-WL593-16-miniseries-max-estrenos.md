@@ -1,9 +1,9 @@
 # WL-593 — 16 MINISERIES ADICTIVAS que PUEDES VER en 1 SOLO DIA
 
-- **Fuente original**: `raw/wl/tramo-95/2026-08-09-16-miniseries-adictivas-que-puedes-ver-en-1-solo-dia-en-netflix-hbo-max-prime-vi.md` ([Vídeo](https://www.youtube.com/watch?v=x742Xw3H2vg))
+- **Fuente original**: `raw/general/2026-08-09-16-miniseries-adictivas-que-puedes-ver-en-1-solo-dia-en-netflix-hbo-max-prime-vi.md` ([Vídeo](https://www.youtube.com/watch?v=x742Xw3H2vg))
 - **Canal**: MAX Estrenos
 - **Publicado**: 2026-08-09 · **Duración**: 22:53
-- **Dominio provisional**: general (cultura pop / televisión)
+- **Dominio definitivo**: general (consolidación T97 relevo 3, 2026-11-17) (cultura pop / televisión)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

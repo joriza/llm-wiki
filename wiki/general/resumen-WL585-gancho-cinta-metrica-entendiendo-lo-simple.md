@@ -1,9 +1,9 @@
 # WL-585 — ¿Por qué el gancho de la cinta métrica siempre está flojo?
 
-- **Fuente original**: `raw/wl/tramo-93/2026-08-12-por-que-el-gancho-de-la-cinta-metrica-siempre-esta-flojo-no-es-un-defecto-de-fab.md` ([Vídeo](https://www.youtube.com/watch?v=_8vCpqjbsvc))
+- **Fuente original**: `raw/general/2026-08-12-por-que-el-gancho-de-la-cinta-metrica-siempre-esta-flojo-no-es-un-defecto-de-fab.md` ([Vídeo](https://www.youtube.com/watch?v=_8vCpqjbsvc))
 - **Canal**: Entendiendo Lo Simple
 - **Publicado**: 2026-08-12 · **Duración**: 08:04
-- **Dominio provisional**: general / historia-ciencia (divulgación de lo cotidiano)
+- **Dominio definitivo**: general (consolidación T97 relevo 3, 2026-11-17) / historia-ciencia (divulgación de lo cotidiano)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

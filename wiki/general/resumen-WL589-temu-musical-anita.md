@@ -1,9 +1,9 @@
 # WL-589 — Compré TODO esto en Temu ¿LO VALE?
 
-- **Fuente original**: `raw/wl/tramo-94/2026-01-06-compre-todo-esto-en-temu-lo-vale-musicalizate.md` ([Vídeo](https://www.youtube.com/watch?v=eSQal7Vi8SA))
+- **Fuente original**: `raw/general/2026-01-06-compre-todo-esto-en-temu-lo-vale-musicalizate.md` ([Vídeo](https://www.youtube.com/watch?v=eSQal7Vi8SA))
 - **Canal**: Anita de Musicalízate (profesora de música, clases online)
 - **Publicado**: 2026-01-06 · **Duración**: 06:39
-- **Dominio provisional**: general / tecnología-consumo (equipo musical)
+- **Dominio definitivo**: general (consolidación T97 relevo 3, 2026-11-17) / tecnología-consumo (equipo musical)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata

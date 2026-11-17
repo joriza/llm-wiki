@@ -1,9 +1,9 @@
 # WL-596 — La Nueva Ley "Anti-Pajines" EXPUSO la Hipocresía Femenina
 
-- **Fuente original**: `raw/wl/tramo-95/2026-08-04-la-nueva-ley-anti-pajines-expuso-la-hipocresia-femenina.md` ([Vídeo](https://www.youtube.com/watch?v=UWd1iX_vVR8))
+- **Fuente original**: `raw/general/2026-08-04-la-nueva-ley-anti-pajines-expuso-la-hipocresia-femenina.md` ([Vídeo](https://www.youtube.com/watch?v=UWd1iX_vVR8))
 - **Canal**: Fitnico (canal «masculinista» mexicano, con canal secundario y libros a la venta)
 - **Publicado**: 2026-08-04 · **Duración**: 16:32
-- **Dominio provisional**: sociedad-argentina-adyacente / general (NO factual: opinión ideológica de género)
+- **Dominio definitivo**: general / sociedad-argentina-adyacente (consolidación T97 relevo 3, 2026-11-17) (NO factual: opinión ideológica de género)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata (registro neutral)

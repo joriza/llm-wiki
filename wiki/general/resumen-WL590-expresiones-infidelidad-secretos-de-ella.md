@@ -1,9 +1,9 @@
 # WL-590 — Psicología de la comunicación: 5 expresiones secretas para detectar cuando alguien miente
 
-- **Fuente original**: `raw/wl/tramo-94/2026-08-15-psicologia-de-la-comunicacion-5-expresiones-secretas-para-detectar-cuando-alguie.md` ([Vídeo](https://www.youtube.com/watch?v=dtz3-spg3gM))
+- **Fuente original**: `raw/general/2026-08-15-psicologia-de-la-comunicacion-5-expresiones-secretas-para-detectar-cuando-alguie.md` ([Vídeo](https://www.youtube.com/watch?v=dtz3-spg3gM))
 - **Canal**: Secretos de Ella
 - **Publicado**: 2026-08-15 · **Duración**: 06:58
-- **Dominio provisional**: sociedad-argentina-adyacente / general (NO factual: «psicología» de relación)
+- **Dominio definitivo**: general / sociedad-argentina-adyacente (consolidación T97 relevo 3, 2026-11-17) (NO factual: «psicología» de relación)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata (registro neutral)
