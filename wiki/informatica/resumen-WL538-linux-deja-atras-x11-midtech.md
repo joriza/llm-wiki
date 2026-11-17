@@ -1,9 +1,9 @@
 # WL-538 — Linux Está Dejando Atrás una Limitación Histórica… Finalmente
 
-- **Fuente original**: `raw/wl/tramo-85/2026-08-25-linux-esta-dejando-atras-una-limitacion-historica-finalmente.md` ([Vídeo](https://www.youtube.com/watch?v=qMRGbMlZmH8))
+- **Fuente original**: `raw/informatica/2026-08-25-linux-esta-dejando-atras-una-limitacion-historica-finalmente.md` ([Vídeo](https://www.youtube.com/watch?v=qMRGbMlZmH8))
 - **Canal**: Mid tech
 - **Publicado**: 2026-08-25 · **Duración**: 21:34
-- **Dominio provisional**: informatica (escritorio Linux / X11→Wayland)
+- **Dominio definitivo**: informatica (consolidación T97, 2026-11-17) (escritorio Linux / X11→Wayland)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
