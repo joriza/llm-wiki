@@ -1,9 +1,9 @@
 # WL-557 — Proyecto Secuenciador - Res 100 - Símbolo / Footprint / 3d Model
 
-- **Fuente original**: `raw/wl/tramo-88/2026-08-23-proyecto-secuenciador-res-100-simbolo-footprint-3d-model.md` ([Vídeo](https://www.youtube.com/watch?v=AtZhWNPGI7o))
+- **Fuente original**: `raw/microcontroladores/2026-08-23-proyecto-secuenciador-res-100-simbolo-footprint-3d-model.md` ([Vídeo](https://www.youtube.com/watch?v=AtZhWNPGI7o))
 - **Canal**: ARDUINOLOVER
 - **Publicado**: 2026-08-22 · **Duración**: 04:15
-- **Dominio provisional**: microcontroladores / electronica-practica (diseño de PCB)
+- **Dominio definitivo**: microcontroladores (consolidación T97, 2026-11-17) / electronica-practica (diseño de PCB)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
