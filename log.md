@@ -4308,3 +4308,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-621 — 🏠 CÓMO HACER un TECHO ÁRIDO paso a paso (Permacultura Holistica, 16:13, tULqbx1Lw94)
 
 - Tramo 98 relevo 5 FINAL (cache reordenado; índice 24/27): guía constructiva del techo árido con cálculos propios y límites; 2.ª fuente del canal (entidad confirmada). Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL621-techo-arido-permacultura-holistica.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-622 — EL TRAGICO RELATO DE LOS 4 SOLDADOS DE BUKELE (Altanto TV, 43:40, XO9LwslaMGM)
+
+- Tramo 98 relevo 5 FINAL (índice 25/27): entrevista sensacionalista sin verificación — registrada como candidata a baja (raw conservado; baja = decisión del usuario). Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL622-soldados-bukele-haiti-altanto-tv.md`. Consolidación aplazada.
