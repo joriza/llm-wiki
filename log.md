@@ -4196,3 +4196,21 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - **Fila de index de WL-598 verificada** (agregada por relevo 1 con ruta tramo-96 correcta).
 - **`indice-wl.md`**: bloque «Tramos 89-92 — CONSOLIDADOS» agregado (no existían entradas de ingesta para esos tramos).
 - **Verificación al cierre**: 0 raws y 0 resúmenes en `raw/wl/tramo-89..92/` y `wiki/wl/tramo-89..92/`; 0 referencias `wl/tramo-89..92` en index.md. `git status` limpio salvo preexistentes (.obsidian/workspace.json, pdt-llm-wiki.md). **0 dominios nuevos (S4)**. NO tocado: overview.md/sintesis.md, tramo 93-96 (relevo 3), push.
+- [2026-11-17] consolidación WL | T97 relevo 3 del pedido L40 (tramos 93-96, 20 pares) + cierre de visión general
+- **Nota de alcance**: el encargo decía «~19 pares reales»; el conteo exacto es **20 pares** (WL-579..600, 22 IDs menos los skips WL-582/587). Documentado.
+- **Migración con movimiento real** (resumen → `wiki/<dominio>/`, raw → `raw/<dominio>/` con git mv, cita «Fuente original» corregida, fila de index.md actualizada), commits atómicos por dominio, sin correcciones necesarias:
+  - `agentes-de-codigo/` 4 (WL-581, 591, 599, 600) — commit 802f7fce.
+  - `electronica-practica/` 3 (WL-580, 583, 588) — commit 7de822cf.
+  - `general/` 6 (WL-585, 589, 590, 593, 596, 597) — commit c74d07da.
+  - `economia-argentina/` 1 (WL-584) — commit ba278077.
+  - `self-hosting/` 1 (WL-586) — commit dc3b3092.
+  - `casa-calefaccion/` 1 (WL-592) — commit 2cc35514.
+  - `ia-local/` 1 (WL-594) — commit 6d64b61e.
+  - `informatica/` 1 (WL-598) — commit 9ea4578c.
+  - `sociedad-argentina/` 1 (WL-595) — commit 985c3d95.
+- **Concepto nuevo**: [[marca-de-agua-ia]] (WL-572 + WL-599, umbral ≥2 — sugerencia del relevo 2 adoptada) — commit ff1f403d.
+- **Entidades**: [[gentleman-programming]] +WL-599 (commit 15484681); [[alpaca-tech]] +WL-600 (2.ª WL confirmada, commit c772baa3).
+- **`indice-wl.md`**: bloque «Tramos 93-96 — CONSOLIDADOS» agregado (no existían entradas de ingesta para esos tramos) — commit.
+- **Cierre de visión general**: `overview.md` **Hilo 30** (balance del pedido L40: 60 útiles + 4 skips, única salida WARP sin 429, consolidación completa, hilos transversales nuevos, candidatas a baja, verificaciones abiertas; push pendiente, apagado anulado) — commit e3d9570e. `sintesis.md` **Sección 25** (síntesis acumulativa por clústeres del pedido L40, numeración consecutiva 29→30 y 24→25 verificada) — commit 499e07f2.
+- **Candidatas a baja ANOTADAS (no ejecutadas)**: WL-584, WL-590, WL-596 (las tres migradas para que la estación quede a 0; el resto ya estaban anotadas en relevos 1-2).
+- **Verificación al cierre**: 0 raws y 0 resúmenes en `raw/wl/tramo-93..96/` y `wiki/wl/tramo-93..96/`; 0 referencias `wl/tramo-93..96` en index.md; 0 rutas viejas `raw/wl/tramo-9X` en los resúmenes migrados; numeración overview (29→30) y sintesis (24→25) consecutiva. `git status` limpio salvo preexistentes (.obsidian/workspace.json, pdt-llm-wiki.md). **0 dominios nuevos (S4)**. Estación completa `wl/`: tramos 85-96 a 0. NO pusheado (lo hace el orquestador).
