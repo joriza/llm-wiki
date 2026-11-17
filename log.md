@@ -4296,3 +4296,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-618 — El Corredor de $7.000 M de EE. UU. para redirigir el comercio de Argentina (Looking 4 Megaproyectos, 14:05, mkBz12HZ1Hw)
 
 - Tramo 98 relevo 4 (fuente 21/27, 3.ª útil): corredor Andes-Atlántico: titulares vs. letra chica contractual, cadena china, fugas al Pacífico y costes socioambientales. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL618-corredor-andes-atlantico-looking-megaproyectos.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-619 — Por qué la sequía de Panamá llenó de barcos el estrecho de Magallanes (La otra mitad del País, 23:57, HqKCcfIYwdc)
+
+- Tramo 98 relevo 4 (fuente 22/27, 4.ª útil): boom de tránsito 2026 y destino real del dinero (Armada + prácticos, no la ciudad); lección 1914. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL619-estrecho-magallanes-panama-la-otra-mitad.md`. Consolidación aplazada.
