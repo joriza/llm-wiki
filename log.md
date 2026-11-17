@@ -4276,3 +4276,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-613 — Por qué el FIAMBRE de hoy es una PORQUERÍA (Marcos Di Cesare, 18:34, vTs_x07Zhe0)
 
 - Tramo 98 relevo 3 (fuente 15/27, 3.ª útil): fiambres/industria con checklist práctico y dos trampas de etiquetado (apio-nitritos, harina de arroz-emplume); autopromoción excluida. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL613-fiambres-embutidos-industria-marcos-di-cesare.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-614 — No es el modelo, es el arnés (Articulator ES / Osmani, 19:06, 1teeq-GaiZE)
+
+- Tramo 98 relevo 3 (fuente 17/27, 4.ª útil): síntesis de harness engineering (trinquete, diseño hacia atrás, context rot, Ralph, bucle arnés↔entrenamiento); transcripción manual. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL614-arnes-de-agentes-articulator-osmani.md`. Consolidación aplazada.
