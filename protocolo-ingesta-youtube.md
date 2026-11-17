@@ -111,3 +111,7 @@ Modifica: reemplaza el «pacing externo ≥50 s» del ítem 2 y la decisión «i
 ## Modo subagente bajo ODD (vigente desde 2026-11-15)
 
 La admisión del runtime gentle-pi exige que un writer corra bajo un documento de feature ODD (`Spec: odd/tasks/<feature>.md, T<n>`). Para cada lista nueva: copiar `odd/tasks/_plantilla-ingesta-playlist.md` a `odd/tasks/ingesta-<nombre>.md` (completar S/T con los datos de la lista y dominio) y lanzar cada relevo como `Spec: odd/tasks/ingesta-<nombre>.md, T<n>` a `gentle-ai-worker` (esfuerzo low), con `## Allowed edit surfaces` del dominio destino. Un subagente por tramo, relevo cada 5, como establece este protocolo; la plantilla es el único paso extra. Primera aplicación completa: ingesta self-hosting 2026-11-15 (11/11 con T1-T3).
+
+## Vaciado de "Ver más tarde" (2026-11-17)
+
+La lista WL fue vaciada por decisión del usuario (~4.400 entradas) con `doc/vaciar-ver-mas-tarde.js` (script de consola del navegador, v6.5). El backlog WL anterior queda cerrado; el dedupe contra `raw/` y el estado en `.atl/scratch/ver-mas-tarde/` siguen vigentes para no re-procesar. Futuras ingestas WL: la cabeza siempre es el índice 0 de un cache fresco (`--refresh-list`), sin heredar cabezas de caches viejos.

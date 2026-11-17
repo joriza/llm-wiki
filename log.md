@@ -4218,3 +4218,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] curación | lista de borrado por título (pedido L40)
 
 - `lista-curacion-wl-2026-11-17.md`: bloque procesado completo (111 títulos, WL-477..WL-600 + procesados aún en lista, en orden real de la playlist) para borrado manual por título — la numeración del cliente del usuario no es estable (vista oculta entradas vistas y el reverse invierte solo la ventana cargada; total del cliente 4.434 vs API 4.473).
+
+## [2026-11-17] curación | vaciado total de "Ver más tarde" (cierre del backlog WL)
+
+- El usuario decidió vaciar la lista WL de YouTube (~4.400 entradas: todo el backlog sin procesar + los procesados ya vistos + no disponibles). Ejecutado con `doc/vaciar-ver-mas-tarde.js` (script de consola v6.5: API interna `browse/edit_playlist`, acción `ACTION_REMOVE_VIDEO` por `setVideoId`, tandas de 50, SAPISIDHASH con SHA1, headers Origin/X-Origin/X-Goog-AuthUser, bisect ante 400, auto-scroll del contenedor interno). Confirmado vacío por el usuario.
+- El pipeline de ingesta NO se afecta: dedupe cruzado contra `raw/` excluye para siempre todo lo procesado (~1.000 fuentes WL), y el estado de skips vive en `.atl/scratch/ver-mas-tarde/estado.json`. Cualquier video nuevo que el usuario agregue a WL arranca como cabeza fresca de una futura ingesta.
+- Lecciones del vaciado (para futuros scripts de consola): (1) el popup de menú de YouTube es position:fixed ⇒ offsetParent null ⇒ los filtros de visibilidad lo descartan; (2) SAPISIDHASH exige SHA1 de `t + ' ' + sapisid + ' ' + origin` y headers Origin/X-Origin/X-Goog-AuthUser, sin ellos la API procesa anónimo (200 OK sin efecto, logged_in=0); (3) el campo del setVideoId en `el.data` hoy se llama `setVideoId` (antes `playlistSetVideoId`); (4) el setVideoId se renumera con cada edición ⇒ refrescar la página entre corridas grandes; (5) el scroll de WL vive en el contenedor interno, no en window.
