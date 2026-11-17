@@ -4316,3 +4316,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-623 — Luis LABRAÑA contra 10 por los 30.000 DESAPARECIDOS (BorderPeriodismo, 51:18, 4_OuLPIvkTk)
 
 - Tramo 98 relevo 5 FINAL (índice 26/27): registro neutral del debate sobre la cifra de 30.000 (autoatribución de Labraña vs. réplicas de los organismos). Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL623-labrana-30000-borderperiodismo.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-624 — Openclaw vs Hermes (Pelado Nerd, 24:53, jmqq0ocRvNo)
+
+- Tramo 98 relevo 5 FINAL (índice 27/27 — ÚLTIMA entrada del cache, no era duplicado): comparativa de consumo con migración documentada. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL624-openclaw-vs-hermes-pelado-nerd.md`. CIERRE DE LISTA: 27/27 entradas del cache agotadas o saltadas. Consolidación aplazada.
