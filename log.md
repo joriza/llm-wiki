@@ -4304,3 +4304,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-620 — Tu código de IA no es tan bueno como crees (Eric Risco, 18:51, If_KIOuQTkM)
 
 - Tramo 98 relevo 4 (fuente 23/27, 5.ª útil — cierre de frontera): obsolescencia del meta-arnés vs. memoria persistente (RSC Harness/Brain). NOTA: el relevo previo la anticipaba como ya procesada; el dedupe la dio nueva (no estaba en raw/) y se procesó como fuente nueva. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL620-codigo-ia-obsolescencia-arnes-eric-risco.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-621 — 🏠 CÓMO HACER un TECHO ÁRIDO paso a paso (Permacultura Holistica, 16:13, tULqbx1Lw94)
+
+- Tramo 98 relevo 5 FINAL (cache reordenado; índice 24/27): guía constructiva del techo árido con cálculos propios y límites; 2.ª fuente del canal (entidad confirmada). Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL621-techo-arido-permacultura-holistica.md`. Consolidación aplazada.
