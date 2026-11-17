@@ -20,10 +20,13 @@
     return;
   }
   console.log('ℹ SAPISID ok (len=' + sapisid.length + ', empieza ' + sapisid.slice(0,4) + '…)');
-  const auth = () => {
+  async function auth() {
     const t = Math.floor(Date.now() / 1000);
-    return 'SAPISIDHASH ' + t + '_' + btoa(t + '_' + sapisid + '_' + location.origin);
-  };
+    const data = new TextEncoder().encode(t + ' ' + sapisid + ' ' + location.origin);
+    const buf = await crypto.subtle.digest('SHA-1', data);
+    const hex = [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2, '0')).join('');
+    return 'SAPISIDHASH ' + t + '_' + hex;
+  }
 
   function setVideoIds() {
     const out = [];
@@ -49,7 +52,7 @@
         'Content-Type': 'application/json',
         'X-Youtube-Client-Name': String(clientName),
         'X-Youtube-Client-Version': clientVersion,
-        'Authorization': auth(),
+        'Authorization': await auth(),
         'X-Origin': 'https://www.youtube.com',
         'Origin': 'https://www.youtube.com',
         'X-Goog-AuthUser': '0'
