@@ -35,7 +35,7 @@
     const out = [];
     document.querySelectorAll('ytd-playlist-video-renderer').forEach(el => {
       const d = el.data || el.__data || {};
-      const svid = d.playlistSetVideoId || (d.playlistItemData && d.playlistItemData.playlistSetVideoId);
+      const svid = d.setVideoId || d.playlistSetVideoId || (d.playlistItemData && d.playlistItemData.playlistSetVideoId);
       if (svid) push(out, svid, d.videoId,
         ((el.querySelector('#video-title')||{}).textContent||''), el);
     });
@@ -96,7 +96,7 @@
   }
 
   let removed = 0, noDom = 0;
-  console.log('▶ Vacíado WL v6.1 (multi-markup) — freno: __WL_STOP = true.');
+  console.log('▶ Vacíado WL v6.2 FINAL (setVideoId directo) — freno: __WL_STOP = true.');
   while (!window.__WL_STOP && removed < MAX_REMOVE) {
     let items = collect();
     if (!items.length) {
