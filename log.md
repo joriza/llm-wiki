@@ -4268,3 +4268,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-611 — Cómo usar agentes de IA sin empezar de cero cada día (Eric Risco, 28:38, XCaI7do8Nkk)
 
 - Tramo 98 relevo 3 (cabeza del relevo, índice 11 del cache de 27): LLM Wiki de Karpathy vs. RAG + demo RSC Brain (MCP, permisos, aprobaciones, lint). Fuente central para la futura página del patrón LLM Wiki. Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL611-rsc-brain-llm-wiki-vs-rag-eric-risco.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-612 — Podrías haber inventado OpenClaw (Articulator ES, 16:36, 5fjFsf3ZS2U)
+
+- Tramo 98 relevo 3 (fuente 14/27, 2.ª útil): arquitectura de asistente persistente en 10 pasos (sesiones, alma, herramientas, permisos, pasarela, compactación, memoria, cola, latidos, multi-agente); transcripción manual (no ASR). Raw → `raw/wl/tramo-98/`, resumen → `wiki/wl/tramo-98/resumen-WL612-openclaw-asistente-persistente-articulator.md`. Consolidación aplazada.
