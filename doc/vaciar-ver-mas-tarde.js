@@ -1,7 +1,7 @@
 (async () => {
   // Vaciar "Ver mas tarde" via API interna de YouTube (sin menus DOM).
   // Freno unico: escribí __WL_STOP = true en la consola.
-  const MAX_REMOVE = 2; // tandas de prueba: subir a 90 cuando confirme que aplica
+  const MAX_REMOVE = 2; // tandas de prueba: confirmar logged_in=1 antes de subir a ~90
   window.__WL_STOP = false;
   const sleep = (ms) => new Promise(r => setTimeout(r, ms));
   const rand = (a, b) => a + Math.floor(Math.random() * (b - a));
@@ -42,7 +42,9 @@
         'Content-Type': 'application/json',
         'X-Youtube-Client-Name': String(clientName),
         'X-Youtube-Client-Version': clientVersion,
-        'Authorization': auth()
+        'Authorization': auth(),
+        'X-Origin': 'https://www.youtube.com',
+        'Origin': 'https://www.youtube.com'
       },
       body: JSON.stringify({ context: ctx, playlistId: 'WL', actions })
     });
