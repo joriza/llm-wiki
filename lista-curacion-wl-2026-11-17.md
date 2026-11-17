@@ -1,0 +1,128 @@
+# Curación WL — bloque procesado (borrar por título, Reverse OFF)
+
+Orden real de la playlist (de más nuevo a más viejo), generada 2026-11-17 desde el listado del servidor. Cabeza del backlog tras borrar: WL-601 «Ya no busco aplicaciones… ahora las creo con IA». Numeración de referencia del servidor, no de tu cliente.
+
+- [ ] 1. ¿Por qué la Antártida Sigue Aterrorizando a los Científicos?
+- [ ] 2. They Went Inside the Titanic and Found Not a Single Bone | The Titanic Robots
+- [ ] 3. ¿Por qué la Fosa de las Marianas Sigue Aterrorizando a los Científicos?
+- [ ] 4. La trágica historia de los náufragos en la isla Tromelin
+- [ ] 5. ¿Por Qué El Océano Antártico Convierte A Los Animales En Gigantes?
+- [ ] 6. La Ruptura de Pangea: cómo se partió el supercontinente | Documental Completo
+- [ ] 7. Argentina era casi 3 veces más rica que Chile. Hoy Chile la superó. ¿Qué pasó?
+- [ ] 8. Buenos Aires Esconde Algo Que La Mayoría de los Argentinos No Sabe Que Existe
+- [ ] 9. Todo lo que Sabemos del Lago Baikal — Y Por Qué Se Está Abriendo
+- [ ] 10. Ni siquiera Disney lo pudo frenar.
+- [ ] 11. Cómo la gira RÉCORD de The Police DESTRUYÓ a la banda
+- [ ] 12. Quedan ocho en el mundo y a este la Nación lo quiso vender como chatarra: Transbordador, La Boca
+- [ ] 13. ¿CÓMO los vikingos perdieron AMÉRICA: la cruel MASACRE y la VERGONZOSA huida hacia GROENLANDIA?!
+- [ ] 14. EL LAGO QUE SE TRAGÓ TODO DESAPARECIÓ EN SOLO 3 HORAS - Lago Peigneur
+- [ ] 15. ¿Por qué las casas NUEVAS ya NO tienen Aleros?
+- [ ] 16. ¿Por Qué la Geografía de CUBA es Única en el Mundo?
+- [ ] 17. Cómo Funciona Realmente el Lavado de Dinero y Por Qué Nos Afecta | Explicación fácil
+- [ ] 18. Primer Vistazo A Qwen 4: Qué Es Real Y Qué Es Rumor
+- [ ] 19. What If You Lived the Same Day Forever? (And How to Escape the Loop)
+- [ ] 20. Cool your home with a Canadian or Provencal well and a black chimney
+- [ ] 21. Por qué los hombres lógicos no ligan (aunque le caigan bien)?
+- [ ] 22. El levantamiento de Kanal K por un chiste con el Papa
+- [ ] 23. IQ 70 vs IQ 160 La Diferencia Entre una Mente Promedio y una Genial
+- [ ] 24. DEJA de hervir los HUEVOS así: el truco japonés para que se pelen SOLOS y la yema quede perfecta
+- [ ] 25. Hermes 0.23 CAMBIA TODO: tu primer EQUIPO de Agentes desde CERO
+- (hueco 26: [Deleted video])
+- (hueco 27: [Deleted video])
+- (hueco 28: [Deleted video])
+- (hueco 29: [Deleted video])
+- (hueco 30: [Deleted video])
+- (hueco 31: [Deleted video])
+- (hueco 32: [Deleted video])
+- (hueco 33: [Deleted video])
+- (hueco 34: [Private video])
+- (hueco 35: [Private video])
+- [ ] 26. Este ERROR en la música de Terminator cambió la historia del cine
+- [ ] 27. 🚨 El MUNDO está ENFERMO 🕵️ LINDSAY CLANCY mató a sus HIJOS y un grupo de MONSTRUOS la quiere LIBRE
+- [ ] 28. Mejor que DeepSeek V4 Pro en mi PC 🚀 Qwen 3.8 Flash Next es INCREÍBLE
+- [ ] 29. "La paradoja de leyes optativas" | Ex-Director del BCRA Enrique Szewach analiza la reforma de Milei
+- [ ] 30. "¡NO TE METAS CONMIGO!" | Danann le responde al youtuber mileísta Tipito Enojado
+- [ ] 31. 🔥 CARLA GALEOTE YA NO SABE CÓMO JUSTIFICAR SU HIPOCRESÍA CON LAS MUJERES DE CEUTA
+- [ ] 32. El problema de los coches eléctricos que descubrí demasiado tarde
+- [ ] 33. Frigate + Home Assistant: cámaras locales sin nubes y suscripciones
+- [ ] 34. "EL KAKAS": THERIAN Y CAMPEÓN DE FARMEAR AURA | Emmanuel Danann 🐍
+- [ ] 35. Clientes Tech: 5 comportamientos extraños que no sabías cómo detectar
+- [ ] 36. PyInstaller, Nuitka y Briefcase: empaqueté la misma app tres veces y una tardó 40 minutos
+- [ ] 37. Build the Gemma Translator: No Internet Required
+- [ ] 38. Por qué dejamos las STEP DOWN y STEP UP
+- [ ] 39. 40 Años de Gildo Insfrán | ¿El Fin del Dictador de Formosa?
+- [ ] 40. Cómo medir componentes en una placa electrónica: lo que ningún tutorial te explica
+- [ ] 41. They did it! Omniroute is giving away the best AI for FREE and without limits.
+- [ ] 42. Construí un control de inventario en Flet + SQLite y lo entregué en 4 días
+- [ ] 43. 1 EMPRESARIO vs. 20 TRABAJADORES | Reacción
+- [ ] 44. Zip Drive Prometía Salvar tus Archivos… Hasta que Empezó a Hacer Clic
+- [ ] 45. Vídeo Viral en YouTube: Por Qué Puede Hundir Tu Canal y lo que Nadie Cuenta a los Creadores
+- [ ] 46. El nuevo trabajo tech que paga una fortuna
+- [ ] 47. La nueva moda de FARMEAR AURA
+- [ ] 48. El CUENTO DEL ABUELITO: la nueva modalidad de ESTAFA VIRTUAL - #TelefeNoticias
+- [ ] 49. 101 DÍAS DE BRUTALIDAD Y BELLEZA | El Experimento de la Balsa Acali
+- [ ] 50. Tu ORM no es lento, lo estás usando mal
+- [ ] 51. 🔥 Los programadores están ignorando este mercado
+- [ ] 52. Linux Está Dejando Atrás una Limitación Histórica… Finalmente
+- [ ] 53. DeepSeek Harness CAMBIA las reglas: ¿Adiós a Claude Code y Codex?
+- [ ] 54. Si TODO te interesa, tenes que conocer ÉSTE SISTEMA
+- [ ] 55. Modelos, Harnesses y Orquestadores: Lo Único que Importa en IA
+- [ ] 56. 💩 LA INTERFAZ DE OFFICE APESTA - #Noticia | La red de Mario
+- [ ] 57. ¿Por qué los videojuegos ODIAN los cilindros?
+- [ ] 58. No doy crédito!
+- [ ] 59. Hice mi MoE 🚀 Cómo Crear un Mezcla de Expertos LLM
+- [ ] 60. WebMCP explicado: El futuro de la interacción IA y Web
+- [ ] 61. TRES DELINCUENTES MUERTOS EN UN INTENTO DE ROBO EN RAFAEL CASTILLO
+- (hueco 72: [Deleted video])
+- [ ] 62. REST vs GraphQL vs gRPC vs WebSockets explicado fácil
+- [ ] 63. Vas a ALQUILAR tu próximo teléfono
+- [ ] 64. Descargar Qwen 4 MoE 🚀 Todo sobre la NUEVA Arquitectura y su Lanzamiento
+- [ ] 65. Claudio Zuchovicki: "nunca se guíen por los promedios"
+- [ ] 66. Ganar Dinero en YouTube: Solo el 0,7% de los que Suben Vídeos lo Logra y Esto Es lo que los Separa
+- [ ] 67. YPF ¿Por qué vendí? Análisis detallado de su balance record 🚀
+- [ ] 68. Amplificador Technics SAGX505 detonado
+- [ ] 69. MCPs para LLM muy pequeños 🚀 Potencia tus Modelos Locales con Context 7 y Playwright
+- [ ] 70. Proyecto Secuenciador - Res 100  - Símbolo / Footprint / 3d Model
+- [ ] 71. Millones perderán su trabajo por la IA… ¿y después?
+- [ ] 72. Conectores DC firmes o flojos (5525 en 5521)
+- [ ] 73. Funciona sobre VIDRIO transparente, o en prácticamente cualquier superficie | PAW3950
+- [ ] 74. Optimiza tu PC al máximo: 6 programas GRATIS que no conocías
+- [ ] 75. Así es cómo logran despoblar naciones. Romina Cáceres expone en el senado Argentino.
+- (hueco 87: [Deleted video])
+- [ ] 76. El líquido de $3 que frena la humedad que SUBE por la pared (sin picar ni llamar al albañil)
+- [ ] 77. Por qué la Piratería está GANANDO la Guerra del Streaming 💸
+- [ ] 78. Abandono a Loc-OS??
+- [ ] 79. 🔥 ¿Qué pasa si ganas DEMASIADO dinero en trading? (nadie te lo dice) 💀
+- [ ] 80. El día que entendí que el TRADING no era suficiente
+- [ ] 81. testeando discos usados
+- [ ] 82. HDD portatiles, CUIDADO
+- [ ] 83. COMO LOS ARGENTINOS EVITAN DECIR "NO"
+- [ ] 84. Lo PEOR que le ha pasado a Claude
+- [ ] 85. Reduce tus tokens a la mitad con este consejo #shorts #ia #dev
+- [ ] 86. El software que ayuda a reparar todas las Memorias usb #reparación #software #usb #pendrive
+- [ ] 87. Por qué tu código "Limpio" está ARRUINANDO el proyecto
+- [ ] 88. Exploto el mother!
+- [ ] 89. Diseña tu propio sistema de audio Portatil
+- [ ] 90. Como Instalar Android JUNTO a Windows en tu PC SIN Emulador │ 2 Sistemas en la Misma Computadora
+- [ ] 91. El error #1 colocando altavoces (y otros 4 que casi todos cometemos). Guia rápida para novatillos!
+- [ ] 92. No tires tus audífonos como se reparan tus  audífonos Bluetooth 
+- [ ] 93. 🔥 NO PAGUES TRADINGVIEW: Cómo UNIFICAR INDICADORES GRATIS usando CHATGPT 🎯 | #BullMorning
+- (hueco 106: [Deleted video])
+- [ ] 94. Lo que NADIE te explica sobre la Capacidad Real de una Batería
+- [ ] 95. Amazing Creation! Pour Cement into Egg Trays and Create a Stunning Masterpiece! **[SKIP sin subtítulos — borrar igual]**
+- [ ] 96. 🚨BERCOVICH ENCIENDE TODAS LAS ALARMAS CAPUTO Y MILEI TOMARON LA PEOR DECISION
+- [ ] 97. ¿Por qué el gancho de la cinta métrica siempre está flojo? NO es un defecto de fábrica
+- [ ] 98. 🚀 ¿Todavía guardas un módem viejo? ¡No lo tires! 📡
+- [ ] 99. No mas Interruptores de Pared, en su lugar usa un Transistor MOSFET
+- [ ] 100. Compré TODO esto en Temu ¿LO VALE?  🤨 | Musicalízate
+- [ ] 101. Psicología de la comunicación: 5 expresiones secretas para detectar cuando alguien miente
+- [ ] 102. Millones de dolares a la basura... ya no más.
+- [ ] 103. El peligro oculto de usar un ventilador
+- [ ] 104. 16 MINISERIES ADICTIVAS que PUEDES VER en 1 SOLO DIA! en Netflix, HBO MAX, Prime Video y Apple TV+!
+- [ ] 105. Comparativa SLMs en Programación 🤖 Gemma vs Ornith vs Qwen vs LFM
+- [ ] 106. Esto es una tragedia porque sabemos como evitarlo y no lo estamos haciendo | Novaresio en A24
+- [ ] 107. La Nueva Ley "Anti - Pajines" EXPUSO la Hipocresía Femenina.
+- [ ] 108. Domina CUALQUIER TEMA con IA. El método que el MIT inventó en 1972
+- [ ] 109. Windows por fin nos liberó a todos: Optimización de RAM y CPUs ¡Instalala ahora!
+- [ ] 110. Marcas de agua en la IA?
+- [ ] 111. Usas la IA como tu Abuela: 5 Cosas que lo Cambian Todo
