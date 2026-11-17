@@ -22,3 +22,7 @@ El homelab como infraestructura personal: hardware reciclado o mini-PC barato + 
 - **Hardware reciclado o de bajo consumo como puerta de entrada** (GCtech, Felipe M., Pocho Labs) — con el costo eléctrico 24/7 como límite honesto (Felipe M.: Raspberry sí, laptop no).
 - **Ergonomía en gradiente**: panel simple primero (CasaOS), control fino después (Portainer), virtualización si hace falta (Proxmox) — la progresión recomendada por Enreta.
 - **El lab debe trabajar para ti, no al revés** (VirtualizationHowto): el self-hosting como elección por servicio y por costo operacional.
+
+## Actualización 2026-11-17 (consolidación T6, tramo 98)
+
+WL-617 ([[resumen-WL617-servidor-casa-cancelado-pepotech]] — en `wl/`): el contrapeso honesto del homelabbing — seis lecciones (síndrome de Diógenes en Docker con regla «2-3 usos/semana o fuera», Jellyfin vs. Plex, Tailscale en vez de puertos abiertos, documentar lo que se toca, RAID ≠ backup con regla 3-2-1, costo eléctrico real 70-90 €/año de una torre vieja vs. mini PC 8.ª gen a 10-15 W) y veredicto «ahorro = no, soberanía = sí» — la contra-voz exacta de WL-200/299/330/339 del dominio, cierra el debate de la «contradicción productiva» con un criterio de decisión claro. Entidad nueva: [[pelado-nerd]] (4 fuentes, la 4.ª en wl/). Cruce: la RAM de WL-615 (tramo 98) es el precio del hardware del homelab.

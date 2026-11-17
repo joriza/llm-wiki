@@ -79,3 +79,7 @@ El calendario completo país a país y los tres indicadores de vigilancia están
 ## Lectura crítica
 
 «Son datos y pronósticos oficiales, no una predicción de que vaya a repetirse 1877» (descripción del vídeo). El océano solo decide dónde falla la lluvia; lo que les pasa a las personas lo decide todo lo demás: cuánto grano hay guardado, quién puede llegar a él y si alguien se mueve antes de que se mueran las cosechas [20:52-21:10].
+
+## Actualización 2026-11-17 (consolidación T6, tramo 98)
+
+WL-601 ([[resumen-WL601-el-nino-historico-alerta-argentina-la100]] — en `wl/`): divulgación climática de La 100 (09:55) con el mecanismo y las cifras del evento 2026-27 en línea con esta página — ONI medido 2,5 (ago-oct) vs. escalón «histórico» 2,5 del índice relativo; proyección OMM de 3,8 °C (WL-226 reportaba el mismo umbral 83 % de la NOAA); pronóstico trimestral SMN (más lluvia litoral/centro, menos NOA/Patagonia sur); 222 evacuados en Corrientes; pico estimado diciembre-enero con efectos máximos hacia marzo-abril. Distinción metodológica bien explicada: proyección ≠ medición. Refuerza la hipótesis de esta página (2026 compite con 1877) desde la divulgación argentina.

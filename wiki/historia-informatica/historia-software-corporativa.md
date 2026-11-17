@@ -24,3 +24,7 @@ Los episodios de [[archivo-del-futuro]] corrigen la memoria pública con cronolo
 
 - FAV-454 y FAV-461 entran como cruces (1 fuente cada canal ShellDredd/Archivo del Futuro-otro-tema, no alcanzan umbral propio).
 - FAV-452 puentea con [[bases-de-datos]] (la mitad técnica de la historia).
+
+## Actualización 2026-11-17 (consolidación T6, tramo 98)
+
+WL-605 ([[resumen-WL605-microsoft-lotus-excel-mac-un-junior-mas]] — en `wl/`): la crónica 1979-2014 de la guerra de hojas de cálculo complementa el episodio FAV-454 (Lotus 1-2-3) con la contraparte completa — Multiplan (portabilidad) vs. 1-2-3 (ensamblador, una máquina), el giro de Excel a la Macintosh como banco de pruebas de Windows (Klunder, «recalcular o morir»), Jazz, Excel 2.0 como caballo de Troya de Windows y el bug del 29-2-1900 heredado de Lotus que Excel arrastra 40 años. Mismo patrón «la plataforma decide» que FAV-453 (Office vs. WordPerfect): quien llega primero y bien al estándar ganador gana el paquete. Cruce regional: WL-608 ([[resumen-WL608-czerweny-pc-argentina-fabricas-desaparecidas]] — en `wl/`) cuenta la versión argentina de la misma década (Czerweny/CZ, Drean, Talent/MSX) donde el entorno de incentivos (Decreto 652/86 premió a San Luis) dejó a todos fuera — «la guerra acabó sin ganador». Par recomendado para lectura conjunta: el estándar global (WL-605) vs. la ventana perdida local (WL-608).
