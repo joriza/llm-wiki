@@ -1,9 +1,9 @@
 # WL-594 — Comparativa SLMs en Programación 🤖 Gemma vs Ornith vs Qwen vs LFM
 
-- **Fuente original**: `raw/wl/tramo-95/2026-08-16-comparativa-slms-en-programacion-gemma-vs-ornith-vs-qwen-vs-lfm.md` ([Vídeo](https://www.youtube.com/watch?v=ArABLzPR5Ok))
+- **Fuente original**: `raw/ia-local/2026-08-16-comparativa-slms-en-programacion-gemma-vs-ornith-vs-qwen-vs-lfm.md` ([Vídeo](https://www.youtube.com/watch?v=ArABLzPR5Ok))
 - **Canal**: Nichonauta
 - **Publicado**: 2026-08-16 · **Duración**: 10:12
-- **Dominio provisional**: ia-local (SLMs en código)
+- **Dominio definitivo**: ia-local (consolidación T97 relevo 3, 2026-11-17) (SLMs en código)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
