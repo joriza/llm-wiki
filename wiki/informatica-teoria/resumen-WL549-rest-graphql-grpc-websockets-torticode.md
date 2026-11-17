@@ -1,9 +1,9 @@
 # WL-549 — REST vs GraphQL vs gRPC vs WebSockets explicado fácil
 
-- **Fuente original**: `raw/wl/tramo-87/2026-08-25-rest-vs-graphql-vs-grpc-vs-websockets-explicado-facil.md` ([Vídeo](https://www.youtube.com/watch?v=-vHf2vzMsqE))
+- **Fuente original**: `raw/informatica-teoria/2026-08-25-rest-vs-graphql-vs-grpc-vs-websockets-explicado-facil.md` ([Vídeo](https://www.youtube.com/watch?v=-vHf2vzMsqE))
 - **Canal**: Torti Code
 - **Publicado**: 2026-08-24 · **Duración**: 17:33
-- **Dominio provisional**: informatica-teoria (arquitectura de APIs)
+- **Dominio definitivo**: informatica-teoria (consolidación T97, 2026-11-17) (arquitectura de APIs)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
