@@ -5,33 +5,38 @@
 
   const sleep = (ms) => new Promise(r => setTimeout(r, ms));
   const rand = (a, b) => a + Math.floor(Math.random() * (b - a));
-  let cancelled = false;
-  window.__WL_STOP = false; // escribí __WL_STOP = true en la consola para detener
-  document.addEventListener('keydown', (ev) => { if (ev.key === 'Escape') cancelled = true; });
+  window.__WL_STOP = false; // UNICO freno: escribí __WL_STOP = true en la consola
+  const cancelled = () => window.__WL_STOP;
 
   const visibleItems = () =>
     [...document.querySelectorAll('ytd-playlist-video-renderer, ytd-playlist-panel-video-renderer')]
       .filter(el => el.offsetParent !== null);
 
-  async function removeOne(item) {
-    const btn = item.querySelector('#button.yt-icon-button, button[aria-label]');
-    if (!btn) return false;
-    btn.click();
-    await sleep(300);
-    const entries = document.querySelectorAll(
-      'ytd-menu-service-item-renderer, tp-yt-paper-item, ytd-menu-popup-renderer paper-item');
+  function menuEntries() {
+    return [...document.querySelectorAll(
+      'ytd-menu-service-item-renderer, tp-yt-paper-item, ytd-menu-popup-renderer paper-item, yt-list-item-renderer')]
+      .filter(el => el.offsetParent !== null);
+  }
+
+  async function removeOne(item, dbg) {
+    const btn = item.querySelector('#button.yt-icon-button, ytd-menu-button-renderer button, button[aria-label]');
+    if (!btn) { dbg('sin boton'); return false; }
+    btn.click();                      // abrir menu
+    await sleep(350);
+    const entries = menuEntries();
     for (const e of entries) {
       const label = (e.textContent || '').trim();
-      if (PAT.test(label)) { e.click(); await sleep(400); return true; }
+      if (PAT.test(label)) { e.click(); await sleep(450); return true; }
     }
-    document.dispatchEvent(new KeyboardEvent('keydown', { key: 'Escape' })); // cerrar menú
-    await sleep(150);
+    dbg(`menu sin opcion (entries=${entries.length})`);
+    btn.click();                      // cerrar menu (toggle)
+    await sleep(200);
     return false;
   }
 
   let removed = 0, failed = 0;
-  console.log('▶ Vacíado WL iniciado — clic en la página para detener.');
-  while (removed < MAX_REMOVE && !cancelled && !window.__WL_STOP) {
+  console.log('▶ Vacíado WL iniciado — freno: __WL_STOP = true en la consola.');
+  while (removed < MAX_REMOVE && !cancelled()) {
     const items = visibleItems();
     if (!items.length) { await sleep(1500); continue; }
     const item = items[0];
@@ -40,10 +45,11 @@
     if (ok) { removed++; if (removed % 10 === 0) console.log(`✔ ${removed} removidos… (último: ${title})`); }
     else {
       failed++;
+      if (failed === 1) console.log('ℹ Primer fallo (diagnostico):', item.innerHTML.slice(0, 300));
       if (failed > 15) { console.log('✋ 15 fallos seguidos: DOM cambió o la lista está vacía. Deteniendo.'); break; }
       await sleep(1000);
     }
     await sleep(rand(STEP_MS - 100, STEP_MS + 500));
   }
-  console.log(`■ Fin: ${removed} removidos, ${failed} fallos. ${cancelled ? '(detenido por clic)' : ''} Refrescá la página (F5) para ver el estado real.`); window.__WL_STOP = false;
+  console.log(`■ Fin: ${removed} removidos, ${failed} fallos. ${window.__WL_STOP ? '(detenido por __WL_STOP)' : ''} Refrescá la página (F5) para ver el estado real.`);
 })();
