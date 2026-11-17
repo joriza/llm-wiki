@@ -23,15 +23,18 @@
     return 'SAPISIDHASH ' + t + '_' + hex;
   }
 
-  const seen = new Set();
-  function push(out, svid, vid, title, node) {
-    if (!svid || seen.has(svid)) return;
-    seen.add(svid);
-    out.push({ svid, vid, title: (title||'').slice(0,60), node });
+  // seen vive SOLO dentro de cada collect(): dedupe entre fuentes, no entre tandas
+  function makePush() {
+    const seen = new Set();
+    return (out, svid, vid, title, node) => {
+      if (!svid || seen.has(svid)) return;
+      seen.add(svid);
+      out.push({ svid, vid, title: (title||'').slice(0,60), node });
+    };
   }
 
   // 1) markup viejo: renderer con .data
-  function fromRenderers() {
+  function fromRenderers(push) {
     const out = [];
     document.querySelectorAll('ytd-playlist-video-renderer').forEach(el => {
       const d = el.data || el.__data || {};
@@ -43,7 +46,7 @@
   }
 
   // 2) markup nuevo: lockups con setVideoId embebido en su HTML
-  function fromLockups() {
+  function fromLockups(push) {
     const out = [];
     document.querySelectorAll('yt-lockup-view-model, ytd-playlist-video-list-renderer [class*="lockup"]').forEach(el => {
       const html = el.outerHTML || '';
@@ -56,7 +59,7 @@
   }
 
   // 3) ytInitialData: snapshot embebido de la pagina
-  function fromInitialData() {
+  function fromInitialData(push) {
     const out = [];
     try {
       const raw = JSON.stringify(window.ytInitialData || {});
@@ -68,9 +71,10 @@
   }
 
   function collect() {
-    const out = fromRenderers();
-    fromLockups().forEach(i => push(out, i.svid, i.vid, i.title, i.node));
-    if (!out.length) fromInitialData().forEach(i => push(out, i.svid, i.vid, i.title, null));
+    const push = makePush();
+    const out = fromRenderers(push);
+    fromLockups(push).forEach(i => push(out, i.svid, i.vid, i.title, i.node));
+    if (!out.length) fromInitialData(push).forEach(i => push(out, i.svid, i.vid, i.title, null));
     return out;
   }
 
