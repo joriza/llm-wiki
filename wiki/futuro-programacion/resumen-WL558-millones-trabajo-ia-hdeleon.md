@@ -1,9 +1,9 @@
 # WL-558 — Millones perderán su trabajo por la IA… ¿y después?
 
-- **Fuente original**: `raw/wl/tramo-89/2026-08-24-millones-perderan-su-trabajo-por-la-ia-y-despues.md` ([Vídeo](https://www.youtube.com/watch?v=VYCoK_DgEqw))
+- **Fuente original**: `raw/futuro-programacion/2026-08-24-millones-perderan-su-trabajo-por-la-ia-y-despues.md` ([Vídeo](https://www.youtube.com/watch?v=VYCoK_DgEqw))
 - **Canal**: hdeleon.net (Héctor de León)
 - **Publicado**: 2026-08-24 · **Duración**: 10:16
-- **Dominio provisional**: futuro-programacion (impacto IA en el oficio)
+- **Dominio definitivo**: futuro-programacion (consolidación T97 relevo 2, 2026-11-17) (impacto IA en el oficio)
 - **Fecha de ingesta**: 2026-11-17
 
 ## Qué trata
