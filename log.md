@@ -4435,3 +4435,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Resumen: `wiki/wl/tramo-100/resumen-WL643-sunthalpy-baja-entalpia-omar-suarez.md`.
 - Tramo 100 relevo 2 (2/5). La mejor fuente de ingeniería del tramo: física correcta, medición verificable, límites confesados, sesgo declarado.
 
+## [2026-11-18] ingesta | WL-644 — Tecnofeudalismo / Black Mirror (Puchito Cine)
+
+- Fuente: `raw/wl/tramo-100/2025-07-06-por-que-no-sos-dueno-de-nada-tecnofeudalismo.md` (eI93fIFdhtU, 18:45, 2025-07-06).
+- Resumen: `wiki/wl/tramo-100/resumen-WL644-tecnofeudalismo-black-mirror-puchito-cine.md`.
+- Tramo 100 relevo 2 (3/5). Primer hilo «renta vs. ganancia» de la wiki; marco correcto, falta atribución a Varoufakis y exploración de alternativas (señalado).
+
