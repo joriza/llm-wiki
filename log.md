@@ -4417,3 +4417,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Resumen: `wiki/wl/tramo-100/resumen-WL640-gpu-p100-ia-local-codesimple.md`.
 - Tramo 100 relevo 1 (4/5). 2.ª fuente de CodeSimple (tras WL-638) — entidad nueva candidata para la consolidación aplazada.
 
+## [2026-11-18] ingesta | WL-641 — La historia completa de Argentina (Así Nació América)
+
+- Fuente: `raw/wl/tramo-100/2026-11-16-la-historia-completa-de-argentina-el-pais-que-perdio-tres-vecinos-y-gano-la-pata.md` (BUOMjaTjW44, 48:22, 2026-11-15).
+- Resumen: `wiki/wl/tramo-100/resumen-WL641-historia-argentina-asi-nacio-america.md`.
+- Tramo 100 relevo 1 (5/5 — relevo completo). La mejor fuente de historia del tramo: panorama territorial con honestidad metodológica (leyendas marcadas, rangos, debates abiertos). Cierre de relevo; consolidación aplazada.
+
