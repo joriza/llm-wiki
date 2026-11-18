@@ -1,7 +1,7 @@
 # WL-626 — MOHO en la PARED: Cómo Matar el Moho Tóxico en Menos de 5 Minutos
 
 - **Fuente original**: `raw/wl/tramo-99/2026-08-29-moho-en-la-pared-como-matar-el-moho-toxico-en-menos-de-5-minutos.md` ([Vídeo](https://www.youtube.com/watch?v=gQ_GMAMBvws))
-- **Canal**: El Constructor Libre (Tomás — 2.ª fuente del canal: WL-315 «El Constructor Libre» citado como 1.ª a texto plano en el cierre del pedido L40) — 1.ª mano (su propio cuento: la pieza alquilada con moho)
+- **Canal**: El Constructor Libre / The Free Builder (Tomás — 3.ª fuente del canal: WL-564 «El líquido de $3 que frena la humedad» en casa-calefaccion; WL-315 citado aquí antes por error era de El Bit Informado — corregido en la consolidación T10) — 1.ª mano (su propio cuento: la pieza alquilada con moho)
 - **Publicado**: 2026-08-28 · **Duración**: 31:11
 - **Dominio**: hogar/mantenimiento (sin dominio propio; candidato a general en consolidación)
 - **Fecha de ingesta**: 2026-11-17
@@ -26,7 +26,7 @@ Protocolo completo anti-moho de superficie, bien fundamentado (el título «5 mi
 
 ## Cruces
 
-- Consolidación aplazada: candidato a general/hogar; entidad El Constructor Libre (candidata si aparece 2.ª fuente); par con WL-496/621 (Permacultura Holistica — mismos valores: solución barata, física explicada, límites honestos); puente térmico ↔ WL-592 (clima interior).
+- Consolidación aplazada: candidato a general/hogar; entidad El Constructor Libre (candidata si aparece 2.ª fuente — confirmada en T10 con WL-564/627); par con WL-496/621 (Permacultura Holistica — mismos valores: solución barata, física explicada, límites honestos); puente térmico ↔ WL-592 (clima interior).
 
 ## Veredicto de triage
 
