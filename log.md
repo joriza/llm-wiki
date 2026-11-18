@@ -4405,3 +4405,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Resumen: `wiki/wl/tramo-100/resumen-WL638-diseno-sistemas-senior-codesimple.md`.
 - Tramo 100 relevo 1 (2/5). La mejor fuente técnica del relevo: arquitectura con costos explícitos; tesis «delegar el tecleo, no la decisión».
 
+## [2026-11-18] ingesta | WL-639 — El autismo ha colapsado (Liberalístico)
+
+- Fuente: `raw/wl/tramo-100/2026-08-02-el-autismo-ha-colapsado-investigadores-se-disculpan-y-advierten-de-los-peligros-.md` (91XWXI1aWIw, 35:45, 2026-08-02).
+- Resumen: `wiki/wl/tramo-100/resumen-WL639-autismo-espectro-colapso-liberalistico.md`.
+- Tramo 100 relevo 1 (3/5). Divulgación crítica seria (historia verificable, hecho/opinión separados); cautela anotada: una sola cara del debate del sobrediagnóstico.
+
