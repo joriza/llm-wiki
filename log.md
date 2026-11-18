@@ -4365,3 +4365,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-632 — Aprende BASES DE DATOS en Minutos (Diorys Michael, 04:38, Xzs3iaI7pTs)
 
 - Tramo 99 relevo 2 (fuente 8/14): microlección correcta de fundamentos de BD relacionales (4:38). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL632-bases-datos-sql-nosql-diorys-michael.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-633 — Probé CRAFT ANYTHING (MecheTech, 15:11, _NI9ugWkDaY)
+
+- Tramo 99 relevo 2 (fuente 11/14): prueba pagada de Craft Anything con costos reales, 2 banderas rojas (modo automático, revisor que pide copiar) y marco legal (EFF, sala limpia, Focalboard libre). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL633-craft-anything-mechetech.md`. Consolidación aplazada.
