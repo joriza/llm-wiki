@@ -4423,3 +4423,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Resumen: `wiki/wl/tramo-100/resumen-WL641-historia-argentina-asi-nacio-america.md`.
 - Tramo 100 relevo 1 (5/5 — relevo completo). La mejor fuente de historia del tramo: panorama territorial con honestidad metodológica (leyendas marcadas, rangos, debates abiertos). Cierre de relevo; consolidación aplazada.
 
+## [2026-11-18] ingesta | WL-642 — Pato Jebsen: reinventarse a los 50 (Sofia Contreras)
+
+- Fuente: `raw/wl/tramo-100/2026-11-16-de-mercado-libre-y-rappi-a-reinventarse-a-los-50-pato-jebsen.md` (6tX0XUvzsnk, 60:18, 2026-11-16).
+- Resumen: `wiki/wl/tramo-100/resumen-WL642-pato-jebsen-carrera-50-sofia-contreras.md`.
+- Tramo 100 relevo 2 (1/5). Primera sede del hilo «cuatro generaciones en el trabajo»; testimonio con autocrítica real.
+
