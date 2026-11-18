@@ -23,6 +23,8 @@ Su servidor personal (RTX 3060 12 GB de segunda mano, Ryzen 6c, 61 GB RAM) es el
 - **Crítica de fronteras** (WL-132): desmontaje del hype del NCM de Stanford (el 31× solo vale contra difusión en resúmenes de 48 tokens; escala mínima; la ventaja paralela es de batch=1).
 - **Seguridad** (WL-147): cinco capas de riesgo de un montaje local (GGUF, plantilla Jinja, runner, puerto abierto, pesos+herramientas) con checklist de mitigación — el complemento «auditivo» del banco de pruebas del canal.
 
+**Actualización 2026-11-18 (consolidación T15 — tramo 100, WL-646, 7.ª fuente)**: [[resumen-WL646-gemini-4-carbon-consumo-jorge-marfil]] (tramo 100, sede agentes-de-codigo) — la mejor contabilidad de costos reales de un modelo «barato que piensa mucho» vista en la wiki: prueba pagada de Gemini 4 Carbon con la separación precisa medido/reportado/inferido, la analogía «precio por token = precio del litro; lo que pagas es litro × consumo», cuotas de suscripción sin cifras publicadas reconstruidas por reportes de usuarios (~10 $/hora de enjambre), y veredicto condicionado por perfil en vez de título. Nombres de benchmarks con cautela de ASR (señalados en el resumen). Encaja con la metodología del canal: medir en propio hardware/cuenta y mostrar también los errores propios (ruedas equivocadas, skate lento). Cruza [[routing-por-coste]] (el Orchestrator de Antigravity como encarnación de producto del concepto) y [[paradoja-jevons-software]].
+
 ## Cruces
 
 [[strata]] · [[qwen]] · [[llama-cpp]] · [[hardware-para-ia-local]] · comparar con [[codesimple]] (mismo estilo económico-técnico) y [[cognix]].
