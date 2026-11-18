@@ -4399,3 +4399,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Resumen: `wiki/wl/tramo-100/resumen-WL637-liquido-3-lodo-concreto-frio-manual-clandestino.md`.
 - Tramo 100 relevo 1 (1/5). Nota: núcleo real (estabilización con cemento, compactación, curado) bajo envoltorio milagro (jabón «catalizador térmico», demo sin medición) — candidata a baja a evaluar.
 
+## [2026-11-18] ingesta | WL-638 — Diseño de sistemas como piensan los senior (CodeSimple)
+
+- Fuente: `raw/wl/tramo-100/2026-11-11-la-forma-real-en-que-los-ingenieros-senior-piensan-el-diseno-de-sistemas-arquite.md` (0GZF6iy9UZ8, 33:57, 2026-11-11).
+- Resumen: `wiki/wl/tramo-100/resumen-WL638-diseno-sistemas-senior-codesimple.md`.
+- Tramo 100 relevo 1 (2/5). La mejor fuente técnica del relevo: arquitectura con costos explícitos; tesis «delegar el tecleo, no la decisión».
+
