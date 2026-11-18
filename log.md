@@ -4465,3 +4465,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Fuente: `raw/wl/tramo-100/2026-08-09-el-peligro-de-esta-nueva-ideologia-sociopolitica-neurowokismo.md` (FgFIdKU1U5c, 54:13, 2026-08-09).
 - Resumen: `wiki/wl/tramo-100/resumen-WL648-neurowokismo-neurodiversidad-ideologia-liberalistico.md`.
 - Tramo 100 relevo 3 (2/5). Tercera pieza del arco Liberalístico del tramo (WL-639/645/648) — entidad candidata (3 fuentes) para la consolidación. Crítica semántica sólida; equivalencias morales con la historia sin matizar (señalado).
+
+## [2026-11-18] ingesta | WL-649 — Por qué argentinos y valencianos dicen «che» (Linguriosa)
+
+- Fuente: `raw/wl/tramo-100/2026-11-15-por-que-los-argentinos-y-los-valencianos-dicen-che.md` (ROPUn1qePcU, 09:26, 2026-11-15).
+- Resumen: `wiki/wl/tramo-100/resumen-WL649-che-argentina-valencia-linguriosa.md`.
+- Tramo 100 relevo 3 (3/5). Primer hilo lingüístico de la wiki; divulgación ejemplar (fuentes nombradas, descartes justificados, cierre en debate abierto). Sponsor excluido.
