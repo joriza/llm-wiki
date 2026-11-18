@@ -25,7 +25,7 @@ Caso de estudio de la Nvidia Tesla P100 (2016, $5.699 de datacenter, chatarra de
 
 ## Cruces
 
-- Consolidación aplazada: 2.ª fuente de CodeSimple → **entidad nueva candidata** (perfil: divulgación técnica en español, lección con economía incluida); «el conocimiento público mueve el precio» ↔ [[paradoja-jevons-software]] y [[la-etiqueta-miente]] (aquí la etiqueta «$78» caducó por publicación); local vs. nube ↔ WL-633 (costos API vs. suscripción) y [[routing-por-coste]]; «el software decide sobre el hierro» ↔ WL-602/605. Dominio destino: agentes-de-codigo o futuro hardware-ia.
+- **Entidad [[codesimple]] actualizada (T15)**: 6.ª fuente — el canal ya tenía entidad en ia-local desde el lote ia-local; el resumen la daba como «candidata nueva» por error de búsqueda (corregido en la entidad); «el conocimiento público mueve el precio» ↔ [[paradoja-jevons-software]] y [[la-etiqueta-miente]] (aquí la etiqueta «$78» caducó por publicación); local vs. nube ↔ WL-633 (costos API vs. suscripción) y [[routing-por-coste]]; «el software decide sobre el hierro» ↔ WL-602/605. Dominio destino: agentes-de-codigo o futuro hardware-ia.
 
 ## Veredicto de triage
 

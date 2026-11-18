@@ -26,7 +26,7 @@ Análisis crítico del diagnóstico del TDAH, espejo del tratamiento del espectr
 
 ## Cruces
 
-- **Par fuerte con WL-639** (mismo canal, mismo método, trastorno distinto): «los cerebros no cambian al cruzar una frontera; los entornos, sí» ↔ WL-639 «construcción teórica»; ambos comparten el patrón «ampliación de criterios → explosion de diagnósticos → intereses alrededor» ↔ [[la-etiqueta-miente]] (etiqueta que diluye y además exime — variante de exención, la contraria de la de WL-639). La incoherencia etiqueta-fija/realidad-temporal ↔ [[odd-metodologia]] (definiciones que no son medibles). Entidad Liberalístico con 2 fuentes — candidata a consolidación con nota de una sola cara del debate.
+- **Par fuerte con WL-639** (mismo canal, mismo método, trastorno distinto): «los cerebros no cambian al cruzar una frontera; los entornos, sí» ↔ WL-639 «construcción teórica»; ambos comparten el patrón «ampliación de criterios → explosion de diagnósticos → intereses alrededor» ↔ [[la-etiqueta-miente]] (etiqueta que diluye y además exime — variante de exención, la contraria de la de WL-639). La incoherencia etiqueta-fija/realidad-temporal ↔ [[odd-metodologia]] (definiciones que no son medibles). Entidad consolidada (T15): [[liberalistico]] (3 fuentes WL-639/645/648) con nota de parcialidad; **la parte 2 (neuroimagen) NO existe aún en raw/wl — nota de serie pendiente**; consolidar el par cuando ingrese.
 
 ## Veredicto de triage
 

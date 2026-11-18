@@ -25,7 +25,8 @@ Ensayo crítico sobre la expansión del diagnóstico de TEA: historia del concep
 
 ## Cruces
 
-- Consolidación aplazada: «la etiqueta ampliada hasta perder significado» ↔ [[la-etiqueta-miente]] (extensión no engañosa sino diluida — caso distinto del patrón estafa); «construcción teórica, no realidad medible» ↔ [[odd-metodologia]] (qué es medible antes de medir); «correlación ≠ causalidad» ↔ informatica-teoria/estadística. Par temático con salud mental — sin 2.ª fuente en el dominio aún.
+- **Entidad consolidada (T15)**: [[liberalistico]] — 3 fuentes del canal en el tramo (WL-639/645/648) con nota de parcialidad (una sola cara del debate citada) y serie TDAH parte 2 pendiente.
+- «la etiqueta ampliada hasta perder significado» ↔ [[la-etiqueta-miente]] (extensión no engañosa sino diluida — caso distinto del patrón estafa); «construcción teórica, no realidad medible» ↔ [[odd-metodologia]] (qué es medible antes de medir); «correlación ≠ causalidad» ↔ informatica-teoria/estadística. Par temático con salud mental — sin 2.ª fuente en el dominio aún.
 
 ## Veredicto de triage
 

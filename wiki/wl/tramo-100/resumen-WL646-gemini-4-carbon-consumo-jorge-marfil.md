@@ -27,7 +27,7 @@ Prueba pagada de 1.ª mano del lanzamiento de Gemini 4 Carbon (28 oct → dispon
 
 ## Cruces
 
-- Sede: agentes-de-codigo — trío de pruebas de consumo del tramo: WL-633 (Craft Anything, costos API vs. suscripción), WL-646 (contabilidad litro×consumo) ↔ [[routing-por-coste]] (Orchestrator = routing por coste dentro de una sesión — encarnación de producto del concepto); «mirar el consumo antes que el litro» ↔ WL-640 (la tarifa no es lo que pagas — misma lección del lado GPU); «cifras que Google no publica» ↔ WL-644 (la renta sobre lo opaco). Primer fuente de Jorge Marfil — candidata a entidad si hay 2.ª.
+- Sede: agentes-de-codigo — trío de pruebas de consumo del tramo: WL-633 (Craft Anything, costos API vs. suscripción), WL-646 (contabilidad litro×consumo) ↔ [[routing-por-coste]] (Orchestrator = routing por coste dentro de una sesión — encarnación de producto del concepto); «mirar el consumo antes que el litro» ↔ WL-640 (la tarifa no es lo que pagas — misma lección del lado GPU); «cifras que Google no publica» ↔ WL-644 (la renta sobre lo opaco). **Entidad [[jorge-marfil]] actualizada (T15)**: 7.ª fuente del canal — el resumen lo contaba como «1.ª fuente» por error de búsqueda; el canal ya tenía entidad en ia-local (corregido en la entidad).
 
 ## Veredicto de triage
 

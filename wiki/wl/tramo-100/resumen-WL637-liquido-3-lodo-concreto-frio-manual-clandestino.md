@@ -24,7 +24,7 @@
 
 ## Cruces
 
-- Consolidación aplazada: 4.ª fuente de [[el-manual-clandestino]] (contraste de calidad anotado para la próxima consolidación: núcleo técnico real ≈ WL-630, envoltorio milagro ≈ WL-629/631). «El mantenimiento/compactación decide» ↔ WL-617/621/626/630. «El costo real está en la ejecución, no en el material» ↔ [[la-etiqueta-miente]] (el enemigo aquí es el contratista caro, no el producto).
+- **Entidad consolidada (T15)**: [[el-manual-clandestino]] +WL-637 — 4.ª fuente, candidata a baja a evaluar anotada en la entidad. (contraste de calidad anotado para la próxima consolidación: núcleo técnico real ≈ WL-630, envoltorio milagro ≈ WL-629/631). «El mantenimiento/compactación decide» ↔ WL-617/621/626/630. «El costo real está en la ejecución, no en el material» ↔ [[la-etiqueta-miente]] (el enemigo aquí es el contratista caro, no el producto).
 
 ## Veredicto de triage
 

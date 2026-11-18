@@ -24,7 +24,7 @@ Ensayo de una sola voz (subtítulos manuales, guion cerrado) que acuña el térm
 
 ## Cruces
 
-- Tercera pieza del trío Liberalístico del tramo (WL-639 autismo, WL-645 TDAH, WL-648 neurodiversidad como ideología) — la serie forma un arco coherente: cifras → mecanismo diagnóstico → crítica del marco identitario. Entidad candidata (3 fuentes) para la consolidación.
+- Tercera pieza del trío Liberalístico del tramo (WL-639 autismo, WL-645 TDAH, WL-648 neurodiversidad como ideología) — la serie forma un arco coherente: cifras → mecanismo diagnóstico → crítica del marco identitario. **Entidad consolidada (T15): [[liberalistico]]** con nota de parcialidad y reserva sobre la generalización política.
 - [[la-etiqueta-miente]]: núcleo del argumento — etiquetas que se amplían hasta borrar límites dejan de explicar nada; «cuando una palabra sirve para nombrarlo todo, deja de explicar nada».
 - WL-647 (biotipos de García Platas): espejo inverso — ambos critican la etiqueta psicológica blanda y acaban proponiendo su propia clasificación por «tipos» de cuerpo/cerebro; misma estructura, ideologías opuestas (señalado).
 

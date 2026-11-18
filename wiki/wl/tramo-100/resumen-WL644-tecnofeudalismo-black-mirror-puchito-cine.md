@@ -24,6 +24,7 @@ Ensayo video-essay: el capítulo «Common People» (T7E1, 2025) de Black Mirror 
 
 ## Cruces
 
+- **Entidad [[puchito-cine]] actualizada (T15)**: 5.ª aparición del canal — primera con fuente del backlog WL.
 - Sede natural: futuro-programacion/ — «todo se alquila» ↔ [[paradoja-jevons-software]] y WL-640 (el conocimiento público mueve precios; la FV de $78 que triplicó su precio — otra cara de la renta sobre lo digital) y WL-633 (costos API vs. suscripción — el diseño de Rivermind vs. pay-once); «el gancho gratis → degradación del plan» ↔ [[la-etiqueta-miente]] (patrón de capa gratuita); WL-638 («puedes delegar el tecleo, no la decisión» ↔ depender de IAs por suscripción para decidir). Primer hilo «renta vs. ganancia» de la wiki.
 
 ## Veredicto de triage

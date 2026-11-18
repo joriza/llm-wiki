@@ -28,7 +28,8 @@ Lección progresiva de diseño de sistemas: partir de un servidor + una base de 
 
 ## Cruces
 
-- Consolidación aplazada: sede natural en `informatica-teoria/` junto a WL-632 (BD: aquí el porqué del pooling/réplicas/sharding vs. la microlección de fundamentos); «delegar el tecleo, no la decisión» ↔ [[odd-metodologia]] (la toma de decisiones como lo no-automatizable), WL-635 (puntos ciegos del testing con IA — mismo límite de la IA desde otro flanco), WL-633 (costos reales de ejecutar). Las colas ↔ el patrón batch/presupuesto de este pipeline.
+- **Entidad [[codesimple]] actualizada (T15)**: 6.ª fuente del canal — el resumen lo contaba como «1.ª fuente del canal en la wiki» por error de búsqueda; la entidad existe desde el lote ia-local (corregido en la entidad).
+- Sede natural en `informatica-teoria/` junto a WL-632 (BD: aquí el porqué del pooling/réplicas/sharding vs. la microlección de fundamentos); «delegar el tecleo, no la decisión» ↔ [[odd-metodologia]] (la toma de decisiones como lo no-automatizable), WL-635 (puntos ciegos del testing con IA — mismo límite de la IA desde otro flanco), WL-633 (costos reales de ejecutar). Las colas ↔ el patrón batch/presupuesto de este pipeline.
 
 ## Veredicto de triage
 

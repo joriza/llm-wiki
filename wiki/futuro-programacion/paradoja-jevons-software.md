@@ -22,6 +22,14 @@ El costo por token se desploma mientras el alquiler de GPU sube (desde julio, Ci
 
 Las dos aplicaciones dicen lo mismo desde lados opuestos de la cadena: **la eficiencia de la IA no reduce el consumo de programadores ni de cómputo — lo amplía**, y el ahorro unitario se captura aguas abajo (más proyectos, más tokens, más silicio). Para el oficio: la demanda de trabajo se mueve hacia lo que la eficiencia no abarata (criterio, arquitectura, atributos de calidad). Para el usuario de IA local: lo que se abarata por token se paga en infraestructura (RAM/GPU) — ver [[inferencia-local]].
 
+## Actualización 2026-11-18 (consolidación T15, tramo 100 — +3 fuentes)
+
+- **El conocimiento público mueve el precio** (WL-640, [[codesimple]]): la P100 de $78 triplicó su precio en 9 semanas cuando el truco se hizo público — «quien cobra el conocimiento no es el programador, es quien vende la tarjeta»: el ahorro de la eficiencia (software gratis) lo captura el dueño del recurso escaso. La variante de captura de WL-552 aplicada al hardware de segunda mano.
+- **La vuelta a la renta** (WL-644, [[puchito-cine]]): el tecnofeudalismo como economía de la renta sobre la tierra digital — el contrapeso institucional del concepto: la eficiencia no siempre democratiza; cuando el acceso es alquilado, el ahorro se convierte en cuota.
+- **Jevons cognitivo** (WL-651, Bilinkis): alumnos con IA libre resolvieron más ejercicios y aprendieron 17 % menos sin IA — «pensar se está volviendo optativo»: la eficiencia cognitiva (respuestas instantáneas) amplía el consumo de respuestas y reduce el aprendizaje; la «dificultad elegida» como lo no automatizable.
+
+Ver también [[educacion-evidencia-vs-institucion]] (WL-650/651).
+
 ## Fuentes de este concepto
 
 - [[resumen-WL602-mercado-programacion-yari-taft]] (WL-602, tramo 98) · [[resumen-WL552-zuchovicki-promedios-jevons-ia]] (WL-552, economia-argentina/).
