@@ -4453,3 +4453,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Resumen: `wiki/wl/tramo-100/resumen-WL646-gemini-4-carbon-consumo-jorge-marfil.md`.
 - Tramo 100 relevo 2 (5/5 — relevo completo). La mejor fuente del tramo para economía de agentes (litro × consumo, Orchestrator como [[routing-por-coste]] encarnado). Cierre de relevo; consolidación aplazada.
 
+
+## [2026-11-18] ingesta | WL-647 — El hombre deconstruido deja sola a su mujer (Rodrigo García Platas)
+
+- Fuente: `raw/wl/tramo-100/2026-09-03-terapeuta-explica-por-que-el-hombre-deconstruido-deja-sola-a-su-mujer-rodrigo-ga.md` (mSMhwrK_wD8, 117:59, 2026-09-03).
+- Resumen: `wiki/wl/tramo-100/resumen-WL647-terapeuta-masculinidad-deconstruida-gente-interesante.md`.
+- Tramo 100 relevo 3 (1/5). Modelo de biotipos sin respaldo verificable señalado; psicología estable (locus de control, interpretación > evento) y «compatibilidad traumática» bien usadas. Primer hilo masculinidad/terapia de parejas de la wiki.
