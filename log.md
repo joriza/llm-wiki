@@ -4459,3 +4459,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Fuente: `raw/wl/tramo-100/2026-09-03-terapeuta-explica-por-que-el-hombre-deconstruido-deja-sola-a-su-mujer-rodrigo-ga.md` (mSMhwrK_wD8, 117:59, 2026-09-03).
 - Resumen: `wiki/wl/tramo-100/resumen-WL647-terapeuta-masculinidad-deconstruida-gente-interesante.md`.
 - Tramo 100 relevo 3 (1/5). Modelo de biotipos sin respaldo verificable señalado; psicología estable (locus de control, interpretación > evento) y «compatibilidad traumática» bien usadas. Primer hilo masculinidad/terapia de parejas de la wiki.
+
+## [2026-11-18] ingesta | WL-648 — Neurowokismo: la neurodiversidad como ideología (Liberalístico)
+
+- Fuente: `raw/wl/tramo-100/2026-08-09-el-peligro-de-esta-nueva-ideologia-sociopolitica-neurowokismo.md` (FgFIdKU1U5c, 54:13, 2026-08-09).
+- Resumen: `wiki/wl/tramo-100/resumen-WL648-neurowokismo-neurodiversidad-ideologia-liberalistico.md`.
+- Tramo 100 relevo 3 (2/5). Tercera pieza del arco Liberalístico del tramo (WL-639/645/648) — entidad candidata (3 fuentes) para la consolidación. Crítica semántica sólida; equivalencias morales con la historia sin matizar (señalado).
