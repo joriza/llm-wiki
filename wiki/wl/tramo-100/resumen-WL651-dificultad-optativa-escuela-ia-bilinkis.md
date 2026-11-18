@@ -26,7 +26,7 @@ Video-essay de divulgación (voz de Bilinkis, sponsors Personal/BBVA/EY declarad
 
 ## Cruces
 
-- Par fuerte con WL-650 (PISA/constructivismo, Perfil, misma semana temática): diagnostico complementario — Perfil ataca el *paradigma de enseñanza* (constructivismo), Bilinkis ataca la *resistencia social al cambio de método* («gramática de la escolaridad») y ambas convergen en personalización + docente jerarquizado. Hilo educación ahora con 3 fuentes (WL-595, WL-650, WL-651) — candidata clara a página de concepto en la consolidación.
+- Par fuerte con WL-650 (PISA/constructivismo, Perfil, misma semana temática): diagnostico complementario — Perfil ataca el *paradigma de enseñanza* (constructivismo), Bilinkis ataca la *resistencia social al cambio de método* («gramática de la escolaridad») y ambas convergen en personalización + docente jerarquizado. Hilo educación consolidado en [[educacion-evidencia-vs-institucion]] (3 fuentes: WL-595, WL-650, WL-651).
 - «Trampa de la fluidez» ↔ hilo agentes: «lo que fluye se siente como aprender» ↔ delegación cognitiva a IA sin verificación; la regla de los tres prompts es técnica práctica de prompt crítico (par con fuentes de uso de agentes de la wiki).
 - «Dificultad optativa» ↔ [[paradoja-jevons-software]] y hilo «la IA nos hace más rápidos pero no más ricos» (WL-640): el ahorro de esfuerzo que anula el aprendizaje como caso Jevons cognitivo.
 - Estructura «hilo cuatro generaciones» (WL-642 mencionó su primera sede): aquí la apertura — cuatro generaciones con la misma tarea en mundos distintos — es la segunda sede del hilo.

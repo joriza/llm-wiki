@@ -25,9 +25,7 @@ Columna de análisis (con gráficos) que atribuye el declive sostenido de PISA e
 ## Cruces
 
 - Par directo con WL-595 (alfabetización fónicos vs. psicogénesis, mismo país y debates: «la evidencia existe, la institución no la adopta» — CABA/Mendoza/Córdoba cambiando de paradigma aparece aquí como evidencia de ese hilo). Hilo educación con 2 fuentes — candidata a página de concepto en la consolidación.
-- [[la-etiqueta-miente]]: el «aprender descubriendo» como etiqueta pedagógica que suena bien y licencia el achique — convergencia de discursos como caso.
-- WL-648 (crítica del constructivismo social) y WL-647: tercer pieza del tramo sobre teorías sociales aplicadas frente a evidencia — aunque aquí la fuente está del lado de la evidencia cognitiva.
-- WL-641/649: la comparación con Asia y el «che» (inmigración, Corona de Aragón) como micro-historias de la misma geografía comparada.
+- **Cruces**: [[educacion-evidencia-vs-institucion]] (hilo educación ×3 con WL-595 y WL-651 — esta fuente ataca el *paradigma* de enseñanza, WL-651 la *resistencia al cambio*; convergen en personalización + docente jerarquizado). WL-595 (fónicos vs. psicogénesis, mismo país y debates). [[la-etiqueta-miente]]: el «aprender descubriendo» como etiqueta pedagógica que suena bien y licencia el achique. WL-648 ([[liberalistico]]) y WL-647: tercer pieza del tramo sobre teorías sociales aplicadas frente a evidencia — aunque aquí la fuente está del lado de la evidencia cognitiva. WL-641/649: la comparación con Asia y el «che» (inmigración, Corona de Aragón) como micro-historias de la misma geografía comparada.
 
 ## Veredicto de triage
 
