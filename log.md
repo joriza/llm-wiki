@@ -4393,3 +4393,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - **CANDIDATAS A BAJA acumuladas (triage del usuario, NO ejecutadas)**: WL-622 (clara, tramo 98), WL-623 (a evaluar, tramo 98), WL-628 (a evaluar), WL-629 (clara), WL-631 (clara) — todas del cluster content-farm de los tramos 98-99.
 - **Pendientes**: (1) migración de wl/tramos 98-99 a dominios definitivos (aplazada); (2) push (orquestador); (3) nombres ASR sin confirmar: WL-624 «Noose Research» (¿Nous Research?), WL-636 «Godart» (¿Goddard?), «Big Slip» (¿Big Sleep?), «Sky Light» (¿Skylight? no identificado); (4) WL-635 «Red Summer» sin confirmar.
 - **Commits T10**: 1596a489 (entidades + corrección WL-626), 85ae1173 (la-etiqueta-miente), 0852ebf4 (hub agentes), + este bloque (overview/sintesis/log).
+## [2026-11-18] ingesta | WL-637 — Este líquido de $3 ENDURECE el lodo AL INSTANTE (El Manual Clandestino)
+
+- Fuente: `raw/wl/tramo-100/2026-07-12-este-liquido-de-3-endurece-el-lodo-al-instante-los-constructores-quieren-que-se-.md` (42tnvwHl-jA, 15:15, 2026-07-12).
+- Resumen: `wiki/wl/tramo-100/resumen-WL637-liquido-3-lodo-concreto-frio-manual-clandestino.md`.
+- Tramo 100 relevo 1 (1/5). Nota: núcleo real (estabilización con cemento, compactación, curado) bajo envoltorio milagro (jabón «catalizador térmico», demo sin medición) — candidata a baja a evaluar.
+
