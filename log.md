@@ -4471,3 +4471,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Fuente: `raw/wl/tramo-100/2026-11-15-por-que-los-argentinos-y-los-valencianos-dicen-che.md` (ROPUn1qePcU, 09:26, 2026-11-15).
 - Resumen: `wiki/wl/tramo-100/resumen-WL649-che-argentina-valencia-linguriosa.md`.
 - Tramo 100 relevo 3 (3/5). Primer hilo lingüístico de la wiki; divulgación ejemplar (fuentes nombradas, descartes justificados, cierre en debate abierto). Sponsor excluido.
+
+## [2026-11-18] ingesta | WL-650 — Qué revelan las pruebas PISA de nuestra forma de enseñar (Perfil)
+
+- Fuente: `raw/wl/tramo-100/2026-09-17-que-revelan-las-pruebas-pisa-de-nuestra-forma-de-ensenar.md` (tqH_P8ktZLg, 16:32, 2026-09-17).
+- Resumen: `wiki/wl/tramo-100/resumen-WL650-pisa-constructivismo-ensenanza-directa-perfil.md`.
+- Tramo 100 relevo 3 (4/5). Par directo con WL-595 (alfabetización) — hilo educación con 2 fuentes, candidata a concepto. Atribución causal PISA↔constructivismo con más contundencia que matices (señalado).
