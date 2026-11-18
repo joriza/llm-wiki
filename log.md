@@ -4441,3 +4441,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Resumen: `wiki/wl/tramo-100/resumen-WL644-tecnofeudalismo-black-mirror-puchito-cine.md`.
 - Tramo 100 relevo 2 (3/5). Primer hilo «renta vs. ganancia» de la wiki; marco correcto, falta atribución a Varoufakis y exploración de alternativas (señalado).
 
+## [2026-11-18] ingesta | WL-645 — TDAH: por qué las cifras no encajan (Liberalístico)
+
+- Fuente: `raw/wl/tramo-100/2026-07-12-por-que-las-cifras-no-encajan-neuropsicologa-explica-la-verdad-sobre-el-diagnost.md` (T_mOhxIrT4s, 29:58, 2026-07-12).
+- Resumen: `wiki/wl/tramo-100/resumen-WL645-tdah-diagnostico-cifras-liberalistico.md`.
+- Tramo 100 relevo 2 (4/5). Par fuerte con WL-639 (mismo canal/método, trastorno distinto); Liberalístico con 2 fuentes — entidad candidata para la consolidación; espera de la parte 2 (neuroimagen) antes de consolidar.
+
