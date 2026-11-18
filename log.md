@@ -4411,3 +4411,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Resumen: `wiki/wl/tramo-100/resumen-WL639-autismo-espectro-colapso-liberalistico.md`.
 - Tramo 100 relevo 1 (3/5). Divulgación crítica seria (historia verificable, hecho/opinión separados); cautela anotada: una sola cara del debate del sobrediagnóstico.
 
+## [2026-11-18] ingesta | WL-640 — La GPU de $78 que triplicó su precio (CodeSimple)
+
+- Fuente: `raw/wl/tramo-100/2026-11-17-la-gpu-de-78-para-ia-que-triplico-su-precio-en-9-semanas.md` (yyDF1P4sU4w, 13:10, 2026-11-17).
+- Resumen: `wiki/wl/tramo-100/resumen-WL640-gpu-p100-ia-local-codesimple.md`.
+- Tramo 100 relevo 1 (4/5). 2.ª fuente de CodeSimple (tras WL-638) — entidad nueva candidata para la consolidación aplazada.
+
