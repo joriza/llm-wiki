@@ -4369,3 +4369,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-633 — Probé CRAFT ANYTHING (MecheTech, 15:11, _NI9ugWkDaY)
 
 - Tramo 99 relevo 2 (fuente 11/14): prueba pagada de Craft Anything con costos reales, 2 banderas rojas (modo automático, revisor que pide copiar) y marco legal (EFF, sala limpia, Focalboard libre). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL633-craft-anything-mechetech.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-634 — Le pedimos a la IA que encontrara la ATLÁNTIDA (Código Paranoia, 17:24, SvOoH6bJHuc)
+
+- Tramo 99 relevo 2 (fuente 12/14, 5.ª útil — cierre de frontera): método reproducible contra el mito (20 pistas del griego, 8 candidatos puntuados); hallazgo de los números que cuadran (trirremes 9.000 años anacrónicos). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL634-atlantida-ia-codigo-paranoia.md`. Consolidación aplazada.
