@@ -4353,3 +4353,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-629 — Esta mezcla de $3 ENFRÍA tu techo de lámina (El Manual Clandestino, 15:52, uw017W74bM8)
 
 - Tramo 99 relevo 1 (fuente 5/14 — cluster content-farm): fórmula cal+jabón+alumbre con física imposible presentada como demo — señalado fuerte; candidata clara a baja. Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL629-cristal-titanio-techo-lamina-manual-clandestino.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-630 — Este secreto de $2 detiene las grietas / zanja de escombro (El Manual Clandestino, 25:33, edrXpCTg_hQ)
+
+- Tramo 99 relevo 2 (fuente 6/14): la zanja de escombro de Wright con física correcta, historia verificable y límites honestos — la excepción del cluster content-farm (su título conspirativo desmentido por su propio contenido). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL630-zanja-escombro-wright-manual-clandestino.md`. Consolidación aplazada.
