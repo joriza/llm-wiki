@@ -4345,3 +4345,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-627 — El Líquido De $2 Que Impermeabiliza Cualquier Azotea (El Constructor Libre, 18:58, KqZx_DYNBxs)
 
 - Tramo 99 relevo 1 (fuente 3/14 — cluster content-farm «PARA SIEMPRE»): técnica real (lechada cemento blanco + resina) con envase clickbait conspirativo señalado en capas; funnel a manual pago. Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL627-impermeabilizante-2-constructor-libre.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-628 — Mix USED MOTOR OIL with WHITE CEMENT (Inventor New, 15:38, h4TbFoYkcM4)
+
+- Tramo 99 relevo 1 (fuente 4/14 — cluster content-farm): experimento decorativo honesto en alcance pero título engañoso y sin advertencias ambientales sobre aceite usado — señalado fuerte; candidata a baja. Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL628-aceite-motor-cemento-inventor-new.md`. Consolidación aplazada.
