@@ -4361,3 +4361,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-631 — Esta mezcla de $4 pavimenta cualquier patio (El Manual Clandestino, 16:55, Og8F6QlbV68)
 
 - Tramo 99 relevo 2 (fuente 7/14 — cluster content-farm): asfalto casero con aceite quemado — diagnóstico correcto pero CANDIDATA CLARA A BAJA por contaminación de suelo y sin validación de durabilidad. Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL631-asfalto-casero-patio-manual-clandestino.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-632 — Aprende BASES DE DATOS en Minutos (Diorys Michael, 04:38, Xzs3iaI7pTs)
+
+- Tramo 99 relevo 2 (fuente 8/14): microlección correcta de fundamentos de BD relacionales (4:38). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL632-bases-datos-sql-nosql-diorys-michael.md`. Consolidación aplazada.
