@@ -4341,3 +4341,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-626 — MOHO en la PARED (El Constructor Libre, 31:11, gQ_GMAMBvws)
 
 - Tramo 99 relevo 1 (fuente 2/14): protocolo anti-moho bien fundamentado (alcohol 70, tiempo de contacto, puente térmico); 2.ª fuente del canal (El Constructor Libre). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL626-moho-pared-alcohol-70-constructor-libre.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-627 — El Líquido De $2 Que Impermeabiliza Cualquier Azotea (El Constructor Libre, 18:58, KqZx_DYNBxs)
+
+- Tramo 99 relevo 1 (fuente 3/14 — cluster content-farm «PARA SIEMPRE»): técnica real (lechada cemento blanco + resina) con envase clickbait conspirativo señalado en capas; funnel a manual pago. Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL627-impermeabilizante-2-constructor-libre.md`. Consolidación aplazada.
