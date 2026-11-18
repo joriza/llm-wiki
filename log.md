@@ -4373,3 +4373,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-634 — Le pedimos a la IA que encontrara la ATLÁNTIDA (Código Paranoia, 17:24, SvOoH6bJHuc)
 
 - Tramo 99 relevo 2 (fuente 12/14, 5.ª útil — cierre de frontera): método reproducible contra el mito (20 pistas del griego, 8 candidatos puntuados); hallazgo de los números que cuadran (trirremes 9.000 años anacrónicos). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL634-atlantida-ia-codigo-paranoia.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-635 — La IA escribe tu código y tus tests (Fazt Code, 20:49, uZ1QVeKvo_0)
+
+- Tramo 99 relevo 3 FINAL (fuente 13/14): 3 técnicas de testing para la era agentes (adversarial, property-based, fuzzing) con demo y fallo real; tesis «misma IA = mismos puntos ciegos». Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL635-ia-codigo-tests-puntos-ciegos-fazt-code.md`. Consolidación aplazada.
