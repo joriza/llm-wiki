@@ -4333,3 +4333,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - **Contradicciones entre fuentes**: ninguna dura. Verificadas: WL-601 vs. página El Niño (cifras consistentes: ONI 2,5; 83 % NOAA); WL-615 vs. WL-594 (complementarias); WL-605/608 (mismo período, lógicas opuestas de mercado — la «contradicción» es geográfica, no factual). En WL-624: inconsistencia interna de WL-617 (273 d vs. 9 meses vs. 180 d) ya señalada en su resumen.
 - **Pendientes**: (1) baja de WL-622 (candidata clara) y evaluación de WL-623 — decisión del usuario; (2) migración de resúmenes/raws de `wl/tramo-98/` a dominios definitivos — aplazada por orden; (3) push — del orquestador; (4) verificación abierta de WL-624: «Noose Research» nombre ASR sin confirmar.
 - **Commits T6**: 07dfd6de (obsidian-memoria-agentes), 97c5f5f5 (jevons), d8cd219b (entidades), 46ca87f7 (cableado), + este bloque con overview/sintesis.
+
+## [2026-11-17] ingesta | WL-625 — Cómo unos CAMPESINOS derrotaron a ESTADOS UNIDOS (Historia a Cañonazos, 16:12, ZYPkJXgO93Q)
+
+- Tramo 99 relevo 1 (cache fresco de 14; fuente 1/14): historia completa del Viet Cong con cronología verificable y matices (Tet derrota militar/victoria mediática). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL625-viet-cong-historia-canonazos.md`. Consolidación aplazada.
