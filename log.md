@@ -4357,3 +4357,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-630 — Este secreto de $2 detiene las grietas / zanja de escombro (El Manual Clandestino, 25:33, edrXpCTg_hQ)
 
 - Tramo 99 relevo 2 (fuente 6/14): la zanja de escombro de Wright con física correcta, historia verificable y límites honestos — la excepción del cluster content-farm (su título conspirativo desmentido por su propio contenido). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL630-zanja-escombro-wright-manual-clandestino.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-631 — Esta mezcla de $4 pavimenta cualquier patio (El Manual Clandestino, 16:55, Og8F6QlbV68)
+
+- Tramo 99 relevo 2 (fuente 7/14 — cluster content-farm): asfalto casero con aceite quemado — diagnóstico correcto pero CANDIDATA CLARA A BAJA por contaminación de suelo y sin validación de durabilidad. Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL631-asfalto-casero-patio-manual-clandestino.md`. Consolidación aplazada.
