@@ -4337,3 +4337,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-625 — Cómo unos CAMPESINOS derrotaron a ESTADOS UNIDOS (Historia a Cañonazos, 16:12, ZYPkJXgO93Q)
 
 - Tramo 99 relevo 1 (cache fresco de 14; fuente 1/14): historia completa del Viet Cong con cronología verificable y matices (Tet derrota militar/victoria mediática). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL625-viet-cong-historia-canonazos.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-626 — MOHO en la PARED (El Constructor Libre, 31:11, gQ_GMAMBvws)
+
+- Tramo 99 relevo 1 (fuente 2/14): protocolo anti-moho bien fundamentado (alcohol 70, tiempo de contacto, puente térmico); 2.ª fuente del canal (El Constructor Libre). Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL626-moho-pared-alcohol-70-constructor-libre.md`. Consolidación aplazada.
