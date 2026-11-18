@@ -4447,3 +4447,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Resumen: `wiki/wl/tramo-100/resumen-WL645-tdah-diagnostico-cifras-liberalistico.md`.
 - Tramo 100 relevo 2 (4/5). Par fuerte con WL-639 (mismo canal/método, trastorno distinto); Liberalístico con 2 fuentes — entidad candidata para la consolidación; espera de la parte 2 (neuroimagen) antes de consolidar.
 
+## [2026-11-18] ingesta | WL-646 — Gemini 4 Carbon: prueba de consumo (Jorge Marfil)
+
+- Fuente: `raw/wl/tramo-100/2026-11-18-gemini-4-carbon-es-una-locura-este-modelo-es-brutal.md` (iA0awhjIsIc, 36:04, 2026-11-18).
+- Resumen: `wiki/wl/tramo-100/resumen-WL646-gemini-4-carbon-consumo-jorge-marfil.md`.
+- Tramo 100 relevo 2 (5/5 — relevo completo). La mejor fuente del tramo para economía de agentes (litro × consumo, Orchestrator como [[routing-por-coste]] encarnado). Cierre de relevo; consolidación aplazada.
+
