@@ -4477,3 +4477,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Fuente: `raw/wl/tramo-100/2026-09-17-que-revelan-las-pruebas-pisa-de-nuestra-forma-de-ensenar.md` (tqH_P8ktZLg, 16:32, 2026-09-17).
 - Resumen: `wiki/wl/tramo-100/resumen-WL650-pisa-constructivismo-ensenanza-directa-perfil.md`.
 - Tramo 100 relevo 3 (4/5). Par directo con WL-595 (alfabetización) — hilo educación con 2 fuentes, candidata a concepto. Atribución causal PISA↔constructivismo con más contundencia que matices (señalado).
+
+## [2026-11-18] ingesta | WL-651 — Sacar el celular no alcanza para salvar la escuela (Santiago Bilinkis)
+
+- Fuente: `raw/wl/tramo-100/2026-10-02-sacar-el-celular-no-alcanza-para-salvar-la-escuela.md` (saiFmBJStz4, 25:37, 2026-10-02).
+- Resumen: `wiki/wl/tramo-100/resumen-WL651-dificultad-optativa-escuela-ia-bilinkis.md`.
+- Tramo 100 relevo 3 (5/5 — relevo completo). Autocorrección del propio autor (desmiente su libro sobre Hole in the Wall); «gramática de la escolaridad», trampa de la fluidez y regla de los tres prompts. Hilo educación con 3 fuentes (WL-595/650/651) — candidata clara a concepto. SKIP-DUPLICATE pre-flight: rfRFwXnk660 (índice 17, ya procesada). Cierre de relevo; consolidación aplazada.
