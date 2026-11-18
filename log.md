@@ -4349,3 +4349,7 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 ## [2026-11-17] ingesta | WL-628 — Mix USED MOTOR OIL with WHITE CEMENT (Inventor New, 15:38, h4TbFoYkcM4)
 
 - Tramo 99 relevo 1 (fuente 4/14 — cluster content-farm): experimento decorativo honesto en alcance pero título engañoso y sin advertencias ambientales sobre aceite usado — señalado fuerte; candidata a baja. Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL628-aceite-motor-cemento-inventor-new.md`. Consolidación aplazada.
+
+## [2026-11-17] ingesta | WL-629 — Esta mezcla de $3 ENFRÍA tu techo de lámina (El Manual Clandestino, 15:52, uw017W74bM8)
+
+- Tramo 99 relevo 1 (fuente 5/14 — cluster content-farm): fórmula cal+jabón+alumbre con física imposible presentada como demo — señalado fuerte; candidata clara a baja. Raw → `raw/wl/tramo-99/`, resumen → `wiki/wl/tramo-99/resumen-WL629-cristal-titanio-techo-lamina-manual-clandestino.md`. Consolidación aplazada.
