@@ -4429,3 +4429,9 @@ Tema de tramo: técnica ×3 (WL-471/472/473 — python y electrónica), historia
 - Resumen: `wiki/wl/tramo-100/resumen-WL642-pato-jebsen-carrera-50-sofia-contreras.md`.
 - Tramo 100 relevo 2 (1/5). Primera sede del hilo «cuatro generaciones en el trabajo»; testimonio con autocrítica real.
 
+## [2026-11-18] ingesta | WL-643 — Sunthalpy, climatización de baja entalpía (De Cero a Ingeniero)
+
+- Fuente: `raw/wl/tramo-100/2026-10-29-ingeniero-inventa-la-casa-mas-eficiente-del-mundo-omar-suarez-sunthalpy.md` (FzibdGNyZdo, 93:46, 2026-10-29).
+- Resumen: `wiki/wl/tramo-100/resumen-WL643-sunthalpy-baja-entalpia-omar-suarez.md`.
+- Tramo 100 relevo 2 (2/5). La mejor fuente de ingeniería del tramo: física correcta, medición verificable, límites confesados, sesgo declarado.
+
