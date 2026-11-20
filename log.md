@@ -4617,3 +4617,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta | WL-689 — Nunca reveles tu próximo paso (tramo 102 relevo 7, 2/5)
 - Fuente: `raw/wl/tramo-102/2026-11-20-nunca-reveles-tu-proximo-paso-haz-que-te-respeten-discurso-motivacional-de-jorda.md` (typz45j_fNY, Secretos de la Sabiduría, 17:28, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL689-nunca-reveles-tu-proximo-paso-secretos-sabiduria.md`.
 - Tesis: reserva estratégica y límites con consecuencias. ADVERTENCIA: atribución a Jordan Peterson sin sustento — content-farm motivacional; candidata a baja.
+
+## [2026-11-20] ingesta | WL-690 — La psicología del hombre-niño (tramo 102 relevo 7, 3/5)
+- Fuente: `raw/wl/tramo-102/2026-10-29-la-psicologia-del-hombre-nino-por-que-algunos-hombres-nunca-maduran.md` (RRt-dbwV60E, Intimind, 14:15, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL690-hombre-nino-puer-aeternus-intimind.md`.
+- Tesis: Puer Aeternus — el potencial como droga, la fuga de la incomodidad como mecanismo; madurar = agencia y promesas cumplidas. 1.ª fuente del canal Intimind.
