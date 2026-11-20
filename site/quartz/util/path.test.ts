@@ -228,7 +228,8 @@ describe("link strategies", () => {
     test("from a/b/index", () => {
       const cur = "a/b/index" as FullSlug
       assert.strictEqual(path.transformLink(cur, "a/b/d", opts), "../../a/b/d")
-      assert.strictEqual(path.transformLink(cur, "a/b", opts), "../../a/b")
+      // "a/b" resolves to the folder a/b/ (contains a/b/index): folder links keep the trailing slash
+      assert.strictEqual(path.transformLink(cur, "a/b", opts), "../../a/b/")
       assert.strictEqual(path.transformLink(cur, "index", opts), "../../")
     })
 
@@ -270,6 +271,10 @@ describe("link strategies", () => {
     test("from index", () => {
       const cur = "index" as FullSlug
       assert.strictEqual(path.transformLink(cur, "d", opts), "./a/b/d")
+      // bare folder name: allSlugs contains a/b/index → folder link gets trailing slash
+      assert.strictEqual(path.transformLink(cur, "a/b", opts), "./a/b/")
+      // unique file-name match wins over folder heuristic (early return, no slash)
+      assert.strictEqual(path.transformLink(cur, "c", opts), "./a/b/c")
       assert.strictEqual(path.transformLink(cur, "h", opts), "./e/g/h")
       assert.strictEqual(path.transformLink(cur, "a/b/index", opts), "./a/b/")
       assert.strictEqual(path.transformLink(cur, "index", opts), "./")
