@@ -4496,3 +4496,6 @@ Consolidación aplazada del tramo 100 (WL-637..651) completada en 3 commits por 
 ## [2026-11-20] ingesta | WL-654 Linux ligero para PC viejas (Abraham Francisco Baez) — tramo 101 relevo 1 (3/5)
 
 - Fuente: E9hQu-uogew (13:46, ASR). Resumen: `wiki/wl/tramo-101/resumen-WL654-linux-ligero-pc-viejas-1gb-ram-abraham-baez.md`. Nombre de la distro dudoso por ASR — señalado en el resumen; verificación pendiente a consolidación.
+## [2026-11-20] ingesta | WL-655 Organizing Intelligence (DeepMind) — iabro — tramo 101 relevo 1 (5/5 útiles)
+
+- Fuente: LklC0Ffwz7Q (16:45, ASR). Resumen: `wiki/wl/tramo-101/resumen-WL655-organizing-intelligence-deepmind-agentes-iabro.md`. Cableado al hub agentes-de-codigo aplazado a T17 (superficies de este relevo no incluyen wiki/general/).
