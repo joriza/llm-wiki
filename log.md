@@ -4594,3 +4594,8 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-07-28-el-balin-bennett-exploto-cuando-se-refirieron-al-racismo-en-argentina.md` (vXdMPl1Zasg, La Interna, 07:18, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL684-balin-bennett-racismo-argentina-la-interna.md`.
 - Tesis: testimonio anecdótico como refutación del señalamiento de racismo; «campaña montada» sin evidencia (señalado). 1.ª fuente del canal.
+
+## [2026-11-20] ingesta | WL-685 — Argentina, la respuesta que el mundo necesita (tramo 102 relevo 6, 3/5)
+
+- Fuente: `raw/wl/tramo-102/2026-06-26-por-que-argentina-es-la-respuesta-que-el-mundo-necesita.md` (VFX2qDbw8wc, Popurrí, 11:42, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL685-argentina-respuesta-del-mundo-popurri.md`.
+- Tesis: identidad por proyecto y no por sangre; dos excepcionalismos; el ensayo más sólido del bloque argentino. 1.ª fuente del canal.
