@@ -26,6 +26,7 @@ Entrevista larga a Rodrigo García Platas, psicopedagogo y terapeuta mexicano (~
 
 - Par temático con la crítica al diagnóstico psicológico del tramo: WL-645/WL-639 (Liberalístico: el DSM cambia definiciones, diagnóstico por entrevistas) — este va más allá: el «diagnóstico por leer el cuerpo». Cautela compartida contra etiquetas que explican todo.
 - [[la-etiqueta-miente]]: «yo soy colérica, me lo dijo un test» — el test etiqueta el comportamiento, no la biología; el propio modelo avisa contra la hiperidentificación del «culto al ego».
+- **Entidad**: [[rodrigo-garcia-platas]] (creada en la consolidación T17 con la 2.ª fuente WL-653 — nota de parcialidad compartida por ambas apariciones).
 - Primer hilo «masculinidad/genero» de la wiki (junto al «cuatro generaciones» de WL-642, que trata el quiebre generacional laboral, no terapéutico) — candidata a página de concepto si aparece 2.ª fuente.
 
 ## Veredicto de triage

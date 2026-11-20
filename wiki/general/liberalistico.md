@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (canal de divulgación crítica — Cristina Soto, neuropsicóloga).
 - **Dominio**: `general/` (ciencia/salud mental, divulgación crítica — sin dominio propio).
 - **Creada**: 2026-11-18 (consolidación T15, tramo 100 — umbral ≥2: 3 fuentes).
-- **Fuentes**: [[resumen-WL639-autismo-espectro-colapso-liberalistico]] (WL-639 — historia del concepto de autismo y mecánica del cambio de cifras) · [[resumen-WL645-tdah-diagnostico-cifras-liberalistico]] (WL-645 — mecánica socioeconómica del diagnóstico del TDAH; **parte 1 de 2**) · [[resumen-WL648-neurowokismo-neurodiversidad-ideologia-liberalistico]] (WL-648 — la neurodiversidad como ideología: crítica del marco identitario).
+- **Fuentes**: [[resumen-WL639-autismo-espectro-colapso-liberalistico]] (WL-639 — historia del concepto de autismo y mecánica del cambio de cifras) · [[resumen-WL645-tdah-diagnostico-cifras-liberalistico]] (WL-645 — mecánica socioeconómica del diagnóstico del TDAH; **parte 1 de 2**) · [[resumen-WL648-neurowokismo-neurodiversidad-ideologia-liberalistico]] (WL-648 — la neurodiversidad como ideología: crítica del marco identitario) · [[resumen-WL652-neurociencia-aprendizaje-estudiar-manipular-liberalistico]] (WL-652 — el sistema educativo: aprender vs. estudiar, motivar como manipular; 4.ª fuente).
 
 ## Identidad
 
@@ -23,4 +23,4 @@ Canal de **divulgación crítica en salud mental** con una sola voz guionizada (
 
 **WL-645 es la parte 1 de 2** (anuncia continuación sobre neuroimagen: la paradoja de décadas de estudios con diferencias medidas vs. la cita textual del DSM-5 de que los metaanálisis no muestran diferencias). **La parte 2 NO existe en `raw/wl/`** (verificado en la consolidación T15 por búsqueda) — pendiente de aparición en la lista WL; consolidar el par cuando ingrese, antes de tomar cualquier afirmación sobre neuroimagen.
 
-**Ver también**: [[resumen-WL639-autismo-espectro-colapso-liberalistico]] · [[resumen-WL645-tdah-diagnostico-cifras-liberalistico]] · [[resumen-WL648-neurowokismo-neurodiversidad-ideologia-liberalistico]] · [[la-etiqueta-miente]] · [[educacion-evidencia-vs-institucion]] (vector escuela).
+**Ver también**: [[resumen-WL639-autismo-espectro-colapso-liberalistico]] · [[resumen-WL645-tdah-diagnostico-cifras-liberalistico]] · [[resumen-WL648-neurowokismo-neurodiversidad-ideologia-liberalistico]] · [[resumen-WL652-neurociencia-aprendizaje-estudiar-manipular-liberalistico]] · [[la-etiqueta-miente]] · [[educacion-evidencia-vs-institucion]] (vector escuela).

@@ -27,6 +27,7 @@ Tutorial paso a paso completo de **dual boot Windows + Bliss OS 15** (Android x8
 - **informatica** (dual boot / Android x86): par técnico con WL-538 (Linux en PC) y WL-566 (distros); Bliss OS ↔ [[self-hosting]] (repurpose de hardware viejo como Android) y [[kit-usb-portable]].
 - «Espera a los servicios de Play Store» ↔ hilo de «no es un bug, es un estado de actualización» (eco de percepción-de-regresion-de-modelos: diagnosticar antes de culpar al sistema).
 - «Emulador vs nativo» ↔ [[routing-por-coste]] (nativo = rendimiento sin capa) y WL-472 (Android en PC como ecosistema de apps).
+- **Entidad**: [[abraham-baez]] (creada en la consolidación T17 con la 2.ª fuente WL-654).
 - Abraham Francisco Baez entidad candidata (1.ª fuente, texto plano).
 
 ## Veredicto de triage
