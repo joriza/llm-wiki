@@ -4609,3 +4609,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-04-26-la-verdadera-casta-que-nadie-se-anima-a-tocar.md` (-L4DSyiyxbg, Análisis Bien Argentino, 16:17, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL687-verdadera-casta-judicial-analisis-bien-argentino.md`.
 - Tesis: la casta judicial — acceso, selección por rosca, cero métricas; propuesta en tres frentes. 3.ª fuente del canal (WL-682/686).
+
+## [2026-11-20] ingesta | WL-688 — Por qué ya nadie te contesta cuando buscas trabajo (tramo 102 relevo 7, 1/5)
+- Fuente: `raw/wl/tramo-102/2026-11-11-por-que-ya-nadie-te-contesta-cuando-buscas-trabajo.md` (U0wun_0l1Fg, Economía Sin Anestesia, 26:27, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL688-nadie-te-contesta-buscas-trabajo.md`.
+- Tesis: ofertas fantasma + filtros ATS + IA en ambos lados = silencio sistémico; indefensión aprendida como consecuencia. 3.ª fuente del canal (WL-673/674).
