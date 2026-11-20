@@ -4559,3 +4559,8 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-11-09-por-que-los-hombres-estan-abandonando-la-universidad-y-el-sistema-esta-colapsand.md` (d6BEtxDqdWE, Mente Masculina, 22:21, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL677-hombres-abandonan-universidad-mente-masculina.md`.
 - Tesis: «boicot sin reunión» al sistema universitario; hilo «retirada masculina» con WL-675; cableado a [[educacion-evidencia-vs-institucion]]. 2.ª fuente del canal (entidad candidata para T19).
+
+## [2026-11-20] ingesta | WL-678 — Experto N°1 en Comunicación (tramo 102 relevo 5, 1/5)
+
+- Fuente: `raw/wl/tramo-102/2026-10-17-experto-n1-en-comunicacion-que-le-esta-pasando-a-la-nueva-generacion.md` (huZAzk7Rwdg, Darle Forma, 134:01, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL678-experto-comunicacion-nueva-generacion-darle-forma.md`.
+- Tesis: método de comunicación (teoría/práctica/autoconocimiento) y testimonio docente sobre la nueva generación; cableado a [[educacion-evidencia-vs-institucion]]. 1.ª fuente del canal.
