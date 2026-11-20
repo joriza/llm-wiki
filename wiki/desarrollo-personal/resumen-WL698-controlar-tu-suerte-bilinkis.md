@@ -1,6 +1,6 @@
 # WL-698 — Podés controlar tu suerte y no lo sabías (Futuro en Construcción, Santiago Bilinkis)
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=5KVeOu-JABg) · Canal: Santiago Bilinkis (Futuro en Construcción) · 2026-11-20 · 21:55 · Raw: `raw/wl/tramo-103/2026-11-20-por-que-a-algunos-todo-les-sale-bien.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=5KVeOu-JABg) · Canal: Santiago Bilinkis (Futuro en Construcción) · 2026-11-20 · 21:55 · Raw: `raw/desarrollo-personal/2026-11-20-por-que-a-algunos-todo-les-sale-bien.md`
 
 ## De qué trata
 
@@ -24,3 +24,4 @@ Divulgación bien construida: cada afirmación viene con su experimento o invest
 
 - [[santiago-bilinkis]] (9.ª fuente), [[sesgos-de-decision]] (retrospectiva) y [[comparacion-social]] (vara invertida para juzgar a otros); hilo suerte/éxito con WL-668 (Bilinkis, estrés financiero).
 - «Pásala para adelante» como práctica concreta de ayuda informal: tangencial con WL-675 (Mente Masculina, retirada de la ayuda informal — contraste).
+- [[santiago-bilinkis]] — entidad del canal (consolidación tramo 103); hilo de decisiones bajo presión con WL-668.

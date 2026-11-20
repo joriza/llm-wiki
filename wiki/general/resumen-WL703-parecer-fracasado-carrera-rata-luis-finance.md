@@ -1,6 +1,6 @@
 # WL-703 — Por qué tienes que parecer un fracasado para escapar de la carrera de la rata
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=zF8HqsNQw0E) · Canal: Luis Finance · 2026-09-21 · 24:08 · Raw: `raw/wl/tramo-103/2026-09-21-por-que-tienes-que-parecer-un-fracasado-para-escapar-de-la-carrera-de-la-rata.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=zF8HqsNQw0E) · Canal: Luis Finance · 2026-09-21 · 24:08 · Raw: `raw/general/2026-09-21-por-que-tienes-que-parecer-un-fracasado-para-escapar-de-la-carrera-de-la-rata.md`
 
 ## De qué trata
 
@@ -26,3 +26,4 @@ Formato motivacional-storytelling sin una sola fuente citada ni dato verificable
 - Hilo dinero/conducta: WL-668 (Bilinkis, estrés financiero), WL-671 (Veblen: consumo conspicuo — WL-703 es el contrapunto exacto), WL-693 (Economía Sin Anestesia, desmontando el gasto de apariencia), WL-702 (7 pequeños gastos).
 - [[la-etiqueta-miente]] (la fachada de deuda como etiqueta que miente), [[sesgos-de-decision]] y [[comparacion-social]] (la presión de emparejar consumo).
 - Libertad como horas propias: tangencial con el hilo trabajo/carrera (WL-674, WL-701).
+- [[dinero-conducta]] — página de concepto del hilo dinero/conducta (consolidación tramo 103); pieza narrativa del hilo, sin datos propios.

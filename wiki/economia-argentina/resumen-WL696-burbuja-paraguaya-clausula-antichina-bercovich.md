@@ -1,6 +1,6 @@
 # WL-696 — Milei y Galperín en el espejo de la burbuja paraguaya, y la cláusula antichina (Bercovich en YAQPA)
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=THOcdBCzmwc) · Canal: Radio Con Vos 89.9 (YAQPA, Ernesto Tenembaum) · 2026-11-06 · 27:35 · Raw: `raw/wl/tramo-103/2026-11-06-milei-y-galperin-en-el-espejo-de-la-burbuja-paraguaya-y-la-clausula-antichina-l-.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=THOcdBCzmwc) · Canal: Radio Con Vos 89.9 (YAQPA, Ernesto Tenembaum) · 2026-11-06 · 27:35 · Raw: `raw/economia-argentina/2026-11-06-milei-y-galperin-en-el-espejo-de-la-burbuja-paraguaya-y-la-clausula-antichina-l-.md`
 
 ## De qué trata
 
@@ -27,3 +27,4 @@ Análisis periodístico sólido con marco ideológico explícito (Bercovich, izq
 
 - Hilo Argentina/economía: WL-658/661/667/680-682/684-687/692-693; espejo de «modelo exitoso» con WL-686 (desenganche) y WL-663 (soberanismo pseudolegal, contraste).
 - Economía/política tech-geo: [[la-etiqueta-miente]] (discurso del «país exitoso» repetido sin evidencia).
+- Hilo Argentina: [[la-etiqueta-miente]] — cruces del bloque argentino (consolidación tramo 103).

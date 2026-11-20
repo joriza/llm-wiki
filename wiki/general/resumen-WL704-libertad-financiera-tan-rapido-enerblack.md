@@ -1,6 +1,6 @@
 # WL-704 — Libertad financiera tan rápido que es casi injusto
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=pOz17tVRa7Q) · Canal: Enerblack · 2026-11-20 · 03:44 · Raw: `raw/wl/tramo-103/2026-11-20-libertad-financiera-tan-rapido-que-es-casi-injusto.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=pOz17tVRa7Q) · Canal: Enerblack · 2026-11-20 · 03:44 · Raw: `raw/general/2026-11-20-libertad-financiera-tan-rapido-que-es-casi-injusto.md`
 
 ## De qué trata
 
@@ -24,3 +24,4 @@ Microlección correcta y compacta: los números son exactos (25× = regla del 4 
 - Hilo dinero/conducta: WL-668 (Bilinkis), WL-669 (economía conductual), WL-702 (7 pequeños gastos — «eliminar gasto fijo vale más que un aumento» es exactamente su tesis), WL-703 (carrera de la rata: la brecha y el cruce ingresos-pasivos > gastos).
 - El «número» y los meses de libertad: contrapunto cuantitativo de WL-703 (narrativo); liberación como horas propias.
 - [[la-etiqueta-miente]] (título clickbait vs. contenido honesto).
+- [[dinero-conducta]] — página de concepto del hilo dinero/conducta (consolidación tramo 103); contrapunto aritmético de WL-703.

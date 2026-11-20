@@ -1,6 +1,6 @@
 # WL-699 — Cómo los Soviéticos Clonaban Microchips con un Microscopio
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=UI0JtKuyEFQ) · Canal: Herschel González. · 2026-11-20 · 12:10 · Raw: `raw/wl/tramo-103/2026-11-20-como-los-sovieticos-clonaban-microchips-con-un-microscopio.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=UI0JtKuyEFQ) · Canal: Herschel González. · 2026-11-20 · 12:10 · Raw: `raw/historia-informatica/2026-11-20-como-los-sovieticos-clonaban-microchips-con-un-microscopio.md`
 
 ## De qué trata
 
@@ -22,3 +22,4 @@ Divulgación técnica correcta y bien estructurada (12 min), con fuentes concret
 
 - [[historia-software-corporativa]] y el dominio historia-informatica (computadoras soviéticas, clonación de arquitecturas — paralelo con los clones de IBM PC).
 - Estrategia de copiar vs. innovar y su límite industrial: tangencial con [[historia-de-la-tecnologia]].
+- [[historia-software-corporativa]] / [[historia-de-la-tecnologia]] — cruces de ingeniería inversa y estrategia estatal (consolidación tramo 103); par con WL-695.

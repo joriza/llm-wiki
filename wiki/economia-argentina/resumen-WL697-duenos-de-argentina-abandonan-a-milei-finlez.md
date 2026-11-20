@@ -1,6 +1,6 @@
 # WL-697 — Los Dueños de Argentina Abandonan a Milei
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=K-_AoFe1YP0) · Canal: Gonzalo Finlez · 2026-11-12 · 15:08 · Raw: `raw/wl/tramo-103/2026-11-12-los-duenos-de-argentina-abandonan-a-milei.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=K-_AoFe1YP0) · Canal: Gonzalo Finlez · 2026-11-12 · 15:08 · Raw: `raw/economia-argentina/2026-11-12-los-duenos-de-argentina-abandonan-a-milei.md`
 
 ## De qué trata
 
@@ -23,3 +23,4 @@ El mejor formato del canal según su línea habitual: narrativa clara con gráfi
 
 - Hilo Argentina/economía: WL-658/661/667/680-682/684-687/692-693, WL-696 (mismo bloque de la cabeza del cache); espejo del RIGI con WL-692 (Zuchovicki, energía+minería como ganadores).
 - Discurso del interés sectorial presentado como interés general: [[la-etiqueta-miente]].
+- Hilo Argentina: [[la-etiqueta-miente]] — cruces del bloque argentino (consolidación tramo 103); par económico con WL-696.

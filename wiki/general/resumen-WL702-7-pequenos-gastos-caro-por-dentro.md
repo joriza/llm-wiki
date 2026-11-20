@@ -1,6 +1,6 @@
 # WL-702 — 7 Pequeños Gastos que te Cuestan Una FORTUNA al Año
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=R8OBcPn0954) · Canal: Caro Por Dentro · 2026-11-13 · 12:43 · Raw: `raw/wl/tramo-103/2026-11-13-7-pequenos-gastos-que-te-cuestan-una-fortuna-al-ano.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=R8OBcPn0954) · Canal: Caro Por Dentro · 2026-11-13 · 12:43 · Raw: `raw/general/2026-11-13-7-pequenos-gastos-que-te-cuestan-una-fortuna-al-ano.md`
 
 ## De qué trata
 
@@ -25,3 +25,4 @@ Divulgación financiera de calidad inusual para el formato listicle (12 min): ca
 - Hilo dinero/conducta financiera: WL-668 (Bilinkis, estrés financiero), WL-669 (economía conductual MONEY), WL-671 (ricos de antes/Veblen), WL-693 (Economía Sin Anestesia, propinas).
 - La suscripción olvidada y el gimnasio no pisado son casos de costo invisible: tangencial con [[la-etiqueta-miente]] (lo que el precio esconde) y [[sesgos-de-decision]] (exceso de confianza).
 - El 5 % perdido en comisiones de retiros chicos: eco del interés compuesto inverso — microlección única, sin página propia (a consolidación).
+- [[dinero-conducta]] — página de concepto del hilo dinero/conducta (consolidación tramo 103); núcleo técnico del hilo junto a WL-704.

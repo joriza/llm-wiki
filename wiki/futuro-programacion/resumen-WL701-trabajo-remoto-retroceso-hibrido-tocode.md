@@ -1,6 +1,6 @@
 # WL-701 — ESTO pasó con el TRABAJO REMOTO
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=UWbka3qpVro) · Canal: TodoCode · 2026-10-15 · 28:09 · Raw: `raw/wl/tramo-103/2026-10-15-esto-paso-con-el-trabajo-remoto.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=UWbka3qpVro) · Canal: TodoCode · 2026-10-15 · 28:09 · Raw: `raw/futuro-programacion/2026-10-15-esto-paso-con-el-trabajo-remoto.md`
 
 ## De qué trata
 
@@ -24,3 +24,4 @@ Pieza de orientación profesional sólida y honesta (28 min, ASR): se declara de
 - [[tocode]] (entidad del canal: FAV-463/464) — WL-701 extiende el análisis de FAV-464 («el mercado cambió de rosca») al eje modalidad de trabajo.
 - [[brecha-junior-ia]] y [[contratacion-nearshore-latam]] (mercado IT, seniors vs juniors, contratación remota regional).
 - Paradoja de la sobre-postulación remota: tangencial con [[resumen-FAV-464-que-paso-con-los-juniors-tocode]] y con el hilo carreras tech (WL-674/677/683).
+- [[nuevo-contrato-laboral]] — página de concepto del hilo trabajo/carrera (consolidación tramo 103); [[tocode]] — entidad del canal, 3.ª fuente.

@@ -1,6 +1,6 @@
 # WL-695 — ¡Por fin! Una IMPRESORA 3D de METAL de Escritorio. | Así es SnowPod
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=-Pa9HhONqxE) · Canal: Endika Mena · 2026-11-15 · 10:04 · Raw: `raw/wl/tramo-103/2026-11-15-por-fin-una-impresora-3d-de-metal-de-escritorio-asi-es-snowpod.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=-Pa9HhONqxE) · Canal: Endika Mena · 2026-11-15 · 10:04 · Raw: `raw/informatica-teoria/2026-11-15-por-fin-una-impresora-3d-de-metal-de-escritorio-asi-es-snowpod.md`
 
 ## De qué trata
 
@@ -22,3 +22,4 @@ Divulgación técnica clara y ordenada (10 min), sin datos verificables externos
 
 - Fabricación digital y tecnología de producción: tangencial con [[historia-de-la-tecnologia]] y la línea de herramientas/fabricación de la wiki ([[fabricacion-odm-vs-marca]]).
 - Menciona IA + FreeCAD para diseño de productos (vídeo previo del canal): roza [[delegacion-cognitiva-ia]] solo tangencialmente.
+- [[historia-de-la-tecnologia]] — cruces de fabricación digital (consolidación tramo 103); par histórico-técnico con WL-699.

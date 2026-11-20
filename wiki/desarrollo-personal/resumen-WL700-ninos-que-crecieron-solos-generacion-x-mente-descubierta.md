@@ -1,6 +1,6 @@
 # WL-700 — Los Niños que Crecieron Solos — La Psicología de la Generación de Acero (1965-1980)
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=bLeD_Ory_2E) · Canal: Mente Descubierta · 2026-11-18 · 19:01 · Raw: `raw/wl/tramo-103/2026-11-18-los-ninos-que-crecieron-solos-la-psicologia-de-la-generacion-de-acero-1965-1980.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=bLeD_Ory_2E) · Canal: Mente Descubierta · 2026-11-18 · 19:01 · Raw: `raw/desarrollo-personal/2026-11-18-los-ninos-que-crecieron-solos-la-psicologia-de-la-generacion-de-acero-1965-1980.md`
 
 ## De qué trata
 
@@ -25,3 +25,4 @@ Divulgación psicológica cuidada y con matices explícitos (no todos dañados; 
 - Hilo Generación X: complementa `[[resumen-la-psicologia-de-los-nacidos-entre-1965-y-1975-generacion-x-mente-descubierta]]` y `[[resumen-la-psicologia-de-los-nacidos-entre-1965-y-1975-la-generacion-olvidada]]` (mismo tema y canal, ángulo distinto: la llave y la casa vacía vs. el retrato generacional).
 - [[mente-descubierta]] como canal recurrente (WL-670, y las dos piezas previas de Gen X): candidata a página de entidad en la próxima consolidación.
 - El locus de control interno y la ayuda que no se pide: tangencial con [[sesgos-de-decision]] y con el hilo de ayuda informal (WL-675/698).
+- [[generacion-x]] — página de concepto del hilo (consolidación tramo 103); [[mente-descubierta]] — entidad del canal (3 fuentes).
