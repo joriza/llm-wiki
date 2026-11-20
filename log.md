@@ -4654,3 +4654,6 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 ## [2026-11-20] ingesta WL | WL-697 dueños de Argentina abandonan a Milei (tramo 103 relevo 1, 3/5)
 - Fuente: `K-_AoFe1YP0` (Gonzalo Finlez, 15:08, cache índice 2). Raw `raw/wl/tramo-103/2026-11-12-los-duenos-de-argentina-abandonan-a-milei.md` + resumen `wiki/wl/tramo-103/resumen-WL697-duenos-de-argentina-abandonan-a-milei-finlez.md` + fila en index.md. Cableado mínimo: [[la-etiqueta-miente]]; sin dominios nuevos (S4); consolidación aplazada.
+
+## [2026-11-20] ingesta WL | WL-698 controlar tu suerte (Bilinkis) (tramo 103 relevo 1, 4/5)
+- Fuente: `5KVeOu-JABg` (Santiago Bilinkis, 21:55, cache índice 3). Raw `raw/wl/tramo-103/2026-11-20-por-que-a-algunos-todo-les-sale-bien.md` + resumen `wiki/wl/tramo-103/resumen-WL698-controlar-tu-suerte-bilinkis.md` + fila en index.md. Cableado mínimo: [[santiago-bilinkis]], [[sesgos-de-decision]], [[comparacion-social]]; sin dominios nuevos (S4); consolidación aplazada.
