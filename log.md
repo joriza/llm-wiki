@@ -4569,3 +4569,8 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-11-20-el-nuevo-invento-de-canada-que-reemplazara-los-paneles-solares-para-siempre.md` (lOjlVAYRIuc, Ingenio Boreal, 23:35, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL679-perovskita-canada-paneles-solares-ingenio-boreal.md`.
 - Tesis: células en tándem perovskita-silicio como complemento (no reemplazo) del silicio; divulgación sólida con cierre honesto sobre estabilidad pendiente. 1.ª fuente del canal.
+
+## [2026-11-20] ingesta | WL-680 — Vida real en Argentina / entonación italiana (tramo 102 relevo 5, 3/5)
+
+- Fuente: `raw/wl/tramo-102/2026-09-21-asi-es-la-vida-real-en-argentina-el-pais-que-habla-espanol-con-entonacion-italia.md` (A3MRS8OnYwM, Así Viven, 31:59, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL680-vida-real-argentina-entonacion-italiana-asi-viven.md`.
+- Tesis: la entonación porteña ≈ napolitana (estudio CONICET/Colantoni) como consecuencia medible de la inmigración italiana; divulgación lingüística con fuentes citadas. 1.ª fuente del canal.
