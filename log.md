@@ -4633,3 +4633,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta | WL-693 — Propinas y pantallas (tramo 102 relevo 8, 1/2)
 - Fuente: `raw/wl/tramo-102/2026-11-14-por-que-ahora-te-piden-propina-en-todas-partes.md` (rbbSEj415x8, Economía Sin Anestesia, 26:55, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL693-propina-pantallas-economia-sin-anestesia.md`.
 - Tesis: la propina como sueldo externalizado al cliente vía diseño oscuro de tablets; desmonta el mito «Gen Z tacaña» con datos. 4.ª fuente del canal (Leo/Inés/Elena/Ramón).
+
+## [2026-11-20] ingesta | WL-694 — Metodologías de equipo (tramo 102 relevo 8, 2/2) — CIERRE DE LISTA
+- Fuente: `raw/wl/tramo-102/2026-01-08-esto-arruina-tu-equipo-de-programacion-o-eso-dicen.md` (u_9J4OeJw2M, Donweb Cloud/Dalto, 06:38, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL694-metodologias-equipos-programacion-donweb-dalto.md`.
+- Tesis: metodología según tamaño y transparencia del equipo; «no-metodología» como opción legítima. 1.ª fuente del canal. CIERRE DE LISTA 39/39 del cache (agotadas o saltadas).
