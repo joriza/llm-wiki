@@ -4543,3 +4543,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-11-03-no-eres-solo-tu-ya-nadie-quiere-tener-hijos.md` (uvwSiwDQMqE, Economía Sin Anestesia, 35:17, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL673-no-eres-solo-tu-coste-de-un-hijo-espana.md`.
 - Tesis: natalidad mínima en 80+ años por precio (factura ~160.000 €/hijo), no por egoísmo; penalización de carrera de la madre; palancas de política pública. 1.ª fuente del canal.
+## [2026-11-20] ingesta | WL-674 — Por qué la Gen Z ya no es leal a ninguna empresa (tramo 102 relevo 4, 2/5)
+
+- Fuente: `raw/wl/tramo-102/2026-10-31-por-que-la-gen-z-ya-no-es-leal-a-ninguna-empresa.md` (tmfawPye_JI, Economía Sin Anestesia, 26:30, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL674-gen-z-lealtad-empresas.md`.
+- Tesis: la lealtad laboral siempre fue un intercambio; la Gen Z es «la primera en leer la letra pequeña desde el principio». 2.ª fuente del canal.
