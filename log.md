@@ -4525,3 +4525,5 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta WL | WL-664 12 finales de la IA / Tegmark (Aprendizaje Supervisado) — tramo 102 relevo 2 (2/5 del relevo)
 
 ## [2026-11-20] ingesta WL | WL-665 velocidad de la luz (Física Sin Fórmulas) — tramo 102 relevo 2 (3/5 del relevo)
+
+## [2026-11-20] ingesta WL | WL-666 bosón de Higgs (Física Sin Fórmulas) — tramo 102 relevo 2 (4/5 del relevo)
