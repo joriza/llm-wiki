@@ -27,3 +27,4 @@ El ensayo más ideológico de la pareja del canal (Mente Masculina): el marco de
 - [[educacion-evidencia-vs-institucion]] (WL-595/650/651): el credentialismo y «carrera con puerta» encajan directamente en el concepto.
 - WL-676: el «fontanero» como empleo seguro frente a la automatización cognitiva; WL-673: la demografía post-2008 como la misma factura de la natalidad.
 - Entidad del canal: [[mente-masculina]] (2.ª de 2).
+- [[nuevo-contrato-laboral]] — página de concepto del hilo trabajo/carrera (consolidación tramo 103); la universidad como contrato roto.

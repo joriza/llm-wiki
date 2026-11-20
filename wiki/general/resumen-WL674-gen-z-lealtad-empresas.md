@@ -27,3 +27,4 @@ El mejor formato del canal: narrativa familiar (Ramón/Leo/Inés/Elena) usada pa
 - La IA y el primer escalón ↔ [[delegacion-cognitiva-ia]]/[[paradoja-jevons-software]]/WL-676: quién forma a la próxima generación cuando la tarea básica se automatiza.
 - WL-658 (Argentina/fuga): los mismos incentivos que expulsan a los jóvenes de un país los hacen saltar de empresa.
 - Entidad del canal: [[economia-sin-anestesia]] (2.ª de 4).
+- [[nuevo-contrato-laboral]] — página de concepto del hilo trabajo/carrera (consolidación tramo 103: 5 fuentes).

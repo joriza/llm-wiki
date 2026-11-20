@@ -24,3 +24,4 @@ Formato listicle de psicología pop con la banca de credibilidad más débil del
 - [[resumen-la-psicologia-de-los-nacidos-entre-1965-y-1975-generacion-x-mente-descubierta]] (WL-402): misma fórmula del canal (pseudotaxonomías poblacionales con tono empático).
 - [[sesgos-de-decision]] y [[comparacion-social]]: la jerarquía del CI como combustible de comparación; el descargo inicial del video reconoce el problema.
 - WL-659/668/669 (hilo «diferencias individuales» de este relevo): inteligencia como variable contextual, no esencialista.
+- [[mente-descubierta]] — entidad del canal (consolidación tramo 103: 3 fuentes confirmadas).

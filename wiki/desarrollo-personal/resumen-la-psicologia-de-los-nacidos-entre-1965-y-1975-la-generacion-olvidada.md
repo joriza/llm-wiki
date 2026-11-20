@@ -34,3 +34,4 @@ La primera mitad de la Generación X (1965-1975) creció con autonomía forzada 
 ## Ver también
 
 - [[mundo-olvidado]]
+- [[generacion-x]] — página de concepto del hilo Generación X (consolidación tramo 103); casi-homónimo de la pieza de [[mente-descubierta]].

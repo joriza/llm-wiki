@@ -48,3 +48,4 @@ Pew Research los describe como «inteligentes, escépticos, autosuficientes… n
 - «La resiliencia es un proceso ordinario» (Masten) ↔ «la resiliencia no es un superpoder» (Domina Tu Mente) ↔ «no hay golpe que tumbe a una mente entrenada para levantarse» (Sandín) — la mentalidad Daruma en versión social.
 - La pregunta final («libertad real o armadura») replica la de Bilinkis (fuente 4/20: «¿libertad real o te rendiste a que nunca la recibirías?») y la de Pisso (fuente 14/20: «¿libertad o te rendiste a que nunca la ibas a recibir?») — tema del dominio.
 - Cierre del lote: la lista queda completa; consolidación pendiente registrada en log.md.
+- [[generacion-x]] — página de concepto del hilo Generación X (consolidación tramo 103); [[mente-descubierta]] — entidad del canal.

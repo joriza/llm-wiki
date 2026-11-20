@@ -24,3 +24,4 @@ Formato testimonial, no tutorial: el valor está en el patrón de carrera (visib
 - [[la-etiqueta-miente]]: el título promete una revelación sobre AWS y entrega una reflexión de carrera — honesto pero distinto al encuadre esperado.
 - [[delegacion-cognitiva-ia]]: el caso del alumno con agente de IA de <$5/mes como ejemplo de coste marginal de los agentes ([[paradoja-jevons-software]]).
 - Hilo carreras tech: contrasta con WL-674 (Gen Z sin lealtad empresarial — mismo diagnóstico: la identidad no la da el empleador) y WL-677 (abandono de la universidad: aprendizaje por proyecto real vs. institucional).
+- [[nuevo-contrato-laboral]] — página de concepto del hilo trabajo/carrera (consolidación tramo 103); núcleo «la carrera ≠ el empleador».

@@ -30,3 +30,4 @@ Video-essay bien construido (encuesta propia citada varias veces como base, con 
 - [[santiago-bilinkis]] — 8.ª fuente del canal; serie de finanzas junto con [[lo-que-nadie-te-enseno-sobre-el-dinero-bilinkis]] (WL-385).
 - Hilo decisiones bajo presión: WL-659 «Tu mejor momento no es a los 20» (mismo canal, ya compilado); [[la-etiqueta-miente]] (el lado del vendedor que aprovecha el túnel).
 - WL-658 (confianza/inestabilidad Argentina): el contexto macro como generador de escasez crónica.
+- [[dinero-conducta]] — página de concepto del hilo dinero/conducta (consolidación tramo 103: 7 fuentes).
