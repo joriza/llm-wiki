@@ -4493,3 +4493,6 @@ Consolidación aplazada del tramo 100 (WL-637..651) completada en 3 commits por 
 ## [2026-11-20] ingesta | WL-653 Biotipos y conducta humana — Rodrigo García Platas (A lo Grande) — tramo 101 relevo 1 (2/5)
 
 - Fuente: zjxTZMS37i8 (112:40, subtítulos manuales). Resumen: `wiki/wl/tramo-101/resumen-WL653-biotipos-conducta-humana-rodrigo-platas-a-lo-grande.md`. NOTA: agup9snAhUw (índice 1 del encargo) resultó ya procesada (Bilinkis, raw/desarrollo-personal) → SKIP-DUPLICATE sin número. Cableado a entidad García Platas y ajuste de WL-647 aplazados a T17.
+## [2026-11-20] ingesta | WL-654 Linux ligero para PC viejas (Abraham Francisco Baez) — tramo 101 relevo 1 (3/5)
+
+- Fuente: E9hQu-uogew (13:46, ASR). Resumen: `wiki/wl/tramo-101/resumen-WL654-linux-ligero-pc-viejas-1gb-ram-abraham-baez.md`. Nombre de la distro dudoso por ASR — señalado en el resumen; verificación pendiente a consolidación.
