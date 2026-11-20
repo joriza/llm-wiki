@@ -4490,3 +4490,6 @@ Consolidación aplazada del tramo 100 (WL-637..651) completada en 3 commits por 
 ## [2026-11-20] ingesta | WL-652 Neurociencia del Aprendizaje (Liberalístico) — tramo 101 relevo 1 (1/5)
 
 - Fuente: dE_5xLRWi3Q (38:59, subtítulos manuales). Resumen: `wiki/wl/tramo-101/resumen-WL652-neurociencia-aprendizaje-estudiar-manipular-liberalistico.md`. Cableado a [[liberalístico]] y [[educacion-evidencia-vs-institucion]] aplazado a la consolidación (T17): superficies de edición de este relevo no incluyen wiki/general/.
+## [2026-11-20] ingesta | WL-653 Biotipos y conducta humana — Rodrigo García Platas (A lo Grande) — tramo 101 relevo 1 (2/5)
+
+- Fuente: zjxTZMS37i8 (112:40, subtítulos manuales). Resumen: `wiki/wl/tramo-101/resumen-WL653-biotipos-conducta-humana-rodrigo-platas-a-lo-grande.md`. NOTA: agup9snAhUw (índice 1 del encargo) resultó ya procesada (Bilinkis, raw/desarrollo-personal) → SKIP-DUPLICATE sin número. Cableado a entidad García Platas y ajuste de WL-647 aplazados a T17.
