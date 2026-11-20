@@ -1,0 +1,102 @@
+# Por qué el mundo HUYE de Argentina, explicado
+
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=EvXEHUyoc7w)
+- **Canal**: Análisis Bien Argentino
+- **Publicado**: 2026-03-01
+- **Recopilado**: 2026-11-20
+- **Idioma**: es (subtítulos automáticos es (auto), transcripción literal)
+- **Duración**: 19:34
+
+> Transcripción a partir de los subtítulos automáticos del vídeo, sin normalizar; puede contener errores de reconocimiento. Las marcas de tiempo indican el inicio aproximado de cada bloque.
+
+---
+
+[00:00] Hay una pregunta que me desvela, una pregunta que no me deja dormir, que me persigue, me sigue a todos lados. Pero la verdad, ¿por qué si Argentina tiene todo no somos ricos? Tenemos ríos, mares, montañas, tenemos premios Nobel, hay litio, hay petróleo, hay cerebros, o sea, hay gente inteligente y sensible, hay gas y energía nuclear, hay una cultura hermosa. En nuestro país abunda lo que en otros escasea. Entonces, ¿por qué la mitad de nuestra población vive en la pobreza? ¿La culpa fue de los K?
+
+[00:31] Negativo. ¿La culpa fue de Menem? Negativo a la base. ¿La culpa fue de los empresarios? Tampoco. Hay una raíz para mí que es más profunda y me da bronca que no podamos resolverla. Mirá, lo que tenemos sobre nuestras espaldas muchas décadas de romper la credibilidad.
+
+[00:47] Y yo le preguntaría a cualquiera de los que nos escucha, che, si viene un pibe a pedirte plata y no te y no te la devuelve, y al tiempo viene a pedirte segunda vez y no te la devuelve, después que nueve veces no te la devolvió, ¿se la prestás de vuelta?
+
+[01:00] Decí Hoy en este video, sustentado en datos, en documentos y en el riguroso análisis de quien les habla, te voy a mostrar cómo la Argentina construyó ladrillo a ladrillo una barrera casi insalvable para el desarrollo sostenido.
+
+[01:12] Es la certeza de la incertidumbre. Te voy a contar cuáles son los tres problemas que atacan la confianza en nosotros y cómo juntos vamos a poder resolverlos. Te voy a mostrar cómo los cambios de gobierno dinamitan la seguridad, cómo nuestro pasado condena o condiciona nuestro presente y cómo la poca seguridad jurídica nos impide tener inversiones. Es hora de cumplir, aunque nos duela. Mi nombre es Rosendo Grobocopatel y esto [música] es ABA, análisis bien argentino.
+
+[01:55] Ma, ¿qué es la confianza? Arranquemos por definirla. La confianza para el diccionario es la expectativa de que las personas, las instituciones o las reglas van a comportarse de una manera previsible. O sea, que van a ser coherentes y cumplibles en el tiempo. Si vamos a jugar un poco más y vamos a la etimología de la palabra, confianza proviene de confides, que significa con fe, es decir, de buena fe, o sea, de buena leche, sin trampa, sin vuelta, con la simpleza de lo correcto. Yo elijo
+
+[02:26] definirla de una forma capaz que un poco más práctica. La confianza es un ordenador social. Cuando no hay confianza, reina el caos y la inseguridad. Reina el te pego un tiro porque tenés la música alta y la policía no hace nada. Reina el me colo en la fila del colectivo porque hay mucho quilombo. Reina el me paro rápido antes de que pare el avión para que nadie se me cole. Reina el andar por la banquina para esquivar un embotellamiento. Y qué tiene que ver esto con la pobreza.
+
+[02:52] Aunque parezca una pelotudez, tiene que ver con la pobreza y también tiene que ver con los mercados financieros. Porque para que existan mercados, tiene que haber gente que presta plata y también tiene que haber gente que tome este préstamo. Y ese préstamo es legal, no es usurero como los dados por los mafiosos.
+
+[03:08] Que no haya crédito quiere decir que no hay economía privada. Entonces, no se venden cosas y no se crea valor. Entonces, hay menos plata circulando y se distribuye menos. Sin confianza, no nos permiten tomar deuda para hacer obras y no llegan las inversiones que generan trabajo de calidad. Los argentinos dejamos los dólares en el colchón cuando en verdad, si esa plata estuviera en los bancos, podría usarse para hacer casas y que los ahorristas cobren un interés. Pero no pasa. ¿Y
+
+[03:33] sabes por qué no pasa? Porque en Argentina se generó un susto muy grande. Porque tememos que nos pongan un impuesto país y nos rompan bien en Entonces, de repente, tu casa no es tan tuya, tu auto no es tan tuyo y tu empresa no es tan tuya. Como dijo un empresario una vez, si yo tengo la guita fuera del país, la guita es mía. Si yo la tengo en Argentina, es nuestra. Y esta joda, que lleva a hacer parecer que hay una cierta justicia social, termina generando una gran injusticia social,
+
+[03:57] que es la pobreza. Y sí, me van a putear acá abajo, que soy un tipo que tiene plata y que soy malvado y no sé qué, pero lo que te digo es la verdad. No hay país del mundo que no se desarrolle sin el respeto a la propiedad privada. Y de vuelta, este resultado que tenemos de país es consecuencia de la falta de confianza. Y nuestro país está siendo año a año un país menos igualitario por la falta de mercado y capitalismo. Entonces, el acertijo de qué fue primero, si el huevo o la
+
+[04:25] gallina, la pobreza o la desconfianza, hay gente que dice que tiene que ver con nuestro origen, otros con el puerto, con el contrabando, con la aduana ilegal. Pero yo voy a poner una fecha y por ser caprichosa te voy a decir que la fecha es el golpe de 1930.
+
+[04:44] Argentina, en parte, es la viveza criolla, el truco, el arte del engaño. Es el país de nueve reinas que nos juega en contra hace ya varias décadas. Ya vimos qué es la confianza y ya vimos también, y sobre todo lo entendemos, qué es lo que pasa cuando la empezamos a perder. Pero ahora vamos a ver tres problemas que la destruyen día a día, la inestabilidad jurídica, los cambios pendulares de gobierno y los incumplimientos.
+
+[05:36] La estabilidad jurídica es el esqueleto de la economía y de la sociedad. En Argentina este esqueleto ha sido fracturado repetidamente. [música] Pero qué es la estabilidad jurídica y cómo se logra. Es la certeza de que las leyes, [música] los contratos, los derechos se respetan y no se modifican de manera arbitraria todo el tiempo. Si tenés un juicio laboral, no sabés cuánto vas a cobrar. Si un funcionario es corrupto, no se sabe si lo van a condenar porque depende del juez. [música] Si tenías la
+
+[06:04] plata en el banco, de repente corralito. Depende, depende. El depende es una ausencia de regla y en un país este problema es muy grande y en el nuestro este problema es muy muy muy grande. El poder judicial es el garante de que los acuerdos se cumplan y sobre todo de controlar también a los poderosos. Por eso el poder judicial tiene tanto poder, porque el poder judicial es el único que contrapesa los poderes caprichosos de la opinión pública, a las personas elegidas democráticamente. Sin embargo, en
+
+[06:35] Argentina el poder judicial está viciado de corrupción. Como veíamos, el origen del mar jurídico argentino yo lo seteo en el 1930 con jueces de la Corte convalidando un golpe de Estado. [música] Si el máximo tribunal respalda terminar con la democracia, ¿por qué los ciudadanos van a respetar las leyes? A la dictadura luego se le suma la década infame con fraudes en las elecciones que también deslegitimaron a los gobiernos.
+
+[06:58] Como si esto fuera poco, luego los gobiernos argentinos, en sus diferentes versiones, violaron los derechos de propiedad sin mayores consecuencias judiciales. Durante el peronismo se expropiaron servicios considerados públicos como el tren, los teléfonos, [música] el gas, la electricidad, hasta los mercados de granos estuvieron intervenidos. [música] Luego alguna de esas empresas fueron privatizadas y después vueltas a estatizar sin reconocimiento de deudas.
+
+[07:23] A todas las irregularidades debe sumársele la arbitrariedad de algunos tribunales que establecen sentencias con parámetros distintos. Hoy no sabemos cuánto puede costar un juicio laboral. ¿Qué empresa puede invertir en Argentina si no sabe tampoco si le van a inventar un impuesto nuevo que deje de hacer de un un para el otro que su negocio sea rentable. La Argentina ostenta un tristísimo récord, el récord mundial de demandas ante [música] el CIADI. Es el foro donde los inversores extranjeros
+
+[07:51] pueden demandar a los estados cuando estos violan tratados bilaterales de inversión. La ola de demandas se desató principalmente tras la crisis del 2001 debido a la especificación de las tarifas de los servicios públicos y la ruptura de contratos de concesión. En total tenemos 50 demandas en el CIADI y las pérdidas para nuestro país pueden alcanzar los 4.500 millones de dólares.
+
+[08:13] Creen tan poco en nosotros que el Congreso de la Nación hace muy poco tuvo que poner en el famoso RIGI que en caso de que haya algún conflicto jurídico se dirima en el CIADI. O sea, la justicia argentina está tan mal, se nos cree tan poco, o sea, estamos tan mal vistos que tuvimos que perder soberanía y que un juez extranjero defina sobre nuestro país para lo que los inversores no duden tanto de si venir a invertir a Argentina. Frenemos un segundo, ¿no les da vergüenza? No culpo de esto al
+
+[08:42] gobierno de Milei, eh. Son todos los gobiernos que fueron en contra de la confianza. Además de la deslegitimidad en el exterior, los garantes de la justicia, los jueces, perdieron la legitimidad de los propios argentinos.
+
+[08:54] [música] Solo el 8% de nuestros habitantes confía en la justicia según un estudio realizado por una asociación civil que se llama Fores y la Escuela de Derecho de la UTDT, de la Universidad Torcuato Di Tella. Y esto tiene sentido, si un juicio puede demorar una década en resolverse o si ciertos delitos quedan sin investigarse, o si la mayoría de la gente que está presa no tiene condena firme. Otro de los inconvenientes es que el Poder Judicial tiene pocos controles internos. El Consejo de la Magistratura
+
+[09:21] a veces parece que no sirve para nada, porque es el encargado de evaluar y remover los jueces, pero está políticamente bloqueado hace muchísimo tiempo. Los jueces no pagan Impuesto a las Ganancias, la mayoría, y autorregulan sus tareas como si fueran reyes. No tienen jefe, no son electos y rara vez son removidos. En breve se viene el video de reforma judicial, porque estos se las llevan siempre muy baratita. Para volver a tener estabilidad jurídica, es necesario hacer un gran pacto democrático. Hay que
+
+[09:49] entender que sin capital no hay trabajo, [música] que sin generar riqueza no hay nada para distribuir, que sin recursos naturales no hay país que exista y que sin ponerlos a trabajar de una manera inteligente y respetuosa con las comunidades, con la naturaleza y el ambiente, no hay desarrollo. Tenemos que ponernos de acuerdo en cumplir la ley.
+
+[10:08] Es un bajón hacer un video diciendo esto, pero lo tenemos que hacer. Argentina tuvo seis golpes de Estado desde 1930 y cambio de signo político gobernante siete veces de la vuelta a la democracia. La falta de continuidad por derrocamientos o por elecciones generó al país un problema grave. Gobiernos con poca legitimidad que no pueden establecer reglas claras de conducta, que generan, obviamente, inestabilidad económica y que se empeñan en destrozar lo que hizo la gestión anterior.
+
+[10:37] Frenemos un poco. Imaginen cómo nos ven los países de afuera, países y los inversores. Un día se dolarizan las tarifas de energía para el otro día pesificarse. Un día ofrecemos licitaciones para explorar pozos petroleros y al otro día instalamos un cepo cambiario que impide sacar las ganancias del país. Un día tenemos proteccionismo al otro día dejamos importar cualquier cosa de China. Un día se honra la deuda, al otro día se la defoltea y se cambian las reglas. Un día hay precios libres y
+
+[11:06] al otro día cae la AFIP a los supermercados. ¿Seguimos? Miren que puedo enumerar cosas hasta mañana, ¿eh? Guillermo O'Donnell estudió los cambios recurrentes de la política argentina y describió el fenómeno en uno de los textos más importantes de la historia del país. Su tesis es que en Argentina la economía política oscila como un péndulo en cambios bruscos y recurrentes entre modelos opuestos sin institucionalización estable. La consecuencia, no existe un orden institucional que sobreviva a los
+
+[11:33] gobiernos. El poder judicial es cambiante, el Congreso es una débil delegación del ejecutivo y no hay un plan duradero. Argentina tuvo seis dictaduras que disolvieron o vaciaron el Congreso, gobernaron por decreto, se arrogaron el poder constituyente sin legitimidad popular, suspendieron y dejaron sin efecto la Constitución.
+
+[11:52] Estos tipos destruyeron sistemáticamente los sistemas jurídicos y cambiaron las reglas de juego, pero la democracia no sanó al menos esa herida. Los siete cambios de gobierno llevaron a que exploten los mercados y se dinamiten los consensos creados en las gestiones anteriores. En palabras de O'Donnell, el poder político es como una marea que retrocede y de repente vuelve a surgir para llevarse puesta las instituciones.
+
+[12:16] ¿Existe una normalidad en nuestro país entonces? ¿Somos únicos en el mundo? Bueno, Argentina no es el único país que cambió de política económica, pero sí es uno de los pocos que la cambia de forma permanente e impredecible. Venezuela giró y no volvió, Ecuador se ató a la dolarización, en Perú cambian los presidentes cada dos años, pero su Banco Central estabiliza las finanzas.
+
+[12:36] Argentina en la región es distinta, cambia, cambia, todo cambia, porque cambia, pero vuelve para atrás, para volver a cambiar. Otros países cometen errores, Argentina comete reversiones sistemáticas y para un inversor, para un vecino, para un jubilado, para todo el mundo, el problema no solo es equivocarse, es no saber si las reglas van a existir mañana. Existe una salida y estamos a tiempo de cumplirla. Lo primero, no importa si el modelo es más liberal o más intervencionista, las
+
+[13:05] reglas no pueden cambiar con cada gobierno. Debemos crear contratos que no sean constantemente reescribibles. Hay que evitar estos cambios normativos tan bruscos y hay que crear marcos regulatorios con cláusulas de estabilidad. Países como Perú, como Chile, como Uruguay hicieron esto, nosotros también podemos hacerlo. En Argentina tenemos que tener un gobierno que gestione y una oposición que construya, que razone, que modere y que no estén los dos jugando a destruir al otro. El segundo punto es que debemos
+
+[13:31] crear instituciones fuertes y eficientes que no se sometan a los cambios políticos. Tenemos que establecer límites estrictos al uso de los DNU, de los decretos de necesidad de urgencia. Los cambios abruptos tienen que tener algún tipo de mayoría agravada en el Congreso y tiene [música] que existir, de verdad, control judicial. Todo tiene que concluir en un modelo con menos discreción y con más previsibilidad. Sin moneda estable no hay inversión. Tenemos que garantizar estabilidad monetaria y
+
+[13:56] tenemos que crear reglas fiscales inviolables. Hoy el problema no es la ley, sino la aplicación de la ley. Es necesario que una reforma judicial incorpore fueros económicos especializados, que haya plazos máximos procesales [música] y que se cumplan obligatoriamente algunos fallos. Los cambios de gobierno tienen que dejar de ser un signo de inestabilidad para ser un signo positivo de la alternidad democrática. Podemos pensar distinto y hoy le toca gobernar a uno y mañana le toca gobernar al otro y
+
+[14:22] cada uno no cambie todo ni destruya todo lo que hizo el otro. Argentina incurrió en default nueve veces a lo largo de su historia, pero la frecuencia y la magnitud de los defaults en el siglo XXI consolidaron nuestra reputación de defaulteador serial. El indicador de riesgo país de Argentina es el termómetro de esta desconfianza crónica. Mientras países vecinos tienen un riesgo país entre 100 y 200 puntos básicos, la Argentina opera frecuentemente y durante mucho tiempo en zona de 1500 o 2500 puntos. Eso implica,
+
+[14:50] para explicar un poco qué es el riesgo país, que para el mercado la probabilidad de un default es siempre inminente. Que prestarle a Argentina siempre es muy riesgoso. Sin llegar a niveles razonables de riesgo país, la Argentina no puede tomar deuda para financiar obras a largo plazo, para financiar inversiones o para tomar préstamos hipotecarios. La consecuencia es retracción económica y más pobreza. A la deuda impagable se suma la combinación de inestabilidad macroeconómica, de inseguridad jurídica
+
+[15:17] y de cambios regulatorios que generaron un fenómeno profundamente doloroso, el éxodo de empresas multinacionales y la erosión de las empresas nacionales. En la última década, más de 40 compañías internacionales anunciaron su salida, la venta de sus operaciones o la reducción drástica de su presencia en el país. No se trata de empresas que quiebran por mala gestión, sino de corporaciones o de compañías globales que deciden que en Argentina hay tanto riesgo que tal vez ese riesgo no compensa de ninguna manera
+
+[15:48] la rentabilidad potencial o real. Mira esto. Así nos ve un extranjero que vive en Argentina. Escúchalo bien, porque para mí nos pinta de cuerpo completo algo que es una parte linda y fea de Argentina. Somos solidarios, pero esa solidaridad emana de lo desordenados que somos. Escucha de alguna manera este elogio raro.
+
+[16:42] Pero la desconfianza no es solo externa, porque los argentinos nos tememos entre nosotros. Según datos oficiales del INDEC, al tercer trimestre de 2024, los residentes argentinos poseen aproximadamente 276.000 millones de dólares fuera del sistema financiero local. Y eso es lo declarado, porque posiblemente hay muchísima más plata fuera del sistema. Porque con todos esos dólares en el colchón, perdemos todos. Los ahorristas, porque como es inseguro, se descapitalizan, porque inclusive es capaz esos dólares
+
+[17:12] que están abajo del colchón no generan un interés. Las empresas, porque pierden la posibilidad de acceder a préstamos, a créditos a tasas más razonables y los inclino, por ejemplo, porque no acceden a un dinero para sacar un crédito hipotecario. ¿Y qué pasa cuando no hay instituciones que prestan y sean reguladas? Aparecen créditos más caros, préstamos usurarios de dinero y también es un fenómeno muy conocido en Argentina el prestamista de barrio. Hoy un crédito informal te puede llegar a cobrar en un
+
+[17:37] mes un 30% del interés equivalente a lo que es la inflación de un año, pero tienen motivos los argentinos para dejar la plata fuera del sistema que tenemos motivos. La verdad que la historia nos avala porque Menem implementó en el 89 el Plan Bonex, un canje forzoso de los depósitos a plazo fijo por títulos públicos con vencimiento a 10 años, es decir, cambió dinero por papelitos de colores. El golpe es bravo porque es letal para la confianza. Los ahorristas que creían tener dinero disponible se
+
+[18:03] encontraron con bonos que en el mercado secundario cotizaban, obviamente, con descuentos masivos. La crisis del 2001 representó el colapso definitivo de la seguridad jurídica. La imposición del corralito restringió de efectivo, violando la promesa de convertibilidad y la disponibilidad de los depósitos. Pero el golpe final vino en el 2002 con la pesificación asimétrica bajo el gobierno de Dualde. Se obligó a convertir todos los depósitos en dólares a pesos a un tipo de cambio de un peso con 40 más la
+
+[18:33] indexación, mientras que el dólar libre superaba en el mercado los tres o cuatro pesos. Simultáneamente los préstamos en dólares se pesificaron uno a uno. Nos falta confianza. Confianza entre nosotros que nos vivimos y confianza hacia el exterior que no quiere invertir. Nos faltan leyes que den estabilidad y que respetemos y jueces en los que confiar, que no fallen según su conveniencia. Un día viene un gobierno y dice que el anterior hizo todo mal y lo destruye. Y así pasamos de
+
+[19:00] dictadura a democracia en un péndulo que parece un samba haciendo girar la historia en el mismo eje. Y arriba del samba estamos nosotros, tambaleando en la inestabilidad y en la pobreza, tambaleando en sueños incumplidos. Con 276.000 millones de dólares los argentinos fuera del sistema, Argentina tiene los recursos para financiar su propio desarrollo. Sin embargo, ese capital no va a regresar por la fuerza de los blanqueos oportunistas, sino únicamente cuando el Estado ofrezca
+
+[19:27] garantías creíbles de que los derechos de propiedad serán respetados incondicionalmente.
