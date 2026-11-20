@@ -4519,3 +4519,5 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta WL | WL-661 El Presto sobre Lanusse — tramo 102 relevo 1 (4/5 del relevo)
 
 ## [2026-11-20] ingesta WL | WL-662 Napster (SilicioReal) — tramo 102 relevo 1 (5/5 del relevo)
+
+## [2026-11-20] ingesta WL | WL-663 DNI/ley natural (CACHETADA, Juanra Kalinga) — tramo 102 relevo 2 (1/5 del relevo)
