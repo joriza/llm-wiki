@@ -29,5 +29,6 @@
 
 ## Cruces
 
-- **Hub agentes-de-codigo** (wiki/, wire pendiente a T17): refuerza la tesis de que la coordinación multi-agente es la frontera actual frente a la competencia individual; conecta con [[delegacion-cognitiva-ia]] y [[paradoja-jevons-software]] (demanda inducida por la caída de coste — «abundancia sin concentración»).
+- **Hub [[agentes-de-codigo]]** (wire hecho en T17): refuerza la tesis de que la coordinación multi-agente es la frontera actual frente a la competencia individual; conecta con [[delegacion-cognitiva-ia]] (wire hecho) y [[paradoja-jevons-software]] (demanda inducida por la caída de coste — «abundancia sin concentración»; wire hecho).
+- **[[resumen-FAV-456-openai-agentes-hackean-huggingface-platzi]]**: el mismo caso Hugging Face, ya registrado en la wiki desde la seguridad ofensiva asistida por IA (verificar fuente primaria en ambos).
 - **WL-651** (Bilinkis, tramo 100): hilo «la IA reorganiza la institución» — ahí la escuela, aquí la empresa; mismo patrón efecto-reorganización.

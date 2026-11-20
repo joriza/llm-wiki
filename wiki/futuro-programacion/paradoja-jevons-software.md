@@ -27,8 +27,9 @@ Las dos aplicaciones dicen lo mismo desde lados opuestos de la cadena: **la efic
 - **El conocimiento público mueve el precio** (WL-640, [[codesimple]]): la P100 de $78 triplicó su precio en 9 semanas cuando el truco se hizo público — «quien cobra el conocimiento no es el programador, es quien vende la tarjeta»: el ahorro de la eficiencia (software gratis) lo captura el dueño del recurso escaso. La variante de captura de WL-552 aplicada al hardware de segunda mano.
 - **La vuelta a la renta** (WL-644, [[puchito-cine]]): el tecnofeudalismo como economía de la renta sobre la tierra digital — el contrapeso institucional del concepto: la eficiencia no siempre democratiza; cuando el acceso es alquilado, el ahorro se convierte en cuota.
 - **Jevons cognitivo** (WL-651, Bilinkis): alumnos con IA libre resolvieron más ejercicios y aprendieron 17 % menos sin IA — «pensar se está volviendo optativo»: la eficiencia cognitiva (respuestas instantáneas) amplía el consumo de respuestas y reduce el aprendizaje; la «dificultad elegida» como lo no automatizable.
+- **«Abundancia sin concentración»** (WL-655, [[resumen-WL655-organizing-intelligence-deepmind-agentes-iabro]], 2026-11-20 — consolidación T17): en el escenario de IA supercompetente sin coordinación, la eficiencia genera empresas más productivas pero más pequeñas — la caída de coste no concentra demanda por sí sola; es la **coordinación** la que desplaza el techo de Coase y mueve la curva. Complementa la variante de captura del conocimiento: el ahorro de eficiencia no lo captura quien lo inventa.
 
-Ver también [[educacion-evidencia-vs-institucion]] (WL-650/651).
+Ver también [[educacion-evidencia-vs-institucion]] (WL-650/651/652).
 
 ## Fuentes de este concepto
 

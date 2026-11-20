@@ -22,6 +22,7 @@ Historia motivacional sobre deuda técnica y el coste real de reescribir sistema
 ## Cruces
 
 - Canal **fatdev**: 3.ª fuente (FAV-430 Git, FAV-431 Ritchie/C) — misma serie narrativa histórica; entidad candidata ya registrada para consolidación.
+- **WL-656** ([[resumen-WL656-cobol-codigo-importante-imperios-obsoletos]], informatica-teoria/ — consolidación T17, 2026-11-20): par directo de la misma historia desde la divulgación larga (mismos casos CBA/TSB/IRS/Nueva Jersey, cifras de 2.ª mano sin fuente — señalado); añade Mizuho/Minerva, California, Southwest, los conversores automáticos (decimal exacto vs. coma flotante) y la IA generativa chocando con la intención perdida; [[historia-software-corporativa]] recoge la lectura organizacional (amnesia corporativa: la lógica de negocios solo existe dentro del código).
 - Clúster **historia-informatica**: Hopper/COBOL cruza con Unix/C (FAV-431) y FORTRAN (el dominio historia-informatica); concepto `historia-informatica` → umbral ya cumplido, deferido.
 - Contraste con [[resumen-FAV-437-tantos-lenguajes-de-programacion-gilada]] (por qué hay tantos lenguajes) y [[resumen-FAV-439-8-estructuras-de-datos-torti-code]] como panorama de fundamento.
 

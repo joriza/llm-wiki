@@ -19,6 +19,10 @@
 - **La interoperabilidad decide la adopción**: Swift/ObjC y Kotlin/Java coexisten; nadie quema décadas de trabajo.
 - **La longevidad es selectiva**: FORTRAN, COBOL y SQL siguen 50-70 años después, cada uno dueño de su nicho (cálculo numérico, banca, datos).
 
+## Actualización 2026-11-20 (consolidación T17, tramo 101)
+
+WL-656 ([[resumen-WL656-cobol-codigo-importante-imperios-obsoletos]]) profundiza el nicho COBOL: ~800.000 M de líneas en producción sostenidas no por amor institucional sino por la «lógica de negocios» que solo existe dentro del código (amnesia corporativa); los fracasos de migración (TSB, Mizuho/Minerva, IRS, California) y la estrategia real de encapsulación con APIs sobre mainframes IBM serie Z. Par directo con FAV-446 (fatdev) y con WL-313; encaja el patrón transversal «la longevidad es selectiva» — el COBOL sobrevivió porque fue diseñado para ser permanente, no hermoso.
+
 ## Véase también
 
 - [[john-backus]] — biografía del creador de FORTRAN.

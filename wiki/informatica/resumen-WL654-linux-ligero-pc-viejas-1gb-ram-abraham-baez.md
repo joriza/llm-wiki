@@ -23,4 +23,5 @@ Tutorial paso a paso de instalación de una distribución Linux ligera —transc
 
 ## Cruces
 
-- Hilo resurrección de hardware viejo con Linux ligero: candidata a cruzar con fuentes previas del mismo tema en la consolidación (T17).
+- Entidad del canal: [[abraham-baez]] (creada en la consolidación T17 con su 2.ª fuente, WL-578 dual boot Android/Bliss OS en este mismo dominio).
+- Hilo resurrección de hardware viejo con Linux ligero: WL-566 ([[resumen-WL566-abandono-locos-locos-por-linux]]), WL-578, [[kit-usb-portable]].

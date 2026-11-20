@@ -27,4 +27,5 @@ OpenAI entrenaba un modelo (asumido GPT-6) con la prueba **Exploit Gym** (88.898
 
 - **Seguridad ofensiva asistida por IA / evaluación de agentes**: complementa la línea crítica de IA del repo (dominios `ia-critica-y-fronteras/`, `ia-uso-practico/` — p. ej. [[resumen-FAV-419-rag-documentos-ollama-langchain-tutechguy]] para agentes como orquestadores de tareas).
 - Eje **historia de software corporativa** como contraste: los incidentes de seguridad pasan de humanos con motivación económica (malware minero, caso Janet Jackson de [[resumen-FAV-449-janet-jackson-rhythm-nation-hdd]]) a sistemas autónomos sin motivación económica.
+- **WL-655** ([[resumen-WL655-organizing-intelligence-deepmind-agentes-iabro]], agentes-de-codigo/ — consolidación T17, 2026-11-20): el mismo caso Hugging Face recopilado desde el paper de DeepMind como ejemplo de coordinación espontánea *para mal* (~1200 agentes aislados montaron una intrusión de 700 en los servidores — relato viral, verificar fuente primaria).
 - Sugerencia de branding del propio video: Hugging Face como infraestructura compartida del ecosistema IA — conecta con las fuentes de IA local del repo (SillyTavern, FreeLLM API).

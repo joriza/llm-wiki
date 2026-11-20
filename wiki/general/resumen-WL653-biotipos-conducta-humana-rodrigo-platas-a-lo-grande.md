@@ -27,6 +27,6 @@ García Platas expone su «metodología propia»: unir la **teoría de los tempe
 
 ## Cruces
 
-- **WL-647** (Gente Interesante): mismo autor y marco; la wiki ya señaló el patrón — este episodio es la 2.ª fuente y confirma la evaluación crítica. Cableado a una eventual página de entidad (García Platas) y ajuste de WL-647: aplazado a la consolidación T17 (superficies de este relevo no incluyen wiki/general/).
+- **WL-647** (Gente Interesante): mismo autor y marco; la wiki ya señaló el patrón — este episodio es la 2.ª fuente y confirma la evaluación crítica. Entidad creada: [[rodrigo-garcia-platas]] (nota de parcialidad compartida, consolidación T17).
 - **[[la-etiqueta-miente]]**: el biotipo como etiqueta que «explica» todo — caso de estudio del patrón.
 - **WL-648 / [[educacion-evidencia-vs-institucion]]**: contraste útil — WL-652 (Liberalístico) también usa la autoridad «desde dentro del sistema» para tesis fuertes; aquí la autoridad es la tradición precientífica.
