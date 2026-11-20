@@ -4527,3 +4527,5 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta WL | WL-665 velocidad de la luz (Física Sin Fórmulas) — tramo 102 relevo 2 (3/5 del relevo)
 
 ## [2026-11-20] ingesta WL | WL-666 bosón de Higgs (Física Sin Fórmulas) — tramo 102 relevo 2 (4/5 del relevo)
+
+## [2026-11-20] ingesta WL | WL-667 Vuelta de Obligado 1845 (CM | Historia y Decisiones) — tramo 102 relevo 2 (5/5 del relevo)
