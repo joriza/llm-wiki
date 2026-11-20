@@ -4651,3 +4651,6 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 ## [2026-11-20] ingesta WL | WL-696 burbuja paraguaya + cláusula antichina (tramo 103 relevo 1, 2/5)
 - Fuente: `THOcdBCzmwc` (Radio Con Vos 89.9 / Bercovich, 27:35, cache índice 1). Raw `raw/wl/tramo-103/2026-11-06-milei-y-galperin-en-el-espejo-de-la-burbuja-paraguaya-y-la-clausula-antichina-l-.md` + resumen `wiki/wl/tramo-103/resumen-WL696-burbuja-paraguaya-clausula-antichina-bercovich.md` + fila en index.md. Cableado mínimo: [[la-etiqueta-miente]]; sin dominios nuevos (S4); consolidación aplazada.
+
+## [2026-11-20] ingesta WL | WL-697 dueños de Argentina abandonan a Milei (tramo 103 relevo 1, 3/5)
+- Fuente: `K-_AoFe1YP0` (Gonzalo Finlez, 15:08, cache índice 2). Raw `raw/wl/tramo-103/2026-11-12-los-duenos-de-argentina-abandonan-a-milei.md` + resumen `wiki/wl/tramo-103/resumen-WL697-duenos-de-argentina-abandonan-a-milei-finlez.md` + fila en index.md. Cableado mínimo: [[la-etiqueta-miente]]; sin dominios nuevos (S4); consolidación aplazada.
