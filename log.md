@@ -4660,3 +4660,6 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 ## [2026-11-20] ingesta WL | WL-699 soviéticos clonaban microchips (tramo 103 relevo 1, 5/5)
 - Fuente: `UI0JtKuyEFQ` (Herschel González., 12:10, cache índice 4). Raw `raw/wl/tramo-103/2026-11-20-como-los-sovieticos-clonaban-microchips-con-un-microscopio.md` + resumen `wiki/wl/tramo-103/resumen-WL699-sovieticos-clonaban-microchips-herschel-gonzalez.md` + fila en index.md. Cableado mínimo: [[historia-software-corporativa]], [[historia-de-la-tecnologia]]; sin dominios nuevos (S4); consolidación aplazada.
+
+## [2026-11-20] ingesta WL | WL-700 niños que crecieron solos — Generación X (tramo 103 relevo 2, 1/5)
+- Fuente: `bLeD_Ory_2E` (Mente Descubierta, 19:01, cache índice 5). Raw `raw/wl/tramo-103/2026-11-18-los-ninos-que-crecieron-solos-la-psicologia-de-la-generacion-de-acero-1965-1980.md` + resumen `wiki/wl/tramo-103/resumen-WL700-ninos-que-crecieron-solos-generacion-x-mente-descubierta.md` + fila en index.md. Cableado mínimo: hilo Generación X (2 resúmenes previos), [[mente-descubierta]] candidata entidad, [[sesgos-de-decision]]; sin dominios nuevos (S4); consolidación aplazada.
