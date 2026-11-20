@@ -35,3 +35,6 @@ El caso positivo y acotado del Fragmentarium es la contra-evidencia del clúster
 - **WL-68/47/52** ([[burnout-era-ia]]): las condiciones de supervisión que aquí sí se cumplen.
 - **WL-78**: qué pasa cuando el dominio NO está cerrado — la ambigüedad rellenada.
 - Registro de verificación: nombres propios del raw con ASR degradado (Guthers/Gordin, al-Hadir, PNAS Nexus) — citar desde el resumen, no del audio.
+
+
+**Actualización 2026-11-20 (consolidación T23, tramo 104)**: WL-705 ([[resumen-WL705-tablilla-babilonica-guerra-dioses]], general/ — el lado filológico-mítico que WL-075 solo citaba: Enuma Elish completo, Sitchin desmontado con números (Nibiru = término de cruce asociado a Júpiter; cinturón de asteroides = 3 % masa lunar), la reconstrucción pseudocientífica del pasado frente a la real).
