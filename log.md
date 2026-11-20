@@ -4551,3 +4551,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-11-05-por-que-los-hombres-ya-no-ayudan-a-las-mujeres.md` (WD25syjyAlo, Mente Masculina, 16:30, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL675-hombres-ya-no-ayudan-mente-masculina.md`.
 - Tesis: retirada masculina de la ayuda informal como cambio de coste-beneficio; hilo «retirada masculina» con WL-677. 1.ª fuente del canal.
+## [2026-11-20] ingesta | WL-676 — ¿La renta básica universal es inevitable? (tramo 102 relevo 4, 4/5)
+
+- Fuente: `raw/wl/tramo-102/2026-11-19-la-renta-basica-universal-es-inevitable-la-ia-lo-cambia-todo.md` (qxHR-r37YW4, Roberto Augusto | Filosofía de la IA, 15:43, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL676-renta-basica-universal-ia-roberto-augusto.md`.
+- Tesis: RBU inevitable como consecuencia de la automatización IA, con dos sociedades y críticas propias declaradas. 1.ª fuente del canal.
