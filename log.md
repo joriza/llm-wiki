@@ -4621,3 +4621,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta | WL-690 — La psicología del hombre-niño (tramo 102 relevo 7, 3/5)
 - Fuente: `raw/wl/tramo-102/2026-10-29-la-psicologia-del-hombre-nino-por-que-algunos-hombres-nunca-maduran.md` (RRt-dbwV60E, Intimind, 14:15, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL690-hombre-nino-puer-aeternus-intimind.md`.
 - Tesis: Puer Aeternus — el potencial como droga, la fuga de la incomodidad como mecanismo; madurar = agencia y promesas cumplidas. 1.ª fuente del canal Intimind.
+
+## [2026-11-20] ingesta | WL-691 — Cuélgate 1 minuto al día (tramo 102 relevo 7, 4/5)
+- Fuente: `raw/wl/tramo-102/2026-11-10-cuelgate-1-minuto-al-dia-esto-le-pasa-a-tu-cuerpo-en-30-dias.md` (9mfGBxgFBxI, La Máscara Fitness, 07:18, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL691-colgarse-1-minuto-diario-la-mascara-fitness.md`.
+- Tesis: agarre como biomarcador (PURE) + progresión concreta de 30 días; descargos honestos (alivia no cura, Kirsch sin suficiente evidencia). 1.ª fuente del canal.
