@@ -4584,3 +4584,8 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-06-21-no-deberias-tomar-mate.md` (vtMBf4uQEXw, Análisis Bien Argentino, 14:46, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL682-no-deberias-tomar-mate-analisis-bien-argentino.md`.
 - Tesis: historia completa del mate (guaraníes → prohibiciones → jesuitas → industria); título clickbait desmentido por el cierre. 1.ª fuente del canal.
+
+## [2026-11-20] ingesta | WL-683 — Dejo AWS después de 7 años (tramo 102 relevo 6, 1/5)
+
+- Fuente: `raw/wl/tramo-102/2026-11-18-dejo-aws-despues-de-7-anos.md` (7cu6OqwqkLE, Marcia en Desplegando Cloud, 16:48, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL683-dejo-aws-marcia-cloud-carrera.md`.
+- Tesis: carrera ≠ empleador; visibilidad pública y aprendizaje en comunidad como activos de trayectoria. 1.ª fuente del canal.
