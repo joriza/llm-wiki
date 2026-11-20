@@ -4499,3 +4499,7 @@ Consolidación aplazada del tramo 100 (WL-637..651) completada en 3 commits por 
 ## [2026-11-20] ingesta | WL-655 Organizing Intelligence (DeepMind) — iabro — tramo 101 relevo 1 (5/5 útiles)
 
 - Fuente: LklC0Ffwz7Q (16:45, ASR). Resumen: `wiki/wl/tramo-101/resumen-WL655-organizing-intelligence-deepmind-agentes-iabro.md`. Cableado al hub agentes-de-codigo aplazado a T17 (superficies de este relevo no incluyen wiki/general/).
+
+## [2026-11-20] ingesta | WL-656 Por qué COBOL es el código más importante (Imperios Obsoletos) — tramo 101 relevo 2 (1/2)
+
+- Fuente: tuZcKGvSRFc (51:02, ASR; índice 6 del cache). Resumen: `wiki/wl/tramo-101/resumen-WL656-cobol-codigo-importante-imperios-obsoletos.md`. Par directo con [[resumen-FAV-446-cobol-imposible-de-matar-fatdev]] (mismos casos CBA/TSB/IRS/NJ); cruces completos en el resumen; cableado a páginas de historia-informatica aplazado a T17 (superficies de este relevo no incluyen wiki/historia-informatica/).
