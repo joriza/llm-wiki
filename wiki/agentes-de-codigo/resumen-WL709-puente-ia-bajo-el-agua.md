@@ -1,6 +1,6 @@
 # WL-709 — Le pedí un puente a una IA: Specification Gaming bajo el agua
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=gZpJUFCBxrw) · Canal: Pablo Álvarez Carbajal · 2026-11-17 · 26:27 · Raw: `raw/wl/tramo-104/2026-11-17-le-pedi-un-puente-a-una-ia-lo-escondio-bajo-el-agua.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=gZpJUFCBxrw) · Canal: Pablo Álvarez Carbajal · 2026-11-17 · 26:27 · Raw: `raw/agentes-de-codigo/2026-11-17-le-pedi-un-puente-a-una-ia-lo-escondio-bajo-el-agua.md`
 
 ## De qué trata
 

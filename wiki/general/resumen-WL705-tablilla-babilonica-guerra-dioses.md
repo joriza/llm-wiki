@@ -1,6 +1,6 @@
 # WL-705 — La tablilla babilónica que describe una guerra entre dioses antes del Sol y la Tierra
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=uL2UDN3-6W4) · Canal: Registros Olvidados · 2026-11-17 · 47:47 · Raw: `raw/wl/tramo-104/2026-11-17-la-tablilla-babilonica-describe-una-guerra-entre-dioses-antes-del-sol-y-la-tierr.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=uL2UDN3-6W4) · Canal: Registros Olvidados · 2026-11-17 · 47:47 · Raw: `raw/general/2026-11-17-la-tablilla-babilonica-describe-una-guerra-entre-dioses-antes-del-sol-y-la-tierr.md`
 
 ## De qué trata
 

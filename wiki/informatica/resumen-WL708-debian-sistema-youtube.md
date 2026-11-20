@@ -1,6 +1,6 @@
 # WL-708 — Debian: el sistema que corre YouTube, la ISS y el CERN
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=AP8xOL1eubQ) · Canal: La Chica de Sistemas · 2026-04-21 · 32:04 · Raw: `raw/wl/tramo-104/2026-04-21-el-sistema-que-usa-youtube-para-que-veas-este-video.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=AP8xOL1eubQ) · Canal: La Chica de Sistemas · 2026-04-21 · 32:04 · Raw: `raw/informatica/2026-04-21-el-sistema-que-usa-youtube-para-que-veas-este-video.md`
 
 ## De qué trata
 

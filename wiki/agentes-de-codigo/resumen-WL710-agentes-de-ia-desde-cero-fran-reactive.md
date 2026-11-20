@@ -1,6 +1,6 @@
 # WL-710 — Agentes de IA: todo lo que necesitas saber desde cero
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=NzTBP5Lj3ls) · Canal: Fran Reactive · 2026-11-20 · 24:14 · Raw: `raw/wl/tramo-104/2026-11-20-agentes-de-ia-todo-lo-que-necesitas-saber-desde-cero.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=NzTBP5Lj3ls) · Canal: Fran Reactive · 2026-11-20 · 24:14 · Raw: `raw/agentes-de-codigo/2026-11-20-agentes-de-ia-todo-lo-que-necesitas-saber-desde-cero.md`
 
 ## De qué trata
 

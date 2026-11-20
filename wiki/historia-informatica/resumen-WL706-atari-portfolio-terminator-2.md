@@ -1,6 +1,6 @@
 # WL-706 — La computadora de Terminator 2 era real (Atari Portfolio), y Atari la dejó morir
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=AGmg-DwpEdA) · Canal: Corotero · 2026-11-19 · 19:26 · Raw: `raw/wl/tramo-104/2026-11-20-la-computadora-de-terminator-2-era-real-y-atari-la-dejo-morir.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=AGmg-DwpEdA) · Canal: Corotero · 2026-11-19 · 19:26 · Raw: `raw/historia-informatica/2026-11-20-la-computadora-de-terminator-2-era-real-y-atari-la-dejo-morir.md`
 
 ## De qué trata
 

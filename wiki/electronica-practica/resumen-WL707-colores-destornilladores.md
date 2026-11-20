@@ -1,6 +1,6 @@
 # WL-707 — Por qué los destornilladores tienen colores diferentes
 
-**Fuente**: [Vídeo](https://www.youtube.com/watch?v=K26tzCN5nz4) · Canal: Todo Tiene un Porqué · 2026-11-13 · 07:55 · Raw: `raw/wl/tramo-104/2026-11-13-por-que-los-destornilladores-tienen-colores-diferentes-casi-nadie-lo-sabe.md`
+**Fuente**: [Vídeo](https://www.youtube.com/watch?v=K26tzCN5nz4) · Canal: Todo Tiene un Porqué · 2026-11-13 · 07:55 · Raw: `raw/electronica-practica/2026-11-13-por-que-los-destornilladores-tienen-colores-diferentes-casi-nadie-lo-sabe.md`
 
 ## De qué trata
 
