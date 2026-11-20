@@ -4555,3 +4555,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-11-19-la-renta-basica-universal-es-inevitable-la-ia-lo-cambia-todo.md` (qxHR-r37YW4, Roberto Augusto | Filosofía de la IA, 15:43, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL676-renta-basica-universal-ia-roberto-augusto.md`.
 - Tesis: RBU inevitable como consecuencia de la automatización IA, con dos sociedades y críticas propias declaradas. 1.ª fuente del canal.
+## [2026-11-20] ingesta | WL-677 — Por qué los hombres abandonan la universidad (tramo 102 relevo 4, 5/5)
+
+- Fuente: `raw/wl/tramo-102/2026-11-09-por-que-los-hombres-estan-abandonando-la-universidad-y-el-sistema-esta-colapsand.md` (d6BEtxDqdWE, Mente Masculina, 22:21, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL677-hombres-abandonan-universidad-mente-masculina.md`.
+- Tesis: «boicot sin reunión» al sistema universitario; hilo «retirada masculina» con WL-675; cableado a [[educacion-evidencia-vs-institucion]]. 2.ª fuente del canal (entidad candidata para T19).
