@@ -4539,3 +4539,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta WL | WL-671 por qué los ricos de antes nunca trabajaban (Hilos del Poder) — tramo 102 relevo 3 (4/5 del relevo)
 
 ## [2026-11-20] ingesta WL | WL-672 escuela/domesticación según Nietzsche (Más Allá de la Duda) — tramo 102 relevo 3 (5/5 del relevo)
+## [2026-11-20] ingesta | WL-673 — No Eres Solo Tú: Ya Nadie Quiere Tener Hijos (tramo 102 relevo 4, 1/5)
+
+- Fuente: `raw/wl/tramo-102/2026-11-03-no-eres-solo-tu-ya-nadie-quiere-tener-hijos.md` (uvwSiwDQMqE, Economía Sin Anestesia, 35:17, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL673-no-eres-solo-tu-coste-de-un-hijo-espana.md`.
+- Tesis: natalidad mínima en 80+ años por precio (factura ~160.000 €/hijo), no por egoísmo; penalización de carrera de la madre; palancas de política pública. 1.ª fuente del canal.
