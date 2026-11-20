@@ -4684,3 +4684,5 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 - **Verificación final**: 0 resúmenes y 0 raws en `wiki/wl/tramo-103/` y `raw/wl/tramo-103/`; 0 referencias a `wl/tramo-103` en index.md; git status limpio salvo preexistentes (.obsidian/workspace.json, pdt-llm-wiki.md). Sin dominios nuevos (S4); candidatas a baja NO ejecutadas (triage del usuario). Sin push (orquestador).
 
 ## [2026-11-20] ingesta WL | WL-705 la tablilla babilónica que describe una guerra entre dioses (tramo 104 relevo 1, 1/5)
+
+## [2026-11-20] ingesta WL | WL-706 la computadora de Terminator 2 era real (Corotero) (tramo 104 relevo 1, 2/5)
