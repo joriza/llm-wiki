@@ -4511,3 +4511,7 @@ Consolidación aplazada del tramo 101 (WL-652..656) completada en 4 commits: mig
 ## [2026-11-20] ingesta WL | WL-657 OMNIGET (Manifestiax) — tramo 102 relevo 1 (1/5 del relevo)
 
 ## [2026-11-20] ingesta WL | WL-658 Por qué el mundo huye de Argentina (Análisis Bien Argentino) — tramo 102 relevo 1 (2/5 del relevo)
+
+## [2026-11-20] ingesta WL | WL-659 (skip) + WL-660 Laje vs Gloria Álvarez — tramo 102 relevo 1 (3/5 del relevo)
+
+WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no es a los 20» — dedupe pre-flight la halló ya procesada en raw/, sin resumen ni página; el encargo T18 la anticipaba útil). WL-660: `IrtI_McB0UA` (Soldado-Cultural, Laje/Gloria Álvarez) procesado — raw + resumen + index + commit.
