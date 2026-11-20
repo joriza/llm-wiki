@@ -4648,3 +4648,6 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 ## [2026-11-20] ingesta WL | WL-695 SnowPod — impresora 3D de metal de escritorio (tramo 103 relevo 1, 1/5)
 - Fuente: `-Pa9HhONqxE` (Endika Mena, 10:04, cache fresco índice 0; cabeza verificada antes del primer `--one`). Raw `raw/wl/tramo-103/2026-11-15-por-fin-una-impresora-3d-de-metal-de-escritorio-asi-es-snowpod.md` + resumen `wiki/wl/tramo-103/resumen-WL695-impresora-3d-metal-escritorio-snowpod.md` + fila en index.md. Cableado mínimo: [[historia-de-la-tecnologia]], [[fabricacion-odm-vs-marca]] (menciones tangenciales); sin dominios nuevos (S4); consolidación aplazada.
+
+## [2026-11-20] ingesta WL | WL-696 burbuja paraguaya + cláusula antichina (tramo 103 relevo 1, 2/5)
+- Fuente: `THOcdBCzmwc` (Radio Con Vos 89.9 / Bercovich, 27:35, cache índice 1). Raw `raw/wl/tramo-103/2026-11-06-milei-y-galperin-en-el-espejo-de-la-burbuja-paraguaya-y-la-clausula-antichina-l-.md` + resumen `wiki/wl/tramo-103/resumen-WL696-burbuja-paraguaya-clausula-antichina-bercovich.md` + fila en index.md. Cableado mínimo: [[la-etiqueta-miente]]; sin dominios nuevos (S4); consolidación aplazada.
