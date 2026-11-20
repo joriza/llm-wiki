@@ -4686,3 +4686,5 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta WL | WL-705 la tablilla babilónica que describe una guerra entre dioses (tramo 104 relevo 1, 1/5)
 
 ## [2026-11-20] ingesta WL | WL-706 la computadora de Terminator 2 era real (Corotero) (tramo 104 relevo 1, 2/5)
+
+## [2026-11-20] ingesta WL | WL-707 por qué los destornilladores tienen colores diferentes (tramo 104 relevo 1, 3/5)
