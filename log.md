@@ -4564,3 +4564,8 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-10-17-experto-n1-en-comunicacion-que-le-esta-pasando-a-la-nueva-generacion.md` (huZAzk7Rwdg, Darle Forma, 134:01, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL678-experto-comunicacion-nueva-generacion-darle-forma.md`.
 - Tesis: método de comunicación (teoría/práctica/autoconocimiento) y testimonio docente sobre la nueva generación; cableado a [[educacion-evidencia-vs-institucion]]. 1.ª fuente del canal.
+
+## [2026-11-20] ingesta | WL-679 — Perovskita solar en Canadá (tramo 102 relevo 5, 2/5)
+
+- Fuente: `raw/wl/tramo-102/2026-11-20-el-nuevo-invento-de-canada-que-reemplazara-los-paneles-solares-para-siempre.md` (lOjlVAYRIuc, Ingenio Boreal, 23:35, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL679-perovskita-canada-paneles-solares-ingenio-boreal.md`.
+- Tesis: células en tándem perovskita-silicio como complemento (no reemplazo) del silicio; divulgación sólida con cierre honesto sobre estabilidad pendiente. 1.ª fuente del canal.
