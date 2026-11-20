@@ -4688,3 +4688,5 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta WL | WL-706 la computadora de Terminator 2 era real (Corotero) (tramo 104 relevo 1, 2/5)
 
 ## [2026-11-20] ingesta WL | WL-707 por qué los destornilladores tienen colores diferentes (tramo 104 relevo 1, 3/5)
+
+## [2026-11-20] ingesta WL | WL-708 el sistema que usa YouTube para que veas este video: Debian (tramo 104 relevo 1, 4/5)
