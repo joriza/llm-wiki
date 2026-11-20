@@ -4692,3 +4692,6 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta WL | WL-708 el sistema que usa YouTube para que veas este video: Debian (tramo 104 relevo 1, 4/5)
 
 ## [2026-11-20] ingesta WL | WL-709 le pedí un puente a una IA (Pablo Álvarez Carbajal) (tramo 104 relevo 1, 5/5)
+
+## [2026-11-20] ingesta WL | WL-710 agentes de IA: todo lo que necesitas saber desde cero (Fran Reactive) (tramo 104 relevo 2 FINAL, 6/6)
+- Fuente: `NzTBP5Lj3ls` (Fran Reactive, 24:14, cache índice 6). Raw `raw/wl/tramo-104/2026-11-20-agentes-de-ia-todo-lo-que-necesitas-saber-desde-cero.md` + resumen `wiki/wl/tramo-104/resumen-WL710-agentes-de-ia-desde-cero-fran-reactive.md` + fila en index.md. Cableado mínimo: [[agentes-de-codigo]], [[delegacion-cognitiva-ia]], [[paradoja-jevons-software]]; sin dominios nuevos (S4); consolidación aplazada (T23). CIERRE DE LISTA: 12/12 del cache agotadas o saltadas.
