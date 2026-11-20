@@ -4589,3 +4589,8 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-11-18-dejo-aws-despues-de-7-anos.md` (7cu6OqwqkLE, Marcia en Desplegando Cloud, 16:48, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL683-dejo-aws-marcia-cloud-carrera.md`.
 - Tesis: carrera ≠ empleador; visibilidad pública y aprendizaje en comunidad como activos de trayectoria. 1.ª fuente del canal.
+
+## [2026-11-20] ingesta | WL-684 — El Balín Bennett y el "racismo en Argentina" (tramo 102 relevo 6, 2/5)
+
+- Fuente: `raw/wl/tramo-102/2026-07-28-el-balin-bennett-exploto-cuando-se-refirieron-al-racismo-en-argentina.md` (vXdMPl1Zasg, La Interna, 07:18, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL684-balin-bennett-racismo-argentina-la-interna.md`.
+- Tesis: testimonio anecdótico como refutación del señalamiento de racismo; «campaña montada» sin evidencia (señalado). 1.ª fuente del canal.
