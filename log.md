@@ -4574,3 +4574,8 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-09-21-asi-es-la-vida-real-en-argentina-el-pais-que-habla-espanol-con-entonacion-italia.md` (A3MRS8OnYwM, Así Viven, 31:59, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL680-vida-real-argentina-entonacion-italiana-asi-viven.md`.
 - Tesis: la entonación porteña ≈ napolitana (estudio CONICET/Colantoni) como consecuencia medible de la inmigración italiana; divulgación lingüística con fuentes citadas. 1.ª fuente del canal.
+
+## [2026-11-20] ingesta | WL-681 — 10 pueblos baratos de Buenos Aires (tramo 102 relevo 5, 4/5)
+
+- Fuente: `raw/wl/tramo-102/2026-05-05-10-pueblos-de-buenos-aires-provincia-con-casas-tan-baratas-que-parece-estafa.md` (NLv4alIJQdQ, Argentina Sin Filtros, 18:38, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL681-pueblos-baratos-buenos-aires-argentina-sin-filtros.md`.
+- Tesis: arquetipo del pueblo ferroviario pampeano vaciado vs. reinventado; precios sin fuente (señalado). 1.ª fuente del canal.
