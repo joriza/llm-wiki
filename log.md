@@ -4613,3 +4613,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta | WL-688 — Por qué ya nadie te contesta cuando buscas trabajo (tramo 102 relevo 7, 1/5)
 - Fuente: `raw/wl/tramo-102/2026-11-11-por-que-ya-nadie-te-contesta-cuando-buscas-trabajo.md` (U0wun_0l1Fg, Economía Sin Anestesia, 26:27, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL688-nadie-te-contesta-buscas-trabajo.md`.
 - Tesis: ofertas fantasma + filtros ATS + IA en ambos lados = silencio sistémico; indefensión aprendida como consecuencia. 3.ª fuente del canal (WL-673/674).
+
+## [2026-11-20] ingesta | WL-689 — Nunca reveles tu próximo paso (tramo 102 relevo 7, 2/5)
+- Fuente: `raw/wl/tramo-102/2026-11-20-nunca-reveles-tu-proximo-paso-haz-que-te-respeten-discurso-motivacional-de-jorda.md` (typz45j_fNY, Secretos de la Sabiduría, 17:28, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL689-nunca-reveles-tu-proximo-paso-secretos-sabiduria.md`.
+- Tesis: reserva estratégica y límites con consecuencias. ADVERTENCIA: atribución a Jordan Peterson sin sustento — content-farm motivacional; candidata a baja.
