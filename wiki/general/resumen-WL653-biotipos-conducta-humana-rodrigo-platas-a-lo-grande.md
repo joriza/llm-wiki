@@ -1,9 +1,9 @@
 # WL-653 — Experto en Conducta Humana: «Si tienes la cara de esta forma, eres…» (A lo Grande Podcast)
 
-- **Fuente**: `raw/wl/tramo-101/2026-11-16-experto-en-conducta-humana-si-tienes-la-cara-de-esta-forma-eres.md`
+- **Fuente**: `raw/general/2026-11-16-experto-en-conducta-humana-si-tienes-la-cara-de-esta-forma-eres.md`
 - **Video**: https://www.youtube.com/watch?v=zjxTZMS37i8 · Canal: A lo Grande Podcast (Marian Gamboa) · 2026-11-16 · 112:40 · subtítulos manuales es
 - **Tipo**: entrevista larga (2.ª fuente de Rodrigo García Platas en la wiki; la 1.ª fue WL-647, Gente Interesante)
-- **Dominio**: general
+- **Dominio definitivo**: general (conducta humana/psicología aplicada — sin dominio propio, consolidación T17)
 
 ## Tema
 

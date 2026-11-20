@@ -1,9 +1,9 @@
 # WL-655 — Google DeepMind avisa: el día que se organicen los agentes (iabro)
 
-- **Fuente**: `raw/wl/tramo-101/2026-11-18-google-deepmind-avisa-el-dia-que-se-organicen-los-agentes.md`
+- **Fuente**: `raw/agentes-de-codigo/2026-11-18-google-deepmind-avisa-el-dia-que-se-organicen-los-agentes.md`
 - **Video**: https://www.youtube.com/watch?v=LklC0Ffwz7Q · Canal: iabro · 2026-11-18 · 16:45 · subtítulos automáticos (ASR)
 - **Tipo**: divulgación de paper (1.ª fuente del canal en la wiki)
-- **Dominio**: general
+- **Dominio definitivo**: agentes-de-codigo (coordinación multi-agente — consolidación T17)
 
 ## El estudio
 

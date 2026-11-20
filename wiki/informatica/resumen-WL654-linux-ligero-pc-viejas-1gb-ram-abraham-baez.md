@@ -1,9 +1,9 @@
 # WL-654 — Un sistema moderno para PC viejas con 1 GB de RAM y más de 20 apps (Abraham Francisco Baez)
 
-- **Fuente**: `raw/wl/tramo-101/2026-11-17-esto-es-una-total-locura-un-sistema-moderno-para-pc-viejas-con-1gb-de-ram-y-mas-.md`
+- **Fuente**: `raw/informatica/2026-11-17-esto-es-una-total-locura-un-sistema-moderno-para-pc-viejas-con-1gb-de-ram-y-mas-.md`
 - **Video**: https://www.youtube.com/watch?v=E9hQu-uogew · Canal: Abraham Francisco Baez · 2026-11-17 · 13:46 · subtítulos automáticos (ASR)
 - **Tipo**: tutorial de instalación (1.ª fuente del canal en la wiki)
-- **Dominio**: general
+- **Dominio definitivo**: informatica (Linux ligero / resurrección de hardware — consolidación T17)
 
 ## Contenido
 

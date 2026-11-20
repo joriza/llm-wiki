@@ -1,8 +1,8 @@
 # WL-656 — Por Qué COBOL Es El Código Más Importante Que Nadie Puede Reemplazar (Imperios Obsoletos)
 
 - **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=tuZcKGvSRFc) — Canal **Imperios Obsoletos**, publicado 2026-11-18, 51:02, ES (subtítulos automáticos).
-- **Raw**: `raw/wl/tramo-101/2026-11-18-por-que-cobol-es-el-codigo-mas-importante-que-nadie-puede-reemplazar.md`
-- **Dominio**: wl/tramo-101 (migración pendiente; vecino: historia-informatica).
+- **Raw**: `raw/informatica-teoria/2026-11-18-por-que-cobol-es-el-codigo-mas-importante-que-nadie-puede-reemplazar.md`
+- **Dominio definitivo**: informatica-teoria (precedente WL-313 COBOL; migración T17, vecino: historia-informatica).
 - **Procesado**: 2026-11-20 (tramo 101, relevo 2).
 
 ## Tesis

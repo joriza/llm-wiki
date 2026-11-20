@@ -1,9 +1,9 @@
 # WL-652 — Neurociencia del Aprendizaje: ¿aprender o estudiar? ¿Motivar o manipular? (Liberalístico)
 
-- **Fuente**: `raw/wl/tramo-101/2025-08-29-neurociencia-del-aprendizaje-aprender-o-estudiar-motivar-o-manipular-educar-o-es.md`
+- **Fuente**: `raw/general/2025-08-29-neurociencia-del-aprendizaje-aprender-o-estudiar-motivar-o-manipular-educar-o-es.md`
 - **Video**: https://www.youtube.com/watch?v=dE_5xLRWi3Q · Canal: Liberalístico (Cristina Soto) · 2025-08-29 · 38:59 · subtítulos manuales es-ES
 - **Tipo**: ensayo guionizado (4.ª fuente del canal en la wiki)
-- **Dominio**: general
+- **Dominio definitivo**: general (educación/aprendizaje — sede del concepto [[educacion-evidencia-vs-institucion]]; sin dominio propio, consolidación T17)
 
 ## Tesis
 
