@@ -31,3 +31,4 @@ Ensayo de autoayuda masculina con armazón de racionalidad (coste-beneficio, apr
 - WL-674 y WL-677: hilo «retirada masculina» del relevo (ayuda a desconocidas / universidad) — en ambos, cambios de incentivos leídos como cambio de carácter.
 - WL-670: «la duda no es miedo, es incertidumbre ante reglas poco claras» es una variante de la aversión a la ambigüedad del catálogo de sesgos.
 - WL-659/669: aprendizaje por desastres ajenos sin refuerzo — la asimetría «buenos resultados invisibles, malos circulan» es survivorship invertido.
+- Entidad del canal: [[mente-masculina]] (1.ª de 2 fuentes — nota crítica del canal registrada).

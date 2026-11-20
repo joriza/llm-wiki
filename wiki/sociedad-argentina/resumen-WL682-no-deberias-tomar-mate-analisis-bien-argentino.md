@@ -24,3 +24,4 @@ Divulgación histórica correcta para el formato corto: los hitos (prohibición 
 - Hilo Argentina del tramo: WL-680 (identidad rioplatense; el mate como el ritual compartido AR/UY que ahí se describe), WL-681 (interior bonaerense/litoral), WL-678 (la ronda del mate como escenario del hablar argentino que Darle Forma analiza).
 - WL-667 (historia argentina): la Mesopotamia de Andresito/Bonpland/Francia es el mismo escenario post-independiente.
 - WL-673 (natalidad): el mate como institución de encuentro frente al aislamiento que ese video diagnostica — contraste cultural útil.
+- Entidad del canal: [[analisis-bien-argentino]] (1.ª de 3 fuentes del tramo — calidad heterogénea, ver página).

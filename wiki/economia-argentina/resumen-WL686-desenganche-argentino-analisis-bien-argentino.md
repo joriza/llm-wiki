@@ -28,3 +28,4 @@ La mejor fuente técnica del bloque argentino del tramo: marco explícito y unif
 - WL-687 (la verdadera casta): el relato «sin culpable único» vs. el relato de casta — contraste de marcos explicativos del declive.
 - WL-671 (ricos de antes no trabajaban): renta agrícola extractiva como base histórica del ingreso.
 - [[historia-argentina]] si existe como página de concepto; hilo Argentina WL-658/661/667/680/681/682/684/685.
+- Entidad del canal: [[analisis-bien-argentino]] (2.ª de 3 — la mejor fuente técnica del canal).

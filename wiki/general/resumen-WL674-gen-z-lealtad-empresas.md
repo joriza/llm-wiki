@@ -26,3 +26,4 @@ El mejor formato del canal: narrativa familiar (Ramón/Leo/Inés/Elena) usada pa
 - WL-668 (Bilinkis, estrés financiero) y WL-671 (capital vs. trabajo): el tablero laboral como mitad de la ecuación de escasez; «la lealtad no se paga» es la versión salarial de «el ingreso del trabajo no escala».
 - La IA y el primer escalón ↔ [[delegacion-cognitiva-ia]]/[[paradoja-jevons-software]]/WL-676: quién forma a la próxima generación cuando la tarea básica se automatiza.
 - WL-658 (Argentina/fuga): los mismos incentivos que expulsan a los jóvenes de un país los hacen saltar de empresa.
+- Entidad del canal: [[economia-sin-anestesia]] (2.ª de 4).

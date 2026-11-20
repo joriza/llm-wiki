@@ -20,3 +20,4 @@ Divulgación sobresaliente: correcta en la historia (1964 con los tres grupos, B
 
 - Par directo del mismo canal: WL-665 (velocidad de la luz — comparten el marco «sin masa → c»).
 - Divulgación física en la wiki: WL-636, WL-634.
+- Entidad del canal: [[fisica-sin-formulas]] (2.ª de 2, par de WL-665).

@@ -19,3 +19,4 @@ Divulgación de física impecable para nivel general: la cadena histórica es co
 
 - Divulgación física en la wiki: WL-636 (Cosmos Sin Filtro, Hubble/Swift) y WL-634 (Atlántida con IA — método); primera fuente de este canal.
 - La definición del metro desde c (1983) roza el tema estándares/historia técnica ([[historia-de-la-tecnologia]]).
+- Entidad del canal: [[fisica-sin-formulas]] (1.ª de 2 fuentes del tramo).

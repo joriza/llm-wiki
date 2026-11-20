@@ -31,3 +31,4 @@ Subtítulos manuales (calidad alta) y la mejor pieza del canal hasta ahora: narr
 - WL-676 (renta básica + IA) y WL-677 (abandono universitario): el mismo tablero laboral con incentivos rotos visto desde la política pública y la formación.
 - WL-683 (Marcia, carrera ≠ empleador): la salida por visibilidad y comunidad como respuesta individual al mercado opaco.
 - [[la-etiqueta-miente]]: la oferta de empleo como anuncio de imagen — la fachada que no promete lo que parece.
+- Entidad del canal: [[economia-sin-anestesia]] (3.ª de 4 — la mejor pieza del canal).

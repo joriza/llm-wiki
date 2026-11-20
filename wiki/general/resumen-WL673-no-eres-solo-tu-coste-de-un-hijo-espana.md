@@ -27,3 +27,4 @@ Video-essay de divulgación socioeconómica bien construido para su formato: los
 
 - WL-658 («Por qué el mundo huye de Argentina») y WL-659/668 (Bilinkis): hilo de decisiones económicas de la vida cotidiana del tramo — aquí la versión estructural (política pública) frente a la individual (estrés financiero).
 - WL-669: «el momento perfecto nunca llega» es exactamente la falacia de planificación / gravedad del presente del catálogo de sesgos.
+- Entidad del canal: [[economia-sin-anestesia]] (1.ª de 4 fuentes del tramo).

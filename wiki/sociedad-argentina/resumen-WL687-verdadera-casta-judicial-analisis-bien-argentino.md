@@ -26,3 +26,4 @@ Ensayo institucional sólido para el género: descripción verificable de proble
 - WL-671 (ricos de antes/Veblen) y WL-675 (ayuda informal): sustitutos sociales de servicios estatales fallidos.
 - WL-663 (DNI/ley natural, soberanismo pseudolegal): el contraste perfecto — donde WL-663 niega la legitimidad del sistema legal, WL-687 pide reformarlo desde adentro.
 - Hilo Argentina (WL-658/661/667/680-685); [[la-etiqueta-miente]] para el título.
+- Entidad del canal: [[analisis-bien-argentino]] (3.ª de 3).

@@ -32,3 +32,4 @@ Subtítulos manuales (calidad alta) y continuidad de la fórmula narrativa del c
 - WL-668/669 (Bilinkis, economía conductual): el «botón del medio» es el mismo sesgo de anclaje/predeterminación; complemento empírico de la microlección.
 - WL-690 (Puer Aeternus) tangencial: el malestar de «la cara de la gente cuando gira la pantalla» como coste social difuso del diseño.
 - Hilo EE. UU. laboral: WL-688 (mercado fantasma) y WL-693 comparten el patrón «el coste laboral se traslada al más débil de la transacción».
+- Entidad del canal: [[economia-sin-anestesia]] (4.ª de 4).
