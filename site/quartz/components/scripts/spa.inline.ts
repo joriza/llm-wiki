@@ -14,7 +14,9 @@ const isLocalUrl = (href: string) => {
     if (window.location.origin === url.origin) {
       return true
     }
-  } catch (e) {}
+  } catch {
+    return false
+  }
   return false
 }
 
@@ -61,9 +63,13 @@ let p: DOMParser
 async function _navigate(url: URL, isBack: boolean = false) {
   isNavigating = true
   startLoading()
+  let canonicalUrl = url
   p = p || new DOMParser()
   const contents = await fetchCanonical(url)
     .then((res) => {
+      // keep the post-redirect URL: GitHub Pages redirects folder URLs without a
+      // trailing slash, and pushing the pre-redirect URL breaks relative links
+      canonicalUrl = new URL(res.url)
       const contentType = res.headers.get("content-type")
       if (contentType?.startsWith("text/html")) {
         return res.text()
@@ -86,7 +92,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   cleanupFns.clear()
 
   const html = p.parseFromString(contents, "text/html")
-  normalizeRelativeURLs(html, url)
+  normalizeRelativeURLs(html, canonicalUrl)
 
   let title = html.querySelector("title")?.textContent
   if (title) {
@@ -123,7 +129,10 @@ async function _navigate(url: URL, isBack: boolean = false) {
   // delay setting the url until now
   // at this point everything is loaded so changing the url should resolve to the correct addresses
   if (!isBack) {
-    history.pushState({}, "", url)
+    // push the canonical (post-redirect) URL, preserving the original anchor
+    const pushUrl = new URL(canonicalUrl)
+    pushUrl.hash = url.hash
+    history.pushState({}, "", pushUrl)
   }
 
   notifyNav(getFullSlug(window))

@@ -232,9 +232,14 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
   if (opts.strategy === "relative") {
     return targetSlug as RelativeURL
   } else {
-    const folderTail = isFolderPath(targetSlug) ? "/" : ""
     const canonicalSlug = stripSlashes(targetSlug.slice(".".length))
     let [targetCanonical, targetAnchor] = splitAnchor(canonicalSlug)
+    const folderTail =
+      isFolderPath(targetSlug) ||
+      // folder names without trailing slash: detect via slugs that live under the target
+      opts.allSlugs.some((slug) => slug.startsWith(targetCanonical + "/"))
+        ? "/"
+        : ""
 
     if (opts.strategy === "shortest") {
       // if the file name is unique, then it's just the filename

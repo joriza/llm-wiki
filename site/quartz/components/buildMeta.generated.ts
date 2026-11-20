@@ -6,7 +6,7 @@ export interface BuildMeta {
 }
 
 export const buildMeta: BuildMeta = {
-  commitDate: null,
-  commitHash: null,
-  fuentesProcesadas: 0,
+  "commitDate": "2026-11-18",
+  "commitHash": "6ac35706",
+  "fuentesProcesadas": 1139
 }
