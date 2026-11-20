@@ -4547,3 +4547,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-10-31-por-que-la-gen-z-ya-no-es-leal-a-ninguna-empresa.md` (tmfawPye_JI, Economía Sin Anestesia, 26:30, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL674-gen-z-lealtad-empresas.md`.
 - Tesis: la lealtad laboral siempre fue un intercambio; la Gen Z es «la primera en leer la letra pequeña desde el principio». 2.ª fuente del canal.
+## [2026-11-20] ingesta | WL-675 — ¿Por qué los hombres ya no ayudan a las mujeres? (tramo 102 relevo 4, 3/5)
+
+- Fuente: `raw/wl/tramo-102/2026-11-05-por-que-los-hombres-ya-no-ayudan-a-las-mujeres.md` (WD25syjyAlo, Mente Masculina, 16:30, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL675-hombres-ya-no-ayudan-mente-masculina.md`.
+- Tesis: retirada masculina de la ayuda informal como cambio de coste-beneficio; hilo «retirada masculina» con WL-677. 1.ª fuente del canal.
