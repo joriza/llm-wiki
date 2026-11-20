@@ -4625,3 +4625,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta | WL-691 — Cuélgate 1 minuto al día (tramo 102 relevo 7, 4/5)
 - Fuente: `raw/wl/tramo-102/2026-11-10-cuelgate-1-minuto-al-dia-esto-le-pasa-a-tu-cuerpo-en-30-dias.md` (9mfGBxgFBxI, La Máscara Fitness, 07:18, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL691-colgarse-1-minuto-diario-la-mascara-fitness.md`.
 - Tesis: agarre como biomarcador (PURE) + progresión concreta de 30 días; descargos honestos (alivia no cura, Kirsch sin suficiente evidencia). 1.ª fuente del canal.
+
+## [2026-11-20] ingesta | WL-692 — Zuchovicki: charla de directorio (tramo 102 relevo 7, 5/5)
+- Fuente: `raw/wl/tramo-102/2026-10-29-milei-muy-emocionado-tras-el-mejor-discurso-de-zuchovicki.md` (bELoUwAV5pk, Fijap Liberal, 63:29, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL692-zuchovicki-charla-directorio-fijap-liberal.md`.
+- Tesis: decisión bajo incertidumbre + transitorio/permanente + plan en 3 fases desde el mercado; título clickbait (Milei casi no aparece). 1.ª fuente del canal.
