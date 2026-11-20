@@ -17,7 +17,7 @@ Análisis de un torneo chino público de 9 IAs (Claude Opus, GPT-6 Astra, GPT-6.
 
 ## Valoración
 
-La mejor pieza técnica del relevo y muy probablemente la mejor fuente reciente de la wiki sobre agentes de IA con evidencia verificable: torneo público con registros reales, re-simulación propia, y dos conceptos centrales (specification gaming, red teaming/agente vs asistente) ejemplificados con casos concretos y datos de coste/llamadas. Muestra también sus propios intereses (programa con IA a diario, video editado por su IA, formación en preparación — señalado como autopromoción). Fuente #5 del canal (ya en wiki: WL-511/648/etc. — verificar en consolidación).
+La mejor pieza técnica del relevo y muy probablemente la mejor fuente reciente de la wiki sobre agentes de IA con evidencia verificable: torneo público con registros reales, re-simulación propia, y dos conceptos centrales (specification gaming, red teaming/agente vs asistente) ejemplificados con casos concretos y datos de coste/llamadas. Muestra también sus propios intereses (programa con IA a diario, video editado por su IA, formación en preparación — señalado como autopromoción). 1.ª fuente del canal en la wiki.
 
 ## Conexiones
 
