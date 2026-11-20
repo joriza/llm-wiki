@@ -4535,3 +4535,5 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta WL | WL-669 psychology MONEY part 10 (LITTLE BIT BETTER) — tramo 102 relevo 3 (2/5 del relevo)
 
 ## [2026-11-20] ingesta WL | WL-670 los 11 niveles de inteligencia humana (Mente Descubierta) — tramo 102 relevo 3 (3/5 del relevo)
+
+## [2026-11-20] ingesta WL | WL-671 por qué los ricos de antes nunca trabajaban (Hilos del Poder) — tramo 102 relevo 3 (4/5 del relevo)
