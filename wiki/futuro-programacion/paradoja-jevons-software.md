@@ -34,3 +34,11 @@ Ver también [[educacion-evidencia-vs-institucion]] (WL-650/651/652).
 ## Fuentes de este concepto
 
 - [[resumen-WL602-mercado-programacion-yari-taft]] (WL-602, tramo 98) · [[resumen-WL552-zuchovicki-promedios-jevons-ia]] (WL-552, economia-argentina/).
+
+**Actualización 2026-11-20 (consolidación T19, tramo 102 — +6 fuentes)**:
+- **Napster como Jevons avant la lettre** (WL-662, [[resumen-WL662-napster-shawn-fanning-industria-musical]], historia-informatica/): ganaron cada batalla legal y perdieron la guerra — suprimir un canal de eficiencia no suprime la demanda que este reveló; la canción como archivo anticipó el streaming.
+- **IA y demanda de energía** (WL-679, [[resumen-WL679-perovskita-canada-paneles-solares-ingenio-boreal]], general/): la perovskita en tándem como forma de seguir bajando el coste de la eficiencia solar — el consumo no baja: se amplía (correlato físico de la paradoja).
+- **Productividad → redistribución** (WL-676, [[resumen-WL676-renta-basica-universal-ia-roberto-augusto]], futuro-programacion/): la RBU propuesta como el mecanismo por el que la abundancia de productividad IA se transforma en demanda — la inevitabilidad afirmada retóricamente, sin aritmética de quién paga.
+- **Abundancia cognitiva en la organización** (WL-692, [[resumen-WL692-zuchovicki-charla-directorio-fijap-liberal]], economia-argentina/): la IA como cuarta revolución donde el ganador es el recurso escaso complementario (energía + minería) — variante de captura de WL-552 aplicada al marketing geoeconómico.
+- **El equipo como recurso no elástico** (WL-694, [[resumen-WL694-metodologias-equipos-programacion-donweb-dalto]], agentes-de-codigo/): más ceremonias (eficiencia de proceso) no producen más software si el entendimiento no escala — la eficiencia sin la capacidad que la usa.
+- **Carrera individual** (WL-683, [[resumen-WL683-dejo-aws-marcia-cloud-carrera]], futuro-programacion/): en el mercado Jevons, el activo que se revaloriza es la visibilidad propia (contenido > CV) — «vos no sos AWS».

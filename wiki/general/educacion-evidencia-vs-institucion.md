@@ -27,3 +27,8 @@ Tres fuentes del mismo trimestre temático coinciden desde ángulos distintos en
 - Cifras de 2.ª mano sin enlace en pantalla: «95 % en primer grado» (WL-595), «17 %», «×7 India», «+4 CI Noruega» (WL-651) — verificar antes de citar.
 
 **Ver también**: [[resumen-WL650-pisa-constructivismo-ensenanza-directa-perfil]] · [[resumen-WL651-dificultad-optativa-escuela-ia-bilinkis]] · [[resumen-WL595-alfabetizacion-fonicos-novaresio]] · [[liberalistico]].
+
+**Actualización 2026-11-20 (consolidación T19, tramo 102 — +3 fuentes)**:
+- **El objetivo del sistema, genealogía filosófica** (WL-672, [[resumen-WL672-escuela-domestico-educacion-nietzsche]], general/): Nietzsche 1872 como antecedente de la crítica de WL-652 — «procesados, no formados», el cliente real es la economía/Estado; converge con el hilo desde la filosofía (con 5 objeciones explícitas incluida la aristocrática).
+- **El filtro universitario** (WL-677, [[resumen-WL677-hombres-abandonan-universidad-mente-masculina]], desarrollo-personal/): el título como etiqueta institucional que los empleadores ya no exigen — extensión laboral del concepto (fuera de la escuela obligatoria, la institución pierde también su monopolio de señal). Marco ideológico señalado.
+- **El testimonio del aula** (WL-678, [[resumen-WL678-experto-comunicacion-nueva-generacion-darle-forma]], general/): «me pidieron no corregir en rojo», «el profesor nunca tiene razón» — la resistencia institucional a la corrección vista desde primera mano docente; compatible con el hilo PISA/enseñanza directa (WL-650/595).

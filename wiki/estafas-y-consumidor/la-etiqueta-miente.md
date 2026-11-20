@@ -29,3 +29,10 @@ Mirar el **mecanismo**, no el rótulo: medir la capacidad descargando (WL-583), 
 ## Contracara (el etiquetado honesto existe)
 
 WL-626 y WL-621 declaran límites («cuándo NO usarlo»), WL-630 desmiente su propio título conspirativo, WL-636 fecha cada número y distingue contrato de RFI. El patrón no es inevitable: es una elección del que etiqueta.
+
+**Actualización 2026-11-20 (consolidación T19, tramo 102)**: nuevas variantes del patrón —
+- **La etiqueta de atribución que miente** (WL-689, [[resumen-WL689-nunca-reveles-tu-proximo-paso-secretos-sabiduria]], desarrollo-personal/ — CANDIDATA A BAJA): autoayuda genérica empaquetada con la marca «Jordan Peterson» sin una sola frase attributable verificable — el nombre propio como etiqueta de venta sobre contenido probablemente generado.
+- **La etiqueta estadística sin fuente** (WL-687, [[resumen-WL687-verdadera-casta-judicial-analisis-bien-argentino]]): diagnóstico institucional correcto sostenido sobre cifras sin fuente («70 % hogares sin servicios jurídicos») — la etiqueta numérica como autoridad.
+- **El mito desmontado como etiqueta** (WL-688, [[resumen-WL688-nadie-te-contesta-buscas-trabajo]]; WL-693, [[resumen-WL693-propina-pantallas-economia-sin-anestesia]]): «el robot descarta tu CV» y «la Gen Z es tacaña» como etiquetas narrativas que los datos revierten (ATS con reglas humanas; Toast 19,1 % mínimo en 7 años) — el antídoto del patrón aplicado a dos mitos virales.
+- **La etiqueta política sin evidencia** (WL-684, [[resumen-WL684-balin-bennett-racismo-argentina-la-interna]]): «campaña montada» contra Argentina afirmada sin evidencia — variante conspirativa del patrón, citada como muestra del contrarrelato.
+- Añadida al cluster content-farm (candidatas a baja): WL-689 (atribución falsa a Peterson) — triage del usuario junto a WL-622/623/628/629/631/637.
