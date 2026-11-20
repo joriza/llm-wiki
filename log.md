@@ -4672,3 +4672,6 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 ## [2026-11-20] ingesta WL | WL-703 parecer un fracasado para escapar de la carrera de la rata (tramo 103 relevo 2, 4/5)
 - Fuente: `zF8HqsNQw0E` (Luis Finance, 24:08, cache índice 8). Raw `raw/wl/tramo-103/2026-09-21-por-que-tienes-que-parecer-un-fracasado-para-escapar-de-la-carrera-de-la-rata.md` + resumen `wiki/wl/tramo-103/resumen-WL703-parecer-fracasado-carrera-rata-luis-finance.md` + fila en index.md. Cableado mínimo: hilo dinero WL-668/671/693/702, [[la-etiqueta-miente]], [[comparacion-social]], [[sesgos-de-decision]]; sin dominios nuevos (S4); consolidación aplazada.
+
+## [2026-11-20] ingesta WL | WL-704 libertad financiera tan rápido que es casi injusto (tramo 103 relevo 2, 5/5)
+- Fuente: `pOz17tVRa7Q` (Enerblack, 3:44, cache índice 9). Raw `raw/wl/tramo-103/2026-11-20-libertad-financiera-tan-rapido-que-es-casi-injusto.md` + resumen `wiki/wl/tramo-103/resumen-WL704-libertad-financiera-tan-rapido-enerblack.md` + fila en index.md. Cableado mínimo: hilo dinero WL-668/669/702/703, [[la-etiqueta-miente]]; sin dominios nuevos (S4); consolidación aplazada.
