@@ -4599,3 +4599,8 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-06-26-por-que-argentina-es-la-respuesta-que-el-mundo-necesita.md` (VFX2qDbw8wc, Popurrí, 11:42, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL685-argentina-respuesta-del-mundo-popurri.md`.
 - Tesis: identidad por proyecto y no por sangre; dos excepcionalismos; el ensayo más sólido del bloque argentino. 1.ª fuente del canal.
+
+## [2026-11-20] ingesta | WL-686 — El desenganche argentino (tramo 102 relevo 6, 4/5)
+
+- Fuente: `raw/wl/tramo-102/2026-07-05-el-desenganche-argentino-el-patron-oculto-que-nadie-te-explica-con-laralopezcalv.md` (c1Jkm_sJLIQ, Análisis Bien Argentino, 19:32, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL686-desenganche-argentino-analisis-bien-argentino.md`.
+- Tesis: declive sin culpable único; desenganche datable en 1976-83; política de Estado + educación. 2.ª fuente del canal (WL-682) — calidad heterogénea confirmada.
