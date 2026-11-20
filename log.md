@@ -4604,3 +4604,8 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 - Fuente: `raw/wl/tramo-102/2026-07-05-el-desenganche-argentino-el-patron-oculto-que-nadie-te-explica-con-laralopezcalv.md` (c1Jkm_sJLIQ, Análisis Bien Argentino, 19:32, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL686-desenganche-argentino-analisis-bien-argentino.md`.
 - Tesis: declive sin culpable único; desenganche datable en 1976-83; política de Estado + educación. 2.ª fuente del canal (WL-682) — calidad heterogénea confirmada.
+
+## [2026-11-20] ingesta | WL-687 — La verdadera casta judicial (tramo 102 relevo 6, 5/5)
+
+- Fuente: `raw/wl/tramo-102/2026-04-26-la-verdadera-casta-que-nadie-se-anima-a-tocar.md` (-L4DSyiyxbg, Análisis Bien Argentino, 16:17, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL687-verdadera-casta-judicial-analisis-bien-argentino.md`.
+- Tesis: la casta judicial — acceso, selección por rosca, cero métricas; propuesta en tres frentes. 3.ª fuente del canal (WL-682/686).
