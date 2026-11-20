@@ -21,3 +21,5 @@ Anécdota real (basada en el CVE-2022-38381 documentado) que ilustra hardware f�
 
 - Hardware mecánico vs estado sólido: contraste con el clúster de mantenimiento Windows ([[resumen-FAV-443-liberar-espacio-disco-c-windows]], [[resumen-FAV-444-quitar-proteccion-escritura-usb]]) — mismo eje disco/almacenamiento.
 - La narradora usa de ejemplo los SSD/M.2 mostrados en cámara — material divulgativo de sistemas.
+
+Actualización 2026-11-20 (consolidación T23): entidad [[la-chica-de-sistemas]] creada por umbral (4 fuentes).

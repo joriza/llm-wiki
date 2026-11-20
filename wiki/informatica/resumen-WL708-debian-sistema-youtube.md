@@ -26,3 +26,4 @@ Videoensayo sólido y con voces primarias (entrevistas reales a developers de De
 - [[historia-software-corporativa]] y el ecosistema Linux de la wiki (WL-654 Linux ligero, [[el-bit-informado]]): Debian como caso de gobernanza comunitaria que gana por consistencia, no por marketing.
 - [[delegacion-cognitiva-ia]] tangencial: la premisa «confianza en infraestructura invisible» (nadie sabe que usa Debian) — el mismo patrón de lo que la wiki llama «tecnología que trabaja en silencio».
 - DebConf 2026 Santa Fe: evento local relevante para el archivo de entidades si vuelve a aparecer.
+- [[debian]] y [[la-chica-de-sistemas]] — entidades creadas por umbral en la consolidación T23 (WL-708 es la 4.ª fuente del canal).

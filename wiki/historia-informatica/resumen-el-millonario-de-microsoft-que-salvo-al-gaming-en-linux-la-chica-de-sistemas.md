@@ -56,3 +56,5 @@ Paradoja final: Microsoft pasó más de 30 años intentando cercar el mundo del 
 - Autopromoción: suscripciones, su propio vídeo previo sobre Linux en el escritorio, y su proyecto personal de juego estilo Monkey Island — excluidos de la síntesis.
 - Sin patrocinios externos identificables.
 - Nota colateral: excursus sobre la pronunciación de DOS («doss» vs «dose»), sin valor para la síntesis.
+
+Actualización 2026-11-20 (consolidación T23): entidad [[la-chica-de-sistemas]] creada por umbral (4 fuentes).

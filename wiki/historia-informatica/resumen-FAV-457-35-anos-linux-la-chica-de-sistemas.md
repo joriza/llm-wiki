@@ -40,3 +40,5 @@
 - Canal **La Chica de Sistemas**: 2.ª fuente — [[resumen-FAV-449-janet-jackson-rhythm-nation-hdd]]. Entidad candidata deferida.
 - **Historia de Linux/Git/Torvalds**: complementa directo [[resumen-FAV-430-historia-git-linus-torvalds-fatdev]] (la creación de Git desde el lado fatdev) — eje historia-software-corporativa (ahora 6 fuentes con FAV-431/446/452/453).
 - Debate monolítico vs microkernel ↔ [[resumen-FAV-448-monolito-vs-microservicios-thedebugduck]] (la misma tensión modular/monolítica reaparece en arquitectura de aplicaciones).
+
+Actualización 2026-11-20 (consolidación T23): entidad [[la-chica-de-sistemas]] creada por umbral (4.ª fuente WL-708) — «entidad candidata deferida» resuelta.

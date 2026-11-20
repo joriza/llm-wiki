@@ -24,3 +24,5 @@ Guía operativa completa de infraestructura de red empresarial sin licencias; AS
 
 - Clúster **redes/servidores**: complementa [[resumen-FAV-432-router-viejo-sin-internet-elmondigital]] (infraestructura de red casera) y el eje DNS (el DC exige DNS propio).
 - Eje licenciamiento/software libre — cruza con el mantenimiento Windows del relevo 7 ([[resumen-FAV-443-liberar-espacio-disco-c-windows]] etc.) como alternativa al ecosistema Windows.
+
+Actualización 2026-11-20 (consolidación T23): entidad [[debian]] creada por umbral (WL-708 + esta fuente).
