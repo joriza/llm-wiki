@@ -4629,3 +4629,7 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 ## [2026-11-20] ingesta | WL-692 — Zuchovicki: charla de directorio (tramo 102 relevo 7, 5/5)
 - Fuente: `raw/wl/tramo-102/2026-10-29-milei-muy-emocionado-tras-el-mejor-discurso-de-zuchovicki.md` (bELoUwAV5pk, Fijap Liberal, 63:29, ASR). Resumen: `wiki/wl/tramo-102/resumen-WL692-zuchovicki-charla-directorio-fijap-liberal.md`.
 - Tesis: decisión bajo incertidumbre + transitorio/permanente + plan en 3 fases desde el mercado; título clickbait (Milei casi no aparece). 1.ª fuente del canal.
+
+## [2026-11-20] ingesta | WL-693 — Propinas y pantallas (tramo 102 relevo 8, 1/2)
+- Fuente: `raw/wl/tramo-102/2026-11-14-por-que-ahora-te-piden-propina-en-todas-partes.md` (rbbSEj415x8, Economía Sin Anestesia, 26:55, subtítulos manuales). Resumen: `wiki/wl/tramo-102/resumen-WL693-propina-pantallas-economia-sin-anestesia.md`.
+- Tesis: la propina como sueldo externalizado al cliente vía diseño oscuro de tablets; desmonta el mito «Gen Z tacaña» con datos. 4.ª fuente del canal (Leo/Inés/Elena/Ramón).
