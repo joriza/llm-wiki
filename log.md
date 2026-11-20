@@ -4666,3 +4666,6 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 ## [2026-11-20] ingesta WL | WL-701 esto pasó con el trabajo remoto (TodoCode) (tramo 103 relevo 2, 2/5)
 - Fuente: `UWbka3qpVro` (TodoCode, 28:09, cache índice 6). Raw `raw/wl/tramo-103/2026-10-15-esto-paso-con-el-trabajo-remoto.md` + resumen `wiki/wl/tramo-103/resumen-WL701-trabajo-remoto-retroceso-hibrido-tocode.md` + fila en index.md. Cableado mínimo: [[tocode]] (3.ª fuente), [[brecha-junior-ia]], [[contratacion-nearshore-latam]]; sin dominios nuevos (S4); consolidación aplazada.
+
+## [2026-11-20] ingesta WL | WL-702 7 pequeños gastos que cuestan una fortuna (tramo 103 relevo 2, 3/5)
+- Fuente: `R8OBcPn0954` (Caro Por Dentro, 12:43, cache índice 7). Raw `raw/wl/tramo-103/2026-11-13-7-pequenos-gastos-que-te-cuestan-una-fortuna-al-ano.md` + resumen `wiki/wl/tramo-103/resumen-WL702-7-pequenos-gastos-caro-por-dentro.md` + fila en index.md. Cableado mínimo: hilo dinero/conducta WL-668/669/671/693, [[sesgos-de-decision]], [[la-etiqueta-miente]]; sin dominios nuevos (S4); consolidación aplazada.
