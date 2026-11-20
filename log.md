@@ -4663,3 +4663,6 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 ## [2026-11-20] ingesta WL | WL-700 niños que crecieron solos — Generación X (tramo 103 relevo 2, 1/5)
 - Fuente: `bLeD_Ory_2E` (Mente Descubierta, 19:01, cache índice 5). Raw `raw/wl/tramo-103/2026-11-18-los-ninos-que-crecieron-solos-la-psicologia-de-la-generacion-de-acero-1965-1980.md` + resumen `wiki/wl/tramo-103/resumen-WL700-ninos-que-crecieron-solos-generacion-x-mente-descubierta.md` + fila en index.md. Cableado mínimo: hilo Generación X (2 resúmenes previos), [[mente-descubierta]] candidata entidad, [[sesgos-de-decision]]; sin dominios nuevos (S4); consolidación aplazada.
+
+## [2026-11-20] ingesta WL | WL-701 esto pasó con el trabajo remoto (TodoCode) (tramo 103 relevo 2, 2/5)
+- Fuente: `UWbka3qpVro` (TodoCode, 28:09, cache índice 6). Raw `raw/wl/tramo-103/2026-10-15-esto-paso-con-el-trabajo-remoto.md` + resumen `wiki/wl/tramo-103/resumen-WL701-trabajo-remoto-retroceso-hibrido-tocode.md` + fila en index.md. Cableado mínimo: [[tocode]] (3.ª fuente), [[brecha-junior-ia]], [[contratacion-nearshore-latam]]; sin dominios nuevos (S4); consolidación aplazada.
