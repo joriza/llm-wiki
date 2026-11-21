@@ -4945,3 +4945,6 @@ Decision del usuario: crear dominio dedicado a su tema de investigacion principa
 
 ## [2026-11-21] consolidación demorada | acustica-de-la-vivienda
 Concepto creado con las 2 fuentes de acústica del lote casa-2 (Soundproof Guide f64 paredes; Seia f56 techos de chapa): los 3 principios compartidos (masa, absorción en cavidad, desacople), cuarta vía de redistribución por plegado, desmitificaciones (espuma acústica no aísla, el sonido rodea los parches, sellado como parte del sistema) y orden de inversión. Cableado en ambos resúmenes. Pendientes de lint ANOTADOS (no ejecutados, requieren confirmación): división de Seia (27 fuentes, umbral ~30); 9 canales de 1 fuente sin entidad (criterio «solo si aporta»: ninguno justifica hoy); re-ingesta opcional de 0rwLwL6I6rk (ASR italiano).
+
+## [2026-11-21] hub de dominio | construccion-y-vivienda
+Creado wiki/construccion-y-vivienda/hub.md: mapa de lectura del dominio por eje (obra/técnicas, envoltura térmica-humedades-acústica, diseño/espacios, proyecto, curiosidades) + entidades + notas de lint pendientes. Insumo directo para la evaluación de división (Seia 27 fuentes) del próximo lint.
