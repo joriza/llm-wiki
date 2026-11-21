@@ -4813,3 +4813,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Diseños de casas simples — plano de 1 dormitorio ampliable (Arquitecto Marcelo Seia) (tramo 8, fuente 36/50)
 - Fuente: `r58UzpTQZW4` (Arquitecto Marcelo Seia, 2022-03-26, 20:22, cache índice 36). Raw `raw/construccion-y-vivienda/2022-03-26-disenos-de-casas-simples-plano-de-casa-de-1-dormitorio-ampliable.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-03-26-casa-1-dormitorio-ampliable.md` + fila en index.md. 10.ª fuente del canal Seia; Patreon señalado; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Cómo sellar ventanas para que no entre agua (Arquitecto Marcelo Seia) (tramo 8, fuente 37/50)
+- Fuente: `ZDi8GR7nAoo` (Arquitecto Marcelo Seia, 2022-03-19, 14:47, cache índice 37). Raw `raw/construccion-y-vivienda/2022-03-19-como-sellar-ventanas-para-que-no-entre-agua-secretos-que-funcionan.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-03-19-sellar-ventanas.md` + fila en index.md. 11.ª fuente del canal Seia; consolidación aplazada (T11).
