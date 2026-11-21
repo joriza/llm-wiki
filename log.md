@@ -4774,3 +4774,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Cómo hacer un contrapiso de cemento alisado (Arquitecto Marcelo Seia) (tramo 5, fuente 23/50)
 - Fuente: `UljqVUbQFkk` (Arquitecto Marcelo Seia, 2021-10-23, 15:05, cache índice 23). Raw `raw/construccion-y-vivienda/2021-10-23-como-hacer-un-contrapiso-de-cemento-alisado-solera-de-hormigon-lista-para-coloca.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-10-23-contrapiso-alisado-monocapa.md` + fila en index.md. 7.ª fuente del canal Seia; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Recorrida por obras en construcción (Arquitecto Marcelo Seia) (tramo 5, fuente 24/50)
+- Fuente: `A0-9wibnD3s` (Arquitecto Marcelo Seia, 2021-04-10, 18:07, cache índice 24). Raw `raw/construccion-y-vivienda/2021-04-10-recorrida-por-obras-en-construccion-consejos-para-la-construccion-de-casas.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-04-10-recorrida-obras-consejos.md` + fila en index.md. 8.ª fuente del canal Seia; consolidación aplazada (T11).
