@@ -4875,3 +4875,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] ingesta casa-2 | El error que hace que el salitre vuelva (Arquitecto Marcelo Seia) (lote 2 tramo 11, fuente 52/77)
 - Fuente: `Azl6iwtc2dY` (Arquitecto Marcelo Seia, 2021-07-10, 16:38, cache índice 52 — raw ya descargado en scratch de un relevo anterior). Raw `raw/construccion-y-vivienda/2021-07-10-el-error-que-hace-que-el-salitre-vuelva-una-y-otra-vez.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-07-10-salitre-vuelve.md` + fila en index.md. 20.ª fuente del canal Seia; cableada a [[humedades]] y [[arquitecto-marcelo-seia]] (consolidación lote 1); consolidación de lote 2 aplazada (T17).
+
+## [2026-11-21] ingesta casa-2 | Hall o recibidor de entrada de una casa (Arquitecto Marcelo Seia) (lote 2 tramo 11, fuente 54/77)
+- Fuente: `uSYqd-NhhvQ` (Arquitecto Marcelo Seia, 2024-09-14, 09:50, cache índice 54). Raw `raw/construccion-y-vivienda/2024-09-14-hall-o-recibidor-de-entrada-de-una-casa-nadie-sabe-esto.md` + resumen `wiki/construccion-y-vivienda/resumen-2024-09-14-hall-recibidor.md` + fila en index.md. 21.ª fuente del canal Seia; desarrolla el truco del hall de la fuente 41 (lote 1); consolidación de lote 2 aplazada (T17).
