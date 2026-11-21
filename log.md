@@ -4798,3 +4798,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] skip casa-2 | Qué Impuestos Tiene Construir una Vivienda (SKIP-NO-SUBS definitivo) (tramo 7, fuente 31/50)
 - Fuente: `Rt0_BYNb4n0` (cache índice 31) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
+
+## [2026-11-21] skip casa-2 | Cuánto es lo Máximo que se puede Construir en un Terreno (SKIP-NO-SUBS definitivo) (tramo 7, fuente 32/50)
+- Fuente: `S8vV8TZBkT4` (cache índice 32) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
