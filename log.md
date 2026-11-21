@@ -4756,3 +4756,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Una casa residencial económica — Casa 51 (Éntasis Arquitectura | Obras Ajenas) (tramo 4, fuente 17/50)
 - Fuente: `RhfFOrEQbKg` (COTAPAREDES Arquitectos, 2021-08-07, 21:29, cache índice 17). Raw `raw/construccion-y-vivienda/2021-08-07-una-casa-residencial-economica-obras-ajenas-entasismx.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-08-07-casa-51-entasis.md` + fila en index.md. 2.ª entrevista «Obras Ajenas» del lote; menciones comerciales menores señaladas; consolidación aplazada (T11).
+
+## [2026-11-21] skip casa-2 | CASA PEQUENA DE 3,5 x 6 METROS - KITNET (SKIP-NO-SUBS definitivo) (tramo 4, fuente 18/50)
+- Fuente: `VBxRmXU7L-s` (cache índice 18) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
