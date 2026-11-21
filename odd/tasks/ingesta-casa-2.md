@@ -11,18 +11,28 @@ Ingesta de la playlist de YouTube PLqe2XRWDm9REoA-pabUfCenKfXBNyhBOD (77 entrada
 - S5: Protocolo íntegro de `protocolo-ingesta-youtube.md` (Regla de descarga v2: puerta mecánica 60-90 s, sonda de salida, taxonomía de errores, commit por fuente con git add por archivo, SKIP definitivo sin subtítulos, 429 → TRAMO-CLOSED, dedupe pre-flight contra raw/).
 - S6: «procesá 50 fuentes desde la cabeza» — exactamente las 50 primeras entradas únicas del listado fresco (`.atl/scratch/playlist-casa-2.json`); las 27 restantes quedan para un lote futuro.
 
+## Allowed edit surfaces
+
+raw/construccion-y-vivienda/
+wiki/construccion-y-vivienda/
+wiki/entidades/
+index.md
+log.md
+.atl/scratch/casa-2/
+.atl/descarga-casa-2.log
+
 ## Tasks
 
-- T1 (S1-S6, worker, commit): Relevo 1 — fuentes 1-5. Runner `python .atl/descarga_playlist.py <URL> casa-2 --one --budget 5` (una pasada por fuente); ciclo por fuente completo (raw intacto → resumen en wiki/construccion-y-vivienda/ → cruces [[...]] → index/log → commit por archivo); lectura-tramo1.md.
-- T2 (S1-S6, worker, commit): Relevo 2 — fuentes 6-10. Igual + lectura-tramo2.md.
-- T3 (S1-S6, worker, commit): Relevo 3 — fuentes 11-15. Igual + lectura-tramo3.md.
-- T4 (S1-S6, worker, commit): Relevo 4 — fuentes 16-20. Igual + lectura-tramo4.md.
-- T5 (S1-S6, worker, commit): Relevo 5 — fuentes 21-25. Igual + lectura-tramo5.md.
-- T6 (S1-S6, worker, commit): Relevo 6 — fuentes 26-30. Igual + lectura-tramo6.md.
-- T7 (S1-S6, worker, commit): Relevo 7 — fuentes 31-35. Igual + lectura-tramo7.md.
-- T8 (S1-S6, worker, commit): Relevo 8 — fuentes 36-40. Igual + lectura-tramo8.md.
-- T9 (S1-S6, worker, commit): Relevo 9 — fuentes 41-45. Igual + lectura-tramo9.md.
-- T10 (S1-S6, worker, commit): Relevo 10 — fuentes 46-50. Igual + lectura-tramo10.md.
+- T1 (S1-S6, worker, commit): Relevo 1 — fuentes 1-5. Runner `python .atl/descarga_playlist.py URL_DE_LA_PLAYLIST casa-2 --one --budget 5` (una pasada por fuente); ciclo por fuente completo (raw intacto → resumen en wiki/construccion-y-vivienda/ → cruces con sintaxis wiki de corchetes dobles → index/log → commit por archivo); lectura-tramo1.md. **HECHO (2026-11-21): 4 committed (f1e0979e, 450c050a, 40eff8ca, ee736029 skip-nosubs n6Y9J34R1yw, 7f6521f8) + presupuesto elevado a 110 por regla 2026-11-14 tras BUDGET-REACHED de la salida WARP (salidas.md: 0 429); cabeza S2 sin cambios.**
+- T2 (S1-S6, worker, commit): Relevo 2 — fuentes 6-10. Igual + lectura-tramo2.md. **HECHO (2026-11-21): 3 committed (ef52ecfa, e89d67f1, 904711f8, b76ca616) + 2 skip-nosubs (Bt0iMYzV8dE, b0de6c5d); cabeza S2 sin cambios; siguiente i2aPDEKMYYk.**
+- T3 (S1-S6, worker, commit): Relevo 3 — fuentes 11-15. Igual + lectura-tramo3.md. **HECHO (2026-11-21): 3 committed (907ce4a0, ef018f98, 5186bf4a) + 2 skip-nosubs (i2aPDEKMYYk, b024WRun-vE; c4a9368c, 673d6456); cabeza S2 sin cambios; siguiente yT_ei2MXXYg.**
+- T4 (S1-S6, worker, commit): Relevo 4 — fuentes 16-20. Igual + lectura-tramo4.md. **HECHO (2026-11-21): 3 committed (c5650890, 09a11569, 722e214e) + 2 skip-nosubs (VBxRmXU7L-s, 8OqnoQY8POA; 483ea39d, d6a44718) + fix fila index (7e2dcc86); cabeza S2 sin cambios; siguiente s0py4jIXh4U.**
+- T5 (S1-S6, worker, commit): Relevo 5 — fuentes 21-25. Igual + lectura-tramo5.md. **HECHO (2026-11-21): 4 committed (747e2dda, 2443f0e2, f275b087, 82483c55) + 1 skip-nosubs (7srtxvyy0zo, d91f295a); mitad del lote 25/50; cabeza S2 sin cambios; siguiente 8xbV0YX0hlY.**
+- T6 (S1-S6, worker, commit): Relevo 6 — fuentes 26-30. Igual + lectura-tramo6.md. **HECHO (2026-11-21): 4 committed (8950cc46, 237ef0df, 95553fc1, c5fb1fb4) + 1 skip-nosubs (FVbbs8VOOTg, d2fa1ac9); bloque SIP 5 fuentes consecutivas (prioritario en T11, contraste comercial vs fuente 22); cabeza S2 sin cambios; siguiente Rt0_BYNb4n0.**
+- T7 (S1-S6, worker, commit): Relevo 7 — fuentes 31-35. Igual + lectura-tramo7.md. **HECHO (2026-11-21): 1 committed (UPTYQ19xUJU, eedad191) + 4 skip-nosubs seguidos (31-34; racha sin aborto por protocolo); cabeza S2 sin cambios; siguiente r58UzpTQZW4.**
+- T8 (S1-S6, worker, commit): Relevo 8 — fuentes 36-40. Igual + lectura-tramo8.md. **HECHO (2026-11-21): 5/5 committed (e94302af, 48be709f, 6a2939f5→6a294395, 5d4a6169, 6cf939e2); bloque didáctico Seia completo; Seia acumula 14 fuentes (entidad dominante T11); cabeza S2 sin cambios; siguiente xteeXKbsz7c.**
+- T9 (S1-S6, worker, commit): Relevo 9 — fuentes 41-45. Igual + lectura-tramo9.md. **PARCIAL (2026-11-21): 41-43 committed (cbac3c07, 8e0f9419, 4e52040f); PRIMER 429 real en la 44 (SKo_51oqYWA, pending sin marcador) → TRAMO-CLOSED; 45 (1FOnQ4vy6v4) no intentada; salida WARP 104.28.231.111 flaggeada (no rotable). PAUSA DECIDIDA POR EL USUARIO:**
+- T10 (S1-S6, worker, commit): Relevo 10 — fuentes 46-50. Igual + lectura-tramo10.md. **PENDIENTE — bloqueado por pausa del usuario tras el 429. Al reanudar: primero fuente 44 (SKo_51oqYWA, pending), luego 45-50; salida nueva requerida (Proton / celular / WARP retesteada) elegida por el usuario.**
 - T11 (S1-S6, worker o parent, commit): Cierre del lote — consolidación aplazada (páginas de concepto/entidad, cruces, contradicciones), overview.md, sintesis.md, evaluación de división de dominio (50 fuentes > umbral 30), lectura-tramos consolidada. Push solo bajo orden del usuario.
 
 Cada relevo (T1-T10) arranca con el re-chequeo de cabeza de S2: re-listar (`--refresh-list` implícito por frescura o forzado), comparar las 5 primeras IDs contra el cache; si cambiaron, re-listar y retomar desde la nueva cabeza sin procesar.
