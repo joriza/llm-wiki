@@ -4732,3 +4732,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Cómo se hace un piso pulido de color, paso a paso (Lucas Alarcón) (tramo 2, fuente 9/50)
 - Fuente: `FRQYLX15jk8` (Lucas Alarcón, 2021-03-06, 16:30, cache índice 9). Raw `raw/construccion-y-vivienda/2021-03-06-como-se-hace-un-piso-pulido-de-color-paso-a-paso.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-03-06-piso-pulido-de-color.md` + fila en index.md. Costos desglosados por m² (pulido vs cerámica); consolidación aplazada (T11).
+
+## [2026-11-21] skip casa-2 | Plano de Mini Casa de 5 x 6 (SKIP-NO-SUBS definitivo) (tramo 2, fuente 10/50)
+- Fuente: `Bt0iMYzV8dE` (cache índice 10) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
