@@ -2,8 +2,8 @@
 
 - **Tipo**: página de concepto.
 - **Dominio**: `construccion-y-vivienda/`.
-- **Actualizado**: 2026-11-21 (consolidación del lote casa-2 — 5 fuentes del canal dominante).
-- **Fuentes**: [[resumen-2020-12-19-mejor-aislante-techo-chapa]] (aislación) · [[resumen-2021-04-10-recorrida-obras-consejos]] (estructura y plegados) · [[resumen-2024-01-13-techos-vuelan-viento]] (viento) · [[resumen-2023-04-01-zinguerias-cenefa-babeta]] (zinguerías) · [[resumen-2021-03-27-sobretecho-chapa]] (sobretecho — ⚠️ ASR italiano, solo fragmentos verificables).
+- **Actualizado**: 2026-11-21 (consolidación del lote casa-2 — 5 fuentes del canal dominante; +2 del lote 2).
+- **Fuentes**: [[resumen-2020-12-19-mejor-aislante-techo-chapa]] (aislación) · [[resumen-2021-04-10-recorrida-obras-consejos]] (estructura y plegados) · [[resumen-2024-01-13-techos-vuelan-viento]] (viento) · [[resumen-2023-04-01-zinguerias-cenefa-babeta]] (zinguerías) · [[resumen-2021-03-27-sobretecho-chapa]] (sobretecho — ⚠️ ASR italiano, solo fragmentos verificables) · **lote 2**: [[resumen-2025-02-22-silenciar-techo-chapa]] (Seia — acústica), [[resumen-2024-10-05-secretos-pintura]] (Seia × Adrián — mantenimiento de techo vs membrana).
 
 ## La estructura (lo que Seia repite en sus dos fuentes de obra)
 
@@ -24,6 +24,14 @@ Los encuentros son los puntos débiles — «la diferencia entre poder y no pode
 ## La aislación (arriba y abajo de la chapa)
 
 Poliuretano proyectado debajo (rigidiza + aísla), lana encima de la estructura, polietileno reflectivo **entre estructura y chapa** (muere al sol: nunca a la intemperie), pintar de blanco arriba (rechazo radiativo), rejillas **cruzadas** para ventilar la cámara chapa-cielorraso — detalle completo en [[aislamiento-termico]].
+
+## La acústica (lote 2, [[resumen-2025-02-22-silenciar-techo-chapa]])
+
+El ruido de lluvia tiene 3 causas (chapa delgada que vibra, estructura que transmite, cámara que resona) y 4 alternativas ordenadas por costo: aislante denso bajo chapa (lana + polietileno — coincide con la capa térmica), recubrimiento antirruido (masilla-bituminoso), **estructura desacoplada** del cielorraso (la única que ataca la transmisión estructural, no solo la vibración) y plegado acanalado de mayor rigidez. Misma lógica que la acústica de muros de [[resumen-2025-04-20-soundproof-a-wall]]: masa + desacople + sellado.
+
+## El mantenimiento como decisión económica (lote 2, [[resumen-2024-10-05-secretos-pintura]])
+
+La anécdota de la «pileta invisible» de la entrevista con Adrián pintor: un techo que «destilaba» se curó con **pintura de techo especial en lugar de membrana asfáltica** — «el problema se ve donde está»; repintar cada 2-3 años sale mucho menos que una membrana mal elegida. Complementa el capítulo de membranas líquidas/asfálticas de arriba con el criterio del oficio: la membrana no siempre es la respuesta al techo húmedo.
 
 ## La lógica de fondo
 

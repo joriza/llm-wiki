@@ -2,8 +2,8 @@
 
 - **Tipo**: página de concepto.
 - **Dominio**: `construccion-y-vivienda/`.
-- **Actualizado**: 2026-11-21 (consolidación del lote casa-2 — 6 fuentes convergentes).
-- **Fuentes**: [[resumen-2020-12-19-mejor-aislante-techo-chapa]] (Seia — techos) · [[resumen-2021-01-16-aislar-paredes-termicamente]] (Seia — muros, XPS y barrera de vapor) · [[resumen-2021-03-20-steel-framing]] (Seia — el sistema en seco y el ETICS como solución a puentes térmicos) · [[resumen-2022-06-01-sistema-eifs]] (Los Bestauradores — el ETICS paso a paso, patrocinado por Mapa) · [[resumen-2021-05-29-revoque-plastico-texturado]] (Seia — el acabado del sistema) · [[resumen-2022-03-19-sellar-ventanas]] (Seia — DVH y sellados).
+- **Actualizado**: 2026-11-21 (consolidación del lote casa-2 — 6 fuentes convergentes; +5 aportes del lote 2).
+- **Fuentes**: [[resumen-2020-12-19-mejor-aislante-techo-chapa]] (Seia — techos) · [[resumen-2021-01-16-aislar-paredes-termicamente]] (Seia — muros, XPS y barrera de vapor) · [[resumen-2021-03-20-steel-framing]] (Seia — el sistema en seco y el ETICS como solución a puentes térmicos) · [[resumen-2022-06-01-sistema-eifs]] (Los Bestauradores — el ETICS paso a paso, patrocinado por Mapa) · [[resumen-2021-05-29-revoque-plastico-texturado]] (Seia — el acabado del sistema) · [[resumen-2022-03-19-sellar-ventanas]] (Seia — DVH y sellados) · **lote 2**: [[resumen-2025-11-01-ventanas-dvh]] (Seia — el DVH analizado honestamente), [[resumen-2021-05-15-condensacion-7-consejos]] (Seia — aislación como cura de condensación), [[resumen-2025-04-20-soundproof-a-wall]] (Soundproof Guide — lana de roca y masa, doble función), [[resumen-2025-05-08-colores-fachadas-2026]] (Guía Decoración — color como regulación térmica).
 
 ## El principio común: el aire encapsulado
 
@@ -38,6 +38,19 @@ La secuencia **poliestireno pegado al muro → base coat → malla de fibra de v
 ## Ventanas: el punto de discontinuidad
 
 La ventana es un hueco de material distinto unido **por contacto** (nunca hermético). Kit de soluciones (Seia, sellar ventanas): membrana líquida o agrandar-grieta+sellador elástico arriba/lados; **alféizar de mármol** con velo de vidrio y adhesivo cerámico (casi 100 % efectivo); **desagües de perfil** limpiados/troquelados (nunca pegar el alféizar sobre la salida); uniones de perfiles a trasluz = no herméticas (sellador siliconado); contra el **empañado interior** (humedad generada en casa, no de afuera): postigos al anochecer o **DVH**, y ventilar.
+
+### El DVH en detalle (lote 2, [[resumen-2025-11-01-ventanas-dvh]])
+
+El doble vidriado hermético baja la pérdida del vidrio simple a **~1/3** (el triple suma poco y se justifica solo en climas muy fríos), con la advertencia central del dominio: **«cualquier pared aísla más que el mejor vidrio»** — el error es llenar la casa de paños enormes esperando que el DVH compense. Reglas: hojas **de abrir** (cierre por compresión con burletes) filtran mucho menos que las corredizas; los paños fijos sin ventilación producen condensación (paño fijo + banderola); **la sombra exterior gana siempre a la cortina interior** (bloquea el sol antes de entrar) — el combo real es **DVH + sombra por orientación** (norte domado con aleros, oeste crítico, sur solo hermeticidad); el RPT se nota en marcos chicos de aluminio. Complementa la rama de ventanas de arriba con el análisis de rendimiento, no solo de sellado.
+
+### La regla de las paredes delgadas (lote 2, [[resumen-2021-05-15-condensacion-7-consejos]])
+
+**«Paredes de ≤15 cm: imposible eliminar la condensación; construir ≥30 cm»** — la aislación no es un confort opcional sino la condición para que la superficie nunca llegue al punto de rocío. Cierra el circuito del concepto: sin aislación, ninguna técnica de ventilación alcanza.
+
+### Aportes periféricos del lote 2
+
+- **Acústica + térmica comparten material** ([[resumen-2025-04-20-soundproof-a-wall]]): la **lana de roca** es el núcleo de las tres soluciones acústicas ($75-1500) y la masa (sándwich Type X+MLV+Type X) opera como aislante térmico por inercia — mismo repertorio, distinto problema; el desacople (ruido estructural) no tiene equivalente térmico.
+- **Color como regulación pasiva** ([[resumen-2025-05-08-colores-fachadas-2026]]): fachadas claras reflejan en climas cálidos, oscuras absorben en fríos — coherente con la lógica del blanco en techos de chapa de arriba (sin cuantificación en la fuente).
 
 ## La doble recompensa del aislamiento bien hecho
 
