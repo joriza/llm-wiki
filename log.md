@@ -4708,3 +4708,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Geniales micro departamentos que debes ver (CURIOSITY EXPRESS) (tramo 1, fuente 1/5)
 - Fuente: `yhAxYW6i6XY` (CURIOSITY EXPRESS, 2019-09-28, 10:04, cache índice 1). Raw `raw/construccion-y-vivienda/2019-09-29-geniales-micro-departamentos-que-debes-ver.md` + resumen `wiki/construccion-y-vivienda/resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver.md` + fila en index.md. Primera fuente del dominio construccion-y-vivienda. Consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Cuál es el mejor aislante para un techo de chapa (Arquitecto Marcelo Seia) (tramo 1, fuente 2/5)
+- Fuente: `ot9uqpaJLas` (Arquitecto Marcelo Seia, 2020-12-19, 15:37, cache índice 2). Raw `raw/construccion-y-vivienda/2020-12-19-cual-es-el-mejor-aislante-para-un-techo-de-chapa-la-respuesta-sorprende.md` + resumen `wiki/construccion-y-vivienda/resumen-2020-12-19-mejor-aislante-techo-chapa.md` + fila en index.md. Cruce con [[casa-calefaccion]]; consolidación aplazada (T11).
