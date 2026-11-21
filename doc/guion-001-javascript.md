@@ -3,10 +3,11 @@
 - **Serie:** Cómo funcionan las cosas
 - **Fuentes wiki:** [[historia-de-la-tecnologia]], WL-087 (resumen de informatica-teoria), cruces [[lenguaje-rust]] (WL-80), WL-46, WL-81
 - **Duración objetivo:** 10–12 min
-- **Riesgos de verificación (antes de grabar):**
-  1. «10 días de mayo de 1995» — anécdota canónica pero confirmar contra charlas de Eich/Crockford (la wiki marca la fuente como divulgación sin citas; el nombre del ingeniero de Microsoft que clonó JS quedó ilegible por ASR).
-  2. «98,9 % de webs usan JS (W3Techs)» — citar la fuente en pantalla.
-  3. La anécdota de la llamada de Compaq NO se usa (contexto ilegible en la fuente).
+- **Riesgos de verificación (VERIFICADO 2026):**
+  1. ✅ «10 días de mayo de 1995» — confirmado por el propio Eich (brendaneich.com, 2011: «Engine prototype took ten days in May»; prototipo «Mocha» a mediados de mayo). Fuente primaria: brendaneich.com/2011/06/new-javascript-engine-module-owner/ y el paper «JavaScript: The First 20 Years» (Wirfs-Brock & Eich).
+  2. ✅ «98,9 % de webs usan JS» — confirmado en w3techs.com/technologies/details/cp-javascript (valor actual 98,9 %; era 98,8 % en enero 2025). Citar W3Techs en pantalla.
+  3. ⚠️ Ajustado: Eich asumió como CEO el 24/3/2014 y dimitió el 3/4/2014 — son **10-11 días** (The Verge tituló «in 11 days»). En el guion decir «diez días después» como aproximación o «menos de dos semanas» para precisión estricta; la cita textual de su renuncia («Our mission is bigger than any one of us…») está confirmada en el comunicado de Mozilla.
+  4. La anécdota de la llamada de Compaq NO se usa (contexto ilegible en la fuente).
 
 ## 1. Gancho (0:00–0:30)
 
@@ -34,7 +35,7 @@ En consola, en vivo (la demo es gratis y de paso muestra que el canal escribe c�
 - **Mito 1: «JavaScript es Java para la web»** — no; parecen hermanos por decisión de marketing.
 - **Mito 2: «JS triunfó por ser bueno»** — peor es better: llegó primero, se estandarizó en ECMA y ya nadie pudo cambiarlo. La redención vino por los enemigos: Crockford (su mayor despreciador) descubre las funciones-como-datos y saca JSON (2001); Node (2009) lo saca del navegador; ES6/2015 realiza por fin, en trozos, lo que la derrotada ES4 quiso ser.
 - **Mito 3 (la lección de ingeniería): «escuchá siempre al usuario»** — el `==` nació de complacer a usuarios internos. A veces el usuario no sabe qué está pidiendo.
-- **La ironía final**: Eich dimite de Mozilla 10 días después de asumir como CEO (2014) — la misma cifra con la que nació su lenguaje. (Cuidado con el tono: hecho público y documentado, tratarlo con sobriedad.)
+- **La ironía final**: Eich dimite de Mozilla 10-11 días después de asumir como CEO (24/3 → 3/4/2014) — casi la misma cifra con la que nació su lenguaje. (Hecho público y documentado; comunicado de Mozilla confirmado. Tratar con sobriedad.)
 
 ## 5. Cierre (9:30–11:00)
 
@@ -58,6 +59,6 @@ Síntesis: «La retrocompatibilidad es una jaula: se decide en un mes y se paga 
 
 ## Descripción (borrador)
 
-La historia de JavaScript: 10 días, una demo que se volvió producto, un `==` roto por un favor y la estandarización que lo congeló para siempre. Basado en el compendio de la wiki (WL-087) con verificación contra fuentes canónicas: charlas de Crockford, lista ECMA, W3Techs. Próximo video: la otra cara de Brendan Eich — Rust.
+La historia de JavaScript: 10 días, una demo que se volvió producto, un `==` roto por un favor y la estandarización que lo congeló para siempre. Basado en el compendio de la wiki (WL-087), verificado contra fuentes primarias: brendaneich.com (2011), «JavaScript: The First 20 Years» (Wirfs-Brock & Eich), comunicado de Mozilla (2014), W3Techs. Próximo video: la otra cara de Brendan Eich — Rust.
 
-**Nota de producción:** la wiki advierte que WL-087 es una fuente de reacción (divulgación sin citas). Los tres riesgos de verificación de arriba son obligatorios antes de grabar; de no confirmarse un dato, bajarlo del guion o decirlo con la reserva («según se cuenta…»).
+**Nota de producción:** los tres riesgos de verificación fueron resueltos (2 confirmados, 1 ajustado a «10-11 días»); ver sección de riesgos arriba.
