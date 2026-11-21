@@ -4825,3 +4825,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Cómo elegir un terreno para construir una casa (Arquitecto Marcelo Seia) (tramo 8, fuente 40/50)
 - Fuente: `NMX2avuMDGU` (Arquitecto Marcelo Seia, 2022-05-07, 14:05, cache índice 40). Raw `raw/construccion-y-vivienda/2022-05-07-como-elegir-un-terreno-para-construir-una-casa-7-consejos-infalibles.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-05-07-elegir-terreno.md` + fila en index.md. 14.ª fuente del canal Seia; cierre de la cadena terreno→diseño→construcción del lote; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | 5 trucos de diseño de casas — Parte 2 (Arquitecto Marcelo Seia) (tramo 9, fuente 41/50)
+- Fuente: `xteeXKbsz7c` (Arquitecto Marcelo Seia, 2022-01-08, 17:28, cache índice 41). Raw `raw/construccion-y-vivienda/2022-01-08-5-trucos-de-diseno-de-casas-parte-2-ideas-utiles-que-funcionan.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-01-08-5-trucos-diseno-parte-2.md` + fila en index.md. 15.ª fuente del canal Seia; consolidación aplazada (T11).
