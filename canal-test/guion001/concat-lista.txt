@@ -1,0 +1,7 @@
+file 'sec1-tomas.mp4'
+file 'sec2-tomas.mp4'
+file 'sec3-tomas.mp4'
+file 'sec4-tomas.mp4'
+file 'sec5-tomas.mp4'
+file 'sec6-tomas.mp4'
+file 'sec7-tomas.mp4'
