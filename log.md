@@ -4795,3 +4795,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] skip casa-2 | Construccion Vigas y Pisos (SKIP-NO-SUBS definitivo) (tramo 6, fuente 30/50)
 - Fuente: `FVbbs8VOOTg` (cache índice 30) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
+
+## [2026-11-21] skip casa-2 | Qué Impuestos Tiene Construir una Vivienda (SKIP-NO-SUBS definitivo) (tramo 7, fuente 31/50)
+- Fuente: `Rt0_BYNb4n0` (cache índice 31) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
