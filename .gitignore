@@ -1,3 +1,6 @@
 site/public/
 site/node_modules/
 site/content/
+
+# Exports para pruebas de chat (regenerables)
+resumen/
