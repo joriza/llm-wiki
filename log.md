@@ -4804,3 +4804,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] skip casa-2 | Cómo Construir En Etapas (SKIP-NO-SUBS definitivo) (tramo 7, fuente 33/50)
 - Fuente: `M39U6_c3UsE` (cache índice 33) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
+
+## [2026-11-21] skip casa-2 | Cuánto Dinero se Necesita para Construir Una Casa (SKIP-NO-SUBS definitivo) (tramo 7, fuente 34/50)
+- Fuente: `Q5AlD0pl57o` (cache índice 34) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
