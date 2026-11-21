@@ -1,0 +1,7 @@
+file 'sec1-stock.mp4'
+file 'sec2-stock.mp4'
+file 'sec3-stock.mp4'
+file 'sec4-stock.mp4'
+file 'sec5-stock.mp4'
+file 'sec6-stock.mp4'
+file 'sec7-stock.mp4'
