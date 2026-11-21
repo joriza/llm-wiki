@@ -4759,3 +4759,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] skip casa-2 | CASA PEQUENA DE 3,5 x 6 METROS - KITNET (SKIP-NO-SUBS definitivo) (tramo 4, fuente 18/50)
 - Fuente: `VBxRmXU7L-s` (cache índice 18) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
+
+## [2026-11-21] skip casa-2 | Instalación eléctrica de una casa: 10 ERRORES (SKIP-NO-SUBS definitivo) (tramo 4, fuente 19/50)
+- Fuente: `8OqnoQY8POA` (cache índice 19) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
