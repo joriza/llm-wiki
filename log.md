@@ -4846,3 +4846,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] ingesta casa-2 | ¿Por qué se vuelan los techos de chapa y cómo evitarlo? (Arquitecto Marcelo Seia) (tramo 10, fuente 46/50)
 - Fuente: `5Sb7yox3ovs` (Arquitecto Marcelo Seia, 2024-01-13, 10:17, cache índice 46). Raw `raw/construccion-y-vivienda/2024-01-13-por-que-se-vuelan-los-techos-de-chapa-y-como-evitarlo.md` + resumen `wiki/construccion-y-vivienda/resumen-2024-01-13-techos-vuelan-viento.md` + fila en index.md. 16.ª fuente del canal Seia; cruza la línea de techos de chapa (concepto T11); consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Cómo reformar una casa antigua con poco dinero (Arquitecto Marcelo Seia) (tramo 10, fuente 47/50)
+- Fuente: `Kml5NCVwDy0` (Arquitecto Marcelo Seia, 2022-02-05, 17:02, cache índice 47). Raw `raw/construccion-y-vivienda/2022-02-05-como-reformar-una-casa-antigua-con-poco-dinero-7-consejos-imperdibles.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-02-05-reformar-casa-antigua.md` + fila en index.md. 17.ª fuente del canal Seia; integra varios ejes del lote (concepto reformas T11); consolidación aplazada (T11).
