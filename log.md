@@ -4792,3 +4792,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Capacidades estructurales de los paneles OSB para paneles SIP (LP Building Solutions | TAO) (tramo 6, fuente 29/50)
 - Fuente: `9ibvhzyL_lY` (TAO Soluciones Constructivas, 2021-12-16, 39:24, cache índice 29). Raw `raw/construccion-y-vivienda/2021-12-16-capacidades-estructurales-de-los-paneles-osb-para-paneles-sip.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-12-16-osb-estructural-sip.md` + fila en index.md. 5.ª fuente SIP consecutiva (concepto prioritario T11); consolidación aplazada (T11).
+
+## [2026-11-21] skip casa-2 | Construccion Vigas y Pisos (SKIP-NO-SUBS definitivo) (tramo 6, fuente 30/50)
+- Fuente: `FVbbs8VOOTg` (cache índice 30) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
