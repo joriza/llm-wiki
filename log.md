@@ -4747,3 +4747,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Casa angosta de 3 m de frente en dos pisos — patio interior (Decide Tu Casa) (tramo 3, fuente 14/50)
 - Fuente: `Gxubgqqb0Jo` (Decide Tu Casa, 2021-12-04, 08:11, cache índice 14). Raw `raw/construccion-y-vivienda/2021-12-05-casa-angosta-3-metros-de-frente-en-dos-pisos-planos-de-casa-pequena-de-3x15-pati.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-12-05-casa-angosta-3m-dos-pisos.md` + fila en index.md. Par con la fuente 13 (lotes estrechos, concepto T11); consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Casa de Infonavit remodelada — ampliación de dos pisos (HEYARQUI) (tramo 3, fuente 15/50)
+- Fuente: `9Pn1oaEnOno` (HEYARQUI, 2021-06-29, 09:50, cache índice 15). Raw `raw/construccion-y-vivienda/2021-06-30-casa-de-infonavit-remodelada-ampliacion-de-dos-pisos-pequenas-con-balcon-casas-i.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-06-30-infonavit-remodelada-ampliacion.md` + fila en index.md. 3.ª fuente del eje frentes de 3 m (remodelación de stock); consolidación aplazada (T11).
