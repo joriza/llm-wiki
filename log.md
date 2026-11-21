@@ -4819,3 +4819,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Diseño de cocinas modernas — 5 errores para evitar (Arquitecto Marcelo Seia) (tramo 8, fuente 38/50)
 - Fuente: `zMvCVsBWBYs` (Arquitecto Marcelo Seia, 2022-04-16, 25:03, cache índice 38). Raw `raw/construccion-y-vivienda/2022-04-16-diseno-de-cocinas-modernas-5-errores-para-evitar-guia-2026.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-04-16-diseno-cocinas-5-errores.md` + fila en index.md. 12.ª fuente del canal Seia; Patreon señalado; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | 7 trucos de diseño de casas (Arquitecto Marcelo Seia) (tramo 8, fuente 39/50)
+- Fuente: `bTZxaebnqrI` (Arquitecto Marcelo Seia, 2021-12-25, 22:57, cache índice 39). Raw `raw/construccion-y-vivienda/2021-12-25-7-trucos-de-diseno-de-casas-ideas-utiles-para-tu-proyecto.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-12-25-7-trucos-diseno.md` + fila en index.md. 13.ª fuente del canal Seia; Patreon señalado; consolidación aplazada (T11).
