@@ -4869,3 +4869,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 - **sintesis.md**: **sección 33** nueva — síntesis del dominio por clústeres (técnica comparada, diseño, SIP comercial-vs-independiente, entidad dominante Seia ×16, contrastes regionales, verificaciones abiertas).
 - **Conteo final del dominio**: 38 resúmenes de fuente + 5 conceptos + 4 entidades nuevas en construccion-y-vivienda/ (total 47 páginas del dominio). Lote: 50 fuentes de la cabeza + 1 extra (5-8BoV2OEoU, quincha — anotada como fuera de lote); 11 SKIP sin subtítulos, 1 SKIP-DUPLICATE (tULqbx1Lw94, ya procesada en otro lote), 2 fuentes con transcripción no utilizable (3x15 sin narración; sobretecho con ASR italiano — re-ingesta opcional a decisión del orquestador). Quedan 26 entradas de la playlist para lotes futuros (cabeza venidera: Azl6iwtc2dY). Sin push (queda por orden del usuario).
 
+
+## [2026-11-21] skip casa-2 | No limpies el MOHO de tus paredes sin ver esto (SKIP-NO-SUBS definitivo) (lote 2 tramo 11, fuente 53/77)
+- Fuente: `Z8jZvdQM9_w` (cache índice 53) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
