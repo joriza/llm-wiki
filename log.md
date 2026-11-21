@@ -4744,3 +4744,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Casa pequeña y moderna 3×15 m — 39 m² (AeD STUDIO) (tramo 3, fuente 13/50)
 - Fuente: `07zvz2KTuEo` (AeD STUDIO, 2021-08-03, 10:03, cache índice 13). Raw `raw/construccion-y-vivienda/2021-08-03-casa-pequena-e-moderna-3x15m-39m2.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-08-03-casa-3x15m-39m2-sin-narracion.md` + fila en index.md. Fuente hueca (sin narración; solo música en el ASR) — señalada, no re-ingestar; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Casa angosta de 3 m de frente en dos pisos — patio interior (Decide Tu Casa) (tramo 3, fuente 14/50)
+- Fuente: `Gxubgqqb0Jo` (Decide Tu Casa, 2021-12-04, 08:11, cache índice 14). Raw `raw/construccion-y-vivienda/2021-12-05-casa-angosta-3-metros-de-frente-en-dos-pisos-planos-de-casa-pequena-de-3x15-pati.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-12-05-casa-angosta-3m-dos-pisos.md` + fila en index.md. Par con la fuente 13 (lotes estrechos, concepto T11); consolidación aplazada (T11).
