@@ -4777,3 +4777,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Recorrida por obras en construcción (Arquitecto Marcelo Seia) (tramo 5, fuente 24/50)
 - Fuente: `A0-9wibnD3s` (Arquitecto Marcelo Seia, 2021-04-10, 18:07, cache índice 24). Raw `raw/construccion-y-vivienda/2021-04-10-recorrida-por-obras-en-construccion-consejos-para-la-construccion-de-casas.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-04-10-recorrida-obras-consejos.md` + fila en index.md. 8.ª fuente del canal Seia; consolidación aplazada (T11).
+
+## [2026-11-21] skip casa-2 | We built a cheap house. A new technology (SKIP-NO-SUBS definitivo) (tramo 5, fuente 25/50)
+- Fuente: `7srtxvyy0zo` (cache índice 25) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
