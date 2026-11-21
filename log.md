@@ -4948,3 +4948,6 @@ Concepto creado con las 2 fuentes de acústica del lote casa-2 (Soundproof Guide
 
 ## [2026-11-21] hub de dominio | construccion-y-vivienda
 Creado wiki/construccion-y-vivienda/hub.md: mapa de lectura del dominio por eje (obra/técnicas, envoltura térmica-humedades-acústica, diseño/espacios, proyecto, curiosidades) + entidades + notas de lint pendientes. Insumo directo para la evaluación de división (Seia 27 fuentes) del próximo lint.
+
+## [2026-11-21] decisión | taxonomía de hubs aprobada (pendiente de ejecución)
+El usuario aprobó la propuesta de hubs abarcativos de primer nivel (~30 dominios → ~7 hubs + sueltos): ia/, electronica-y-energia/, argentina/ (versión hub de la propuesta (a), sin migración física), hogar-y-vida-practica/, tecnologia-y-sociedad/, historia-y-archivo/; sueltos: python-practico, informatica-teoria, general/ y wl/ como «proceso». Registrada como propuesta (d) en wiki/dominios.md. Ejecución diferida a la próxima consolidación; cambio de presentación solamente (overview.md + dominios.md), sin mover carpetas.
