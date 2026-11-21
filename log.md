@@ -4786,3 +4786,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Capacitación Sistema Constructivo PROPANEL (Propanel Construcción Eficiente) (tramo 6, fuente 27/50)
 - Fuente: `tRxEm2fdD38` (Propanel Construcción Eficiente, 2021-05-27, 97:13, cache índice 27). Raw `raw/construccion-y-vivienda/2021-05-27-capacitacion-sistema-constructivo-propanel-25-05-2021.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-05-27-capacitacion-propanel.md` + fila en index.md. Fuente comercial del fabricante señalada; 3.ª fuente SIP consecutiva (concepto T11); consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Introducción a los paneles SIP — TAO Soluciones Constructivas (tramo 6, fuente 28/50)
+- Fuente: `pUsV_t-XcLk` (TAO Soluciones Constructivas, 2021-07-13, 58:55, cache índice 28). Raw `raw/construccion-y-vivienda/2021-07-13-introduccion-a-los-paneles-sip-tao.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-07-13-introduccion-paneles-sip-tao.md` + fila en index.md. 4.ª fuente SIP consecutiva — bloque más denso del lote, concepto prioritario T11; consolidación aplazada (T11).
