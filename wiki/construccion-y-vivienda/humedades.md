@@ -24,6 +24,6 @@ Grietas, manchas de humedad, olor a cloaca, revoques descascarados, piso que sue
 
 ## El hilo transversal: «el enmascaramiento es la anti-solución»
 
-La frase recurrente del dominio: parches que «lo único que hacen es taparlo, por detrás el problema sigue». El remedio puntual (silicato, moho con alcohol — dominio [[casa-calefaccion]], [[constructor-libre]]) tiene valor solo tras atacar la causa; sin ella, «la casa te lo va a mostrar de nuevo». La consulta profesional se enmarca como **inversión, no gasto** (la consulta ≪ la reparación mal hecha que se repite).
+La frase recurrente del dominio: parches que «lo único que hacen es taparlo, por detrás el problema sigue». El remedio puntual (silicato, moho con alcohol — dominio dominio casa-calefaccion, [[constructor-libre]]) tiene valor solo tras atacar la causa; sin ella, «la casa te lo va a mostrar de nuevo». La consulta profesional se enmarca como **inversión, no gasto** (la consulta ≪ la reparación mal hecha que se repite).
 
 **Ver también**: [[aislamiento-termico]] · [[techos-de-chapa]] · [[arquitecto-marcelo-seia]] · [[resumen-2021-02-06-humedad-capilaridad]].
