@@ -24,3 +24,8 @@ Ejecutar los cambios de taxonomía pendientes de la wiki, en el orden que el orq
 ## Log
 
 - L1 (verbatim): «ejecute todos esos cambios pendientes con el orden que considere efectivo, preferentemente en sub agentes, pero lo dejo a su criterio / si todo sale bien verifique que no haya enlaces rotos y pushee a remoto luego de la verificacion»
+
+## Cierre (2026-11-21)
+
+- T1 ✅ commit 4c0d3217 · T2 ✅ 385a6d9c (opción A) · T3 ✅ sin ediciones (JEV no-aplicable, verificado por worker) · T4 ✅ e89b4c8f · T5 ✅ cec74d21 (0 rotos causados por la reorganización; 42 preexistentes catalogados en log.md) · T6 ✅ push b8510d35..cec74d21 a origin/master.
+- S1-S7 cubiertos. Nota S4: unificación física argentina ejecutada bajo la autorización de S1; S5 resuelto por opción A (pieza pre-lista WL sin número); S6 no-aplicable; S7 sin división física documentada en dominios.md.
