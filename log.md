@@ -4822,3 +4822,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | 7 trucos de diseño de casas (Arquitecto Marcelo Seia) (tramo 8, fuente 39/50)
 - Fuente: `bTZxaebnqrI` (Arquitecto Marcelo Seia, 2021-12-25, 22:57, cache índice 39). Raw `raw/construccion-y-vivienda/2021-12-25-7-trucos-de-diseno-de-casas-ideas-utiles-para-tu-proyecto.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-12-25-7-trucos-diseno.md` + fila en index.md. 13.ª fuente del canal Seia; Patreon señalado; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Cómo elegir un terreno para construir una casa (Arquitecto Marcelo Seia) (tramo 8, fuente 40/50)
+- Fuente: `NMX2avuMDGU` (Arquitecto Marcelo Seia, 2022-05-07, 14:05, cache índice 40). Raw `raw/construccion-y-vivienda/2022-05-07-como-elegir-un-terreno-para-construir-una-casa-7-consejos-infalibles.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-05-07-elegir-terreno.md` + fila en index.md. 14.ª fuente del canal Seia; cierre de la cadena terreno→diseño→construcción del lote; consolidación aplazada (T11).
