@@ -4852,3 +4852,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] ingesta casa-2 | Cómo hacer un sobretecho de chapa (Arquitecto Marcelo Seia) (tramo 10, fuente 48/50)
 - Fuente: `0rwLwL6I6rk` (Arquitecto Marcelo Seia, 2021-03-27, 23:29, cache índice 48). Raw `raw/construccion-y-vivienda/2021-03-27-como-hacer-un-sobretecho-de-chapa-paso-a-paso.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-03-27-sobretecho-chapa.md` + fila en index.md. 18.ª fuente del canal Seia. ⚠️ Transcripción ASR en italiano (audio español) — fuente no sintetizable, señalada; posible re-ingesta por otra vía a decisión del orquestador; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Zinguerías — cenefa y babeta de chapa (Arquitecto Marcelo Seia) (tramo 10, fuente 49/50)
+- Fuente: `YToZbxaYRg0` (Arquitecto Marcelo Seia, 2023-04-01, 20:59, cache índice 49). Raw `raw/construccion-y-vivienda/2023-04-01-zinguerias-cenefa-y-babeta-de-chapa-lo-mejor-para-evitar-filtraciones-flashing-r.md` + resumen `wiki/construccion-y-vivienda/resumen-2023-04-01-zinguerias-cenefa-babeta.md` + fila en index.md. 19.ª fuente del canal Seia; desarrollo completo de los plegados (concepto techos T11); consolidación aplazada (T11).
