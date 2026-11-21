@@ -4780,3 +4780,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] skip casa-2 | We built a cheap house. A new technology (SKIP-NO-SUBS definitivo) (tramo 5, fuente 25/50)
 - Fuente: `7srtxvyy0zo` (cache índice 25) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
+
+## [2026-11-21] ingesta casa-2 | Sistema constructivo SIP — casa prefabricada (Arq. Cecilia Sal) (tramo 6, fuente 26/50)
+- Fuente: `8xbV0YX0hlY` (Arquitectura en Primer Plano, 2020-10-11, 08:14, cache índice 26). Raw `raw/construccion-y-vivienda/2020-10-11-sistema-constructivo-sip-casa-prefabricada-structural-insulated-panel-arq-cecili.md` + resumen `wiki/construccion-y-vivienda/resumen-2020-10-11-sip-entrevista-cecilia-sal.md` + fila en index.md. Segmento promocional señalado; par con la fuente 22 (SIP, concepto T11); consolidación aplazada (T11).
