@@ -4729,3 +4729,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Curso completo cómo construir casa de 2 pisos — tráiler de playlist (ARQUITECTO GRATIS) (tramo 2, fuente 8/50)
 - Fuente: `ScKGWLWiUhg` (ARQUITECTO GRATIS, 2021-03-01, 02:14, cache índice 8). Raw `raw/construccion-y-vivienda/2021-03-01-curso-completo-como-construir-de-casa-de-2-pisos.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-03-01-curso-construir-casa-2-pisos-trailer.md` + fila en index.md. Tráiler/índice promocional señalado como tal; 2.ª fuente del canal (entidad candidata T11); consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Cómo se hace un piso pulido de color, paso a paso (Lucas Alarcón) (tramo 2, fuente 9/50)
+- Fuente: `FRQYLX15jk8` (Lucas Alarcón, 2021-03-06, 16:30, cache índice 9). Raw `raw/construccion-y-vivienda/2021-03-06-como-se-hace-un-piso-pulido-de-color-paso-a-paso.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-03-06-piso-pulido-de-color.md` + fila en index.md. Costos desglosados por m² (pulido vs cerámica); consolidación aplazada (T11).
