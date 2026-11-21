@@ -4816,3 +4816,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Cómo sellar ventanas para que no entre agua (Arquitecto Marcelo Seia) (tramo 8, fuente 37/50)
 - Fuente: `ZDi8GR7nAoo` (Arquitecto Marcelo Seia, 2022-03-19, 14:47, cache índice 37). Raw `raw/construccion-y-vivienda/2022-03-19-como-sellar-ventanas-para-que-no-entre-agua-secretos-que-funcionan.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-03-19-sellar-ventanas.md` + fila en index.md. 11.ª fuente del canal Seia; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Diseño de cocinas modernas — 5 errores para evitar (Arquitecto Marcelo Seia) (tramo 8, fuente 38/50)
+- Fuente: `zMvCVsBWBYs` (Arquitecto Marcelo Seia, 2022-04-16, 25:03, cache índice 38). Raw `raw/construccion-y-vivienda/2022-04-16-diseno-de-cocinas-modernas-5-errores-para-evitar-guia-2026.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-04-16-diseno-cocinas-5-errores.md` + fila en index.md. 12.ª fuente del canal Seia; Patreon señalado; consolidación aplazada (T11).
