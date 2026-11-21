@@ -22,11 +22,11 @@ Confundir **aprender** con **estudiar**, **motivar** con **manipular** y **educa
 ## Evaluación
 
 - Sólido: la distinción motivación intrínseca/extrínseca y el rol del conocimiento previo coinciden con la literatura citada (Ausubel, Willis, Dehaene). La voz es de alguien dentro del sistema (profesora universitaria, UEM) que documenta el autoexperimento con transparencia.
-- Señalado: la **generalización** «las metodologías activas son manipulación psicológica» es una tesis polémica presentada como definición; las cifras de salud mental van sin enlace; el caso propio (n=1, con nota de 10) es anécdota ilustrativa, no evidencia sistemática. Coherente con la nota de parcialidad de [[liberalístico]]: cara crítica del debate, sin contrapeso.
+- Señalado: la **generalización** «las metodologías activas son manipulación psicológica» es una tesis polémica presentada como definición; las cifras de salud mental van sin enlace; el caso propio (n=1, con nota de 10) es anécdota ilustrativa, no evidencia sistemática. Coherente con la nota de parcialidad de [[liberalistico]]: cara crítica del debate, sin contrapeso.
 
 ## Cruces
 
 - **[[educacion-evidencia-vs-institucion]]**: refuerza el vector «el paradigma y su lenguaje» (WL-650/651 atacan método y resistencia; WL-652 ataca el *objetivo* del sistema: obediencia vs. aprendizaje). Complementario al hilo educación.
-- **[[liberalístico]]**: 4.ª fuente; desplaza el eje de salud mental (WL-639/645/648) al sistema educativo — coherente con el vector escuela de WL-648.
+- **[[liberalistico]]**: 4.ª fuente; desplaza el eje de salud mental (WL-639/645/648) al sistema educativo — coherente con el vector escuela de WL-648.
 - **[[delegacion-cognitiva-ia]] / trampa de la fluidez** (WL-651): contraste implícito entre motivación genuina y compromiso inducido por estímulos.
 - **[[la-etiqueta-miente]]**: el núcleo del video es exactamente ese patrón — la etiqueta («aprender», «motivar», «educar») que nombra lo contrario de lo que hace.

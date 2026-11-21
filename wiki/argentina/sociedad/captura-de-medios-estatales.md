@@ -4,7 +4,7 @@
 - **Dominio**: `sociedad-argentina`.
 - **Creada**: 2026-11-14 (consolidación de los tramos 5-6 del backlog «Ver más tarde»).
 - **Fuentes**: [[resumen-WL073-sofovich-robo-atc]] (WL-73, Sig Ezekiel — el caso semilla), [[resumen-WL061-karina-milei-menem-carpa-vip]] (WL-61, El Presto — el patrón actual documentado) y [[resumen-WL057-leon-xiv-visita-argentina-carpa-vip]] (WL-57, El Presto — la editorial del episodio carpa VIP, en tránsito tramo 4).
-- **Ver también**: [[comunicacion-en-confrontacion]] · dominio `sociedad-argentina/` · [[desarrollo-latinoamericano]].
+- **Ver también**: [[comunicacion-en-confrontacion]] · dominio `argentina/sociedad/` · [[desarrollo-latinoamericano]].
 
 ## El patrón
 

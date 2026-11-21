@@ -20,9 +20,9 @@ Argentina no es pobre por falta de recursos sino por la **destrucción sistemát
 
 ## Valoración
 
-Ensayo de opinión económica con tono declaradamente liberal y una sola hipótesis causal (confianza) presentada como explicación completa; las cifras (CIADI, INDEC, Fores/UTDT) son citadas con fuente nominal pero no verificables desde el video. El autor se anticipa a la crítica («me van a putear… soy un tipo que tiene plata») — parcialidad declarada pero presente. Contenido coherente con el hilo argentino ya compilado ([[liberalístico]], WL-641, WL-650).
+Ensayo de opinión económica con tono declaradamente liberal y una sola hipótesis causal (confianza) presentada como explicación completa; las cifras (CIADI, INDEC, Fores/UTDT) son citadas con fuente nominal pero no verificables desde el video. El autor se anticipa a la crítica («me van a putear… soy un tipo que tiene plata») — parcialidad declarada pero presente. Contenido coherente con el hilo argentino ya compilado ([[liberalistico]], WL-641, WL-650).
 
 ## Conexiones
 
-- Hilo economía/instituciones argentinas: WL-641 (historia territorial), WL-650 (educación/PISA), [[liberalístico]], WL-649.
+- Hilo economía/instituciones argentinas: WL-641 (historia territorial), WL-650 (educación/PISA), [[liberalistico]], WL-649.
 - Tema confianza/instituciones roza [[historia-software-corporativa]] solo por analogía estructural (las reglas que sobreviven a los gobiernos ↔ las decisiones que sobreviven a las empresas).

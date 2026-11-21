@@ -17,5 +17,5 @@ Fuente con **parcialidad estructural marcada**: la narración entera es la versi
 
 ## Conexiones
 
-- Hilo libertarismo hispano / Argentina: [[liberalístico]], WL-641, WL-658; Laje/Márquez aparecen ya como actores del ecosistema político-cultural argentino.
+- Hilo libertarismo hispano / Argentina: [[liberalistico]], WL-641, WL-658; Laje/Márquez aparecen ya como actores del ecosistema político-cultural argentino.
 - Muestra del patrón «la etiqueta miente» en clave ideológica (disputa por la etiqueta «libertario»): [[la-etiqueta-miente]].

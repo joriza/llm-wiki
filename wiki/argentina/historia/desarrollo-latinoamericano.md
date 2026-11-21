@@ -4,7 +4,7 @@
 - **Dominio**: `historia-argentina` (transversal: Argentina, México, Brasil, Venezuela, Cuba, Chile, España, Corea).
 - **Creada**: 2026-11-14 (consolidación de los tramos 5-6 del backlog «Ver más tarde»).
 - **Fuentes**: [[resumen-WL077-latam-nunca-alcanzo-eeuu]] (WL-77, Historia Oculta con Carlos — fuente principal, ~80 min), [[resumen-WL076-colapso-economia-europa]] (WL-76 — el espejo europeo) y [[resumen-WL073-sofovich-robo-atc]] (WL-73 — el stop-go argentino como telón de fondo del caso ATC).
-- **Ver también**: dominio `historia-argentina/` · [[captura-de-medios-estatales]].
+- **Ver también**: dominio `argentina/historia/` · [[captura-de-medios-estatales]].
 
 ## El marcador y la tesis
 

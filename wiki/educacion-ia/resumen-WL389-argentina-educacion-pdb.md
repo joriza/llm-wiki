@@ -1,6 +1,6 @@
 # WL-389 — ARGENTINA NO APRENDE: ¿QUIÉN DESTRUYÓ LA EDUCACIÓN? | PAÍS DE BOLUDOS
 
-- **Fuente original**: `raw/sociedad-argentina/2026-09-13-argentina-no-aprende-quien-destruyo-la-educacion-pais-de-boludos-pdb.md`
+- **Fuente original**: `raw/argentina/sociedad/2026-09-13-argentina-no-aprende-quien-destruyo-la-educacion-pais-de-boludos-pdb.md`
 - **Canal**: PDB (País de Boludos)
 - **Publicado**: 2026-09-13 · **Duración**: 33:31
 - **Video**: [`tPFLD9aKM0w`](https://www.youtube.com/watch?v=tPFLD9aKM0w) · WL-389 (índice 77 del cache, 4.584 entradas)

@@ -1,9 +1,9 @@
 # Dos Dager
 
 - **Tipo**: página de entidad (canal).
-- **Dominio**: `sociedad-argentina/` (perfil mixto: carrera IT + política — NO factual en ambos registros).
+- **Dominio**: `argentina/sociedad/` (perfil mixto: carrera IT + política — NO factual en ambos registros).
 - **Creada**: 2026-11-16 (consolidación relevo 2 del pedido L35 — umbral ≥2: WL-146 + WL-412).
-- **Fuentes**: [[resumen-WL146-1-marxista-vs-5-libertarios-reaccion]] (WL-146, `general/` — streaming de reacción política) · [[resumen-WL412-buscar-trabajo-dos-dager]] (WL-412, `sociedad-argentina/` — carrera IT).
+- **Fuentes**: [[resumen-WL146-1-marxista-vs-5-libertarios-reaccion]] (WL-146, `general/` — streaming de reacción política) · [[resumen-WL412-buscar-trabajo-dos-dager]] (WL-412, `argentina/sociedad/` — carrera IT).
 
 **Dos Dager** es un canal rioplatense de **videoensayo/streaming con humor áspero** — NO fuente factual (señalado en triage e índice de ambas fuentes; cifras de 2.ª mano citadas de memoria, sin enlaces). Perfil de dos caras:
 
