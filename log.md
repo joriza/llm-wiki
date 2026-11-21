@@ -4771,3 +4771,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | ¿Vale la pena construir con paneles SIP? (Arquitecto Marcelo Seia) (tramo 5, fuente 22/50)
 - Fuente: `iVs_uerLjiM` (Arquitecto Marcelo Seia, 2021-10-02, 15:55, cache índice 22). Raw `raw/construccion-y-vivienda/2021-10-02-vale-la-pena-construir-con-paneles-sip-lo-bueno-y-lo-malo-antes-de-decidir.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-10-02-paneles-sip.md` + fila en index.md. 6.ª fuente del canal Seia; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Cómo hacer un contrapiso de cemento alisado (Arquitecto Marcelo Seia) (tramo 5, fuente 23/50)
+- Fuente: `UljqVUbQFkk` (Arquitecto Marcelo Seia, 2021-10-23, 15:05, cache índice 23). Raw `raw/construccion-y-vivienda/2021-10-23-como-hacer-un-contrapiso-de-cemento-alisado-solera-de-hormigon-lista-para-coloca.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-10-23-contrapiso-alisado-monocapa.md` + fila en index.md. 7.ª fuente del canal Seia; consolidación aplazada (T11).
