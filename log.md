@@ -4801,3 +4801,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] skip casa-2 | Cuánto es lo Máximo que se puede Construir en un Terreno (SKIP-NO-SUBS definitivo) (tramo 7, fuente 32/50)
 - Fuente: `S8vV8TZBkT4` (cache índice 32) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
+
+## [2026-11-21] skip casa-2 | Cómo Construir En Etapas (SKIP-NO-SUBS definitivo) (tramo 7, fuente 33/50)
+- Fuente: `M39U6_c3UsE` (cache índice 33) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
