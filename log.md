@@ -4753,3 +4753,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Remodelación de casa de interés social — ampliación de dos pisos (COTAPAREDES Arquitectos) (tramo 4, fuente 16/50)
 - Fuente: `yT_ei2MXXYg` (COTAPAREDES Arquitectos, 2021-11-06, 25:27, cache índice 16). Raw `raw/construccion-y-vivienda/2021-11-06-remodelacion-de-casa-de-interes-social-te-sorprendera-obras-ajenas-guillencaball.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-11-06-remodelacion-casa-interes-social.md` + fila en index.md. Formato entrevista; menciones comerciales menores señaladas; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Una casa residencial económica — Casa 51 (Éntasis Arquitectura | Obras Ajenas) (tramo 4, fuente 17/50)
+- Fuente: `RhfFOrEQbKg` (COTAPAREDES Arquitectos, 2021-08-07, 21:29, cache índice 17). Raw `raw/construccion-y-vivienda/2021-08-07-una-casa-residencial-economica-obras-ajenas-entasismx.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-08-07-casa-51-entasis.md` + fila en index.md. 2.ª entrevista «Obras Ajenas» del lote; menciones comerciales menores señaladas; consolidación aplazada (T11).
