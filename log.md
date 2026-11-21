@@ -4735,3 +4735,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] skip casa-2 | Plano de Mini Casa de 5 x 6 (SKIP-NO-SUBS definitivo) (tramo 2, fuente 10/50)
 - Fuente: `Bt0iMYzV8dE` (cache índice 10) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
+
+## [2026-11-21] skip casa-2 | MINI CASA APENAS 25m2 CONSTRUIDOS EM TERRENO PEQUENO 5X8m (SKIP-NO-SUBS definitivo) (tramo 3, fuente 11/50)
+- Fuente: `i2aPDEKMYYk` (cache índice 11) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
