@@ -4717,3 +4717,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] skip casa-2 | Como AISLAR tu Casa SIN OBRAS (SKIP-NO-SUBS definitivo) (tramo 1, fuente 4/5)
 - Fuente: `n6Y9J34R1yw` (cache índice 4) — sin pistas de subtítulos, SKIP definitivo por protocolo (sin marcador de raw; marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
+
+## [2026-11-21] ingesta casa-2 | Cómo convertir una puerta abatible en una puerta corredera (Bricomanía) (tramo 1, fuente 5/5)
+- Fuente: `ZCuSYZ7aPQ4` (Bricomanía, 2020-03-22, 22:36, cache índice 5). Raw `raw/construccion-y-vivienda/2020-03-22-como-convertir-una-puerta-abatible-en-una-puerta-corredera-facil-y-sin-obra-bric.md` + resumen `wiki/construccion-y-vivienda/resumen-2020-03-22-puerta-abatible-a-corredera.md` + fila en index.md. Briconsejos laterales (posavasos, arqueta) excluidos de la síntesis; consolidación aplazada (T11).
