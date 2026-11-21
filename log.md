@@ -4884,3 +4884,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] ingesta casa-2 | Secreto para silenciar techos de chapa (Arquitecto Marcelo Seia) (lote 2 tramo 11, fuente 56/77)
 - Fuente: `vnWeccCWToI` (Arquitecto Marcelo Seia, 2025-02-22, 11:08, cache índice 56). Raw `raw/construccion-y-vivienda/2025-02-22-secreto-para-silenciar-techos-de-chapa-y-bloquear-el-ruido-de-la-lluvia.md` + resumen `wiki/construccion-y-vivienda/resumen-2025-02-22-silenciar-techo-chapa.md` + fila en index.md. 23.ª fuente del canal Seia; faceta acústica del eje techos; consolidación de lote 2 aplazada (T17).
+
+## [2026-11-21] ingesta casa-2 | Enterramos este caño en el patio — climatización pasiva (Permacultura Holística) (lote 2 tramo 12, fuente 57/77)
+- Fuente: `a35wX3F1R1g` (Permacultura Holística, 2025-04-04, 10:05, cache índice 57). Raw `raw/construccion-y-vivienda/2025-04-04-enterramos-este-cano-en-el-patio-y-enfria-toda-la-casa-sin-electricidad.md` + resumen `wiki/construccion-y-vivienda/resumen-2025-04-04-pozo-canadiense-casero.md` + fila en index.md. 3.ª fuente del canal (entidad en casa-calefaccion, actualización pendiente); membresía promocionada señalada; consolidación de lote 2 aplazada (T17).
