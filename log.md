@@ -4810,3 +4810,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Humedad por capilaridad — 3 soluciones que funcionan (Arquitecto Marcelo Seia) (tramo 7, fuente 35/50)
 - Fuente: `UPTYQ19xUJU` (Arquitecto Marcelo Seia, 2021-02-06, 14:18, cache índice 35). Raw `raw/construccion-y-vivienda/2021-02-06-humedad-por-capilaridad-3-soluciones-que-funcionan.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-02-06-humedad-capilaridad.md` + fila en index.md. 9.ª fuente del canal Seia; sin comercialización declarada; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Diseños de casas simples — plano de 1 dormitorio ampliable (Arquitecto Marcelo Seia) (tramo 8, fuente 36/50)
+- Fuente: `r58UzpTQZW4` (Arquitecto Marcelo Seia, 2022-03-26, 20:22, cache índice 36). Raw `raw/construccion-y-vivienda/2022-03-26-disenos-de-casas-simples-plano-de-casa-de-1-dormitorio-ampliable.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-03-26-casa-1-dormitorio-ampliable.md` + fila en index.md. 10.ª fuente del canal Seia; Patreon señalado; consolidación aplazada (T11).
