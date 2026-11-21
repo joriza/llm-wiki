@@ -4705,3 +4705,6 @@ WL-659: número ocupado por SKIP-DUPLICATE `WY3ngY913eE` («Tu mejor momento no 
 
 ## [2026-11-17] dominio nuevo | construccion-y-vivienda
 Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propuestas) para la playlist «Casa» nueva del usuario (PLqe2XRWDm9REoA-pabUfCenKfXBNyhBOD, 77 entradas únicas, 0 procesadas). Alcance registrado en wiki/dominios.md. Ingesta autorizada: primeras 50 fuentes desde la cabeza, un único subagente con relevo cada 5 y re-chequeo de cabeza por relevo (feature doc: odd/tasks/ingesta-casa-2.md). Aclaración: la playlist vieja PLqe2XRWDm9RERlx1WjdfcR1MfTedCZRco (Casa/Calefacción) está cerrada 27/27 desde 2026-11-11; esta es otra lista con el mismo nombre.
+
+## [2026-11-21] ingesta casa-2 | Geniales micro departamentos que debes ver (CURIOSITY EXPRESS) (tramo 1, fuente 1/5)
+- Fuente: `yhAxYW6i6XY` (CURIOSITY EXPRESS, 2019-09-28, 10:04, cache índice 1). Raw `raw/construccion-y-vivienda/2019-09-29-geniales-micro-departamentos-que-debes-ver.md` + resumen `wiki/construccion-y-vivienda/resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver.md` + fila en index.md. Primera fuente del dominio construccion-y-vivienda. Consolidación aplazada (T11).
