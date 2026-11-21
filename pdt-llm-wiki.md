@@ -1,15 +1,25 @@
 # es un documento borrador del autor, no debe tomarse en cuenta.
 
 # Lista Youtube para ver mas tarde
-
 Hacé refresh de la lista WL de YouTube para leerla como está ahora mismo, y 
-procesá 60 fuentes desde la cabeza de esa lista fresca, 
-en un único sub-agente con relevo cada 5 fuentes. 
+procesá todas las fuentes desde la cabeza de esa lista fresca, 
+en un único sub-agente 
+con relevo cada 5 fuentes. 
 Si  al verificar la cabeza de algún relevo la lista cambió respecto del cache, 
 re-listá y seguí desde la nueva cabeza.
-Sin push salvo orden, consolidación diferida, sin dominios nuevos.
 -
-Terminadas esas tareas dale la orden a windows para que se apague.
+dame hasta 65 de los videos que ya se procesaron o que no se van a procesar 
+(incluyendo los que quedaron en skip definitivo por no tener subtítulos o estar privados), 
+para poder eliminarlos de la lista y curarla. 
+Pasame los títulos tal cual los veo en YouTube y los números visibles de mi listado, 
+excluyendo los [Deleted video] y [Private video].
+-
+Realiza consolidacion demorada. 
+Pushea a remoto.
+-
+Terminadas esas tareas, po último, dale la orden a windows para que se apague.
+-
+Sin push salvo orden, consolidación diferida, sin dominios nuevos.
 
 
 # Curar lista Youtube "ver mas tarde"
@@ -22,7 +32,8 @@ Pasame los títulos tal cual los veo en YouTube y los números visibles de mi li
 excluyendo los [Deleted video] y [Private video].
 -
 Realiza consolidacion demorada. 
-Pushea a remoto y cierra acá.
+Pushea a remoto y 
+cierra acá.
 
 
 # Una lista de youtube (con sub agente)
