@@ -1,0 +1,52 @@
+# 🤫 Secreto para SILENCIAR Techos de Chapa y Bloquear el RUIDO de la Lluvia
+
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=vnWeccCWToI)
+- **Canal**: Arquitecto Marcelo Seia
+- **Publicado**: 2025-02-22
+- **Recopilado**: 2026-11-21
+- **Idioma**: es (subtítulos automáticos es (auto), transcripción literal)
+- **Duración**: 11:08
+
+> Transcripción a partir de los subtítulos automáticos del vídeo, sin normalizar; puede contener errores de reconocimiento. Las marcas de tiempo indican el inicio aproximado de cada bloque.
+
+---
+
+[00:00] pregunta básica Qué tienen en común un techo de chapa y un inodoro y Eh puede no parecer muy serio eh o no sa bien que lo dio un arquitecto o vaya a saber que no pero aunque no lo parezca en este video Voy a tratar de responder la pregunta del millón Cómo insonorizar un techo de chapa para reducir el ruido de la lluvia bueno dicen por ahí que oír la lluvia caer sobre un techo de chapa es muy romántico o que es bueno para dormir la siesta que s dicen pero si sos de los que no piensa esto veamos Cómo reducir
+
+[00:35] esos ruidos en principio pensemos Por qué los techos de chapa hacen tanto ruido con la lluvia Mira es muy simple la chapa es un material liviano y metálico que al recibir el impacto de las gotas de lluvia vibra y amplifica el sonido este fenómeno se debe a básicamente a tres cosas en principio la falta de masa de de de material porque la chapa al ser muy delgada y no tener peso No absorbe ni atenúa el impacto del agua que le está cayendo sino que lo que lo transmite como una vibración por otro
+
+[01:10] lado la resonancia para peor las chapas suelen instalarse sobre estructuras metálicas o muy livian lo que favorece aún más esa propagación del sonido y por otro lado está el diseño del plegado los distintos perfiles de chapa pueden llegar a influir en la forma en que las gotas impactan y en la fusión de servido tema muy interesante que ya vamos a ver dentro de poquito antes hablemos de algunas alternativas para insonorizar un techo de chapa en general la primera de ellas colocar ailantes acústicos bajo la
+
+[01:44] chapa Cómo funciona esto Mira es muy sencillo la idea sería interponer materiales que absorban el sonido pero inmediatamente detrás de la chapa adherido a ella o al menos lo más cerca posible de la misma estos materiales reducen la vibración de la chapa y evitan que el ruido se propague Cuáles serían esos materiales que de los cuales estoy hablando Mira pueden ser varios espuma de polietileno que se aplica en forma de paneles o lo más lo más habitual es en forma de de spray como
+
+[02:14] una pulverización directamente sobre la cara inferior de la chapa eh su alta densidad absorbe eh el sonido y reduce aún más la resonancia además hay qu dar bien adherido el poliuretano y la chapa quedan como formando e una estructura más rígida que le impide vibrar tanto y al no vibrar hace menos ruido otro de los materiales posibles sería la celulosa proyectada Está compuesto por un proyectado de fibra de celulosa que se adhieren a la chapa por debajo y cumple una una función similar al spray
+
+[02:49] de poliuretano tanto esta alternativa como la versión anterior se colocan en un espesor que va entre los dos a los 3 cm otro aislante posible sería la membrana Grana de espuma de polietileno eh la de burbujas de de aire no habitualmente se coloa se coloca sobre una estructura metálica sostenida por una malla plástica tipo red sobre la que luego se fija la chapa los espesores habituales suelen estar entre 5 a 10 mm un poco más algunas marcas por el menor espesor la efectividad para amortiguar
+
+[03:23] el sonido es un poco menor a las opciones anteriores otra alternativa también muy usada es la lana de vidrio o lana de roca O sino la fibra de poliéster lo habitual Es colocarlas sobre la estructura de sostén del cieloraso suspendido mientras eh este se va Armando todos estos materiales son no casualmente los aislantes térmicos más comunes que se utilizan en una vivienda la ventaja Acústica de los que vienen en forma de lanas o fibras es que amortiguan mejor la transmisión del
+
+[03:57] sonido por ser más acolchadas si por esas casualidades de la vida tu presupuesto te lo permite puede pasar en algunos casos te aconsejo combinar la colocación de ambas aislaciones la de spray pegado a la chapa y la de fibras ubicado sobre el cilo raso Por qué es muy simple el sonido que pueda colarse entre la chapa Y el spray eh que se aplica por debajo se transmite por la cámara de aire que queda entre el cielorraso y la chapa Y se termina de amortiguar con la segunda ación ubicada
+
+[04:30] sobre el cielo raso no solo vas a mejorar la aislación contra el frío y el calor sino que llegarás a niveles de INS de insonorización muy pero muy buenos de más está a decir pero lo voy a decir igual que cuanto mayor sea la separación Entre el cielo raso Entre el techo y el cielo raso es decir el tamaño de esa cámara de aire que queda mayor será la insonorización porque la fuente de ruido que es el techo metálico estará más alejada de nosotros una segunda alternativa para bajar el nivel de ruido
+
+[05:02] sería aplicar recubrimiento sobre la chapa cómo funciona Mira estamos hablando de algo similar a lo explicado anteriormente pero aplicado ahora por encima de la chapa es decir en contacto con el exterior es la clásica disposición que se adopta cuando el techo ya está construido y ya no hay otra alternativa posible el material que se utiliza más comúnmente es el spray de poliuretano esto es Yo te diría por una una cuestión de facilidad de aplicación y porque permite copiar la forma del
+
+[05:34] plegado de la chapa además una de sus ventajas extra es que al ser aplicado sobre la chapa la protege de los rayos del sol e impide que se caliente la chapa propiamente dicha aumentando así la aislación térmica del techo porque no se calienta la chapa la gran desventaja es que sí o sí vas a precisar de una capa de pintura o membrana líquida por encima de des spray de poliuretano sucede que ese material es altamente degradable por los rayos ultravioleta Si no tuviera una capa de protección
+
+[06:08] superior en muy poco tiempo diría en pocos años se degrada el punto de que al rascar lo con una uña te queda un polvo en la mano y como imaginarás ya lo estarás pensando como la pintura protectora tampoco es eterna Va a haber que hacer un repintado yo diría como mínimo cada 2s años en resumen eh aplicado sobre la chapa se logra una buena una buena insonorización y aislación térmica de paso pero solo yo te lo recomendaría para aquellos que ya tienen techada su casa y no pudieron hacer nada
+
+[06:41] de lo que te recomendaba al principio una tercera alternativa para insonorizar la estructura del techo la estructura sobre la que se apoya la chapa también influye en esa transmisión del ruido te lo comentaba al principio con la lluvia las chapas vibran y transmiten esa vibración a la estructura en donde se están apoyando si esa estructura es de madera bueno quizás las vibraciones y el ruido serán Menores en comparación por ejemplo los perfiles metálicos otra alternativa que la verdad tengo que ser
+
+[07:12] sincero nunca la he probado pero se me ocurre muy efectiva sería Mira te lo digo en difícil intentar hacer un desacoplamiento acústico bueno dicho esto Ahora sí en pasado al Castellano eso sería algo así como colocar cintas o bandas o separadores de goma entre las chapas entre las chapas y los perfiles estos funcionarían como soportes elásticos que permitirían que ayudarían a disminuir las vibraciones y por tanto los ruidos cuarto consejo utilizar perfiles de chapa adecuados vamos a ver en dónde nos
+
+[07:48] metemos segunda pregunta del millón es verdad que la chapa canaladaar que otros plegados en principio digamos que existe cierta verdad en esta afirmación pero para entenderlo mejor Aquí viene la analogía del inodoro que te comentaba al principio veamos porque no es fácil muchos hombres en un momento de iluminación práctica cada vez que orinan dirigen el chorro hacia las partes curvas del inodoro como una forma de minimizar el impacto y evitar salpicar tanto hago aquí una un breve corte para
+
+[08:23] que para que vos como jefa de familia opines sobre si esto ocurre en tu casa así y cual lo he dicho o no Bueno sigamos continuando con la con la analogía del inodoro al dirigir el chorro hacia una parte Curva del interior del sanitario la energía del impacto se distribuye por toda la superficie curva reduciendo la intensidad de ese salpicado la forma de esa curva absorbe y redistribuye la fuerza del impacto disipándose de este ver enen en dónde me metí digamos que las chapas acanaladas
+
+[09:03] funcionan bajo ese mismo principio porque si te fijas bien sus ondulaciones ofrecen varias superficies inclinadas y curvas que redistribuyen la fuerza del impacto de las gotas de lluvia minimizando así las vibraciones y Por ende el ruido esto nos permitiría decir que las chapas acanaladas son menos ruidosas que las trapezoidales o similares a estas cuanto menos ruidosas mira ni la menor idea no he encontrado ni un estudio que se haya ocupado de estos temas Pero insisto seguro que es
+
+[09:39] así por una cuestión de sentido común ahora bien Esto te obligaría a elegir un plegado de chapa por sobre otro bueno Por supuesto que no pero si la idea del video es atenuar los ruidos de la lluvia yo te recomendaría elegir chapas acanaladas bueno veamos y a manera de cierre y conclusión si el ruido de la chapa eh perdón si el estudo de la lluvia sobre la chapa no te resulta eh romántico vas a tener que combinar uno o varios de los sistemas que acabo de contarte para amortiguar esos sonidos te
+
+[10:10] aseguro que bien combinados harán que los ruidos no lleguen a ser nunca un problema pero honestidad absoluta no hay magia los techos de losa o de concreto en este particular sentido quizás no en otros pero en este particular sentido son mucho más insonoros que los metálicos lo que que podría llevarte a decir viste que la losa es mejor que la chapa a lo que venimos a sugerirte que si quieres saber cuál es la mejor opción para estrechar tu casa primero veas la comparación que hice en el video que
+
+[10:43] aparecerá por aquí sin dudas ha sido un video complicado Espero que se hayan entendido las comparaciones Y si te gustó te invito a que dejes tu comentario lo compartas con amigos y te suscribas a esta comunidad de más de 1 millón de personas a mí la verdad que me ha encantado hacerlo así que te dejo un abrazo grande

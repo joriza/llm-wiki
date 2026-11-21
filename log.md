@@ -4881,3 +4881,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] ingesta casa-2 | Diseño de cocinas modernas — 0 % errores (Arquitecto Marcelo Seia) (lote 2 tramo 11, fuente 55/77)
 - Fuente: `zLJNYTGXwKA` (Arquitecto Marcelo Seia, 2024-08-10, 18:56, cache índice 55). Raw `raw/construccion-y-vivienda/2024-08-10-diseno-de-cocinas-modernas-0-errores.md` + resumen `wiki/construccion-y-vivienda/resumen-2024-08-10-cocinas-0-errores.md` + fila en index.md. 22.ª fuente del canal Seia; complemento por casos de los 5 errores (lote 1); consolidación de lote 2 aplazada (T17).
+
+## [2026-11-21] ingesta casa-2 | Secreto para silenciar techos de chapa (Arquitecto Marcelo Seia) (lote 2 tramo 11, fuente 56/77)
+- Fuente: `vnWeccCWToI` (Arquitecto Marcelo Seia, 2025-02-22, 11:08, cache índice 56). Raw `raw/construccion-y-vivienda/2025-02-22-secreto-para-silenciar-techos-de-chapa-y-bloquear-el-ruido-de-la-lluvia.md` + resumen `wiki/construccion-y-vivienda/resumen-2025-02-22-silenciar-techo-chapa.md` + fila en index.md. 23.ª fuente del canal Seia; faceta acústica del eje techos; consolidación de lote 2 aplazada (T17).
