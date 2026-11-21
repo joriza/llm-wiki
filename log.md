@@ -4720,3 +4720,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Cómo convertir una puerta abatible en una puerta corredera (Bricomanía) (tramo 1, fuente 5/5)
 - Fuente: `ZCuSYZ7aPQ4` (Bricomanía, 2020-03-22, 22:36, cache índice 5). Raw `raw/construccion-y-vivienda/2020-03-22-como-convertir-una-puerta-abatible-en-una-puerta-corredera-facil-y-sin-obra-bric.md` + resumen `wiki/construccion-y-vivienda/resumen-2020-03-22-puerta-abatible-a-corredera.md` + fila en index.md. Briconsejos laterales (posavasos, arqueta) excluidos de la síntesis; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Vivirías en una casa de 16 m² — tour tiny house (Jorge Navarro) (tramo 2, fuente 6/5+1)
+- Fuente: `uMCLNB_cbe8` (Jorge Navarro, 2020-11-27, 08:02, cache índice 6). Raw `raw/construccion-y-vivienda/2020-11-27-vivirias-en-una-casa-de-16m2-tour-tiny-house-minimalismo.md` + resumen `wiki/construccion-y-vivienda/resumen-2020-11-27-tiny-house-16m2-tour.md` + fila en index.md. Colaboración patrocinada declarada y señalada en el resumen; cruza [[resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver]]; consolidación aplazada (T11).
