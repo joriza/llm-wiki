@@ -4726,3 +4726,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Cómo armar hierro en columnas para casa de 2 a 3 pisos (ARQUITECTO GRATIS) (tramo 2, fuente 7/50)
 - Fuente: `mp466AUXJX4` (ARQUITECTO GRATIS, 2021-01-24, 10:10, subtítulos manuales, cache índice 7). Raw `raw/construccion-y-vivienda/2021-01-24-como-armar-hierro-en-columnas-para-casa-de-2-a-3-piso-hierros-corrugado-refuerzo.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-01-24-armado-hierro-columnas.md` + fila en index.md. 1.ª fuente de estructura del dominio; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Curso completo cómo construir casa de 2 pisos — tráiler de playlist (ARQUITECTO GRATIS) (tramo 2, fuente 8/50)
+- Fuente: `ScKGWLWiUhg` (ARQUITECTO GRATIS, 2021-03-01, 02:14, cache índice 8). Raw `raw/construccion-y-vivienda/2021-03-01-curso-completo-como-construir-de-casa-de-2-pisos.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-03-01-curso-construir-casa-2-pisos-trailer.md` + fila en index.md. Tráiler/índice promocional señalado como tal; 2.ª fuente del canal (entidad candidata T11); consolidación aplazada (T11).
