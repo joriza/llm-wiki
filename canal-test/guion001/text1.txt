@@ -1,0 +1,7 @@
+El lenguaje que hoy corre en casi el noventa y nueve por ciento de las páginas web del mundo lo escribió un tipo solo, en diez días, para una demo que nadie creyó importante.
+
+Y lo peor: nunca lo terminaron. Nunca lo van a terminar. Y por eso gana.
+
+Este lenguaje tiene absurdos que ningún diseñador pondría hoy: igualdades que comparan el texto vacío con el cero y dicen que son lo mismo. Y sin embargo, cada vez que cargás una página, ese lenguaje está ahí, treinta años después, ejecutándose en tu máquina.
+
+Esto es El Taller Curioso. Hoy: cómo un parche de diez días se volvió el cimiento de Internet – y por qué nadie, ni su propio creador, pudo arreglarlo después.

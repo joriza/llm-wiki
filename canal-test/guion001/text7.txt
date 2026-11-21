@@ -1,0 +1,11 @@
+Resumamos los tres patrones, porque sirven para cualquier tecnología, no solo JavaScript:
+
+Uno: el diseño técnico pierde contra la economía. Scheme perdió contra «parecido a Java».
+
+Dos: los errores se vuelven estándar por acumulación. El doble igual se arregló una vez y el mundo lo impidió – con 40 usuarios se arregla gratis, con 40 millones se arregla nunca.
+
+Tres: ganar no es ser bueno; es estar en el lugar correcto. Worse is better.
+
+Y el epílogo que me gusta contar: la misma persona que hizo JavaScript a los apurones, Brendan Eich, después impulsó en Mozilla un lenguaje con la filosofía exactamente opuesta: Rust – lento de diseñar, cuidadoso, con seguridad de memoria, sin permitir los atajos que él mismo tuvo que tomar en 1995. La misma cabeza, dos filosofías opuestas: worse-is-better contra safety-first.
+
+Eso es otra historia, y la vamos a contar acá, en El Taller Curioso. Suscribite si querés acompañarla.

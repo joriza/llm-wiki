@@ -1,0 +1,5 @@
+Los 2000s fueron la edad oscura: el lenguaje congelado, el comité trabado. Y acá aparece el giro más irónico. Douglas Crockford, probablemente el crítico más feroz de JavaScript, aceptó un contrato grande que solo se podía hacer en JavaScript – y en el proceso descubrió lo que Eich había querido desde el principio: las funciones como datos. Del mismo lenguaje sacó limpio un subconjunto de notación de datos y lo llamó JSON. Hoy JSON es el formato estándar de intercambio de datos de toda la industria – nacido de despreciar el lenguaje y quedarse con lo rescatable.
+
+2005: Ajax y Gmail demuestran que la web puede ser una aplicación. 2009: Node lleva JavaScript al servidor – y los back-end clásicos lo miraron con espanto. Y el estándar, después del fracaso de la gran reforma ES4 (la versión ambiciosa que Microsoft y Yahoo tumbaron en 2008), avanzó en trozos: ECMAScript 5 en 2009, y ES6/2015, que por fin incorporó clases, módulos y async/await – lo que ES4 quiso ser, realizado sin romper nada.
+
+Mejorar sin romper, en trozos, con décadas de paciencia. Ese es el único camino que la jaula permite.

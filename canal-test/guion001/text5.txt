@@ -1,0 +1,9 @@
+Enterate que JavaScript funcionaba, y Microsoft se movió. En 1996 Internet Explorer 3 salió con VBScript – la respuesta propietaria – y con su propia versión de JavaScript. Pero Microsoft no podía copiar el código (era propiedad de Netscape), así que hizo ingeniería inversa de comportamiento: un equipo probó miles de páginas en ambos navegadores y ajustó su implementación hasta que se comportara igual – incluyendo, se dice, los errores.
+
+Piensen en eso: copiar los bugs a propósito, porque las páginas estaban construidas para los bugs.
+
+Netscape, acorralada, hizo la movida más contraintuitiva: regaló el lenguaje. Lo entregó al comité europeo ECMA para que fuera un estándar neutral. El nombre oficial quedó ECMAScript – sí, ese nombre raro de la documentación que todos ignoramos.
+
+¿Y cómo terminó la guerra? IE venía gratis dentro de Windows; Netscape cobraba por su navegador. No era una pelea parejo. Netscape cayó, y en 1998 AOL la compró. Pero antes, Netscape liberó el código del navegador – y de ese rescate nació Mozilla. El navegador que hoy conocés como Firefox es el descendiente directo del perdedor de la guerra que inventó JavaScript.
+
+Tercer patrón del video: la tecnología no gana por ser buena, gana por estar en el lugar correcto con la distribución correcta. IE ganó la guerra y perdió la historia: su clon de JavaScript se estandarizó bajo las mismas reglas que el original, y el estándar neutral que Netscape regaló es el que sobrevivió.

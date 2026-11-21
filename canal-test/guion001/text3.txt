@@ -1,0 +1,9 @@
+En mayo de 1995 –esto está confirmado por el propio Eich– el prototipo del motor tomó diez días. Diez días de mayo para lo que hoy sostiene casi toda la web.
+
+¿Qué se puede hacer en diez días? Hacer trampa inteligente. Por afuera, el lenguaje tenía cara de Java: sintaxis con llaves, parecido a C, para que ningún gerente se asustara. Por adentro, era otra cosa: funciones de primera clase sacadas de Scheme – funciones que se pasan como datos, se guardan en variables, se devuelven de otras funciones – y herencia prototípica en vez de clases.
+
+Ese doble diseño – cara de Java, motor de Scheme – es la mejor y la peor decisión de la historia del lenguaje. La mejor, porque las funciones como datos son hoy la joya de JavaScript: sin eso no hay callbacks, no hay promesas, no hay el modelo async/await que usás todos los días. La peor, porque esa cara de Java confundió a todo el mundo durante décadas.
+
+Y el nombre, bueno… el nombre fue puro marketing. El prototipo se llamaba Mocha, después LiveScript. Y en diciembre de 1995 Netscape lo renombró JavaScript para surfear la moda de Java – sin consultar a James Gosling, el creador de Java. Eich lo repite hasta el cansancio: JavaScript no tiene nada que ver con Java. Son dos lenguajes que se parecen lo que un piano y un pianista.
+
+Demo en pantalla: la sintaxis con llaves que heredó de la cara de Java, y una función que se asigna a una variable – el Scheme que esconde adentro.
