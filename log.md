@@ -4951,3 +4951,13 @@ Creado wiki/construccion-y-vivienda/hub.md: mapa de lectura del dominio por eje 
 
 ## [2026-11-21] decisión | taxonomía de hubs aprobada (pendiente de ejecución)
 El usuario aprobó la propuesta de hubs abarcativos de primer nivel (~30 dominios → ~7 hubs + sueltos): ia/, electronica-y-energia/, argentina/ (versión hub de la propuesta (a), sin migración física), hogar-y-vida-practica/, tecnologia-y-sociedad/, historia-y-archivo/; sueltos: python-practico, informatica-teoria, general/ y wl/ como «proceso». Registrada como propuesta (d) en wiki/dominios.md. Ejecución diferida a la próxima consolidación; cambio de presentación solamente (overview.md + dominios.md), sin mover carpetas.
+
+## [2026-11-21] reorganización | Hubs de primer nivel, unificación argentina y lints pendientes
+
+Ejecución del lote pendiente bajo orden del usuario («ejecute todos esos cambios pendientes… si todo sale bien verifique que no haya enlaces rotos y pushee a remoto luego de la verificacion»), doc ODD `odd/tasks/reorg-hubs-pendientes.md`:
+- T1 (worker, commit 4c0d3217): unificación física argentina — `argentina/{historia,sociedad,economia}/` + espejo `raw/argentina/`; 99 citas «Fuente original/Raw» reescritas; 106 filas de index.md; página-hub [[argentina]]. Resuelve propuestas (a), (b) y (c).
+- T2 (worker, commit 385a6d9c): lint colisión WL-402 (opción A): la pieza Gen X J8CCv5zwBT0 es pre-lista WL (sin número); referencia «(WL-402)» eliminada en resumen-WL670; notas de colisión resueltas en [[mente-descubierta]] e index.md. WL-402 = BettaTech exclusivamente.
+- T3 (worker, sin ediciones): JEV WL-346/350/353 — las 3 fuentes tratan el PRODUCTO Jev, no la paradoja de Jevons: pendiente del lint 2026-11-16 cerrado como NO-APLICABLE; tema común ya documentado en [[routing-por-coste]]. Parte 2: pendiente «9 canales de 1 fuente» ya resuelto (criterio «solo si aporta», log 2026-11-21).
+- T4 (orquestador): vista de hubs (propuesta d) en overview.md (nueva sección «Taxonomía de hubs» + Hilo 38), dominios.md (sección de hubs, fila argentina unificada, evaluación informatica/ sin división física) y sintesis.md (sección 35).
+- T5/T6: verificación de enlaces rotos en toda la wiki y push a origin tras la verificación (por el orquestador).
+Pendientes heredados detectados para T5: 7 archivos de wiki/educacion-ia/ citan rutas raw/sociedad-argentina rotas (corrección en T5); index.md:1231 enlaza un resumen que nunca existió en HEAD (resumen-WL458-lindsay-clancy-moras, preexistente).
