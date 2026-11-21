@@ -4849,3 +4849,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] ingesta casa-2 | Cómo reformar una casa antigua con poco dinero (Arquitecto Marcelo Seia) (tramo 10, fuente 47/50)
 - Fuente: `Kml5NCVwDy0` (Arquitecto Marcelo Seia, 2022-02-05, 17:02, cache índice 47). Raw `raw/construccion-y-vivienda/2022-02-05-como-reformar-una-casa-antigua-con-poco-dinero-7-consejos-imperdibles.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-02-05-reformar-casa-antigua.md` + fila en index.md. 17.ª fuente del canal Seia; integra varios ejes del lote (concepto reformas T11); consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Cómo hacer un sobretecho de chapa (Arquitecto Marcelo Seia) (tramo 10, fuente 48/50)
+- Fuente: `0rwLwL6I6rk` (Arquitecto Marcelo Seia, 2021-03-27, 23:29, cache índice 48). Raw `raw/construccion-y-vivienda/2021-03-27-como-hacer-un-sobretecho-de-chapa-paso-a-paso.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-03-27-sobretecho-chapa.md` + fila en index.md. 18.ª fuente del canal Seia. ⚠️ Transcripción ASR en italiano (audio español) — fuente no sintetizable, señalada; posible re-ingesta por otra vía a decisión del orquestador; consolidación aplazada (T11).
