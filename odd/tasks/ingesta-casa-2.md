@@ -53,3 +53,4 @@ Cada relevo (T1-T10) arranca con el re-chequeo de cabeza de S2: re-listar (`--re
 - T16 (S1-S6, worker, commit): Relevo L2-5 — siguientes 5 únicas. + lectura-tramo15.md.
 - T17 (S1-S6, worker, commit): Relevo L2-6 FINAL — restantes + consolidación del lote 2 (conceptos/entidades nuevos, cruces, overview/sintesis, log). Push solo bajo orden del usuario.
 - L5: «al final de cada relevo consulte si consulta con otro relevo, me queda poca ventana de uso» (2026-11-21) — modo confirmación activado: tras cada relevo del lote 2, el orquestador pregunta al usuario antes de lanzar el siguiente; ningún relevo se encadena solo.
+- L6: «pause» (2026-11-21) — lote 2 en pausa tras el relevo L2-2 interrumpido por error de cuota del worker (no un 429 de YouTube). Salida WARP reconectada y validada, 6/26 fuentes del lote 2 procesadas (52-61 + 62 pendiente). Pendientes del lote 2: aprox. 20-21 entradas (relevos L2-3, L2-4, L2-5, L2-6 FINAL con consolidación).
