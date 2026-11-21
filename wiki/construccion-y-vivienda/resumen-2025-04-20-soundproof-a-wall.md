@@ -28,7 +28,7 @@ Primero masa (MLV + placa), luego sellado (masilla, tapas), recién al final des
 
 ## Cruces
 
-- Coincidencia metodológica con la faceta acústica de [[techos-de-chapa]] ([[resumen-2025-02-22-silenciar-techo-chapa]]): masa + absorción en cavidad + desacople aparecen como los mismos tres principios, con la diferencia de que Seia propone plegado acanalado (redistribución) como cuarta vía y este canal lo lleva a paredes con productos específicos (MLV, canal resiliente).
+- Coincidencia metodológica con la faceta acústica de [[techos-de-chapa]] ([[resumen-2025-02-22-silenciar-techo-chapa]]): masa + absorción en cavidad + desacople aparecen como los mismos tres principios, con la diferencia de que Seia propone plegado acanalado (redistribución) como cuarta vía y este canal lo lleva a paredes con productos específicos (MLV, canal resiliente). Concepto matriz: [[acustica-de-la-vivienda]].
 - La lana de roca en cavidad y el sándwich de placas conectan con el eje de [[aislamiento-termico]] (misma arquitectura multicapa, objetivo acústico vs térmico).
 
 **Ver también**: [[techos-de-chapa]] · [[resumen-2025-02-22-silenciar-techo-chapa]] · [[aislamiento-termico]].

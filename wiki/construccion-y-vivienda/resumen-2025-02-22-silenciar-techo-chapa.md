@@ -41,7 +41,7 @@ Afirmación popular: la chapa acanalada hace menos ruido que la trapezoidal. **H
 
 ## Cruces
 
-- Completa la faceta **acústica** del eje techos: la lana sobre la estructura ya estaba en [[resumen-2021-04-10-recorrida-obras-consejos]] (donde «la lluvia casi no se oye»), el poliuretano rígido en [[resumen-2020-12-19-mejor-aislante-techo-chapa]], el SP de la cámara de aire en [[aislamiento-termico]] y el UV/poliuretano sin pintar en la misma fuente. Cableado a [[techos-de-chapa]] (concepto) y [[arquitecto-marcelo-seia]] (23.ª fuente).
+- Completa la faceta **acústica** del eje techos: la lana sobre la estructura ya estaba en [[resumen-2021-04-10-recorrida-obras-consejos]] (donde «la lluvia casi no se oye»), el poliuretano rígido en [[resumen-2020-12-19-mejor-aislante-techo-chapa]], el SP de la cámara de aire en [[aislamiento-termico]] y el UV/poliuretano sin pintar en la misma fuente. Cableado a [[techos-de-chapa]] (concepto) y [[arquitecto-marcelo-seia]] (23.ª fuente). Concepto matriz: [[acustica-de-la-vivienda]].
 - Nota operativa: primer GATE de 1 s del lote (encadenado doble) — anomalía menor de pacing sin efecto.
 
 **Ver también**: [[resumen-2021-04-10-recorrida-obras-consejos]] · [[resumen-2024-01-13-techos-vuelan-viento]] · [[aislamiento-termico]] · [[techos-de-chapa]].

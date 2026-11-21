@@ -4942,3 +4942,6 @@ Decision del usuario: crear dominio dedicado a su tema de investigacion principa
 - **overview.md y sintesis.md** actualizados: lista cerrada 77/77, sección 34 de sintesis con estado post lote 2 y pendientes de lint.
 - **Pendientes para el próximo lint**: división dominio/entidad Seia (27 fuentes, umbral ~30 rozado), concepto candidato «acústica de la vivienda» (2 fuentes), re-ingesta ASR italiano, canales de 1.ª fuente a texto plano (9 canales del lote 2).
 - Sin push (pendiente de orden del usuario).
+
+## [2026-11-21] consolidación demorada | acustica-de-la-vivienda
+Concepto creado con las 2 fuentes de acústica del lote casa-2 (Soundproof Guide f64 paredes; Seia f56 techos de chapa): los 3 principios compartidos (masa, absorción en cavidad, desacople), cuarta vía de redistribución por plegado, desmitificaciones (espuma acústica no aísla, el sonido rodea los parches, sellado como parte del sistema) y orden de inversión. Cableado en ambos resúmenes. Pendientes de lint ANOTADOS (no ejecutados, requieren confirmación): división de Seia (27 fuentes, umbral ~30); 9 canales de 1 fuente sin entidad (criterio «solo si aporta»: ninguno justifica hoy); re-ingesta opcional de 0rwLwL6I6rk (ASR italiano).
