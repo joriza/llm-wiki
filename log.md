@@ -4890,3 +4890,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] ingesta casa-2 | Rellenos para tus cimientos — cap. 4 curso bioconstrucción (Permacultura Naturalia) (lote 2 tramo 12, fuente 58/77)
 - Fuente: `vi65mulUgI8` (Permacultura Naturalia, 2023-08-11, 35:07, subtítulos manuales, cache índice 58). Raw `raw/construccion-y-vivienda/2023-08-11-rellenos-para-tus-cimientos-todas-las-mezclas-capitulo-4-curso-de-biconstruccion.md` + resumen `wiki/construccion-y-vivienda/resumen-2023-08-11-rellenos-cimientos.md` + fila en index.md. Canal nuevo en la wiki (serie por capítulos — candidato a entidad en T17 si la serie sigue); cemento de albañilería a la cal = NO estructural; consolidación de lote 2 aplazada (T17).
+
+## [2026-11-21] ingesta casa-2 | Una casa de adobe de Traslasierra — exteriores (Permacultura Naturalia) (lote 2 tramo 12, fuente 59/77)
+- Fuente: `VR4zd5e6gGA` (Permacultura Naturalia, 2023-07-31, 25:55, cache índice 59). Raw `raw/construccion-y-vivienda/2023-08-01-una-casa-de-adobe-de-traslasierra-vivienda-en-bioconstruccion-exteriores.md` + resumen `wiki/construccion-y-vivienda/resumen-2023-08-01-adobe-traslasierra.md` + fila en index.md. 2.ª fuente del canal (candidato a entidad T17); línea bioconstrucción del dominio; consolidación de lote 2 aplazada (T17).
