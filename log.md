@@ -4741,3 +4741,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] skip casa-2 | TINY HOUSE | SMALL HOUSE DESIGN (SKIP-NO-SUBS definitivo) (tramo 3, fuente 12/50)
 - Fuente: `b024WRun-vE` (cache índice 12) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
+
+## [2026-11-21] ingesta casa-2 | Casa pequeña y moderna 3×15 m — 39 m² (AeD STUDIO) (tramo 3, fuente 13/50)
+- Fuente: `07zvz2KTuEo` (AeD STUDIO, 2021-08-03, 10:03, cache índice 13). Raw `raw/construccion-y-vivienda/2021-08-03-casa-pequena-e-moderna-3x15m-39m2.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-08-03-casa-3x15m-39m2-sin-narracion.md` + fila en index.md. Fuente hueca (sin narración; solo música en el ASR) — señalada, no re-ingestar; consolidación aplazada (T11).
