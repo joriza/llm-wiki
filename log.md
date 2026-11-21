@@ -4872,3 +4872,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] skip casa-2 | No limpies el MOHO de tus paredes sin ver esto (SKIP-NO-SUBS definitivo) (lote 2 tramo 11, fuente 53/77)
 - Fuente: `Z8jZvdQM9_w` (cache índice 53) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
+
+## [2026-11-21] ingesta casa-2 | El error que hace que el salitre vuelva (Arquitecto Marcelo Seia) (lote 2 tramo 11, fuente 52/77)
+- Fuente: `Azl6iwtc2dY` (Arquitecto Marcelo Seia, 2021-07-10, 16:38, cache índice 52 — raw ya descargado en scratch de un relevo anterior). Raw `raw/construccion-y-vivienda/2021-07-10-el-error-que-hace-que-el-salitre-vuelva-una-y-otra-vez.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-07-10-salitre-vuelve.md` + fila en index.md. 20.ª fuente del canal Seia; cableada a [[humedades]] y [[arquitecto-marcelo-seia]] (consolidación lote 1); consolidación de lote 2 aplazada (T17).
