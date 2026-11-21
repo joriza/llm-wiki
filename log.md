@@ -4765,3 +4765,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Steel framing — ¿funciona este sistema de construcción en seco? (Arquitecto Marcelo Seia) (tramo 4, fuente 20/50)
 - Fuente: `2iDetld_wes` (Arquitecto Marcelo Seia, 2021-03-20, 32:27, cache índice 20). Raw `raw/construccion-y-vivienda/2021-03-20-steel-framing-funciona-este-sistema-de-construccion-en-seco.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-03-20-steel-framing.md` + fila en index.md. 4.ª fuente del canal Seia (entidad segura T11); cierre del eje aislación; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Cómo aplicar revestimiento plástico texturado (Arquitecto Marcelo Seia) (tramo 5, fuente 21/50)
+- Fuente: `s0py4jIXh4U` (Arquitecto Marcelo Seia, 2021-05-29, 20:05, cache índice 21). Raw `raw/construccion-y-vivienda/2021-05-29-como-aplicar-revestimiento-plastico-texturado-revoque-plastico-paso-a-paso.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-05-29-revoque-plastico-texturado.md` + fila en index.md. 5.ª fuente del canal Seia; consolidación aplazada (T11).
