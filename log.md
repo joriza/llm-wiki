@@ -4783,3 +4783,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Sistema constructivo SIP — casa prefabricada (Arq. Cecilia Sal) (tramo 6, fuente 26/50)
 - Fuente: `8xbV0YX0hlY` (Arquitectura en Primer Plano, 2020-10-11, 08:14, cache índice 26). Raw `raw/construccion-y-vivienda/2020-10-11-sistema-constructivo-sip-casa-prefabricada-structural-insulated-panel-arq-cecili.md` + resumen `wiki/construccion-y-vivienda/resumen-2020-10-11-sip-entrevista-cecilia-sal.md` + fila en index.md. Segmento promocional señalado; par con la fuente 22 (SIP, concepto T11); consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Capacitación Sistema Constructivo PROPANEL (Propanel Construcción Eficiente) (tramo 6, fuente 27/50)
+- Fuente: `tRxEm2fdD38` (Propanel Construcción Eficiente, 2021-05-27, 97:13, cache índice 27). Raw `raw/construccion-y-vivienda/2021-05-27-capacitacion-sistema-constructivo-propanel-25-05-2021.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-05-27-capacitacion-propanel.md` + fila en index.md. Fuente comercial del fabricante señalada; 3.ª fuente SIP consecutiva (concepto T11); consolidación aplazada (T11).
