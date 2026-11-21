@@ -4893,3 +4893,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] ingesta casa-2 | Una casa de adobe de Traslasierra — exteriores (Permacultura Naturalia) (lote 2 tramo 12, fuente 59/77)
 - Fuente: `VR4zd5e6gGA` (Permacultura Naturalia, 2023-07-31, 25:55, cache índice 59). Raw `raw/construccion-y-vivienda/2023-08-01-una-casa-de-adobe-de-traslasierra-vivienda-en-bioconstruccion-exteriores.md` + resumen `wiki/construccion-y-vivienda/resumen-2023-08-01-adobe-traslasierra.md` + fila en index.md. 2.ª fuente del canal (candidato a entidad T17); línea bioconstrucción del dominio; consolidación de lote 2 aplazada (T17).
+
+## [2026-11-21] ingesta casa-2 | Space-saving furniture 2025 edition (TechJoint) (lote 2 tramo 12, fuente 60/77)
+- Fuente: `3UEieaTMQRs` (TechJoint, 2025-06-01, 18:20, en inglés, cache índice 60). Raw `raw/construccion-y-vivienda/2025-06-01-incredible-space-saving-furniture-and-smart-home-design-ideas-you-didn-t-know-ex.md` + resumen `wiki/construccion-y-vivienda/resumen-2025-06-01-muebles-multifuncionales.md` + fila en index.md. Primera fuente en inglés del dominio; catálogo comercial compilador señalado (sin precios ni evaluación); cableado a [[micro-viviendas]]; consolidación de lote 2 aplazada (T17).
