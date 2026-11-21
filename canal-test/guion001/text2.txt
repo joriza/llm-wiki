@@ -1,9 +1,9 @@
 Contexto: 1995. El navegador dominante es Netscape Navigator, y la web está despegando. Pero hay un problema: las páginas son estáticas. Sin formularios que validen, sin botones que hagan nada. La web necesita un lenguaje de scripting.
 
-A Netscape entra justamente ese año Brendan Eich, un ingeniero que venía de Silicon Graphics. El plan era claro: él iba a incorporar Scheme al navegador – un lenguaje académico, minimalista, con funciones que se tratan como datos. Elegante.
+A Netscape entra justamente ese año Brendan Eich, un ingeniero que venía de Silicon Graphics. El plan era claro: él iba a incorporar Scheme al navegador — un lenguaje académico, minimalista, con funciones que se tratan como datos. Elegante.
 
 Pero la dirección tenía otro sueño. Marc Andreessen, cofundador de Netscape, venía gritando una fórmula: «Netscape más Java mata Windows». La idea: si las aplicaciones corren en el navegador, el sistema operativo deja de importar. Y para eso, el navegador tenía que hablar un lenguaje que se viera como Java.
 
-A Eich lo pusieron entre dos mandatos: por afuera, algo parecido a Java para contentar al marketing y a Sun, que negociaba el acuerdo para meter Java dentro de Netscape. Por adentro, él quería su Scheme. Consideraron Perl, Python, Tcl – y las descartaron por distintas razones. La decisión final: escribir algo nuevo, rápido, en casa.
+A Eich lo pusieron entre dos mandatos: por afuera, algo parecido a Java para contentar al marketing y a Sun, que negociaba el acuerdo para meter Java dentro de Netscape. Por adentro, él quería su Scheme. Consideraron Perl, Python, Tcl — y las descartaron por distintas razones. La decisión final: escribir algo nuevo, rápido, en casa.
 
 Quedate con esa tensión, porque es la primera lección del video: el diseño técnico perdió contra la economía desde el día uno. Y no fue la última vez.

@@ -5,12 +5,12 @@ La historia es de manual. Los primeros usuarios internos de Netscape validaban f
 Eich cedió. Y así nació el doble igual más famoso de la programación: el que decide que el texto vacío es igual a cero.
 
 Demo en vivo (consola):
-– `'' == 0` → `true`. El texto vacío es cero.
-– `null == undefined` → `true`.
-– `'' == '0'` → `false`. Pero el texto vacío NO es igual al texto cero. Y con triple igual, nada de eso es verdad.
+— `'' == 0` → `true`. El texto vacío es cero.
+— `null == undefined` → `true`.
+— `'' == '0'` → `false`. Pero el texto vacío NO es igual al texto cero. Y con triple igual, nada de eso es verdad.
 
-La parte importante viene ahora. Eich sabía que era un error. Lo arregló en JavaScript 1.2, unos años después. Pero en 1997 el lenguaje entró al comité ECMA para estandarizarse – Netscape lo regaló al comité neutral para que Microsoft no lo controlara. Y en ese comité, según cuenta la historia, la presión fue: arreglar el doble igual rompía demasiadas páginas que ya dependían del comportamiento roto. Se retrocedió.
+La parte importante viene ahora. Eich sabía que era un error. Lo arregló en JavaScript 1.2, unos años después. Pero en 1997 el lenguaje entró al comité ECMA para estandarizarse — Netscape lo regaló al comité neutral para que Microsoft no lo controlara. Y en ese comité, según cuenta la historia, la presión fue: arreglar el doble igual rompía demasiadas páginas que ya dependían del comportamiento roto. Se retrocedió.
 
 Y esa es la jaula: con apenas unos meses de vida, el lenguaje ya tenía más usuarios del lado del error que del lado del arreglo. Cada año que pasaba, el error acumulaba más páginas protegidas.
 
-Así funciona toda la retrocompatibilidad: no se decide una vez, se decide todos los días – y siempre gana el parque instalado. El triple igual nació como la salida de emergencia para los que querían comparar de verdad. TypeScript, treinta años después, existe en gran parte para blindarte del doble igual – un lenguaje construido encima, para protegerte de una decisión de 1995.
+Así funciona toda la retrocompatibilidad: no se decide una vez, se decide todos los días — y siempre gana el parque instalado. El triple igual nació como la salida de emergencia para los que querían comparar de verdad. TypeScript, treinta años después, existe en gran parte para blindarte del doble igual — un lenguaje construido encima, para protegerte de una decisión de 1995.
