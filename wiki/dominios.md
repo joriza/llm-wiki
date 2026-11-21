@@ -59,6 +59,7 @@ Detalle en `log.md`.
 | `leds-y-pantallas/` | **LEDs addressable y pantallas**: WS2812/tiras/matrices/cubos, OLED/TFT, controladores y librerías (WLED, FastLED, Max7219). Creado por división de electronica-practica (decisión del usuario, lint 2026-11-16). |
 | `futuro-programacion/` | **Impacto de la IA en el oficio de programar**: empleo y juniors, fin del código manual, vibe coding, metodologías del debate, burnout y salud del oficio; las herramientas/harnesses quedan en agentes-de-codigo. Creado por división de agentes-de-codigo (decisión del usuario, lint 2026-11-16). |
 | `informatica/` | **Informática y desarrollo de software**: lenguajes y ecosistemas (Python, Node/Express), herramientas de dev (pip/uv, APIs), IA aplicada a software (LLM frontends, RAG, proxies de IA). Creado por decisión del usuario (2026-11-15) al curar `Docencia/Informatica` (46 fuentes en cola) + 7 ya procesadas desde la ventana Vs+Docencia. |
+| `construccion-y-vivienda/` | **Construcción y vivienda**: obra y técnicas constructivas (steel framing, SIP, cimientos, techos, revocos), aislamiento térmico y humedades, reformas y autoconstrucción, diseño de casas y espacios, tiny houses, costos/terrenos (playlist «Casa» del usuario, 2026-11-17). Creado por decisión del usuario en la ingesta de la playlist de 77 entradas. |
 
 | ~~`modelos-llm-locales/`~~ | **Fusionado en `ia-local/`** (2026-11-15, decisión del usuario tras lint: solapamiento muy alto herramientas/modelos locales; 22 fuentes migradas sin colisiones). |
 
