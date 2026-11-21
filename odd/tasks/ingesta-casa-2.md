@@ -42,3 +42,13 @@ Cada relevo (T1-T10) arranca con el re-chequeo de cabeza de S2: re-listar (`--re
 - L1: «Hacé refresh de la lista Casa de YouTube para leerla como está ahora mismo, y procesá 50 fuentes desde la cabeza de esa lista fresca, en un único sub-agente con relevo cada 5 fuentes. Si al verificar la cabeza de algún relevo la lista cambió respecto del cache, re-listá y seguí desde la nueva cabeza.» (2026-11-17).
 - L2: El refresh de la lista «Casa» vieja (PLqe2XRWDm9RERlx1WjdfcR1MfTedCZRco) mostró 0 pendientes (27/27 cerradas). El usuario aclaró: «Lista hecha pública. Este es el enlace https://www.youtube.com/playlist?list=PLqe2XRWDm9REoA-pabUfCenKfXBNyhBOD» — playlist nueva, 77 entradas únicas, 0 procesadas.
 - L3: Dominio nuevo `construccion-y-vivienda/` aprobado por el usuario (opción 1 de 3 propuestas); registrado en dominios.md y log.md antes de T1.
+
+## Lote 2 — videos restantes de la lista (26 entradas)
+
+- L4: «conectado warp nuevamente. complete los videos del canal.» → aclarado por el usuario: «complete los videos restante de la lista» — las 26 entradas aún no procesadas de PLqe2XRWDm9REoA-pabUfCenKfXBNyhBOD, cabeza Azl6iwtc2dY (2026-11-21). Mismo régimen: un único subagente, relevo cada 5, re-chequeo de cabeza por relevo, salida WARP reconectada.
+- T12 (S1-S6, worker, commit): Relevo L2-1 — entradas 52-56 del listado (Azl6iwtc2dY, Z8jZvdQM9_w, uSYqd-NhhvQ, zLJNYTGXwKA, vnWeccCWToI). Ciclo completo + lectura-tramo11.md.
+- T13 (S1-S6, worker, commit): Relevo L2-2 — siguientes 5 únicas. + lectura-tramo12.md.
+- T14 (S1-S6, worker, commit): Relevo L2-3 — siguientes 5 únicas. + lectura-tramo13.md.
+- T15 (S1-S6, worker, commit): Relevo L2-4 — siguientes 5 únicas. + lectura-tramo14.md.
+- T16 (S1-S6, worker, commit): Relevo L2-5 — siguientes 5 únicas. + lectura-tramo15.md.
+- T17 (S1-S6, worker, commit): Relevo L2-6 FINAL — restantes + consolidación del lote 2 (conceptos/entidades nuevos, cruces, overview/sintesis, log). Push solo bajo orden del usuario.
