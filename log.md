@@ -4843,3 +4843,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] ingesta casa-2 | Reboco fácil y rápido — regla de 3 metros (Eu na ObRA tô chegando) (tramo 10, fuente 45/50)
 - Fuente: `1FOnQ4vy6v4` (Eu na ObRA tô chegando, 2023-08-01, 08:26, pt-BR doblado, cache índice 45). Raw `raw/construccion-y-vivienda/2023-08-01-reboco-agora-e-facil-e-rapido-usando-e-novo-metado-brilhante-ideia-de-genio.md` + resumen `wiki/construccion-y-vivienda/resumen-2023-08-01-reboco-regla-3-metros.md` + fila en index.md. Obra solidaria; contraste con la fuente 43 (concepto revoques T11); consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | ¿Por qué se vuelan los techos de chapa y cómo evitarlo? (Arquitecto Marcelo Seia) (tramo 10, fuente 46/50)
+- Fuente: `5Sb7yox3ovs` (Arquitecto Marcelo Seia, 2024-01-13, 10:17, cache índice 46). Raw `raw/construccion-y-vivienda/2024-01-13-por-que-se-vuelan-los-techos-de-chapa-y-como-evitarlo.md` + resumen `wiki/construccion-y-vivienda/resumen-2024-01-13-techos-vuelan-viento.md` + fila en index.md. 16.ª fuente del canal Seia; cruza la línea de techos de chapa (concepto T11); consolidación aplazada (T11).
