@@ -4714,3 +4714,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Cómo aislar paredes térmicamente — 2 aislamientos efectivos (Arquitecto Marcelo Seia) (tramo 1, fuente 3/5)
 - Fuente: `Jcsbt7Zo9TQ` (Arquitecto Marcelo Seia, 2021-01-16, 17:24, cache índice 3). Raw `raw/construccion-y-vivienda/2021-01-16-como-aislar-paredes-termicamente-2-aislamientos-termicos-efectivos.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-01-16-aislar-paredes-termicamente.md` + fila en index.md. 2.ª fuente del canal Seia (entidad candidata T11); cruza [[casa-calefaccion]]; consolidación aplazada (T11).
+
+## [2026-11-21] skip casa-2 | Como AISLAR tu Casa SIN OBRAS (SKIP-NO-SUBS definitivo) (tramo 1, fuente 4/5)
+- Fuente: `n6Y9J34R1yw` (cache índice 4) — sin pistas de subtítulos, SKIP definitivo por protocolo (sin marcador de raw; marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
