@@ -4896,3 +4896,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] ingesta casa-2 | Space-saving furniture 2025 edition (TechJoint) (lote 2 tramo 12, fuente 60/77)
 - Fuente: `3UEieaTMQRs` (TechJoint, 2025-06-01, 18:20, en inglés, cache índice 60). Raw `raw/construccion-y-vivienda/2025-06-01-incredible-space-saving-furniture-and-smart-home-design-ideas-you-didn-t-know-ex.md` + resumen `wiki/construccion-y-vivienda/resumen-2025-06-01-muebles-multifuncionales.md` + fila en index.md. Primera fuente en inglés del dominio; catálogo comercial compilador señalado (sin precios ni evaluación); cableado a [[micro-viviendas]]; consolidación de lote 2 aplazada (T17).
+
+## [2026-11-21] ingesta casa-2 | 10 Simple Kitchen Storage Ideas (Fix This Build That) (lote 2 tramo 12, fuente 61/77)
+- Fuente: `Hvt8CQWgoUk` (Fix This Build That, 2024-12-08, 33:56, subtítulos manuales ES, cache índice 61). Raw `raw/construccion-y-vivienda/2024-12-08-10-simple-kitchen-storage-ideas.md` + resumen `wiki/construccion-y-vivienda/resumen-2024-12-08-storage-cocina-diy.md` + fila en index.md. Primera fuente del canal; contexto EE. UU. señalado; complementa el eje cocinas por el lado carpintería DIY; consolidación de lote 2 aplazada (T17).
