@@ -4723,3 +4723,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Vivirías en una casa de 16 m² — tour tiny house (Jorge Navarro) (tramo 2, fuente 6/5+1)
 - Fuente: `uMCLNB_cbe8` (Jorge Navarro, 2020-11-27, 08:02, cache índice 6). Raw `raw/construccion-y-vivienda/2020-11-27-vivirias-en-una-casa-de-16m2-tour-tiny-house-minimalismo.md` + resumen `wiki/construccion-y-vivienda/resumen-2020-11-27-tiny-house-16m2-tour.md` + fila en index.md. Colaboración patrocinada declarada y señalada en el resumen; cruza [[resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver]]; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Cómo armar hierro en columnas para casa de 2 a 3 pisos (ARQUITECTO GRATIS) (tramo 2, fuente 7/50)
+- Fuente: `mp466AUXJX4` (ARQUITECTO GRATIS, 2021-01-24, 10:10, subtítulos manuales, cache índice 7). Raw `raw/construccion-y-vivienda/2021-01-24-como-armar-hierro-en-columnas-para-casa-de-2-a-3-piso-hierros-corrugado-refuerzo.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-01-24-armado-hierro-columnas.md` + fila en index.md. 1.ª fuente de estructura del dominio; consolidación aplazada (T11).
