@@ -4828,3 +4828,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | 5 trucos de diseño de casas — Parte 2 (Arquitecto Marcelo Seia) (tramo 9, fuente 41/50)
 - Fuente: `xteeXKbsz7c` (Arquitecto Marcelo Seia, 2022-01-08, 17:28, cache índice 41). Raw `raw/construccion-y-vivienda/2022-01-08-5-trucos-de-diseno-de-casas-parte-2-ideas-utiles-que-funcionan.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-01-08-5-trucos-diseno-parte-2.md` + fila en index.md. 15.ª fuente del canal Seia; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Consejos prácticos para adquirir un terreno (Permacultura Holística) (tramo 9, fuente 42/50)
+- Fuente: `MpS5dwxU7sE` (Permacultura Holística, 2020-05-29, 16:34, cache índice 42). Raw `raw/construccion-y-vivienda/2020-05-29-consejos-practicos-para-adquirir-un-terreno-parcela-o-lote.md` + resumen `wiki/construccion-y-vivienda/resumen-2020-05-29-adquirir-terreno-permacultura.md` + fila en index.md. Par espejado rural de la fuente 40 (elegir terreno, concepto T11); cruza [[casa-calefaccion]]; consolidación aplazada (T11).
