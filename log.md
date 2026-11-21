@@ -4840,3 +4840,6 @@ Lote pausado por decisión del usuario tras el PRIMER 429 real de la sesión (fu
 
 ## [2026-11-21] ingesta casa-2 | Sistema EIFS — ¿Adiós al calor? (Los Bestauradores) (tramo 10, fuente 44/50 — pendiente del relevo 9)
 - Fuente: `SKo_51oqYWA` (Los Bestauradores, 2022-06-01, 17:33, cache índice 44 — raw descargado antes del 429 del relevo 9). Raw `raw/construccion-y-vivienda/2022-06-01-sistema-eifs-adios-al-calor-los-bestauradores.md` + resumen `wiki/construccion-y-vivienda/resumen-2022-06-01-sistema-eifs.md` + fila en index.md. Fuente patrocinada (Mapa/Murotex) señalada; cierra el bloque EIFS/ETICS (concepto prioritario T11); consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Reboco fácil y rápido — regla de 3 metros (Eu na ObRA tô chegando) (tramo 10, fuente 45/50)
+- Fuente: `1FOnQ4vy6v4` (Eu na ObRA tô chegando, 2023-08-01, 08:26, pt-BR doblado, cache índice 45). Raw `raw/construccion-y-vivienda/2023-08-01-reboco-agora-e-facil-e-rapido-usando-e-novo-metado-brilhante-ideia-de-genio.md` + resumen `wiki/construccion-y-vivienda/resumen-2023-08-01-reboco-regla-3-metros.md` + fila en index.md. Obra solidaria; contraste con la fuente 43 (concepto revoques T11); consolidación aplazada (T11).
