@@ -4762,3 +4762,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] skip casa-2 | Instalación eléctrica de una casa: 10 ERRORES (SKIP-NO-SUBS definitivo) (tramo 4, fuente 19/50)
 - Fuente: `8OqnoQY8POA` (cache índice 19) — sin pistas de subtítulos, SKIP definitivo por protocolo (marcador `.no-subs` en scratch). Sin ingesta ni commit de contenido.
+
+## [2026-11-21] ingesta casa-2 | Steel framing — ¿funciona este sistema de construcción en seco? (Arquitecto Marcelo Seia) (tramo 4, fuente 20/50)
+- Fuente: `2iDetld_wes` (Arquitecto Marcelo Seia, 2021-03-20, 32:27, cache índice 20). Raw `raw/construccion-y-vivienda/2021-03-20-steel-framing-funciona-este-sistema-de-construccion-en-seco.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-03-20-steel-framing.md` + fila en index.md. 4.ª fuente del canal Seia (entidad segura T11); cierre del eje aislación; consolidación aplazada (T11).
