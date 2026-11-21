@@ -4831,3 +4831,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Consejos prácticos para adquirir un terreno (Permacultura Holística) (tramo 9, fuente 42/50)
 - Fuente: `MpS5dwxU7sE` (Permacultura Holística, 2020-05-29, 16:34, cache índice 42). Raw `raw/construccion-y-vivienda/2020-05-29-consejos-practicos-para-adquirir-un-terreno-parcela-o-lote.md` + resumen `wiki/construccion-y-vivienda/resumen-2020-05-29-adquirir-terreno-permacultura.md` + fila en index.md. Par espejado rural de la fuente 40 (elegir terreno, concepto T11); cruza [[casa-calefaccion]]; consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Casa 5×7 (video 11) — regleado para un revoque de calidad (Lucas Alarcón) (tramo 9, fuente 43/50)
+- Fuente: `av6sbLAThvc` (Lucas Alarcón, 2021-07-31, 25:16, cache índice 43). Raw `raw/construccion-y-vivienda/2021-07-31-casa-5x7-video-11-regleado-para-un-revoque-de-calidad-me-llego-la-placa-de-los-1.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-07-31-casa-5x7-regleado.md` + fila en index.md. 2.ª fuente del canal (entidad candidata T11); autopromoción inicial señalada; consolidación aplazada (T11).
