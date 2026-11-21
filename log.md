@@ -4750,3 +4750,6 @@ Dominio creado por decisión del usuario (nombre elegido entre 3 opciones propue
 
 ## [2026-11-21] ingesta casa-2 | Casa de Infonavit remodelada — ampliación de dos pisos (HEYARQUI) (tramo 3, fuente 15/50)
 - Fuente: `9Pn1oaEnOno` (HEYARQUI, 2021-06-29, 09:50, cache índice 15). Raw `raw/construccion-y-vivienda/2021-06-30-casa-de-infonavit-remodelada-ampliacion-de-dos-pisos-pequenas-con-balcon-casas-i.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-06-30-infonavit-remodelada-ampliacion.md` + fila en index.md. 3.ª fuente del eje frentes de 3 m (remodelación de stock); consolidación aplazada (T11).
+
+## [2026-11-21] ingesta casa-2 | Remodelación de casa de interés social — ampliación de dos pisos (COTAPAREDES Arquitectos) (tramo 4, fuente 16/50)
+- Fuente: `yT_ei2MXXYg` (COTAPAREDES Arquitectos, 2021-11-06, 25:27, cache índice 16). Raw `raw/construccion-y-vivienda/2021-11-06-remodelacion-de-casa-de-interes-social-te-sorprendera-obras-ajenas-guillencaball.md` + resumen `wiki/construccion-y-vivienda/resumen-2021-11-06-remodelacion-casa-interes-social.md` + fila en index.md. Formato entrevista; menciones comerciales menores señaladas; consolidación aplazada (T11).
