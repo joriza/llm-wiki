@@ -1,0 +1,52 @@
+# 🏠 Diseño de Casas ACCESIBLES: ¡EVITA estos 7 Errores de Movilidad!
+
+- **Fuente**: [Vídeo en YouTube](https://www.youtube.com/watch?v=BmroqUOSkto)
+- **Canal**: Arquitecto Marcelo Seia
+- **Publicado**: 2024-11-30
+- **Recopilado**: 2026-11-21
+- **Idioma**: es (subtítulos automáticos es (auto), transcripción literal)
+- **Duración**: 11:13
+
+> Transcripción a partir de los subtítulos automáticos del vídeo, sin normalizar; puede contener errores de reconocimiento. Las marcas de tiempo indican el inicio aproximado de cada bloque.
+
+---
+
+[00:00] hay un hecho real del que no vas a poder escaparte en algún momento vas a envejecer O tal vez qué s yo precises convivir con alguna persona con eh movilidad reducida Y cómo debería estar preparada tu casa para no ser una carrera de obstáculos te cuento los errores más comunes de la gente para que los evites o que los corrijas Bueno la verdad que no quiero irme a los extremos con con estas recomendaciones yo prefiero siempre aplicar lo que digo yo es una practicidad más lógica por eso vas a
+
+[00:35] escuchar consejos que no cuestan nada aplicar y que en muchos casos son una simple cuestión de sentido común Como por ejemplo no instales puertas estrechas uno de los errores más comunes es dejar puertas de menos de 80 cm de ancho lo que dificulta un montón el paso de sillas de ruedas o de andadores Y cuando miras Este paso Fíjate en la hoja de abril Es verdad hay que reconocerlo que con menos centímetros se pasa igual pero en muchos otros casos da lo mismo que tengan un poco más de holgura
+
+[01:08] asegurate también que no tengan un marco inferior que siempre dificulta el paso no son los más habituales verdad pero en muchos casos se hace eh por una cuestión de hermeticidad para el cierre lo que ocurre Es que de Cara a trasponer la con facilidad ese marco molesta y la verdad que molesta mucho si se se trata de puertas ventana corredizas de esas que son hasta el piso es ideal que el marco quede como embutido dentro del piso para que no queden salientes de paso lo ideal es también reemplazar los pomos de en
+
+[01:44] las manijas de la puerta por manijas de barra que son mucho más fáciles de abrir dos cosas más sobre este tema el mismo criterio de amplitud es válido para pasillos o para corredores nunca menos de 90 cm de ancho Yo diría que mejor 1,10 a 1,20 m y por otro lado no está de más prever puertas de dos hojas de abrir una más ancha la de abrir más corriente y otra más chica que se puede abrir ocasionalmente cuando precises cruzar o pasar con algo o tenga que pasar alguien con mayor holgura punto número dos
+
+[02:20] suelos resbaladizos y alfombras a propósito de esto que veníamos hablando del sentido común Aunque luzcan muy distinguidos es mejor evitar un piso muy brillante eh qué s yo como el mármol o ciertos porcelanatos sobre todo en los baños cocinas que son zonas húmedas sin caer en un piso áspero que se vuelven muy muy rentos por otro lado hay otros que no son tan pulidos que son mucho menos resbalosos tanto para una silla de ruedas como para cualquiera que los esté transitando de igual manera también
+
+[02:55] habría que evitar las alfombras o tapetes sueltos si te gusta gustan mucho Al menos que sean las que van pegadas al piso para evitar deslizamientos o tropezones otro punto importante bañeras O duchas estrechas aunque las bañeras puedan parecer atractivas eh acceder o salir de las mismas es de por sí ya complicado aún eh Para quienes no tienen problemas de movilidad reducida Es preferible que la reemplace por una ducha que cuente básicamente con tres cosas primero en lo posible que no te
+
+[03:30] tenga pared o borde inferior segundo que tenga una entrada lo suficientemente amplia habitualmente las mamparas eh tienen puertas en las que hay que entrar a veces de costado por la estrecha que resultan y en tercer punto que tenga un ancho interior generoso si es posible 1,5 para maniobrar con una silla también es bueno colocar bancos o lugares de apoyo construidos en obra que resultan muy cómodos para sentarse Mientras nos estamos bañando igual de útiles resultan las las barras de apoyo dentro de la
+
+[04:05] ducha y al costado del hinodoro Mira me ha tocado bañarme en duchas con estos agregados Y la verdad es que resultan muy cómodos a propósito de la altura de los inodoros vienen algunos modelos eh un poco más altos para facilitar el uso y si tu baño no los tiene también Vienen soportes plásticos para Elevar ese asiento cuarto punto hay que evitar los escalones sin alternativas de rampa Mira acab de muro pero uno de los principales inconvenientes para la movilidad dentro de una casa son los escalones no hay
+
+[04:39] vuelta a que darle si la entrada de tu casa está un poco más elevada No olvides incluir la posibilidad de tener una rampa para salvar esos desniveles no vale que sea muy empinada no se supone que para poder ser utilizada sin ayuda la pendiente no Debería ser superior al 10% o sea 10 cm por metro para un acco eso cómodo Y seguro demás está decir que los de niveles dentro de la casa resulta muy incómodo aún Para quienes no tengan problemas Eh y además es como que limita mucho la colocación del mobiliario
+
+[05:13] quinto punto altura de interruptores un error común es instalar llaves de luz y enchufes alturas no accesibles por ejemplo por encima del metro 30 respecto al nivel del piso si se toma la precaución que estén dentro de un Rango de una altura de 90 cm a 1,15 m van a resultar de fácil acceso sin esfuerzo para cualquiera Y no van a lucir mal a la vista sexto punto muebles de cocina esto ya no solo involucra a la circulación con silla de ruedas eh Sino que vale para todo tipo de usuarios en
+
+[05:49] lo posible eh uno debería evitar armarios o alacenas que queden muy altos o profundos ya que terminan siendo incómodos para cualquiera acceder a a partes altas de guardado es es siempre dificultoso aún más si hay que valerse de escaleras de mano no querés perder ese espacio como yo yo yo te entiendo en ese sentido Pero bueno no pasa nada se hace igual pero hay que ser conscientes de que no resultan tan cómodos al menos habría que prever guardar allí las cosas que no tienen un uso tan frecuente en
+
+[06:24] reemplazo de esto me funcionan muy bien los estantes desplegables o los o o los cajones que resultan mucho más prácticos y de y de y de fácil acceso además se debería evitar colocar electrodomésticos como hornos o microondas demasiado elevados cuando estos artefactos quedan muy altos maniobrar con recipientes muy calientes sacando y poniendo eh utilizándolos siempre va a resultar peligroso y ya que hablamos de muebles pero ahora hablando de muebles en general hay que tratar de evitar los
+
+[06:57] bordes duros o las esquinas puntiagudas que en caso de tropiezos pueden llegar a ser muy peligrosos recordemos que estamos hilando muy finito en esto de Buscar que no haya cosas agresivas Al momento de llevártelas por delante séptimo punto crucial escaleras Yo creo que es hay un punto conflictivo en esto de de de la movilidad dentro de la casa la escalera es uno de los principales Yo no te voy a recomendar que no hagas casas de dos niveles porque en realidad a veces uno decide hacerlo por otras
+
+[07:31] razones qué sé yo por ejemplo porque el terreno es muy chico y y no te queda otra opción pero si no hay más alternativa que hacerlas hacer las escaleras no estaría mal que aplicaras alguna de estas dos cómo les llamaría dos estrategias o las dos al mismo tiempo la primera sería interesante digo yo prever un espacio para instalar qué sé un futuro montacargas o ascensor interno o en su defecto evaluar la posibilidad de instalar en un futuro no un sistema de elevación por si no te
+
+[08:02] queda ot otra opción para acceder a la planta alta Sí yo sí yo soy consciente que es una opción cara pero cuando uno decide colocarlos es por una razón por una razón de fuerza mayor al menos que exista un espacio para instalarlos o la forma de resolver ese mecanismo aunque sea al menos siempre bueno que exista un espacio para instalarlos o la forma de de de resolver ese mecanismo aunque sea para que nunca debamos colocarlo y la segunda alternativa que también es interesante es prever en planta baja un
+
+[08:37] dormitorio de buen tamaño para poder utilizarlo por ejemplo el día el día que ya no pueda subir tan cómodamente las escaleras al principio por ejemplo puede utilizarse o renombrar como un escritorio o como una oficina pero que esté estratégicamente ubicado para quedar cerca de un baño y funcionar como dormitorio en Suite en un futuro y respecto a las escaleras sé que es una tentación Eh no colocarles barandas O pasamanos ya que a ver cómo diríamos que se lleva mejor con una estética más
+
+[09:11] moderna o más minimalista pero resulta fatal desde la seguridad tanto sea para personas mayores como para el para niños pequeños En definitiva para cualquiera no colocar barandas y o pasamanos no tiene por qué llevarse mal con la estética además la casa debe ser segura para quienes la habit si no estamos yo creo que priorizando una estética peligrosa por sobre la practicidad no es una obligación hacerlo por supuesto pero tampoco hay que comerse una moda si lo que está en juego es nuestra propia
+
+[09:44] seguridad está en cada uno decidir uno de nuestros mayores errores que cometemos uno de los mayores errores que cometemos es proyectar la casa como si toda la vida fuéramos a tener 20 o 30 años y al final de cuentas por esa imprevisión llega el momento de tener que decir Bueno me voy a tener que mudar de aquí si esa casa es es algo así como el proyecto de tu vida como nos ocurre a la mayoría de nosotros Por qué tener que pensar en abandonarla con todo lo que implica tomar esa esa decisión como te
+
+[10:16] darás cuenta eh ninguna de las cosas que te recomendé desnaturalizan el diseño de la casa Ni tampoco la transforman en un hogar para gente mayor es simplemente utilizar el sentido común en en la toma de algunas decisiones es muy probable que gracias a esas decisiones tu casa termine siendo tu hogar pero para el resto de tu vida contanos qué cosas hiciste en la tuya que te aliviaron algún problema hay mucha gente que le encanta leer esos comentarios y a propósito de lo que venimos hablando en
+
+[10:50] este video te voy a dejar siete trucos muy útiles para tener en cuenta en el diseño de tu casa No olvides suscribirte y compartir este video con amigos a esos que les vendría genial enterarse de estas cosas te dejo un abrazo grande que tengas un excelente día
