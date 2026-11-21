@@ -34,3 +34,5 @@ Pared de **tierra y paja** vertida en **encofrados de tablones**: a diferencia d
 - Nota operativa: tULqbx1Lw94 (fuente 50 del cache) salió por SKIP-DUPLICATE — ya procesada en otro lote del acervo (dedupe permanente).
 
 **Ver también**: [[resumen-2020-05-29-adquirir-terreno-permacultura]] · [[resumen-2021-02-06-humedad-capilaridad]].
+
+**Conceptos y entidades**: [[permacultura-holistica]] · [[humedades]].

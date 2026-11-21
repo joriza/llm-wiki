@@ -21,3 +21,5 @@
 - Marcelo Seia ×16 en el lote: entidad prioritaria T11.
 
 **Ver también**: [[resumen-2021-04-10-recorrida-obras-consejos]] · [[resumen-2020-12-19-mejor-aislante-techo-chapa]].
+
+**Conceptos y entidades**: [[techos-de-chapa]] · [[arquitecto-marcelo-seia]].

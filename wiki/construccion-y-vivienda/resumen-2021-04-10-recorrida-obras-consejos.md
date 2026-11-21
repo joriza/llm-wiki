@@ -36,3 +36,5 @@
 - Marcelo Seia ×8 en el lote: entidad prioritaria T11.
 
 **Ver también**: [[resumen-2021-01-16-aislar-paredes-termicamente]] · [[resumen-2020-12-19-mejor-aislante-techo-chapa]] · [[resumen-2021-03-20-steel-framing]].
+
+**Conceptos y entidades**: [[techos-de-chapa]] · [[humedades]] · [[aislamiento-termico]] · [[arquitecto-marcelo-seia]].

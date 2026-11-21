@@ -36,3 +36,5 @@ La ventana no solo ilumina y ventila: **conecta visualmente**. Regla típica: to
 - Marcelo Seia ×15 en el lote: entidad prioritaria T11.
 
 **Ver también**: [[resumen-2021-12-25-7-trucos-diseno]] · [[resumen-2022-03-26-casa-1-dormitorio-ampliable]] · [[resumen-2022-04-16-diseno-cocinas-5-errores]].
+
+**Conceptos y entidades**: [[arquitecto-marcelo-seia]] · [[micro-viviendas]].

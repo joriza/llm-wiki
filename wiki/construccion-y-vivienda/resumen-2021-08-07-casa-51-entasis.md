@@ -33,3 +33,5 @@ Terreno **8×20 m**, cochera techada para 2 autos con **marquesina de ~3 m** (pe
 - COTAPAREDES Arquitectos ya suma 2 producciones en el lote (entidad candidata T11); Éntasis Arquitectura, entidad posible.
 
 **Ver también**: [[resumen-2021-11-06-remodelacion-casa-interes-social]] · [[resumen-2020-03-22-puerta-abatible-a-corredera]].
+
+**Conceptos y entidades**: [[cotaparedes]].

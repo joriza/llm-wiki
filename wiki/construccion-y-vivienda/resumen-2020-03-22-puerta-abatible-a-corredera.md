@@ -30,3 +30,5 @@ No se compra una puerta nueva: la abatible existente se transforma en corredera 
 - Complementa el eje accesibilidad (el baño adaptado del programa previo) — posible página de concepto «adaptación de vivienda» en T11 si aparecen más fuentes.
 
 **Ver también**: [[resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver]] · [[resumen-2020-12-19-mejor-aislante-techo-chapa]] · [[resumen-2021-01-16-aislar-paredes-termicamente]].
+
+**Conceptos y entidades**: [[micro-viviendas]].

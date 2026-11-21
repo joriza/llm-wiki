@@ -34,3 +34,5 @@ El panel representa **el 15-25 % del valor total de la obra** (el resto: termina
 - TAO Soluciones Constructivas / Guillermo Badano: candidatos a entidad en T11 si reaparecen.
 
 **Ver también**: [[resumen-2021-10-02-paneles-sip]] · [[resumen-2021-05-27-capacitacion-propanel]] · [[resumen-2021-03-20-steel-framing]].
+
+**Conceptos y entidades**: [[paneles-sip]].

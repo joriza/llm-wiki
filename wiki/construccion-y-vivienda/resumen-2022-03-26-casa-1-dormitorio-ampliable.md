@@ -32,3 +32,5 @@ El diseño previó la puerta: **solo se abre una puerta** y aparece el dormitori
 - Marcelo Seia ×10 en el lote: entidad prioritaria T11 (más su Patreon como canal pago señalado).
 
 **Ver también**: [[resumen-2020-11-27-tiny-house-16m2-tour]] · [[resumen-2021-12-05-casa-angosta-3m-dos-pisos]] · [[resumen-2020-03-22-puerta-abatible-a-corredera]].
+
+**Conceptos y entidades**: [[micro-viviendas]] · [[arquitecto-marcelo-seia]].

@@ -37,3 +37,5 @@ Unidades habitacionales mexicanas de **bloques de 4 casas tabicadas** (instalaci
 - Canal HEYARQUI: candidata a entidad en T11 si reaparece.
 
 **Ver también**: [[resumen-2021-12-05-casa-angosta-3m-dos-pisos]] · [[resumen-2021-08-03-casa-3x15m-39m2-sin-narracion]] · [[resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver]].
+
+**Conceptos y entidades**: [[micro-viviendas]] · [[humedades]].

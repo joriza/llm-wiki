@@ -54,3 +54,5 @@ Conclusión del tutorial honesta: el pulido de color ($22,50) sale **más caro p
 - Primera fuente de **pisos/terminaciones** del dominio. Con las fuentes 7-8 (estructura, mismo lote) esboza el eje «obra de vivienda en países en desarrollo con costos al detalle» — candidata a concepto en T11. Canal Lucas Alarcón: candidata a entidad si reaparece.
 
 **Ver también**: [[resumen-2021-01-24-armado-hierro-columnas]] · [[resumen-2021-03-01-curso-construir-casa-2-pisos-trailer]].
+
+**Conceptos y entidades**: [[lucas-alarcon]].

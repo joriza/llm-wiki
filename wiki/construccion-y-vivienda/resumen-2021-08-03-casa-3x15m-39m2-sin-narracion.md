@@ -15,3 +15,5 @@
 - Se suma a la familia de **micro-viviendas en lotes angostos** del dominio ([[resumen-2020-11-27-tiny-house-16m2-tour]], [[resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver]]): candidata a concepto «tiny houses / lotes estrechos» en T11, pendiente de una fuente con narración que detalle soluciones de ese ancho de planta (3 m).
 
 **Ver también**: [[resumen-2020-11-27-tiny-house-16m2-tour]] · [[resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver]].
+
+**Conceptos y entidades**: [[micro-viviendas]].

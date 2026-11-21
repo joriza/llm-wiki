@@ -16,3 +16,5 @@
 - Pendiente de vincular con el eje «techos» del dominio en T11; si el orquestador autoriza una re-ingesta de esta fuente (otra vía de subtítulos), el resumen se completará entonces.
 
 **Ver también**: [[resumen-2022-02-05-reformar-casa-antigua]] · [[resumen-2024-01-13-techos-vuelan-viento]].
+
+**Conceptos y entidades**: [[techos-de-chapa]] · [[arquitecto-marcelo-seia]].

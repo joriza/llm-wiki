@@ -29,7 +29,9 @@ El vaso de agua fría que «transpira» no saca humedad de adentro: es **humedad
 
 ## Cruces
 
-- Par directo con la fuente anterior del mismo canal y lote (`ot9uqpaJLas`, aislación de techos de chapa): juntos esbozan la página de concepto «aislación térmica de viviendas» (techos + muros, interior vs exterior, barrera de vapor) para la consolidación T11. Complementa el dominio [[casa-calefaccion]] (humedad/moho: ver el tratamiento puntual de [[constructor-libre]] como contraste remedio-vs-prevención).
+- Par directo con la fuente anterior del mismo canal y lote (`ot9uqpaJLas`, aislación de techos de chapa): juntos esbozan la página de concepto «aislación térmica de viviendas» (techos + muros, interior vs exterior, barrera de vapor) para la consolidación T11. Complementa el dominio dominio casa-calefaccion (humedad/moho: ver el tratamiento puntual de [[constructor-libre]] como contraste remedio-vs-prevención).
 - Mantiene la convención del canal: aislantes con espesor mínimo recomendado (aquí 5 cm pared / 50 mm lana).
 
 **Ver también**: [[resumen-2020-12-19-mejor-aislante-techo-chapa]] · [[resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver]].
+
+**Conceptos y entidades**: [[aislamiento-termico]] · [[humedades]] · [[arquitecto-marcelo-seia]].

@@ -30,3 +30,5 @@ Paneles **OSB + poliestireno expandido** (aislación térmica incorporada, tambi
 - Canal Arquitectura en Primer Plano y Arq. Cecilia Sal: candidatas a entidad en T11 si reaparecen.
 
 **Ver también**: [[resumen-2021-10-02-paneles-sip]] · [[resumen-2021-03-20-steel-framing]].
+
+**Conceptos y entidades**: [[paneles-sip]].

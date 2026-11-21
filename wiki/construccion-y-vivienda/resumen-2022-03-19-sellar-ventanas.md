@@ -36,3 +36,5 @@ El empañado invernal es **humedad interior**: baños, cocción, ropa secándose
 - Marcelo Seia ×11 en el lote: entidad prioritaria T11.
 
 **Ver también**: [[resumen-2021-02-06-humedad-capilaridad]] · [[resumen-2021-04-10-recorrida-obras-consejos]] · [[resumen-2021-01-16-aislar-paredes-termicamente]].
+
+**Conceptos y entidades**: [[aislamiento-termico]] · [[humedades]] · [[arquitecto-marcelo-seia]].

@@ -43,3 +43,5 @@ Regla en tres tramos de la columna (cada uno ⅓ de la altura): **10 cm en el te
 - Canal ARQUITECTO GRATIS: candidata a entidad en T11 si reaparece.
 
 **Ver también**: [[resumen-2020-12-19-mejor-aislante-techo-chapa]] · [[resumen-2021-01-16-aislar-paredes-termicamente]].
+
+**Conceptos y entidades**: [[arquitecto-gratis]].

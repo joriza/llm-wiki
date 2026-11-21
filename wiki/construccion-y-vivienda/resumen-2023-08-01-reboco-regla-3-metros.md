@@ -19,3 +19,5 @@
 - Canal Eu na ObRA tô chegando (Brasil): primera fuente brasileña del dominio; candidata a entidad T11 si reaparece.
 
 **Ver también**: [[resumen-2021-07-31-casa-5x7-regleado]] · [[resumen-2021-05-29-revoque-plastico-texturado]].
+
+**Conceptos y entidades**: [[aislamiento-termico]].

@@ -32,3 +32,5 @@
 - El argumento «empresa vs informal» del steel frame reaparece implícitamente: capacitaciones oficiales del fabricante como vía de acceso al oficio.
 
 **Ver también**: [[resumen-2021-10-02-paneles-sip]] · [[resumen-2020-10-11-sip-entrevista-cecilia-sal]] · [[resumen-2021-03-20-steel-framing]].
+
+**Conceptos y entidades**: [[paneles-sip]].

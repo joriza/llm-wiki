@@ -42,3 +42,5 @@ Con los años, si el color se desgasta o aparecen fisuras capilares: **repaso co
 - Cierre operativo del eje **fachadas/ETICS** del lote: el «base coat + malla» de [[resumen-2021-01-16-aislar-paredes-termicamente]] y [[resumen-2021-03-20-steel-framing]] es exactamente el revoque plástico que este tutorial detalla como aplicar. Consolidación de las fuentes Seia (×5) en T11: entidad del canal + posibles conceptos «aislación térmica» y «revestimientos».
 
 **Ver también**: [[resumen-2021-01-16-aislar-paredes-termicamente]] · [[resumen-2021-03-20-steel-framing]] · [[resumen-2020-12-19-mejor-aislante-techo-chapa]].
+
+**Conceptos y entidades**: [[aislamiento-termico]] · [[arquitecto-marcelo-seia]].

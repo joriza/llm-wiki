@@ -52,3 +52,5 @@ Sobre **muro nuevo de revoque liso** la babeta apoyada pisa recovecos e irregula
 - Marcelo Seia ×19 en el lote: entidad prioritaria T11.
 
 **Ver también**: [[resumen-2021-04-10-recorrida-obras-consejos]] · [[resumen-2024-01-13-techos-vuelan-viento]] · [[resumen-2022-03-19-sellar-ventanas]].
+
+**Conceptos y entidades**: [[techos-de-chapa]] · [[humedades]] · [[arquitecto-marcelo-seia]].

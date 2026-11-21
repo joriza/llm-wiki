@@ -39,3 +39,5 @@ Cuidado con usar la superficie como **única variable de ajuste**: sacar 25 cm a
 - Marcelo Seia ×13 en el lote: entidad prioritaria T11 (Patreon ya señalado en las dos fuentes anteriores).
 
 **Ver también**: [[resumen-2022-03-26-casa-1-dormitorio-ampliable]] · [[resumen-2022-04-16-diseno-cocinas-5-errores]] · [[resumen-2021-12-05-casa-angosta-3m-dos-pisos]].
+
+**Conceptos y entidades**: [[arquitecto-marcelo-seia]] · [[micro-viviendas]].

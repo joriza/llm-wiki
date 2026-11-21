@@ -26,3 +26,5 @@ Aseo a la izquierda; sala con sofá doble + 2 sencillos (4 personas sentadas); e
 - Canal Decide Tu Casa: candidata a entidad en T11 si reaparece.
 
 **Ver también**: [[resumen-2021-08-03-casa-3x15m-39m2-sin-narracion]] · [[resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver]].
+
+**Conceptos y entidades**: [[micro-viviendas]].

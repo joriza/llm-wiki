@@ -26,3 +26,5 @@ Objetivo: que la pared quede verdaderamente recta («nadie va a criticar un maes
 - Lucas Alarcón ×2 en el lote: entidad candidata T11 (Serie «casa 5×7» documental por entregas — las otras entregas de la serie aparecerán como fuentes propias).
 
 **Ver también**: [[resumen-2021-05-29-revoque-plastico-texturado]] · [[resumen-2021-03-06-piso-pulido-de-color]] · [[resumen-2021-04-10-recorrida-obras-consejos]].
+
+**Conceptos y entidades**: [[lucas-alarcon]] · [[aislamiento-termico]].

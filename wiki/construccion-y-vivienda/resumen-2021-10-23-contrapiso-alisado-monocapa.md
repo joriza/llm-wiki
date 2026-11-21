@@ -32,3 +32,5 @@ Más cemento y piedra más cara que ladrillo: sí. Pero la mano de obra no sube 
 - Marcelo Seia ×7 en el lote: entidad prioritaria T11.
 
 **Ver también**: [[resumen-2021-03-06-piso-pulido-de-color]] · [[resumen-2021-01-16-aislar-paredes-termicamente]].
+
+**Conceptos y entidades**: [[arquitecto-marcelo-seia]] · [[humedades]].

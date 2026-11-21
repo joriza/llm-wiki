@@ -31,7 +31,9 @@ Todos los aislantes térmicos usan el mismo material base: **el aire**, el más 
 
 ## Cruces
 
-- Complementa directamente el dominio [[casa-calefaccion]] (confort térmico pasivo: [[la-etiqueta-miente]]-adjacentes, batería de arena como almacenamiento activo vs. esta aislación pasiva). Candidato a página de concepto «aislación térmica de viviendas» en la consolidación T11 junto a las fuentes de aislación de paredes de este mismo lote (Jcsbt7Zo9TQ, n6Y9J34R1yw).
+- Complementa directamente el dominio dominio casa-calefaccion (confort térmico pasivo: [[la-etiqueta-miente]]-adjacentes, batería de arena como almacenamiento activo vs. esta aislación pasiva). Candidato a página de concepto «aislación térmica de viviendas» en la consolidación T11 junto a las fuentes de aislación de paredes de este mismo lote (Jcsbt7Zo9TQ, n6Y9J34R1yw).
 - El canal (Marcelo Seia) es candidata a entidad en T11 si la lista trae más videos suyos.
 
 **Ver también**: [[resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver]] · futuras fuentes de aislación del dominio `construccion-y-vivienda/`.
+
+**Conceptos y entidades**: [[aislamiento-termico]] · [[techos-de-chapa]] · [[arquitecto-marcelo-seia]].

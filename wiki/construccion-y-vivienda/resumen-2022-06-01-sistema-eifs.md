@@ -26,3 +26,5 @@ Sistema de **aislamiento térmico exterior** para muros fachada y losas ventilad
 - Canal Los Bestauradores (México): candidata a entidad T11 si reaparece; MAPA/Murotex como proveedor citado (comercial, no entidad de acervo).
 
 **Ver también**: [[resumen-2021-03-20-steel-framing]] · [[resumen-2021-01-16-aislar-paredes-termicamente]] · [[resumen-2021-05-29-revoque-plastico-texturado]].
+
+**Conceptos y entidades**: [[aislamiento-termico]].

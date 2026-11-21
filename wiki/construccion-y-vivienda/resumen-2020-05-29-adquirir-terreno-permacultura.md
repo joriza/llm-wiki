@@ -33,6 +33,8 @@ Antes de buscar lote, tener **una visión escrita de para qué te vas** (la suya
 ## Cruces
 
 - **Par espejado con [[resumen-2022-05-07-elegir-terreno]]** (fuente 40, Seia): coinciden en pendiente/sol/caminos/visitas con lluvia y vecinos, pero difieren en marco (permacultura rural vs lote urbano-suburbano) y en la respuesta a «¿lote chico?»: Seia dice mini-patios, Martín dice 2.500 m² para producir — contraste ideal para la página de concepto «elegir terreno» (T11). La pendiente como anti-inundación conecta con la cota de inundación de la fuente 40.
-- Canal Permacultura Holística: ya vinculado al dominio [[casa-calefaccion]] vía [[permacultura-holistica]]; candidata a entidad en T11 si reaparece (2 fuentes en el acervo total).
+- Canal Permacultura Holística: ya vinculado al dominio dominio casa-calefaccion vía [[permacultura-holistica]]; candidata a entidad en T11 si reaparece (2 fuentes en el acervo total).
 
 **Ver también**: [[resumen-2022-05-07-elegir-terreno]] · [[resumen-2021-12-25-7-trucos-diseno]].
+
+**Conceptos y entidades**: [[permacultura-holistica]].

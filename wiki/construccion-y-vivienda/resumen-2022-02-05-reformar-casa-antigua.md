@@ -42,3 +42,5 @@ Simple pero base de todo: **comparar compra+reforma vs precio de reemplazo**. Si
 - Marcelo Seia ×17 en el lote: entidad prioritaria T11.
 
 **Ver también**: [[resumen-2021-02-06-humedad-capilaridad]] · [[resumen-2024-01-13-techos-vuelan-viento]] · [[resumen-2021-06-30-infonavit-remodelada-ampliacion]].
+
+**Conceptos y entidades**: [[humedades]] · [[techos-de-chapa]] · [[arquitecto-marcelo-seia]].

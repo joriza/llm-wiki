@@ -25,3 +25,5 @@
 - Complementa [[resumen-2021-01-24-armado-hierro-columnas]] (fuente 7, mismo canal): esa es la clase real de columnas; este es el índice del curso completo (terreno→cimentación→columnas→vigas→losa). Referencia de estructura para T11.
 
 **Ver también**: [[resumen-2021-01-24-armado-hierro-columnas]].
+
+**Conceptos y entidades**: [[arquitecto-gratis]].

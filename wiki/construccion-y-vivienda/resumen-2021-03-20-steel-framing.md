@@ -57,3 +57,5 @@ Cambio tecnológico cultural: «cultura ladrillera» argentina («invertir en la
 - Canal Marcelo Seia ×4 en el lote (fuentes 2, 3, 20 + mencionadas): entidad segura para T11.
 
 **Ver también**: [[resumen-2021-01-16-aislar-paredes-termicamente]] · [[resumen-2021-01-24-armado-hierro-columnas]] · [[resumen-2020-12-19-mejor-aislante-techo-chapa]].
+
+**Conceptos y entidades**: [[aislamiento-termico]] · [[paneles-sip]] · [[arquitecto-marcelo-seia]].

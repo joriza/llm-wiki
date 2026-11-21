@@ -38,3 +38,5 @@ Viga en I: **alas de pino insigne + alma de OSB** especialmente diseñado — «
 - TAO + LP Building Solutions + Álvaro Rojas: entidades posibles T11 (el canal y sus invitados ya suman 2 fuentes).
 
 **Ver también**: [[resumen-2021-07-13-introduccion-paneles-sip-tao]] · [[resumen-2021-10-02-paneles-sip]] · [[resumen-2021-03-20-steel-framing]].
+
+**Conceptos y entidades**: [[paneles-sip]].

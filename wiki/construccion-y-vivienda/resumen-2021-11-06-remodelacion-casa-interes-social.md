@@ -32,3 +32,5 @@ Terreno **7 m de frente × 18 m de fondo**, orientación surponiente con vientos
 - COTAPAREDES Arquitectos y César Guillén: candidatos a entidad en T11 si el lote los re-trata.
 
 **Ver también**: [[resumen-2021-06-30-infonavit-remodelada-ampliacion]] · [[resumen-2021-12-05-casa-angosta-3m-dos-pisos]] · [[resumen-2020-03-22-puerta-abatible-a-corredera]].
+
+**Conceptos y entidades**: [[micro-viviendas]] · [[humedades]] · [[cotaparedes]].

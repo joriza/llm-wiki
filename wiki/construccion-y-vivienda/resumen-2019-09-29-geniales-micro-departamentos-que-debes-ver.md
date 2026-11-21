@@ -28,7 +28,9 @@
 
 ## Cruces y límites
 
-- Conecta con el dominio [[casa-calefaccion]] solo tangencialmente (habitabilidad de espacios pequeños); candidata a página de concepto «diseño de micro-viviendas» en la consolidación T11 junto a futuras fuentes de tiny houses de esta lista.
+- Conecta con el dominio dominio casa-calefaccion solo tangencialmente (habitabilidad de espacios pequeños); candidata a página de concepto «diseño de micro-viviendas» en la consolidación T11 junto a futuras fuentes de tiny houses de esta lista.
 - Cifras de superficie y firmas según lo dicho en el video; no verificado contra las fuentes originales de cada estudio. El apartamento de 42 m² no es micro-apartamento (así lo admite el propio video) y se incluyó por la solución de entrepiso.
 
 **Ver también**: futuras fuentes del dominio `construccion-y-vivienda/`.
+
+**Conceptos y entidades**: [[micro-viviendas]].

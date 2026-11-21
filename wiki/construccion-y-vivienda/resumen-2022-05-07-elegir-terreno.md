@@ -40,3 +40,5 @@ Sin vendedor ni agente inmobiliario, **recorrer la zona** — sola y en familia,
 - Marcelo Seia ×14 en el lote: entidad prioritaria T11.
 
 **Ver también**: [[resumen-2021-12-25-7-trucos-diseno]] · [[resumen-2021-12-05-casa-angosta-3m-dos-pisos]].
+
+**Conceptos y entidades**: [[arquitecto-marcelo-seia]].

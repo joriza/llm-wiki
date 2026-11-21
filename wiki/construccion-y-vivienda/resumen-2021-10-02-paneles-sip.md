@@ -34,3 +34,5 @@ El SIP **no es más barato** que el tradicional: priorizar la aislación cuesta.
 - Marcelo Seia ×6 en el lote: entidad prioritaria para T11.
 
 **Ver también**: [[resumen-2021-03-20-steel-framing]] · [[resumen-2021-01-16-aislar-paredes-termicamente]] · [[resumen-2021-03-20-steel-framing]].
+
+**Conceptos y entidades**: [[paneles-sip]] · [[aislamiento-termico]] · [[arquitecto-marcelo-seia]].

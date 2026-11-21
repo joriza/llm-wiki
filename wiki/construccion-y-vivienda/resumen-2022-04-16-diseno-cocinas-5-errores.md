@@ -42,3 +42,5 @@
 - Par directo con [[resumen-2022-03-26-casa-1-dormitorio-ampliable]] (la barra cerrada con lavarropas y la cocina compacta de esa casa aplican estas medidas). Candidato a página de concepto «diseño de cocinas» en T11 junto a la fuente de cocina del estilo frame (Casa 51, [[resumen-2021-08-07-casa-51-entasis]]). Marcelo Seia ×12 en el lote: entidad prioritaria T11 (con Patreon señalado).
 
 **Ver también**: [[resumen-2022-03-26-casa-1-dormitorio-ampliable]] · [[resumen-2021-08-07-casa-51-entasis]].
+
+**Conceptos y entidades**: [[arquitecto-marcelo-seia]].

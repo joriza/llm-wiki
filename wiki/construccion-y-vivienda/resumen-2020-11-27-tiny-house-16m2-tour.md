@@ -32,3 +32,5 @@ Público objetivo señalado: parejas jóvenes, estudiantes, solteros/solteras si
 - Canal Jorge Navarro: candidata a entidad en T11 si el lote trae más tours suyos.
 
 **Ver también**: [[resumen-2019-09-29-geniales-micro-departamentos-que-debes-ver]] · [[resumen-2020-03-22-puerta-abatible-a-corredera]].
+
+**Conceptos y entidades**: [[micro-viviendas]].
