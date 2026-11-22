@@ -5039,3 +5039,7 @@ Ingesta 4/5 del relevo 1 del tramo 105 (índice 3 del cache de 32). Raw intacto 
 ## [2026-11-24] ingesta | WL-715 — Uso de pantallas en niños (Jairo Gómez, Tu Pediatra)
 
 Ingesta 5/5 del relevo 1 del tramo 105 (índice 5 del cache de 32; índice 4 rfRFwXnk660 saltado por dedupe pre-flight como ya procesada, sin contacto YouTube). Raw intacto → `raw/wl/tramo-105/2024-11-12-cuidado-con-el-uso-de-pantallas-en-ninos-jairo-gomez-tu-pediatra.md`; resumen → `wiki/wl/tramo-105/resumen-WL715-uso-pantallas-ninos-jairo-gomez-pediatra.md`; fila en index.md. Consenso pediátrico (AAP/OMS/JAMA) vs. realidad del «nuevo chupete»; tercera fuente del bloque pantallas → [[pantallas-y-educacion]] con umbral sobrado para consolidación. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
+
+## [2026-11-24] ingesta | WL-716 — DevTalles 279: 40 términos de IA (Fernando Herrera)
+
+Ingesta 1/5 del relevo 2 del tramo 105 (cache fresco de 33, cabeza `snyVpalf6ho` índice 0 — nueva cabeza tras el re-listado del orquestador). Raw intacto → `raw/wl/tramo-105/2026-11-01-devtalles-279-40-terminos-de-ai-que-todo-dev-debe-de-conocer.md`; resumen → `wiki/wl/tramo-105/resumen-WL716-devtalles-40-terminos-ia-fernando-herrera.md`; fila en index.md. Glosario de ~40 términos IA (base, anatomía, entrenamiento, uso/riesgos) con cierre de carrera espejo de WL-711. Cruces: [[agentes-de-codigo]], [[delegacion-cognitiva-ia]]. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
