@@ -5051,3 +5051,7 @@ Ingesta 2/5 del relevo 2 del tramo 105 (índice 7 del cache de 33; índices 1-5 
 ## [2026-11-24] ingesta | WL-718 — 20 flexiones al día (Mr. Creatina)
 
 Ingesta 3/5 del relevo 2 del tramo 105 (índice 8 del cache de 33). Raw intacto → `raw/wl/tramo-105/2026-11-07-lo-que-20-flexiones-al-dia-le-hacen-a-tu-cuerpo.md`; resumen → `wiki/wl/tramo-105/resumen-WL718-20-flexiones-al-dia-mr-creatina.md`; fila en index.md. Parte hermana de WL-717: fórmula «20 al día» para flexiones, Harvard bomberos desmontado con matices, misma doctrina de dosis diaria mínima. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
+
+## [2026-11-24] ingesta | WL-719 — Estoy harto de programar con IA (Helmcode)
+
+Ingesta 4/5 del relevo 2 del tramo 105 (índice 9 del cache de 33). Raw intacto → `raw/wl/tramo-105/2026-11-21-estoy-harto-de-programar-con-ia.md`; resumen → `wiki/wl/tramo-105/resumen-WL719-harto-de-programar-con-ia-helmcode.md`; fila en index.md. Ensayo con Alex Vidal: deuda cognitiva, burnout de coordinación, cuello de botella desplazado y el nuevo rol de producto/negocio — la mejor pieza técnica del relevo, espejo del hilo agentes/carreras WL-709/710/711. Cruces: [[delegacion-cognitiva-ia]], [[agentes-de-codigo]], [[paradoja-jevons-software]], [[brecha-junior-ia]]. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
