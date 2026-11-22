@@ -5027,3 +5027,7 @@ Ingesta 1/5 del relevo 1 del tramo 105 (cache fresco de 32, cabeza `l7xLYdYirRo`
 ## [2026-11-24] ingesta | WL-712 — GTA 6 ¿no utiliza IA? (TodoCode)
 
 Ingesta 2/5 del relevo 1 del tramo 105 (índice 1 del cache de 32). Raw intacto → `raw/wl/tramo-105/2026-11-18-gta-6-no-utiliza-inteligencia-artificial.md`; resumen → `wiki/wl/tramo-105/resumen-WL712-gta6-ia-generativa-tocode.md`; fila en index.md. Microlección: IA generativa ≠ IA clásica en videojuegos (máquinas de estados, pathfinding, coherencia de NPC) desde la declaración del CEO de Take-Two. Cruces: [[tocode]] (4.ª fuente), [[delegacion-cognitiva-ia]], [[brecha-junior-ia]]. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
+
+## [2026-11-24] ingesta | WL-713 — Adicción a las pantallas y el cerebro infantil (Instituto Para Padres)
+
+Ingesta 3/5 del relevo 1 del tramo 105 (índice 2 del cache de 32). Raw intacto → `raw/wl/tramo-105/2023-05-12-peligros-para-el-cerebro-de-la-adiccion-a-las-pantallas-consecuencias-de-adiccio.md`; resumen → `wiki/wl/tramo-105/resumen-WL713-adiccion-pantallas-cerebro-instituto-para-padres.md`; fila en index.md. Compilación con fuentes nombradas (Hutton 2022, Desmurget): neurotransmisores de la adicción, evidencia de RM y 6 reglas parentales. Cruces: [[atencion-secuestrada]]; dos fuentes más de pantallas/niños en la cola (índices 3 y 5) → candidata latente [[pantallas-y-educacion]]. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
