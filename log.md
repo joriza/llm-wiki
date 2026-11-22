@@ -5023,3 +5023,7 @@ Libro adoptado como MAPA ORGANIZATIVO (NO ingestado como fuente). PDF externo fu
 ## [2026-11-24] ingesta | WL-711 — 281 junior en tiempos de IA (Fernando Herrera)
 
 Ingesta 1/5 del relevo 1 del tramo 105 (cache fresco de 32, cabeza `l7xLYdYirRo` índice 0). Raw intacto → `raw/wl/tramo-105/2026-11-22-281-junior-en-tiempos-de-ia-episodio-completo.md`; resumen → `wiki/wl/tramo-105/resumen-WL711-281-junior-tiempos-ia-fernando-herrera.md`; fila en index.md. Episodio 281 del podcast Detalles (44:37): consejos honestos a juniors en la era de IA — ruido ≠ mercado, software a medida sigue ganando dinero, prototipos-IA como castillos de cartas, portafolio con usuarios reales, no ser proxy de la IA. Cruces: [[brecha-junior-ia]], [[delegacion-cognitiva-ia]], [[paradoja-jevons-software]], [[atencion-secuestrada]]. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
+
+## [2026-11-24] ingesta | WL-712 — GTA 6 ¿no utiliza IA? (TodoCode)
+
+Ingesta 2/5 del relevo 1 del tramo 105 (índice 1 del cache de 32). Raw intacto → `raw/wl/tramo-105/2026-11-18-gta-6-no-utiliza-inteligencia-artificial.md`; resumen → `wiki/wl/tramo-105/resumen-WL712-gta6-ia-generativa-tocode.md`; fila en index.md. Microlección: IA generativa ≠ IA clásica en videojuegos (máquinas de estados, pathfinding, coherencia de NPC) desde la declaración del CEO de Take-Two. Cruces: [[tocode]] (4.ª fuente), [[delegacion-cognitiva-ia]], [[brecha-junior-ia]]. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
