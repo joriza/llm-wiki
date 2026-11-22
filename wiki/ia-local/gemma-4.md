@@ -3,6 +3,7 @@
 - **Tipo**: página de entidad (modelo).
 - **Dominio**: `modelos-llm-locales`.
 - **Actualizado**: 2026-11-11 (fuente 29/58 del lote ia-local — E2B benchmarks velocidad, consumo real, pruebas funcionales).
+- **Actualizado**: 2026-11-22 (+[[resumen-TMP01-010-gemopus-gemma4-estilo-opus]] — fine-tune comunitario Gemopus).
 - **Fuentes**: [[resumen-gemma-4-es-mejor-que-qwen-en-codigo-y-velocidad]] · [[resumen-gemma-4-e2b-el-modelo-de-ia-mas-eficiente-para-redaccion-en-espanol]] (fuente 10 — el E2B en detalle) · [[resumen-configurar-modelos-de-ia-con-maximo-rendimiento-tutorial-en-llama-cpp]] (fuente 11 — el 12B QAT como caso de encaje) · [[resumen-reto-modelos-2b-como-sacar-el-maximo-provecho-con-ia-local]] (fuente 12 — E2B medido en el «Reto 2B») · [[resumen-gemma-4-e2b-el-modelo-de-ia-pequeno-y-ultra-rapido-con-llama-cpp]] · mencionada en [[resumen-ia-local-para-programar-configura-qwen-con-llama-cpp-y-opencode]] (fuente 3) y en [[resumen-llama-cpp-como-instalar-ia-local-y-modelos-gguf-en-tu-pc]].
 
 **Gemma 4** es la familia de modelos abiertos de **Google**, en variantes 12B, 26B, 31B, E2B y E4B (además de la 12B base, con versión **QAT** — *quantization-aware training* — que mantiene ~99 % de calidad a 4 bits).
@@ -17,6 +18,8 @@ Históricamente: superior a Qwen 3.5 en **todo lo lingüístico** (redacción, t
 - **Velocidad ×3** con MTP: ~92-93 tok/s en código en una RTX 3060 12 GB, sostenidos aun con mucho contexto — consumiendo la misma memoria que el Qwen 9B (KV sin cuantizar).
 
 Prueba práctica en [[desarrollo-con-modelos-locales]] + OpenCode: Flappy Bird funcional a la primera usando herramientas, iteraciones de estilo fluidas.
+
+**Actualización 2026-11-22 — Gemopus (TMP01-010, Decrypt)**: Jackrong (creador de Qwopus) lanza **Gemopus**, fine-tune comunitario «estilo Claude Opus» sobre Gemma 4 — Gemopus-4-26B-A4B (MoE, ~4B activos, contexto 131K→524K con YaRN) y Gemopus-4-E4B (edge: 45-60 tok/s en iPhone 17 Pro Max, 90-120 tok/s en MacBook Air vía MLX). Filosofía «stability first»: sin forzar trazas de thinking de Claude en los pesos (imitación ≠ lógica). GGUF en LM Studio/llama.cpp. **Tensión registrada con esta página**: la nota declara «tool calling problemático en toda la serie Gemma 4», mientras los benchmarks del canal aquí registrados (post-actualización de Google) ya lo muestran funcional — probable desfase de versión/base del fine-tune; verificar antes de citar cualquiera de las dos caras. La distancia abiertos-vs-premium reduciéndose «cada generación» (TMP01-003) es el marco compartido.
 
 ## Diferencia con Qwen en MTP
 

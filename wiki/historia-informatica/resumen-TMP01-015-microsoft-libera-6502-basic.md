@@ -26,5 +26,5 @@ La apertura facilita revivir hardware antiguo: con **FPGA** se replican los equi
 
 ## Cruces
 
-- Hilo de historia-informatica: el BASIC de Microsoft como producto fundacional de la compañía (par con las fuentes de MS-DOS/FORTRAN del dominio); conservación de software junto con TMP01-009 (Office 2007/abandonware) y TMP01-011 (ReactOS/AROS como sucesores libres de ecosistemas muertos).
+- Hilo de historia-informatica: el BASIC de Microsoft como producto fundacional de la compañía (par con las fuentes de MS-DOS/FORTRAN del dominio); conservación de software junto con TMP01-009 (Office 2007/abandonware) y TMP01-011 (ReactOS/AROS como sucesores libres de ecosistemas muertos) — [[conservacion-software]].
 - Contraste con TMP01-003: la apertura del código histórico vs. el cierre de usos en los modelos propietarios actuales.

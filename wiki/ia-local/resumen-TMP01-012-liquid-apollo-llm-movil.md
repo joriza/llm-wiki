@@ -21,5 +21,5 @@
 
 ## Cruces
 
-- Hilo de ia-local en el edge: complementario de TMP01-010 (Gemopus E4B en iPhone/MacBook — 45-120 tok/s): la inferencia local móvil deja de ser demo y aparece como app de consumo.
-- Tema transversal candidato: **privacidad por diseño en IA local** (los datos no salen del dispositivo) — ya presente en el corpus de ia-local, con este caso como extremo de consumo.
+- Hilo de ia-local en el edge: complementario de TMP01-010 (Gemopus E4B en iPhone/MacBook — 45-120 tok/s): la inferencia local móvil deja de ser demo y aparece como app de consumo; familia de base: [[lfm]].
+- Tema transversal: **privacidad por diseño en IA local** (los datos no salen del dispositivo) — tensión registrada con WL-147 ([[resumen-WL147-tu-ia-local-no-es-tan-privada-como-crees]]): marketing del desarrollador vs. medición independiente.

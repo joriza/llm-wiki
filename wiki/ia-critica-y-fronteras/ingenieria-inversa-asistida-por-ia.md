@@ -3,7 +3,8 @@
 - **Tipo**: página de concepto (clúster transversal).
 - **Dominio**: `ia-critica-y-fronteras/` (creada en la consolidación T53 de los tramos 45-47 WL, 2026-11-16 — umbral ≥2: WL-241 + WL-250 nucleares, WL-315 de ampliación).
 - **Fuentes**: [[resumen-WL241-software-ha-muerto-fazt]] (WL-241, Fazt — el software como artefacto reversible) · [[resumen-WL250-cualquiera-puede-decompilar-apps-rea-fazt]] (WL-250, Fazt — REA «Reverse Engineering Anything») · [[resumen-WL315-mdm-vs-idm-ia-ingenieria-inversa-el-bit-informado]] (WL-315, El Bit Informado — el caso MDM/IDM y la reacción legal).
-- **Ver también**: [[agentes-de-codigo]] · [[lenguaje-rust]] · [[hardware-agentico-mcp-first]].
+- **Ver también**: [[agentes-de-codigo]] · [[lenguaje-rust]] · [[hardware-agentico-mcp-first]] · [[conservacion-software]].
+- **Actualización 2026-11-22 (consolidación tramo Gral/tmp-01)**: +1 fuente — [[resumen-TMP01-003-claude-bloquea-descompilacion-softzone]] (TMP01-003, SoftZone; hecho no oficial, testimonios de usuarios): la práctica se masifica con Claude como motor de decomp (juegos clásicos → ports nativos, smart TVs sin bloatware, Tizen OS de Samsung guiado por webcam en vivo) y provoca la reacción del proveedor: salvaguardas unilaterales que la frenan como «amenaza cibernética», sin criterio publicado ni apelación — el conflicto práctica-comunitaria vs. control-del-proveedor como cuarta consecuencia del fenómeno (cruce con [[gobernanza-ia]]).
 
 ## La idea
 

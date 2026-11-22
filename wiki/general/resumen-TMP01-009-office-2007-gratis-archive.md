@@ -22,5 +22,5 @@ Office 2007 (sin soporte desde octubre de 2017) puede instalarse legalmente-grat
 
 ## Cruces
 
-- Hilo de **software antiguo/abandonware**: conectable con historia-informatica (histórico de suites ofimáticas) y con TMP01-015 (Microsoft libera 6502 BASIC — la otra cara: conservación vía apertura de código).
+- Hilo de **software antiguo/abandonware**: [[conservacion-software]] — conectable con historia-informatica (histórico de suites ofimáticas) y con TMP01-015 (Microsoft libera 6502 BASIC — la otra cara: conservación vía apertura de código).
 - Contraste con TMP01-008: el peso del software moderno (Windows 11, 28 GB) como contexto que justifica resucitar herramientas livianas.

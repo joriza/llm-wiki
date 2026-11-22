@@ -20,5 +20,5 @@ Volker Türk, Alto Comisionado de la ONU para los Derechos Humanos, en el evento
 
 ## Cruces
 
-- **Concentración de poder de la industria IA**: hilo de ia-critica-y-fronteras (industria, fronteras de modelos) y [[critica-tecnologica]] (poder algorítmico y política digital) — el «modo medieval» de Türk es la formulación institucional de la misma tesis.
+- **Concentración de poder de la industria IA**: [[gobernanza-ia]] (hilo de ia-critica-y-fronteras — esta denuncia institucional suma al concepto) y [[critica-tecnologica]] (poder algorítmico y política digital) — el «modo medieval» de Türk es la formulación institucional de la misma tesis.
 - Contraste interno con TMP01-003 (Anthropic decide unilateralmente qué usos permite — caso concreto de «controles sin rendición de cuentas») y TMP01-004 (la industria reorganiza el oficio).

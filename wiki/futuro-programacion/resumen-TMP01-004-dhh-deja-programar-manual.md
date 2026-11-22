@@ -24,5 +24,5 @@ DHH no cree que los programadores desaparezcan: se desplazan de la ejecución (f
 
 ## Cruces
 
-- Hilo central de futuro-programacion: fin del código manual, vibe coding, brecha junior ([[brecha-junior-ia]]) — el caso DHH es el dato emblemático: el programador más icónico del «código como artesanía» retirándose de escribir código.
+- Hilo central de futuro-programacion: fin del código manual, vibe coding, brecha junior ([[brecha-junior-ia]]) — el caso DHH es el dato emblemático: el programador más icónico del «código como artesanía» retirándose de escribir código (entidad: [[dhh]]).
 - Contraste con WL-393 («La IA me dejó sin trabajo», CodinEric) y [[delegacion-cognitiva-ia]]; TMP01-002/003 del mismo tramo (la industria IA reordenando el oficio y los usos).

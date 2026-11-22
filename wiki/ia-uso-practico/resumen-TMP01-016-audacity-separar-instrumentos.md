@@ -1,6 +1,6 @@
 # TMP01-016 — Cómo separar instrumentos de una canción con Audacity (gratis)
 
-- **Fuente**: [Video en YouTube](https://www.youtube.com/watch?v=6Ta3l8BgBKo) — canal **El Rincón de Cabra**, publicado 07/02/2025, 5:26, ES (subtítulos automáticos; transcripción descargada para la ingesta pero NO archivada en `raw/` por límite de superficies autorizadas de este tramo — citar la URL como fuente original).
+- **Fuente**: [Video en YouTube](https://www.youtube.com/watch?v=6Ta3l8BgBKo) — canal **El Rincón de Cabra**, publicado 07/02/2025, 5:26, ES (subtítulos automáticos; transcripción archivada en `raw/ia-uso-practico/2025-02-07-como-separar-instrumentos-de-una-cancion-con-audacity.md` durante la consolidación del tramo, 2026-11-22).
 - **Dominio**: `ia-uso-practico/` — tutorial práctico de herramienta con IA (separación de pistas de audio), 1.ª mano con demo en pantalla.
 
 ## Qué enseña

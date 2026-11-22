@@ -23,5 +23,5 @@ Motivación editorial: fin del soporte de Windows 10 como ventana para alternati
 
 ## Cruces
 
-- Par directo con TMP01-008 (Ubuntu vs Windows: el otro extremo del ecosistema libre) y TMP01-009/015 (software antiguo que se conserva: ReactOS/AROS como conservación funcional de ecosistemas muertos — BeOS, AmigaOS, Windows XP).
+- Par directo con TMP01-008 (Ubuntu vs Windows: el otro extremo del ecosistema libre) y TMP01-009/015 ([[conservacion-software]]: ReactOS/AROS como conservación funcional de ecosistemas muertos — BeOS, AmigaOS, Windows XP).
 - Historia de la computación: [[historia-informatica]] (BeOS, Amiga, BSD) — hilo candidato «ecosistemas operativos muertos y sus sucesores libres».

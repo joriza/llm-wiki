@@ -33,5 +33,5 @@ Jackrong **no forzó las trazas de razonamiento en cadena de Claude en los pesos
 
 ## Cruces
 
-- Hilo central de ia-local: fine-tunes comunitarios sobre familias abiertas ([[inferencia-local]], [[llama-cpp]], LM Studio), con paralelo directo a la línea Qwen ([[qwen]]); debate de fondo: destilación de estilo vs. capacidad (imitación ≠ lógica) — conectable con ia-critica-y-fronteras.
+- Hilo central de ia-local: fine-tunes comunitarios sobre familias abiertas ([[inferencia-local]], [[llama-cpp]], LM Studio), con paralelo directo a la línea Qwen ([[qwen]]); familia de base documentada: [[gemma-4]]; debate de fondo: destilación de estilo vs. capacidad (imitación ≠ lógica) — conectable con ia-critica-y-fronteras.
 - TMP01-002/003 del mismo tramo: la comunidad abierta como contrapeso de las salvaguardas unilaterales de los modelos premium.

@@ -28,5 +28,5 @@ La comunidad mira a los modelos abiertos como vía para recuperar el control. Ho
 
 ## Cruces
 
-- **«Quien controla el modelo decide»**: contraste directo con TMP01-002 (Türk: poder sin contrapesos ni rendición de cuentas) — este caso es el ejemplo micro de la denuncia macro.
-- Hilo de ia-local: el argumento clásico de la **inferencia local** (no depender de salvaguardas de terceros) extendido del software al hardware propio; conectable con la línea de modelos abiertos vs. cerrados y con ingeniería-inversa-asistida-por-IA (WL-315).
+- **«Quien controla el modelo decide»**: [[gobernanza-ia]] (contraste directo con TMP01-002 — Türk: poder sin contrapesos ni rendición de cuentas; este caso es el ejemplo micro de la denuncia macro).
+- Hilo de ia-local: el argumento clásico de la **inferencia local** (no depender de salvaguardas de terceros) extendido del software al hardware propio; conectable con la línea de modelos abiertos vs. cerrados y con [[ingenieria-inversa-asistida-por-ia]] (WL-315 + esta fuente: la práctica del decomp y la reacción del proveedor).

@@ -3,6 +3,7 @@
 - **Tipo**: página de entidad (modelos).
 - **Dominio**: `modelos-llm-locales`.
 - **Actualizado**: 2026-11-11 (fuente 8/58 del lote ia-local; la fuente 28 comparará el 8B-A1B).
+- **Actualizado**: 2026-11-22 (+[[resumen-TMP01-012-liquid-apollo-llm-movil]] — Apollo/LEAP, punta de consumo del ecosistema).
 - **Fuentes**: [[resumen-liquid-lfm-2-5-una-alternativa-potente-para-uso-agentico-y-de-texto]] · [[resumen-cree-un-modelo-moe-0-1b-ultra-rapido-incluso-en-cpu]] (fuente 22 — conversiones MoE del canal) · [[resumen-ling3-0-tiny-vs-lfm-2-5-8b-a1b-cual-es-el-mejor-modelo-de-ia-pequeno]] (fuente 23 — comparativa contra Ling 3.0 Tiny).
 
 **Liquid LFM 2.5** es la familia de modelos de texto de Liquid, en variantes de tamaño 0.23B, 1.2B, 1.5B, **2.6B** (la probada) y **8B-A1B MoE**. GGUF oficial del propio proveedor.
@@ -35,3 +36,7 @@ En el duelo de MoE chicos (~1B activo, solo texto): el LFM 2.5 8B-A1B es **más 
 ## LFM 2.5 24B A2B (fuente 58)
 
 La guía de [[holamundo]] lo recomienda como **modelo de implementación de código** cuando el Qwen 3.6 35B no corre: sigue instrucciones y patrones sin desviarse. Medido en la 3060 del tutorial: 32 tok/s con offload parcial + ctx 60k + KV Q8, **183.78 tok/s con el modelo completo en VRAM (sin MTP — velocidad nativa)**, 22-26 tok/s en CPU casi puro.
+
+## Apollo — LLMs locales en el celular (TMP01-012, 2026-11-22)
+
+La punta de usuario final del ecosistema: **Apollo**, app de Liquid AI en Play Store (ficha oficial — fuente primaria comercial, señalado) sobre el motor **LEAP** (Liquid Edge AI Platform). Corre modelos de lenguaje directamente en el teléfono sin conexión: chat privado («la información no sale del dispositivo»), redacción offline, personajes digitales y visión con **LFM2-VL**. La inferencia local móvil deja de ser demo y aparece como app de consumo (par de [[resumen-TMP01-010-gemopus-gemma4-estilo-opus]] en el edge). **Tensión registrada**: la privacidad es marketing del desarrollador sin medición independiente — contraste con [[resumen-WL147-tu-ia-local-no-es-tan-privada-como-crees]] («tu IA local no es tan privada como creés»), que midió telemetría real en modelos locales de escritorio.
