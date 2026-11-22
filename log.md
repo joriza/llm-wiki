@@ -5043,3 +5043,7 @@ Ingesta 5/5 del relevo 1 del tramo 105 (índice 5 del cache de 32; índice 4 rfR
 ## [2026-11-24] ingesta | WL-716 — DevTalles 279: 40 términos de IA (Fernando Herrera)
 
 Ingesta 1/5 del relevo 2 del tramo 105 (cache fresco de 33, cabeza `snyVpalf6ho` índice 0 — nueva cabeza tras el re-listado del orquestador). Raw intacto → `raw/wl/tramo-105/2026-11-01-devtalles-279-40-terminos-de-ai-que-todo-dev-debe-de-conocer.md`; resumen → `wiki/wl/tramo-105/resumen-WL716-devtalles-40-terminos-ia-fernando-herrera.md`; fila en index.md. Glosario de ~40 términos IA (base, anatomía, entrenamiento, uso/riesgos) con cierre de carrera espejo de WL-711. Cruces: [[agentes-de-codigo]], [[delegacion-cognitiva-ia]]. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
+
+## [2026-11-24] ingesta | WL-717 — 20 sentadillas al día (Mr. Creatina)
+
+Ingesta 2/5 del relevo 2 del tramo 105 (índice 7 del cache de 33; índices 1-5 con marcadores .done del relevo 1 → saltados sin contacto YouTube). Raw intacto → `raw/wl/tramo-105/2026-11-08-lo-que-20-sentadillas-al-dia-le-hacen-a-tu-cuerpo-gimnasio-y-en-casa.md`; resumen → `wiki/wl/tramo-105/resumen-WL717-20-sentadillas-al-dia-mr-creatina.md`; fila en index.md. Divulgación fitness honesta: dosis mínima diaria de sentadillas con evidencia citada y matices causales; par hermano con WL-718 (flexiones, mismo canal). Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
