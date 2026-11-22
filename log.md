@@ -4982,3 +4982,6 @@ Se hizo visible la vista de hubs de primer nivel en la portada del sitio publica
 
 ## [2026-11-22] ingesta | Gral/tmp-01 TMP01-001 — Aprender por escuela (fallo Corte Suprema)
 Ingesta de la carpeta de favoritos Chrome `Barra de favoritos/Gral/tmp-01` (16 fuentes, cache odd/raw-tmp01-cache.json, relevo cada 5). Fuente 1 (LA NACIÓN): la causa FSA 517/2019/CS1 — un padre salteño que pedía resultados de Aprender 2016-2017 por establecimiento para elegir colegio ganó en la Corte Suprema (fallo 19/11/2026, por mayoría, disidencia Rosenkrantz): máxima divulgación, el secreto estadístico no alcanza sin daño concreto demostrado, evaluaciones como control social de políticas públicas. Página: wiki/educacion-ia/resumen-TMP01-001-aprender-resultados-por-escuela-corte.md (dominio educacion-ia, hilo [[familia-pisa]]); index.md actualizado.
+
+## [2026-11-22] ingesta | Gral/tmp-01 TMP01-002 — ONU: IA gobernada «de modo medieval» (Türk)
+Fuente 2 (Clarín/AFP): Volker Türk en RightsX (Ginebra) denuncia concentración de poder en la industria IA (5 empresas >70 % de cómputo, sin fuente primaria — señalado), sin normas comunes ni rendición de cuentas; riesgo sobre infraestructura crítica; pide normativa de DDHH. Página: wiki/ia-critica-y-fronteras/resumen-TMP01-002-onu-ia-medieval-turk.md; index.md actualizado.
