@@ -5012,3 +5012,6 @@ index.md actualizado; commit por fuente.
 - 014 (TyC Sports): Omnispace licencia ENACOM, satelital 5G directo a celular; titular sensacionalista («murió Starlink») señalado (general).
 - 015 (Hipertextual): Microsoft libera 6502 BASIC en GitHub (historia-informatica).
 index.md actualizado; commit por fuente.
+
+## [2026-11-22] ingesta | Gral/tmp-01 TMP01-016 — Audacity separación de pistas con IA (cierre del tramo)
+Fuente 16 (YouTube, El Rincón de Cabra, 5:26): Audacity + plugin OpenVINO para separar voz/batería/bajo/otros; subtítulos automáticos descargados con yt-dlp y procesados en streaming; NOTA: la transcripción NO se archivó en raw/ (superficie fuera del alcance autorizado de este tramo) — el resumen cita la URL como fuente original, pendiente de archivar en una futura ingesta/consolidación. Página: wiki/ia-uso-practico/resumen-TMP01-016-audacity-separar-instrumentos.md; index.md actualizado. Tramo Gral/tmp-01 completo: 15 procesadas, 1 SKIP (TMP01-006, El Confidencial 403).
