@@ -5047,3 +5047,7 @@ Ingesta 1/5 del relevo 2 del tramo 105 (cache fresco de 33, cabeza `snyVpalf6ho`
 ## [2026-11-24] ingesta | WL-717 — 20 sentadillas al día (Mr. Creatina)
 
 Ingesta 2/5 del relevo 2 del tramo 105 (índice 7 del cache de 33; índices 1-5 con marcadores .done del relevo 1 → saltados sin contacto YouTube). Raw intacto → `raw/wl/tramo-105/2026-11-08-lo-que-20-sentadillas-al-dia-le-hacen-a-tu-cuerpo-gimnasio-y-en-casa.md`; resumen → `wiki/wl/tramo-105/resumen-WL717-20-sentadillas-al-dia-mr-creatina.md`; fila en index.md. Divulgación fitness honesta: dosis mínima diaria de sentadillas con evidencia citada y matices causales; par hermano con WL-718 (flexiones, mismo canal). Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
+
+## [2026-11-24] ingesta | WL-718 — 20 flexiones al día (Mr. Creatina)
+
+Ingesta 3/5 del relevo 2 del tramo 105 (índice 8 del cache de 33). Raw intacto → `raw/wl/tramo-105/2026-11-07-lo-que-20-flexiones-al-dia-le-hacen-a-tu-cuerpo.md`; resumen → `wiki/wl/tramo-105/resumen-WL718-20-flexiones-al-dia-mr-creatina.md`; fila en index.md. Parte hermana de WL-717: fórmula «20 al día» para flexiones, Harvard bomberos desmontado con matices, misma doctrina de dosis diaria mínima. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
