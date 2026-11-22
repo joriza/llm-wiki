@@ -118,6 +118,17 @@ Procese todos los marcadores que le sean posible, además de los video de youtub
 Recuerde procesar en un unico sub-agente.
 con relevo cada 5 fuentes
 
+Hay conceptos que me comentas que no termino de asimilarlos y por ende, para poder aplicarlos correctamente.
+Como:
+- Dominio.
+- Resumen
+- Concepto y concepto transversal.
+- Hub
+- Laguna
+- Exports temáticos
+- Sintesis
+
+
 ---
 
 
