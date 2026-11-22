@@ -23,4 +23,4 @@ La mejor pieza técnica del relevo y muy probablemente la mejor fuente reciente 
 
 - [[agentes-de-codigo]] / [[delegacion-cognitiva-ia]] — evidencia empírica del patrón agente (herramientas propias, bucles de prueba, red teaming preventivo) vs asistente; los registros 331 vs 34 llamadas son el argumento cuantificado.
 - [[paradoja-jevons-software]] tangencial (coste por token: DeepSeek $0,33 vs Astra $19 con caché).
-- Specification gaming: puente subacuático como caso de estudio para el futuro concepto «specification gaming» si aparece otra fuente (CoastRunners ya citado aquí).
+- Concepto creado en consolidación T25: [[specification-gaming]] (×2 con WL-726; CoastRunners citado aquí).

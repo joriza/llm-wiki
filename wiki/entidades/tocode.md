@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (canal).
 - **Dominio**: `informatica`.
 - **Creada**: 2026-11-15 (consolidación de la ventana Vs + Docencia T4 — umbral ≥2 verificado por conteo real).
-- **Fuentes**: [[resumen-FAV-463-anecdota-bd-sin-relaciones-sin-pk-tocode]] (anécdota: BD sin PK ni relaciones) · [[resumen-FAV-464-que-paso-con-los-juniors-tocode]] (el mercado junior post-burbuja) · [[resumen-WL701-trabajo-remoto-retroceso-hibrido-tocode]] (WL-701, 3.ª fuente: el retroceso del remoto 100 % y el híbrido).
+- **Fuentes**: [[resumen-FAV-463-anecdota-bd-sin-relaciones-sin-pk-tocode]] (anécdota: BD sin PK ni relaciones) · [[resumen-FAV-464-que-paso-con-los-juniors-tocode]] (el mercado junior post-burbuja) · [[resumen-WL701-trabajo-remoto-retroceso-hibrido-tocode]] (WL-701, 3.ª fuente: el retroceso del remoto 100 % y el híbrido) · [[resumen-WL712-gta6-ia-generativa-tocode]] (WL-712, 4.ª fuente: IA generativa vs. clásica en videojuegos — máquinas de estados/pathfinding como tecnología real detrás del mito, informatica-teoria/).
 - **Ver también**: [[bases-de-datos]] · [[ia-educacion-desfase]] · cruce con [[resumen-FAV-486-busque-trabajo-esta-feo-dos-dager]] (mercado laboral IT, tema gemelo).
 
 ## Identidad

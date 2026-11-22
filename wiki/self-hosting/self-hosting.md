@@ -26,3 +26,11 @@ El homelab como infraestructura personal: hardware reciclado o mini-PC barato + 
 ## Actualización 2026-11-17 (consolidación T6, tramo 98)
 
 WL-617 ([[resumen-WL617-servidor-casa-cancelado-pepotech]] — en `wl/`): el contrapeso honesto del homelabbing — seis lecciones (síndrome de Diógenes en Docker con regla «2-3 usos/semana o fuera», Jellyfin vs. Plex, Tailscale en vez de puertos abiertos, documentar lo que se toca, RAID ≠ backup con regla 3-2-1, costo eléctrico real 70-90 €/año de una torre vieja vs. mini PC 8.ª gen a 10-15 W) y veredicto «ahorro = no, soberanía = sí» — la contra-voz exacta de WL-200/299/330/339 del dominio, cierra el debate de la «contradicción productiva» con un criterio de decisión claro. Entidad nueva: [[pelado-nerd]] (4 fuentes, la 4.ª en wl/). Cruce: la RAM de WL-615 (tramo 98) es el precio del hardware del homelab.
+
+## Actualización 2026-11-24 (consolidación T25, tramo 105)
+
+WL-734 ([[resumen-WL734-nube-en-casa-nas-scpc]] — SCPC Informática, canal nuevo ×1, sin patrocinio ni afiliación: honestidad inusual): el NAS como «alquiler permanente de tus propios archivos» resuelto en casa — RAID ≠ backup con regla 3-2-1 (la misma lección de WL-617), marco de decisión honesto (qué conviene en nube y qué no) y demo punta a punta en Asustor con Jellyfin como primer contenedor Docker (la misma progresión ergonómica del dominio: panel simple primero). Refuerza el pilar 4 (crítica de la nube) con una voz que recomienda también dónde NO self-hostear.
+
+## Actualización 2026-11-24 (consolidación T25, tramo 105)
+
+WL-734 ([[resumen-WL734-nube-en-casa-nas-scpc]] — SCPC Informática, canal nuevo ×1, sin patrocinio ni afiliación: honestidad inusual): el NAS como «alquiler permanente de tus propios archivos» resuelto en casa — RAID ≠ backup con regla 3-2-1 (la misma lección de WL-617), marco de decisión honesto (qué conviene en nube y qué no) y demo punta a punta en Asustor con Jellyfin como primer contenedor Docker (la misma progresión ergonómica del dominio: panel simple primero). Refuerza el pilar 4 (crítica de la nube) con una voz que recomienda también dónde NO self-hostear.

@@ -1,6 +1,7 @@
 # WL-738 — Los 30 mejores trucos de electricista (La Pinza de Claudio)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-09-los-30-mejores-trucos-de-electricista-que-funcionan-de-verdad-30-anos-con-la-pin.md`
+- **Fuente original**: `raw/electromecanica/2026-11-09-los-30-mejores-trucos-de-electricista-que-funcionan-de-verdad-30-anos-con-la-pin.md`
+- **Dominio definitivo**: `electromecanica` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=v024agBBF1c
 - **Canal**: La Pinza de Claudio (1.ª fuente; electricista argentino, 30 años de oficio, rioplatense) · **Publicado**: 2026-11-09 · **Duración**: 26:42 · **Idioma**: es rioplatense (ASR; garbiñeos normalizados solo aquí)
 
@@ -17,7 +18,7 @@ Microlección de oficio en 5 bloques (seguridad, destornillador, pasar cables, t
 
 ## Cruces
 
-- Taller/oficio con prueba empírica propia: mismo hilo que la serie de Espacio de Cesar (WL-735) y electromecanica/; sin página de electricidad domiciliaria aún — candidata para consolidación.
+- Taller/oficio con prueba empírica propia: mismo hilo que la serie de [[espacio-de-cesar]] (WL-735) y electromecanica/; sin página de electricidad domiciliaria aún — candidata para consolidación.
 - «La herramienta barata se paga dos veces» + anti-consejos virales: [[la-etiqueta-miente]] (los trucos de internet peligrosos como etiqueta que miente).
 
 Candidatas para consolidación (aplazada): La Pinza de Claudio ×1 (canal nuevo).

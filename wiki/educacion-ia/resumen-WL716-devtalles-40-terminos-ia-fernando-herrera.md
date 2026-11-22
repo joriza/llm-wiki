@@ -1,6 +1,7 @@
 # WL-716 — DevTalles 279: 40 términos de IA que todo dev debe conocer (Fernando Herrera)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-01-devtalles-279-40-terminos-de-ai-que-todo-dev-debe-de-conocer.md` ([Vídeo](https://www.youtube.com/watch?v=snyVpalf6ho))
+- **Fuente original**: `raw/educacion-ia/2026-11-01-devtalles-279-40-terminos-de-ai-que-todo-dev-debe-de-conocer.md` ([Vídeo](https://www.youtube.com/watch?v=snyVpalf6ho))
+- **Dominio definitivo**: `educacion-ia` (consolidación T25, tramo 105)
 - **Canal**: Fernando Herrera / Detalles (2.ª fuente del canal, tras WL-711)
 - **Publicado**: 2026-11-01 · **Duración**: 22:37
 - **Fecha de ingesta**: 2026-11-24
@@ -26,7 +27,7 @@ Cierre con mensaje de carrera: no memorizar el glosario sino conocer la existenc
 
 - [[agentes-de-codigo]]: agentes, MCP, tool use y multiagente definidos en el bloque 4.
 - [[delegacion-cognitiva-ia]]: el cierre «solo presionás yes» = ser proxy de la IA (espejo WL-711).
-- Consolidación aplazada (aplazar fusión de entradas del canal Detalles).
+- Entidad creada en consolidación T25: [[fernando-herrera]] (×2 con WL-711).
 
 ## Veredicto de triage
 

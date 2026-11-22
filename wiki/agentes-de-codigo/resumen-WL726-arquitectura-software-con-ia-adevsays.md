@@ -1,6 +1,7 @@
 # WL-726 — Arquitectura de Software usando IA — Curso Completo (SDD, ODD, Vertical Slicing, Hexagonal) (aDevSays)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-21-arquitectura-de-software-usando-ia-curso-completo-sdd-odd-vertical-slicing-hexag.md`
+- **Fuente original**: `raw/agentes-de-codigo/2026-11-21-arquitectura-de-software-usando-ia-curso-completo-sdd-odd-vertical-slicing-hexag.md`
+- **Dominio definitivo**: `agentes-de-codigo` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=2p_iy9C5mz0
 - **Canal**: aDevSays (1.ª fuente; directos semanales de desarrollo asistido con IA) · **Publicado**: 2026-11-21 · **Duración**: 44:48 (directo de ~1 h 15) · **Idioma**: es (ASR; garbiñeos normalizados solo aquí; ASR degrada los acrónimos: «SD/Spyra/Spect» = SDD/spec-driven, «vertical slide» = vertical slicing)
 
@@ -24,4 +25,4 @@ Curso en directo sobre arquitectura de software para desarrollo con IA. Tesis ce
 - [[paradoja-jevons-software]] — el coste de tokens por petición como variable de diseño arquitectónico (spec completo vs. spec por módulo).
 - [[limites-de-los-llm]] — degradación con contexto largo y no-determinismo; especificación como mitigación parcial de la alucinación.
 
-Candidatas para consolidación (aplazada): **aDevSays** entidad nueva ×1; hilo «specification gaming» (el test-en-verde de este video suma a WL-709 — 2.ª fuente, umbral ≥2 alcanzado); «el contexto es un recurso finito» como posible extensión de [[limites-de-los-llm]].
+Candidatas para consolidación (aplazada): **aDevSays** entidad nueva ×1; concepto [[specification-gaming]] creado en T25 (el test-en-verde de este video suma a WL-709 — umbral ≥2 alcanzado); «el contexto es un recurso finito» como posible extensión de [[limites-de-los-llm]].

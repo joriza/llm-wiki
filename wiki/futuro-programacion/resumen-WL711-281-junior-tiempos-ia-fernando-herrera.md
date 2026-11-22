@@ -1,6 +1,7 @@
 # WL-711 — 281 junior en tiempos de IA (episodio completo)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-22-281-junior-en-tiempos-de-ia-episodio-completo.md` ([Vídeo](https://www.youtube.com/watch?v=l7xLYdYirRo))
+- **Fuente original**: `raw/futuro-programacion/2026-11-22-281-junior-en-tiempos-de-ia-episodio-completo.md` ([Vídeo](https://www.youtube.com/watch?v=l7xLYdYirRo))
+- **Dominio definitivo**: `futuro-programacion` (consolidación T25, tramo 105)
 - **Canal**: Fernando Herrera (podcast «Detalles», ep. 281 — profesor en línea, 1.ª fuente del canal en la wiki)
 - **Publicado**: 2026-11-22 · **Duración**: 44:37
 - **Fecha de ingesta**: 2026-11-22
@@ -31,7 +32,7 @@ Episodio sin guion («sale de mi corazón») con palabras de aliento y advertenc
 - [[delegacion-cognitiva-ia]]: el dev como director/revisor de la IA, no proxy; el cuello de botella migrando a requisitos y comunicación.
 - [[paradoja-jevons-software]]: «hay más software que nunca» — la generación barata expande la demanda (pulperías con agentes).
 - [[atencion-secuestrada]]: cierre sobre scroll y consumo algorítmico.
-- Consolidación aplazada: Fernando Herrera como entidad candidata (×1); cruce con WL-701 (trabajo junior/IA).
+- Entidad creada en consolidación T25: [[fernando-herrera]] (×2 con WL-716). Cruce con WL-701 (trabajo junior/IA).
 
 ## Veredicto de triage
 

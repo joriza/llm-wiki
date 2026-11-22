@@ -1,6 +1,7 @@
 # WL-735 — Plástico líquido para clonar piezas (Espacio de Cesar)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-20-plastico-liquido-para-clonar-piezas.md`
+- **Fuente original**: `raw/electromecanica/2026-11-20-plastico-liquido-para-clonar-piezas.md`
+- **Dominio definitivo**: `electromecanica` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=uOeMKU7OY1o
 - **Canal**: Espacio de Cesar (3.ª fuente; bricolaje-taller argentino, prueba empírica propia — ver [[espacio-de-cesar]] candidata a entidad, ×3) · **Publicado**: 2026-11-20 · **Duración**: 11:40 · **Idioma**: es rioplatense (ASR; garbiñeos normalizados solo aquí: «Caesar's Space» = Espacio de Cesar)
 
@@ -20,4 +21,4 @@ Reseña-taller del «plástico líquido» para clonar y reparar piezas, con la h
 - Electromecánica/taller: reparación de plásticos con fusión química vs. pegado superficial (línea del dominio electromecanica/taller; sin página de reparación aún — la serie casera del canal ya vive en casa-calefaccion/electromecanica).
 - Hilo casero-vs-comercial: espejo invertido de la serie casera del canal (acetona+estireno, bicarbonato+superbonde) — aquí la recomendación honesta es el producto comercial tras probar el casero.
 
-Candidatas para consolidación (aplazada): **Espacio de Cesar ×3** (FAV-512 detector PI, estufa de aceite, esta) — entidad [[espacio-de-cesar]] supera el umbral ×3 (el censo previo lo tenía como canal de 1 fuente; en realidad suma 2 previas + esta).
+Resuelto en consolidación T25: entidad [[espacio-de-cesar]] creada (×3: FAV-512 detector PI, estufa de aceite, esta — el censo previo lo tenía como canal de 1 fuente).

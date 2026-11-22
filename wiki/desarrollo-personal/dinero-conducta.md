@@ -30,3 +30,7 @@ Siete fuentes independientes convergen en una tesis única: **lo que decide el d
 ## Página de concepto única
 
 Contenido transversal (psicología, finanzas personales, consumo): vive solo aquí; los dominios enlazan con `[[dinero-conducta]]`.
+
+**Actualización 2026-11-24 (consolidación T25, tramo 105)**: WL-741 ([[resumen-WL741-padre-rico-vs-padre-pobre-numeros-fan-de-finanzas]]): el patrón «gurú puesto a prueba con números» — Padre Rico vs Padre Pobre simulado con dos clones (mismo sueldo $2.000/mes, 30 años, crisis año 14): $826k + $2.270/mes pasivo vs. $12k + cero, libertad a los 53 y no a los 30, con seis salvedades incluida la quiebra de Rich Global 2012 y descargo «simulación, no consejo financiero». Refuerza la columna aritmética del concepto (WL-702/704) y aporta la mejor pieza del hilo contra la narrativa de gurú; espejo WL-703.
+
+**Actualización 2026-11-24 (consolidación T25, tramo 105)**: WL-741 ([[resumen-WL741-padre-rico-vs-padre-pobre-numeros-fan-de-finanzas]]): el patrón «gurú puesto a prueba con números» — Padre Rico vs Padre Pobre simulado con dos clones (mismo sueldo $2.000/mes, 30 años, crisis año 14): $826k + $2.270/mes pasivo vs. $12k + cero, libertad a los 53 y no a los 30, con seis salvedades incluida la quiebra de Rich Global 2012 y descargo «simulación, no consejo financiero». Refuerza la columna aritmética del concepto (WL-702/704) y aporta la mejor pieza del hilo contra la narrativa de gurú; espejo WL-703.

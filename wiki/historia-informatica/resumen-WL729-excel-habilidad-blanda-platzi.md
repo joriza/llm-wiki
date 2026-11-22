@@ -1,6 +1,7 @@
 # WL-729 — Por qué Excel es una habilidad blanda (Platzi)
 
-- **Fuente original**: `raw/wl/tramo-105/2024-07-13-por-que-excel-es-una-habilidad-blanda.md`
+- **Fuente original**: `raw/historia-informatica/2024-07-13-por-que-excel-es-una-habilidad-blanda.md`
+- **Dominio definitivo**: `historia-informatica` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=axd8Aoc1ods
 - **Canal**: Platzi (2.ª fuente; plataformas educativas LatAm; es-419 claro) · **Publicado**: 2024-07-13 · **Duración**: 17:21 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí; «plat/platti/latinomericana» = Platzi, «viscal/bical» = VisiCalc)
 
@@ -20,4 +21,4 @@ Ensayo divulgativo en clave humorística con tesis doble: Excel es «la forma en
 - [[historia-de-la-tecnologia]] — VisiCalc→Lotus→Excel→Sheets: cómo gana una categoría de software (integración con el SO dominante).
 - [[limites-de-los-llm]] — lenguaje natural sobre una foto como interfaz de datos: la hoja de cálculo como posible víctima de la IA (y a la vez, los datos crudos como su mejor combustible).
 
-Candidatas para consolidación (aplazada): **Platzi** entidad ×2 confirmadas (WL-31 «88-92 % de trabajos hechos con IA» + esta; canal con dos registros muy distintos); hilo «Excel como infraestructura crítica oculta» (NHS 16.000 casos, Williams F1) — cruce con [[historia-de-la-tecnologia]]; «no saber suficiente» como orgullo inverso al síndrome del impostor.
+Candidatas para consolidación resueltas en T25: entidad [[platzi]] creada (×3 con WL-31 y WL-732); (WL-31 «88-92 % de trabajos hechos con IA» + esta; canal con dos registros muy distintos); hilo «Excel como infraestructura crítica oculta» (NHS 16.000 casos, Williams F1) — cruce con [[historia-de-la-tecnologia]]; «no saber suficiente» como orgullo inverso al síndrome del impostor.

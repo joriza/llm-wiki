@@ -28,3 +28,11 @@ WL-656 ([[resumen-WL656-cobol-codigo-importante-imperios-obsoletos]]) profundiza
 - [[john-backus]] — biografía del creador de FORTRAN.
 - [[margaret-hamilton]] — el Apolo y su código en ensamblador.
 - [[memoria-dos-xms-ems]] — el contexto de hardware de la era Assembly.
+
+## Actualización 2026-11-24 (consolidación T25, tramo 105)
+
+WL-733 ([[resumen-WL733-javascript-historia-10-dias-codea]] — JLuis Codea, canal nuevo ×1) completa el arco con JavaScript: Eich en 9 días (1995), el **naming-marketing** («JavaScript» por la sombra de Java; «gatoperro» hubiese sido igual de válido — cruce con [[la-etiqueta-miente]]), el DOM como interfaz mínima, Ajax/Gmail, jQuery como «estafa en el buen sentido» (capa de compatibilidad que permitió no pelearse con los navegadores), Node/V8 (Ryan Dahl) y la era de frameworks. Encaja el patrón transversal: el lenguaje sobreviviente es el que resolvió el dolor de su era (compatibilidad de navegadores), no el mejor diseñado.
+
+## Actualización 2026-11-24 (consolidación T25, tramo 105)
+
+WL-733 ([[resumen-WL733-javascript-historia-10-dias-codea]] — JLuis Codea, canal nuevo ×1) completa el arco con JavaScript: Eich en 9 días (1995), el **naming-marketing** («JavaScript» por la sombra de Java; «gatoperro» hubiese sido igual de válido — cruce con [[la-etiqueta-miente]]), el DOM como interfaz mínima, Ajax/Gmail, jQuery como «estafa en el buen sentido» (capa de compatibilidad que permitió no pelearse con los navegadores), Node/V8 (Ryan Dahl) y la era de frameworks. Encaja el patrón transversal: el lenguaje sobreviviente es el que resolvió el dolor de su era (compatibilidad de navegadores), no el mejor diseñado.

@@ -1,6 +1,7 @@
 # WL-718 — Lo que 20 flexiones al día le hacen a tu cuerpo (Mr. Creatina)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-07-lo-que-20-flexiones-al-dia-le-hacen-a-tu-cuerpo.md` ([Vídeo](https://www.youtube.com/watch?v=KpO4hWd5zUk))
+- **Fuente original**: `raw/salud-fitness/2026-11-07-lo-que-20-flexiones-al-dia-le-hacen-a-tu-cuerpo.md` ([Vídeo](https://www.youtube.com/watch?v=KpO4hWd5zUk))
+- **Dominio definitivo**: `salud-fitness` (consolidación T25, tramo 105)
 - **Canal**: Mr. Creatina (2.ª fuente del canal)
 - **Publicado**: 2026-11-07 · **Duración**: 10:05
 - **Fecha de ingesta**: 2026-11-24
@@ -26,7 +27,7 @@ Parte hermana del video de sentadillas (WL-717, un día anterior): la fórmula �
 ## Cruces
 
 - Par hermano WL-717 (sentadillas): misma doctrina de dosis mínima diaria y serie al límite — candidatos a página de concepto fitness en consolidación, junto a WL-691 («cuélgate 1 minuto al día»: mismo patrón de dosis diaria mínima con honestidad sobre el marcador).
-- Consolidación aplazada.
+- Entidad creada en consolidación T25: [[mr-creatina]] (×2 con WL-717).
 
 ## Veredicto de triage
 

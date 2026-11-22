@@ -48,3 +48,7 @@ El patrón LLM Wiki / «cerebro compartido» llega a la wiki con cuatro fuentes 
 - **WL-624** ([[resumen-WL624-openclaw-vs-hermes-pelado-nerd]]): comparativa de consumo tras 7 meses con OpenClaw — hallazgo relevante para el patrón: **Hermes crea skills solo** ante tareas repetitivas y las reusa; memoria en archivos .md en ambos; trade-off «lento-transparente vs. rápido-silencioso».
 
 **Síntesis del tramo**: la tesis de WL-620 (el andamiaje caduca, la memoria persistente queda) es el mecanismo que WL-614 describe formalmente (bucle arnés↔entrenamiento) y confirma la predicción de esta página: el patrón LLM Wiki no compite con el modelo — es la capa que sobrevive a las iteraciones del modelo. La implementación de referencia sigue siendo esta misma wiki ([[odd-metodologia]]).
+
+## Actualización 2026-11-24 (consolidación T25, tramo 105)
+
+WL-742 ([[resumen-WL742-llm-wiki-segundo-cerebro-interes-ilustrado]] — El Interés Ilustrado, canal nuevo ×1; garbiñeos ASR señalados: «Andrés Carpati»=Karpathy, «Hitub»=GitHub, «Cloud Code»=Claude Code): demo casera del patrón completa — fuentes procesadas UNA vez en wiki enlazada, consultas solo desde la wiki, Obsidian solo visor, agente de terminal como cerebro (AGENTS.md/skills/workflows), ingesta de YouTube punta a punta y scripts Python sobre fichas. **Tercera confirmación independiente del patrón** que aplica esta misma wiki (tras WL-611/620 y WL-326): el patrón ya se enseña en español para usuarios finales, no solo para desarrolladores.

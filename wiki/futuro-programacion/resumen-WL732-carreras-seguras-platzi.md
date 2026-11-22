@@ -1,6 +1,7 @@
 # WL-732 — Por qué ya no existen las carreras seguras (Platzi)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-21-por-que-ya-no-existen-las-carreras-seguras.md`
+- **Fuente original**: `raw/futuro-programacion/2026-11-21-por-que-ya-no-existen-las-carreras-seguras.md`
+- **Dominio definitivo**: `futuro-programacion` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=X3G2C15azIs
 - **Canal**: Platzi (3.ª fuente; Freddy/Triana — marketing educativo del propio canal con tres menciones Black Friday, señalado) · **Publicado**: 2026-11-21 · **Duración**: 20:24 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí: «Metac» = METR, «Gemini 4 neón/Gemini Lata» = nombres de modelo de época, «CloudCode/Opu 5.5» = Claude Code/Opus, «Rapid» = Rappi)
 
@@ -24,4 +25,4 @@ Ensayo-panorama de Freddy (Platzi) sobre emprender y elegir carrera «en medio d
 - [[brecha-junior-ia]] — «ya no hay carreras seguras», el forward deployed engineer como rol que más se contrata, y la honestidad de «nada te garantiza nada» (eco de WL-711/716).
 - [[historia-de-la-tecnologia]] — motor eléctrico (30 años para rediseñar), Guerra Fría→Keyhole/GPS/Silicon Valley→Rappi como cadena de efectos de segundo orden; Excel en los noventas (WL-729).
 
-Candidatas para consolidación (aplazada): **Platzi ×3** confirmadas (WL-31 + WL-729 + esta; entidad existente a actualizar con nota de intensificación del marketing); «efecto de segundo orden» como concepto potencial del hilo historia-tecnología; «el loop de compañía auto-mejorada» como patrón del hub agentes.
+Candidatas para consolidación resueltas en T25: entidad [[platzi]] creada (×3 con WL-31 y WL-729, con nota de marketing); «efecto de segundo orden» como concepto potencial del hilo historia-tecnología; «el loop de compañía auto-mejorada» como patrón del hub agentes.

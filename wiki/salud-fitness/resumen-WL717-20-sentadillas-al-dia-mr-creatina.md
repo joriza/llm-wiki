@@ -1,6 +1,7 @@
 # WL-717 — Lo que 20 sentadillas al día le hacen a tu cuerpo (Mr. Creatina)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-08-lo-que-20-sentadillas-al-dia-le-hacen-a-tu-cuerpo-gimnasio-y-en-casa.md` ([Vídeo](https://www.youtube.com/watch?v=iacM5xeSvMc))
+- **Fuente original**: `raw/salud-fitness/2026-11-08-lo-que-20-sentadillas-al-dia-le-hacen-a-tu-cuerpo-gimnasio-y-en-casa.md` ([Vídeo](https://www.youtube.com/watch?v=iacM5xeSvMc))
+- **Dominio definitivo**: `salud-fitness` (consolidación T25, tramo 105)
 - **Canal**: Mr. Creatina (1.ª fuente del canal)
 - **Publicado**: 2026-11-08 · **Duración**: 10:55
 - **Fecha de ingesta**: 2026-11-24
@@ -27,7 +28,7 @@ Divulgación fitness con estructura de «cronología interna» (día 1 → 10 a�
 
 - Par hermano con WL-718 (flexiones, mismo canal y fórmula «20 al día», mismo esqueleto de evidencia: frecuencia > volumen, series al límite, Harvard bomberos).
 - Consistencia con la línea fitness existente de la wiki ([[pantallas-y-educacion]] no aplica aquí; cruces fitness a evaluar en consolidación — miniretrospectiva con WL-691 «cuélgate 1 minuto al día»: misma doctrina de dosis mínima diaria).
-- Consolidación aplazada.
+- Entidad creada en consolidación T25: [[mr-creatina]] (×2 con WL-718).
 
 ## Veredicto de triage
 

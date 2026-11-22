@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (canal).
 - **Dominio**: `informatica`.
 - **Creada**: 2026-11-15 (consolidación de la ventana Vs + Docencia T4 — umbral ≥2 verificado por conteo real).
-- **Fuentes**: [[resumen-FAV-437-tantos-lenguajes-de-programacion-gilada]] (por qué tantos lenguajes) · [[resumen-FAV-438-que-es-realmente-internet-gilada]] (qué es realmente internet) · [[resumen-WL313-cobol-lenguaje-1959-dinero-gilada]] (COBOL y el dinero — 3.ª fuente, añadida en T53, 2026-11-16; esta vez con subtítulos manuales y tema único en profundidad en vez de taxonomía narrativa).
+- **Fuentes**: [[resumen-FAV-437-tantos-lenguajes-de-programacion-gilada]] (por qué tantos lenguajes) · [[resumen-FAV-438-que-es-realmente-internet-gilada]] (qué es realmente internet) · [[resumen-WL313-cobol-lenguaje-1959-dinero-gilada]] (COBOL y el dinero — 3.ª fuente, añadida en T53, 2026-11-16; esta vez con subtítulos manuales y tema único en profundidad en vez de taxonomía narrativa) · [[resumen-WL722-limite-fisico-almacenamiento-gilada]] (WL-722, 4.ª fuente, tramo 105: el límite físico del almacenamiento — 218 ZB/año generados vs. ~20-23 ZB fabricados, China 91 % del refinado de tierras raras, data centers 415→945 TWh y la Jevons del almacenamiento; el «enfoque de barrio» aplicado a la infraestructura física del dato).
 - **Ver también**: [[historia-software-corporativa]] (la genealogía de lenguajes cruza con el eje) · dominio `informatica-teoria/` ([[pedro-lino-caceres]] — las redes vistas con laboratorio, el contraste metodológico).
 
 ## Identidad
