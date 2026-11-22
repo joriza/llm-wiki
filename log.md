@@ -4991,3 +4991,6 @@ Fuente 3 (SoftZone): salvaguardas de Claude frenan la descompilación de disposi
 
 ## [2026-11-22] ingesta | Gral/tmp-01 TMP01-004 — DHH deja de escribir código a mano
 Fuente 4 (Computer Hoy): DHH en Rails World 2026 se retira como programador profesional («escribir código a mano ya no es económicamente productivo»); en 37signals los agentes IA son método por defecto («pencils down»); nuevo rol: objetivos, arquitectura y supervisión. Citas sin transcripción enlazada — verificar. Página: wiki/futuro-programacion/resumen-TMP01-004-dhh-deja-programar-manual.md; index.md actualizado.
+
+## [2026-11-22] ingesta | Gral/tmp-01 TMP01-005 — crisis del régimen de la secundaria bonaerense
+Fuente 5 (Infocielo): docentes/directivos/gremios piden revisión del régimen de «trayectorias diversas» (Sileoni/Kicillof): colapso del aula (4-5 planificaciones), crítica al «posmodernismo educativo», SUTEBA: «origami sin papel» y sobreendeudamiento de materias con caída proyectada de titulación (proyección gremial — señalado). Página: wiki/educacion-ia/resumen-TMP01-005-secundaria-bonaerense-regimen-critica.md; index.md actualizado (y corrección del typo «pencills»→«pencils» introducido en TMP01-004).
