@@ -43,14 +43,14 @@ Un contenedor por servicio; compose auditable o app store; volúmenes en el host
 
 ## Recomendación cerrada (2026-11-24, contra la especificación del usuario)
 
-**Spec recibida**: Dell Latitude E7470 (16 GB RAM, SSD 240 GB), 100 Mbps simétricos, **CGNAT** (sin port forwarding); requiere DNS filtrado local+externo (≤10 usuarios), archivos remotos + share público LAN + share privado oculto, multimedia transparente, automatización de torrents/series/subtítulos ES-LatAm, y despliegue agnóstico de apps web públicas (Python/Next.js/React/Go/Rust).
+**Spec recibida**: Dell Latitude E7470 (16 GB RAM, SSD 240 GB), 100 Mbps simétricos, **CGNAT** (sin port forwarding); requiere DNS filtrado local, archivos remotos + share público LAN + share privado oculto, multimedia transparente, automatización de torrents/series/subtítulos ES-LatAm, y despliegue agnóstico de apps web públicas (Python/Next.js/React/Go/Rust).
 
 | Req | Recomendación | Base en la wiki |
 |---|---|---|
 | Base | Ubuntu Server LTS + **Docker Compose** (sin Proxmox: 1 equipo, sin RAM para sobrar; agnóstico por contenedor) | [[docker-homelab]], [[resumen-so-you-want-to-start-self-hosting-proxmox-tailscale]] |
 | Panel | **CasaOS** primero, Portainer al crecer (progresión Enreta) | [[resumen-he-clonado-google-fotos-dropbox-chatgpt-en-local-enreta-domotica]] |
 | 3.1 DNS local | **Pi-hole** como DNS de la LAN | [[pi-hole]] (×3 guías) |
-| 3.1 DNS externo (≤10) | Pi-hole vía **Tailscale** (tailnet privada de 10 nodos, DNS de la tailnet → Pi-hole) — sin puertos, sin IP pública | Tailscale en [[resumen-he-cancelado-servicios-streaming-servidor-domestico-gctech]] y [[resumen-so-you-want-to-start-self-hosting-proxmox-tailscale]] |
+| 3.1 DNS externo (≤10) | ~~RETIRADO POR EL USUARIO (2026-11-24)~~ — queda solo el DNS filtrado local (Pi-hole en LAN) | — |
 | 3.2 Archivos remotos | **Nextcloud** (clientes móvil/escritorio, usuarios autenticados) | Enreta — «el sustituto de Dropbox» |
 | 3.2 Share público LAN | **Samba** anónimo (read-only recomendado); share privado como segundo share Samba no anunciado + ACL por usuario (oculto ≠ seguro solo por ocultamiento) | WL-734 (compartir archivos) — **ACL fina es laguna parcial de la wiki** |
 | 3.3 Multimedia | **Jellyfin** (sin licencia, primera elección del corpus; servidor transparente para clientes LAN) | WL-617 (prefiere Jellyfin sobre Plex), [[resumen-WL734-nube-en-casa-nas-scpc]] (primer contenedor) |
@@ -63,7 +63,7 @@ Un contenedor por servicio; compose auditable o app store; volúmenes en el host
 1. **Es una laptop**: «Raspberry sí, laptop no» (Felipe M.) — consumo 24/7 de una laptop vieja vs. mini PC eficiente; medir antes de decidir (WL-617 midió 70-90 €/año para una torre). La tapa cerrada y la batería son consideraciones prácticas fuera del corpus (verificar en las fuentes de ingesta propuestas).
 2. Transcode multimedia: dimensionar por códecs (Pocho Labs) — con 100 Mbps y clientes LAN el transcoding pesado es improbable, pero verificar códecs del hardware.
 3. Instalar servicios de a uno (conflictos de puertos) y documentar todo (WL-617).
-4. Ahorro = no, soberanía = sí (WL-617) — el caso «10 usuarios DNS externos + apps públicas» es de los que mejor justifican el server.
+4. Ahorro = no, soberanía = sí (WL-617) — el caso «apps públicas propias» es de los que mejor justifican el server.
 
 **Lagunas de la wiki declaradas** (ingesta propuesta antes de implementar): stack de automatización de torrents/series/subtítulos (req 3.4), ACL fina de Samba, operación de laptop como servidor 24/7, comparativa Cloudflare Tunnel vs. alternativas para apps públicas.
 
