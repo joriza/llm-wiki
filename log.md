@@ -4994,3 +4994,13 @@ Fuente 4 (Computer Hoy): DHH en Rails World 2026 se retira como programador prof
 
 ## [2026-11-22] ingesta | Gral/tmp-01 TMP01-005 — crisis del régimen de la secundaria bonaerense
 Fuente 5 (Infocielo): docentes/directivos/gremios piden revisión del régimen de «trayectorias diversas» (Sileoni/Kicillof): colapso del aula (4-5 planificaciones), crítica al «posmodernismo educativo», SUTEBA: «origami sin papel» y sobreendeudamiento de materias con caída proyectada de titulación (proyección gremial — señalado). Página: wiki/educacion-ia/resumen-TMP01-005-secundaria-bonaerense-regimen-critica.md; index.md actualizado (y corrección del typo «pencills»→«pencils» introducido en TMP01-004).
+
+## [2026-11-22] ingesta | Gral/tmp-01 TMP01-006 — SKIP definitivo (inaccesible, 403)
+Fuente 6 (El Confidencial: Dinamarca pinta de rojo las palas de aerogeneradores): fetch devuelve 403 en tres variantes (UA estándar, referer Google + Accept-Language, Googlebot) — anti-bot/paywall. SKIP definitivo sin contenido; no se inventa material. Registrado en el Log del task file.
+
+## [2026-11-22] ingesta | Gral/tmp-01 TMP01-007..010
+- 007 (Minutouno): eliminación de líneas 136/163 del AMBA vía resolución 55/2026 (argentina/economia).
+- 008 (Computer Hoy/How-To Geek): Ubuntu vs Windows 11 en cifras (informatica).
+- 009 (ADSLZone): guía Office 2007 vía Archive.org, abandonware de facto (general).
+- 010 (Decrypt): Gemopus/Jackrong, fine-tune de Gemma 4 estilo Opus, MoE 26B-A4B y E4B edge (ia-local).
+index.md actualizado; commit por fuente.
