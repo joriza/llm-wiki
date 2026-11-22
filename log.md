@@ -5137,3 +5137,6 @@ El usuario pasó la especificación completa (Dell Latitude E7470 16 GB/SSD 240 
 
 ## [2026-11-24] corrección | Retiro del requisito «DNS externo ≤10 usuarios» (3.1 fase 2)
 El usuario retiró del análisis la fase externa del filtrado DNS (3.1). Página decision-home-server.md actualizada: fila de recomendación marcada como RETIRADA (queda solo Pi-hole en LAN); spec recibida y advertencia 4 corregidas en consecuencia. Tailscale sigue recomendado para acceso privado a archivos (req 3.2); Cloudflare Tunnel sigue vigente para apps web públicas (req 3.5).
+
+## [2026-11-24] consulta | Anexo CasaOS vs. Dokploy en decision-home-server
+Consulta del usuario sobre ventajas/desventajas de Dokploy frente a CasaOS, respondida desde la wiki ([[casaos]] ×5 fuentes, [[resumen-desplegar-apps-con-dokploy-nextgen]] ×1, [[docker-homelab]]) y archivada como anexo de wiki/self-hosting/decision-home-server.md: no compiten en la misma capa (tienda de apps doméstica vs. PaaS de despliegue desde Git); Dokploy cubre el req 3.5 (multi-lenguaje, push-deploy, HTTPS) pero no gestiona servicios del hogar; con el hardware de la spec, reverse proxy + túnel primero y Dokploy cuando el deploy por Git sea uso central. Nota: la comparación no existe como página de concepto — candidata si aparece 2.ª fuente de Dokploy.

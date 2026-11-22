@@ -79,3 +79,21 @@ Con esos datos, esta página se actualiza con la recomendación concreta (equipo
 ## Cruces
 
 [[self-hosting]] (hub), [[docker-homelab]], [[pi-hole]], [[casaos]], [[proxmox-homelab]], [[resumen-WL617-servidor-casa-cancelado-pepotech]], [[resumen-WL734-nube-en-casa-nas-scpc]].
+
+## Anexo: CasaOS vs. Dokploy (consulta archivada 2026-11-24)
+
+Comparación directa pedida por el usuario; no existe como página de concepto en la wiki (fuentes: [[casaos]], [[resumen-desplegar-apps-con-dokploy-nextgen]], [[docker-homelab]]).
+
+| | CasaOS | Dokploy |
+|---|---|---|
+| Naturaleza | Capa de ergonomía sobre Docker («no un SO»): app store a un clic, gestión de almacenamiento | PaaS autoalojado tipo Vercel/Heroku: build+deploy desde Git (Nixpacks/Railpack detectan el lenguaje), Swarm + Traefik + Let's Encrypt |
+| Flujo | Catálogo de apps existentes o compose importado | Push a GitHub/Gitea → reconstruye y despliega solo; backups de BD a S3, monitoreo, multi-servidor |
+| Público | Servidor doméstico (media, fotos, DNS, archivos) | Desarrollador que aloja sus apps web |
+| Origen | Hardware propio en casa | VPS (≥2 GB RAM, puertos 80/443/3000, imágenes compiladas en el servidor) |
+| Evidencia en la wiki | 5 fuentes convergentes, roces documentados (catálogo desactualizado, conflictos de puertos) | 1 fuente (NextGen, ×1) |
+
+**Ventajas de Dokploy**: cubre exactamente el requisito 3.5 de la spec (apps web multi-lenguaje con deploy por push y HTTPS automático); capacidades que CasaOS no ofrece (BD gestionadas, backups S3, escalado); sigue siendo agnóstico por abajo (Docker).
+
+**Desventajas**: no gestiona los servicios del hogar (3.1–3.4 seguirían con contenedores manuales/compose); requisitos más altos y compile-en-servidor — costo real con SSD de 240 GB y laptop 24/7 de consumo no medido; evidencia en la wiki mucho menor (×1).
+
+**Síntesis**: no son excluyentes — CasaOS/Portainer para los servicios del hogar, Dokploy como capa de despliegue de apps web (alternativa a NPM/Traefik + túnel, con CI/CD por push de yapa). Para arrancar con este hardware: reverse proxy + túnel; Dokploy cuando el despliegue por Git se vuelva uso central.
