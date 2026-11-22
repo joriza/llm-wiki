@@ -1,6 +1,7 @@
 # WL-737 — Renuncié a mi trabajo: la IA lo cambió todo (Yıldız Dikme)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-10-22-yazlmcym-isten-ayrldm-yapay-zeka-her-seyi-degistirdi.md`
+- **Fuente original**: `raw/futuro-programacion/2026-10-22-yazlmcym-isten-ayrldm-yapay-zeka-her-seyi-degistirdi.md`
+- **Dominio definitivo**: `futuro-programacion` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=0wZu8FPRiEs
 - **Canal**: Yıldız Dikme (1.ª fuente; dev turca full-stack, ~5 años, ahora freelance con empresa propia) · **Publicado**: 2026-10-22 · **Duración**: 13:40 · **Idioma**: es-419 (subtítulos MANUALES; garbiñeos de ASR normalizados solo aquí)
 

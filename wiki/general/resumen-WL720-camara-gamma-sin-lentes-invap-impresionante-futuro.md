@@ -1,6 +1,7 @@
 # WL-720 — Diseñaron una cámara sin lentes para ver lo invisible (Impresionante Futuro)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-20-disenaron-una-camara-sin-lentes-para-ver-lo-invisible.md` ([Vídeo](https://www.youtube.com/watch?v=aGua7GK-0BI))
+- **Fuente original**: `raw/general/2026-11-20-disenaron-una-camara-sin-lentes-para-ver-lo-invisible.md` ([Vídeo](https://www.youtube.com/watch?v=aGua7GK-0BI))
+- **Dominio definitivo**: `general` (consolidación T25, tramo 105)
 - **Canal**: Impresionante Futuro (Jan Furnier) (1.ª fuente del canal)
 - **Publicado**: 2026-11-20 · **Duración**: 10:39
 - **Fecha de ingesta**: 2026-11-24

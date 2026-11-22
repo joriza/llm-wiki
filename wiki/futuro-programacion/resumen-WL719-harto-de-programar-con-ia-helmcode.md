@@ -1,6 +1,7 @@
 # WL-719 — Estoy harto de programar con IA (Helmcode)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-21-estoy-harto-de-programar-con-ia.md` ([Vídeo](https://www.youtube.com/watch?v=l0wvwafjN2k))
+- **Fuente original**: `raw/futuro-programacion/2026-11-21-estoy-harto-de-programar-con-ia.md` ([Vídeo](https://www.youtube.com/watch?v=l0wvwafjN2k))
+- **Dominio definitivo**: `futuro-programacion` (consolidación T25, tramo 105)
 - **Canal**: Helmcode (1.ª fuente del canal)
 - **Publicado**: 2026-11-21 · **Duración**: 13:45
 - **Fecha de ingesta**: 2026-11-24

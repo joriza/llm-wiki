@@ -1,6 +1,7 @@
 # WL-728 — ¿Qué es un perceptrón? Fundamentos de redes neuronales y simulación en Python (Bóson Treinamentos)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-20-o-que-e-um-perceptron-fundamentos-de-redes-neurais-e-simulacao-em-python.md`
+- **Fuente original**: `raw/informatica-teoria/2026-11-20-o-que-e-um-perceptron-fundamentos-de-redes-neurais-e-simulacao-em-python.md`
+- **Dominio definitivo**: `informatica-teoria` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=hd1J6mz8cHU
 - **Canal**: Bóson Treinamentos (1.ª fuente; Fabio dos Santos, divulgación técnica pt/BR) · **Publicado**: 2026-11-20 · **Duración**: 30:56 · **Idioma**: es (ASR sobre voz en español con acento pt-BR; garbiñeos normalizados solo aquí; «BOSCH en entrenamientos» = Bóson Treinamentos)
 

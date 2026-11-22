@@ -1,6 +1,7 @@
 # WL-734 — Tu propia NUBE en casa: Adiós Google Drive, Dropbox e iCloud (SCPC Informática)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-14-tu-propia-nube-en-casa-adios-google-drive-dropbox-e-icloud.md`
+- **Fuente original**: `raw/self-hosting/2026-11-14-tu-propia-nube-en-casa-adios-google-drive-dropbox-e-icloud.md`
+- **Dominio definitivo**: `self-hosting` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=WyqST9B0xMU
 - **Canal**: SCPC Informática (1.ª fuente; guia técnica de hardware/servidores en español, humor constante) · **Publicado**: 2026-11-14 · **Duración**: 28:13 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí: «Lockstor» = Lockestor/ASUSTOR, «Sustor» = Asustor, «NASES» = NASes, «Note» = Node)
 

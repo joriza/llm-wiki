@@ -1,6 +1,7 @@
 # WL-739 — Ser AI Engineer NO va a salvar tu carrera (Tati Sorroche | PensarCoding Academy)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-03-ser-ai-engineer-no-va-a-salvar-tu-carrera-como-programador.md`
+- **Fuente original**: `raw/futuro-programacion/2026-11-03-ser-ai-engineer-no-va-a-salvar-tu-carrera-como-programador.md`
+- **Dominio definitivo**: `futuro-programacion` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=F5-SU5Ot4OA
 - **Canal**: Tati Sorroche | PensarCoding Academy (1.ª fuente; software engineer y mentora de carrera, software factory familiar AI-first) · **Publicado**: 2026-11-03 · **Duración**: 37:16 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí)
 

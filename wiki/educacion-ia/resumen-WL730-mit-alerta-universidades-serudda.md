@@ -1,6 +1,7 @@
 # WL-730 — El MIT acaba de alertar a todas las Universidades (Serudda)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-09-15-el-mit-acaba-de-alertar-a-todas-las-universidades.md`
+- **Fuente original**: `raw/educacion-ia/2026-09-15-el-mit-acaba-de-alertar-a-todas-las-universidades.md`
+- **Dominio definitivo**: `educacion-ia` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=wANICtuUV-Q
 - **Canal**: Serudda (2.ª fuente; divulgación tech es-neutro) · **Publicado**: 2026-09-15 · **Duración**: 12:47 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí; «Chachipitillo Cloud» = ChatGPT/Claude; «pre EA» = pre-era-IA)
 

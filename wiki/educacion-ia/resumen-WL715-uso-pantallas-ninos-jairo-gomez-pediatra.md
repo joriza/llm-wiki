@@ -1,6 +1,7 @@
 # WL-715 — ¡Cuidado con el uso de pantallas en niños! (Jairo Gómez - Tu Pediatra)
 
-- **Fuente original**: `raw/wl/tramo-105/2024-11-12-cuidado-con-el-uso-de-pantallas-en-ninos-jairo-gomez-tu-pediatra.md` ([Vídeo](https://www.youtube.com/watch?v=ZTDKIRcTDHs))
+- **Fuente original**: `raw/educacion-ia/2024-11-12-cuidado-con-el-uso-de-pantallas-en-ninos-jairo-gomez-tu-pediatra.md` ([Vídeo](https://www.youtube.com/watch?v=ZTDKIRcTDHs))
+- **Dominio definitivo**: `educacion-ia` (consolidación T25, tramo 105)
 - **Canal**: Jairo Gómez - Tu Pediatra (pediatra divulgador, 1.ª fuente del canal)
 - **Publicado**: 2024-11-12 · **Duración**: 09:27
 - **Fecha de ingesta**: 2026-11-24

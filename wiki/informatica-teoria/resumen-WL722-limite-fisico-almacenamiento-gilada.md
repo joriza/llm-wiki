@@ -1,6 +1,7 @@
 # WL-722 — El LÍMITE físico de tecnología que nadie quiere ver (Gilada)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-22-el-limite-fisico-de-tecnologia-que-nadie-quiere-ver.md`
+- **Fuente original**: `raw/informatica-teoria/2026-11-22-el-limite-fisico-de-tecnologia-que-nadie-quiere-ver.md`
+- **Dominio definitivo**: `informatica-teoria` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=dqdYoAhuY4M
 - **Canal**: Gilada (4.ª fuente, [[gilada]]) · **Publicado**: 2026-11-21 · **Duración**: 19:55 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí)
 

@@ -1,6 +1,7 @@
 # WL-714 — Lo que las pantallas hacen con el cerebro de los niños (Rafa Guerrero)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-07-26-lo-que-las-pantallas-hacen-con-el-cerebro-de-los-ninos-rafa-guerrero-marimar-veg.md` ([Vídeo](https://www.youtube.com/watch?v=6yD8YHpOX5I))
+- **Fuente original**: `raw/educacion-ia/2026-07-26-lo-que-las-pantallas-hacen-con-el-cerebro-de-los-ninos-rafa-guerrero-marimar-veg.md` ([Vídeo](https://www.youtube.com/watch?v=6yD8YHpOX5I))
+- **Dominio definitivo**: `educacion-ia` (consolidación T25, tramo 105)
 - **Canal**: El Rincón De Los Errores (podcast de Marimar Vega y Efrén Martínez, temporada España, entrevista a **Rafa Guerrero** — psicólogo clínico y educativo, doctor en educación, autor de *Adictos a las pantallas*, su 26.ª publicación; 1.ª fuente de ambos en la wiki)
 - **Publicado**: 2026-07-26 · **Duración**: 51:59
 - **Fecha de ingesta**: 2026-11-24

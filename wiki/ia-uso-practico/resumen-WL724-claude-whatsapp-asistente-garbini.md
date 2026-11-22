@@ -1,6 +1,7 @@
 # WL-724 — Claude + WhatsApp = $12,000/mes (Giuliana Garbini)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-21-claude-whatsapp-12-000-mes.md`
+- **Fuente original**: `raw/ia-uso-practico/2026-11-21-claude-whatsapp-12-000-mes.md`
+- **Dominio definitivo**: `ia-uso-practico` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=cj0_w4NyRgs
 - **Canal**: Giuliana Garbini (1.ª fuente) · **Publicado**: 2026-11-21 · **Duración**: 31:07 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí: «Cloud Code»=Claude Code, «Qualifai»=Coolify, «Chat Wood/Chatfuel»=Chatwoot, «Cloud»=Claude)
 

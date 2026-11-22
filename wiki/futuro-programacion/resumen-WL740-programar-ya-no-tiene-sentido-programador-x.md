@@ -1,6 +1,7 @@
 # WL-740 — ¡PROGRAMAR YA NO TIENE SENTIDO! La IA lo hace TODO (Programador X)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-20-programar-ya-no-tiene-sentido-la-ia-lo-hace-todo.md`
+- **Fuente original**: `raw/futuro-programacion/2026-11-20-programar-ya-no-tiene-sentido-la-ia-lo-hace-todo.md`
+- **Dominio definitivo**: `futuro-programacion` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=klWiHxXC1rk
 - **Canal**: Programador X (1.ª fuente; dev senior → arquitecto, consultor remoto para EE.UU., nómada) · **Publicado**: 2026-11-20 · **Duración**: 25:14 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí: «Cloud Code» = Claude Code, «vive coder»/«VIP coder» = vibe coder, «Sam Oldmond» = Sam Altman)
 

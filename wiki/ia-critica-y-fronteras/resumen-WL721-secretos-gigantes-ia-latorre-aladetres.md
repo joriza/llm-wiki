@@ -1,6 +1,7 @@
 # WL-721 — Los SECRETOS de los GIGANTES de la IA - José Ignacio Latorre | Aladetres 210
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-19-los-secretos-de-los-gigantes-de-la-ia-jose-ignacio-latorre-aladetres-210.md`
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-11-19-los-secretos-de-los-gigantes-de-la-ia-jose-ignacio-latorre-aladetres-210.md`
+- **Dominio definitivo**: `ia-critica-y-fronteras` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=aXpnL_17jmg
 - **Canal**: Aladetres (episodio 210) · **Publicado**: 2026-11-19 · **Duración**: 70:50 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí)
 - **Entrevistado**: José Ignacio Latorre, físico cuántico (ex catedrático UB, MIT/Niels Bohr/CERN; director del Center for Quantum Technologies de Singapur; autor de «Ética para máquinas» y «Gobernar un mundo con inteligencias no humanas»)

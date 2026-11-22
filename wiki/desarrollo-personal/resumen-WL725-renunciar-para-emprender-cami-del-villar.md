@@ -1,6 +1,7 @@
 # WL-725 — Cómo renunciar a tu trabajo para emprender sin desesperarte (Cami del Villar)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-21-como-renunciar-a-tu-trabajo-para-emprender-sin-desesperarte.md`
+- **Fuente original**: `raw/desarrollo-personal/2026-11-21-como-renunciar-a-tu-trabajo-para-emprender-sin-desesperarte.md`
+- **Dominio definitivo**: `desarrollo-personal` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=Xv_PJjnmdy4
 - **Canal**: Cami del Villar / Cami Elissar (1.ª fuente; escritora y mentora de «negocios basados en talentos», marca personal y «negocio lifestyle») · **Publicado**: 2026-11-21 · **Duración**: ~20:00 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí)
 

@@ -1,6 +1,7 @@
 # WL-731 — Por qué el domingo por la noche te da ansiedad (Lo Que Tu Cabeza Calla)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-22-por-que-el-domingo-por-la-noche-te-da-ansiedad-y-como-recuperarlo.md`
+- **Fuente original**: `raw/desarrollo-personal/2026-11-22-por-que-el-domingo-por-la-noche-te-da-ansiedad-y-como-recuperarlo.md`
+- **Dominio definitivo**: `desarrollo-personal` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=GRIiR0ijmk8
 - **Canal**: Lo Que Tu Cabeza Calla (1.ª fuente; divulgación psicológica narrativa en español) · **Publicado**: 2026-11-22 · **Duración**: 05:08 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí: «Gregory Burns» = Gregory Berns, «Borcovet» = Borkovec, «Gruppe y Nietzke» = Grupe y Nitschke)
 

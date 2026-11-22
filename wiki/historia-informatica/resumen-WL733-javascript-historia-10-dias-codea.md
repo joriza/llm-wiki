@@ -1,6 +1,7 @@
 # WL-733 — JavaScript se creó en 10 DÍAS: La Loca Historia que NO te contaron (JLuis Codea)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-01-16-javascript-se-creo-en-10-dias-la-loca-historia-que-no-te-contaron-animacion.md`
+- **Fuente original**: `raw/historia-informatica/2026-01-16-javascript-se-creo-en-10-dias-la-loca-historia-que-no-te-contaron-animacion.md`
+- **Dominio definitivo**: `historia-informatica` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=ZWxPxMAHx0A
 - **Canal**: JLuis Codea (1.ª fuente; divulgación de programación animada en español) · **Publicado**: 2026-01-16 · **Duración**: 05:37 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí: «Nescape» = Netscape, «Brendan H.» = Brendan Eich, «Doom» = DOM, «HTTPRQU» = XMLHttpRequest, «Jaquery/JQY» = jQuery, «B8» = V8, «Ryanel» = Ryan Dahl, «Note/Note JS» = Node.js, «Reactip/View/vespes» = React Native/Vue/Vue.js)
 

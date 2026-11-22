@@ -1,6 +1,7 @@
 # WL-713 — Peligros para el cerebro de la adicción a las pantallas (Instituto Para Padres)
 
-- **Fuente original**: `raw/wl/tramo-105/2023-05-12-peligros-para-el-cerebro-de-la-adiccion-a-las-pantallas-consecuencias-de-adiccio.md` ([Vídeo](https://www.youtube.com/watch?v=qYJmkOWvZ5c))
+- **Fuente original**: `raw/educacion-ia/2023-05-12-peligros-para-el-cerebro-de-la-adiccion-a-las-pantallas-consecuencias-de-adiccio.md` ([Vídeo](https://www.youtube.com/watch?v=qYJmkOWvZ5c))
+- **Dominio definitivo**: `educacion-ia` (consolidación T25, tramo 105)
 - **Canal**: Instituto Para Padres (compilador de divulgación, subtítulos manuales es-419, 1.ª fuente del canal)
 - **Publicado**: 2023-05-12 · **Duración**: 16:13
 - **Fecha de ingesta**: 2026-11-24

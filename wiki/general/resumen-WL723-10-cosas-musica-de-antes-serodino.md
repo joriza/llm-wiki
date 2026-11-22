@@ -1,6 +1,7 @@
 # WL-723 — 10 cosas que tenía la música de antes que desaparecieron (Leandro Serodino)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-09-21-10-cosas-que-tenia-la-musica-de-antes-que-desaparecieron.md`
+- **Fuente original**: `raw/general/2026-09-21-10-cosas-que-tenia-la-musica-de-antes-que-desaparecieron.md`
+- **Dominio definitivo**: `general` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=SF3a6yjr4iE
 - **Canal**: Leandro Serodino (1.ª fuente; músico/productor, proyecto propio «Simioteca») · **Publicado**: 2026-09-20 · **Duración**: 47:26 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí)
 

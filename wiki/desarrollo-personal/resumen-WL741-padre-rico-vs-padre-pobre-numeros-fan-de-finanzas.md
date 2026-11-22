@@ -1,7 +1,8 @@
 # WL-741 — ¿A quién hacerle caso? Padre Rico vs Padre Pobre (según los números)
 
 - **ID**: WL-741 · **Índice del cache**: 33/35 (relevo 7, tramo 105).
-- **Fuente original**: `raw/wl/tramo-105/2026-11-20-a-quien-hacerle-caso-padre-rico-vs-padre-pobre-segun-los-numeros.md` (subtítulos manuales es).
+- **Fuente original**: `raw/desarrollo-personal/2026-11-20-a-quien-hacerle-caso-padre-rico-vs-padre-pobre-segun-los-numeros.md` (subtítulos manuales es).
+- **Dominio definitivo**: `desarrollo-personal` (consolidación T25, tramo 105)
 - **Video**: [¿A quién hacerle caso? Padre Rico vs Padre Pobre (según los números)](https://www.youtube.com/watch?v=q5gwldBRk4A) — **Fan De Finanzas** (canal nuevo ×1), 2026-11-20, 08:29.
 - **Enlaces**: [[dinero-conducta]] · [[la-etiqueta-miente]] · espejo: [[resumen-WL703-parecer-fracasado-carrera-rata-luis-finance]].
 

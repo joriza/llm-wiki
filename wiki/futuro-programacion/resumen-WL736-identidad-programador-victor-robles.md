@@ -1,6 +1,7 @@
 # WL-736 — Renuncié a mi identidad como programador (Victor Robles WEB)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-16-renuncie-a-mi-identidad-como-programador.md`
+- **Fuente original**: `raw/futuro-programacion/2026-11-16-renuncie-a-mi-identidad-como-programador.md`
+- **Dominio definitivo**: `futuro-programacion` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=WGlr2XyeVcQ
 - **Canal**: Victor Robles WEB (1.ª fuente) · **Publicado**: 2026-11-16 · **Duración**: 15:38 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí)
 

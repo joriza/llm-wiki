@@ -1,7 +1,8 @@
 # WL-742 — LLM Wiki: tu segundo cerebro digital
 
 - **ID**: WL-742 · **Índice del cache**: 34/35 (relevo 7 FINAL, tramo 105).
-- **Fuente original**: `raw/wl/tramo-105/2026-04-30-llm-wiki-tu-segundo-cerebro-digital.md` (subtítulos automáticos; garbiñeos ASR señalados abajo, normalizados solo aquí).
+- **Fuente original**: `raw/ia-critica-y-fronteras/2026-04-30-llm-wiki-tu-segundo-cerebro-digital.md` (subtítulos automáticos; garbiñeos ASR señalados abajo, normalizados solo aquí).
+- **Dominio definitivo**: `ia-critica-y-fronteras` (consolidación T25, tramo 105)
 - **Video**: [llm wiki tu segundo cerebro digital](https://www.youtube.com/watch?v=ZRddDLqTXq0) — **El Interés Ilustrado** (canal nuevo ×1), 2026-04-30, 22:44.
 - **Enlaces**: [[obsidian-memoria-agentes]] (página canónica del patrón) · [[agentes-de-codigo]] · espejo: [[resumen-WL611-rsc-brain-llm-wiki-vs-rag-eric-risco]].
 

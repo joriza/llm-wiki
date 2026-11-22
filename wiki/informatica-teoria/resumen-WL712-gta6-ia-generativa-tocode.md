@@ -1,6 +1,7 @@
 # WL-712 — GTA 6: ¿no utiliza inteligencia artificial?
 
-- **Fuente original**: `raw/wl/tramo-105/2026-11-18-gta-6-no-utiliza-inteligencia-artificial.md` ([Vídeo](https://www.youtube.com/watch?v=jAJPc6sgRUo))
+- **Fuente original**: `raw/informatica-teoria/2026-11-18-gta-6-no-utiliza-inteligencia-artificial.md` ([Vídeo](https://www.youtube.com/watch?v=jAJPc6sgRUo))
+- **Dominio definitivo**: `informatica-teoria` (consolidación T25, tramo 105)
 - **Canal**: TodoCode (entidad existente, 4.ª fuente — [[tocode]])
 - **Publicado**: 2026-11-18 · **Duración**: 12:38
 - **Fecha de ingesta**: 2026-11-24

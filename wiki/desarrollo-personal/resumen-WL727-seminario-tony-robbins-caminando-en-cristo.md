@@ -1,6 +1,7 @@
 # WL-727 — Fui a un seminario de Tony Robbins. 9 años después leí lo que escribí (Caminando En Cristo TV)
 
-- **Fuente original**: `raw/wl/tramo-105/2026-09-15-fui-a-un-seminario-de-tony-robbins-9-anos-despues-lei-lo-que-escribi.md`
+- **Fuente original**: `raw/desarrollo-personal/2026-09-15-fui-a-un-seminario-de-tony-robbins-9-anos-despues-lei-lo-que-escribi.md`
+- **Dominio definitivo**: `desarrollo-personal` (consolidación T25, tramo 105)
 - **Video**: https://www.youtube.com/watch?v=a8GnYU0jBDc
 - **Canal**: Caminando En Cristo TV (1.ª fuente; testimonio apologético cristiano con método documental) · **Publicado**: 2026-09-14 · **Duración**: 32:38 · **Idioma**: es (ASR; garbiñeos normalizados solo aquí)
 
