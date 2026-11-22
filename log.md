@@ -5055,3 +5055,7 @@ Ingesta 3/5 del relevo 2 del tramo 105 (índice 8 del cache de 33). Raw intacto 
 ## [2026-11-24] ingesta | WL-719 — Estoy harto de programar con IA (Helmcode)
 
 Ingesta 4/5 del relevo 2 del tramo 105 (índice 9 del cache de 33). Raw intacto → `raw/wl/tramo-105/2026-11-21-estoy-harto-de-programar-con-ia.md`; resumen → `wiki/wl/tramo-105/resumen-WL719-harto-de-programar-con-ia-helmcode.md`; fila en index.md. Ensayo con Alex Vidal: deuda cognitiva, burnout de coordinación, cuello de botella desplazado y el nuevo rol de producto/negocio — la mejor pieza técnica del relevo, espejo del hilo agentes/carreras WL-709/710/711. Cruces: [[delegacion-cognitiva-ia]], [[agentes-de-codigo]], [[paradoja-jevons-software]], [[brecha-junior-ia]]. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
+
+## [2026-11-24] ingesta | WL-720 — Cámara gamma sin lentes (Impresionante Futuro)
+
+Ingesta 5/5 del relevo 2 del tramo 105 (índice 10 del cache de 33). Raw intacto → `raw/wl/tramo-105/2026-11-20-disenaron-una-camara-sin-lentes-para-ver-lo-invisible.md`; resumen → `wiki/wl/tramo-105/resumen-WL720-camara-gamma-sin-lentes-invap-impresionante-futuro.md`; fila en index.md. Física de la gamma no enfocable + INVAP/medicina nuclear + Dragonfly RT biomimético (ojo de libélula). Hilo tecnología argentina a cruzar en consolidación. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
