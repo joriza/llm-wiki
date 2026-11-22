@@ -5035,3 +5035,7 @@ Ingesta 3/5 del relevo 1 del tramo 105 (índice 2 del cache de 32). Raw intacto 
 ## [2026-11-24] ingesta | WL-714 — Pantallas y cerebro infantil (Rafa Guerrero, El Rincón de los Errores)
 
 Ingesta 4/5 del relevo 1 del tramo 105 (índice 3 del cache de 32). Raw intacto → `raw/wl/tramo-105/2026-07-26-lo-que-las-pantallas-hacen-con-el-cerebro-de-los-ninos-rafa-guerrero-marimar-veg.md`; resumen → `wiki/wl/tramo-105/resumen-WL714-pantallas-cerebro-ninos-rafa-guerrero.md`; fila en index.md. Entrevista al autor de Adictos a las pantallas: cuanto más tarde mejor, falso TDAH (humo/fuego), 5 ideas de crianza, aburrimiento/frustración. 2.ª fuente del bloque pantallas → [[pantallas-y-educacion]] candidata fuerte (con WL-713; índice 5 Jairo Gómez sigue en cola). Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
+
+## [2026-11-24] ingesta | WL-715 — Uso de pantallas en niños (Jairo Gómez, Tu Pediatra)
+
+Ingesta 5/5 del relevo 1 del tramo 105 (índice 5 del cache de 32; índice 4 rfRFwXnk660 saltado por dedupe pre-flight como ya procesada, sin contacto YouTube). Raw intacto → `raw/wl/tramo-105/2024-11-12-cuidado-con-el-uso-de-pantallas-en-ninos-jairo-gomez-tu-pediatra.md`; resumen → `wiki/wl/tramo-105/resumen-WL715-uso-pantallas-ninos-jairo-gomez-pediatra.md`; fila en index.md. Consenso pediátrico (AAP/OMS/JAMA) vs. realidad del «nuevo chupete»; tercera fuente del bloque pantallas → [[pantallas-y-educacion]] con umbral sobrado para consolidación. Sin dominios nuevos ni consolidación (aplazada). Commit por fuente.
