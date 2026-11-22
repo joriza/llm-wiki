@@ -21,7 +21,7 @@ Tutorial de primera mano de **Atomic AI** (`github.com/nichonauta/atomicai`, fue
 ## Contexto del clúster (recurrencias del canal)
 
 - Serie de modelos 2B/4B en llama.cpp: Qwen 3.5 4B «supera a Llama 3 mini high en todo» según el autor (2.ª mano/autoevaluación — señalado); KV-cache a Q8 mantiene ~99 % de calidad con la mitad de memoria.
-- Continuidad directa con WL-428/431/432/434/436 (batería Nichonauta) y [[atomic-proxy]] si existiera — el canal llama «proxy atómico» a este patrón desde ia-local (ver estado ia-local 2026-11-11).
+- Continuidad directa con WL-428/431/432/434/436 (batería Nichonauta) y atomic-proxy si existiera — el canal llama «proxy atómico» a este patrón desde ia-local (ver estado ia-local 2026-11-11).
 
 ## Señales de triage
 

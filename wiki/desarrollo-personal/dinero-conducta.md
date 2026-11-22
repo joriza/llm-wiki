@@ -4,7 +4,7 @@
 - **Dominio**: `desarrollo-personal` (núcleo) — transversal con `general/` (finanzas personales) y `estafas-y-consumidor/`.
 - **Creada**: 2026-11-20 (consolidación del tramo 103 — umbral ≥2 muy superado: 7 fuentes verificadas por búsqueda en `wiki/`).
 - **Fuentes**: [[resumen-WL668-no-pensas-igual-cuenta-en-rojo-bilinkis]] (WL-668, Bilinkis: la escasez degrada la cognición) · [[resumen-WL669-psychology-money-behavioral-economics]] (WL-669, economía conductual) · [[resumen-WL671-ricos-de-antes-no-trabajaban-hilos-del-poder]] (WL-671, Veblen/consumo visible) · [[resumen-WL693-propina-pantallas-economia-sin-anestesia]] (WL-693, la propina como sueldo no pagado) · [[resumen-WL702-7-pequenos-gastos-caro-por-dentro]] (WL-702, gastos pequeños automáticos con fuentes reales) · [[resumen-WL703-parecer-fracasado-carrera-rata-luis-finance]] (WL-703, riqueza silenciosa vs. deuda de estatus) · [[resumen-WL704-libertad-financiera-tan-rapido-enerblack]] (WL-704, FIRE/«tu número»).
-- **Ver también**: [[sesgos-de-decision]] · [[comparacion-social]] · [[la-etiqueta-miente]] · [[santiago-bilinkis]] · [[economia-sin-anestesia]] · [[lo-que-nadie-te-enseno-sobre-el-dinero-bilinkis]] (WL-385).
+- **Ver también**: [[sesgos-de-decision]] · [[comparacion-social]] · [[la-etiqueta-miente]] · [[santiago-bilinkis]] · [[economia-sin-anestesia]] · [[resumen-lo-que-nadie-te-enseno-sobre-el-dinero-bilinkis]] (WL-385).
 
 ## El concepto
 

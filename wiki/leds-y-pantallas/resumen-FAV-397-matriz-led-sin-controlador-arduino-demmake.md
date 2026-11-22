@@ -24,6 +24,6 @@ Manejo de una matriz LED 8×8 **sin controlador** (sin MAX7219 ni similar), cone
 
 - Mismo canal: [[resumen-FAV-396-pantallas-oled-arduino-librerias-demmake|Pantallas OLED librerías/ejemplos]] (FAV-396).
 - Matrices LED con controlador/WS2812: [[resumen-FAV-393-controlador-led-ws2812-universal-esp32-c3-marios-ideas|controlador WS2812 universal]] (FAV-393), [[resumen-FAV-375-tira-led-pantalla-16x16-ws2812b-profe-garcia|pantalla 16×16 WS2812B]] (FAV-375).
-- Cubos LED (misma técnica de multiplexado por filas/capas): [[resumen-FAV-398-cubo-led-conexion-pic-profe-garcia|cubo LED al PIC paso a paso]] (FAV-398), [[resumen-FAV-399-big-led-cube-8x8x8|big 8x8x8 cube]] (FAV-399), [[resumen-FAV-400-led-cube-8x8x8-at-home|8x8x8 cube at home]] (FAV-400).
+- Cubos LED (misma técnica de multiplexado por filas/capas): [[resumen-FAV-398-cubo-led-conexion-pic-profe-garcia|cubo LED al PIC paso a paso]] (FAV-398), big 8x8x8 cube (sin resumen en la wiki) (FAV-399), 8x8x8 cube at home (sin resumen en la wiki) (FAV-400).
 
 - **Consolidación (2026-11-15): fuente principal de [[cubos-matrices-led]] y de la entidad [[demmake]].

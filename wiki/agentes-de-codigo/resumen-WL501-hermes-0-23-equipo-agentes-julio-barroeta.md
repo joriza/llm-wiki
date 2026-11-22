@@ -26,7 +26,7 @@ Tutorial demostrativo (con pantalla completa) de la versión **0.23 de Hermes Ag
 ## Cruces
 
 - **agentes-de-codigo / ia-uso-practico**: orquestación multiagente con roles → [[delegacion-cognitiva-ia]], [[agentes-de-codigo]], [[routing-por-coste]] (reparto automático con modelo barato = routing por coste en la práctica, eco WL-346/353); salas con frenos antibucre ↔ context rot (WL-228) y límites de rondas como presupuestos.
-- IaC para agentes ↔ [[infraestructura]]/[[hardware-agentico-mcp-first]]; «un cliente, un Hermes» por aislamiento ↔ seguridad multi-tenant (WL-147: seguridad de montajes locales en capas).
+- IaC para agentes ↔ infraestructura/[[hardware-agentico-mcp-first]]; «un cliente, un Hermes» por aislamiento ↔ seguridad multi-tenant (WL-147: seguridad de montajes locales en capas).
 - Rutinas entre agentes (empresa autónoma) ↔ [[gobernanza-ia]] (quién aprueba: @user como humano en el circuito).
 - Modelos auxiliares baratos para decisiones pequeñas ↔ [[qwen]]/[[inferencia-local]] (par WL-494, misma semana).
 

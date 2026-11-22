@@ -21,7 +21,7 @@ Progresión del ejemplo: función sin parámetros → con 1 parámetro → con 2
 
 ## Dónde encaja en la wiki
 
-Es la lección base de estructuración de código del dominio: el desacoplamiento en funciones/módulos/paquetes es el prerrequisito de todo lo demás — el pipeline de [[automatizacion-con-python]] asume scripts organizados así, y la gestión moderna de paquetes/proyectos con [[resumen-FAV-333-uv-reemplaza-pip]] ([[uv]] vía pyproject.toml) es la evolución de este esquema manual de módulos y `__init__.py`.
+Es la lección base de estructuración de código del dominio: el desacoplamiento en funciones/módulos/paquetes es el prerrequisito de todo lo demás — el pipeline de [[automatizacion-con-python]] asume scripts organizados así, y la gestión moderna de paquetes/proyectos con [[resumen-FAV-333-uv-reemplaza-pip]] (uv vía pyproject.toml) es la evolución de este esquema manual de módulos y `__init__.py`.
 
 ---
 

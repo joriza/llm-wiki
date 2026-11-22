@@ -36,7 +36,7 @@ Micro-lecciones correctas y bien narradas, pero todas de 2.ª mano: los experime
 
 ## Conexiones
 
-- [[lo-que-nadie-te-enseno-sobre-el-dinero-bilinkis]] (WL-385) y WL-668 (estrés financiero): mismo territorio — dinero + psicología; el antídoto «diseño, no voluntad» es compartido; WL-668 agrega el condicionante contextual (escasez).
+- [[resumen-lo-que-nadie-te-enseno-sobre-el-dinero-bilinkis]] (WL-385) y WL-668 (estrés financiero): mismo territorio — dinero + psicología; el antídoto «diseño, no voluntad» es compartido; WL-668 agrega el condicionante contextual (escasez).
 - [[la-etiqueta-miente]] (WL-583/577/541...): el catálogo de trucos de venta (anclaje, opción-trampa, precio cero, pruebas gratis/efecto dotación) es el manual del lado del vendedor.
 - [[atencion-secuestrada]]: ambiente que decide por vos (choice architecture, fricción como herramienta).
 - [[dinero-conducta]] — página de concepto del hilo dinero/conducta (consolidación tramo 103: 7 fuentes).

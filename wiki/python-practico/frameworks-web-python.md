@@ -2,7 +2,7 @@
 
 - **Tipo**: página de concepto (transversal al dominio `python-practico/`).
 - **Actualizado**: 2026-11-15 (consolidación final del lote playlist Python).
-- **Fuentes que la alimentan**: [[resumen-como-funciona-flask-python-mvc]] · [[resumen-creando-una-api-flask-python-super-facil]] · [[resumen-tutorial-flask-framework-de-python]] (Flask ×3) · [[resumen-crea-web-apis-con-python-y-fastapi-paso-a-paso]] · [[resumen-curso-completo-de-python-desde-cero-para-backend]] · [[resumen-fastapi-de-un-script-a-microservicios-en-5-etapas]] (FastAPI ×5) · [[resumen-como-crear-una-web-con-python-desde-cero]] · [[resumen-reactpy-tutorial-aplicaciones-frontend-creadas-con-python]] · [[resumen-fasthtml-el-nuevo-framework-para-crear-webs-con-python]] (frontend todo-Python ×3) · [[resumen-la-masterclass-de-python-django-git-produccion]] (Django ×1).
+- **Fuentes que la alimentan**: [[resumen-como-funciona-flask-python-mvc]] · [[resumen-creando-una-api-flask-python-super-facil]] · [[resumen-tutorial-flask-framework-de-python-para-aplicaciones-web-desde-cero]] (Flask ×3) · [[resumen-crea-web-apis-con-python-y-fastapi-paso-a-paso]] · [[resumen-curso-completo-de-python-desde-cero-para-backend]] · [[resumen-fastapi-de-un-script-a-microservicios-en-5-etapas]] (FastAPI ×5) · [[resumen-como-crear-una-web-con-python-desde-cero]] · [[resumen-reactpy-tutorial-aplicaciones-frontend-creadas-con-python]] · [[resumen-fasthtml-el-nuevo-framework-para-crear-webs-con-python]] (frontend todo-Python ×3) · [[resumen-la-masterclass-de-python-django-git-produccion]] (Django ×1).
 
 ## El espectro, de más a menos «batteries»
 

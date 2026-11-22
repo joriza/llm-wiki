@@ -29,6 +29,6 @@ El experimento «Eko» del MIT (firma de seis investigadores, entre ellos Philli
 
 ## Triage
 
-Divulgación IA de calidad (aunque previa a peer-review — señalado); destino probable en consolidación: `ia-critica-y-fronteras` (autonomía, memoria como habilidad) o `ia-uso-practico/agentes-de-codigo` (Claude Code como sustrato agéntico). Cruces naturales: [[anthropic]], agentes autónomos, [[odd-metodologia]] tangencial.
+Divulgación IA de calidad (aunque previa a peer-review — señalado); destino probable en consolidación: `ia-critica-y-fronteras` (autonomía, memoria como habilidad) o `ia-uso-practico/agentes-de-codigo` (Claude Code como sustrato agéntico). Cruces naturales: anthropic, agentes autónomos, [[odd-metodologia]] tangencial.
 
 - **Página de concepto**: [[agentes-de-codigo]] — evidencia de autonomía de un agente Claude Code sin tarea y del papel de la memoria de ficheros como habilidad; conecta con [[obsidian-memoria-agentes]] (consolidación 2026-11-15).

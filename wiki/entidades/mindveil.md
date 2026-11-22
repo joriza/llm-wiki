@@ -4,7 +4,7 @@
 - **Dominio**: `desarrollo-personal`.
 - **Creada**: 2026-11-16 (consolidación T53 de los tramos 45-47 WL — umbral ≥2 verificado: 3 fuentes en la misma ventana).
 - **Fuentes**: [[resumen-WL302-conversacion-atraccion-mindveil]] (WL-302, conversación) · [[resumen-WL303-comportamiento-atraccion-mindveil]] (WL-303, deseo vs interés) · [[resumen-WL304-comportamientos-atrevidos-mindveil]] (WL-304, cinco comportamientos).
-- **Ver también**: [[franco-pisso]] (comunicación aplicada factual, el contraste del dominio) · WL-131 ([[resumen-WL131-franco-pisso-efecto-foco]]).
+- **Ver también**: [[franco-pisso]] (comunicación aplicada factual, el contraste del dominio) · WL-131 (resumen-WL131-franco-pisso-efecto-foco).
 
 ## El canal
 

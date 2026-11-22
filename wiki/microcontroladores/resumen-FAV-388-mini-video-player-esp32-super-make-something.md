@@ -18,6 +18,6 @@ Proyecto open source de un **mini reproductor de video** con ESP32: reproduce se
 
 ## Cruces
 
-- Pantalla ST7735 1,8" con Arduino Nano: [[resumen-FAV-389-photo-frame-st7735-arduino-nano|photo frame ST7735]] (FAV-389, siguiente fuente) y [[resumen-FAV-371-arduino-desde-cero-tft-ili9341-spi|TFT ILI9341 SPI]] (FAV-371, Bitwise Ar).
+- Pantalla ST7735 1,8" con Arduino Nano: [[resumen-FAV-389-photo-frame-st7735-arduino-nano|photo frame ST7735]] (FAV-389, siguiente fuente) y [[resumen-FAV-371-arduino-desde-cero-cap54-tft-ili9341-bitwise-ar|TFT ILI9341 SPI]] (FAV-371, Bitwise Ar).
 - Reproducir video en microcontroladores: versión casera en OLED con [[resumen-FAV-387-videos-animaciones-oled-electronica-con-piero|Videos y animaciones en OLED]] (FAV-387 — arrays en flash vs aquí MJPEG desde SD) y [[resumen-FAV-380-raspy2dmd-panel-led-matrix-mundo-yakara|Raspy2DMD]] (FAV-380, Linux completo vs aquí microcontrolador).
-- ESP32 como plataforma: [[resumen-FAV-358-esp32-arduino-ide-electronicspot|ESP32 en Arduino IDE]] (FAV-358), [[resumen-FAV-362-arquitectura-esp32-bit-micro-lab|arquitectura del ESP32]] (FAV-362).
+- ESP32 como plataforma: [[resumen-FAV-358-programar-esp32-arduino-electronicspot|ESP32 en Arduino IDE]] (FAV-358), [[resumen-FAV-362-arquitectura-esp32-bit-micro-lab|arquitectura del ESP32]] (FAV-362).

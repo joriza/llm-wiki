@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (herramienta).
 - **Dominio**: `python-practico/`.
 - **Actualizado**: 2026-11-15 (consolidación final del lote playlist Python).
-- **Fuentes**: [[resumen-como-funciona-flask-python-mvc]] (MVC) · [[resumen-creando-una-api-flask-python-super-facil]] (API REST) · [[resumen-tutorial-flask-framework-de-python]] (tutorial integral con Jinja 2/flask-mysqldb).
+- **Fuentes**: [[resumen-como-funciona-flask-python-mvc]] (MVC) · [[resumen-creando-una-api-flask-python-super-facil]] (API REST) · [[resumen-tutorial-flask-framework-de-python-para-aplicaciones-web-desde-cero]] (tutorial integral con Jinja 2/flask-mysqldb).
 
 **Flask** es un microframework web de Python: el corpus lo usa como vehículo para aprender la mecánica web «sin magia» — MVC organizado a mano, rutas con `@app.route(methods=...)`, plantillas **Jinja 2** con herencia, y extensión `flask-mysqldb` para persistencia en el tutorial integral (UskoKruM2010, con dynaconf para la configuración).
 

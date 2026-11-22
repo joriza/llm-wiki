@@ -23,11 +23,11 @@ El **estrés financiero** no es solo un problema económico: es un problema cogn
 
 ## Valoración
 
-Video-essay bien construido (encuesta propia citada varias veces como base, con muestras no detalladas — señalado). Los estudios (India, Nueva Jersey, holandés, Sapolsky) se citan de 2.ª mano sin enlaces — verificar antes de citar cifras. Tono empático, no moralizante: explícitamente anti-culpa («no te apures a criticar al que corre la misma carrera cuesta arriba»). Es la continuación natural de [[lo-que-nadie-te-enseno-sobre-el-dinero-bilinkis]] (WL-385): aquella daba herramientas individuales; esta sostiene que sin contexto, las herramientas no alcanzan.
+Video-essay bien construido (encuesta propia citada varias veces como base, con muestras no detalladas — señalado). Los estudios (India, Nueva Jersey, holandés, Sapolsky) se citan de 2.ª mano sin enlaces — verificar antes de citar cifras. Tono empático, no moralizante: explícitamente anti-culpa («no te apures a criticar al que corre la misma carrera cuesta arriba»). Es la continuación natural de [[resumen-lo-que-nadie-te-enseno-sobre-el-dinero-bilinkis]] (WL-385): aquella daba herramientas individuales; esta sostiene que sin contexto, las herramientas no alcanzan.
 
 ## Conexiones
 
-- [[santiago-bilinkis]] — 8.ª fuente del canal; serie de finanzas junto con [[lo-que-nadie-te-enseno-sobre-el-dinero-bilinkis]] (WL-385).
+- [[santiago-bilinkis]] — 8.ª fuente del canal; serie de finanzas junto con [[resumen-lo-que-nadie-te-enseno-sobre-el-dinero-bilinkis]] (WL-385).
 - Hilo decisiones bajo presión: WL-659 «Tu mejor momento no es a los 20» (mismo canal, ya compilado); [[la-etiqueta-miente]] (el lado del vendedor que aprovecha el túnel).
 - WL-658 (confianza/inestabilidad Argentina): el contexto macro como generador de escasez crónica.
 - [[dinero-conducta]] — página de concepto del hilo dinero/conducta (consolidación tramo 103: 7 fuentes).

@@ -17,4 +17,4 @@ Cómo conectar y programar una **TFT SPI de 2,2" (240×320)** con Arduino Uno, r
 
 ## Cruces
 
-- Pantallas TFT SPI con Arduino: [[resumen-FAV-371-arduino-desde-cero-tft-ili9341-spi|Arduino desde cero cap. 54, TFT ILI9341 SPI]] (FAV-371, Bitwise Ar — mismo controlador ILI9341) y [[resumen-FAV-389-photo-frame-st7735-arduino-nano|photo frame ST7735]] (FAV-389, SPI más el bus SD compartido). La mecánica de bitmaps/conversión de imágenes en pantallas: [[resumen-FAV-384-dibujos-plantillas-pantalla-oled|Dibujos y plantillas OLED]] (FAV-384).
+- Pantallas TFT SPI con Arduino: [[resumen-FAV-371-arduino-desde-cero-cap54-tft-ili9341-bitwise-ar|Arduino desde cero cap. 54, TFT ILI9341 SPI]] (FAV-371, Bitwise Ar — mismo controlador ILI9341) y [[resumen-FAV-389-photo-frame-st7735-arduino-nano|photo frame ST7735]] (FAV-389, SPI más el bus SD compartido). La mecánica de bitmaps/conversión de imágenes en pantallas: [[resumen-FAV-384-dibujos-plantillas-pantalla-oled|Dibujos y plantillas OLED]] (FAV-384).

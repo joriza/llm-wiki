@@ -21,7 +21,7 @@ Ensayo de divulgación económico-histórica sólido para su formato: la sintesi
 
 ## Conexiones
 
-- WL-668 y [[lo-que-nadie-te-enseno-sobre-el-dinero-bilinkis]] (WL-385): hilo finanzas personales de este relevo; WL-671 aporta la lectura estructural-histórica que complementa la psicológica.
+- WL-668 y [[resumen-lo-que-nadie-te-enseno-sobre-el-dinero-bilinkis]] (WL-385): hilo finanzas personales de este relevo; WL-671 aporta la lectura estructural-histórica que complementa la psicológica.
 - WL-669: «ingreso del capital vs. trabajo» es exactamente la dicotomía que la economía conductual organiza por sesgos.
 - WL-664 (12 finales de la IA) y [[paradoja-jevons-software]]: la pregunta «quién posee los activos que producen sin trabajar» reaparece en la automatización.
 - Veblen ↔ [[comparacion-social]]/consumo ostentoso.

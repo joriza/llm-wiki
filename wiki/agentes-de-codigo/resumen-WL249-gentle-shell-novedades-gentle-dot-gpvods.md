@@ -27,7 +27,7 @@ Stream de casi dos horas del canal de vods de Gentleman Programming presentando 
 ## Cruces (en texto plano, candidatas)
 
 - Serie metodología/harness: WL-137 (demo Gentle Shell 4), WL-153 (Gentle Design + stream GP), WL-165 (Harness²), WL-228 (autocompact), WL-214 (agentes de código), WL-247 (MCP vs RAG vs API vs A2A), WL-185 (metodología con IA).
-- Entidades existentes a cablear en consolidación: [[gentleman-programming]], [[odd-metodologia]], [[gentle-shell]] (candidata), [[obsidian-memoria-agentes]].
+- Entidades existentes a cablear en consolidación: [[gentleman-programming]], [[odd-metodologia]], gentle-shell (candidata), [[obsidian-memoria-agentes]].
 - Canal Gentleman Programming Vods: acumula varias fuentes WL (WL-137, WL-249) — entidad de canal ya presente.
 
 ## Dominio destino sugerido (pendiente de consolidación)

@@ -25,7 +25,7 @@ Tercera entrega de la serie Python de MoureDev (tras los cursos de fundamentos y
 ## Valor y contexto
 
 - Es la pieza que completa el arco API del dominio: parte del punto exacto donde termina el tutorial de Open Sessions ([[resumen-crea-web-apis-con-python-y-fastapi-paso-a-paso]]) y añade lo que este no cubría — modelos Pydantic, auth JWT, base de datos real y despliegue.
-- Contraste con los tutoriales de Flask del dominio ([[resumen-como-funciona-flask-python-mvc]], [[resumen-creando-una-api-flask-python-super-facil]], [[resumen-tutorial-flask-framework-de-python]]): misma escala de proyecto, pero con validación por type hints, docs automáticas y servidor ASGI en vez de templates/Jinja.
+- Contraste con los tutoriales de Flask del dominio ([[resumen-como-funciona-flask-python-mvc]], [[resumen-creando-una-api-flask-python-super-facil]], [[resumen-tutorial-flask-framework-de-python-para-aplicaciones-web-desde-cero]]): misma escala de proyecto, pero con validación por type hints, docs automáticas y servidor ASGI en vez de templates/Jinja.
 - El despliegue contrasta con el de la web con Reflex de MoureDev ([[resumen-como-crear-una-web-con-python-desde-cero]]): ahí Vercel + DNS propio, aquí Deta con dominio de la plataforma — dos momentos de la misma preocupación (sacar el proyecto de localhost).
 - Notas de época (2023): Python 3.10/3.11 recién llegados; Deta en su etapa Space (después discontinuada para este uso); Swagger UI/OpenAPI ya estándar.
 - Sin patrocinios; contenido didáctico continuo con promociones del propio canal (repo, Discord, Twitch).

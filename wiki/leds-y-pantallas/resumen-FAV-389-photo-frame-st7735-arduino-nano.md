@@ -18,4 +18,4 @@
 
 ## Cruces
 
-- Misma pantalla ST7735 1,8" con slot SD: [[resumen-FAV-388-mini-video-player-esp32-super-make-something|Open Source Mini Video Player]] (FAV-388, ESP32). Pantallas SPI con Arduino: [[resumen-FAV-371-arduino-desde-cero-tft-ili9341-spi|TFT ILI9341 SPI]] (FAV-371). Pipeline bitmap similar en OLED: [[resumen-FAV-382-oled-ssd1306-arduino-labuhardilla|OLED SSD1306]] (FAV-382) y [[resumen-FAV-384-dibujos-plantillas-pantalla-oled|Dibujos y plantillas OLED]] (FAV-384).
+- Misma pantalla ST7735 1,8" con slot SD: [[resumen-FAV-388-mini-video-player-esp32-super-make-something|Open Source Mini Video Player]] (FAV-388, ESP32). Pantallas SPI con Arduino: [[resumen-FAV-371-arduino-desde-cero-cap54-tft-ili9341-bitwise-ar|TFT ILI9341 SPI]] (FAV-371). Pipeline bitmap similar en OLED: [[resumen-FAV-382-oled-ssd1306-arduino-labuhardilla|OLED SSD1306]] (FAV-382) y [[resumen-FAV-384-dibujos-plantillas-pantalla-oled|Dibujos y plantillas OLED]] (FAV-384).

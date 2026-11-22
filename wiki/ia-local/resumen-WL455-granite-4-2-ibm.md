@@ -34,7 +34,7 @@ Review comparativa de primera mano del **Granite 4.2 3B** de IBM (lanzado días 
 
 ## Cruces
 
-- Batería Nichonauta +1 (WL-428/431/432/434/436/448 y anteriores); [[granite-4]] candidato si aparece otra fuente; [[gemma-4]], [[qwen]], [[inferencia-local]], [[llama-cpp]], [[percepcion-de-regresion-de-modelos]] (+1), [[routing-por-coste]].
+- Batería Nichonauta +1 (WL-428/431/432/434/436/448 y anteriores); granite-4 candidato si aparece otra fuente; [[gemma-4]], [[qwen]], [[inferencia-local]], [[llama-cpp]], [[percepcion-de-regresion-de-modelos]] (+1), [[routing-por-coste]].
 
 ## Veredicto de triage
 

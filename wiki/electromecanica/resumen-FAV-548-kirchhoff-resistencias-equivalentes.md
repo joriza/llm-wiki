@@ -6,7 +6,7 @@
 
 ## Qué cubre
 
-Clase 2 de un curso de teoría de circuitos: **deducción (no memorización)** de las leyes de Kirchhoff y de las resistencias equivalentes serie/paralelo, con ejemplo numérico completo y la solución al clásico problema de las corrientes negativas. Único tema de teoría pura de la carpeta (complemento de [[resumen-FAV-547]]).
+Clase 2 de un curso de teoría de circuitos: **deducción (no memorización)** de las leyes de Kirchhoff y de las resistencias equivalentes serie/paralelo, con ejemplo numérico completo y la solución al clásico problema de las corrientes negativas. Único tema de teoría pura de la carpeta (complemento de resumen-FAV-547).
 
 ## Ideas clave
 

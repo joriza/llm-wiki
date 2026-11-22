@@ -29,7 +29,7 @@ Listicle técnico de 6 utilidades gratuitas para Windows, cada una presentada co
 
 - **[[self-hosting]]/informatica**: utilidades de mantenimiento ↔ WL-364 (autohospedaje), hilo «instalación reproducible» de UniGet UI ↔ [[odd-metodologia]] (gestores de paquetes = as-code).
 - CrystalDiskInfo «no sustituye backups» ↔ [[archivo-del-futuro]] (WL-475: medios que mueren) y el hilo de backups del clúster self-hosting.
-- EarTrumpet/Ditto ↔ [[delegacion-cortesia]]-n/a; más bien patrón «pequeñas molestias diarias» ↔ WL-541 (catálogo por necesidad, no por ranking) y WL-553 (contenido con objetivo).
+- EarTrumpet/Ditto ↔ delegacion-cortesia-n/a; más bien patrón «pequeñas molestias diarias» ↔ WL-541 (catálogo por necesidad, no por ranking) y WL-553 (contenido con objetivo).
 
 ## Veredicto de triage
 

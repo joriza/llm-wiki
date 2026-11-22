@@ -23,7 +23,7 @@ Cableado completo de un cubo LED 4×4×4 (torre de 4 LEDs por piso) a un **PIC16
 ## Cruces
 
 - Mismo canal: [[resumen-FAV-351-que-es-un-fpga-profe-garcia|FPGA]] (FAV-351), [[resumen-FAV-352-rtc-timbre-colegio-profe-garcia|RTC/timbre]] (FAV-352), [[resumen-FAV-375-tira-led-pantalla-16x16-ws2812b-profe-garcia|pantalla 16×16 WS2812B]] (FAV-375), [[resumen-FAV-383-oled-vs-lcd-profe-garcia|OLED vs LCD]] (FAV-383), [[resumen-FAV-384-dibujos-plantillas-pantalla-oled|dibujos OLED]] (FAV-384), [[resumen-FAV-386-protocolo-i2c-maestro-esclavos-profe-garcia|I2C]] (FAV-386).
-- Clúster cubos LED: [[resumen-FAV-397-matriz-led-sin-controlador-arduino-demmake|matriz LED sin controlador]] (FAV-397, mismo multiplexado capas×columnas), [[resumen-FAV-399-big-led-cube-8x8x8|big 8x8x8 cube]] (FAV-399), [[resumen-FAV-400-8x8x8-led-cube-at-home|8x8x8 cube at home]] (FAV-400).
+- Clúster cubos LED: [[resumen-FAV-397-matriz-led-sin-controlador-arduino-demmake|matriz LED sin controlador]] (FAV-397, mismo multiplexado capas×columnas), big 8x8x8 cube (sin resumen en la wiki) (FAV-399), 8x8x8 cube at home (sin resumen en la wiki) (FAV-400).
 - Transistores como conmutadores: [[transistor-bjt]].
 
 - **Consolidación (2026-11-15): fuente de [[cubos-matrices-led]] y de la entidad [[el-profe-garcia]].

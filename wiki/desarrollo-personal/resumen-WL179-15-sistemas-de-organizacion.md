@@ -35,7 +35,7 @@ Marco personal de organización en tres capas — infraestructura, mantenimiento
 ## Cruces
 
 - Productividad/organización personal: el «segundo cerebro» en archivos y la documentación forzada cruzan con [[obsidian-memoria-agentes]] y WL-178 (misma tesis: memoria externa estructurada escala donde la memoria o la disciplina fallan).
-- Los ritmos de revisión estilo Scrum y los OKRs conectan con [[odd-metodologia]] (revisión por tramos, métricas asociadas a objetivos) y con [[gentle-ai]] (sprints de trabajo con agentes).
+- Los ritmos de revisión estilo Scrum y los OKRs conectan con [[odd-metodologia]] (revisión por tramos, métricas asociadas a objetivos) y con gentle-ai (sprints de trabajo con agentes).
 - La idea de «manual de tu propia vida» es homóloga a los perfiles de usuario y constituciones de WL-178 aplicados a una persona en vez de a un proyecto.
 
 ## Notas de triage
