@@ -13,9 +13,29 @@ S3: «Si al verificar la cabeza de algún relevo la lista cambió respecto del c
 - T3 (S1): Relevos 2-3: ingesta fuentes 6-10, relevo en f11, ingesta 11-15, relevo en f16.
 - T4 (S1): Ingesta fuente 16 y cierre: log final, index.md y log.md consistentes.
 
+## Tasks — estado final (2026-11-22)
+
+- T1 (S1): COMPLETADA — fuentes 1-5 ingestadas (TMP01-001..005), commit por fuente.
+- T2 (S2,S3): COMPLETADA — Relevo 1 (tras f5): 16 hijos, mismo orden que el cache → sin cambio.
+- T3 (S1): COMPLETADA — Relevo 2 (tras f10): sin cambio; fuentes 6-10 (6 SKIP 403; 7-10 ingestadas), 11-15 ingestadas; Relevo 3 (tras f15): sin cambio.
+- T4 (S1): COMPLETADA — fuente 16 ingestada (YouTube, subtítulos ASR procesados); index.md y log.md consistentes.
+
 ## Log
 
 L1: «Procesa la carpeta de favoritos de chrome. la carpeta llamada Gral	mp01, en un único sub-agente con relevo cada 5 fuentes. Si al verificar la cabeza de algún relevo la lista cambió respecto del cache, re-listá y seguí desde la nueva cabeza.»
+
+## Registro de procesamiento (final)
+
+- TMP01-001..005: procesadas (educacion-ia ×2, ia-critica-y-fronteras, ia-local, futuro-programacion, educacion-ia).
+- Relevo 1 (tras f5, antes de f6): bookmarks re-leídos — 16 hijos, URLs idénticas en orden al cache → SIN cambio.
+- TMP01-006: **SKIP definitivo** — El Confidencial, fetch 403 en tres variantes (UA estándar; referer Google + Accept-Language; Googlebot). No se inventó contenido.
+- TMP01-007..010: procesadas (argentina/economia, informatica, general, ia-local).
+- Relevo 2 (tras f10, antes de f11): 16 hijos, mismo orden → SIN cambio.
+- TMP01-011..015: procesadas (informatica, ia-local, ia-uso-practico, general, historia-informatica).
+- Relevo 3 (tras f15, antes de f16): 16 hijos, mismo orden → SIN cambio.
+- TMP01-016: procesada (YouTube; transcripción ASR descargada con yt-dlp y procesada; NO archivada en raw/ por límite de superficies del tramo — resumen cita la URL; pendiente de archivado en consolidación).
+- Cache odd/raw-tmp01-cache.json sin cambios durante todo el tramo (ningún relevo detectó diferencia).
+- Nota operativa: el commit de TMP01-001 (c90acc6f, `git add -A`) incluyó por error el archivo pre-modificado `pdt-llm-wiki.md` (fuera de las superficies autorizadas); commits siguientes usaron paths explícitos. Decisión de revertir o conservar: del orquestador.
 
 ## Cache inicial (16 fuentes, cabeza de relevo = cada 5)
 
