@@ -114,6 +114,7 @@ function buildIndex() {
     "",
     "Vista de presentación; los dominios siguen siendo carpetas.",
     "",
+    "- **Investigación principal: [[educacion-ia-hub]]** (Educación e IA, con su [[sintesis-educacion-ia|síntesis viva]])",
     "- [[hubs-ia]] — IA",
     "- [[hubs-electronica-y-energia]] — Electrónica y energía",
     "- [[argentina]] — Argentina",
