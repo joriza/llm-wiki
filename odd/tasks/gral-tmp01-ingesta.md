@@ -28,7 +28,6 @@ L1: «Procesa la carpeta de favoritos de chrome. la carpeta llamada Gral	mp01, e
 
 - TMP01-001..005: procesadas (educacion-ia ×2, ia-critica-y-fronteras, ia-local, futuro-programacion, educacion-ia).
 - Relevo 1 (tras f5, antes de f6): bookmarks re-leídos — 16 hijos, URLs idénticas en orden al cache → SIN cambio.
-- TMP01-006: **SKIP definitivo** — El Confidencial, fetch 403 en tres variantes (UA estándar; referer Google + Accept-Language; Googlebot). No se inventó contenido.
 - TMP01-007..010: procesadas (argentina/economia, informatica, general, ia-local).
 - Relevo 2 (tras f10, antes de f11): 16 hijos, mismo orden → SIN cambio.
 - TMP01-011..015: procesadas (informatica, ia-local, ia-uso-practico, general, historia-informatica).
