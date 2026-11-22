@@ -5004,3 +5004,11 @@ Fuente 6 (El Confidencial: Dinamarca pinta de rojo las palas de aerogeneradores)
 - 009 (ADSLZone): guía Office 2007 vía Archive.org, abandonware de facto (general).
 - 010 (Decrypt): Gemopus/Jackrong, fine-tune de Gemma 4 estilo Opus, MoE 26B-A4B y E4B edge (ia-local).
 index.md actualizado; commit por fuente.
+
+## [2026-11-22] ingesta | Gral/tmp-01 TMP01-011..015
+- 011 (SoftZone): 4 SO open source sin Linux — Haiku/ReactOS/FreeBSD/AROS (informatica).
+- 012 (Play Store): Liquid Apollo — LLMs locales en el celular vía LEAP (ia-local; fuente corta = descripción oficial).
+- 013 (iProfesional): Adminiad — facturas por foto con IA para comercios (+700, San Luis) (ia-uso-practico).
+- 014 (TyC Sports): Omnispace licencia ENACOM, satelital 5G directo a celular; titular sensacionalista («murió Starlink») señalado (general).
+- 015 (Hipertextual): Microsoft libera 6502 BASIC en GitHub (historia-informatica).
+index.md actualizado; commit por fuente.
