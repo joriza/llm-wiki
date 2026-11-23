@@ -54,7 +54,7 @@ Un contenedor por servicio; compose auditable o app store; volúmenes en el host
 | 3.2 Archivos remotos | **Nextcloud** (clientes móvil/escritorio, usuarios autenticados) | Enreta — «el sustituto de Dropbox» |
 | 3.2 Share público LAN | **Samba** anónimo (read-only recomendado); share privado como segundo share Samba no anunciado + ACL por usuario (oculto ≠ seguro solo por ocultamiento) | WL-734 (compartir archivos) — **ACL fina es laguna parcial de la wiki** |
 | 3.3 Multimedia | **Jellyfin** (sin licencia, primera elección del corpus; servidor transparente para clientes LAN) | WL-617 (prefiere Jellyfin sobre Plex), [[resumen-WL734-nube-en-casa-nas-scpc]] (primer contenedor) |
-| 3.4 Torrents/series/subs | **LAGUNA DE LA WIKI**: el corpus no cubre el stack de automatización de descargas (gestor torrent, monitoreo de series, subtítulos automáticos). No se recomienda por conocimiento externo (modo consulta): se propone ingesta de fuentes sobre ese stack antes de fijar componentes | — |
+| 3.4 Torrents/series/subs | **RESUELTA (WL-743)**: stack *arr — Prowlarr (indexadores) + Radarr/Sonarr (gestores) + qBittorrent + Jellyfin, todo en Docker Compose con `.env` compartido y rutas consistentes. Regla de hardlinks: `downloads` del cliente y carpetas de los gestores en el MISMO medio montado para no duplicar contenido — condiciona el layout del almacenamiento secundario | [[resumen-WL743-servidor-multimedia-stack-arr-jonatan-castro]] (subtítulos automáticos ES-LatAm sigue sin cobertura) |
 | 3.5 Apps web | Contenedor por app + **reverse proxy** (Nginx Proxy Manager o Traefik según comfort) expuesto por **Cloudflare Tunnel** (solo lectura, sin IP pública; el túnel resuelve el CGNAT) | NPM en catálogo 15; Traefik/Compose en Delalande/Dokploy ([[resumen-desplegar-apps-con-dokploy-nextgen]]) |
 | CGNAT (todo lo externo) | **Tailscale** para privado (archivos, DNS de tailnet) + **Cloudflare Tunnel** para público (apps web). Sin port forwarding en ningún caso | Ambos cubiertos en el dominio |
 | 240 GB SSD | SO+apps en el SSD; contenido multimedia en almacenamiento secundario (HDD externo o futura NAS — WL-734: precio/TB manda; «una NAS de 2.000 € para usarla como disco de red es un disco de red de 2.000 €»). Backups 3-2-1 obligatorios | WL-734, WL-617 |
@@ -65,7 +65,7 @@ Un contenedor por servicio; compose auditable o app store; volúmenes en el host
 3. Instalar servicios de a uno (conflictos de puertos) y documentar todo (WL-617).
 4. Ahorro = no, soberanía = sí (WL-617) — el caso «apps públicas propias» es de los que mejor justifican el server.
 
-**Lagunas de la wiki declaradas** (ingesta propuesta antes de implementar): stack de automatización de torrents/series/subtítulos (req 3.4), ACL fina de Samba, operación de laptop como servidor 24/7, comparativa Cloudflare Tunnel vs. alternativas para apps públicas.
+**Lagunas de la wiki declaradas** (ingesta propuesta antes de implementar): ~~stack de automatización de torrents/series/subtítulos (req 3.4)~~ RESUELTA por WL-743 (tramo 106; subtítulos automáticos sigue abierto), ACL fina de Samba, operación de laptop como servidor 24/7, comparativa Cloudflare Tunnel vs. alternativas para apps públicas.
 
 ## Pendientes originales (resueltas con la spec)
 
