@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (canal/persona — Pablo).
 - **Dominio**: `self-hosting/`.
 - **Creada**: 2026-11-17 (consolidación T6, tramo 98 — umbral ≥2: 4 fuentes).
-- **Fuentes**: [[resumen-WL278-vibecoding-kimchi-pelado-nerd]] (`agentes-de-codigo/`) · [[resumen-bloquea-ads-malware-pi-hole-pelado-nerd]] y [[resumen-WL343-link-shortener-pelado-nerd]] (`self-hosting/`) · [[resumen-WL624-openclaw-vs-hermes-pelado-nerd]] (tramo 98, en `wl/` — comparativa de agentes personales tras 7 meses de OpenClaw) · [[resumen-WL747-isp-bittorrent-pelado-nerd]] y [[resumen-WL750-jellyfin-radarr-sonarr-pelado-nerd]] (tramo 106, en `wl/` — BitTorrent cifra pero no anonimiza; migración al stack *arr con Jellyfin y veredicto honesto Jellyfin-vs-Plex).
+- **Fuentes**: [[resumen-WL278-vibecoding-kimchi-pelado-nerd]] (`agentes-de-codigo/`) · [[resumen-bloquea-ads-malware-pi-hole-pelado-nerd]] y [[resumen-WL343-link-shortener-pelado-nerd]] (`self-hosting/`) · [[resumen-WL624-openclaw-vs-hermes-pelado-nerd]] (tramo 98, en `wl/` — comparativa de agentes personales tras 7 meses de OpenClaw) · [[resumen-WL747-isp-bittorrent-pelado-nerd]] y [[resumen-WL750-jellyfin-radarr-sonarr-pelado-nerd]] y [[resumen-WL751-apps-servidores-pelado-nerd]] (tramo 106, en `wl/` — BitTorrent cifra pero no anonimiza; migración al stack *arr con Jellyfin y veredicto honesto Jellyfin-vs-Plex; inventario 2022 de sus Raspberry — el documento histórico del stack FlexGet que WL-750 abandona).
 
 ## Identidad
 
