@@ -1,14 +1,15 @@
 # Ingesta WL fresca (post-vaciado) — cabeza en vivo
 
 ## Allowed edit surfaces
-raw/wl/
-wiki/wl/
+raw/wl/**
+wiki/wl/**
 index.md
 log.md
-.atl/scratch/
+.atl/scratch/**
 .atl/salidas.md
-odd/tasks/
+odd/tasks/ingesta-wl-fresca.md
 
+## Contexto
 Ingesta de la lista WL de YouTube tras el vaciado total de 2026-11-17: 22 entradas únicas (cache fresco `.atl/scratch/playlist-ver-mas-tarde.json`, refresh 2026-11-17, cabeza `scuLj28t83k`). Un único subagente (`gentle-ai-worker`, esfuerzo low) con relevo cada 5 fuentes útiles; el orquestador verifica la cabeza de la lista al cierre de cada relevo: si cambió respecto del cache, re-lista, reemplaza el cache y el relevo siguiente arranca desde la nueva cabeza.
 
 ## Specs
@@ -74,8 +75,14 @@ Ingesta de la lista WL de YouTube tras el vaciado total de 2026-11-17: 22 entrad
 - L16: VERIFICACIÓN DE CABEZA (2026-11-20, tras relevo 1): la cabeza CAMBIÓ de nuevo — entró `snyVpalf6ho` («DevTalles 279: 40 términos de ai que todo dev debe conocer») en el índice 0; cache re-listado → **33 entradas** (backup `.bak2` del cache de 32). Relevo 2 arranca desde la nueva cabeza por S3.
 - L17: VERIFICACIÓN DE CABEZA (2026-11-20, tras relevo 3): la cabeza CAMBIÓ otra vez — entró `2p_iy9C5mz0` en el índice 0; cache re-listado → **34 entradas** (backup `.bak3`). Relevo 4 arranca desde la nueva cabeza por S3 (índices 1-16 ya procesados con marcador; primera útil nueva después de la 0: `a8GnYU0jBDc`, ahora índice 17).
 - L18: VERIFICACIÓN DE CABEZA (2026-11-20, tras relevo 4): la cabeza CAMBIÓ — entró `GRIiR0ijmk8` en el índice 0 (resto desplazado +1, solo inserción); cache re-listado → **35 entradas** (backup `.bak4`). Relevo 5 arranca desde la nueva cabeza por S3.
+- L19: NUEVA RONDA (2026-11-24, pedido L1 verbatim): refresh del orquestador (yt-dlp, cookies Firefox) → **11 entradas, TODAS sin marcador** (cabeza `t1RWOydFWy8` «How to watch free movies with your own media server suite stack *arr»; cache de 35 del tramo 105 reemplazado, backup `.bak-tramo105`). Temas: self-hosting/media server (índices 0, 7, 8), arbitraje P2P/impuestos Argentina (1, 2), ESP32/BitTorrent (3, 4), Python (5), despliegue SaaS (6), gallinero (9), cisterna (10). El dedupe contra raw/ confirma dentro del runner. Tramo 106, numeración desde **WL-743**, 3 relevos de 5 (5+5+1). Push NO pedido esta ronda (el usuario no lo incluyó).
 
-## Tasks (tramo 105)
+## Tasks (tramo 106)
+
+- T26 (S1-S5, worker, commit): Tramo 106 — 11 entradas del cache fresco de 11 (cabeza `t1RWOydFWy8`), relevos de 5 (5+5+1), numeración desde WL-743, verificación de cabeza al cierre de cada relevo; cierre con lectura-tramo106.md.
+  - **COMPLETADO 2026-11-24 — RELEVO 1** (cabeza verificada por el orquestador en el refresh L19; índice 0 = `t1RWOydFWy8` ✓; las 11 sin marcador — el dedupe contra raw/ las confirmó todas nuevas): 5/5 útiles, 0 skips — WL-743 t1RWOydFWy8 (0, Jonatan Castro ×1: stack *arr en 4 capas — Prowlarr → Radarr/Sonarr → qBittorrent → Jellyfin/Plex — en Docker Compose con `.env` compartido; hardlinks (mismo medio montado) para no duplicar y búsqueda en español vía perfil de calidad de Radarr; **CIERRA LA LAGUNA req 3.4 de decision-home-server**; cruza [[self-hosting]], espejo WL-734) `e0cf210f`, WL-744 Pfkk72h8J3E (1, Santiago Amat ×1: rentabilidad del arbitraje P2P — «depende» argumentado, universo combinatorio plataformas × divisas × pagos × condición fiscal, la brecha se autodestruye, rulo multi-divisa + bot detector; cableado honesto vacío, hilos «brecha autodestructiva» y fiscalidad cripto AR como candidatas) `ebaa70ac`, WL-745 H--ga6ZJ8DM (2, Lara Catán ×1 + contador Sergio: el ángulo fiscal del hilo — cedular 15 % con mínimo no imponible, origen de fondos como DOCUMENTO no relato, habitualidad → comerciante, caja negra bancaria (Brubank/Naranja X sensibles); par directo con WL-744; cruza [[la-etiqueta-miente]], [[dinero-conducta]]) `c3101b0a`, WL-746 3pLG1FhKCFk (3, Soy Prototipo Cero ×1, subtítulos MANUALES es-419: duelo ESP32 vs. Arduino en 5 puntos con datasheet — ADC2 muere con WiFi, consumo real de placa ~4 mA dormida vs. 10 µA del chip, touch capacitivo, 5 V quema; giro final: la Uno R4 WiFi lleva ESP32-S3 adentro; cableado a FAV-359/353/349, [[esp32]] candidata a concepto ≥10 fuentes del dominio) `89117f6b`, WL-747 hkA85I5m7xo (4, Pelado Nerd 5.ª fuente — [[pelado-nerd]] a ×5: BitTorrent cifra pero no anonimiza, demo en vivo de iknowwhatyoudownload.com con su IP real, veredicto «no tiene solución»; cruza [[self-hosting]]/[[pi-hole]], tangencial WL-743) `31c9397a` (cada commit incluye raw+resumen+fila index+línea log; WL-743 añadió update de decision-home-server.md y WL-747 de pelado-nerd.md en su commit). Último ID procesado: `hkA85I5m7xo` (índice 4 del cache de 11); cabeza futura: `cM4HJXWDNeU` (índice 5, «5 Librerías de Python») — relevo 2 con índices 5-9 (5 útiles), relevo 3 final con índice 10. Egress: **ROTÓ al iniciar** — EXIT-ROTATED 104.28.199.112 → 45.239.32.215 (contador de presupuesto acumulado ≥5 de sesiones previas; PROBE-OK del runner) + TypeError del runner ante el cache nuevo en formato envuelto `{playlist,refreshed,entries}` (reparado: normalizado a lista plana, mismos 11 datos; incidente documentado en salidas.md). Sin 429, sin BUDGET-REACHED (presupuesto suave 5 lanzado desde contador 0, nunca alcanzado; esperas efectivas de puerta 20-53 s). lectura-tramo106.md creada; salidas.md appendeada (.atl/ gitignored, sin commit). SIN dominios nuevos (S4); sin candidatas nuevas a baja; consolidación aplazada (hilos: arbitraje P2P completo con WL-744+745, [[esp32]] ≥10, fiscalidad cripto AR, brecha autodestructiva).
+
+## Log
 
 - T24 (S1-S5, worker, commit): Tramo 105 — 29+1 útiles (cabeza re-verificada: `snyVpalf6ho` nueva en índice 0 tras relevo 1), relevos de 5, numeración desde WL-711, verificación de cabeza al cierre de cada relevo; cierre con lectura-tramo105.md.
   - **COMPLETADO 2026-11-20 — RELEVO 1** (desde cache de 32, cabeza `l7xLYdYirRo` ✓): 5/5 útiles, 1 skip-duplicate (índice 4 `rfRFwXnk660`, sin contacto YouTube) — WL-711 `l7xLYdYirRo` (0) `3b5d90a0`, WL-712 `jAJPc6sgRUo` (1) `f338b7d6`, WL-713 `qYJmkOWvZ5c` (2) `6daffed3`, WL-714 `6yD8YHpOX5I` (3) `9bb5b894`, WL-715 `ZTDKIRcTDHs` (5) `a95aecff`. Egress WARP 104.28.199.112, 0×429; cableado mínimo a hubs existentes; candidata a concepto [[pantallas-y-educacion]] (×3) para consolidación. Numeración continúa en **WL-716**.
