@@ -3,7 +3,7 @@
 - **Tipo**: página de entidad (canal).
 - **Dominio**: `informatica-teoria`.
 - **Creada**: 2026-11-14 (consolidación diferida de los tramos 4-7 del backlog «Ver más tarde»; 2 fuentes en el corpus con ≥2 apariciones).
-- **Fuentes**: [[resumen-WL055-gus-lenguaje-sin-heap]] (WL-55 — Gus, el lenguaje sin heap/GC/lifetimes de van Oortmerssen) · [[resumen-WL092-microsoft-azure-linux]] (WL-92 — Azure Linux 4.0 basado en Fedora y Coreutils-Rust sobre uutils) · [[resumen-WL315-mdm-vs-idm-ia-ingenieria-inversa-el-bit-informado]] (WL-315 — declive de IDM ante MDM y la ingeniería inversa asistida por IA; añadida en T53, 2026-11-16, 3.ª fuente).
+- **Fuentes**: [[resumen-WL055-gus-lenguaje-sin-heap]] (WL-55 — Gus, el lenguaje sin heap/GC/lifetimes de van Oortmerssen) · [[resumen-WL092-microsoft-azure-linux]] (WL-92 — Azure Linux 4.0 basado en Fedora y Coreutils-Rust sobre uutils) · [[resumen-WL315-mdm-vs-idm-ia-ingenieria-inversa-el-bit-informado]] (WL-315 — declive de IDM ante MDM y la ingeniería inversa asistida por IA; añadida en T53, 2026-11-16, 3.ª fuente) · [[resumen-WL756-linux-mint-abandona-gnome-el-bit-informado]] (WL-756 — Linux Mint 27 y el reemplazo planificado de las apps GNOME: Clockenstein/Superlight/Velocity; 4.ª fuente, 2026-11-24).
 - **Ver también**: [[lenguaje-rust]] · [[historia-lenguajes-programacion]] · [[reglas-cableadas-vs-programadas]].
 
 ## El canal
