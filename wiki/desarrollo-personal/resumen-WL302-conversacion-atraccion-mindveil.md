@@ -23,5 +23,5 @@ Contenido de desarrollo personal / seducción suave, sin base empírica citada y
 
 ## Cruces y notas
 
-- Cruces: cluster de comunicación y psicología aplicada (WL-131 Franco Pisso / efecto foco, WL-139 inteligencia mecánica — Claridad Mental); dominio definitivo: desarrollo-personal — entidad de canal creada en la consolidación: [[mindveil]].
+- Cruces: cluster de comunicación y psicología aplicada (WL-131 Franco Pisso / efecto foco, WL-139 inteligencia mecánica — Claridad Mental); dominio definitivo: desarrollo-personal — entidad de canal creada en la consolidación: [[mindveil]]. Espejo directo: [[resumen-WL768-disfruten-hablar-contigo-arturo-moron]] (Arturo Morón, tramo 108) — cinco reglas de conversación con demos reales que convergen con este video en presencia, silencio no rellenado y cierre en lo alto.
 - Canal MINDVEIL sin presencia previa en la wiki (1.ª fuente — umbral <2, texto plano).

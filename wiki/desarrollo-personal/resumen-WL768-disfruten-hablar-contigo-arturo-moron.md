@@ -18,5 +18,5 @@ Tesis central: la «labia infinita» **no es tener mil temas preparados ni frase
 ## Observaciones
 
 - Descargo honesto final: «ninguna de estas cinco cosas es un truco ni depende de tu cara, físico o altura — tu problema no lo vas a arreglar viendo otro vídeo». El cierre deriva en venta de su programa de coaching (excluido de la síntesis como autopromoción).
-- Espejo directo de **WL-302** ([[resumen-WL302-conversacion-atraccion-mindveil]], Mindveil: conversación/atracción) y cercano a WL-303/304 del mismo bloque Mindveil — mismo género de coaching social con interacciones demostradas; afinidad anotada para la consolidación aplazada.
-- Cableado honesto vacío más allá del espejo: sin páginas de concepto existentes sobre conversación/social en la wiki.
+- Espejo directo de **WL-302** ([[resumen-WL302-conversacion-atraccion-mindveil]], Mindveil: conversación/atracción) — mismo género de coaching social con interacciones demostradas; los dos videos convergen en lo mismo desde ángulos distintos: presencia frente al guion de preguntas, no rellenar el silencio, cortar/soltar en lo alto; WL-302 sin base empírica y con generalizaciones de género (señalado), WL-768 con demos reales filmadas y el mismo cierre honesto «no se arregla viendo otro vídeo».
+- Cableado honesto más allá del espejo: sin páginas de concepto existentes sobre conversación/social en la wiki (los cruces WL-131/139 de WL-302 cubren comunicación, no atracción).

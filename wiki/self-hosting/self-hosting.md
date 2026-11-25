@@ -34,3 +34,9 @@ WL-734 ([[resumen-WL734-nube-en-casa-nas-scpc]] — SCPC Informática, canal nue
 ## Actualización 2026-11-24 (consolidación T25, tramo 105)
 
 WL-734 ([[resumen-WL734-nube-en-casa-nas-scpc]] — SCPC Informática, canal nuevo ×1, sin patrocinio ni afiliación: honestidad inusual): el NAS como «alquiler permanente de tus propios archivos» resuelto en casa — RAID ≠ backup con regla 3-2-1 (la misma lección de WL-617), marco de decisión honesto (qué conviene en nube y qué no) y demo punta a punta en Asustor con Jellyfin como primer contenedor Docker (la misma progresión ergonómica del dominio: panel simple primero). Refuerza el pilar 4 (crítica de la nube) con una voz que recomienda también dónde NO self-hostear.
+
+## Actualización 2026-11-24 (consolidación T32, tramo 108)
+
+WL-769 ([[resumen-WL769-14-apps-docker-danycode]] — DanyCode ×1, serie Docker parte 1/2: promete 14 apps, cubre 10, título inflado señalado; parte 2 aún no procesada): el catálogo en español del stack clásico — Jellyfin, Frigate, AdGuard Home, Nginx Proxy Manager, Pterodactyl, Watchtower («no le des las llaves de la casa»: la única advertencia de riesgo real), Compose, Portainer, Nextcloud, Uptime Kuma — converge con el catálogo de VirtualizationHowto en el mismo patrón (un contenedor por servicio, panel visual primero). Refuerza [[docker-homelab]] y cruza [[pi-hole]] (AdGuard Home como hermano del DNS-bloqueo) y [[decision-home-server]].
+
+WL-770 ([[resumen-WL770-teledrive-nube-telegram-compucenter33]] — Compucenter33 ×1): la contracara del dominio — TeleDrive usa Telegram como «nube infinita y gratis» (login QR, límite 2 GB por archivo con workaround WinRAR). Es lo contrario del self-hosting: un truco sobre la plataforma de un tercero, con riesgo ToS no garantizado a futuro y el propio canal recomendándola solo para datos prescindibles. Refuerza el pilar 4 (crítica de la nube) desde el contraejemplo, en la línea de WL-734.

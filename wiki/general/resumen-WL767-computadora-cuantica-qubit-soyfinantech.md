@@ -21,5 +21,5 @@ Microlección de 3 minutos sobre computación cuántica con metáforas cotidiana
 ## Observaciones
 
 - Formato divulgativo con guion de marketing (deriva a reportaje externo y suscripción) pero el núcleo técnico es correcto para 3 minutos y el descargo «la cuántica no sirve para Excel» es una honestidad rara en el género.
-- Afín a [[resumen-WL198-fisica-cuantica-explicacion-completa]] (divulgación cuántica en general/); sin página de computación cuántica dedicada — candidata para la consolidación aplazada.
+- Afín a [[resumen-WL198-fisica-cuantica-explicacion-completa]] (divulgación cuántica en general/ — WL-198 cubre física cuántica completa, WL-767 la computación cuántica en formato corto): cableados bidireccionalmente en la consolidación del tramo 108. Sin página de computación cuántica dedicada — umbral ≥2 no alcanzado (WL-767 es la única fuente del tema).
 - Garbiñeos ASR normalizados solo aquí: qubit por «Cubits/Cubics», passkeys por «pask».
