@@ -1,6 +1,6 @@
 # WL-766 — OTRAS 30 PÁGINAS WEB ÚTILES Y GRATIS QUE NO CONOCÍAS (SIN INSTALAR NADA) (Ebm Informatica)
 
-- **Fuente original**: `raw/wl/tramo-108/2026-11-23-otras-30-paginas-web-utiles-y-gratis-que-no-conocias-sin-instalar-nada.md` ([YouTube](https://www.youtube.com/watch?v=YRUklZKKvtM))
+- **Fuente original**: `raw/general/2026-11-23-otras-30-paginas-web-utiles-y-gratis-que-no-conocias-sin-instalar-nada.md` ([YouTube](https://www.youtube.com/watch?v=YRUklZKKvtM))
 - **Canal**: Ebm Informatica (1.ª fuente en la wiki — tutorial de informática básica en español; el propio video cierra con una ronda de promoción de sus otros dos canales, Brumas del pasado y Yassu Render, excluida de la síntesis)
 - **Publicado**: 2026-11-23 · **Duración**: 37:14 · **Idioma**: es (ASR, garbiñeo señalado: el nombre del canal aparece como «Beme Informática»)
 - **Tramo**: 108 (relevo 1) · **Ingesta**: 2026-11-24

@@ -1,6 +1,6 @@
 # WL-768 — Cómo hacer que DISFRUTEN de hablar contigo (Arturo Morón)
 
-- **Fuente original**: `raw/wl/tramo-108/2026-10-05-como-hacer-que-disfruten-de-hablar-contigo.md` ([YouTube](https://www.youtube.com/watch?v=9Jneu7b-kio))
+- **Fuente original**: `raw/desarrollo-personal/2026-10-05-como-hacer-que-disfruten-de-hablar-contigo.md` ([YouTube](https://www.youtube.com/watch?v=9Jneu7b-kio))
 - **Canal**: Arturo Morón (1.ª fuente en la wiki — coaching de interacción social/seducción con interacciones reales filmadas en calle)
 - **Publicado**: 2026-10-05 · **Duración**: 15:28 · **Idioma**: es (ASR, sin garbiñeos relevantes)
 - **Tramo**: 108 (relevo 1) · **Ingesta**: 2026-11-24

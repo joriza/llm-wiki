@@ -1,6 +1,6 @@
 # WL-767 — ¿Cómo Funciona una Computadora Cuántica y un Qubit? En Simple (SoyFinantech)
 
-- **Fuente original**: `raw/wl/tramo-108/2026-11-24-como-funciona-una-computadora-cuantica-y-un-qubit-en-simple.md` ([YouTube](https://www.youtube.com/watch?v=-Miqi060k9c))
+- **Fuente original**: `raw/general/2026-11-24-como-funciona-una-computadora-cuantica-y-un-qubit-en-simple.md` ([YouTube](https://www.youtube.com/watch?v=-Miqi060k9c))
 - **Canal**: SoyFinantech (1.ª fuente en la wiki — divulgación tecnología-financiera; cierra derivando a un «reportaje en Kia News» externo, señalado como autopromoción excluida)
 - **Publicado**: 2026-11-24 · **Duración**: 03:21 · **Idioma**: es (ASR, garbiñeos señalados: «Cubits/Cubics» = qubits, «pask» = passkeys, «Soy Finantec» = SoyFinantech)
 - **Tramo**: 108 (relevo 1) · **Ingesta**: 2026-11-24

@@ -1,6 +1,6 @@
 # WL-769 — 🚀 14 Aplicaciones Docker que Puedes Instalar en Tu Propio Servidor (DanyCode)
 
-- **Fuente original**: `raw/wl/tramo-108/2026-09-30-14-aplicaciones-docker-que-puedes-instalar-en-tu-propio-servidor.md` ([YouTube](https://www.youtube.com/watch?v=lRtugzugiCk))
+- **Fuente original**: `raw/self-hosting/2026-09-30-14-aplicaciones-docker-que-puedes-instalar-en-tu-propio-servidor.md` ([YouTube](https://www.youtube.com/watch?v=lRtugzugiCk))
 - **Canal**: DanyCode (1.ª fuente en la wiki — divulgación técnica/self-hosting en español; el título promete 14 aplicaciones pero el video cierra a las 10, las 4 restantes quedan para el siguiente episodio de la serie — parte 1/2, señalado)
 - **Publicado**: 2026-09-29 · **Duración**: 08:04 · **Idioma**: es (ASR, garbiñeo señalado: «Peter actil» = Pterodactyl)
 - **Tramo**: 108 (relevo 1) · **Ingesta**: 2026-11-24

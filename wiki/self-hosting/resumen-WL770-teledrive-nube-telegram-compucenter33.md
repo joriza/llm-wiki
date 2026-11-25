@@ -1,6 +1,6 @@
 # WL-770 — La Famosa Nube infinita y Gratis ya se actualizo !! (Compucenter33)
 
-- **Fuente original**: `raw/wl/tramo-108/2026-11-17-la-famosa-nube-infinita-y-gratis-ya-se-actualizo.md` ([YouTube](https://www.youtube.com/watch?v=TgFgSXL_J2M))
+- **Fuente original**: `raw/self-hosting/2026-11-17-la-famosa-nube-infinita-y-gratis-ya-se-actualizo.md` ([YouTube](https://www.youtube.com/watch?v=TgFgSXL_J2M))
 - **Canal**: Compucenter33 (1.ª fuente en la wiki — tutoriales informática en español rioplatense; video-secuela de uno previo del propio canal con 126.000 vistas que no está en la wiki)
 - **Publicado**: 2026-11-17 · **Duración**: 11:12 · **Idioma**: es (ASR, garbiñeos señalados: «Sonforce/Sonforce Teledrive» = SourceForge, «parsión» = partición del archivo, «el fin de Google Drive» = el fin de Google Drive)
 - **Tramo**: 108 (relevo 1) · **Ingesta**: 2026-11-24
