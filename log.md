@@ -5230,3 +5230,6 @@ Ingesta 4/5 del relevo 1 del tramo 108 (índice 3 del cache de 17). Raw intacto 
 
 ## [2026-11-24] ingesta | WL-770 — La Famosa Nube infinita y Gratis ya se actualizo !! (Compucenter33)
 Ingesta 5/5 del relevo 1 del tramo 108 (índice 4 del cache de 17). Raw intacto → `raw/wl/tramo-108/2026-11-17-la-famosa-nube-infinita-y-gratis-ya-se-actualizo.md`; resumen → `wiki/wl/tramo-108/resumen-WL770-teledrive-nube-telegram-compucenter33.md`; fila en index.md. TeleDrive actualizado: Arch/Linux universal, login QR vía Telegram, 2 GB por archivo (workaround WinRAR); advertencias honestas (no datos sensibles, código auditable); título inflado «infinita» señalado y riesgo ToS de Telegram anotado. Compucenter33 ×1; garbiñeos «Sonforce»=SourceForge señalados. Cruces [[self-hosting]], WL-734, [[la-etiqueta-miente]]. Commit por fuente.
+
+## [2026-11-24] cierre | Tramo 108 completo (WL-766..770)
+Relevo 1 único: 5 pares útiles, 0 skips nuevos, 0 dedupes; barrido final 17/17 del cache (índices 5-16 saltados por marcadores .done del tramo 107). Salida 45.239.32.215 sin rotar, sin 429; BUDGET-REACHED por contador acumulado resuelto con presupuesto suave sin rotar. Consolidación aplazada anotada en lectura-tramo108.md; sin dominios nuevos ni candidatas a baja.
