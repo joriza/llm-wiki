@@ -5,7 +5,8 @@
 | **Canal** | Alejandro Sahuquillo |
 | **Fecha del vídeo** | 2026-11-06 |
 | **Duración** | 51:43 |
-| **Raw** | [raw/wl/tramo-110/2026-11-06-pase-7-anos-descifrando-el-sistema-operativo-de-elon-musk.md](../../raw/wl/tramo-110/2026-11-06-pase-7-anos-descifrando-el-sistema-operativo-de-elon-musk.md) |
+| **Raw** | [raw/historia-informatica/2026-11-06-pase-7-anos-descifrando-el-sistema-operativo-de-elon-musk.md](../../raw/historia-informatica/2026-11-06-pase-7-anos-descifrando-el-sistema-operativo-de-elon-musk.md) |
+| **Dominio definitivo** | `historia-informatica` (consolidación T37, tramo 110) |
 
 ## Qué trata
 

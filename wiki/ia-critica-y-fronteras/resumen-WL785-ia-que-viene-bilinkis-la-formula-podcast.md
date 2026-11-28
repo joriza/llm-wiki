@@ -5,7 +5,8 @@
 | **Canal** | La Fórmula Podcast (Mili Hadad) |
 | **Fecha** | 2026-11-27 |
 | **Duración** | 52:01 |
-| **Raw** | [raw/wl/tramo-110/2026-11-27-la-ia-que-viene-lo-bueno-lo-malo-y-lo-que-podemos-hacer-con-santiago-bilinkis-la.md](../../raw/wl/tramo-110/2026-11-27-la-ia-que-viene-lo-bueno-lo-malo-y-lo-que-podemos-hacer-con-santiago-bilinkis-la.md) |
+| **Raw** | [raw/ia-critica-y-fronteras/2026-11-27-la-ia-que-viene-lo-bueno-lo-malo-y-lo-que-podemos-hacer-con-santiago-bilinkis-la.md](../../raw/ia-critica-y-fronteras/2026-11-27-la-ia-que-viene-lo-bueno-lo-malo-y-lo-que-podemos-hacer-con-santiago-bilinkis-la.md) |
+| **Dominio definitivo** | `ia-critica-y-fronteras` (consolidación T37, tramo 110) |
 
 ## Qué trata
 

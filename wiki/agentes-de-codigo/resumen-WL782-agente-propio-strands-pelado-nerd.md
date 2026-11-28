@@ -5,7 +5,8 @@
 | **Canal** | Pelado Nerd |
 | **Fecha del vídeo** | 2026-10-20 |
 | **Duración** | 19:27 |
-| **Raw** | [raw/wl/tramo-110/2026-10-20-crear-un-agente-ia-es-facil.md](../../raw/wl/tramo-110/2026-10-20-crear-un-agente-ia-es-facil.md) |
+| **Raw** | [raw/agentes-de-codigo/2026-10-20-crear-un-agente-ia-es-facil.md](../../raw/agentes-de-codigo/2026-10-20-crear-un-agente-ia-es-facil.md) |
+| **Dominio definitivo** | `agentes-de-codigo` (consolidación T37, tramo 110) |
 
 ## Qué trata
 

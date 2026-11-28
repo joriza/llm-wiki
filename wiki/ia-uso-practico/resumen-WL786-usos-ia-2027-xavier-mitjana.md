@@ -5,7 +5,8 @@
 | **Canal** | Xavier Mitjana |
 | **Fecha del vídeo** | 2026-11-22 |
 | **Duración** | 18:32 |
-| **Raw** | [raw/wl/tramo-110/2026-11-22-asi-se-usa-la-ia-en-2027-15-usos-alucinantes-que-casi-nadie-conoce.md](../../raw/wl/tramo-110/2026-11-22-asi-se-usa-la-ia-en-2027-15-usos-alucinantes-que-casi-nadie-conoce.md) |
+| **Raw** | [raw/ia-uso-practico/2026-11-22-asi-se-usa-la-ia-en-2027-15-usos-alucinantes-que-casi-nadie-conoce.md](../../raw/ia-uso-practico/2026-11-22-asi-se-usa-la-ia-en-2027-15-usos-alucinantes-que-casi-nadie-conoce.md) |
+| **Dominio definitivo** | `ia-uso-practico` (consolidación T37, tramo 110) |
 
 ## Qué trata
 

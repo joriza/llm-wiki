@@ -5,7 +5,8 @@
 | **Canal** | Jorge Marfil |
 | **Fecha del vídeo** | 2026-11-28 |
 | **Duración** | 41:08 |
-| **Raw** | [raw/wl/tramo-110/2026-11-28-ejecuta-modelos-llm-enormes-en-tu-portatil-patata-airllm.md](../../raw/wl/tramo-110/2026-11-28-ejecuta-modelos-llm-enormes-en-tu-portatil-patata-airllm.md) |
+| **Raw** | [raw/ia-local/2026-11-28-ejecuta-modelos-llm-enormes-en-tu-portatil-patata-airllm.md](../../raw/ia-local/2026-11-28-ejecuta-modelos-llm-enormes-en-tu-portatil-patata-airllm.md) |
+| **Dominio definitivo** | `ia-local` (consolidación T37, tramo 110) |
 
 ## Qué trata
 

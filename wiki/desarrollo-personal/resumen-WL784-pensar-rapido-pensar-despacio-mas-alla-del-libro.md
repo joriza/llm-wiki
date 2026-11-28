@@ -5,7 +5,8 @@
 | **Canal** | Más allá del libro |
 | **Fecha del vídeo** | 2026-11-26 |
 | **Duración** | 22:53 |
-| **Raw** | [raw/wl/tramo-110/2026-11-27-por-que-tomamos-malas-decisiones-creyendo-tener-razon-pensar-rapido-pensar-despa.md](../../raw/wl/tramo-110/2026-11-27-por-que-tomamos-malas-decisiones-creyendo-tener-razon-pensar-rapido-pensar-despa.md) |
+| **Raw** | [raw/desarrollo-personal/2026-11-27-por-que-tomamos-malas-decisiones-creyendo-tener-razon-pensar-rapido-pensar-despa.md](../../raw/desarrollo-personal/2026-11-27-por-que-tomamos-malas-decisiones-creyendo-tener-razon-pensar-rapido-pensar-despa.md) |
+| **Dominio definitivo** | `desarrollo-personal` (consolidación T37, tramo 110) |
 
 ## Qué trata
 
