@@ -3,7 +3,7 @@
 - **Tipo**: página de concepto.
 - **Dominio**: `educacion-ia/` (bienestar adolescente — pantallas/niños, dentro del alcance del dominio).
 - **Creada**: 2026-11-24 (consolidación T25, tramo 105 — umbral ≥3 superado: las tres fuentes llegaron consecutivas en la cabeza de la cola WL del usuario).
-- **Fuentes**: [[resumen-WL713-adiccion-pantallas-cerebro-instituto-para-padres]] (WL-713, la versión neurocientífica con fuentes nombradas) · [[resumen-WL714-pantallas-cerebro-ninos-rafa-guerrero]] (WL-714, la versión clínica) · [[resumen-WL715-uso-pantallas-ninos-jairo-gomez-pediatra]] (WL-715, la versión pediátrica-oficial).
+- **Fuentes**: [[resumen-WL713-adiccion-pantallas-cerebro-instituto-para-padres]] (WL-713, la versión neurocientífica con fuentes nombradas) · [[resumen-WL714-pantallas-cerebro-ninos-rafa-guerrero]] (WL-714, la versión clínica) · [[resumen-WL715-uso-pantallas-ninos-jairo-gomez-pediatra]] (WL-715, la versión pediátrica-oficial) · [[resumen-WL785-ia-que-viene-bilinkis-la-formula-podcast]] (WL-785, la versión societal/adulto joven — consolidación T37).
 - **Ver también**: [[atencion-secuestrada]] (la economía de la atención, versión adulta del mismo mecanismo) · [[educacion-evidencia-vs-institucion]] (el diagnóstico exprés que etiqueta el síntoma) · [[educacion-ia-hub]].
 
 ## El concepto
@@ -28,3 +28,7 @@ La aparente disputa de cifras (nada antes de 2 / nada antes de 6 / «sin cifras 
 ## Página de concepto única
 
 Contenido transversal (neurociencia, pediatría, clínica, crianza): vive solo aquí; los dominios enlazan con `[[pantallas-y-educacion]]`.
+
+## WL-785: la cuarta voz — del niño al adulto joven (2026-11-28, T37)
+
+La entrevista de Bilinkis en La Fórmula Podcast ([[resumen-WL785-ia-que-viene-bilinkis-la-formula-podcast]], ia-critica-y-fronteras/) extiende el concepto más allá de la infancia: ~la mitad de los jóvenes latinoamericanos 18-24 con tristeza/ansiedad persistente (experimento sociológico sin grupo de control — señalado), el **consumo digital como dieta** («la dieta de contenido afecta la salud mental como la comida afecta la física»), el espejo distorsionado de las redes y la dismorfia del filtro propio (cruce directo con [[comparacion-social]]), las señales pequeñas (el cine que pide «bájenle el brillo», audios a 1,5×, Argentina pasando de subtítulos a doblaje) y el precedente TikTok: el algoritmo que ya no respeta a quién seguís anticipa el contenido **generado por la propia plataforma** para que no puedas parar. Mismo mecanismo de [[atencion-secuestrada]], ahora con el adulto joven como víctima — la gradación de pautas de las tres voces originales se convierte en continuidad vital: lo que a los 2 años es «el nuevo chupete», a los 20 es la dieta emocional por defecto.
